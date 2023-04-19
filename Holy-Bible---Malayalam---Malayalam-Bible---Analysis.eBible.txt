@@ -1,0 +1,533 @@
+# File Name: Holy-Bible---Holy-Bible---Malayalam---Malayalam-Bible---Analysis.txt
+# File Size: 102118      
+# File Date: 04/18/2023 14:22:22
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2023
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: മലയാളം ബൈബിള്‍
+# Bible Name English: Malayalam Bible
+# Bible Language: മലയാളം
+# Bible Language English: Malayalam
+# Bible Copyright Format: CC Attribution ShareAlike 4.0, 2018-2023
+# Bible Copyright Text: CC Attribution ShareAlike 4.0
+# Bible Source: Bridge Communication Systems
+# Bible Source Version: 4/13/2023
+# Bible Source Link: https://ebible.org/details.php?id=mal
+# Bible Source Year: 2017
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Malayalam---Malayalam-Bible	ENCODING	Source	Holy-Bible---Malayalam---Malayalam-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Malayalam---Malayalam-Bible	ENCODING	Aionian	Holy-Bible---Malayalam---Malayalam-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Malayalam---Malayalam-Bible	BYTES	Source	bytes / chars	11411528 / 4322362 (multi-byte)	NOTICE
+Malayalam---Malayalam-Bible	BYTES	Aionian	bytes / chars	11632086 / 4541571 (multi-byte)	NOTICE
+Malayalam---Malayalam-Bible	BYTES	SourceClean	bytes / chars	11410822 / 4321656 (multi-byte)	NOTICE
+Malayalam---Malayalam-Bible	BYTES	AionianClean	bytes / chars	11627345 / 4537992 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 263
+Malayalam---Malayalam-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Malayalam---Malayalam-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Malayalam---Malayalam-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Malayalam---Malayalam-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Malayalam---Malayalam-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Malayalam---Malayalam-Bible	AIONIAN	Aionian	aionian-verses	263	NOTICE
+Malayalam---Malayalam-Bible	AIONIAN	Aionian	tested-verses	263	NOTICE
+
+# UNPRINTABLE
+Malayalam---Malayalam-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Malayalam---Malayalam-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Malayalam---Malayalam-Bible	UNICODE	Summary	(-)Orginal	33	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Summary	(+)Aionian	56	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (G)	2338	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (E)	10920	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : ( )	444104	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (1)	30475	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (:)	37212	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (.)	29351	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (2)	21700	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (3)	12272	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (4)	9171	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (5)	7058	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (,)	13415	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (6)	6476	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (7)	5928	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (8)	5785	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (9)	5639	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (0)	5479	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (()	81	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : ())	81	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (-)	806	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (X)	1212	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (O)	6689	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (L)	2579	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (V)	1264	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (U)	3506	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (M)	4062	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (T)	2759	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (D)	1957	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (J)	4976	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (S)	6394	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (R)	4159	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (A)	9140	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (H)	4110	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source(-)	Basic Latin : (P)	3879	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130751	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42474	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124380	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	2350	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	10922	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	387494	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	29263	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31130	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17197	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20047	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10288	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	13425	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10743	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	6120	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7467	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7872	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9302	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (()	416	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : ())	416	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	805	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	6460	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	127	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	94	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	148	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	67	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	6690	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2585	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1263	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3508	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	4060	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2761	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	1959	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4975	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4155	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	9148	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	4121	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	3884	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	202	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	200	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	16	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	16	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	113	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	248	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	169	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	6	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	2	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (G)	2338	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (E)	10920	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (N)	3687	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : ( )	444104	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (1)	30475	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (:)	37212	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ആ)	12303	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ദ)	31115	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ി)	224652	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (യ)	137845	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൽ)	31745	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൈ)	7109	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (വ)	127933	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ം)	89854	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ക)	215975	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ാ)	138454	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ശ)	25568	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ു)	231852	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഭ)	8834	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൂ)	15517	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (മ)	74122	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (സ)	40299	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൃ)	4486	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഷ)	13843	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (്)	501798	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ട)	101989	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ച)	61013	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (.)	29351	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (\n)	31094	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (2)	21700	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ര)	113040	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (പ)	93924	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഹ)	22810	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ത)	160510	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ന)	266751	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (;)	20737	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഴ)	9308	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ീ)	20046	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (െ)	116403	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഇ)	10092	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൾ)	16625	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഉ)	7696	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ണ)	32929	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (റ)	53679	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ള)	45565	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൻ)	26679	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ർ)	24639	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൊ)	14737	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (3)	12272	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	General Punctuation : (“)	4811	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	General Punctuation : (”)	4552	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (എ)	29606	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ല)	67989	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (4)	9171	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (േ)	38602	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (5)	7058	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ധ)	10318	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (,)	13415	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഒ)	7478	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (6)	6476	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ങ)	47964	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (അ)	61372	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (7)	5928	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (8)	5785	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (9)	5639	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഥ)	3782	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (0)	5479	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഫ)	2543	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഋ)	15	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഞ)	27786	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ജ)	12153	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഗ)	10764	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ോ)	55706	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഏ)	2699	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഊ)	355	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	General Punctuation : (‌)	362	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഢ)	137	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൗ)	671	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (?)	2631	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	General Punctuation : (‍)	974	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഈ)	2687	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഖ)	2124	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ബ)	10139	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഓ)	1697	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (!)	399	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഛ)	511	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഡ)	551	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഃ)	203	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഠ)	1181	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഘ)	689	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (()	81	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : ())	81	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	General Punctuation : (‘)	828	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	General Punctuation : (’)	687	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൺ)	280	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (-)	806	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഐ)	23	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൌ)	550	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (X)	1212	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (O)	6689	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഔ)	27	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (L)	2579	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (V)	1264	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (U)	3506	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (M)	4062	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (T)	2759	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (D)	1957	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (J)	4976	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (S)	6394	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (R)	4159	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (A)	9140	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ൎ)	9	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (K)	2686	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (I)	3278	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (C)	4317	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (H)	4110	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (Z)	1817	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (B)	1450	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Basic Latin : (P)	3879	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	Malayalam : (ഝ)	2	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	General Punctuation : (—)	16	NOTICE
+Malayalam---Malayalam-Bible	UNICODE	Source	General Punctuation : (–)	1	NOTICE
+
+# VERSIFICATION
+Malayalam---Malayalam-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Malayalam---Malayalam-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Malayalam---Malayalam-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-048	WARN
+Malayalam---Malayalam-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-029	WARN
+Malayalam---Malayalam-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Malayalam---Malayalam-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Malayalam---Malayalam-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Malayalam---Malayalam-Bible	VERSIFICATION	Summary	missing	7	WARN
+Malayalam---Malayalam-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Malayalam---Malayalam-Bible	ENCLOSURES	Source	()	81 / 81	NOTICE
+Malayalam---Malayalam-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Malayalam---Malayalam-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Malayalam---Malayalam-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Malayalam---Malayalam-Bible	ENCLOSURES	Aionian	()	416 / 416	NOTICE
+Malayalam---Malayalam-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Malayalam---Malayalam-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Malayalam---Malayalam-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Malayalam---Malayalam-Bible	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Malayalam---Malayalam-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:5 ആദാമിന്റെ ആയുഷ്കാലം ആകെ 930 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	GEN 5:6 ശേത്തിന് 105 വയസ്സായപ്പോൾ അവൻ ഏനോശിനെ ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	7	GEN 5:7 ഏനോശിനെ ജനിപ്പിച്ച ശേഷം ശേത്ത് 807 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	2	GEN 5:8 ശേത്തിന്റെ ആയുഷ്കാലം ആകെ 912 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:9 ഏനോശിന് 90 വയസ്സായപ്പോൾ അവൻ കേനാനു ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	GEN 5:10 കേനാനെ ജനിപ്പിച്ച ശേഷം എനോശ് 815 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	GEN 5:11 ഏനോശിന്റെ ആയുഷ്കാലം ആകെ 905 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:12 കേനാന് 70 വയസ്സായപ്പോൾ അവൻ മഹലലേലിനെ ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:13 മഹലലേലിനെ ജനിപ്പിച്ച ശേഷം കേനാൻ 840 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:14 കേനാന്റെ ആയുഷ്കാലം ആകെ 910 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	GEN 5:15 മഹലലേലിന് 65 വയസ്സായപ്പോൾ അവൻ യാരെദിനു ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:16 യാരെദിനെ ജനിപ്പിച്ച ശേഷം മഹലലേൽ 830 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	GEN 5:17 മഹലലേലിന്റെ ആയുഷ്കാലം ആകെ 895 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	2	GEN 5:18 യാരെദിന് 162 വയസ്സായപ്പോൾ അവൻ ഹാനോക്കിനെ ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:19 ഹാനോക്കിനെ ജനിപ്പിച്ച ശേഷം യാരെദ് 800 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാരെയും പുത്രിമാരെയും ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	2	GEN 5:20 യാരെദിന്റെ ആയുഷ്കാലം ആകെ 962 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	GEN 5:21 ഹാനോക്കിന് 65 വയസ്സായപ്പോൾ അവൻ മെഥൂശലഹിനെ ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:22 മെഥൂശലഹിനെ ജനിപ്പിച്ച ശേഷം ഹാനോക്ക് 300 വർഷം ദൈവത്തോടുകൂടെ നടക്കുകയും പുത്രന്മാരെയും പുത്രിമാരെയും ജനിപ്പിക്കുകയും ചെയ്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	GEN 5:23 ഹാനോക്കിന്റെ ആയുഷ്കാലം ആകെ 365 വർഷമായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	7	GEN 5:25 മെഥൂശലഹിന് 187 വയസ്സായപ്പോൾ അവൻ ലാമെക്കിനു ജന്മം നൽകി	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	2	GEN 5:26 ലാമെക്കിനെ ജനിപ്പിച്ച ശേഷം മെഥൂശലഹ് 782 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	9	GEN 5:27 മെഥൂശലഹിന്റെ ആയുഷ്കാലം ആകെ 969 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	2	GEN 5:28 ലാമെക്കിന് 182 വയസ്സായപ്പോൾ അവൻ ഒരു മകനു ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	GEN 5:30 നോഹയെ ജനിപ്പിച്ച ശേഷം ലാമെക്ക് 595 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാരെയും പുത്രിമാരെയും ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	7	GEN 5:31 ലാമെക്കിന്റെ ആയുഷ്കാലം ആകെ 777 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	GEN 5:32 നോഹയ്ക്ക് 500 വയസ്സായശേഷം നോഹ ശേമിനെയും ഹാമിനെയും യാഫെത്തിനെയും ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	1	GEN 18:6 “നീ പറഞ്ഞതുപോലെ ചെയ്യുക” എന്ന് അവർ പറഞ്ഞു. അബ്രാഹാം വേഗത്തിൽ കൂടാരത്തിൽ സാറയുടെ അടുക്കൽ ചെന്നു: “വേഗത്തിൽ ഏകദേശം 21 കിലോഗ്രാം മാവ് എടുത്തു കുഴച്ചു അപ്പമുണ്ടാക്കുക” എന്നു പറഞ്ഞു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	3	EXO 6:28 3 യഹോവ ഈജിപ്റ്റിൽ വച്ച് മോശെയോട് അരുളിച്ചെയ്ത ദിവസം: “ഞാൻ യഹോവ ആകുന്നു;	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EXO 12:40 യിസ്രായേൽ മക്കൾ ഈജിപ്റ്റിൽ കഴിച്ച പരദേശവാസം നാനൂറ്റിമുപ്പത് (430) വർഷമായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EXO 12:41 നാനൂറ്റിമുപ്പത് (430) വർഷം കഴിഞ്ഞിട്ട്, ആ ദിവസം തന്നെ, യഹോവയുടെ ഗണങ്ങൾ ഒക്കെയും ഈജിപ്റ്റിൽ നിന്ന് പുറപ്പെട്ടു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EXO 14:7 വിശേഷപ്പെട്ട അറുനൂറ് രഥങ്ങളും (600) ഈജിപ്റ്റിലെ സകലരഥങ്ങളും അവയ്ക്ക് വേണ്ടുന്ന തേരാളികളെയും കൂട്ടി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EXO 32:28 മോശെ പറഞ്ഞതുപോലെ ലേവ്യർ ചെയ്തു. അന്ന് ഏകദേശം മൂവായിരം (3,000) പേർ വീണു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	NUM 16:16 മോശെ കോരഹിനോട്: “നീയും നിന്റെ അനുയായികളായ ഇരുന്നൂറ്റമ്പതുപേരും (250) നാളെ യഹോവയുടെ സന്നിധിയിൽ വരണം; അഹരോനും അവിടെ ഉണ്ടായിരിക്കും.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	7	JOS 6:26 അക്കാലത്ത് യോശുവ ശപഥം ചെയ്തു: “ഈ യെരിഹോ പട്ടണം പണിയുവാൻ തുനിയുന്ന മനുഷ്യൻ യഹോവയുടെ മുമ്പാകെ ശപിക്കപ്പെട്ടവൻ; അവൻ അതിന്റെ അടിസ്ഥാനമിടുമ്പോൾ അവന്റെ മൂത്തമകൻ നഷ്ടമാകും; അതിന്റെ കവാടങ്ങൾ ഉറപ്പിക്കുമ്പോൾ ഇളയ മകനും നഷ്ടമാകും” എന്ന് പറഞ്ഞു. 27 യഹോവ യോശുവയോടുകൂടെ ഉണ്ടായിരുന്നു; അവന്റെ കീർത്തി ദേശത്ത് എല്ലാടവും പരന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	4	RUT 3:15 നീ പുതച്ചിരിക്കുന്ന പുതപ്പ് കൊണ്ടുവന്നു പിടിക്ക എന്നു അവൻ പറഞ്ഞു. അവൾ അത് പിടിച്ചപ്പോൾ അവൻ 24 കിലോഗ്രാം ബാര്‍ലി അതിൽ അളന്നുകൊടുത്തു; അവൾ പട്ടണത്തിലേക്ക് പോയി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1SA 6:19 ബേത്ത്-ശേമെശ്യർ യഹോവയുടെ പെട്ടകത്തിൽ നോക്കുകകൊണ്ട് യഹോവ അവരെ സംഹരിച്ചു; അവൻ ജനത്തിൽ 5,0070 പേരെ സംഹരിച്ചു. ഇങ്ങനെ യഹോവ ജനത്തിൽ ഒരു മഹാസംഹാരം ചെയ്തതുകൊണ്ട് ജനം വിലപിച്ചു:	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	1SA 20:1 25 അതിനുശേഷം ദാവീദ് രാമയിലെ നയ്യോത്തിൽനിന്നും ഓടി യോനാഥാന്റെ അടുക്കൽ ചെന്നു: “ഞാൻ എന്ത് ചെയ്തു? എന്റെ കുറ്റം എന്ത്? നിന്റെ അപ്പൻ എന്നെ കൊല്ലുവാൻ അന്വേഷിക്കേണ്ടതിന് അവനോട് ഞാൻ ചെയ്ത പാപം എന്ത് എന്നു ചോദിച്ചു?”	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	2	1SA 30:1 22 ദാവീദും അവന്റെ ആളുകളും മൂന്നാംദിവസം സിക്ലാഗിൽ എത്തിയപ്പോൾ അമാലേക്യർ തെക്കെദേശവും സിക്ലാഗും ആക്രമിച്ച് സിക്ലാഗിനെ ജയിച്ച് അതിനെ തീവെച്ച് ചുട്ടുകളഞ്ഞിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	1	1KI 6:26 1 ഓരോ കെരൂബിന്റെയും ഉയരം പത്തുമുഴം തന്നെ ആയിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1KI 9:14 ഹൂരാം ശലോമോന് ഏകദേശം 4,000 കിലോഗ്രാം പൊന്ന് കൊടുത്തയച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1KI 9:28 അവർ ഓഫീരിലേക്ക് ചെന്ന് അവിടെനിന്ന് ഏകദേശം 14,000 കിലോഗ്രാം പൊന്ന് ശലോമോൻരാജാവിന്റെ അടുക്കൽ കൊണ്ടുവന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1KI 10:10 അവൾ രാജാവിന് ഏകദേശം 4,000 കിലോഗ്രാം പൊന്നും അനവധി സുഗന്ധദ്രവ്യങ്ങളും വിലയേറിയ രത്നങ്ങളും കൊടുത്തു; ശെബാരാജ്ഞി ശലോമോൻ രാജാവിന് കൊടുത്തതുപോലെ സുഗന്ധദ്രവ്യങ്ങൾ പിന്നീട് ഒരിക്കലും ലഭിച്ചിട്ടില്ല.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1KI 10:15 ആണ്ടുതോറും കിട്ടിയിരുന്ന പൊന്നിന്റെ തൂക്കം ഏകദേശം 2,300 കിലോഗ്രാം.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1KI 16:24 പിന്നെ അവൻ ശേമെരിനോട് ശമര്യാമല ഏകദേശം 70 കിലോഗ്രാം വെള്ളിക്ക് വാങ്ങി ആ മലമുകളിൽ പട്ടണം പണിതു; താൻ പണിത പട്ടണത്തിന് മലയുടമസ്ഥനായിരുന്ന ശേമെരിന്റെ പേരിൻ പ്രകാരം ശമര്യാ എന്ന് പേരിട്ടു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	4	1KI 20:39 രാജാവ് കടന്ന് പോകുമ്പോൾ അവൻ രാജാവിനോട് വിളിച്ചുപറഞ്ഞത്: “അടിയൻ പടയുടെ മദ്ധ്യത്തിലേക്ക് ചെന്നിരുന്നു; അപ്പോൾ ഒരുത്തൻ എന്റെ അടുക്കൽ ഒരാളെ കൊണ്ടുവന്ന് ‘ഇവനെ സൂക്ഷിക്കേണം; ഇവനെ കാണാതെ പോയാൽ നിന്റെ ജീവൻ അവന്റെ ജീവന് പകരം ഇരിക്കും; അല്ലെങ്കിൽ നീ ഏകദേശം 34 കിലോഗ്രാം വെള്ളി തൂക്കി തരേണ്ടിവരും’ എന്ന് പറഞ്ഞു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	2KI 15:19 അശ്ശൂർ രാജാവായ പൂൽ ദേശത്തെ ആക്രമിച്ചു; പൂൽ, തന്നെ സഹായിക്കേണ്ടതിനും രാജത്വം തനിക്ക് ഉറപ്പിക്കേണ്ടതിനുമായി, മെനഹേം അവന് ഏകദേശം 34,000 കിലോഗ്രാം വെള്ളി കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	2KI 15:20 അശ്ശൂർ രാജാവിന് കൊടുക്കുവാൻ മെനഹേം ഈ പണം യിസ്രായേലിലെ ധനവാന്മാരോട് ഏകദേശം 570 ഗ്രാം വെള്ളിവീതം പിരിച്ചെടുത്തു; അങ്ങനെ അശ്ശൂർ രാജാവ് ദേശത്ത് താമസം ഉറപ്പിക്കാതെ മടങ്ങിപ്പോയി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 7:9 വംശാവലിപ്രകാരം തലമുറതലമുറയായി അവരുടെ പിതൃഭവനങ്ങൾക്ക് തലവന്മാരായി എണ്ണപ്പെട്ട പരാക്രമശാലികൾ ഇരുപതിനായിരത്തി ഇരുനൂറ് പേർ (20, 200).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 7:11 ഇവരെല്ലാവരും യെദീയയേലിന്റെ പുത്രന്മാർ; പിതൃഭവനങ്ങൾക്ക് തലവന്മാരും പരാക്രമശാലികളുമായി യുദ്ധത്തിന് പുറപ്പെടുവാൻ തക്ക പടച്ചേവകർ പതിനേഴായിരത്തി ഇരുനൂറുപേർ (17, 200).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 8:40 ഊലാമിന്റെ പുത്രന്മാർ പരാക്രമശാലികളും വില്ലാളികളും ആയിരുന്നു; അവർക്ക് അനേകം പുത്രന്മാരും പൌത്രന്മാരും ഉണ്ടായിരുന്നു. അവരുടെ സംഖ്യ നൂറ്റമ്പത് (150). ഇവർ എല്ലാവരും ബെന്യാമീന്യസന്തതികൾ.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 9:6 സേരെഹിന്റെ പുത്രന്മാരിൽ യെയൂവേലും അവരുടെ സഹോദരന്മാരുമായ അറുനൂറ്റി തൊണ്ണൂറുപേരും (690)	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	2	1CH 9:22 വാതിൽകാവല്ക്കാരായി നിയമിക്കപ്പെട്ടിരുന്ന ഇവർ ആകെ ഇരുനൂറ്റി പന്ത്രണ്ടുപേർ (212). അവർ തങ്ങളുടെ ഗ്രാമങ്ങളിൽ വംശാവലിപ്രകാരം രേഖപ്പെടുത്തിയിരുന്നു; ദാവീദും ദർശകനായ ശമൂവേലും ആയിരുന്നു അവരെ നിയമിച്ചത്.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 12:30 എഫ്രയീമ്യരിൽ പരാക്രമശാലികളായി തങ്ങളുടെ പിതൃഭവനങ്ങളിൽ പ്രസിദ്ധരായ ഇരുപതിനായിരത്തെണ്ണൂറുപേർ (20, 800).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 12:32 യിസ്രായേൽ കാലത്തിനനുസരിച്ച് എന്ത് ചെയ്യേണം എന്നു അറിവള്ള യിസ്സാകഖായരുടെ തലവന്മാർ ഇരുനൂറുപേർ (200); അവരുടെ സഹോദരന്മാരൊക്കെയും അവരുടെ കല്പനയ്ക്ക് വിധേയരായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 15:5 കെഹാത്യരിൽ പ്രധാനിയായ ഊരീയേലിനെയും അവന്റെ സഹോദരന്മാരായ നൂറ്റിരുപത് (120) പേരെയും	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 15:6 മെരാര്യരിൽ പ്രധാനിയായ അസായാവെയും അവന്റെ സഹോദരന്മാരായ ഇരുനൂറ്റിരുപതുപേരെയും (220)	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 15:7 ഗെർശോമ്യരിൽ പ്രധാനിയായ യോവേലിനെയും അവന്റെ സഹോദരന്മാരായ നൂറ്റിമുപ്പതുപേരെയും (130)	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 15:8 എലീസാഫാന്യരിൽ പ്രധാനിയായ ശെമയ്യാവെയും അവന്റെ സഹോദരന്മാരായ ഇരുനൂറുപേരെയും (200)	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	2	1CH 15:10 ഉസ്സീയേല്യരിൽ പ്രധാനിയായ അമ്മീനാദാബിനെയും അവന്റെ സഹോദരന്മാരായ നൂറ്റിപ്പന്ത്രണ്ടുപേരെയും (112) ആണ് ദാവീദ് കൂട്ടിവരുത്തിയത്.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	8	1CH 16:38 അവരോടൊപ്പം ഒബേദ്-ഏദോമിനെയും അവരുടെ സഹോദരന്മാരായ അറുപത്തെട്ടു (68) പേരെയും യഹോവയുടെ പെട്ടകത്തിന്മുമ്പിലും യെദൂഥൂന്റെ മകനായ ഓബേദ്-ഏദോമിനെയും ഹോസയെയും വാതിൽകാവല്ക്കാരായും നിർത്തി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:1 യിസ്രായേൽപുത്രന്മാർ ആളുകളുടെ എണ്ണത്തിനനുസരിച്ച് പിതൃഭവനത്തലവന്മാരും സഹസ്രാധിപന്മാരും ശതാധിപന്മാരും അവരുടെ പ്രമാണികളും രാജാവിന് സേവ ചെയ്തുപോന്നു. അവർ വർഷത്തിൽ എല്ലാമാസങ്ങളിലും വരികയും പോകയും ചെയ്തിരുന്നു. ഓരോ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000) ഉണ്ടായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:2 ഒന്നാം മാസത്തേക്കുള്ള ഒന്നാം കൂറിന് മേൽവിചാരകൻ സബ്ദീയേലിന്‍റെ മകൻ യാശോബെയാം: അവന്റെ കൂറിൽ ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:4 രണ്ടാം മാസത്തേക്കുള്ള കൂറിന് അഹോഹ്യനായ ദോദായി മേൽവിചാരകനും അവന്റെ കൂറിൽ മിക്ലോത്ത് പ്രമാണിയും ആയിരുന്നു. അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:5 മൂന്നാം മാസത്തേക്കുള്ള മൂന്നാമത്തെ സേനാപതി മഹാപുരോഹിതനായ യെഹോയാദയുടെ മകൻ ബെനായാവ; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:7 നാലാം മാസത്തേക്കുള്ള നാലാമത്തവൻ യോവാബിന്റെ സഹോദരനായ അസാഹേലും അവന്റെ ശേഷം അവന്റെ മകനായ സെബദ്യാവും ആയിരുന്നു; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:8 അഞ്ചാം മാസത്തേക്കുള്ള അഞ്ചാമത്തവൻ യിസ്രാഹ്യനായ ശംഹൂത്ത്; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:9 ആറാം മാസത്തേക്കുള്ള ആറാമത്തവൻ തെക്കോവ്യനായ ഇക്കേശിന്റെ മകൻ ഈരാ; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:10 ഏഴാം മാസത്തേക്കുള്ള ഏഴാമത്തവൻ എഫ്രയീമ്യരിൽ പെലോന്യനായ ഹേലെസ്; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:11 എട്ടാം മാസത്തേക്കുള്ള എട്ടാമത്തവൻ സേരെഹ്യരിൽ ഹൂശാത്യനായ സിബ്ബെഖായി; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:12 ഒമ്പതാം മാസത്തേക്കുള്ള ഒമ്പതാമത്തവൻ ബെന്യാമീന്യരിൽ അനാഥോഥ്യനായ അബീയേസെർ; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:13 പത്താം മാസത്തേക്കുള്ള പത്താമത്തവൻ സേരെഹ്യരിൽ നെതോഫാത്യനായ മഹരായി; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:14 പതിനൊന്നാം മാസത്തേക്കുള്ള പതിനൊന്നാമത്തവൻ എഫ്രയീമിന്റെ പുത്രന്മാരിൽ പിരാഥോന്യനായ ബെനായാവ്; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 27:15 പന്ത്രണ്ടാം മാസത്തേക്കുള്ള പന്ത്രണ്ടാമത്തവൻ ഒത്നീയേലിൽനിന്നുത്ഭവിച്ച നെതോഫാത്യനായ ഹെൽദായി; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 29:4 ആലയഭിത്തികളെ, പൊന്നുകൊണ്ടു വേണ്ടത് പൊന്നുകൊണ്ടും, വെള്ളികൊണ്ടു വേണ്ടത് വെള്ളികൊണ്ടും പൊതിയുവാനും, അങ്ങനെ കരകൗശലപ്പണിക്കാരുടെ എല്ലാ പണിയ്ക്കുവേണ്ടിയും ഓഫീർപൊന്നായി മൂവായിരം (3,000) താലന്ത് പൊന്നും ഏഴായിരം (7,000) താലന്ത് ശുദ്ധീകരിച്ച വെള്ളിയും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 29:7 ദൈവാലയത്തിന്റെ വേലയ്ക്കായിട്ട് അവർ 5,000 താലന്ത് പൊന്നും, 10,000 തങ്കക്കാശും 10,000 താലന്ത് വെള്ളിയും 18,000 താലന്ത് താമ്രവും 10,0000 താലന്ത് ഇരുമ്പും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	1CH 29:21 പിന്നെ അവർ യഹോവയ്ക്കു് ഹനനയാഗങ്ങളെ അർപ്പിച്ചു; പിറ്റെന്നാൾ യഹോവയ്ക്കു് ഹോമയാഗമായി ആയിരം (1,000) കാളയെയും ആയിരം ആട്ടുകൊറ്റനെയും ആയിരം കുഞ്ഞാടിനെയും അവയുടെ പാനീയയാഗങ്ങളെയും എല്ലാ യിസ്രായേലിനുംവേണ്ടി അനവധി ഹനനയാഗങ്ങളെയും കഴിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	2CH 17:15 അവനുശേഷം യെഹോഹാനാൻ പ്രഭു, അവനോടുകൂടെ രണ്ടുലക്ഷത്തി എൺപതിനായിരം (28,0000) പേർ;	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	2CH 17:16 അവനുശേഷം മനഃപൂർവ്വമായി യഹോവയ്ക്ക് ഭരമേല്പിച്ചവനായ സിക്രിയുടെ മകൻ അമസ്യാവ്, അവനോടുകൂടെ രണ്ടുലക്ഷം (20,0000) പരാക്രമശാലികൾ;	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EZR 2:69 അവർ തങ്ങളുടെ പ്രാപ്തിപോലെ ഭണ്ഡാരത്തിലേക്ക് 61,000 സ്വർണ്ണനാണയങ്ങളും അയ്യായിരം മാനെ വെള്ളിയും നൂറ് പുരോഹിതവസ്ത്രവും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EZR 7:21 അർത്ഥഹ്ശഷ്ടാരാജാവായ നാം നദിക്കു അക്കരെയുള്ള സകല ഭണ്ഡാരവിചാരകന്മാർക്കും കല്പന കൊടുക്കുന്നതെന്തെന്നാൽ: സ്വർഗ്ഗത്തിലെ ദൈവത്തിന്റെ ന്യായപ്രമാണത്തിൽ ശാസ്ത്രിയായ എസ്രാപുരോഹിതൻ ആവശ്യപ്പെടുന്നതനുസരിച്ച് ഏകദേശം 3,400 കിലോഗ്രാം വെള്ളി, ഏകദേശം 1,000 കിലോഗ്രാം ഗോതമ്പ്, 2,000 ലിറ്റര്‍ വീഞ്ഞ്, 2,000 ലിറ്റര്‍ എണ്ണ	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	EZR 8:27 ഏകദേശം 8. 5 കിലോഗ്രാം സ്വര്‍ണ്ണ നാണയങ്ങള്‍ വിലയുള്ള ഇരുപത് പൊൻപാത്രങ്ങളും, പൊന്നുപോലെ വിലയുള്ള മിനുക്കിയ താമ്രംകൊണ്ടുള്ള രണ്ട് പാത്രങ്ങളും തൂക്കിക്കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	5	NEH 7:70 പിതൃഭവനത്തലവന്മാരിൽ ചിലർ വേലയ്ക്കായിട്ട് ദാനങ്ങൾ കൊടുത്തു; ദേശാധിപതി ഏകദേശം 8. 5 കിലോഗ്രാം സ്വര്‍ണ്ണവും അമ്പത് കിണ്ണങ്ങളും അഞ്ഞൂറ്റിമുപ്പത് പുരോഹിതവസ്ത്രവും ഭണ്ഡാരത്തിലേക്ക് കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	NEH 7:71 പിതൃഭവനത്തലവന്മാരിൽ ചിലർ വേലയ്ക്കുവേണ്ടി ഭണ്ഡാരത്തിലേക്ക് 170 കിലോഗ്രാം സ്വര്‍ണവും ഏകദേശം 1,200 കിലോഗ്രാം വെള്ളിയും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	NEH 7:72 ശേഷമുള്ള ജനം ഏകദേശം 170 കിലോഗ്രാം സ്വര്‍ണവും 1,100 കിലോഗ്രാം വെള്ളിയും അറുപത്തേഴ് പുരോഹിതവസ്ത്രവും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	4	NEH 10:33 പാപയാഗങ്ങൾക്കും ഞങ്ങളുടെ ദൈവത്തിന്റെ ആലയത്തിലെ എല്ലാ വേലയ്ക്കും വേണ്ടി ആണ്ടുതോറും ഏകദേശം 4 ഗ്രാം വെള്ളി കൊടുക്കാമെന്നും ഞങ്ങൾ ഒരു ചട്ടം നിയമിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	7	EST 1:1 അഹശ്വേരോശിന്റെ ഭരണകാലത്ത് ഹിന്ദുദേശം മുതൽ കൂശ്‌വരെ നൂറ്റിരുപത്തേഴ് (127) സംസ്ഥാനങ്ങൾ വാണിരുന്നു	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EST 1:4 അങ്ങനെ അവൻ തന്റെ രാജകീയമഹത്വത്തിന്റെ ഐശ്വര്യവും, തന്റെ മഹിമാധിക്യത്തിന്റെ പ്രതാപവും കുറേനാൾ, നൂറ്റെൺപത് (180) ദിവസം പ്രദർശിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EST 3:9 രാജാവിന് സമ്മതമുണ്ടെങ്കിൽ അവരെ നശിപ്പിക്കേണ്ടതിന് സന്ദേശം എഴുതി അയക്കേണം; എന്നാൽ ഞാൻ കാര്യവിചാരകന്മാരുടെ കയ്യിൽ പതിനായിരം (10,000) താലന്ത് വെള്ളി രാജാവിന്റെ ഭണ്ഡാരത്തിലേക്ക് കൊടുത്തയയ്ക്കാം” എന്ന് പറഞ്ഞു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EST 9:6 ശൂശൻ രാജധാനിയിൽ യെഹൂദന്മാർ അഞ്ഞൂറുപേരെ (500) കൊന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EST 9:12 അപ്പോൾ രാജാവ് എസ്ഥേർ രാജ്ഞിയോട്: “യെഹൂദന്മാർ ശൂശൻ രാജധാനിയിൽ അഞ്ഞൂറുപേരെയും (500) ഹാമാന്റെ പത്ത് പുത്രന്മാരെയും കൊന്നു; രാജാവിന്റെ മറ്റു സംസ്ഥാനങ്ങളിൽ അവർ എന്തായിരിക്കും ചെയ്തിരിക്കുക? ഇനിയും നിന്റെ അപേക്ഷ എന്താണ്? അത് നിനക്ക് ലഭിക്കും; ഇനിയും നിന്റെ ആഗ്രഹം എന്ത്? അത് നിവർത്തിച്ചുതരാം” എന്ന് പറഞ്ഞു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	EST 9:16 രാജാവിന്റെ സംസ്ഥാനങ്ങളിലെ ശേഷം യെഹൂദന്മാർ ആദാർമാസം പതിമൂന്നാം തീയതി ഒന്നിച്ചുകൂടി തങ്ങളുടെ ജീവരക്ഷയ്ക്കായി പൊരുതി, ശത്രുക്കളുടെ കയ്യിൽനിന്ന് ഒഴിഞ്ഞ് വിശ്രമം പ്രാപിച്ചു. അവർ തങ്ങളുടെ വൈരികളിൽ എഴുപത്തയ്യായിരം പേരെ (75,000) കൊന്നുകളഞ്ഞു എങ്കിലും കവർച്ച ചെയ്തില്ല.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	7	EST 9:31 അവൻ അഹശ്വേരോശിന്റെ രാജ്യത്തിലുൾപ്പെട്ട നൂറ്റിരുപത്തേഴ് (127) സംസ്ഥാനങ്ങളിലെ എല്ലാ യെഹൂദന്മാർക്കും സമാധാനവും സത്യവുമായ വാക്കുകളോടുകൂടി എഴുത്ത് അയച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	JOB 1:3 അവന് ഏഴായിരം (7,000) ആടുകളും മൂവായിരം (3,000) ഒട്ടകങ്ങളും അഞ്ഞൂറ് ജോടി കാളകളും അഞ്ഞൂറ് പെൺ കഴുതകളുമുള്ള മൃഗസമ്പത്തും വളരെ ദാസന്മാരും ഉണ്ടായിരുന്നു; അങ്ങനെ അവൻ സകലപൂർവ്വ ദേശക്കാരിലും മഹാനായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	9	PSA 46:1 സംഗീതപ്രമാണിക്ക്; കന്യകമാർ എന്ന രാഗത്തിൽ കോരഹ് പുത്രന്മാരുടെ ഒരു സങ്കീർത്തനം. ഒരു ഗീതം. 9 ദൈവം നമ്മുടെ സങ്കേതവും ബലവും ആകുന്നു; കഷ്ടസമയത്ത് അവിടുന്ന് ഏറ്റവും അടുത്ത സഹായമായിരിക്കുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	REV 7:4 മുദ്രയേറ്റവരുടെ എണ്ണവും ഞാൻ കേട്ട്; യിസ്രായേൽ ജനങ്ങളുടെ എല്ലാ ഗോത്രത്തിലും നിന്നു മുദ്രയേറ്റവർ 1,44,000.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	6	REV 13:18 ഇവിടെ ജ്ഞാനംകൊണ്ട് ആവശ്യം. ബുദ്ധിയുള്ളവൻ മൃഗത്തിന്റെ സംഖ്യ കണക്കുകൂട്ടട്ടെ: അത് ഒരു മനുഷ്യന്റെ സംഖ്യയത്രേ. അവന്റെ സംഖ്യ 666.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	REV 14:1 ഞാൻ നോക്കിയപ്പോൾ സീയോൻമലയിൽ കുഞ്ഞാട് നില്ക്കുന്നതു കണ്ട്. അവന്റെ നാമവും അവന്റെ പിതാവിന്റെ നാമവും നെറ്റിയിൽ എഴുതിയിരിക്കുന്നവരായ 1,44,000 പേർ അവനോടുകൂടെ ഉണ്ടായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	0	REV 14:3 അവർ സിംഹാസനത്തിനും നാല് ജീവികൾക്കും മൂപ്പന്മാർക്കും മുമ്പാകെ ഒരു പുതിയ പാട്ടുപാടി; ഭൂമിയിൽനിന്നു വീണ്ടെടുക്കപ്പെട്ടവരായ 1,44,000 പേർക്കല്ലാതെ ആർക്കും ആ പാട്ടു പഠിപ്പാൻ കഴിഞ്ഞില്ല.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Source	count	98	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	930	001-GEN-005-005 ആദാമിന്റെ ആയുഷ്കാലം ആകെ 930 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	105	001-GEN-005-006 ശേത്തിന് 105 വയസ്സായപ്പോൾ അവൻ ഏനോശിനെ ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	807	001-GEN-005-007 ഏനോശിനെ ജനിപ്പിച്ച ശേഷം ശേത്ത് 807 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	912	001-GEN-005-008 ശേത്തിന്റെ ആയുഷ്കാലം ആകെ 912 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	90	001-GEN-005-009 ഏനോശിന് 90 വയസ്സായപ്പോൾ അവൻ കേനാനു ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	815	001-GEN-005-010 കേനാനെ ജനിപ്പിച്ച ശേഷം എനോശ് 815 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	905	001-GEN-005-011 ഏനോശിന്റെ ആയുഷ്കാലം ആകെ 905 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	70	001-GEN-005-012 കേനാന് 70 വയസ്സായപ്പോൾ അവൻ മഹലലേലിനെ ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	840	001-GEN-005-013 മഹലലേലിനെ ജനിപ്പിച്ച ശേഷം കേനാൻ 840 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	910	001-GEN-005-014 കേനാന്റെ ആയുഷ്കാലം ആകെ 910 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	65	001-GEN-005-015 മഹലലേലിന് 65 വയസ്സായപ്പോൾ അവൻ യാരെദിനു ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	830	001-GEN-005-016 യാരെദിനെ ജനിപ്പിച്ച ശേഷം മഹലലേൽ 830 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	895	001-GEN-005-017 മഹലലേലിന്റെ ആയുഷ്കാലം ആകെ 895 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	162	001-GEN-005-018 യാരെദിന് 162 വയസ്സായപ്പോൾ അവൻ ഹാനോക്കിനെ ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	800	001-GEN-005-019 ഹാനോക്കിനെ ജനിപ്പിച്ച ശേഷം യാരെദ് 800 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാരെയും പുത്രിമാരെയും ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	962	001-GEN-005-020 യാരെദിന്റെ ആയുഷ്കാലം ആകെ 962 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	65	001-GEN-005-021 ഹാനോക്കിന് 65 വയസ്സായപ്പോൾ അവൻ മെഥൂശലഹിനെ ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	300	001-GEN-005-022 മെഥൂശലഹിനെ ജനിപ്പിച്ച ശേഷം ഹാനോക്ക് 300 വർഷം ദൈവത്തോടുകൂടെ നടക്കുകയും പുത്രന്മാരെയും പുത്രിമാരെയും ജനിപ്പിക്കുകയും ചെയ്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	365	001-GEN-005-023 ഹാനോക്കിന്റെ ആയുഷ്കാലം ആകെ 365 വർഷമായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	187	001-GEN-005-025 മെഥൂശലഹിന് 187 വയസ്സായപ്പോൾ അവൻ ലാമെക്കിനു ജന്മം നൽകി	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	782	001-GEN-005-026 ലാമെക്കിനെ ജനിപ്പിച്ച ശേഷം മെഥൂശലഹ് 782 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാർക്കും പുത്രിമാർക്കും ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	969	001-GEN-005-027 മെഥൂശലഹിന്റെ ആയുഷ്കാലം ആകെ 969 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	182	001-GEN-005-028 ലാമെക്കിന് 182 വയസ്സായപ്പോൾ അവൻ ഒരു മകനു ജന്മം നൽകി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	595	001-GEN-005-030 നോഹയെ ജനിപ്പിച്ച ശേഷം ലാമെക്ക് 595 വർഷം ജീവിച്ചിരുന്നു പുത്രന്മാരെയും പുത്രിമാരെയും ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	777	001-GEN-005-031 ലാമെക്കിന്റെ ആയുഷ്കാലം ആകെ 777 വർഷമായിരുന്നു; പിന്നെ അവൻ മരിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	500	001-GEN-005-032 നോഹയ്ക്ക് 500 വയസ്സായശേഷം നോഹ ശേമിനെയും ഹാമിനെയും യാഫെത്തിനെയും ജനിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	21	001-GEN-018-006 “നീ പറഞ്ഞതുപോലെ ചെയ്യുക” എന്ന് അവർ പറഞ്ഞു. അബ്രാഹാം വേഗത്തിൽ കൂടാരത്തിൽ സാറയുടെ അടുക്കൽ ചെന്നു: “വേഗത്തിൽ ഏകദേശം 21 കിലോഗ്രാം മാവ് എടുത്തു കുഴച്ചു അപ്പമുണ്ടാക്കുക” എന്നു പറഞ്ഞു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	3	002-EXO-006-028 3 യഹോവ ഈജിപ്റ്റിൽ വച്ച് മോശെയോട് അരുളിച്ചെയ്ത ദിവസം: “ഞാൻ യഹോവ ആകുന്നു;	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	430	002-EXO-012-040 യിസ്രായേൽ മക്കൾ ഈജിപ്റ്റിൽ കഴിച്ച പരദേശവാസം നാനൂറ്റിമുപ്പത് (430) വർഷമായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	430	002-EXO-012-041 നാനൂറ്റിമുപ്പത് (430) വർഷം കഴിഞ്ഞിട്ട്, ആ ദിവസം തന്നെ, യഹോവയുടെ ഗണങ്ങൾ ഒക്കെയും ഈജിപ്റ്റിൽ നിന്ന് പുറപ്പെട്ടു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	600	002-EXO-014-007 വിശേഷപ്പെട്ട അറുനൂറ് രഥങ്ങളും (600) ഈജിപ്റ്റിലെ സകലരഥങ്ങളും അവയ്ക്ക് വേണ്ടുന്ന തേരാളികളെയും കൂട്ടി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	3	002-EXO-032-028 മോശെ പറഞ്ഞതുപോലെ ലേവ്യർ ചെയ്തു. അന്ന് ഏകദേശം മൂവായിരം (3,000) പേർ വീണു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	250	004-NUM-016-016 മോശെ കോരഹിനോട്: “നീയും നിന്റെ അനുയായികളായ ഇരുന്നൂറ്റമ്പതുപേരും (250) നാളെ യഹോവയുടെ സന്നിധിയിൽ വരണം; അഹരോനും അവിടെ ഉണ്ടായിരിക്കും.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	27	006-JOS-006-026 അക്കാലത്ത് യോശുവ ശപഥം ചെയ്തു: “ഈ യെരിഹോ പട്ടണം പണിയുവാൻ തുനിയുന്ന മനുഷ്യൻ യഹോവയുടെ മുമ്പാകെ ശപിക്കപ്പെട്ടവൻ; അവൻ അതിന്റെ അടിസ്ഥാനമിടുമ്പോൾ അവന്റെ മൂത്തമകൻ നഷ്ടമാകും; അതിന്റെ കവാടങ്ങൾ ഉറപ്പിക്കുമ്പോൾ ഇളയ മകനും നഷ്ടമാകും” എന്ന് പറഞ്ഞു. 27 യഹോവ യോശുവയോടുകൂടെ ഉണ്ടായിരുന്നു; അവന്റെ കീർത്തി ദേശത്ത് എല്ലാടവും പരന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	008-RUT-003-015 നീ പുതച്ചിരിക്കുന്ന പുതപ്പ് കൊണ്ടുവന്നു പിടിക്ക എന്നു അവൻ പറഞ്ഞു. അവൾ അത് പിടിച്ചപ്പോൾ അവൻ 24 കിലോഗ്രാം ബാര്‍ലി അതിൽ അളന്നുകൊടുത്തു; അവൾ പട്ടണത്തിലേക്ക് പോയി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	5	009-1SA-006-019 ബേത്ത്-ശേമെശ്യർ യഹോവയുടെ പെട്ടകത്തിൽ നോക്കുകകൊണ്ട് യഹോവ അവരെ സംഹരിച്ചു; അവൻ ജനത്തിൽ 5,0070 പേരെ സംഹരിച്ചു. ഇങ്ങനെ യഹോവ ജനത്തിൽ ഒരു മഹാസംഹാരം ചെയ്തതുകൊണ്ട് ജനം വിലപിച്ചു:	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	25	009-1SA-020-001 25 അതിനുശേഷം ദാവീദ് രാമയിലെ നയ്യോത്തിൽനിന്നും ഓടി യോനാഥാന്റെ അടുക്കൽ ചെന്നു: “ഞാൻ എന്ത് ചെയ്തു? എന്റെ കുറ്റം എന്ത്? നിന്റെ അപ്പൻ എന്നെ കൊല്ലുവാൻ അന്വേഷിക്കേണ്ടതിന് അവനോട് ഞാൻ ചെയ്ത പാപം എന്ത് എന്നു ചോദിച്ചു?”	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	22	009-1SA-030-001 22 ദാവീദും അവന്റെ ആളുകളും മൂന്നാംദിവസം സിക്ലാഗിൽ എത്തിയപ്പോൾ അമാലേക്യർ തെക്കെദേശവും സിക്ലാഗും ആക്രമിച്ച് സിക്ലാഗിനെ ജയിച്ച് അതിനെ തീവെച്ച് ചുട്ടുകളഞ്ഞിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	1	011-1KI-006-026 1 ഓരോ കെരൂബിന്റെയും ഉയരം പത്തുമുഴം തന്നെ ആയിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	4	011-1KI-009-014 ഹൂരാം ശലോമോന് ഏകദേശം 4,000 കിലോഗ്രാം പൊന്ന് കൊടുത്തയച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	14	011-1KI-009-028 അവർ ഓഫീരിലേക്ക് ചെന്ന് അവിടെനിന്ന് ഏകദേശം 14,000 കിലോഗ്രാം പൊന്ന് ശലോമോൻരാജാവിന്റെ അടുക്കൽ കൊണ്ടുവന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	4	011-1KI-010-010 അവൾ രാജാവിന് ഏകദേശം 4,000 കിലോഗ്രാം പൊന്നും അനവധി സുഗന്ധദ്രവ്യങ്ങളും വിലയേറിയ രത്നങ്ങളും കൊടുത്തു; ശെബാരാജ്ഞി ശലോമോൻ രാജാവിന് കൊടുത്തതുപോലെ സുഗന്ധദ്രവ്യങ്ങൾ പിന്നീട് ഒരിക്കലും ലഭിച്ചിട്ടില്ല.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	2	011-1KI-010-015 ആണ്ടുതോറും കിട്ടിയിരുന്ന പൊന്നിന്റെ തൂക്കം ഏകദേശം 2,300 കിലോഗ്രാം.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	70	011-1KI-016-024 പിന്നെ അവൻ ശേമെരിനോട് ശമര്യാമല ഏകദേശം 70 കിലോഗ്രാം വെള്ളിക്ക് വാങ്ങി ആ മലമുകളിൽ പട്ടണം പണിതു; താൻ പണിത പട്ടണത്തിന് മലയുടമസ്ഥനായിരുന്ന ശേമെരിന്റെ പേരിൻ പ്രകാരം ശമര്യാ എന്ന് പേരിട്ടു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	34	011-1KI-020-039 രാജാവ് കടന്ന് പോകുമ്പോൾ അവൻ രാജാവിനോട് വിളിച്ചുപറഞ്ഞത്: “അടിയൻ പടയുടെ മദ്ധ്യത്തിലേക്ക് ചെന്നിരുന്നു; അപ്പോൾ ഒരുത്തൻ എന്റെ അടുക്കൽ ഒരാളെ കൊണ്ടുവന്ന് ‘ഇവനെ സൂക്ഷിക്കേണം; ഇവനെ കാണാതെ പോയാൽ നിന്റെ ജീവൻ അവന്റെ ജീവന് പകരം ഇരിക്കും; അല്ലെങ്കിൽ നീ ഏകദേശം 34 കിലോഗ്രാം വെള്ളി തൂക്കി തരേണ്ടിവരും’ എന്ന് പറഞ്ഞു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	34	012-2KI-015-019 അശ്ശൂർ രാജാവായ പൂൽ ദേശത്തെ ആക്രമിച്ചു; പൂൽ, തന്നെ സഹായിക്കേണ്ടതിനും രാജത്വം തനിക്ക് ഉറപ്പിക്കേണ്ടതിനുമായി, മെനഹേം അവന് ഏകദേശം 34,000 കിലോഗ്രാം വെള്ളി കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	570	012-2KI-015-020 അശ്ശൂർ രാജാവിന് കൊടുക്കുവാൻ മെനഹേം ഈ പണം യിസ്രായേലിലെ ധനവാന്മാരോട് ഏകദേശം 570 ഗ്രാം വെള്ളിവീതം പിരിച്ചെടുത്തു; അങ്ങനെ അശ്ശൂർ രാജാവ് ദേശത്ത് താമസം ഉറപ്പിക്കാതെ മടങ്ങിപ്പോയി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	20	013-1CH-007-009 വംശാവലിപ്രകാരം തലമുറതലമുറയായി അവരുടെ പിതൃഭവനങ്ങൾക്ക് തലവന്മാരായി എണ്ണപ്പെട്ട പരാക്രമശാലികൾ ഇരുപതിനായിരത്തി ഇരുനൂറ് പേർ (20, 200).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	17	013-1CH-007-011 ഇവരെല്ലാവരും യെദീയയേലിന്റെ പുത്രന്മാർ; പിതൃഭവനങ്ങൾക്ക് തലവന്മാരും പരാക്രമശാലികളുമായി യുദ്ധത്തിന് പുറപ്പെടുവാൻ തക്ക പടച്ചേവകർ പതിനേഴായിരത്തി ഇരുനൂറുപേർ (17, 200).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	150	013-1CH-008-040 ഊലാമിന്റെ പുത്രന്മാർ പരാക്രമശാലികളും വില്ലാളികളും ആയിരുന്നു; അവർക്ക് അനേകം പുത്രന്മാരും പൌത്രന്മാരും ഉണ്ടായിരുന്നു. അവരുടെ സംഖ്യ നൂറ്റമ്പത് (150). ഇവർ എല്ലാവരും ബെന്യാമീന്യസന്തതികൾ.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	690	013-1CH-009-006 സേരെഹിന്റെ പുത്രന്മാരിൽ യെയൂവേലും അവരുടെ സഹോദരന്മാരുമായ അറുനൂറ്റി തൊണ്ണൂറുപേരും (690)	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	212	013-1CH-009-022 വാതിൽകാവല്ക്കാരായി നിയമിക്കപ്പെട്ടിരുന്ന ഇവർ ആകെ ഇരുനൂറ്റി പന്ത്രണ്ടുപേർ (212). അവർ തങ്ങളുടെ ഗ്രാമങ്ങളിൽ വംശാവലിപ്രകാരം രേഖപ്പെടുത്തിയിരുന്നു; ദാവീദും ദർശകനായ ശമൂവേലും ആയിരുന്നു അവരെ നിയമിച്ചത്.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	20	013-1CH-012-030 എഫ്രയീമ്യരിൽ പരാക്രമശാലികളായി തങ്ങളുടെ പിതൃഭവനങ്ങളിൽ പ്രസിദ്ധരായ ഇരുപതിനായിരത്തെണ്ണൂറുപേർ (20, 800).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	200	013-1CH-012-032 യിസ്രായേൽ കാലത്തിനനുസരിച്ച് എന്ത് ചെയ്യേണം എന്നു അറിവള്ള യിസ്സാകഖായരുടെ തലവന്മാർ ഇരുനൂറുപേർ (200); അവരുടെ സഹോദരന്മാരൊക്കെയും അവരുടെ കല്പനയ്ക്ക് വിധേയരായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	120	013-1CH-015-005 കെഹാത്യരിൽ പ്രധാനിയായ ഊരീയേലിനെയും അവന്റെ സഹോദരന്മാരായ നൂറ്റിരുപത് (120) പേരെയും	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	220	013-1CH-015-006 മെരാര്യരിൽ പ്രധാനിയായ അസായാവെയും അവന്റെ സഹോദരന്മാരായ ഇരുനൂറ്റിരുപതുപേരെയും (220)	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	130	013-1CH-015-007 ഗെർശോമ്യരിൽ പ്രധാനിയായ യോവേലിനെയും അവന്റെ സഹോദരന്മാരായ നൂറ്റിമുപ്പതുപേരെയും (130)	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	200	013-1CH-015-008 എലീസാഫാന്യരിൽ പ്രധാനിയായ ശെമയ്യാവെയും അവന്റെ സഹോദരന്മാരായ ഇരുനൂറുപേരെയും (200)	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	112	013-1CH-015-010 ഉസ്സീയേല്യരിൽ പ്രധാനിയായ അമ്മീനാദാബിനെയും അവന്റെ സഹോദരന്മാരായ നൂറ്റിപ്പന്ത്രണ്ടുപേരെയും (112) ആണ് ദാവീദ് കൂട്ടിവരുത്തിയത്.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	68	013-1CH-016-038 അവരോടൊപ്പം ഒബേദ്-ഏദോമിനെയും അവരുടെ സഹോദരന്മാരായ അറുപത്തെട്ടു (68) പേരെയും യഹോവയുടെ പെട്ടകത്തിന്മുമ്പിലും യെദൂഥൂന്റെ മകനായ ഓബേദ്-ഏദോമിനെയും ഹോസയെയും വാതിൽകാവല്ക്കാരായും നിർത്തി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-001 യിസ്രായേൽപുത്രന്മാർ ആളുകളുടെ എണ്ണത്തിനനുസരിച്ച് പിതൃഭവനത്തലവന്മാരും സഹസ്രാധിപന്മാരും ശതാധിപന്മാരും അവരുടെ പ്രമാണികളും രാജാവിന് സേവ ചെയ്തുപോന്നു. അവർ വർഷത്തിൽ എല്ലാമാസങ്ങളിലും വരികയും പോകയും ചെയ്തിരുന്നു. ഓരോ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000) ഉണ്ടായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-002 ഒന്നാം മാസത്തേക്കുള്ള ഒന്നാം കൂറിന് മേൽവിചാരകൻ സബ്ദീയേലിന്‍റെ മകൻ യാശോബെയാം: അവന്റെ കൂറിൽ ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-004 രണ്ടാം മാസത്തേക്കുള്ള കൂറിന് അഹോഹ്യനായ ദോദായി മേൽവിചാരകനും അവന്റെ കൂറിൽ മിക്ലോത്ത് പ്രമാണിയും ആയിരുന്നു. അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-005 മൂന്നാം മാസത്തേക്കുള്ള മൂന്നാമത്തെ സേനാപതി മഹാപുരോഹിതനായ യെഹോയാദയുടെ മകൻ ബെനായാവ; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-007 നാലാം മാസത്തേക്കുള്ള നാലാമത്തവൻ യോവാബിന്റെ സഹോദരനായ അസാഹേലും അവന്റെ ശേഷം അവന്റെ മകനായ സെബദ്യാവും ആയിരുന്നു; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-008 അഞ്ചാം മാസത്തേക്കുള്ള അഞ്ചാമത്തവൻ യിസ്രാഹ്യനായ ശംഹൂത്ത്; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-009 ആറാം മാസത്തേക്കുള്ള ആറാമത്തവൻ തെക്കോവ്യനായ ഇക്കേശിന്റെ മകൻ ഈരാ; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-010 ഏഴാം മാസത്തേക്കുള്ള ഏഴാമത്തവൻ എഫ്രയീമ്യരിൽ പെലോന്യനായ ഹേലെസ്; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-011 എട്ടാം മാസത്തേക്കുള്ള എട്ടാമത്തവൻ സേരെഹ്യരിൽ ഹൂശാത്യനായ സിബ്ബെഖായി; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-012 ഒമ്പതാം മാസത്തേക്കുള്ള ഒമ്പതാമത്തവൻ ബെന്യാമീന്യരിൽ അനാഥോഥ്യനായ അബീയേസെർ; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-013 പത്താം മാസത്തേക്കുള്ള പത്താമത്തവൻ സേരെഹ്യരിൽ നെതോഫാത്യനായ മഹരായി; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-014 പതിനൊന്നാം മാസത്തേക്കുള്ള പതിനൊന്നാമത്തവൻ എഫ്രയീമിന്റെ പുത്രന്മാരിൽ പിരാഥോന്യനായ ബെനായാവ്; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	24	013-1CH-027-015 പന്ത്രണ്ടാം മാസത്തേക്കുള്ള പന്ത്രണ്ടാമത്തവൻ ഒത്നീയേലിൽനിന്നുത്ഭവിച്ച നെതോഫാത്യനായ ഹെൽദായി; അവന്റെ കൂറിലും ഇരുപത്തിനാലായിരംപേർ (24,000).	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	3	013-1CH-029-004 ആലയഭിത്തികളെ, പൊന്നുകൊണ്ടു വേണ്ടത് പൊന്നുകൊണ്ടും, വെള്ളികൊണ്ടു വേണ്ടത് വെള്ളികൊണ്ടും പൊതിയുവാനും, അങ്ങനെ കരകൗശലപ്പണിക്കാരുടെ എല്ലാ പണിയ്ക്കുവേണ്ടിയും ഓഫീർപൊന്നായി മൂവായിരം (3,000) താലന്ത് പൊന്നും ഏഴായിരം (7,000) താലന്ത് ശുദ്ധീകരിച്ച വെള്ളിയും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	5	013-1CH-029-007 ദൈവാലയത്തിന്റെ വേലയ്ക്കായിട്ട് അവർ 5,000 താലന്ത് പൊന്നും, 10,000 തങ്കക്കാശും 10,000 താലന്ത് വെള്ളിയും 18,000 താലന്ത് താമ്രവും 10,0000 താലന്ത് ഇരുമ്പും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	1	013-1CH-029-021 പിന്നെ അവർ യഹോവയ്ക്കു് ഹനനയാഗങ്ങളെ അർപ്പിച്ചു; പിറ്റെന്നാൾ യഹോവയ്ക്കു് ഹോമയാഗമായി ആയിരം (1,000) കാളയെയും ആയിരം ആട്ടുകൊറ്റനെയും ആയിരം കുഞ്ഞാടിനെയും അവയുടെ പാനീയയാഗങ്ങളെയും എല്ലാ യിസ്രായേലിനുംവേണ്ടി അനവധി ഹനനയാഗങ്ങളെയും കഴിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	28	014-2CH-017-015 അവനുശേഷം യെഹോഹാനാൻ പ്രഭു, അവനോടുകൂടെ രണ്ടുലക്ഷത്തി എൺപതിനായിരം (28,0000) പേർ;	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	20	014-2CH-017-016 അവനുശേഷം മനഃപൂർവ്വമായി യഹോവയ്ക്ക് ഭരമേല്പിച്ചവനായ സിക്രിയുടെ മകൻ അമസ്യാവ്, അവനോടുകൂടെ രണ്ടുലക്ഷം (20,0000) പരാക്രമശാലികൾ;	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	61	015-EZR-002-069 അവർ തങ്ങളുടെ പ്രാപ്തിപോലെ ഭണ്ഡാരത്തിലേക്ക് 61,000 സ്വർണ്ണനാണയങ്ങളും അയ്യായിരം മാനെ വെള്ളിയും നൂറ് പുരോഹിതവസ്ത്രവും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	3	015-EZR-007-021 അർത്ഥഹ്ശഷ്ടാരാജാവായ നാം നദിക്കു അക്കരെയുള്ള സകല ഭണ്ഡാരവിചാരകന്മാർക്കും കല്പന കൊടുക്കുന്നതെന്തെന്നാൽ: സ്വർഗ്ഗത്തിലെ ദൈവത്തിന്റെ ന്യായപ്രമാണത്തിൽ ശാസ്ത്രിയായ എസ്രാപുരോഹിതൻ ആവശ്യപ്പെടുന്നതനുസരിച്ച് ഏകദേശം 3,400 കിലോഗ്രാം വെള്ളി, ഏകദേശം 1,000 കിലോഗ്രാം ഗോതമ്പ്, 2,000 ലിറ്റര്‍ വീഞ്ഞ്, 2,000 ലിറ്റര്‍ എണ്ണ	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	8	015-EZR-008-027 ഏകദേശം 8. 5 കിലോഗ്രാം സ്വര്‍ണ്ണ നാണയങ്ങള്‍ വിലയുള്ള ഇരുപത് പൊൻപാത്രങ്ങളും, പൊന്നുപോലെ വിലയുള്ള മിനുക്കിയ താമ്രംകൊണ്ടുള്ള രണ്ട് പാത്രങ്ങളും തൂക്കിക്കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	8	016-NEH-007-070 പിതൃഭവനത്തലവന്മാരിൽ ചിലർ വേലയ്ക്കായിട്ട് ദാനങ്ങൾ കൊടുത്തു; ദേശാധിപതി ഏകദേശം 8. 5 കിലോഗ്രാം സ്വര്‍ണ്ണവും അമ്പത് കിണ്ണങ്ങളും അഞ്ഞൂറ്റിമുപ്പത് പുരോഹിതവസ്ത്രവും ഭണ്ഡാരത്തിലേക്ക് കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	170	016-NEH-007-071 പിതൃഭവനത്തലവന്മാരിൽ ചിലർ വേലയ്ക്കുവേണ്ടി ഭണ്ഡാരത്തിലേക്ക് 170 കിലോഗ്രാം സ്വര്‍ണവും ഏകദേശം 1,200 കിലോഗ്രാം വെള്ളിയും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	170	016-NEH-007-072 ശേഷമുള്ള ജനം ഏകദേശം 170 കിലോഗ്രാം സ്വര്‍ണവും 1,100 കിലോഗ്രാം വെള്ളിയും അറുപത്തേഴ് പുരോഹിതവസ്ത്രവും കൊടുത്തു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	4	016-NEH-010-033 പാപയാഗങ്ങൾക്കും ഞങ്ങളുടെ ദൈവത്തിന്റെ ആലയത്തിലെ എല്ലാ വേലയ്ക്കും വേണ്ടി ആണ്ടുതോറും ഏകദേശം 4 ഗ്രാം വെള്ളി കൊടുക്കാമെന്നും ഞങ്ങൾ ഒരു ചട്ടം നിയമിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	127	017-EST-001-001 അഹശ്വേരോശിന്റെ ഭരണകാലത്ത് ഹിന്ദുദേശം മുതൽ കൂശ്‌വരെ നൂറ്റിരുപത്തേഴ് (127) സംസ്ഥാനങ്ങൾ വാണിരുന്നു	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	180	017-EST-001-004 അങ്ങനെ അവൻ തന്റെ രാജകീയമഹത്വത്തിന്റെ ഐശ്വര്യവും, തന്റെ മഹിമാധിക്യത്തിന്റെ പ്രതാപവും കുറേനാൾ, നൂറ്റെൺപത് (180) ദിവസം പ്രദർശിപ്പിച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	10	017-EST-003-009 രാജാവിന് സമ്മതമുണ്ടെങ്കിൽ അവരെ നശിപ്പിക്കേണ്ടതിന് സന്ദേശം എഴുതി അയക്കേണം; എന്നാൽ ഞാൻ കാര്യവിചാരകന്മാരുടെ കയ്യിൽ പതിനായിരം (10,000) താലന്ത് വെള്ളി രാജാവിന്റെ ഭണ്ഡാരത്തിലേക്ക് കൊടുത്തയയ്ക്കാം” എന്ന് പറഞ്ഞു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	500	017-EST-009-006 ശൂശൻ രാജധാനിയിൽ യെഹൂദന്മാർ അഞ്ഞൂറുപേരെ (500) കൊന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	500	017-EST-009-012 അപ്പോൾ രാജാവ് എസ്ഥേർ രാജ്ഞിയോട്: “യെഹൂദന്മാർ ശൂശൻ രാജധാനിയിൽ അഞ്ഞൂറുപേരെയും (500) ഹാമാന്റെ പത്ത് പുത്രന്മാരെയും കൊന്നു; രാജാവിന്റെ മറ്റു സംസ്ഥാനങ്ങളിൽ അവർ എന്തായിരിക്കും ചെയ്തിരിക്കുക? ഇനിയും നിന്റെ അപേക്ഷ എന്താണ്? അത് നിനക്ക് ലഭിക്കും; ഇനിയും നിന്റെ ആഗ്രഹം എന്ത്? അത് നിവർത്തിച്ചുതരാം” എന്ന് പറഞ്ഞു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	75	017-EST-009-016 രാജാവിന്റെ സംസ്ഥാനങ്ങളിലെ ശേഷം യെഹൂദന്മാർ ആദാർമാസം പതിമൂന്നാം തീയതി ഒന്നിച്ചുകൂടി തങ്ങളുടെ ജീവരക്ഷയ്ക്കായി പൊരുതി, ശത്രുക്കളുടെ കയ്യിൽനിന്ന് ഒഴിഞ്ഞ് വിശ്രമം പ്രാപിച്ചു. അവർ തങ്ങളുടെ വൈരികളിൽ എഴുപത്തയ്യായിരം പേരെ (75,000) കൊന്നുകളഞ്ഞു എങ്കിലും കവർച്ച ചെയ്തില്ല.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	127	017-EST-009-031 അവൻ അഹശ്വേരോശിന്റെ രാജ്യത്തിലുൾപ്പെട്ട നൂറ്റിരുപത്തേഴ് (127) സംസ്ഥാനങ്ങളിലെ എല്ലാ യെഹൂദന്മാർക്കും സമാധാനവും സത്യവുമായ വാക്കുകളോടുകൂടി എഴുത്ത് അയച്ചു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	7	018-JOB-001-003 അവന് ഏഴായിരം (7,000) ആടുകളും മൂവായിരം (3,000) ഒട്ടകങ്ങളും അഞ്ഞൂറ് ജോടി കാളകളും അഞ്ഞൂറ് പെൺ കഴുതകളുമുള്ള മൃഗസമ്പത്തും വളരെ ദാസന്മാരും ഉണ്ടായിരുന്നു; അങ്ങനെ അവൻ സകലപൂർവ്വ ദേശക്കാരിലും മഹാനായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	9	019-PSA-046-001 സംഗീതപ്രമാണിക്ക്; കന്യകമാർ എന്ന രാഗത്തിൽ കോരഹ് പുത്രന്മാരുടെ ഒരു സങ്കീർത്തനം. ഒരു ഗീതം. 9 ദൈവം നമ്മുടെ സങ്കേതവും ബലവും ആകുന്നു; കഷ്ടസമയത്ത് അവിടുന്ന് ഏറ്റവും അടുത്ത സഹായമായിരിക്കുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) അവൻ ആഴ്ചവട്ടത്തിന്റെ ഒന്നാം നാൾ രാവിലെ ഉയിർത്തെഴുന്നേറ്റതിനുശേഷം താൻ ഏഴ് ഭൂതങ്ങളെ പുറത്താക്കിയിരുന്ന മഗ്ദലക്കാരത്തി മറിയയ്ക്ക് ആദ്യം പ്രത്യക്ഷനായി.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	1	066-REV-007-004 മുദ്രയേറ്റവരുടെ എണ്ണവും ഞാൻ കേട്ട്; യിസ്രായേൽ ജനങ്ങളുടെ എല്ലാ ഗോത്രത്തിലും നിന്നു മുദ്രയേറ്റവർ 1,44,000.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	666	066-REV-013-018 ഇവിടെ ജ്ഞാനംകൊണ്ട് ആവശ്യം. ബുദ്ധിയുള്ളവൻ മൃഗത്തിന്റെ സംഖ്യ കണക്കുകൂട്ടട്ടെ: അത് ഒരു മനുഷ്യന്റെ സംഖ്യയത്രേ. അവന്റെ സംഖ്യ 666.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	1	066-REV-014-001 ഞാൻ നോക്കിയപ്പോൾ സീയോൻമലയിൽ കുഞ്ഞാട് നില്ക്കുന്നതു കണ്ട്. അവന്റെ നാമവും അവന്റെ പിതാവിന്റെ നാമവും നെറ്റിയിൽ എഴുതിയിരിക്കുന്നവരായ 1,44,000 പേർ അവനോടുകൂടെ ഉണ്ടായിരുന്നു.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	1	066-REV-014-003 അവർ സിംഹാസനത്തിനും നാല് ജീവികൾക്കും മൂപ്പന്മാർക്കും മുമ്പാകെ ഒരു പുതിയ പാട്ടുപാടി; ഭൂമിയിൽനിന്നു വീണ്ടെടുക്കപ്പെട്ടവരായ 1,44,000 പേർക്കല്ലാതെ ആർക്കും ആ പാട്ടു പഠിപ്പാൻ കഴിഞ്ഞില്ല.	WARN
+Malayalam---Malayalam-Bible	NUMERALS	Aionian	count	99	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,338 @@
+# File Name: Holy-Bible---Holy-Bible---English---STEPBible-Amalgamant---Analysis.txt
+# File Size: 24596       
+# File Date: 04/18/2023 14:12:54
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2023
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: STEPBible, Amalgamant
+# Bible Name English: STEPBible, Amalgamant
+# Bible Language: English
+# Bible Language English: English
+# Bible Copyright Format: CC Attribution NoDerivatives 4.0, 2018-2023
+# Bible Copyright Text: CC Attribution 4.0
+# Bible Source: STEPBible
+# Bible Source Version: 2/4/2023
+# Bible Source Link: https://github.com/STEPBible/STEPBible-Data
+# Bible Source Year: 2023
+# Bible Description: Scripture Tools for Every Person
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+English---STEPBible-Amalgamant	ENCODING	Source	Holy-Bible---English---STEPBible-Amalgamant---Source-Edition.STEP.txt	UTF-8	NOTICE
+English---STEPBible-Amalgamant	ENCODING	Aionian	Holy-Bible---English---STEPBible-Amalgamant---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+English---STEPBible-Amalgamant	BYTES	Source	bytes / chars	4678814 / 4677628 (multi-byte)	NOTICE
+English---STEPBible-Amalgamant	BYTES	Aionian	bytes / chars	4875225 / 4873852 (multi-byte)	NOTICE
+English---STEPBible-Amalgamant	BYTES	SourceClean	bytes / chars	4678055 / 4676869 (multi-byte)	NOTICE
+English---STEPBible-Amalgamant	BYTES	AionianClean	bytes / chars	4871716 / 4870343 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 263
+English---STEPBible-Amalgamant	AIONIAN	Aionian	book-not-exist	0	NOTICE
+English---STEPBible-Amalgamant	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+English---STEPBible-Amalgamant	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+English---STEPBible-Amalgamant	AIONIAN	Aionian	missing-chapter	0	NOTICE
+English---STEPBible-Amalgamant	AIONIAN	Aionian	missing-verse	0	NOTICE
+English---STEPBible-Amalgamant	AIONIAN	Aionian	aionian-verses	263	NOTICE
+English---STEPBible-Amalgamant	AIONIAN	Aionian	tested-verses	263	NOTICE
+
+# UNPRINTABLE
+English---STEPBible-Amalgamant	UNPRINTABLE	Source	count	0	NOTICE
+English---STEPBible-Amalgamant	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+English---STEPBible-Amalgamant	UNICODE	Summary	(-)Orginal	61	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Summary	(+)Aionian	66	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (/)	12718	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : ( )	871018	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (S)	5402	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (T)	6688	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (E)	5713	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (P)	5377	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (B)	2716	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (i)	222782	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (b)	51796	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (l)	144247	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (e)	367174	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (A)	12278	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (m)	82527	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (a)	237390	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (g)	49084	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (n)	251115	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (t)	308936	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (,)	18640	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (c)	57792	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (o)	309199	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (p)	47238	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (d)	121247	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (y)	56417	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (C)	4024	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (M)	5359	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (()	22515	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (h)	203856	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : ())	22518	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (\n)	31103	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (G)	6836	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (1)	30443	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (:)	54758	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (r)	160744	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (s)	178750	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (v)	27944	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (2)	21665	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (k)	68407	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (u)	79328	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (3)	12261	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (4)	9141	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (5)	7041	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (6)	6465	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (x)	3195	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (7)	5911	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (8)	5769	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (9)	5632	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (0)	5298	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (H)	20019	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (.)	9696	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (I)	8900	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (z)	4150	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (N)	7684	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (L)	4226	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (Z)	1160	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (-)	2657	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (K)	4412	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (R)	5958	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (D)	2939	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (U)	197	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (O)	768	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source(-)	Basic Latin : (V)	2398	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (G)	7504	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (E)	13316	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (N)	9622	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (i)	221042	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (n)	249378	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : ( )	791519	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (r)	157518	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (s)	174088	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (t)	306565	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (o)	302676	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (c)	56026	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (e)	359662	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (a)	229593	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (d)	120619	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (b)	50354	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (h)	200466	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (v)	26681	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (l)	143894	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (:)	23588	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (m)	80377	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (k)	67257	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (u)	75822	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (p)	47029	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (y)	56430	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (3)	17183	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (g)	48640	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (5)	10270	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (6)	10732	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (x)	1982	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (7)	7448	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (8)	7858	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (()	22851	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : ())	22854	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (H)	23546	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (/)	12716	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (P)	5589	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (C)	5790	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (T)	9065	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (A)	20277	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (.)	9697	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (I)	10886	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (z)	2597	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (M)	7513	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (L)	4647	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (Z)	2713	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (-)	2658	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (S)	10238	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (K)	5563	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (R)	9195	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (D)	3582	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (B)	4164	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (U)	3705	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (O)	7438	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (V)	3661	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Basic Latin : (,)	18648	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Latin Extended-A : (ē)	16	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Latin Extended-A : (ō)	169	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (/)	12718	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : ( )	871018	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (S)	5402	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (T)	6688	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (E)	5713	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (P)	5377	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (B)	2716	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (i)	222782	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (b)	51796	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (l)	144247	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (e)	367174	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (A)	12278	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (m)	82527	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (a)	237390	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (g)	49084	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (n)	251115	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (t)	308936	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (,)	18640	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (c)	57792	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (o)	309199	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (p)	47238	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (d)	121247	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (y)	56417	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (C)	4024	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (M)	5359	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (()	22515	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (h)	203856	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : ())	22518	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (\n)	31103	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (G)	6836	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (1)	30443	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (:)	54758	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (f)	54107	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (r)	160744	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (s)	178750	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : ([)	83307	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (j)	13920	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (])	83307	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (v)	27944	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (2)	21665	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (k)	68407	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (u)	79328	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (w)	58332	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (3)	12261	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (q)	22202	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (4)	9141	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (5)	7041	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (6)	6465	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (x)	3195	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (7)	5911	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (8)	5769	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (9)	5632	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (0)	5298	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (Y)	14430	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (H)	20019	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (W)	7702	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (?)	3420	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (.)	9696	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (I)	8900	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (!)	739	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (z)	4150	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (N)	7684	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (L)	4226	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (Z)	1160	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (J)	13683	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (-)	2657	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (K)	4412	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (R)	5958	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (D)	2939	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (U)	197	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (O)	768	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (V)	2398	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (')	5	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (=)	2	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (+)	166	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (F)	556	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (*)	13426	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (~)	3532	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (;)	1812	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	General Punctuation : (”)	245	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	General Punctuation : (’)	180	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	General Punctuation : (—)	165	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	General Punctuation : (‘)	3	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (")	2	NOTICE
+English---STEPBible-Amalgamant	UNICODE	Source	Basic Latin : (Q)	5	NOTICE
+
+# VERSIFICATION
+English---STEPBible-Amalgamant	VERSIFICATION	Summary	missing	0	NOTICE
+English---STEPBible-Amalgamant	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+English---STEPBible-Amalgamant	ENCLOSURES	Source	()	22515 / 22518	WARN
+English---STEPBible-Amalgamant	ENCLOSURES	Source	[]	83307 / 83307	NOTICE
+English---STEPBible-Amalgamant	ENCLOSURES	Source	{}	0 / 0	NOTICE
+English---STEPBible-Amalgamant	ENCLOSURES	Source	<>	0 / 0	NOTICE
+English---STEPBible-Amalgamant	ENCLOSURES	Aionian	()	22851 / 22854	WARN
+English---STEPBible-Amalgamant	ENCLOSURES	Aionian	[]	83307 / 83307	NOTICE
+English---STEPBible-Amalgamant	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+English---STEPBible-Amalgamant	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+English---STEPBible-Amalgamant	ENCLOSURES	Source	(6/7)	Act 16:12 (* and from there and from there *NA~TR) to Philippi, which is (* [the] leading [one] *NA~TR) (* of the) *KJV) district (the) of Macedonia, [the] city, [and Roman] colony. We were now in (* this *NA~TR) (the) city staying days some.	WARN
+English---STEPBible-Amalgamant	ENCLOSURES	Source	(0/1)	Rom 12:8 or the [one]) exhorting, in the exhortation; the [one] giving, in generosity; the [one] leading, with diligence; the [one] showing mercy, with cheerfulness.	WARN
+English---STEPBible-Amalgamant	ENCLOSURES	Source	(3/4)	Rev 10:7 But in the days of the voice of the seventh angel, when he may soon to sound [the] trumpet, then (* would be completed *NA~TR) the mystery (the) of God, as proclaimed (* [to] those) His own servants, [to] the prophets. *NA~TR)	WARN
+English---STEPBible-Amalgamant	ENCLOSURES	Aionian	(6/7)	044 ACT 016 012 (* and from there and from there *NA~TR) to Philippi, which is (* [the] leading [one] *NA~TR) (* of the) *KJV) district (the) of Macedonia, [the] city, [and Roman] colony. We were now in (* this *NA~TR) (the) city staying days some.	WARN
+English---STEPBible-Amalgamant	ENCLOSURES	Aionian	(0/1)	045 ROM 012 008 or the [one]) exhorting, in the exhortation; the [one] giving, in generosity; the [one] leading, with diligence; the [one] showing mercy, with cheerfulness.	WARN
+English---STEPBible-Amalgamant	ENCLOSURES	Aionian	(3/4)	066 REV 010 007 But in the days of the voice of the seventh angel, when he may soon to sound [the] trumpet, then (* would be completed *NA~TR) the mystery (the) of God, as proclaimed (* [to] those) His own servants, [to] the prophets. *NA~TR)	WARN
+English---STEPBible-Amalgamant	ENCLOSURES	Summary	lines	3 / 3	NOTICE
+
+# UNEXPECTED
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(~)	3532/3532	WARN
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(*)	13426/13426	WARN
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(+)	166/166	WARN
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(=)	2/2	WARN
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	(/)	12718/12716	WARN
+English---STEPBible-Amalgamant	UNEXPECTED	Source/Aionian	Summary	29844/29842	WARN
+
+# NUMERALS
+English---STEPBible-Amalgamant	NUMERALS	Source	count	0	NOTICE
+English---STEPBible-Amalgamant	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Having risen now early on [the] first [day] of the week, He appeared first to Mary (the) Magdalene, (* from with *NA~TR) whom He had cast out seven demons.	WARN
+English---STEPBible-Amalgamant	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME
