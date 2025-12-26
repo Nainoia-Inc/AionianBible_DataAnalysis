@@ -1,0 +1,367 @@
+# File Name: Holy-Bible---Holy-Bible---English---Noyes---Analysis.txt
+# File Size: 28285       
+# File Date: 12/13/2025 05:23:35
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Noyes Bible
+# Bible Name English: Noyes Bible
+# Bible Language: English
+# Bible Language English: English
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: George Noyes
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=engnoy
+# Bible Source Year: 1869
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+English---Noyes	ENCODING	Source	Holy-Bible---English---Noyes---Source-Edition.VPL.txt	UTF-8	NOTICE
+English---Noyes	ENCODING	Aionian	Holy-Bible---English---Noyes---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+English---Noyes	BYTES	Source	bytes / chars	2398830 / 2394326 (multi-byte)	NOTICE
+English---Noyes	BYTES	Aionian	bytes / chars	2526130 / 2521438 (multi-byte)	NOTICE
+English---Noyes	BYTES	SourceClean	bytes / chars	2398053 / 2393549 (multi-byte)	NOTICE
+English---Noyes	BYTES	AionianClean	bytes / chars	2523284 / 2518592 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+English---Noyes	AIONIAN	Aionian	book-not-exist	0	NOTICE
+English---Noyes	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+English---Noyes	AIONIAN	Aionian	book-defined-not-exist	11	NOTICE
+English---Noyes	AIONIAN	Aionian	missing-chapter	0	NOTICE
+English---Noyes	AIONIAN	Aionian	missing-verse	0	NOTICE
+English---Noyes	AIONIAN	Aionian	aionian-verses	253	NOTICE
+English---Noyes	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+English---Noyes	UNPRINTABLE	Source	count	0	NOTICE
+English---Noyes	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+English---Noyes	UNICODE	Summary	(-)Orginal	55	NOTICE
+English---Noyes	UNICODE	Summary	(+)Aionian	57	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (J)	8848	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (O)	6989	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : ( )	439885	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (1)	16892	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (:)	19247	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (n)	113035	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (t)	161107	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (h)	146730	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (e)	218676	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (l)	65442	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (a)	129490	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (d)	75624	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (o)	131282	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (U)	1341	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (i)	101055	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (m)	42725	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (s)	100497	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (b)	22490	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (.)	14289	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (H)	4381	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (u)	42507	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (p)	23442	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (r)	89923	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (g)	28728	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (,)	38662	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (G)	3086	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (\n)	18231	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (2)	10710	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (3)	6937	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (c)	29593	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (y)	34759	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (k)	11761	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (-)	1290	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (4)	5538	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (5)	4292	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (A)	17496	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (T)	9284	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (6)	3854	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (S)	6416	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (7)	3508	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (8)	3395	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (9)	3304	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (0)	3155	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (C)	3694	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (R)	4830	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (P)	4892	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (L)	4429	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (M)	3950	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (()	68	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : ())	68	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : ([)	477	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (])	477	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (K)	1329	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : ({)	2	NOTICE
+English---Noyes	UNICODE	Source(-)	Basic Latin : (})	2	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (0)	72838	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (1)	21671	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (8)	5384	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (\t)	72852	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (J)	8846	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (O)	6987	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (n)	113236	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : ( )	404176	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (t)	161113	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (h)	146837	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (e)	218762	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (l)	65500	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (a)	129689	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (d)	75640	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (o)	131419	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (U)	1338	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (i)	101301	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (m)	42732	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (s)	100610	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (b)	22500	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (.)	14239	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (H)	4391	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (u)	42509	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (p)	23443	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (r)	89934	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (g)	28941	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (,)	38671	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (G)	3098	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (\n)	18212	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (2)	18183	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (3)	10052	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (c)	29595	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (y)	34773	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (k)	11762	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (-)	1291	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (4)	14283	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (5)	6256	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (A)	17491	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (T)	9278	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (6)	7049	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (S)	6469	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (7)	4239	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (9)	6151	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (C)	3690	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (R)	4825	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (:)	1008	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (P)	4897	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (L)	4431	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (M)	3942	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (()	362	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : ())	362	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : ([)	193	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (])	192	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Basic Latin : (K)	1326	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+English---Noyes	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (J)	8848	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (O)	6989	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (B)	4741	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : ( )	439885	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (1)	16892	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (:)	19247	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (I)	9938	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (n)	113035	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (t)	161107	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (h)	146730	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (e)	218676	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (l)	65442	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (a)	129490	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (d)	75624	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (o)	131282	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (f)	39929	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (U)	1341	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (z)	751	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (i)	101055	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (v)	18931	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (m)	42725	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (w)	36693	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (s)	100497	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (b)	22490	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (.)	14289	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (H)	4381	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (u)	42507	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (p)	23442	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (r)	89923	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (g)	28728	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (,)	38662	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (G)	3086	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (\n)	18231	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (2)	10710	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (3)	6937	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (c)	29593	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (y)	34759	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (k)	11761	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (x)	834	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (-)	1290	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (;)	9914	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (E)	6404	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (4)	5538	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (N)	1371	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (5)	4292	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (A)	17496	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (T)	9284	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (6)	3854	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (S)	6416	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (7)	3508	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (W)	2223	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (?)	2145	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (F)	2646	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (8)	3395	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (9)	3304	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (0)	3155	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (')	504	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (C)	3694	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (!)	3325	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (D)	1818	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (R)	4830	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (Z)	1837	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (P)	4892	NOTICE
+English---Noyes	UNICODE	Source	General Punctuation : (“)	1002	NOTICE
+English---Noyes	UNICODE	Source	General Punctuation : (”)	989	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (L)	4429	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (Y)	792	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (j)	1336	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (q)	620	NOTICE
+English---Noyes	UNICODE	Source	General Punctuation : (—)	261	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (M)	3950	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (V)	426	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (()	68	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : ())	68	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : ([)	477	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (])	477	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (K)	1329	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (Q)	4	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (`)	1	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : ({)	2	NOTICE
+English---Noyes	UNICODE	Source	Basic Latin : (})	2	NOTICE
+
+# VERSIFICATION
+English---Noyes	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	040-MAT-021-044	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	042-LUK-024-012	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	042-LUK-024-040	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	043-JOH-021-025	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+English---Noyes	VERSIFICATION	Aionian	missing	062-1JO-005-007	WARN
+English---Noyes	VERSIFICATION	Summary	missing	19	WARN
+English---Noyes	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+English---Noyes	ENCLOSURES	Source	()	68 / 68	NOTICE
+English---Noyes	ENCLOSURES	Source	[]	477 / 477	NOTICE
+English---Noyes	ENCLOSURES	Source	{}	2 / 2	NOTICE
+English---Noyes	ENCLOSURES	Source	<>	0 / 0	NOTICE
+English---Noyes	ENCLOSURES	Aionian	()	362 / 362	NOTICE
+English---Noyes	ENCLOSURES	Aionian	[]	193 / 192	WARN
+English---Noyes	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+English---Noyes	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+English---Noyes	ENCLOSURES	Source	[2/0]	PSA 72:18 [[Praised be God, Jehovah, the God of Israel, Who alone doeth wonderful things!	WARN
+English---Noyes	ENCLOSURES	Source	[0/2]	PSA 72:20 Here end the Psalms of David, the son of Jesse.]]	WARN
+English---Noyes	ENCLOSURES	Source	(1/0)	JER 39:1 And it came to pass, when Jerusalem was taken, (in the ninth year of Zedekiah, the king of Judah, in the tenth month, came Nebuchadnezzar, the king of Babylon, and all his army, against Jerusalem, and besieged it;	WARN
+English---Noyes	ENCLOSURES	Source	(0/1)	JER 39:2 and in the eleventh year of Zedekiah, in the fourth month, on the ninth day of the month, was the city broken into,)	WARN
+English---Noyes	ENCLOSURES	Source	(1/0)	MAR 7:3 (for the Pharisees, and all the Jews, unless they wash their hands often, do not eat, holding fast the tradition of the elders;	WARN
+English---Noyes	ENCLOSURES	Source	(0/1)	MAR 7:4 and on coming from the marketplace, unless they bathe, they do not eat; and there are many other things which they have received to hold, the dipping of cups, and pitchers, and brazen vessels;)	WARN
+English---Noyes	ENCLOSURES	Source	[2/0]	MAR 16:9 {The remaining twelve verses, according to Tischendorf and others, made originally no part of Mark's Gospel. As the passage was added very early, however, since it is referred to by Irenaeus in the latter part of the second century, it is here given, as an appendix.} [[And having risen early, on the first day of the week, he appeared first to Mary the Magdalene, out of whom he had cast seven demons.	WARN
+English---Noyes	ENCLOSURES	Source	[0/2]	MAR 16:20 and they went forth, and preached every where, the Lord working with them, and confirming the word by the signs which followed it.]]	WARN
+English---Noyes	ENCLOSURES	Source	[2/0]	JOH 7:53 {Joh 7:53 - 8:12: This passage is omitted as ungenuine by Tischendorf and most critical editors of the Greek Testament. It is found in some manuscripts, but not in the most ancient. It is, however, very generally regarded as a genuine relic of the teaching of Christ, though not forming a part of the fourth Gospel. I give it in the text of Tregelles, omitting the words which he incloses in brackets. Tregelles, however, does not suppose it to be genuine.} [[And they went each to his house;	WARN
+English---Noyes	ENCLOSURES	Source	[0/2]	JOH 8:12 Again therefore Jesus spoke to them, saying, I am the light of the world; he that followeth me shall not walk in the darkness, but shall have the light of life.]]	WARN
+English---Noyes	ENCLOSURES	Source	(1/0)	ROM 5:13 (for all the time before the Law sin was in the world; but sin is not set to one's account when there is no law.	WARN
+English---Noyes	ENCLOSURES	Source	(0/1)	ROM 5:17 For if by one trespass death reigned through the one man, much more will they who receive the abundance of grace and of the gift of righteousness reign in life through the one man Jesus Christ.)—	WARN
+English---Noyes	ENCLOSURES	Aionian	[1/0]	019 PSA 009 016 Thus it is known that the LORD executeth judgment; The wicked are ensnared in the work of their own hands. [Stringed instruments. (Pause)	WARN
+English---Noyes	ENCLOSURES	Aionian	[1/0]	019 PSA 072 018 [Praised be God, Jehovah, the God of Israel, Who alone doeth wonderful things!	WARN
+English---Noyes	ENCLOSURES	Aionian	[0/1]	019 PSA 072 020 Here end the Psalms of David, the son of Jesse.]	WARN
+English---Noyes	ENCLOSURES	Aionian	(1/0)	024 JER 039 001 And it came to pass, when Jerusalem was taken, (in the ninth year of Zedekiah, the king of Judah, in the tenth month, came Nebuchadnezzar, the king of Babylon, and all his army, against Jerusalem, and besieged it;	WARN
+English---Noyes	ENCLOSURES	Aionian	(0/1)	024 JER 039 002 and in the eleventh year of Zedekiah, in the fourth month, on the ninth day of the month, was the city broken into,)	WARN
+English---Noyes	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (for the Pharisees, and all the Jews, unless they wash their hands often, do not eat, holding fast the tradition of the elders;	WARN
+English---Noyes	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 and on coming from the marketplace, unless they bathe, they do not eat; and there are many other things which they have received to hold, the dipping of cups, and pitchers, and brazen vessels;)	WARN
+English---Noyes	ENCLOSURES	Aionian	[1/0]	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) (The remaining twelve verses, according to Tischendorf and others, made originally no part of Mark's Gospel. As the passage was added very early, however, since it is referred to by Irenaeus in the latter part of the second century, it is here given, as an appendix.) [And having risen early, on the first day of the week, he appeared first to Mary the Magdalene, out of whom he had cast seven demons.	WARN
+English---Noyes	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 and they went forth, and preached every where, the Lord working with them, and confirming the word by the signs which followed it.]	WARN
+English---Noyes	ENCLOSURES	Aionian	[1/0]	043 JOH 007 053 (Joh 7:53 - 8:12: This passage is omitted as ungenuine by Tischendorf and most critical editors of the Greek Testament. It is found in some manuscripts, but not in the most ancient. It is, however, very generally regarded as a genuine relic of the teaching of Christ, though not forming a part of the fourth Gospel. I give it in the text of Tregelles, omitting the words which he incloses in brackets. Tregelles, however, does not suppose it to be genuine.) [And they went each to his house;	WARN
+English---Noyes	ENCLOSURES	Aionian	[0/1]	043 JOH 008 012 Again therefore Jesus spoke to them, saying, I am the light of the world; he that followeth me shall not walk in the darkness, but shall have the light of life.]	WARN
+English---Noyes	ENCLOSURES	Aionian	(1/0)	045 ROM 005 013 (for all the time before the Law sin was in the world; but sin is not set to one's account when there is no law.	WARN
+English---Noyes	ENCLOSURES	Aionian	(0/1)	045 ROM 005 017 For if by one trespass death reigned through the one man, much more will they who receive the abundance of grace and of the gift of righteousness reign in life through the one man Jesus Christ.)—	WARN
+English---Noyes	ENCLOSURES	Summary	lines	12 / 13	WARN
+
+# UNEXPECTED
+English---Noyes	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(`)	1/1	WARN
+English---Noyes	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+English---Noyes	UNEXPECTED	Source/Aionian	Summary	1/1	WARN
+
+# NUMERALS
+English---Noyes	NUMERALS	Source	2	JOB 7:21 And why dost thou not pardon my transgression, And take away mine iniquity? ((7:22)) For soon shall I sleep in the dust; And, though thou seek me diligently, I shall not be.	WARN
+English---Noyes	NUMERALS	Source	7	ISA 39:8 (39:7) Then said Hezekiah to Isaiah, Good is the word of Jehovah, which thou hast spoken. For, said he, there shall be peace and security in my days.	WARN
+English---Noyes	NUMERALS	Source	6	ISA 49:25 Yea, thus saith Jehovah, The prey shall be taken away from the mighty, And the spoil of the terrible shall be rescued; For with him that contendeth with thee will I contend, (49:26) And I will save thy children.	WARN
+English---Noyes	NUMERALS	Source	7	ISA 49:26 (49:27) And I will cause thine oppressors to eat their own flesh; With their own blood shall they be drunk, as with new wine; And all flesh shall know that I Jehovah am thy saviour; That thy redeemer is the Mighty One of Jacob.	WARN
+English---Noyes	NUMERALS	Source	8	MAL 1:8 (1:7A) For when ye bring the blind for sacrifice, [[ye say,]] “It is not evil.” (1:8) And when ye offer the lame and the sick, [[Ye say,]] “It is not evil.” Offer it, then, to thy governor; Will he be pleased with thee, Or have regard to thee? Saith Jehovah of hosts.	WARN
+English---Noyes	NUMERALS	Source	5	MAT 5:4 (5:5) Blessed are they who mourn; for they will be comforted.	WARN
+English---Noyes	NUMERALS	Source	4	MAT 5:5 (5:4) Blessed are the meek; for they will inherit the earth.	WARN
+English---Noyes	NUMERALS	Source	2	JOH 7:53 {Joh 7:53 - 8:12: This passage is omitted as ungenuine by Tischendorf and most critical editors of the Greek Testament. It is found in some manuscripts, but not in the most ancient. It is, however, very generally regarded as a genuine relic of the teaching of Christ, though not forming a part of the fourth Gospel. I give it in the text of Tregelles, omitting the words which he incloses in brackets. Tregelles, however, does not suppose it to be genuine.} [[And they went each to his house;	WARN
+English---Noyes	NUMERALS	Source	7	PHI 1:16 (1:17) but they who are of a factious spirit preach Christ with no pure intent, thinking to stir up affliction to my bonds.	WARN
+English---Noyes	NUMERALS	Source	6	PHI 1:17 (1:16) They who are of love, knowing that I am set for the defence of the gospel;	WARN
+English---Noyes	NUMERALS	Source	count	10	WARN
+English---Noyes	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) (The remaining twelve verses, according to Tischendorf and others, made originally no part of Mark's Gospel. As the passage was added very early, however, since it is referred to by Irenaeus in the latter part of the second century, it is here given, as an appendix.) [And having risen early, on the first day of the week, he appeared first to Mary the Magdalene, out of whom he had cast seven demons.	WARN
+English---Noyes	NUMERALS	Aionian	7	043-JOH-007-053 (Joh 7:53 - 8:12: This passage is omitted as ungenuine by Tischendorf and most critical editors of the Greek Testament. It is found in some manuscripts, but not in the most ancient. It is, however, very generally regarded as a genuine relic of the teaching of Christ, though not forming a part of the fourth Gospel. I give it in the text of Tregelles, omitting the words which he incloses in brackets. Tregelles, however, does not suppose it to be genuine.) [And they went each to his house;	WARN
+English---Noyes	NUMERALS	Aionian	count	2	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

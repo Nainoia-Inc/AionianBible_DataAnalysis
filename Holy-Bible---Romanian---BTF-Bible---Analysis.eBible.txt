@@ -1,0 +1,449 @@
+# File Name: Holy-Bible---Holy-Bible---Romanian---BTF-Bible---Analysis.txt
+# File Size: 41354       
+# File Date: 12/13/2025 05:55:33
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Biblia Traducerea Fidela
+# Bible Name English: Romanian Faithful Translation
+# Bible Language: Română
+# Bible Language English: Romanian
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Alex Crișan
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=ronbtf
+# Bible Source Year: 2024
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Romanian---BTF-Bible	ENCODING	Source	Holy-Bible---Romanian---BTF-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Romanian---BTF-Bible	ENCODING	Aionian	Holy-Bible---Romanian---BTF-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Romanian---BTF-Bible	BYTES	Source	bytes / chars	4584454 / 4288765 (multi-byte)	NOTICE
+Romanian---BTF-Bible	BYTES	Aionian	bytes / chars	4798564 / 4502703 (multi-byte)	NOTICE
+Romanian---BTF-Bible	BYTES	SourceClean	bytes / chars	4583667 / 4287978 (multi-byte)	NOTICE
+Romanian---BTF-Bible	BYTES	AionianClean	bytes / chars	4795123 / 4499269 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Romanian---BTF-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Romanian---BTF-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Romanian---BTF-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Romanian---BTF-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Romanian---BTF-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Romanian---BTF-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Romanian---BTF-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Romanian---BTF-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Romanian---BTF-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Romanian---BTF-Bible	UNICODE	Summary	(-)Orginal	69	NOTICE
+Romanian---BTF-Bible	UNICODE	Summary	(+)Aionian	51	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (G)	3337	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : ( )	751341	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (1)	30443	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (:)	39560	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (L)	9817	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (a)	300801	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (n)	183882	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (c)	148708	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (e)	327289	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (p)	97301	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (u)	222485	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (t)	189426	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (m)	88873	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (r)	192952	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (l)	155012	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (i)	347758	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (.)	26662	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31102	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (2)	21665	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (o)	117178	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (g)	18585	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (;)	14668	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (s)	127468	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (d)	76808	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (h)	10285	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (3)	12261	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (S)	10480	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (4)	9141	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (,)	53161	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (b)	23433	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (5)	7041	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (6)	6465	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (7)	5911	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (8)	5769	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (9)	5632	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (A)	17483	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (0)	5298	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (M)	14062	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (P)	6554	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (H)	5302	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (T)	4585	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (()	225	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : ())	225	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (k)	142	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Latin-1 Supplement: ( )	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : ([)	1878	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Basic Latin : (])	1878	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (א)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ב)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ג)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ד)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ה)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ו)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ז)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ח)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ט)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (י)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (כ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ל)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (מ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (נ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ס)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ע)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (פ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (צ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ק)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ר)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ש)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source(-)	Hebrew : (ת)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3349	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	9822	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	301000	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	689667	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	184083	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	148710	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	327386	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	97302	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	222487	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	189432	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	88880	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	192963	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	155081	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	348004	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	26582	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	117326	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	18798	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (;)	14667	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	127581	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	76824	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	10414	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	8460	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	10544	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	53165	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	23443	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	17492	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	14063	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	6559	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	5313	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	4587	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (()	564	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : ())	564	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	143	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	1865	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (])	1865	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Romanian---BTF-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (G)	3337	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (E)	15364	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (N)	12855	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : ( )	751341	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (1)	30443	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (:)	39560	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (L)	9817	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (a)	300801	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin-1 Supplement: (î)	44357	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (n)	183882	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (c)	148708	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (e)	327289	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (p)	97301	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (u)	222485	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (t)	189426	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (D)	20394	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (m)	88873	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (z)	20416	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (r)	192952	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (l)	155012	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-A : (ş)	12719	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (i)	347758	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-A : (ă)	112750	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin-1 Supplement: (â)	28458	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (.)	26662	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (\n)	31102	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (2)	21665	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-A : (Ş)	3016	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (f)	38527	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (o)	117178	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (g)	18585	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (;)	14668	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (s)	127468	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-A : (ţ)	7293	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (d)	76808	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (h)	10285	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (3)	12261	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (S)	10480	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (!)	457	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (4)	9141	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (v)	47364	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (,)	53161	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (b)	23433	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (5)	7041	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (-)	20826	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (6)	6465	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (j)	4514	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (7)	5911	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (8)	5769	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (9)	5632	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (A)	17483	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (0)	5298	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (F)	2120	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (I)	16716	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (O)	14051	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (M)	14062	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (U)	13384	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (C)	9212	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (P)	6554	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (H)	5302	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (x)	217	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (?)	3266	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-B : (ț)	28480	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-B : (ș)	46137	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin-1 Supplement: (Î)	1177	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (V)	2278	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-A : (Ţ)	77	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (T)	4585	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (B)	3522	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (R)	5054	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (()	225	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : ())	225	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (Z)	2557	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (J)	5003	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (k)	142	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-B : (Ș)	10789	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-B : (Ț)	289	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin Extended-A : (Ă)	11	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin-1 Supplement: (­)	3	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (K)	2691	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin-1 Supplement: ( )	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	General Punctuation : (–)	3	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : ([)	1878	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (])	1878	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	General Punctuation : (‑)	17	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	General Punctuation : („)	17	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	General Punctuation : (”)	17	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (א)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ב)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ג)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ד)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ה)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ו)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ז)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (Y)	2	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ח)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ט)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (י)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (כ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ל)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (מ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (נ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ס)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ע)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (פ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (צ)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ק)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ר)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ש)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Hebrew : (ת)	1	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (Q)	2	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Basic Latin : (q)	6	NOTICE
+Romanian---BTF-Bible	UNICODE	Source	Latin-1 Supplement: (Â)	2	NOTICE
+
+# VERSIFICATION
+Romanian---BTF-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Romanian---BTF-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Romanian---BTF-Bible	ENCLOSURES	Source	()	225 / 225	NOTICE
+Romanian---BTF-Bible	ENCLOSURES	Source	[]	1878 / 1878	NOTICE
+Romanian---BTF-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Romanian---BTF-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Romanian---BTF-Bible	ENCLOSURES	Aionian	()	564 / 564	NOTICE
+Romanian---BTF-Bible	ENCLOSURES	Aionian	[]	1865 / 1865	NOTICE
+Romanian---BTF-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Romanian---BTF-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	NUM 31:43 (Acum jumătatea ce aparținea adunării era de trei sute treizeci și șapte de mii cinci sute de oi,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	NUM 31:46 Și șaisprezece mii de persoane;)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Aceasta de asemenea era socotită o ţară de uriaşi; uriaşii locuiau în ea în vechime; şi amoniţii îi numesc zamzumimi;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 Şi pe aviţii care locuiau în Haţerim, până la Gaza, i-au nimicit caftoriţii, care au ieşit din Caftor, şi au locuit în locul lor.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	DEU 29:16 (Pentru că ştiţi cum am locuit noi în ţara Egiptului; şi cum am trecut prin mijlocul naţiunilor printre care aţi trecut;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	DEU 29:17 Şi aţi văzut urâciunile lor şi idolii lor, lemn şi piatră, argint şi aur, care erau printre ei),	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	JDG 9:17 (Pentru că tatăl meu a luptat pentru voi și și-a primejduit mult viața și v-a eliberat din mâna lui Madian;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	JDG 9:18 Iar voi v-ați ridicat astăzi împotriva casei tatălui meu și ați ucis pe fiii săi, șaptezeci de oameni, pe o singură piatră, și ați făcut pe Abimelec, fiul servitoarei sale, împărat peste bărbații din Sihem, pentru că el este fratele vostru);	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 Și copiii lui Israel au întrebat pe DOMNUL, (deoarece chivotul legământului lui Dumnezeu era acolo în acele zile,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 Și Fineas, fiul lui Eleazar, fiul lui Aaron, stătea înaintea lui în acele zile), spunând: Să mai ies încă la bătălie împotriva fiilor lui Beniamin, fratele meu, sau să încetez? Și DOMNUL a spus: Urcă-te, pentru că mâine îi voi da în mâna ta.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	2SA 4:2 Și fiul lui Saul avea doi bărbați care erau căpetenii de cete: numele unuia era Baana și numele celuilalt, Recab, fiii lui Rimon, un beerotit, dintre copiii lui Beniamin; (fiindcă și Beerot era numărat la Beniamin;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	2SA 4:3 Și beerotiții fugiseră la Ghitaim și au fost locuitori temporari acolo până în această zi.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 Şi Ahab l-a chemat pe Obadia, care era guvernatorul casei sale. (Şi Obadia se temea mult de DOMNUL;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 Fiindcă s-a întâmplat, când Izabela a stârpit pe profeţii DOMNULUI, că Obadia a luat o sută de profeţi şi i-a ascuns câte cincizeci într-o peşteră şi i-a hrănit cu pâine şi apă.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	2KI 9:14 Astfel Iehu, fiul lui Iosafat, fiul lui Nimși, a uneltit împotriva lui Ioram. (Și Ioram păzea Ramot-Galaadul, el și tot Israelul, din cauza lui Hazael, împăratul Siriei.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	2KI 9:15 Dar împăratul Ioram s-a întors să se vindece în Izreel de rănile pe care i le făcuseră sirienii, când se lupta împotriva lui Hazael, împăratul Siriei.) Și Iehu a zis: Dacă este voia voastră, să nu lăsați pe nimeni să iasă sau să scape din cetate pentru a merge să spună aceasta în Izreel.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	2KI 13:5 (Și DOMNUL a dat lui Israel un salvator, astfel încât ei au ieșit de sub mâna sirienilor; și copiii lui Israel au locuit în corturile lor ca înainte.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	2KI 13:6 Totuși, ei nu s-au depărtat de păcatele casei lui Ieroboam, care a făcut pe Israel să păcătuiască: ci au umblat în ele; și de asemenea dumbrava Astarteei a rămas în Samaria.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	1CH 5:1 Și fiii lui Ruben, întâiul născut al lui Israel, (căci el a fost întâiul născut; dar, pentru că pângărise patul tatălui său, dreptul său de naștere a fost dat fiilor lui Iosif, fiul lui Israel, iar genealogia nu trebuie socotită după dreptul de naștere.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	1CH 5:2 Căci Iuda a avut întâietate între frații săi și din el a venit mai marele conducător; dar dreptul de naștere a fost al lui Iosif);	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	1CH 7:14 Fiii lui Manase: Asriel, pe care ea l-a născut, (dar concubina lui aramită, a născut pe Machir, tatăl lui Galaad;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	1CH 7:15 Și Machir a luat de soție pe sora lui Hupim și Șupim, sora lor avea numele Maaca); și numele celui de-al doilea era Țelofhad; și Țelofhad a avut fete.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	2CH 5:11 Și s-a întâmplat, când preoții ieșiseră din locul preasfânt (căci toți preoții care erau prezenți erau sfințiți și nu au așteptat atunci la rând;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	2CH 5:12 De asemenea leviții care erau cântăreți, cu toți ai lui Asaf, ai lui Heman, ai lui Iedutun, cu fiii lor și frații lor, fiind înveșmântați în in alb, având chimvale și psalterioane și harpe, au stat în picioare în partea de est a altarului și cu ei o sută douăzeci de preoți care sunau din trâmbițe;)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	EST 1:13 Atunci împăratul a spus înţelepţilor, care cunoşteau timpurile, (fiindcă aşa era obiceiul împăratului cu toţi cei ce cunoşteau lege şi judecată;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	EST 1:14 Şi lângă el erau Carşena, Şetar, Admata, Tarşiş, Meres, Marsena şi Memucan, cei şapte prinţi ai Persiei şi ai Mediei, care vedeau faţa împăratului şi care stăteau în locul dintâi în împărăţie).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	PRO 7:11 (Ea este gălăgioasă și încăpățânată; picioarele nu îi stau în casă;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	PRO 7:12 Acum afară, acum pe străzi și pândește la fiecare colț).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	ACT 5:12 Și prin mâinile apostolilor s-au făcut multe semne și minuni în popor; (și toți erau cu un gând în porticul lui Solomon.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	ACT 5:14 Și tot mai mulți credincioși erau adăugați Domnului, mulțimi deopotrivă de bărbați și femei).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	ROM 2:13 (Fiindcă nu ascultătorii legii sunt drepți înaintea lui Dumnezeu, ci înfăptuitorii legii vor fi declarați drepți.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	ROM 2:15 Aceștia arată lucrarea legii scrisă în inimile lor, conștiința lor de asemenea aducând mărturie și gândurile lor, în același timp acuzându-se sau scuzându-se unele pe altele),	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	ROM 5:13 (Fiindcă până la lege păcatul era în lume; dar păcatul nu este imputat când nu este lege.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	ROM 5:17 Căci dacă prin greșeala unuia moartea a domnit prin unul; cu mult mai mult, cei ce primesc abundență de har și din darul dreptății vor domni în viață prin unul, Isus Cristos).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	2CO 9:9 (Așa cum este scris: A împărțit peste tot; a dat săracilor; dreptatea lui rămâne pentru totdeauna.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	2CO 9:10 Iar cel ce dă sămânță semănătorului, deopotrivă vă dă pâine pentru mâncare și înmulțește sămânța voastră semănată și crește roadele dreptății voastre);	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	EPH 3:3 Cum prin revelație mi-a făcut cunoscut misterul; (așa cum v-am scris înainte pe scurt,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	EPH 3:4 Din care, citind, puteți înțelege cunoașterea mea în misterul lui Cristos),	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	EPH 4:9 (Și că el s-a urcat, ce înseamnă decât că el de asemenea a coborât mai întâi în părțile de jos ale pământului?	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	EPH 4:10 Cel ce a coborât este chiar cel ce a urcat mult deasupra tuturor cerurilor, ca să umple toate lucrurile.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	PHI 3:18 (Fiindcă mulți umblă, despre care adeseori v-am spus, și acum vă spun, chiar plângând, că sunt dușmanii crucii lui Cristos,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	PHI 3:19 Al căror sfârșit este nimicirea, al căror Dumnezeu este pântecele lor și a căror glorie este în rușinea lor și care gândesc lucrurile pământești).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	COL 2:21 (Nu atinge; nu gusta; nu mânui;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	COL 2:22 Care sunt toate pentru distrugere odată cu întrebuințarea), după poruncile și doctrinele oamenilor?	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	HEB 3:7 De aceea, (așa cum spune Duhul Sfânt: Astăzi, dacă veți auzi vocea lui,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	HEB 3:11 Așa că am jurat în furia mea: Nu vor intra în odihna mea).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(1/0)	HEB 12:20 (Fiindcă nu puteau îndura ceea ce era poruncit: Chiar dacă un animal atinge muntele, să fie ucis cu pietre, sau străpuns cu lancea;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Source	(0/1)	HEB 12:21 Și așa de înspăimântătoare era priveliștea, încât Moise a spus: Sunt tare îngrozit și tremur);	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (Acum jumătatea ce aparținea adunării era de trei sute treizeci și șapte de mii cinci sute de oi,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 Și șaisprezece mii de persoane;)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Aceasta de asemenea era socotită o ţară de uriaşi; uriaşii locuiau în ea în vechime; şi amoniţii îi numesc zamzumimi;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Şi pe aviţii care locuiau în Haţerim, până la Gaza, i-au nimicit caftoriţii, care au ieşit din Caftor, şi au locuit în locul lor.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (Pentru că ştiţi cum am locuit noi în ţara Egiptului; şi cum am trecut prin mijlocul naţiunilor printre care aţi trecut;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 Şi aţi văzut urâciunile lor şi idolii lor, lemn şi piatră, argint şi aur, care erau printre ei),	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (Pentru că tatăl meu a luptat pentru voi și și-a primejduit mult viața și v-a eliberat din mâna lui Madian;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 Iar voi v-ați ridicat astăzi împotriva casei tatălui meu și ați ucis pe fiii săi, șaptezeci de oameni, pe o singură piatră, și ați făcut pe Abimelec, fiul servitoarei sale, împărat peste bărbații din Sihem, pentru că el este fratele vostru);	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Și copiii lui Israel au întrebat pe DOMNUL, (deoarece chivotul legământului lui Dumnezeu era acolo în acele zile,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 Și Fineas, fiul lui Eleazar, fiul lui Aaron, stătea înaintea lui în acele zile), spunând: Să mai ies încă la bătălie împotriva fiilor lui Beniamin, fratele meu, sau să încetez? Și DOMNUL a spus: Urcă-te, pentru că mâine îi voi da în mâna ta.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 Și fiul lui Saul avea doi bărbați care erau căpetenii de cete: numele unuia era Baana și numele celuilalt, Recab, fiii lui Rimon, un beerotit, dintre copiii lui Beniamin; (fiindcă și Beerot era numărat la Beniamin;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 Și beerotiții fugiseră la Ghitaim și au fost locuitori temporari acolo până în această zi.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Şi Ahab l-a chemat pe Obadia, care era guvernatorul casei sale. (Şi Obadia se temea mult de DOMNUL;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Fiindcă s-a întâmplat, când Izabela a stârpit pe profeţii DOMNULUI, că Obadia a luat o sută de profeţi şi i-a ascuns câte cincizeci într-o peşteră şi i-a hrănit cu pâine şi apă.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Astfel Iehu, fiul lui Iosafat, fiul lui Nimși, a uneltit împotriva lui Ioram. (Și Ioram păzea Ramot-Galaadul, el și tot Israelul, din cauza lui Hazael, împăratul Siriei.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 Dar împăratul Ioram s-a întors să se vindece în Izreel de rănile pe care i le făcuseră sirienii, când se lupta împotriva lui Hazael, împăratul Siriei.) Și Iehu a zis: Dacă este voia voastră, să nu lăsați pe nimeni să iasă sau să scape din cetate pentru a merge să spună aceasta în Izreel.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 013 005 (Și DOMNUL a dat lui Israel un salvator, astfel încât ei au ieșit de sub mâna sirienilor; și copiii lui Israel au locuit în corturile lor ca înainte.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Totuși, ei nu s-au depărtat de păcatele casei lui Ieroboam, care a făcut pe Israel să păcătuiască: ci au umblat în ele; și de asemenea dumbrava Astarteei a rămas în Samaria.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Și fiii lui Ruben, întâiul născut al lui Israel, (căci el a fost întâiul născut; dar, pentru că pângărise patul tatălui său, dreptul său de naștere a fost dat fiilor lui Iosif, fiul lui Israel, iar genealogia nu trebuie socotită după dreptul de naștere.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Căci Iuda a avut întâietate între frații săi și din el a venit mai marele conducător; dar dreptul de naștere a fost al lui Iosif);	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 007 014 Fiii lui Manase: Asriel, pe care ea l-a născut, (dar concubina lui aramită, a născut pe Machir, tatăl lui Galaad;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 007 015 Și Machir a luat de soție pe sora lui Hupim și Șupim, sora lor avea numele Maaca); și numele celui de-al doilea era Țelofhad; și Țelofhad a avut fete.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 Și s-a întâmplat, când preoții ieșiseră din locul preasfânt (căci toți preoții care erau prezenți erau sfințiți și nu au așteptat atunci la rând;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 De asemenea leviții care erau cântăreți, cu toți ai lui Asaf, ai lui Heman, ai lui Iedutun, cu fiii lor și frații lor, fiind înveșmântați în in alb, având chimvale și psalterioane și harpe, au stat în picioare în partea de est a altarului și cu ei o sută douăzeci de preoți care sunau din trâmbițe;)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Atunci împăratul a spus înţelepţilor, care cunoşteau timpurile, (fiindcă aşa era obiceiul împăratului cu toţi cei ce cunoşteau lege şi judecată;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 Şi lângă el erau Carşena, Şetar, Admata, Tarşiş, Meres, Marsena şi Memucan, cei şapte prinţi ai Persiei şi ai Mediei, care vedeau faţa împăratului şi care stăteau în locul dintâi în împărăţie).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (Ea este gălăgioasă și încăpățânată; picioarele nu îi stau în casă;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 Acum afară, acum pe străzi și pândește la fiecare colț).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 005 012 Și prin mâinile apostolilor s-au făcut multe semne și minuni în popor; (și toți erau cu un gând în porticul lui Solomon.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 005 014 Și tot mai mulți credincioși erau adăugați Domnului, mulțimi deopotrivă de bărbați și femei).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (Fiindcă nu ascultătorii legii sunt drepți înaintea lui Dumnezeu, ci înfăptuitorii legii vor fi declarați drepți.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 Aceștia arată lucrarea legii scrisă în inimile lor, conștiința lor de asemenea aducând mărturie și gândurile lor, în același timp acuzându-se sau scuzându-se unele pe altele),	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 005 013 (Fiindcă până la lege păcatul era în lume; dar păcatul nu este imputat când nu este lege.	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 005 017 Căci dacă prin greșeala unuia moartea a domnit prin unul; cu mult mai mult, cei ce primesc abundență de har și din darul dreptății vor domni în viață prin unul, Isus Cristos).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(2/1)	047 2CO 009 009 (Așa cum este scris: A împărțit peste tot; a dat săracilor; dreptatea lui rămâne pentru totdeauna. (aiōn g165)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	047 2CO 009 010 Iar cel ce dă sămânță semănătorului, deopotrivă vă dă pâine pentru mâncare și înmulțește sămânța voastră semănată și crește roadele dreptății voastre);	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 Cum prin revelație mi-a făcut cunoscut misterul; (așa cum v-am scris înainte pe scurt,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 Din care, citind, puteți înțelege cunoașterea mea în misterul lui Cristos),	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Și că el s-a urcat, ce înseamnă decât că el de asemenea a coborât mai întâi în părțile de jos ale pământului?	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 Cel ce a coborât este chiar cel ce a urcat mult deasupra tuturor cerurilor, ca să umple toate lucrurile.)	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	050 PHI 003 018 (Fiindcă mulți umblă, despre care adeseori v-am spus, și acum vă spun, chiar plângând, că sunt dușmanii crucii lui Cristos,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	050 PHI 003 019 Al căror sfârșit este nimicirea, al căror Dumnezeu este pântecele lor și a căror glorie este în rușinea lor și care gândesc lucrurile pământești).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	051 COL 002 021 (Nu atinge; nu gusta; nu mânui;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	051 COL 002 022 Care sunt toate pentru distrugere odată cu întrebuințarea), după poruncile și doctrinele oamenilor?	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 003 007 De aceea, (așa cum spune Duhul Sfânt: Astăzi, dacă veți auzi vocea lui,	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 003 011 Așa că am jurat în furia mea: Nu vor intra în odihna mea).	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 012 020 (Fiindcă nu puteau îndura ceea ce era poruncit: Chiar dacă un animal atinge muntele, să fie ucis cu pietre, sau străpuns cu lancea;	WARN
+Romanian---BTF-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 Și așa de înspăimântătoare era priveliștea, încât Moise a spus: Sunt tare îngrozit și tremur);	WARN
+Romanian---BTF-Bible	ENCLOSURES	Summary	lines	48 / 48	NOTICE
+
+# UNEXPECTED
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Romanian---BTF-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Romanian---BTF-Bible	NUMERALS	Source	count	0	NOTICE
+Romanian---BTF-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Și după ce Isus a înviat devreme în prima zi a săptămânii, s-a arătat întâi Mariei Magdalena, din care scosese șapte draci.	WARN
+Romanian---BTF-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

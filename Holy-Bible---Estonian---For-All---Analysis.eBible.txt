@@ -1,0 +1,323 @@
+# File Name: Holy-Bible---Holy-Bible---Estonian---For-All---Analysis.txt
+# File Size: 20485       
+# File Date: 12/13/2025 05:26:54
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Piibel Kõigile
+# Bible Name English: Estonian Bible
+# Bible Language: Eesti
+# Bible Language English: Estonian
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Sihtasutus Piibel Kõigile
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=ekkpkp
+# Bible Source Year: 2023
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Estonian---For-All	ENCODING	Source	Holy-Bible---Estonian---For-All---Source-Edition.VPL.txt	UTF-8	NOTICE
+Estonian---For-All	ENCODING	Aionian	Holy-Bible---Estonian---For-All---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Estonian---For-All	BYTES	Source	bytes / chars	524419 / 501849 (multi-byte)	NOTICE
+Estonian---For-All	BYTES	Aionian	bytes / chars	554201 / 531551 (multi-byte)	NOTICE
+Estonian---For-All	BYTES	SourceClean	bytes / chars	523606 / 501036 (multi-byte)	NOTICE
+Estonian---For-All	BYTES	AionianClean	bytes / chars	552807 / 530159 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Estonian---For-All	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Estonian---For-All	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Estonian---For-All	AIONIAN	Aionian	book-defined-not-exist	179	NOTICE
+Estonian---For-All	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Estonian---For-All	AIONIAN	Aionian	missing-verse	0	NOTICE
+Estonian---For-All	AIONIAN	Aionian	aionian-verses	85	NOTICE
+Estonian---For-All	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Estonian---For-All	UNPRINTABLE	Source	count	0	NOTICE
+Estonian---For-All	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Estonian---For-All	UNICODE	Summary	(-)Orginal	47	NOTICE
+Estonian---For-All	UNICODE	Summary	(+)Aionian	52	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (M)	3285	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (A)	2227	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (T)	1916	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : ( )	77765	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (1)	3723	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (:)	5385	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (e)	45703	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (r)	7806	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (a)	47263	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (m)	13260	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (t)	26276	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (o)	9697	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (n)	17661	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (J)	3281	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (s)	35656	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (u)	21618	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (,)	7834	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (i)	32844	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (p)	4799	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (b)	2484	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (h)	4934	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (l)	21238	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (k)	14523	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (d)	16852	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (g)	7067	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (\n)	4212	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (2)	2634	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (3)	1553	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (()	48	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : ())	48	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (H)	1031	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (4)	1300	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (5)	1011	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (R)	1205	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (O)	1427	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (6)	923	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (.)	4871	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (U)	1179	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (7)	778	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (8)	759	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (9)	728	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (0)	686	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (K)	2668	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (G)	72	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (-)	10	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (L)	1257	NOTICE
+Estonian---For-All	UNICODE	Source(-)	Basic Latin : (c)	1	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (0)	17117	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (4)	5494	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (\t)	16800	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (M)	3277	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (A)	2221	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (T)	1914	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (1)	4470	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (e)	45734	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : ( )	69531	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (r)	7810	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (a)	47355	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (m)	13262	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (t)	26281	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (o)	9739	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (n)	17759	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (J)	3280	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (s)	35707	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (u)	21620	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (,)	7839	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (i)	32955	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (p)	4800	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (b)	2487	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (h)	4935	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (l)	21243	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (k)	14524	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (d)	16860	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (g)	7157	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (:)	1175	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (\n)	4199	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (2)	3781	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (3)	2429	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (()	134	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : ())	134	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (H)	1034	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (5)	1478	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (R)	1199	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (O)	1425	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (6)	1042	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (.)	4872	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (U)	1177	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (7)	785	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (8)	761	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (9)	727	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (K)	2666	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (G)	83	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (-)	11	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (L)	1255	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Latin Extended-A : (ē)	6	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Latin Extended-A : (ō)	71	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (c)	3	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Basic Latin : (y)	2	NOTICE
+Estonian---For-All	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	1	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (M)	3285	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (A)	2227	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (T)	1916	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : ( )	77765	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (1)	3723	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (:)	5385	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (S)	1155	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (e)	45703	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (r)	7806	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (a)	47263	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (m)	13260	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (t)	26276	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (o)	9697	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (n)	17661	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (J)	3281	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (s)	35656	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (u)	21618	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (,)	7834	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (i)	32844	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (v)	7004	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (p)	4799	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (j)	6858	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (b)	2484	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (h)	4934	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (l)	21238	NOTICE
+Estonian---For-All	UNICODE	Source	Latin-1 Supplement: (ü)	4094	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (k)	14523	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (d)	16852	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (g)	7067	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (\n)	4212	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (2)	2634	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (I)	603	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (;)	143	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (3)	1553	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (P)	665	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (()	48	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : ())	48	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (H)	1031	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (4)	1300	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (N)	654	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (5)	1011	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (B)	48	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (R)	1205	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (O)	1427	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (6)	923	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (.)	4871	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (U)	1179	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (7)	778	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (8)	759	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (f)	47	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (9)	728	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (0)	686	NOTICE
+Estonian---For-All	UNICODE	Source	Latin-1 Supplement: (õ)	4105	NOTICE
+Estonian---For-All	UNICODE	Source	Latin-1 Supplement: (ä)	5418	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (E)	184	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (V)	264	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (K)	2668	NOTICE
+Estonian---For-All	UNICODE	Source	General Punctuation : („)	1898	NOTICE
+Estonian---For-All	UNICODE	Source	General Punctuation : (“)	1898	NOTICE
+Estonian---For-All	UNICODE	Source	Latin-1 Supplement: (ö)	757	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (?)	713	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (!)	547	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (G)	72	NOTICE
+Estonian---For-All	UNICODE	Source	Mathematical Operators : (−)	133	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (D)	2	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (-)	10	NOTICE
+Estonian---For-All	UNICODE	Source	Latin-1 Supplement: (Õ)	101	NOTICE
+Estonian---For-All	UNICODE	Source	Latin-1 Supplement: (Ä)	106	NOTICE
+Estonian---For-All	UNICODE	Source	Latin-1 Supplement: (Ö)	9	NOTICE
+Estonian---For-All	UNICODE	Source	General Punctuation : (–)	9	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (L)	1257	NOTICE
+Estonian---For-All	UNICODE	Source	Latin-1 Supplement: (Ü)	91	NOTICE
+Estonian---For-All	UNICODE	Source	General Punctuation : (…)	5	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (F)	23	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (c)	1	NOTICE
+Estonian---For-All	UNICODE	Source	Basic Latin : (/)	1	NOTICE
+Estonian---For-All	UNICODE	Source	Latin Extended-A : (ž)	1	NOTICE
+Estonian---For-All	UNICODE	Source	Latin Extended-A : (Ž)	1	NOTICE
+Estonian---For-All	UNICODE	Source	Latin Extended-A : (š)	1	NOTICE
+
+# VERSIFICATION
+Estonian---For-All	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+Estonian---For-All	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Estonian---For-All	VERSIFICATION	Summary	missing	12	WARN
+Estonian---For-All	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Estonian---For-All	ENCLOSURES	Source	()	48 / 48	NOTICE
+Estonian---For-All	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Estonian---For-All	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Estonian---For-All	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Estonian---For-All	ENCLOSURES	Aionian	()	134 / 134	NOTICE
+Estonian---For-All	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Estonian---For-All	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Estonian---For-All	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Estonian---For-All	ENCLOSURES	Source	(1/0)	MAT 1:22 (See kõik toimus, et täituks see, mida Issand oli prohveti kaudu öelnud:	WARN
+Estonian---For-All	ENCLOSURES	Source	(0/1)	MAT 1:23 „Neitsi jääb lapseootele ja toob ilmale poja. Teda hüütakse Immaanueliks,“ mis tähendab „Jumal meiega“.)	WARN
+Estonian---For-All	ENCLOSURES	Source	(1/0)	MAR 7:3 (Variserid ja ükski juut ei söö enne, kui on oma esivanemate traditsiooni järgides käsi pesnud.	WARN
+Estonian---For-All	ENCLOSURES	Source	(0/1)	MAR 7:4 Samuti ei söö nad turult tulles enne, kui on pesnud. Nad järgivad veel paljusid muidki rituaale, näiteks kruuside, kannude ja kastrulite pesemine.)	WARN
+Estonian---For-All	ENCLOSURES	Source	(1/0)	MAR 14:51 (Üks tema järelkäijatest oli noor mees, kellel oli seljas üksnes linane rüü.	WARN
+Estonian---For-All	ENCLOSURES	Source	(0/1)	MAR 14:52 Nad haarasid temast kinni, kuid ta jooksis minema ja jättis oma rõiva maha.)	WARN
+Estonian---For-All	ENCLOSURES	Aionian	(1/0)	040 MAT 001 022 (See kõik toimus, et täituks see, mida Issand oli prohveti kaudu öelnud:	WARN
+Estonian---For-All	ENCLOSURES	Aionian	(0/1)	040 MAT 001 023 „Neitsi jääb lapseootele ja toob ilmale poja. Teda hüütakse Immaanueliks,“ mis tähendab „Jumal meiega“.)	WARN
+Estonian---For-All	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Variserid ja ükski juut ei söö enne, kui on oma esivanemate traditsiooni järgides käsi pesnud.	WARN
+Estonian---For-All	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 Samuti ei söö nad turult tulles enne, kui on pesnud. Nad järgivad veel paljusid muidki rituaale, näiteks kruuside, kannude ja kastrulite pesemine.)	WARN
+Estonian---For-All	ENCLOSURES	Aionian	(1/0)	041 MAR 014 051 (Üks tema järelkäijatest oli noor mees, kellel oli seljas üksnes linane rüü.	WARN
+Estonian---For-All	ENCLOSURES	Aionian	(0/1)	041 MAR 014 052 Nad haarasid temast kinni, kuid ta jooksis minema ja jättis oma rõiva maha.)	WARN
+Estonian---For-All	ENCLOSURES	Summary	lines	6 / 6	NOTICE
+
+# UNEXPECTED
+Estonian---For-All	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Estonian---For-All	UNEXPECTED	Source/Aionian	(/)	1/1	WARN
+Estonian---For-All	UNEXPECTED	Source/Aionian	Summary	1/1	WARN
+
+# NUMERALS
+Estonian---For-All	NUMERALS	Source	3	JOH 21:11 Siimon Peetrus läks paati ja tõmbas kalu täis võrgu kaldale. Seal oli 153 suurt kala, kuid võrk ei olnud siiski rebenenud.	WARN
+Estonian---For-All	NUMERALS	Source	count	1	WARN
+Estonian---For-All	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Kui Jeesus tõusis pühapäeva hommikul surnuist üles, ilmus ta kõigepealt Maarja Magdaleenale, kellest ta oli seitse kurja vaimu välja ajanud.	WARN
+Estonian---For-All	NUMERALS	Aionian	153	043-JOH-021-011 Siimon Peetrus läks paati ja tõmbas kalu täis võrgu kaldale. Seal oli 153 suurt kala, kuid võrk ei olnud siiski rebenenud.	WARN
+Estonian---For-All	NUMERALS	Aionian	count	2	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

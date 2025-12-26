@@ -1,0 +1,477 @@
+# File Name: Holy-Bible---Holy-Bible---English---Revised-Version---Analysis.txt
+# File Size: 47469       
+# File Date: 12/13/2025 05:23:59
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Revised Version 1895
+# Bible Name English: Revised Version 1895
+# Bible Language: English
+# Bible Language English: English
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: 19th century British revision of the King James Version
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=eng-rv
+# Bible Source Year: 1895
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+English---Revised-Version	ENCODING	Source	Holy-Bible---English---Revised-Version---Source-Edition.VPL.txt	UTF-8	NOTICE
+English---Revised-Version	ENCODING	Aionian	Holy-Bible---English---Revised-Version---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+English---Revised-Version	BYTES	Source	bytes / chars	5286658 / 5282096 (multi-byte)	NOTICE
+English---Revised-Version	BYTES	Aionian	bytes / chars	4668810 / 4664616 (multi-byte)	NOTICE
+English---Revised-Version	BYTES	SourceClean	bytes / chars	5285861 / 5281299 (multi-byte)	NOTICE
+English---Revised-Version	BYTES	AionianClean	bytes / chars	4665314 / 4661120 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+English---Revised-Version	AIONIAN	Aionian	book-not-exist	0	NOTICE
+English---Revised-Version	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+English---Revised-Version	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+English---Revised-Version	AIONIAN	Aionian	missing-chapter	0	NOTICE
+English---Revised-Version	AIONIAN	Aionian	missing-verse	0	NOTICE
+English---Revised-Version	AIONIAN	Aionian	aionian-verses	264	NOTICE
+English---Revised-Version	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+English---Revised-Version	UNPRINTABLE	Source	count	0	NOTICE
+English---Revised-Version	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+English---Revised-Version	UNICODE	Summary	(-)Orginal	78	NOTICE
+English---Revised-Version	UNICODE	Summary	(+)Aionian	81	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (G)	9073	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (E)	15283	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (N)	5850	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : ( )	974990	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (1)	36872	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (:)	50343	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (I)	19787	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (n)	268306	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (t)	371046	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (h)	328494	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (e)	485579	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (b)	51880	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (g)	60716	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (i)	215201	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (o)	278704	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (d)	179468	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (c)	62774	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (r)	195240	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (a)	305953	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (v)	35808	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (.)	30192	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (\n)	36878	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (2)	24872	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (A)	31603	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (w)	75078	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (s)	219282	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (;)	14112	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (k)	25654	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (u)	99547	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (p)	48999	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (f)	96403	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (m)	91562	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (3)	14374	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (,)	81841	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (L)	12675	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (l)	141717	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (4)	11998	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (5)	8544	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (D)	11241	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (y)	68573	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (6)	7807	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (7)	7019	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (8)	6806	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (H)	7884	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (9)	6557	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (0)	6208	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (S)	15420	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : ([)	5135	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (])	5135	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (-)	1331	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (B)	7222	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (x)	1979	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (T)	10848	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (O)	16026	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (R)	13453	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (P)	5993	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (C)	6157	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (W)	2862	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (M)	9152	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (Y)	590	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (?)	3572	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (U)	3877	NOTICE
+English---Revised-Version	UNICODE	Source(-)	General Punctuation : (’)	2262	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (j)	2989	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (Z)	2776	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (J)	12551	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (F)	2805	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (K)	3281	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (q)	1124	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (z)	2365	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (()	275	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : ())	275	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (V)	1381	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (!)	408	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (X)	1216	NOTICE
+English---Revised-Version	UNICODE	Source(-)	General Punctuation : (—)	19	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (Q)	7	NOTICE
+English---Revised-Version	UNICODE	Source(-)	Basic Latin : (_)	20	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (0)	130535	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (1)	42425	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (\t)	124344	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (G)	8307	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (E)	13436	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (N)	5483	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (I)	16493	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (n)	224264	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : ( )	761840	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (t)	311683	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (h)	279541	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (e)	408394	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (b)	44201	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (g)	49734	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (i)	180574	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (o)	234751	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (d)	149018	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (c)	52070	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (r)	162196	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (a)	258471	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (v)	30131	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (.)	25712	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (\n)	31085	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (2)	31078	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (A)	25893	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (w)	62617	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (s)	183886	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (;)	12203	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (k)	21993	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (u)	83461	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (p)	40950	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (f)	81510	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (:)	12054	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (m)	76619	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (3)	17178	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (,)	69630	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (L)	11671	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (l)	119635	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (4)	20005	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (5)	10269	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (D)	10685	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (y)	58245	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (6)	10726	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (7)	7443	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (8)	7855	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (H)	7276	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (9)	9292	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (S)	11401	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : ([)	4169	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (])	4169	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (-)	1240	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (B)	5843	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (x)	1483	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (T)	9194	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (O)	15415	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (R)	11628	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (P)	5703	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (C)	5952	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (W)	2052	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (M)	7188	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (Y)	526	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (?)	3222	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (U)	3771	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	General Punctuation : (’)	1986	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (j)	2552	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (Z)	2734	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (J)	11240	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (F)	2157	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (K)	3214	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (q)	942	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (z)	2141	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (()	587	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : ())	587	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (V)	1376	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (!)	363	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	General Punctuation : (—)	17	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Basic Latin : (Q)	5	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+English---Revised-Version	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (G)	9073	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (E)	15283	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (N)	5850	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : ( )	974990	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (1)	36872	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (:)	50343	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (I)	19787	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (n)	268306	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (t)	371046	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (h)	328494	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (e)	485579	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (b)	51880	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (g)	60716	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (i)	215201	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (o)	278704	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (d)	179468	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (c)	62774	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (r)	195240	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (a)	305953	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (v)	35808	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (.)	30192	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (\n)	36878	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (2)	24872	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (A)	31603	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (w)	75078	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (s)	219282	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (;)	14112	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (k)	25654	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (u)	99547	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (p)	48999	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (f)	96403	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (m)	91562	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (3)	14374	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (,)	81841	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (L)	12675	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (l)	141717	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (4)	11998	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (5)	8544	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (D)	11241	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (y)	68573	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (6)	7807	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (7)	7019	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (8)	6806	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (H)	7884	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (9)	6557	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (0)	6208	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (S)	15420	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : ([)	5135	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (])	5135	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (-)	1331	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (B)	7222	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (x)	1979	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (T)	10848	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (O)	16026	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (R)	13453	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (P)	5993	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (C)	6157	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (W)	2862	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (M)	9152	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (Y)	590	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (?)	3572	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (U)	3877	NOTICE
+English---Revised-Version	UNICODE	Source	General Punctuation : (’)	2262	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (j)	2989	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (Z)	2776	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (J)	12551	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (F)	2805	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (K)	3281	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (q)	1124	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (z)	2365	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (()	275	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : ())	275	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (V)	1381	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (!)	408	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (X)	1216	NOTICE
+English---Revised-Version	UNICODE	Source	General Punctuation : (—)	19	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (Q)	7	NOTICE
+English---Revised-Version	UNICODE	Source	Basic Latin : (_)	20	NOTICE
+
+# VERSIFICATION
+English---Revised-Version	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+English---Revised-Version	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+English---Revised-Version	VERSIFICATION	Summary	missing	16	WARN
+English---Revised-Version	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+English---Revised-Version	ENCLOSURES	Source	()	275 / 275	NOTICE
+English---Revised-Version	ENCLOSURES	Source	[]	5135 / 5135	NOTICE
+English---Revised-Version	ENCLOSURES	Source	{}	0 / 0	NOTICE
+English---Revised-Version	ENCLOSURES	Source	<>	0 / 0	NOTICE
+English---Revised-Version	ENCLOSURES	Aionian	()	587 / 587	NOTICE
+English---Revised-Version	ENCLOSURES	Aionian	[]	4169 / 4169	NOTICE
+English---Revised-Version	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+English---Revised-Version	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+English---Revised-Version	ENCLOSURES	Source	(1/0)	NUM 31:43 (now the congregation’s half was three hundred thousand and thirty thousand, seven thousand and five hundred sheep,	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	NUM 31:46 and sixteen thousand persons;)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	DEU 2:10 (The Emim dwelt therein aforetime, a people great, and many, and tall, as the Anakim:	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	DEU 2:12 The Horites also dwelt in Seir aforetime, but the children of Esau succeeded them; and they destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	DEU 2:20 (That also is accounted a land of Rephaim: Rephaim dwelt therein aforetime; but the Ammonites call them Zamzummim;	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	DEU 2:23 and the Avvim which dwelt in villages as far as Gaza, the Caphtorim, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	DEU 3:13 and the rest of Gilead, and all Bashan, the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, even all Bashan. (The same is called the land of Rephaim.	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	DEU 3:14 Jair the son of Manasseh took all the region of Argob, unto the border of the Geshurites and the Maacathites; and called them, even Bashan, after his own name, Havvoth-jair, unto this day.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	DEU 10:6 (And the children of Israel journeyed from Beeroth Bene-jaakan to Moserah: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest’s office in his stead.	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	DEU 10:9 Wherefore Levi hath no portion nor inheritance with his brethren; the LORD is his inheritance, according as the LORD thy God spake unto him.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	DEU 29:16 (for ye know how we dwelt in the land of Egypt; and how we came through the midst of the nations through which ye passed;	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	DEU 29:17 and ye have seen their abominations, and their idols, wood and stone, silver and gold, which were among them:)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	JDG 9:17 (for my father fought for you, and adventured his life, and delivered you out of the hand of Midian:	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	JDG 9:18 and ye are risen up against my father’s house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he is your brother;)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	JDG 20:27 And the children of Israel asked of the LORD, (for the ark of the covenant of God was there in those days,	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	JDG 20:28 and Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the LORD said, Go up; for tomorrow I will deliver him into thine hand.	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	2SA 4:2 And [Ish-bosheth], Saul’s son, [had ]two men that were captains of bands: the name of the one was Baanah, and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin: (for Beeroth also is reckoned to Benjamin:	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	2SA 4:3 and the Beerothites fled to Gittaim, and have been sojourners there until this day.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	1KI 12:2 And it came to pass, when Jeroboam the son of Nebat heard of it, (for he was yet in Egypt, wither he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt,	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	1KI 12:3 and they sent and called him;) that Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	1KI 18:3 And Ahab called Obadiah, which was over the household. (Now Obadiah feared the LORD greatly:	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	1KI 18:4 for it was so, when Jezebel cut off prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	1KI 21:25 (But there was none like unto Ahab, which did sell himself to do that which was evil in the sight of the LORD, whom Jezebel his wife stirred up.	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	1KI 21:26 And he did very abominably in following idols, according to all that the Amorites did, whom the LORD cast out before the children of Israel.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	2KI 9:14 So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram kept Ramoth-gilead, he and all Israel, because of Hazael king of Syria:	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	2KI 9:15 but king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If this be your mind, then let none escape and go forth out of the city, to go to tell it in Jezreel.	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	2KI 13:5 (And the LORD gave Israel a saviour, so that they went out from under the hand of the Syrians: and the children of Israel dwelt in their tents, as beforetime.	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	2KI 13:6 Nevertheless they departed not from the sins of the house of Jeroboam, wherewith he made Israel to sin, but walked therein: and there remained the Asherah also in Samaria.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	1CH 5:1 And the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father’s couch, his birthright was given unto the sons of Joseph the son of Israel; and the genealogy is not to be reckoned after the birthright.	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	1CH 5:2 For Judah prevailed above his brethren, and of him came the prince; but the birthright was Joseph’s:)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	1CH 7:14 The sons of Manasseh; Asriel, whom [his wife ]bare: (his concubine the Aramitess bare Machir the father of Gilead:	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	1CH 7:15 and Machir took a wife of Huppim and Shuppim, whose sister’s name was Maacah;) and the name of the second was Zelophehad: and Zelophehad had daughters.	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	2CH 5:11 And it came to pass, when the priests were come out of the holy place, (for all the priests that were present had sanctified themselves, and did not keep their courses;	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	2CH 5:12 also the Levites which were the singers, all of them, even Asaph, Heman, Jeduthun, and their sons and their brethren, arrayed in fine linen, with cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	EST 1:13 Then the king said to the wise men, which knew the times, (for so was the king’s manner toward all that knew law and judgment;	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	EST 1:14 and the next unto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king’s face, and sat first in the kingdom:)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	JOB 15:18 (Which wise men have told from their fathers, and have not hid it;	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	JOB 15:19 Unto whom alone the land was given, and no stranger passed among them:)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	JER 39:1 (IN the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and besieged it;	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	JER 39:2 in the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, a breach was made in the city:)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	WIS 4:8 (For honourable old age is not that which standeth in length of time, Nor is its measure given by number of years:	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	WIS 4:9 But understanding is gray hairs unto men, And an unspotted life is ripe old age.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	4ES 9:23 Nevertheless if thou wilt cease yet seven days more, (howbeit thou shalt not fast in them,	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	4ES 9:24 but shalt go into a field of flowers, where no house is builded, and eat only of the flowers of the field; and thou shalt taste no flesh, and shalt drink no wine, but [shalt eat ] flowers only;)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	LUK 2:36 And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher (she was of a great age, having lived with a husband seven years from her virginity,	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	LUK 2:37 and she had been a widow even for fourscore and four years), which departed not from the temple, worshipping with fastings and supplications night and day.	WARN
+English---Revised-Version	ENCLOSURES	Source	[1/0]	JOH 7:53 [And they went every man unto his own house:	WARN
+English---Revised-Version	ENCLOSURES	Source	[0/1]	JOH 8:11 And she said, No man, Lord. And Jesus said, Neither do I condemn thee: go thy way; from henceforth sin no more.]	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	ACT 1:18 (Now this man obtained a field with the reward of his iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	ACT 1:19 And it became known to all the dwellers at Jerusalem; insomuch that in their language that field was called Akeldama, that is, The field of blood.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	EPH 4:9 (Now this, He ascended, what is it but that he also descended into the lower parts of the earth?	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	EPH 4:10 He that descended is the same also that ascended far above all the heavens, that he might fill all things.)	WARN
+English---Revised-Version	ENCLOSURES	Source	(1/0)	HEB 7:2 to whom also Abraham divided a tenth part of all (being first, by interpretation, King of righteousness, and then also King of Salem, which is, King of peace;	WARN
+English---Revised-Version	ENCLOSURES	Source	(0/1)	HEB 7:3 without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like unto the Son of God), abideth a priest continually.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (now the congregation’s half was three hundred thousand and thirty thousand, seven thousand and five hundred sheep,	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 and sixteen thousand persons;)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (The Emim dwelt therein aforetime, a people great, and many, and tall, as the Anakim:	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 The Horites also dwelt in Seir aforetime, but the children of Esau succeeded them; and they destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (That also is accounted a land of Rephaim: Rephaim dwelt therein aforetime; but the Ammonites call them Zamzummim;	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 and the Avvim which dwelt in villages as far as Gaza, the Caphtorim, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 and the rest of Gilead, and all Bashan, the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, even all Bashan. (The same is called the land of Rephaim.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 Jair the son of Manasseh took all the region of Argob, unto the border of the Geshurites and the Maacathites; and called them, even Bashan, after his own name, Havvoth-jair, unto this day.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (And the children of Israel journeyed from Beeroth Bene-jaakan to Moserah: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest’s office in his stead.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Wherefore Levi hath no portion nor inheritance with his brethren; the LORD is his inheritance, according as the LORD thy God spake unto him.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (for ye know how we dwelt in the land of Egypt; and how we came through the midst of the nations through which ye passed;	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 and ye have seen their abominations, and their idols, wood and stone, silver and gold, which were among them:)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (for my father fought for you, and adventured his life, and delivered you out of the hand of Midian:	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 and ye are risen up against my father’s house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he is your brother;)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 And the children of Israel asked of the LORD, (for the ark of the covenant of God was there in those days,	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 and Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the LORD said, Go up; for tomorrow I will deliver him into thine hand.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 And [Ish-bosheth], Saul’s son, [had] two men that were captains of bands: the name of the one was Baanah, and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin: (for Beeroth also is reckoned to Benjamin:	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 and the Beerothites fled to Gittaim, and have been sojourners there until this day.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	011 1KI 012 002 And it came to pass, when Jeroboam the son of Nebat heard of it, (for he was yet in Egypt, wither he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt,	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	011 1KI 012 003 and they sent and called him;) that Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 And Ahab called Obadiah, which was over the household. (Now Obadiah feared the LORD greatly:	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 for it was so, when Jezebel cut off prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (But there was none like unto Ahab, which did sell himself to do that which was evil in the sight of the LORD, whom Jezebel his wife stirred up.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 And he did very abominably in following idols, according to all that the Amorites did, whom the LORD cast out before the children of Israel.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram kept Ramoth-gilead, he and all Israel, because of Hazael king of Syria:	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 but king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If this be your mind, then let none escape and go forth out of the city, to go to tell it in Jezreel.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	012 2KI 013 005 (And the LORD gave Israel a saviour, so that they went out from under the hand of the Syrians: and the children of Israel dwelt in their tents, as beforetime.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Nevertheless they departed not from the sins of the house of Jeroboam, wherewith he made Israel to sin, but walked therein: and there remained the Asherah also in Samaria.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 And the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father’s couch, his birthright was given unto the sons of Joseph the son of Israel; and the genealogy is not to be reckoned after the birthright.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 For Judah prevailed above his brethren, and of him came the prince; but the birthright was Joseph’s:)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	013 1CH 007 014 The sons of Manasseh; Asriel, whom [his wife] bare: (his concubine the Aramitess bare Machir the father of Gilead:	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	013 1CH 007 015 and Machir took a wife of Huppim and Shuppim, whose sister’s name was Maacah;) and the name of the second was Zelophehad: and Zelophehad had daughters.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 And it came to pass, when the priests were come out of the holy place, (for all the priests that were present had sanctified themselves, and did not keep their courses;	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 also the Levites which were the singers, all of them, even Asaph, Heman, Jeduthun, and their sons and their brethren, arrayed in fine linen, with cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Then the king said to the wise men, which knew the times, (for so was the king’s manner toward all that knew law and judgment;	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 and the next unto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king’s face, and sat first in the kingdom:)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	018 JOB 015 018 (Which wise men have told from their fathers, and have not hid it;	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	018 JOB 015 019 Unto whom alone the land was given, and no stranger passed among them:)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	024 JER 039 001 (IN the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and besieged it;	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	024 JER 039 002 in the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, a breach was made in the city:)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	042 LUK 002 036 And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher (she was of a great age, having lived with a husband seven years from her virginity,	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	042 LUK 002 037 and she had been a widow even for fourscore and four years), which departed not from the temple, worshipping with fastings and supplications night and day.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	[1/0]	043 JOH 007 053 [And they went every man unto his own house:	WARN
+English---Revised-Version	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 And she said, No man, Lord. And Jesus said, Neither do I condemn thee: go thy way; from henceforth sin no more.]	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Now this man obtained a field with the reward of his iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 And it became known to all the dwellers at Jerusalem; insomuch that in their language that field was called Akeldama, that is, The field of blood.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Now this, He ascended, what is it but that he also descended into the lower parts of the earth?	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 He that descended is the same also that ascended far above all the heavens, that he might fill all things.)	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(1/0)	058 HEB 007 002 to whom also Abraham divided a tenth part of all (being first, by interpretation, King of righteousness, and then also King of Salem, which is, King of peace;	WARN
+English---Revised-Version	ENCLOSURES	Aionian	(0/1)	058 HEB 007 003 without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like unto the Son of God), abideth a priest continually.	WARN
+English---Revised-Version	ENCLOSURES	Summary	lines	54 / 50	WARN
+
+# UNEXPECTED
+English---Revised-Version	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(_)	20/0	WARN
+English---Revised-Version	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+English---Revised-Version	UNEXPECTED	Source/Aionian	Summary	20/0	WARN
+
+# NUMERALS
+English---Revised-Version	NUMERALS	Source	1	2CH 25:24 And [he took ]all the go1d and silver, and all the vessels that were found in the house of God with Obed-edom, and the treasures of the king’s house, the hostages also, and returned to Samaria.	WARN
+English---Revised-Version	NUMERALS	Source	count	1	WARN
+English---Revised-Version	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Now when he was risen early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven devils.	WARN
+English---Revised-Version	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

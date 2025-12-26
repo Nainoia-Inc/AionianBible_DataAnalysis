@@ -1,0 +1,856 @@
+# File Name: Holy-Bible---Holy-Bible---Saafi-Saafi---Saafi-Saafi-Bible---Analysis.txt
+# File Size: 123971      
+# File Date: 12/13/2025 05:56:11
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Saafi-Saafi Bible
+# Bible Name English: Safene Bible
+# Bible Language: Saafi-Saafi
+# Bible Language English: Safene
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Wycliffe Bible Translators
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=sav
+# Bible Source Year: 2019
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Saafi-Saafi---Saafi-Saafi-Bible	ENCODING	Source	Holy-Bible---Saafi-Saafi---Saafi-Saafi-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	ENCODING	Aionian	Holy-Bible---Saafi-Saafi---Saafi-Saafi-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Saafi-Saafi---Saafi-Saafi-Bible	BYTES	Source	bytes / chars	1450719 / 1334395 (multi-byte)	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	BYTES	Aionian	bytes / chars	1511934 / 1395414 (multi-byte)	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	BYTES	SourceClean	bytes / chars	1449886 / 1333562 (multi-byte)	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	BYTES	AionianClean	bytes / chars	1509664 / 1393154 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Saafi-Saafi---Saafi-Saafi-Bible	AIONIAN	Aionian	missing-verse	058-HEB-006-005	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	AIONIAN	Aionian	book-defined-not-exist	59	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	AIONIAN	Aionian	missing-verse	1	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	AIONIAN	Aionian	aionian-verses	204	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Saafi-Saafi---Saafi-Saafi-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Summary	(-)Orginal	56	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Summary	(+)Aionian	60	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (G)	2010	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (E)	4485	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : ( )	265381	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (1)	10255	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (:)	13927	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (c)	15141	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (a)	163318	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (m)	22371	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (b)	8717	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (,)	22208	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (K)	6018	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (o)	65758	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (h)	40351	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (e)	77982	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (r)	18801	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (l)	12852	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (i)	87249	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (n)	63749	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (k)	41808	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (.)	12387	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (\n)	10672	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (2)	7176	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (u)	40591	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (g)	11386	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (s)	27439	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (t)	22209	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (3)	4243	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (»)	2542	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (4)	3307	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (A)	5936	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (5)	2485	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (6)	2144	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (R)	1898	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (7)	1945	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (T)	3301	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (8)	1809	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (9)	1802	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (M)	4414	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (y)	20039	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (p)	7650	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (0)	2122	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (d)	9381	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (C)	1989	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (-)	2167	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (H)	3033	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (S)	1105	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (P)	1196	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (L)	1966	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (()	491	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : ())	491	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (D)	203	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (U)	1192	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (O)	3539	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (J)	1527	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (])	48	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source(-)	Basic Latin : (V)	405	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	45523	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	12584	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	42636	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	2022	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	4484	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	231481	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	15143	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	163517	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	22378	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	8727	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	22216	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	6016	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	65847	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	40362	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	78020	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	18812	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	12862	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	87495	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	63950	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	41809	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	12363	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	10658	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	9612	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	40593	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	11599	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	27552	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	22215	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	5168	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	3257	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (»)	2540	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	10522	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	5937	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	4053	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	3978	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	1892	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	2191	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	3299	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	2246	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	2039	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	4407	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	20053	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	7651	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	9397	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	1988	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	2165	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	3043	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	1110	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	1201	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	1969	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (()	268	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : ())	268	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	204	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	1191	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	3536	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	1526	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (])	36	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	404	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (G)	2010	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (E)	4485	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (N)	2901	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : ( )	265381	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (1)	10255	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (:)	13927	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin Extended-A : (Ŋ)	1354	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (c)	15141	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (a)	163318	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (m)	22371	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (b)	8717	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (,)	22208	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (K)	6018	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (o)	65758	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (h)	40351	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (f)	10896	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (e)	77982	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (r)	18801	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (l)	12852	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (i)	87249	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (n)	63749	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (k)	41808	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin Extended-B : (ƴ)	3995	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (.)	12387	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (\n)	10672	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (2)	7176	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (u)	40591	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (g)	11386	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (w)	16410	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	IPA Extensions : (ɓ)	26870	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin-1 Supplement: (ñ)	3940	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (s)	27439	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (t)	22209	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (F)	1533	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	IPA Extensions : (ɗ)	47862	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin Extended-A : (ŋ)	22092	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (3)	4243	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin-1 Supplement: («)	2542	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (W)	2923	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (!)	958	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin-1 Supplement: (»)	2542	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (4)	3307	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (A)	5936	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (5)	2485	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (")	178	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (6)	2144	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (R)	1898	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (7)	1945	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (T)	3301	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (8)	1809	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (9)	1802	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (M)	4414	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (y)	20039	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (p)	7650	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (0)	2122	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (d)	9381	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (j)	4093	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (')	2194	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin Extended-B : (Ɓ)	2202	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (C)	1989	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin Extended-B : (Ɗ)	759	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (-)	2167	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (H)	3033	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (S)	1105	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (P)	1196	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (;)	1404	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (?)	1103	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (I)	1782	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (L)	1966	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (()	491	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : ())	491	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (Y)	3410	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin Extended-B : (Ƴ)	353	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin-1 Supplement: (Ñ)	212	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (D)	203	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (B)	945	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (U)	1192	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (O)	3539	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	General Punctuation : (“)	387	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	General Punctuation : (”)	387	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (J)	1527	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (X)	1191	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	General Punctuation : (‘)	13	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	General Punctuation : (’)	13	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : ([)	48	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (])	48	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Latin-1 Supplement: (×)	1	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNICODE	Source	Basic Latin : (V)	405	NOTICE
+
+# VERSIFICATION
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-010-014	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-021-021	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-021	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-030	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-041	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-042	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-043	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-037-014	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	001-GEN-041-021	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-001-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-001-003	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-001-004	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-016-007	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-016-008	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-019-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-024-017	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-025-019	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-026-005	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-027-007	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-027-015	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-028-023	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-028-024	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-028-025	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-028-027	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-036-012	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-037-008	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-038-015	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-016	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-017	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-018	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-020	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	040-MAT-009-021	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	040-MAT-022-044	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-044	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-018	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-020	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-050	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-043	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	042-LUK-007-005	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	042-LUK-019-021	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-045	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-003	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-008	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	043-JOH-011-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	044-ACT-010-046	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-039	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-020	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	044-ACT-019-041	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-036	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-003	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-004	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	045-ROM-003-026	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	045-ROM-004-023	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-021	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-039	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-013	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	046-1CO-001-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-008	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-013	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	046-1CO-009-005	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	046-1CO-009-006	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-014	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	047-2CO-012-004	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	047-2CO-013-014	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	048-GAL-002-008	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	048-GAL-002-009	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	051-COL-001-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	051-COL-001-012	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	052-1TH-003-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	054-1TI-001-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	055-2TI-001-002	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	058-HEB-002-003	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	058-HEB-002-004	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	058-HEB-006-005	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Aionian	missing	058-HEB-006-006	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Summary	missing	92	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	()	491 / 491	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[]	48 / 48	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	()	268 / 268	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[]	48 / 36	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAT 12:46 Wa Yeesu nik ndaam, a woyeeɗa na mboolnda, yaay ɓa na taambɗoh ciŋ ɗe ƴaar ci hayya, ɓa tufukka ŋ hara ɓa waaɗta woo na ɗe. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAT 12:47 Raakka ɓoyi woo ɗe ne : « Yaay ɗu na taambɗoh ciŋ ɗa ɓa ɗaa tufukka ŋ hara, ɓa waaɗ woo na ɗa. »]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAT 16:2 A loffa ɓa ne : « [Noh muyee te eel ci ruumndiɗee ɗah, ɗu na woye ne : “ Eel ci ruumndiɗ coy, wa hey neɓe ! ”	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAT 16:3 Wa nik na ɓaaɓ ɗah, ɗu woo ne : “ Wa ngaaɓiɗ, wa neɓanɗi. ” Ɗu minnda inhisoh findi eel ci na mande te ɗu minɗi inhisoh firndeeciŋ jamanooni !]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAT 17:20 A loffa ɓa ne : « E kosi ɗu kos ƴissuut weɗ tah. Ñam na woyee ɗu wa te wa keeh, ɗu raak kos hend na kuɓu mutarda ƴissuut, ɗu woo tangoorii ne wa kurkaat ndii, wa kaɗ nden ɗah, wa hey kaɗe ; ali in wooñanɗi ɗu. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAT 17:21 ] »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAT 18:10 Kinaat heef ali yino ŋ ɓi ƴissuut cii ! Ee, ñam na woyee ɗu wa, malaakaaci na niiɗee ɓa nik ŋ Eel ci na gene hot jahran Baabiŋ ngo yi nik nga. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAT 18:11 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAT 21:43 Weɗ tah, ñam na woyee ɗu ne : Nguuriŋ-Kooh hey teyse ŋ yaah ɗu, cuuɓ wiiriis wi eɗohan rim ciŋ wa, hey wa eɗse. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAT 21:44 Ɓo' nu keen ŋ atoh feem ɗah, a hey weersukohe te ɓo' nu wa keen ŋ ɗafuk ce ɗah, wa hey ɗe ruñuɓsohe.] »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 Mas ɗu ɓi jangɗohoh ciŋ waasi na Farisen ci ! E ɗu naafeeha ! E ɗu na range waasi, ɗu hondoh ɓooɓi aas ŋ Nguuriŋ-Ɗafki ! Ɗu aasɗi, ɗu faɗanɗi ɓooɓi waaɗ aas ne ɓa aas. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAR 7:15 Ali in ngaŋ in ci na aase ɓo' minɗi ɗe ɓek hoolaaɗi. Waaye a ini na pulohe ŋ ɓoyi, weɗ na hoolaaɗi'ɗee ɗe. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAR 7:16 Ɓo' nu raak nof ɗah, kerhaat.] »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAR 9:43 Yaahiŋ ɗa waaɗ ɗa ɓek ŋ bakaaɗ ɗah, nguɗaa, fu tas yaah yino ; laam fu aas ŋ kipes ki na yaah yino, weɗ ngisoh fu kaɗ na yaah ciŋ ɗa kanak ci ŋ yongkaaha heyɗi ƴime. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAR 9:44 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAR 9:45 Kotiŋ ɗa waaɗ ɗa ɓek ŋ bakaaɗ ɗah, nguɗaa ; laam fu aas ŋ kipes ki na kot yino, weɗ ngisoh fu njafu na kot ciŋ ɗa kanak ci ŋ yongkaaha yakka. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAR 9:46 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAR 11:25 Fu kiimee Kooh te raak, fu ambɗiɗ morom fu in ɗah, ɗaasa ɗe, Baabiŋ ɗu, yi ŋ Eel ci nam ɗa ɗaas. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAR 11:26 ] »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAR 15:27 Yeesu daaƴsee na rokoh kanak, yii lahha ɗe yaah-ñaahum, yum yaah-sing. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAR 15:28 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	MAR 16:8 Ɓa pulla ruy-ruya, ɓa saandoheeɗa. Ɓa nikee saakɗoheeɗa sagu tiit, neƴƴoheem tahha po ɓa wooɗi ali ɓo' in. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	MAR 16:20 Taalubeeci woosa Yegɗohiŋ Muci ŋ ɗisik nu nik, Heɗ ɓoo ambɗohha ɓa ŋ pangkeem, in ci feyohiɗ ci a haɓɗee ɗisik nu ɓa kaɗ ɗah, ca teeɓohha ne woo kiŋ ɓa, wa keeh.]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	LUK 17:35 Ɓitiɓ kanak hey nike ɓa oɗe, yinni ɓayu, yi tas faɗu. » [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	LUK 17:36 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	LUK 22:42 an : « Baab, fu waaɗa ɗah, usɗiɗ to kaasiŋ miskiɗii ; waaye wa kanaat nik waaɗ-waaɗiŋ ngo, wa nikaat findi fu waaɗoha. » [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	LUK 22:44 Ŋ tiisi a nikohee weem, Yeesu uupeeɗa kiim Kooh, opiŋ ɗe siiteeɗa ŋ kehƴi haa ñif.]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	LUK 23:16 Kon ŋ hey ɗe laɓɗuke, ƴut ɗah, ŋ faɗis ɗe. » [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	LUK 23:17 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	JOH 5:3 Kosaayiɗ laayiɗ nikee faankiɗ ŋ perong ceem, na ɓi fuuliɗ na ɓi lafañ na ɓi ɓeendkiɗ. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	JOH 5:4 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	JOH 7:52 Ɓa loffa ɗe ne : « Fu nam gen Galile e ? Marka baahiɗ, fu hey hote ne ali woosuuɗ pulohɗi Galile. » [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 Ɓitɓa loffa ne : « Ali ɓo', kilifaani. » Yeesu woosa ɗe ne : « Ŋ namanɗi ɗa eɗ tooñ ; fu miniɗ kaɗ waaye ini amboh woti, kina bakaaɗis. »]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	ACT 8:36 Ɓeɗ kaɗoh kaɗoh po ɓa hotta masuɓ ; ƴaara woosa ne : « Masuɓ weɗɗi, wa ye hondohan ndo ɓoktu ? » [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	ACT 8:37 Filip woosa ɗe ne : « Fu miniɗ ɓoktu, ne fu kosiɗ ŋ keeñiŋ ɗa jen ɗah. » Ƴaara woosa ne : « Ŋ kosiɗ ne Yeesu Kiristaa a yi Kuɓkiŋ Kooh. »]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	ACT 15:33 Ɓa nikka ŋ ndaam in samiɗ maañ, ƴutta ɓaah caŋ ɓoo kosiɗ ca faɗta ɓa ne ɓa dokuk moɗoɗ ŋ ɓooɓa woosee ɓa. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	ACT 15:34 Waaye Silaas tassa ŋ Añcos, Yuud dokukka Yerusalem kiik ce.]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	ACT 24:6 A jeemiɗ sah hoolaaɗi'iɗ Kahan Kooh. Ŋ ineem ɓoo ammba ɗe. [Ɓoo waaɗta ɗe atte ŋ waasiŋ ɓoo,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	ACT 24:8 A woosa ɓoo ne ɓoo hayaat nga ɗa.] Fu miniɗ ɗe meekis sah ŋ ini kaɗ ŋ in ceem jen, fu hey hotoote ne in ci ɓoo na yambe ƴaarii, ca keeh. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	ACT 28:28 Pool woyissa ɓa ne : « Inhaat ne Yegɗohiŋ Muci puloh ŋ Kooh woosohuuɗ po ŋ ɓi nikɗi Yawuut, te ɓeɗ, ɓa hey wa sikɗuke. » [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	ACT 28:29 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[1/0]	ROM 16:23 Gayus yii kañiɗ ɗu. Mi yi Pool, ŋ dal ŋ kahan ce, ɓi Janguuni jen na name coh nga. Erasta, yi na taambkohe raak-raakiŋ kur-taahii, a yii kañiɗ ɗu, a yi na ɓaah ɓoo Kuwartus. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Source	[0/1]	ROM 16:24 ]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 012 046 Wa Yeesu nik ndaam, a woyeeɗa na mboolnda, yaay ɓa na taambɗoh ciŋ ɗe ƴaar ci hayya, ɓa tufukka ŋ hara ɓa waaɗta woo na ɗe. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 012 047 Raakka ɓoyi woo ɗe ne: «Yaay ɗu na taambɗoh ciŋ ɗa ɓa ɗaa tufukka ŋ hara, ɓa waaɗ woo na ɗa.»]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 016 002 A loffa ɓa ne: «[Noh muyee te eel ci ruumndiɗee ɗah, ɗu na woye ne: “Eel ci ruumndiɗ coy, wa hey neɓe!”	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 016 003 Wa nik na ɓaaɓ ɗah, ɗu woo ne: “Wa ngaaɓiɗ, wa neɓanɗi.” Ɗu minnda inhisoh findi eel ci na mande te ɗu minɗi inhisoh firndeeciŋ jamanooni!]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 017 020 A loffa ɓa ne: «E kosi ɗu kos ƴissuut weɗ tah. Ñam na woyee ɗu wa te wa keeh, ɗu raak kos hend na kuɓu mutarda ƴissuut, ɗu woo tangoorii ne wa kurkaat ndii, wa kaɗ nden ɗah, wa hey kaɗe; ali in wooñanɗi ɗu. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 018 010 Kinaat heef ali yino ŋ ɓi ƴissuut cii! Ee, ñam na woyee ɗu wa, malaakaaci na niiɗee ɓa nik ŋ Eel ci na gene hot jahran Baabiŋ ngo yi nik nga. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 021 043 Weɗ tah, ñam na woyee ɗu ne: Nguuriŋ-Kooh hey teyse ŋ yaah ɗu, cuuɓ wiiriis wi eɗohan rim ciŋ wa, hey wa eɗse. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 021 044 Ɓo' nu keen ŋ atoh feem ɗah, a hey weersukohe te ɓo' nu wa keen ŋ ɗafuk ce ɗah, wa hey ɗe ruñuɓsohe.]»	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 Mas ɗu ɓi jangɗohoh ciŋ waasi na Farisen ci! E ɗu naafeeha! E ɗu na range waasi, ɗu hondoh ɓooɓi aas ŋ Nguuriŋ-Ɗafki! Ɗu aasɗi, ɗu faɗanɗi ɓooɓi waaɗ aas ne ɓa aas. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 007 015 Ali in ngaŋ in ci na aase ɓo' minɗi ɗe ɓek hoolaaɗi. Waaye a ini na pulohe ŋ ɓoyi, weɗ na hoolaaɗi'ɗee ɗe. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 007 016 Ɓo' nu raak nof ɗah, kerhaat.]»	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 043 Yaahiŋ ɗa waaɗ ɗa ɓek ŋ bakaaɗ ɗah, nguɗaa, fu tas yaah yino; laam fu aas ŋ kipes ki na yaah yino, weɗ ngisoh fu kaɗ na yaah ciŋ ɗa kanak ci ŋ yongkaaha heyɗi ƴime. [ (Geenna g1067)	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 045 Kotiŋ ɗa waaɗ ɗa ɓek ŋ bakaaɗ ɗah, nguɗaa; laam fu aas ŋ kipes ki na kot yino, weɗ ngisoh fu njafu na kot ciŋ ɗa kanak ci ŋ yongkaaha yakka. [ (Geenna g1067)	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 011 025 Fu kiimee Kooh te raak, fu ambɗiɗ morom fu in ɗah, ɗaasa ɗe, Baabiŋ ɗu, yi ŋ Eel ci nam ɗa ɗaas. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 015 027 Yeesu daaƴsee na rokoh kanak, yii lahha ɗe yaah-ñaahum, yum yaah-sing. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 008 Ɓa pulla ruy-ruya, ɓa saandoheeɗa. Ɓa nikee saakɗoheeɗa sagu tiit, neƴƴoheem tahha po ɓa wooɗi ali ɓo' in. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 Taalubeeci woosa Yegɗohiŋ Muci ŋ ɗisik nu nik, Heɗ ɓoo ambɗohha ɓa ŋ pangkeem, in ci feyohiɗ ci a haɓɗee ɗisik nu ɓa kaɗ ɗah, ca teeɓohha ne woo kiŋ ɓa, wa keeh.]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 017 035 Ɓitiɓ kanak hey nike ɓa oɗe, yinni ɓayu, yi tas faɗu.» [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 022 042 an: «Baab, fu waaɗa ɗah, usɗiɗ to kaasiŋ miskiɗii; waaye wa kanaat nik waaɗ-waaɗiŋ ngo, wa nikaat findi fu waaɗoha.» [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 022 044 Ŋ tiisi a nikohee weem, Yeesu uupeeɗa kiim Kooh, opiŋ ɗe siiteeɗa ŋ kehƴi haa ñif.]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 023 016 Kon ŋ hey ɗe laɓɗuke, ƴut ɗah, ŋ faɗis ɗe.» [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 003 Kosaayiɗ laayiɗ nikee faankiɗ ŋ perong ceem, na ɓi fuuliɗ na ɓi lafañ na ɓi ɓeendkiɗ. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 052 Ɓa loffa ɗe ne: «Fu nam gen Galile e? Marka baahiɗ, fu hey hote ne ali woosuuɗ pulohɗi Galile.» [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 Ɓitɓa loffa ne: «Ali ɓo', kilifaani.» Yeesu woosa ɗe ne: «Ŋ namanɗi ɗa eɗ tooñ; fu miniɗ kaɗ waaye ini amboh woti, kina bakaaɗis.»]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 008 036 Ɓeɗ kaɗoh kaɗoh po ɓa hotta masuɓ; ƴaara woosa ne: «Masuɓ weɗɗi, wa ye hondohan ndo ɓoktu?» [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 008 037 Filip woosa ɗe ne: «Fu miniɗ ɓoktu, ne fu kosiɗ ŋ keeñiŋ ɗa jen ɗah.» Ƴaara woosa ne: «Ŋ kosiɗ ne Yeesu Kiristaa a yi Kuɓkiŋ Kooh.»]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 015 033 Ɓa nikka ŋ ndaam in samiɗ maañ, ƴutta ɓaah caŋ ɓoo kosiɗ ca faɗta ɓa ne ɓa dokuk moɗoɗ ŋ ɓooɓa woosee ɓa. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 015 034 Waaye Silaas tassa ŋ Añcos, Yuud dokukka Yerusalem kiik ce.]	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 024 006 A jeemiɗ sah hoolaaɗi'iɗ Kahan Kooh. Ŋ ineem ɓoo ammba ɗe. [Ɓoo waaɗta ɗe atte ŋ waasiŋ ɓoo,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 024 008 A woosa ɓoo ne ɓoo hayaat nga ɗa.] Fu miniɗ ɗe meekis sah ŋ ini kaɗ ŋ in ceem jen, fu hey hotoote ne in ci ɓoo na yambe ƴaarii, ca keeh.»	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 028 028 Pool woyissa ɓa ne: «Inhaat ne Yegɗohiŋ Muci puloh ŋ Kooh woosohuuɗ po ŋ ɓi nikɗi Yawuut, te ɓeɗ, ɓa hey wa sikɗuke.» [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Aionian	[1/0]	045 ROM 016 023 Gayus yii kañiɗ ɗu. Mi yi Pool, ŋ dal ŋ kahan ce, ɓi Janguuni jen na name coh nga. Erasta, yi na taambkohe raak-raakiŋ kur-taahii, a yii kañiɗ ɗu, a yi na ɓaah ɓoo Kuwartus. [	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	ENCLOSURES	Summary	lines	44 / 32	WARN
+
+# UNEXPECTED
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Saafi-Saafi---Saafi-Saafi-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 4:24 Te nik ne e Kayin na hee wirndukɗasse waas yasna-kanak ne a apu ɗah, cam ! Lemek na hee wirndukɗasse waas ndaŋkiyaah-yasna-kanak na yasna-kanak (77) ! »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:3 Wa Aadama pes kiis teemet na kiis ndaŋkiyaah-kaahay (130), a raakka kuɓu ƴaar ya ɓay mandohaaɗaŋ ɗe na ñaamaaraŋ ɗe, a teekka ɗe Set.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:4 Ŋ finho raakuukaŋ Set, Aadama pesiɗ kiis teemet-yasna-kaahay (800) te a raakisseen ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:5 A kaan wa a raak kiis teemet-yasna-nikiis na kiis ndaŋkiyaah-kaahay (930).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 5:6 Wa Set pes kiis teemet na kiis yatuus (105), a raakka kuɓu ƴaar, a teekka ɗe Enos.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 5:7 Ŋ finho raakuukaŋ Enos, Set pesiɗ kiis teemet-yasna-kaahay na kiis yasna-kanak (807). A raakisseen ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 5:8 A kaan wa a raak kiis teemet-yasna-nikiis na kiis ndaŋkiyaah na kiis kanak (912).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:9 Wa Enos pes kiis ndaŋkiyaah-yasna-nikiis (90), a raakka kuɓu ƴaar, a teekka ɗe Kenan.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 5:10 Ŋ finho raakuukaŋ Kenan, Enos pesiɗ kiis teemet-yasna-kaahay na kiis ndaŋkiyaah na kiis yatuus (815). A raakisseen ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 5:11 A kaan wa a raak kiis teemet-yasna-nikiis na kiis yatuus (905).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:12 Wa Kenan pes kiis ndaŋkiyaah-yasna-kanak (70), a raakka kuɓu ƴaar, a teekka ɗe Mahalal'el.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:13 Ŋ finho raakuukaŋ Mahalal'el, Kenan pesiɗ kiis teemet-yasna-kaahay na kiis ndaŋkiyaah-nikiis (840). A raakisseen ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:14 A kaan wa a raak kiis teemet-yasna-nikiis na kiis ndaŋkiyaah (910).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 5:15 Wa Mahalal'el pes kiis ndaŋkiyaah-yasna-yino na kiis yatuus (65), a raakka kuɓu ƴaar, a teekka ɗe Yered.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:16 Ŋ finho raakuukaŋ Yered, Mahalal'el pesiɗ kiis teemet-yasna-kaahay na kiis ndaŋkiyaah-kaahay (830). A raakisseen ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 5:17 A kaan wa a raak kiis teemet-yasna-kaahay na kiis ndaŋkiyaah-yasna-nikiis na kiis yatuus (895).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 5:18 Wa Yered pes kiis teemet na kiis ndaŋkiyaah-yasna-yino na kiis kanak (162), a raakka kuɓu ƴaar, a teekka ɗe Henok.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:19 Ŋ finho raakuukaŋ Henok, Yered pesiɗ kiis teemet-yasna-kaahay (800). A raakisseen ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 5:20 A kaan wa a raak kiis teemet-yasna-nikiis na kiis ndaŋkiyaah-yasna-yino na kiis kanak (962).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 5:21 Wa Henok pes kiis ndaŋkiyaah-yasna-yino na kiis yatuus (65), a raakka kuɓu ƴaar, a teekka ɗe Matusalem.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:22 Henok hunee na Kooh. Ŋ finho raakuukaŋ Matusalem, a pessa ŋ ineem kiis teemet-kaahay (300). A raakisseen ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 5:23 Ina a pes jen wa kiis teemet-kaahay na kiis ndaŋkiyaah-yasna-yino na kiis yatuus (365).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 5:25 Wa Matusalem pes kiis teemet na kiis ndaŋkiyaah-yasna-kaahay na kiis yasna-kanak (187), a raakka kuɓu ƴaar, a teekka ɗe Lemek.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 5:26 Ŋ finho raakuukaŋ Lemek, Matusalem pesiɗ kiis teemet-yasna-kanak na kiis ndaŋkiyaah-yasna-kaahay na kiis kanak (782). A raakisseen ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	GEN 5:27 A kaan wa a raak kiis teemet-yasna-nikiis na kiis ndaŋkiyaah-yasna-yino na kiis yasna-nikiis (969).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 5:28 Wa Lemek pes kiis teemet na kiis ndaŋkiyaah-yasna-kaahay na kiis kanak (182), a raakka kuɓu ƴaar.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 5:30 Ŋ finho raakuukaŋ Noohin, Lemek pesiɗ kiis teemet-yatuus na kiis ndaŋkiyaah-yasna-nikiis na kiis yatuus (595). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 5:31 A kaan wa a raak kiis teemet-yasna-kanak na kiis ndaŋkiyaah-yasna-kanak na kiis yasna-kanak (777).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 5:32 Wa Noohin pes kiis teemet-yatuus (500), a raakeen kuɓu kaahay, Sem na Haam na Yaafet.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 6:3 Ŋ ineem, Nikiɗi woosa ne : « Ŋ heyɗi faɗisse ɓo' a maañ na iiki ŋ tum nga ɗe, laam a huf dong. Hutiiniŋ kipes kiŋ ɗe hey nike kiis teemet na kiis ndaŋkiyaah-kanak (120). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 6:15 Fu na hee wa haɓɗohe an : Hutiiniŋ wa nikaat saangal teemet na saangal ndaŋkiyaah-yatuus (150), angiini nik saangal ndaŋkiyaah-kanak na saangal yatuus (25) te njooliini nik saangal ndaŋkiyaah na saangal yatuus (15).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 7:4 Laam, ndii na neeh yasna-kanak, ŋ hey toɓe toɓ yakak, ini ree neeh ndaŋkiyaah-nikiis (40). Ŋ ɗumb in ci ŋ fer na iike ŋ kehƴi jen. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 7:6 Wa Noohin raak kiis teemet-yasna-yino (600), weɗ masuɓ riifɗoh kehƴi.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 7:11 Weɗ kiis ka Noohin raakoh kiis teemet-yasna-yino (600), wa caɓna kanakɗoha raak neeh ndaŋkiyaah na neeh yasna-kanak (17). Mbaɗi, masma laayohngaana nikee ŋ ɗooƴ kehƴi, pookkaa ŋ ɗisik laayiɗ, wa baliɗta. Eel ci rangsukka, ca nameeɗa juur masuɓ ŋ kehƴi.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 7:12 A toɓeeɗa noha na weka, ini ree neeh ndaŋkiyaah-nikiis (40).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 7:17 Toɓa yuurkeeɗa noha na weka ini ree neeh ndaŋkiyaah-nikiis (40). Masma uupeeɗa nga rap po, wa meeɓpa gaala.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 7:24 Wa ineem raak, masma rissa oniɗ kehƴi ini ree neeh teemet na neeh ndaŋkiyaah-yatuus (150).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 8:1 Ina masma na raake neeh teemet na neeh ndaŋkiyaah-yatuus (150) ŋ kehƴi jen, Kooh ɗaakkoheen Noohin nof, a yi na ɗoopaat ca nikee na ɗe ŋ gaala. Weɗ a puuɗsoh ŋ kehƴi, masma haawsukeeɗa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 8:3 Masma cooteeɗa ƴin ƴin ; ŋ finho neeh teemet na neeh ndaŋkiyaah-yatuus ceem (150), wa haawsukka kotii.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 8:4 Mbaɗi, caɓna yasna-kanakɗoh raakee neeh ndaŋkiyaah na neeh yasna-kanak (17) ; gaala gaƴca ŋ tangooca ŋ Ararat.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 8:6 Wa degga neeh ndaŋkiyaah-nikiis (40), Noohin rangissa palaŋteera a haɓɗiɗee gaala.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	GEN 8:13 Kiis ka Noohin raakoh kiis teemet-yasna-yino na kiis yino (601), ŋ caɓna koc nga, ŋ mbeha adug nga, raak masma reehiɗ ŋ kehƴi. Noohin kunissa gaala, a marakka, a hotta ne kehƴi suyiɗ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 8:14 Wa caɓna kanakɗoh raak neeh ndaŋkiyaah-kanak na neeh yasna-kanak (27), raak kehƴi suyiɗ kong,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 9:28 Ŋ finho toɓa yakka Noohin pesisiɗ kiis teemet-kaahay na kiis ndaŋkiyaah-yatuus (350).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 9:29 A kaan wa a raak kiis teemet-yasna-nikiis na kiis ndaŋkiyaah-yatuus (950).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 11:10 Inii weɗ naandsuku ŋ Sem na ɓi rimkoh nga ɗe. Wa Sem pes kiis teemet (100), a raakka kuɓu ƴaar, a teekka ɗe Arpaksad, raak toɓa yakka cootiɗ po wa tummba kiis kanak.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 11:11 Ŋ finho raakuukaŋ Arpaksad, Sem pesiɗ kiis teemet-yatuus (500). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 11:12 Wa Arpaksad pes kiis ndaŋkiyaah-kaahay na kiis yatuus (35), a raakka kuɓu ƴaar, a teekka ɗe Selah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	3	GEN 11:13 Ŋ finho raakuukaŋ Selah, Arpaksad pesiɗ kiis teemet-nikiis na kiis kaahay (403). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 11:14 Wa Selah pes kiis ndaŋkiyaah-kaahay (30), a raakka kuɓu ƴaar, a teekka ɗe Eber.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	3	GEN 11:15 Ŋ finho raakuukaŋ Eber, Selah pesiɗ kiis teemet-nikiis na kiis kaahay (403). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	GEN 11:16 Wa Eber pes kiis ndaŋkiyaah-kaahay na kiis nikiis (34), a raakka kuɓu ƴaar, a teekka ɗe Peleg.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 11:17 Ŋ finho raakuukaŋ Peleg, Eber pesiɗ kiis teemet-nikiis na kiis ndaŋkiyaah-kaahay (430). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 11:18 Wa Peleg pes kiis ndaŋkiyaah-kaahay (30), a raakka kuɓu ƴaar, a teekka ɗe Reyu.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	GEN 11:19 Ŋ finho raakuukaŋ Reyu, Peleg pesiɗ kiis teemet-kanak na kiis yasna-nikiis (209). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 11:20 Wa Reyu pes kiis ndaŋkiyaah-kaahay na kiis kanak (32), a raakka kuɓu ƴaar, a teekka ɗe Serug.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 11:21 Ŋ finho raakuukaŋ Serug, Reyu pesiɗ kiis teemet-kanak na kiis yasna-kanak (207). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 11:22 Wa Serug pes kiis ndaŋkiyaah-kaahay (30), a raakka kuɓu ƴaar, a teekka ɗe Nahor.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 11:23 Ŋ finho raakuukaŋ Nahor, Serug pesiɗ kiis teemet-kanak (200). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	GEN 11:24 Wa Nahor pes kiis ndaŋkiyaah-kanak na kiis yasna-nikiis (29), a raakka kuɓu ƴaar, a teekka ɗe Tera.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	GEN 11:25 Ŋ finho raakuukaŋ Tera, Nahor pesiɗ kiis teemet na kiis ndaŋkiyaah na kiis yasna-nikiis (119). A nameen raak ɓi kuɓu ƴaar na ɓitiɓ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 11:26 Tera raakeen kuɓu ƴaar kaahay, Ibram, Nahor na Haaraan, wa a raak kiis ndaŋkiyaah-yasna-kanak (70).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 11:32 Tera kaanohha ndaam raak ɗe pesiɗ kiis teemet-kanak na kiis yatuus (205).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 12:4 Ŋ finho inaam, Ibram kaɗta findi Nikiɗi woyoh ɗe wa. Loot, kuɓkaŋ taambɗoh ce, hunee na ɗe. Wa Ibram na kurke ŋ Haaraan waam tel ɗe raakiɗ kiis ndaŋkiyaah-yasna-kanak na kiis yatuus (75).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 14:4 Raak wa tumeen kiis ndaŋkiyaah na kanak (12) ca fu inah ne, e Kedorlamer a yi adgiɗee ɓa, waaye ŋ kiis ka taamb nga ɓa sannga inaam.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	8	GEN 14:14 Wa Ibram kerah ne Loot, kuɓkaŋ taambɗoh ce ambuuɗ, a cohɗohha ɓa min hiñoh ŋ ƴaaɓa rimohu kahan ce ; ɓa nikee teemet-kaahay na ndaŋkiyaah na yasna-kaahay (318). Ɓa, na ɓi langee na ɓa, taambiɗta buur ca po ŋ Daan.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 15:13 Weɗi Kooh woyoh ɗe ne : « Inhaa ne set ciŋ ɗa hey nike jaambur ŋ kur ka ɓa raakɗi, ɓa tumu ñaam nga, ɓa torhiɗu kiis teemet-nikiis (400).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 15:16 E set ciŋ ɗa, ŋ finho kiis teemet-nikiis ceem (400), na hee dokkisse ŋ ndii ; laam aƴaarkiŋ Amoor ci uupɗi yaah ndoom. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	6	GEN 16:16 Ibram raakeen kiis ndaŋkiyaah-yasna-kaahay na kiis yasna-yino (86), wa Haajara raakiɗ ɗe Ismaayla.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	GEN 17:1 Wa Ibram raak kiis ndaŋkiyaah-yasna-nikiis na yasna-nikiis (99), wa raakka mbeh, Nikiɗi teeɓukka ɗe, a woosa ɗe ne : « E mi Koohi Min, pesa findi ŋ waaɗoh, fu nik yurhiɗ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 17:17 Ibrahiima ƴekissa po pukaŋ ɗe reesa kehƴi ; a ƴennda, a woosa ŋ ɗooƴ ce ne : « Moo ƴaar na kiis teemet (100) minisiɗ raak kuɓu e ? Te Saarata yii, na kiis ciŋ ɗe ndaŋkiyaah-yasna-nikiis (90) cii, hey raake kuɓu e ? »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 17:20 Ini kaɗ ŋ Ismaayla, ŋ kerhiɗ woo kiŋ ɗa, ŋ hey ɗe barke'ɗe, ŋ tum ɗe ɓasil, e kilifa ndaŋkiyaah na kanak (12) puloh nga ɗe te a fer cuuɓ angiɗ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	GEN 17:24 Wa Ibrahiima na nguɗke raak ɗe raakiɗ kiis ndaŋkiyaah-yasna-nikiis na yasna-nikiis (99).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	3	GEN 17:25 Kuɓkiŋ ɗe Ismaayla nameen raak kiis ndaŋkiyaah na kaahay (13) wa a na nguɗke.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 18:24 Nik ne yurhiɗ ndaŋkiyaah-yatuus (50) raakiɗ ŋ kur ka ɗah, fu hey ɓa apndohe e ? Andi fu heyɗi ɗaase ɓi kur ka sagu ndaŋkiyaah-yatuus (50) ceem ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 18:26 Nikiɗi loffa ɗe ne : « Ŋ raak yurhiɗ ndaŋkiyaah-yatuus (50) ŋ ɗooƴ Sodom ɗah, ɓa hey tahe po, ŋ ɗaas ɓi kur ka jen. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 18:28 nik ne ndaŋkiyaah-yatuus (50) ɓi yurhiɗ ceem ɓa tasiɗ ɓo' yatuus ɗah, yatuus ceem hey tahe po fu ɗumb kur ka e ? » Nikiɗi loffa ne : « Ŋ raak ɓo' ndaŋkiyaah-nikiis na yatuus (45) yurhiɗ nga ɗah, ŋ heyɗi wa ɗumbe. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 18:29 Ibrahiima woosa ne : « Moo ndaŋkiyaah-nikiis (40) raak nga ɗah ? » Nikiɗi loffa ne : « Ŋ tumanɗi ali in, sagu ndaŋkiyaah-nikiis (40) ceem. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 18:30 Ibrahiima tummba ne : « Heɗ ɓoo kanaat ayruk de', ŋ woyis woyis, moo ndaŋkiyaah-kaahay (30) raak nga ɗah ? » Nikiɗi loffa ne : « Ŋ tumanɗi ali in, ne ŋ raak ndaŋkiyaah-kaahay (30) nga ɗah. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 18:31 Ibrahiima woosa ne : « Po ŋ kaannja woo na Heɗ ɓoo ; moo ndaŋkiyaah-kanak (20) raak nga ɗah ? » Nikiɗi loffa ne : « Ŋ tumanɗi ali in, sagu ndaŋkiyaah-kanak (20) ceem. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 21:5 Ibrahiima raakeen kiis teemet (100) wa Isaahha raaku.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 21:16 a tiinnda ini ree saangal teemet (100), a ɓooffa, a woosa ŋ haf ce ne : « Ŋ minɗi marak muk, ŋ kakaan kiŋ kuɓkiŋ ngo. » A cangtiɗukka a fuɗeeɗa ŋ ɗafka.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 23:1 Saarata pesiɗ kiis teemet na kiis ndaŋkiyaah-kanak na yasna-kanak (127) a hannda kuruk nga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 23:15 « Kilifaani, yohni na care ƴel haalis teemet-nikiis (400), ineem ye ŋ harmban mi na ɗa ? Kon fu miniɗ uumb ɓitiifu nga. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 23:16 Ibrahiima kerahha woo ka, a eɗohha candooma Efron woo ŋ fiki Hit ca, wa nikka ƴel teemet-nikiis (400) ŋ haalis, ɓeesuuɗ ŋ findi toonoh caam meeɗ tumoh.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 24:22 Wa a aniɗ ngeelemb ca po a ƴutta, ƴaara ɓayya tokkaah ŋ kiñin tiɓuuɗ na garam yasna-yino ngaŋ urus, na kiñi kanak urus ɓekaah ŋ yaah, waa nu nga ɗah, tiɓohu ini uup garam teemet (100).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GEN 25:7 Ibrahiima pesiɗ kiis teemet na ndaŋkiyaah-yasna-kanak na kiis yatuus (175) nde a kurukka nga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 25:16 Ɓii ɓeɗ kuɓuuciŋ Ismaayla ƴaar ci, tiik ciŋ ɓa ceɗi ceem. Ɓa nikka kilifa ndaŋkiyaah na kanak (12) ɓi fu inah ne kur ca na ndut ca ɓa adgohee teeksee nga ɓa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 25:17 Ismaayla pesiɗ kiis teemet na ndaŋkiyaah-kaahay na kiis yasna-kanak (137), a kurukka nga, a haadda Jaanim.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 25:20 Wa a raak kiis ndaŋkiyaah-nikiis (40), a ɓayya Rebeka ɓitiɓ, taambɗoh Laban. Rebeka namee nik kuɓu Betuwel ; ɓeɗ ɓeem, ɓa ɓaahee ŋ cuuɓaŋ Aram ca, ɓa genee Paddan-Aram.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 25:26 Ya taamb nga, raaku na yaahiŋ ɗe ambiɗ ŋ patangiŋ kotiŋ Esaaw, ɓa teekka ɗe Yaŋhooɓa. Wa komaakceem na raakse, wa tel Isaahha raakiɗ kiis ndaŋkiyaah-yasna-yino (60).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 26:34 Wa Esaaw raak kiis ndaŋkiyaah-nikiis (40), a ɓayya ɓitiɓ kanak ŋ cuuɓaŋ Hit ca, Yehudit, kuɓu Be'eri, na Baasmat, kuɓu Eloon.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 31:38 Ŋ tumiɗ kiis ndaŋkiyaah-kanak (20) ŋ kahan fu ; ali ɗoopaat moosɗi waanoh nga te ŋ moosɗi ɗa ñamɗoh kuy yino.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	GEN 31:41 Kiis ndaŋkiyaah-kanak (20) ceɗɗi, ŋ nikka ca ŋ kahan fu, ŋ pangkiɗiɗ ɗa kiis ndaŋkiyaah na kiis nikiis (14) ne fu on ndo kuɓuuciŋ ɗa kanak cii. Ŋ pangkiɗissa ɗa kiis yasna-yino ne ŋ raak gat, waaye hondohɗi, fu ɓoƴsohiɗ wirndiŋ ngo waas ndaŋkiyaah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 32:7 Wa ɓooɓa Yaŋhooɓa woosee hay, ɓa woosa ɗe ne : « Ɓoo deey, ɓoo kaɗiɗ ŋ taambɗoh fu Esaaw. A yii ŋ waas, na haye na ƴaar teemet-nikiis (400). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 32:15 ca nikka pe' teemet-kanak (200) na suket ndaŋkiyaah-kanak (20), na mbaal riɓ teemet-kanak (200) na kuy ndaŋkiyaah-kanak (20),	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 32:16 na ngeelemb ndaŋkiyaah-kaahay (30) ɓapɗoh na buul caŋ ca, na inoh riɓ ndaŋkiyaah-nikiis (40) na naar ndaŋkiyaah na mbaam riɓ ndaŋkiyaah-kanak (20) na mbaam naar ndaŋkiyaah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	GEN 32:23 Na weka, Yaŋhooɓa ɓayya ɓitiɓ caŋ ɗe kanak ca, na ɓaŋ ɗe ñaam ca kanak ca na kuɓuucaŋ ɗe ndaŋkiyaah na yinooca (11), a huusiɗta ɓa kalaŋ Yabbok.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 33:1 Wa Yaŋhooɓa puloh Peni'eel, ɗekka po a hotta Esaaw hayeeɗa na ƴaar teemet-nikiis (400). A paysohha komaakca ŋ harmban Leya na Rasel na ñaam ca kanak ca.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 33:19 A romohee yohna a yipohee ɗiip caŋ ɗe ngaŋ kuɓuucaŋ Hamor, baabiŋ Sisem. Candoomaŋ wa nikee ƴel haalis teemet (100).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 35:22 Ŋ nikaŋ Israayel ndaam, Ruben faanukka na Bilha ñaama baab ɓa ɓayee ɓitiɓ ; Israayel yeggaa. Yaŋhooɓa raakeen kuɓu ƴaar ndaŋkiyaah na kanak (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 35:28 Isaahha kaan wa a raak kiis teemet na kiis ndaŋkiyaah-yasna-kaahay (180).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 37:2 Inii weɗ naandsuku ŋ Yaŋhooɓa na kahan ce. Wa kuɓkiŋ ɗe Yuusufa raak kiis ndaŋkiyaah na kiis yasna-kanak (17), a meeɗee hun na taambɗoh ciŋ ɗe, ɓa niiɗee mbaal ca na pe' caŋ baab ɓa. A nikee komaaki, a meeɗta hun na kuɓuuciŋ Bilha na ɓiŋ Silpa, ɓitiɓ ciŋ baab ɓa. Taambɗoh ciŋ ɗe tummba in moɗaaɗi ɗah, a woo baab ɓa wa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 37:28 Wa toonoh ca ree, tel ɓa puloh kur ka na woyse Majaan, ɓa puliɗta Yuusufa ŋ ngurtuta, ɓa toonohha ɓa ɗe ƴel haalis ndaŋkiyaah-kanak (20) ; Ismaayla-Ismaaylaaca cootta na ɗe Misra.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 41:46 Wa Yuusufa na ɓayse ŋ ɗiskaŋ Firawnaana, buuraŋ Misra, tel ɗe raak kiis ndaŋkiyaah-kaahay (30). A kurkohha ŋ ndeem, ne a taambiɗ Misra jen.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 42:13 Ɓa loffa ɗe ne : « Kilifaani, e ɓoo jen ɓaah baab yino, ɓoo gen Kanaan ; ɓoo nikee ndaŋkiyaah na kanak (12), yinoora sooƴiɗ, ya uup ƴin yaa tassa na baabiŋ ɓoo. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 42:32 E ɓoo jen ɓaah baab yino, ɓoo nikee ndaŋkiyaah na kanak (12), yinoora sooƴiɗ, ya uup ƴin yaa tassa na baabiŋ ɓoo ŋ Kanaan.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 45:22 A onnda yaa nu nga ɗah kulɓa, waaye a eɗta Benyaamin ƴel haalis teemet-kaahay (300) na kulɓa yatuus.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	3	GEN 46:15 Ɓeem ɓeɗ kuɓuuci Leya na Yaŋhooɓa raakoh Paddan-Aram na kuɓuuciŋ ɓa. Dinaa kuɓkiŋ ɓa ɓitɓi ɓaatu nga ɗah, ɓa nikan ndaŋkiyaah-kaahay na kaahay (33).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	6	GEN 46:18 Ɓeem ɓeɗ kuɓuuci na set ci Yaŋhooɓa raak na Silpa, ñaama Laban eɗee kuɓkiŋ ɗe Leya. Ɓa jen ɓa nikee ndaŋkiyaah na yasna-yino (16).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	GEN 46:22 Ɓeem ɓeɗ kuɓuuci na set ci Yaŋhooɓa raak na Rasel. Ɓa jen ɓa nikee ndaŋkiyaah na nikiis (14).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	6	GEN 46:26 Ɓi rimkoh ŋ Yaŋhooɓa te ɓa hunnda na ɗe Misra jen ɓa nikee ndaŋkiyaah-yasna-yino na yasna-yino (66), ne ɓitiɓ ciŋ kuɓuuciŋ ɗe kinndohuuɗi nga ɗah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 46:27 Kuɓuuci kanak ci Yuusufa raakoh Misra ɓaatu nga ɗah, ɓa jen, ɓa nikan ndaŋkiyaah-yasna-kanak (70). Ɓeem ɓeɗ ɓi rimkoh ŋ Yaŋhooɓa te ɓa nikka na ɗe Misra.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 47:9 Yaŋhooɓa woosa ɗe ne : « Kiis teemet na kiis ndaŋkiyaah-kaahay (130) ceɗi cii, mi yii wil ŋ kur ci, ca kiis gaawiɗ te ca miskiɗ. Ŋ raakɗi kiis ci caacuuciŋ ngo raakee ndoom te ɓa namee nik tiindoh findiiso. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	GEN 47:28 Yaŋhooɓa tumiɗ kiis ndaŋkiyaah na kiis yasna-kanak (17) ŋ Misra. Ini a pes jen wa kiis teemet na kiis ndaŋkiyaah-nikiis na kiis yasna-kanak (147).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	GEN 49:28 Woo ceem ceɗ baab ɓa barke'ɗoh ɓa, yaa nu nga ɗah, a eɗta ɗa wa hun na ɗa. Ɓeem, ɓeɗ fer cuuɓ ci ndaŋkiyaah na kanak (12) ciŋ Israayel.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 50:3 Ŋ findi ɓa meeɗ tumoh, ɓa raakka neeh ndaŋkiyaah-nikiis (40) na haɓɗaŋ wa. Ɓi Misra rooyya ɗe ini ree neeh ndaŋkiyaah-yasna-kanak (70).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 50:22 Yuusufa na ɓi kahan baab ɓa genee Misra. Ini a pes jen wa kiis teemet na kiis ndaŋkiyaah (110).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GEN 50:26 Yuusufa kaanoh Misra wa a raak kiis teemet na kiis ndaŋkiyaah (110). Ɓa haɓiɗta fiɗaafaŋ ɗe na diw eeñiɗ, ɓa ɓekkaa ŋ jaat.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 1:5 Raak Yuusufa kuɓkiŋ Yaŋhooɓa yinoori nikee ŋ Misra. Ɓi kahan Yaŋhooɓa jen nikee ndaŋkiyaah-yasna-kanak (70).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	EXO 6:16 Cii ceɗ tiik ciŋ ɓi rimkoh ŋ Lewi, na ɓi rimkoh nga ɓa. Kuɓuuciŋ Lewi nikee : Geerson, Kehaat na Meraari. Lewi pesiɗ kiis teemet na kiis ndaŋkiyaah-kaahay na kiis yasna-kanak (137).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	3	EXO 6:18 Kuɓuuciŋ Kehaat nikka Amraam, Isaar, Hebron na Usiyel. Kehaat pesiɗ kiis teemet na kiis ndaŋkiyaah-kaahay na kiis kaahay (133).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	EXO 6:20 Amraam tokee bajaniŋ ɗe na woyse Yokebet, a raakka na ɗe kuɓu ƴaar kanak Aaruna na Musaa. Amraam pesiɗ kiis teemet na kiis ndaŋkiyaah-kaahay na kiis yasna-kanak (137).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	3	EXO 7:7 Musaa raakeen kiis ndaŋkiyaah-yasna-kaahay (80), Aaruna raakka kiis ndaŋkiyaah-yasna-kaahay na kiis kaahay (83) wa ɓa na woye na Firawna.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	EXO 12:6 Ɗu hey ɗe ɗaake baahiɗ po caɓni raak neeh ndaŋkiyaah na neeh nikiis (14) ; ɗu ɓi cuuɓiŋ Israayel jen, fah nu nga ɗah hey hoose ɗoopteem ne nohi muyee ɗah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	EXO 12:18 Caɓni koc raak neeh ndaŋkiyaah na neeh nikiis (14) ɗah, ini amboh ŋ niinaŋ wa ɗu ñaman mbuuru raakaaɗi lawiir po ŋ niinaŋ mbeha ndaŋkiyaah-kanak na yino'ɗoh (21).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 12:37 Wa ɓa ɓarngiɗ ɓa, ɓa pulohha kur kaŋ Ramses, ɓa kaɗta ɓak Sukkoot. Ɓa nikee ƴaar ndengiɗ junni-teemet-yasna-yino (600.000) ne fu kinndohɗi komaakca ƴin ca na ɓitiɓ ca ɗah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 12:40 Ŋ mbeheem, weɗ Israayel ca tumoh kiis teemet-nikiis na kiis ndaŋkiyaah-kaahay (430) ŋ Misra.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 14:7 a ɓayya wotiir caŋ Misra jen po ca teemet-yasna-yinooca (600) uupee baah nga ; waa nu nga ɗah, ɓayya hiñohoh kaahay.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 15:27 Israayel ca kaɗeeɗa po ɓa reesa Elim, ɓa raakka cul masuɓ ndaŋkiyaah na kanak (12) nga, na tas tandarma ndaŋkiyaah-yasna-kanak (70), ɓa dalla nga, ŋ sero masma.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 16:1 Wa ɓa ɓoof nga po caɓna kanakɗoh ŋ pulohaŋ ɓa Misra raakka neeh ndaŋkiyaah na yatuus (15), Israayel ca jen kurkohha Elim. Ɓa kaɗeeɗa po ɓa reesa kehƴa hulangaŋ Sin, ŋ harmban Elim na tangooraŋ Sinaay.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 16:35 Israayel ca ñamiɗ ŋ maaneem ini ree kiis ndaŋkiyaah-nikiis (40) po findi ɓa reyoh ŋ aasoha kur genohuuɗ, wa nikka Kanaan.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 18:21 Waaye waaka nga ɓa ɓi ɓo' mitiɗ, nupiɗ Kooh, yurhiɗ, ɓi fu inah ne ɓa waaɗɗi in lewaaɗi ; fu tufkiɗ ɓa, raak ɓi na hee adgohe junni (1000) ɓo', raak ɓi adgohan ɓo' teemet (100), ɓum ɓo' ndaŋkiyaah-yatuus (50), ɓinooɓi ɓo' ndaŋkiyaah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 18:25 a tannda ɓi ƴaar mitiɗ ŋ Israayel, a tufkiɗta ɓa, ɓum adgohha ɓo' junni (1000), ɓum ɓo' teemet (100), ɓum ɓo' ndaŋkiyaah-yatuus (50), ɓum ɓo' ndaŋkiyaah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 20:6 Ŋ teeɓohee keeñkohiŋ ngo po ŋ gomal junni (1000) ŋ ɓi waaɗ to, te ɓa haɓɗee in ci ŋ nakoh.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 21:32 Nik ne a ap ñaam ƴaar wala ɓitiɓ ɗah, heɗ ce joy wirind heɗ ñaami ƴel haalis ndaŋkiyaah-kaahay (30) te inoh fi tapu atoh po a kaan.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 24:1 Nikiɗi woyissa Musaa ne : « Fu hey rape fu hay ɗiskiŋ ngo ŋ tangoori ; huna na Aaruna, Nadab, Abihu, na yakak ndaŋkiyaah-yasna-kanak (70) ŋ ɓiŋ Israayel. Ɗu hay ɗah, nikaat ŋ ɗisik usiɗ, ɗu ƴek nga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	EXO 24:4 Musaa fiissa woo ciŋ Nikiɗi jen. Wa Kooh wiis, a kurukka na ɓaaɓa teel, a haɓiɗta seeƴkoha ŋ tas tangoora, a yippa atoh ndaŋkiyaah na kanak (12) wuu cuuɓ ci ndaŋkiyaah na kanak (12) ciŋ Israayel.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 24:9 Wa ɓa ƴut seeƴuk, Musaa rappa ŋ tangoora, a yi na Aaruna na Nadab na Abihu na yakak ca ndaŋkiyaah-yasna-kanak (70) caŋ Israayel.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 24:18 Musaa aassa ŋ eela, a rapeeɗa po ŋ ɗafuk tangoora. A nikka nga neeh ndaŋkiyaah-nikiis (40).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 25:39 Kilo urus koceet ndaŋkiyaah-kaahay (30) ceɗ na hee ɓayse, haɓɗoha degohaaniŋ laampaaci na in ci hun naa jen.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	EXO 26:2 Piis ceem ceɗ hendan, waa nu nga ɗah, hutiiniŋ wa nikaat saangal ndaŋkiyaah na nikiis (14), angiini nik suung nikiis.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 26:4 Piis ci yatuus ci ambsohuuɗ ceem, fu hey ca suptiɗe ɓi yaah koroha ŋ ɓaki winoori ŋ sereendiŋ angiini, ca haɓɗohsan ooy bulo. Yatuus ci ambsohuuɗ ci tas nam suptiɗu mand ɗaa. Yaah ci korohaaci ŋ piis ci ambsohuuɗ ci nikan ndaŋkiyaah-yatuus (50). Ciŋ piis ci ambsohuuɗ ci tas naman nik ndaŋkiyaah-yatuus (50). Korohaaceem, waa nu nga ɗah korɗohu na morom wa ŋ piis ci cinooci ambsohuuɗ ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 26:6 Fu haɓiɗ korɗoha ndaŋkiyaah-yatuus (50) ne fu ambsoh piis ceem po baasiŋ Genohaani nik yino. Korɗohaaceem nikan urus.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	EXO 26:7 Ƴut ɗah, fu hey name haɓɗis haf-piis ndaŋkiyaah na yino (11). Haɓɗohaa ca find pe' ; wa nik uloha baasiŋ Genohaani.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 26:8 Haf-piis ceem ceɗ hendaat, waa nu nga ɗah hutiiniŋ wa nikan saangal ndaŋkiyaah na yatuus (15), angiini nik suung nikiis.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 26:10 Fu haɓiɗ yaah koroha ndaŋkiyaah-yatuus (50) ŋ sereendiŋ piisi yatuusɗoh ŋ piis ci yatuus ci ambsohuuɗ ci, fu nam haɓiɗ yaah koroha ndaŋkiyaah-yatuus (50) ŋ sereendiŋ piisi koc ŋ piis ci yasna-yinooci ambsohuuɗ ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 26:11 Fu hey ca haɓɗiɗe korɗoha ndaŋkiyaah-yatuus (50), ca nikan moos ruumind, fu taambiɗ ca ŋ yaah ci korohaaci suptu ŋ piis ci, korɗohaaci korɗoh ca, po baasi nik yino.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 26:18 Kaadar ceem fu na hee haɓɗe nga ca ndaŋkiyaah-kanak (20) ŋ ɓak yaah-sing ne fu eɗ pulohaaɗ-noh finho, fu aasee ɗah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 26:19 Kaadar ceem hey haɓɗiɗasse tufkoha ŋ ooɓi, ca nikan tufkoha ndaŋkiyaah-nikiis (40), ca haɓɗohsan haalis ; kaadar nu nga ɗah hey raake tufkoha kanak, kot ci kanak ciŋ kaadari ɓeksan ŋ tufkohaaceem.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 26:20 Fu hey name haɓɗis kaadar ndaŋkiyaah-kanak (20) ŋ ɓaki winooriŋ Genohaani, wi lahoh na yaah-ñaahum.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 26:21 Ca nam raak tufkoha ndaŋkiyaah-nikiis (40), ci haɓɗohsan haalis, kaadar nu nga ɗah raak tufkoha kanak ŋ ooɓi.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	6	EXO 26:25 Jaar fikiiri raak kaadar yasna-kaahay na tufkoha ndaŋkiyaah na yasna-yino (16) haɓɗohu haalis. Kaadar nu nga raak tufkoha kanak.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 27:9 Ini wil Genohaani raakaat bayaal. Bayaaleem, wilɗaa na piis teɗohuuɗ leeŋ eɗfiɗ ndengiɗ. Ɓak yaah-sing ne fu eɗ pulohaaɗ-noh finho, fu aasee ɗah, wa nikaat saangal ndaŋkiyaah-yatuus (50).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 27:10 Piis ci na hee tokse ŋ kumbin ndaŋkiyaah-kanak (20), kumbin ci yipu ŋ tufkoha ndaŋkiyaah-kanak (20) haɓɗohu moos ruumind, te ca raak koroha na ñoori ca na hee ɓekohse haɓɗohu haalis.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 27:12 Angiini, ŋ ɓaki lahoh muyohaaɗ-noh, wa na hee nike saangal ndaŋkiyaah-kanak na yatuus (25), ca nam toku ŋ kumbin ndaŋkiyaah, ca yipu ŋ tufkoha ndaŋkiyaah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 27:13 Ɓakiŋ aasohaani, ŋ pulohaaɗ-noh, namaat nik saangal ndaŋkiyaah-kanak na yatuus (25).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 27:18 Hutiiniŋ bayaali nikan saangal ndaŋkiyaah-yatuus (50), angiini nik saangal ndaŋkiyaah-kanak na yatuus (25). Njooliiniŋ ɗingi nikan suung yaah yatuus, wa haɓɗohsan leeŋ eɗfiɗ ndengiɗ, tufkohaaci kumbin ci na hee yipohse haɓɗohu moos ruumind.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 28:16 Wa nikan kaare ne wa lemu kanak ɗah, ɓak nu nga nik santimeetar ndaŋkiyaah-kanak na yatuus (25).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	EXO 28:21 Tiik ciŋ kuɓuuci ƴaar ciŋ caac ɗu Israayel fiissan ŋ atoh ci ndaŋkiyaah ci na kanak ceem (12), ca fiisohsan findi ñaas na ñaasohse. Peme nu nga ɗah nikiɗ tiik cuuɓ yino.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 30:14 Yaa nu raak kiis ndaŋkiyaah-kanak (20) kaɗ ɗafka ɗah, a hey fiiske te a eɗ to wa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 32:28 Ɓi rimkoh ŋ Lewi tumohhaa findi Musaa woyoha ; mbaɗi, ini uup ƴaar junni-kaahay (3000) kaannda ŋ Israayel ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 34:7 a teeɓohee baah kiŋ ɗe po ŋ junni (1000) gomal, a ɗaasohee tumohaaɗ moɗaaɗi, na bakaaɗ, na ndengsiɗkoh, waaye ɓoyi tooñ a ambuu ɗe findi ɓoyi tumɗi in, te a na dege deg miskiɗ kuɓuuci na set ci na setaat ciŋ baab ci tum moɗaaɗi po ŋ gomala nikiisɗoh. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 34:28 Musaa nikka ŋ tangooraŋ Sinaay na Nikiɗi ini ree neeh ndaŋkiyaah-nikiis (40), a ñamɗi, a anɗi. Nikiɗi fiissa ŋ atoh ca woo ciŋ Ambtiɗohi, Nakoh-ci-Ndaŋkiyaah-ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	EXO 36:9 Piis ceem ceɗ hende, waa nu nga ɗah hutiiniŋ wa nikee saangal ndaŋkiyaah na nikiis (14), angiini nikka suung nikiis.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:11 Piis ci yatuus ci ambsohuuɗ ceem, suptiɗuusa ɓi yaah koroha ŋ ɓaki winoori ŋ sereendiŋ angiini, ca haɓɗohsee ooy bulo. Yatuus ci ambsohuuɗ ci tas nammba suptiɗu mand ɗaa. Yaah ci korohaaci ŋ piis ci ambsohuuɗ ci nikka ndaŋkiyaah-yatuus (50). Ciŋ piis ci ambsohuuɗ ci tas nammba nik ndaŋkiyaah-yatuus (50). Korohaaceem, waa nu nga ɗah korɗohuusa na morom wa ŋ piis ci cinooci ambsohuuɗ ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:13 Korɗoha ndaŋkiyaah-yatuus (50) haɓɗuusa na urus ; ca ambsohha piis ci po baasiŋ Genohaani nikka yino.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	EXO 36:14 A ɓayya find pe', a haɓɗissa haf-piis ndaŋkiyaah na yino (11) uloha baasiŋ Genohaani.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:15 Haf-piis ceem ceɗ hende, waa nu nga ɗah hutiiniŋ wa nikee suung ndaŋkiyaah-kaahay (30), angiini nikka suung nikiis.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:17 A haɓiɗta yaah koroha ndaŋkiyaah-yatuus (50) ŋ sereendiŋ piisi yatuusɗoh ŋ piis ci yatuus ci ambsohuuɗ ci, a nammba haɓɗis yaah koroha, ndaŋkiyaah-yatuus (50) ŋ sereendiŋ piisi koc ŋ piis ci yasna-yinooci ambsohuuɗ ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:18 A haɓiɗta korɗoha ndaŋkiyaah-yatuus (50) na moos ruumind ne a ambsoh haf-piis ci ambsohuuɗ ci po baasi nik yino.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:23 A haɓiɗta kaadar ndaŋkiyaah-kanak (20) ŋ ɓak yaah-sing ne fu eɗ pulohaaɗ-noh finho, fu aasee ɗah.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:24 Kaadar ceem haɓɗiɗuusa tufkoha ndaŋkiyaah-nikiis (40) ŋ ooɓi, ca haɓɗohsee haalis. Kaadar nu nga ɗah raakka tufkoha kanak, kot ci kanak ciŋ kaadari joy ɓeku ŋ tufkohaaceem.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:25 Ɓaki winooriŋ Genohaani, wi lah yaah-ñaahum, nammba haɓɗiɗu kaadar ndaŋkiyaah-kanak (20),	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 36:26 na tufkoha ndaŋkiyaah-nikiis (40) haɓɗohu haalis, kaadar nu nga ɗah raakka tufkoha kanak ŋ ooɓi.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	6	EXO 36:30 Jaarra, fikiiri raakka kaadar yasna-kaahay na tufkoha ndaŋkiyaah na yasna-yino (16) ci haɓɗohu haalis. Kaadar nu nga raakka tufkoha kanak.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 37:24 A ɓay kilo urus koceet ndaŋkiyaah-kaahay (30) weɗ a haɓɗoh degohaaniŋ laampaaci na in ci hun naa jen.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 38:9 A haɓiɗta in ci ɗingohsan bayaali wil Genohaani, a haɓiɗta piis teɗohuuɗ leeŋ eɗfiɗ ndengiɗ ɗingoha ɓak yaah-sing ne fu eɗ pulohaaɗ-noh finho, fu aasee ɗah. Ɓakeem nikee saangal ndaŋkiyaah-yatuus (50).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 38:12 Ɓaki lahoh na muyohaaɗ-noh, hutiiniŋ piis ciŋ wa wa nikee saangal ndaŋkiyaah-kanak na yatuus (25), ca toksan ŋ kumbin ndaŋkiyaah ci yipsan ŋ tufkoha ndaŋkiyaah. Korohaaciŋ ca na ñoor ci nikee haalis.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 38:13 Ɓakiŋ aasohaani, ŋ pulohaaɗ-noh nikee saangal ndaŋkiyaah-kanak na yatuus (25).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 38:24 Wi Ɗiski Hooliɗi haɓɗasse, ini kaɗ ngaŋ urus jen te e Israayel ci eɗoha, wa kilo urus teemet-yasna-kaahay na kilo ndaŋkiyaah-yasna-kanak na yasna-kanak (877), na garam teemet-kaahay (300), ca ɓeesu ŋ ɓeesohaacaŋ Ɗiska Hooliɗa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 38:25 Haalsa ƴaar ca kindu eɗohee, wa kilo haalis junni-kaahay na kilo ndaŋkiyaah na yasna-kanak (3017), na garam teemet-yasna-kanak na ndaŋkiyaah-yatuus (750), ca ɓeesu ŋ ɓeesohaacaŋ Ɗiska Hooliɗa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 38:26 Haf nu nga ɗah eɗohee garam haalis yatuus, ɓa ɓees ca ŋ ɓeesohaacaŋ Ɗiska Hooliɗa. Ƴaar nu raakeen kiis ndaŋkiyaah-kanak (20) kaɗta ɗafuk ŋ bindka ɗah, eɗohha, ɓa nikee ƴaar junni-teemet-yasna-yino na junni-kaahay na teemet-yatuus na ndaŋkiyaah-yatuus (603.550).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 38:27 Kilo haalis junni-kaahay (3000) ceɗ naayɗu haɓɗoha tufkohaaci teemet ciŋ kumbin ciŋ Genohaani hooliɗi na kumbin ciŋ ridooni nik ŋ ɗooƴi. Yino nu nga ɗah haɓɗohuusa kilo haalis ndaŋkiyaah-kaahay (30).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	EXO 38:28 Kilooci ndaŋkiyaah na yasna-kanak ci (17) tasee na garam teemet-yasna-kanak na ndaŋkiyaah-yatuus ci (750) haɓɗohuusa korohaaci, ulohuusa haf ciŋ kumbin ci, haɓɗohuusa ñoor ciŋ ridooci toku ŋ kumbin ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	EXO 38:29 Moosi Israayel ci eɗohee nikee kilo junni-kanak na kilo teemet na kilo ndaŋkiyaah-kanak na nikiis (2124).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	EXO 39:9 Wa nikee kaare ne wa lemu kanak ɗah, ɓak nu nga ɗah nikka santimeetar ndaŋkiyaah-kanak na yatuus (25).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	EXO 39:14 Tiik ciŋ kuɓuuci ƴaar ciŋ caac ɓa Israayel fiissee ŋ atoh ci ndaŋkiyaah na kanak ceem (12). Ca fiisuusa findi ñaas na ñaasohse. Peme nu nga ɗah, nikiɗta tiik cuuɓ yino.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	JON 3:4 Wa a kaɗ po a aassa Niniw, a hooɓukka wil nga. A huflukka ɓi Niniw na hoosoocii : « Tasiɗ neeh ndaŋkiyaah-nikiis (40), Niniw ɗumbu ! »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	JON 4:11 Fu waaɗta ne mi, ŋ heeɗi miskasse ŋ ini hee rahse Niniw, kur ki yakki fu inah ne ɓo' junni-teemet na junni-ndaŋkiyaah-kanak (120.000) ɓii nga ɓi inhisohɗi yaah-ñaahum na yaah-sing, ɓaatta nga ɗoopaat ci minɗi reeh ! »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	MAT 1:17 Fu marak ɗah, ca gomal ndaŋkiyaah na gomal nikiis (14) ŋ ini amboh ŋ Ibrahiima po ŋ Dawuuda. Ini nam kooɗoh ŋ Dawuuda po ŋ tooruukaŋ ɓooɓa ŋ Babilon ca gomal ndaŋkiyaah na gomal nikiis (14). Te ŋ tooruukaŋ ɓooɓa ŋ Babilon po ŋ Mucɗohi Gapohse ca gomal ndaŋkiyaah na gomal nikiis (14).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 4:2 A orra noh ndaŋkiyaah-nikiis (40) na wek ndaŋkiyaah-nikiis (40) ; ŋ mirndaani a aɗukka.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 9:20 Wa raakeen ɓitɓa fu inah ne ñif miŋ ɗe meeɗ meeɗ aamuk, a tumiɗ na kosaay keem kiis ndaŋkiyaah na kiis kanak (12) ; a woyee ŋ ɗooƴ ce ne : « Ŋ laal kulɓaakiŋ ɗe dong ɗah, ŋ hey wire ! » A lahha Yeesu finho, a laalla lecmiŋ kulɓaakiŋ ɗe.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 10:1 Ƴutta, a ɓeeɗukka taalubeeciŋ ɗe ndaŋkiyaah na kanak ci (12), a onnda ɓa hatil ne ɓa wirɗee kosaay ci na ɓeenduk ci jen, a nammba ɓa on hatil ne ɓa aañee jiiniici na hoolaaɗiiki ca hoolaaɗi.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 10:2 Cii ceɗ tiik ciŋ Apootar ci ndaŋkiyaah na kanak ci (12) : Kockoh ŋ Simong yi teeku Piyeer, na Andare taambɗoh ce ; Saak na Saaŋ, kuɓuuciŋ Sebede ;	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 10:5 Ɓeem ɓeɗ nikee ndaŋkiyaah na kanak ci (12) Yeesu tuuƴe, a eɗta ɓa dengkoh cii an : « Kinaat kaɗ ŋ kur ciŋ ɓooɓi nikɗi Yawuut te kinaat aas ŋ kur ciŋ Samari ;	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 11:1 Wa Yeesu ƴut eɗ taalubeeciŋ ɗe ndaŋkiyaah na kanak ci (12) dengkoh ciŋ ɗe, a kurkohha ndaam, a kaɗta kur caŋ ɓak caam ne a jangɗoha nga, a woyeeɗa Yegɗohiŋ Muci nga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 13:8 Waaye raakka ca keen ŋ keheƴ baahiɗ, ca rimmba cum kuɓu teemet (100), cum ndaŋkiyaah-yasna-yino (60), cum ndaŋkiyaah-kaahay (30). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 13:23 Ɓinooɓi ɓeɗ paaroh ŋ ini saawu ŋ kehƴi baahiɗi ; ɓeɗ ɓi na kerhe Woo ki, ɓa inah ini wa tokis ; ɓa raak rim, ɓum teemet (100), ɓum ndaŋkiyaah-yasna-yino (60) ɓinooɓi ndaŋkiyaah-kaahay (30). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 14:20 Ɓooɓa jen ñammba po kappa, ɓa ɓayndohha tasiɗ ca, ca nikee pañe ndaŋkiyaah na kanak (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 14:21 Ƴaar ca ñamee nga nikeen ŋ ɓak junni-yatuus (5000), ɓaatta nga ɓitiɓ ca na komaakca.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 15:38 Ɓooɓa ñamee nikee ƴaar junni-nikiis (4000) ɓaatta nga ɓitiɓ ca na komaakca.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 16:9 Ɗu inahɗi poyi e ? Ɗu alkoh alkoh mbuuruuca yatuus ca paysohsee ɓooɓa junni-yatuus (5000) ca e, tasɗohiica ɗu ɓayndohee, ca nikee pañe hend na ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 16:10 Na mbuuruuca yasna-kanak ca paysohsee ɓooɓa junni-nikiis (4000) ca, tasɗohiica ɗu ɓayndohee, ca nikee dammba hend na ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	MAT 18:12 Ɗu liiɓ ye ŋ inii ? Ɓo' raak mbaal teemet (100), yino muuƴ nga ɗah, a faɗanɗi ndaŋkiyaah-yasna-nikiis na yasna-nikiis ci (99) ŋ tangoora a kaɗ waaka yi muuƴ e ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	7	MAT 18:22 Yeesu loffa ɗe ne : « Ŋ wooɗi ɗa waas yasna-kanak rek waaye, waas ndaŋkiyaah-yasna-kanak waas yasna-kanak (70×7).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 18:24 Wi a camb, a komuusa dagi joy ɗe wirind saaku hanjar junni-ndaŋkiyaah (10.000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 18:28 Wi dagi pul, a cohha na ƴaar ɓaah na ɗe panguk, yi joy ɗe wirind dinaar teemet (100) dong, a ammba ɗe, a ooƴca ɗe ; a woosa ɗe ne : “ Wirind ndo koporiŋ ngo ! ”	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 19:28 Yeesu loffa ɓa ne : « Ñam na woyee ɗu wa te wa keeh, mbehi in ci jen na hee ɓoƴsohse, wi Kuɓkiŋ ɓoyi na hee ɓoofohe ŋ ɓoofoha-buuri na teeɓohe yaki a yak, ɗu ɓi na ñaakɗee so, ɗu hey name ɓoof ŋ ɓoofoha-buur ndaŋkiyaah na kanak (12) ne ɗu adgoh cuuɓ ciŋ Israayel ndaŋkiyaah na kanak ci (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 19:29 Te yaa nu faɗ kahan, wala taambɗoh ƴaar mbaa ɓitiɓ, baab, yaay, kuɓu, wala yohon saguuso ɗah, ini a ñak, a heya rahse ini uup waas teemet (100) te a hey raake kipes ki heyɗi reehe.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 20:17 Wa raakka mbeh, Yeesu kaɗeeɗa Yerusalem, a ɓeeɗukka taalubeeci ndaŋkiyaah na kanak ci (12) kiik ɓa, a woosa ɓa ŋ waasa ne :	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 26:14 Weɗi Yudaa Iskaryot, yino ŋ Apootar ci ndaŋkiyaah na kanak ci (12), kaɗoh ŋ kilifaacaŋ seeƴkiɗoh caŋ waasiŋMusaa	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 26:15 a woosa ɓa ne : « Ɗu na hee so ye eɗe ne ŋ deg Yeesu ŋ yaah ciŋ ɗu ɗah ? » Ɓa eɗta ɗe hanjar haalis ndaŋkiyaah-kaahay (30).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 26:20 Wa niina ree, Yeesu ɓooffa na Apootar ci ndaŋkiyaah na kanak ci (12) ne ɓa ñam.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAT 26:47 Wi a na woye ineem, Yudaa, yino ŋ Apootar ci ndaŋkiyaah na kanak ci (12), reyeeɗa. A hunee na mboolo ganaaykiɗ ndang na ndooɗ. E kilifaacaŋ seeƴkiɗoh ca na yakak caŋ cuuɓa ɓeɗ tuuƴee ɓa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 27:3 Ŋ ineem, Yudaa hotta ne Yeesu yi a eɗndohee hey apse, inwaaso ammba ɗe, a kaɗta ŋ kilifaacaŋ seeƴkiɗoh ca na yakak ca, a wikka ɓa haalsa, hanjar ca ndaŋkiyaah-kaahay (30) ca.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAT 27:9 Taambohha ndeem, ini woosuuɗi Yeremi woyee raakka an : « Ɓa ɓayiɗ hanjar ca ndaŋkiyaah-kaahay (30) ca, ineem weɗ a car ŋ Israayel ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	MAT 28:16 Taalubeeca ndaŋkiyaah na yinooca (11) kaɗta Galile ŋ tangoora Yeesu woye.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 1:13 A nikka nga neeh ndaŋkiyaah-nikiis (40), Seytaani jaɗɗeeɗa ɗe fiir. A nikee ŋ ɗiska inah ne ca ɗoopaat-nduuf dong nikee nga, malaakaaca taambkoheeɗa ɗe.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 3:14 A kooɗta nga ɓa ɓo' ndaŋkiyaah na kanak (12) ne ɓa nik na ɗe [a teekka ɓa "Apootar"]. A tuuƴee ɓa, ne ɓa woya Yegɗohiŋ Muci,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 3:16 Ndaŋkiyaah na kanak ci (12) a kooɗee nike : Simong yi a teekee Piyeer ;	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 4:8 Waaye raakka ci keen ŋ keheƴ baahiɗ, ca paarra, ca yakka, ca rimmba, cum eɗohha rim ndaŋkiyaah-kaahay (30), cum ndaŋkiyaah-yasna-yino (60), cum teemet (100). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 4:10 Wa a saɓsukoh na mboolnda po a nikka na taalubeeci ndaŋkiyaah na kanak ci (12) na ɓooɓa meeɗ nik na ɗe, ɓa meekissa ɗe ini kaɗ ŋ andiin ceem.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 4:20 Ɓinooɓi ɓeɗ paaroh ŋ ini saawu ŋ kehƴi baahiɗi ; ɓeɗ ɓi na kerhe Woo ki, ɓa teyɗuka. Ɓa raak rim, ɓum ndaŋkiyaah-kaahay (30), ɓum ndaŋkiyaah-yasna-yino (60), ɓinooɓi teemet (100). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 5:13 A onnda ca ineem, ca pulla ŋ ƴaara, ca aassa ŋ mbaam ca. Mbaam ca ɗaleen ree junni-kanak (2000) wala ca uupa. Gata jen giirukka, hunnda na mbartala, faɗsukka ŋ cookma, mbaam ca lappa nga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 5:25 Ŋ ɗooƴ mboolnda, ɓitiɓ nikeen nga, ñif miŋ ɗe meeɗ meeɗ aamuk. A tumiɗ na kosaay keem kiis ndaŋkiyaah na kiis kanak (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 5:42 Njaanja jaarra kuruk, tiindeeɗa, ɓa feyuusa ŋ ineem lool. A raakeen kiis ndaŋkiyaah na kiis kanak (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 6:7 A ɓeeɗukka Apootar ci ndaŋkiyaah na kanak ci (12), a tuuƴeeɗa ɓa kanak kanak ; a onnda ɓa hatil aañoha jiini.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 6:37 A loffa ɓa ne : « Ɗu, eɗaat ɓa ini ɓaa hee ñame. » Waaye ɓa woosa ɗe ne : « Ɓoo na hee ɓa kee romɗa mbuuru na hanjar dinaar teemet-kanak (200) hanaa ? »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 6:40 Ɓa ɓooffa teemet teemet (100-100) na ndaŋkiyaah-yatuus ndaŋkiyaah-yatuus (50-50).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 6:43 Wa ɓooɓa ñam po ɓa ƴutta, taalubeeca nangɗohha tasɗohiica po ɓa raakka ini mit pañe riifiɗ ndaŋkiyaah na kanak (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 6:44 Ƴaar ca ñamee ŋ ɗiska nikeen ŋ ɓak junni-yatuus (5000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 8:9 Ɓooɓa ñamee nikeen ŋ ɓak junni-nikiis (4000). Ƴutta, Yeesu woosa ɓa ne ɓa haadaat.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 8:19 wa ŋ nguɗsoh mbuuruuca yatuus ca ŋ paysohha ca mboolnda raakee ƴaar junni-yatuus (5000) ? Tasɗohiica ɗu ɓayndohee nikee pañe riifiɗ hend na ? » Ɓa loffa ɗe ne : « Pañe ndaŋkiyaah na kanak (12). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 8:20 A woyissa ɓa ne : « Moo wa ŋ nguɗsoh mbuuruuca yasna-kanak ca, ŋ paysohha ca ɓooɓa junni-nikiis (4000) ca nak ? Tasɗohiica ɗu ɓayndohee mbaɗi, ca nikee dammba riifiɗ hend na ? » Ɓa loffa ɗe ne : « Ca nikee dammba yasna-kanak. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 9:35 A ɓooffa, a ɓeeɗukka ndaŋkiyaah na kanak ci (12), a woosa ɓa ne : « Ɓo' nu waaɗ nik kilifa ɗah, a teyɗukaat mirndoh, te a teyɗuk nik surgaaniŋ ɓi tas jen. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 10:32 Waam, ɓa nikee ŋ waas Yerusalem, Yeesu adugka, ɓa kaɗeeɗa, taalubeeci feyuusa, ɓooɓa hunee na ɓa tiitta. Ŋ ineem a ɓeeɗkissa taalubeeci ndaŋkiyaah na kanak ci (12) kiik ɓa, a woyeeɗa ɓa ini na hee ɗe rahse.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 11:11 Weɗ Yeesu kaɗoh po a reesa Yerusalem, a aassa ŋ Kahan Kooh. Wa a maraka jen po ƴutta, a kurukka, a hunnda na taalubeeci ndaŋkiyaah na kanak ci (12), ɓa kaɗta Betani, raak Kooh hooɓeeɗa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	MAR 14:5 Wa mineen toonohu ini uup dinaar teemet-kaahay (300), ñakiɗ ci eɗu kopori. » Ŋ ineem ɓa ngaskeeɗa ɓitɓa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 14:10 Yudaa Iskaryot, yino ŋ Apootar ci ndaŋkiyaah na kanak ci (12), kaɗta ŋ kilifaacaŋ seeƴkiɗoh caŋ waasiŋ Musaa, ne a min ɓa eɗind Yeesu.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 14:17 Wa niina ree, Yeesu na Apootar ci ndaŋkiyaah na kanak ci (12) hayya.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 14:20 A loffa ɓa ne : « Yino ŋ ɗu ɓi ndaŋkiyaah na kanak ci (12) na ɓeke yaah na so ŋ booli. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	MAR 14:43 Wa Yeesu na woye, jaarra, Yudaa, yi ɓaah ŋ ndaŋkiyaah na kanak ci (12), reesa na mboolo ɓayiɗ ɓi ndooɗ na ɓi ndang. Ɓa puloh ŋ kilifaacaŋ seeƴkiɗoh caŋ waasiŋ Musaa na jangɗohoh caŋ wa na yakak ca.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	MAR 16:14 Ŋ mirndaani, a teeɓukka Apootar ci ndaŋkiyaah na yinooci (11), raak ɓa ɓoofiɗ ñameeɗa. A ngassa ɓa ŋ ndengkiŋ ɓa keeñ na ini ɓa kosɗi ɓooɓi hot ɗe hultiɗuuɗ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	LUK 2:37 a rissa raakaaɗi ƴaar. A raakee kiis ndaŋkiyaah-yasna-kaahay na kiis nikiis (84). A meeɗɗi kurkoh ŋ Kahnaŋ Kooh, a oreeɗa, a kiimeeɗa Kooh noh na wek ; a nikiɗohee ɗe ɗaa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 2:42 Wa Yeesu raak kiis ndaŋkiyaah na kiis kanak (12), a kaɗta na ɓa findi wa na tumohse.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	LUK 3:1 Wa nikee ŋ jamanoonaŋ buura yakkaŋ Rom na woyse Tibeer, wa a tum kiis ndaŋkiyaah na kiis yatuus (15) ŋ hafaŋ kur ka, waam a Ponse Pilaat nikee goornooraŋ Yudee, Herod adgohha Galile, Filip taambɗoh ce adgohha Iture na Tarakonit, Lisañas adgohha Abileen ;	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	LUK 3:23 Wa Yeesu na cambe pangkaŋ ɗe raak ɗe ŋ ɓak kiis ndaŋkiyaah-kaahay (30). Ɓooɓa ammba ne a kuɓu Suseef. Suseef, a Heeli rim ɗe,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	LUK 4:2 A nikka nga neeh ndaŋkiyaah-nikiis (40), ndaam, Seytaani fiireeɗa ɗe. A ñamɗi ŋ neeh ceem, ŋ mirndaani a aɗukka.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 6:13 Na ɓaaɓa teel, a ɓeeɗukka taalubeeciŋ ɗe, a kooɗta nga ɓa ɓo' ndaŋkiyaah na kanak (12), a teekka ɓa "Apootar".	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	LUK 7:41 Yeesu woosa ɗe ne : « A nikee ƴaar, ɓo' kanak joyya ɗe wirind kombot ; yinoori joyee ɗe eɗ dinaar teemet-yatuus (500), yi tas joyya ɗe eɗ dinaar ndaŋkiyaah-yatuus (50).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 8:1 Wa in ceem coot, Yeesu kaɗeeɗa ŋ kur ca yakak ca na ca ƴin ca, a woyeeɗa ɓooɓa Yegɗohiŋ Muci, wi kaɗ ŋ Nguuriŋ-Kooh ; a hunee na Apootar ci ndaŋkiyaah na kanak ci (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 8:42 laam raak kuɓkaŋ ɗe cafƴa heeɗa kaane te a raakee ɗe yino, tel kuɓkeem yii ŋ kiis ndaŋkiyaah na kiis kanak ciŋ ɗe (12). Wa Yeesu kaɗee nga, mboolnda ɗiifɗoheeɗa ɗe.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 8:43 Ŋ ɗooƴ mboolnda, ɓitiɓ nikeen nga, ñif miŋ ɗe meeɗ meeɗ aamuk, a tumiɗ na kosaay keem kiis ndaŋkiyaah na kiis kanak (12), [a tumeen ina a raake jen ŋ paƴoh ca,] te ali ɓo' mineeɗi ɗe wiriɗ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 9:1 Wa raakka mbeh, Yeesu cohɗohha Apootar ci ndaŋkiyaah na kanak ci (12), a onnda ɓa hatil na min-min aañoha jiini nu nik na wirɗoha kosaay ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	LUK 9:14 Ƴaar ca ŋ ɗiska ɗaleen ree junni-yatuus (5000) wala ini uupa. A woosa taalubeeciŋ ɗe ne : « Woyaat ɓa, ɓa ɓoof ndaŋkiyaah-yatuus ndaŋkiyaah-yatuus (50-50). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 9:17 Ɓooɓa jen ñammba po ɓa kappa. Ɓa tummba tasɗohiica ŋ pañe ndaŋkiyaah na kanak (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 10:1 Wa in ceem coot, Yeesu Heɗi kooɗissa taalube ndaŋkiyaah-yasna-kanak na taalube kanak (72), a tuuƴca ɓa kanak kanak ŋ kur ca a joyee kaɗoh jen ne ɓa adug ɗe nga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	8	LUK 13:4 Te ɓooɓa ndaŋkiyaah na yasna-kaahay (18) ca, taɓaha yakka ŋ Silowe keenee nga ɓa, ɓa kaannda, ɗu liiɓ ne ɓeɗ uupee nik bakaaɗoh ŋ Yerusalem jen e ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	8	LUK 13:11 Ɓitiɓ nikeen nga, a njuuƴee njuuƴ, a mineeɗi jaɗtuk delem, a jiini ambee ɗe. A tumiɗ na kosaay keem kiis ndaŋkiyaah na kiis yasna-kaahay (18).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	8	LUK 13:16 Ŋ hot ɓitɓii ɓaah ŋ ɓi rimkoh ŋ Ibrahiima, te Seytaani jatngiɗ ɗe kiis ndaŋkiyaah na kiis yasna-kaahay (18) ; wa ye joy tah po a toksassanɗi ŋ mbehi na iɗsiɗkohse ? »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	LUK 14:31 A yinde buur na hee raake hiñohoh junni-ndaŋkiyaah (10.000) a kee aasa ŋ hiñoh na buur morom ce ya raak hiñohoh junni-ndaŋkiyaah-kanak (20.000) te a ɓoofuu a marak andi ɓiŋ ɗe hey mine ɓaŋ buura na hee ɗe keene ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	LUK 15:4 « Ɓo' nga ɗu, raak mbaal teemet (100), yino muuƴ nga ɗah, andi a faɗanɗi ca tas jen ŋ bilaf fa, a kaɗ ɗe waaka po a hot ɗe ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	LUK 15:7 Ñam na woyee ɗu ne wa nam mand ɗaa ngaŋ ɓi nik ŋ Eel ci ; bakaaɗoh yino ɓoƴsoh pesohaaɗ ɗah, ɓa hey sume nga sumi uup wi ɓa suman ŋ ɓo' ndaŋkiyaah-yasna-nikiis na yasna-nikiis (99) ɓi yurah te ɓa etohɗi ɓoƴsoh pesohaaɗ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	LUK 16:6 Yeem loffa ɗe ne : “ Diwliin. Ngaal yakak teemet (100). ” A woosa ɗe ne : “ Kaytiŋ ɗa weɗɗi, ɓoofa, fu ar fiis ngaal yakak ndaŋkiyaah-yatuus (50). ”	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	LUK 16:7 Ƴutta, a ɓeeɗukka ƴaar wiiriis, a woosa ɗe ne : “ Fu nak, fu joy ye wirind kilifaaniŋ ngo ? ” Ƴaari loffa ne : “ Bele. Saaku teemet (100). ” A woosa ɗe ne : “ Kaytiŋ ɗa weɗɗi, ɓoofa, fu fiis ndaŋkiyaah-yasna-kaahay (80). ”	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 18:31 Wa Yeesu ƴut woo na ɓa, a ɓeeɗukka Apootar ci ndaŋkiyaah na kanak ci (12) kiik ɓa, a woosa ɓa ne : « Sikɗukaat to, ɓoo na kee Yerusalem te in ci woosuuɗ ci fiis ŋ ini kaɗ ŋ Kuɓkiŋ ɓoyi jen, ca hey nike.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 22:3 Seytaani aassa Yudaa yi na woyse Iskaryot ; Yudaa yeem, a ɓaahee ŋ Apootar ci ndaŋkiyaah na kanak ci (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 22:30 Tahha po ɗu hey ɓaahe na so ɓoo ñamee, ɓoo anee ŋ Nguuriŋ ngo. Ɗu hey ɓoofe ŋ ɓoofoha-buur ne ɗu adgoh cuuɓ ciŋ Israayel ndaŋkiyaah na kanak ci (12). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	LUK 22:47 Wa Yeesu woyee na taalubeeciŋ ɗe, mboolo reyeeɗa. Yudaa yi adgohee wa, a ɓaahee ŋ Apootar ci ndaŋkiyaah na kanak ci (12) ; a reɓpa ŋ Yeesu ne a kañiɗ ɗe, a foon ɗe.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	LUK 24:9 Wa ɓitiɓ ca puloh ruy-ruya, ɓa kaɗta naandsuka in ceem jen Apootar ci ndaŋkiyaah na yinooci (11) na ɓa tas jen.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	LUK 24:33 Ɓa jaarra kuruk, ɓa dokukka Yerusalem, ɓa raakka Apootar ci ndaŋkiyaah na yinooci (11) na ɓooɓa nikee na ɓa cohiɗ,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	6	JOH 2:20 Ɓa woosa ɗe ne : « Taɓahuukiŋ Kahniŋ Kooh wii tumiɗ kiis ndaŋkiyaah-nikiis na kiis yasna-yino (46), an fu heya kurkiɗisse ŋ neeh kaahay i ? »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	JOH 4:52 A meekissa ɓa ne : « A ngisoh ŋ winde wahtu ? » Ɓa loffa ɗe ne : « Wotɓa, ŋ njooloor, ŋ ineer (1h), weɗ dohɗiŋ faaniŋ ɗe cootoh. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	8	JOH 5:5 Raakeen ƴaar nga, a kosaayiɗ kiis ndaŋkiyaah-kaahay na kiis yasna-kaahay (38).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	JOH 6:7 Filip loffa ɗe ne : « Ali ɓoo ɓay dinaar teemet-kanak (200), ɓoo rom mbuuru, yaa nu nga ɗah, minanɗi raak sah nguɗ ƴin. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	JOH 6:10 Yeesu woosa ɓa ne : « Woyaat mboolndi jen ne ɓa ɓoofaat. » Ndaam raakeen paangi laayiɗ. Ɓa ɓooffa nga, ƴaar ca nikeen ŋ ɓak junni-yatuus (5000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	JOH 6:13 Taalubeeca nangɗohha tasɗohiica po ɓa raakka pañe riifiɗ ndaŋkiyaah na kanak (12). Ɓa kooɗohee ca ŋ tasɗohiicaŋ mbuuruuca yatuus ca ɓooɓa ñame.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	JOH 6:67 Yeesu woosa Apootar ci ndaŋkiyaah na kanak ci (12) ne : « Ɗu, ɗu namɗi waaɗ kaɗ e ? »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	JOH 6:70 Yeesu loffa ɓa ne : « Ñam kooɗ ɗu, ɗu ɓi ndaŋkiyaah na kanak ci (12) haa e ? Moona yino nga ɗu, a Seytaani. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	JOH 6:71 A woyee Yudaa, kuɓkiŋ Simong Iskaryot, yi eɗndohan ɗe. Yeem ɓaahee ŋ Apootar ci ndaŋkiyaah na kanak ci (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	JOH 11:9 A woosa ɓa ne : « Ca wahtu ndaŋkiyaah na kanak (12) ceɗ raak ŋ mbehi. Ɓo' nu tiind na noh ɗah, a hey hote siñaariŋ Adina, a kafndukanɗi.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	JOH 19:39 Nikodem nammba hay, a ɓayndohha ini ree kilo diw ndaŋkiyaah-kaahay (30) haɓɗohu miir na puɗ eeñɗoha na woyse alowe. Nikodem yeem a yi kaɗee marka Yeesu na wek.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	JOH 20:24 Waam raak Tomaa yi na woyse Siisi te a ɓaahha ŋ taalubeeci ndaŋkiyaah na kanak ci (12), a nikeeɗi na ɓa wa Yeesu hay nga ɓa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	3	JOH 21:11 Simong Piyeer aassa ŋ gaala, a nookka mbaala ŋ hara. Wa riiffa na cuurund yakak teemet na ndaŋkiyaah-yatuus na kaahay (153), te ina ca laayee jen, mbaala faarkeeɗi.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 1:3 Ŋ finho kakaan kiŋ ɗe, a teeɓpa ɓa haf ce, a teeɓpa ɓa ŋ firnde laayiɗ ne a yii pes. A tummba po ɓa hoteeɗa ɗe, a woyeeɗa na ɓa ŋ ini kaɗ ŋ Nguuriŋ-Kooh, po wa mitta neeh ndaŋkiyaah-nikiis (40).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 1:15 Ŋ neeh caam, Piyeer nikee na kosiɗ ca cohee ŋ ɗiska, - ɓa nikeen ŋ ɓak teemet na ndaŋkiyaah-kanak (120) - a tufukka, a woosa ɓa ne :	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	ACT 1:26 Weɗ ɓa ɓayoh atoh ne ɓa marak ɓoyi Kooh kooɗ, wa hennda ŋ Macaas. A ɓaatuusa ŋ Apootar ci ndaŋkiyaah na yinooci (11).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	1	ACT 2:14 Teemb ndeem Piyeer tufukka, na Apootar ci ndaŋkiyaah na yinooci (11) ɓinooɓi, a woosa ŋ ɗafka ne : « Ɗu ɓi Yawuut ci, na ɗu ɓi gen Yerusalem jen, rangsaat nof, ɗu sikɗuk woo ciŋ ngo, ɗu inah baahiɗ ini raak.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 2:41 Ɓi teyɗuk woo kiŋ ɗe ɓoktuusa. Mbaɗi, ɓi ɓaatuk ŋ kosiɗ ci nikee ŋ ɓak junni-kaahay (3000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 4:4 Waaye raak laayiɗ ŋ ɓi kerhee jangɗohiŋ Apootar ci kosiɗ. Ɓi kosee jen, ƴaar ci dong reyeen junni-yatuus (5000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 4:22 Ƴaara wirɗassee wirɗa feyohɗa uupɗeen kiis ndaŋkiyaah-nikiis (40).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 5:36 Maañaaɗi ƴaar teeku Tedaas hayiɗ, a tummba haf ce ɓo' yakak, ɓooɓi ñaakɗee ɗe nikee ŋ ɓak teemet-nikiis (400). Waaye wi a apu, ɓi ñaakɗee ɗe jen pasarkohha, ɓo' kerhisɗi ɓa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	ACT 6:2 Wa Apootar ci ndaŋkiyaah na kanak ci (12) keraha, ɓa cohɗohha taalubeeca jen, ɓa woosa ɓa ne : « Wa moɗɗi ɓoo faɗ jangɗohiŋ woo kiŋ Kooh, ɓoo taambkohee paysoh kañam.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 7:6 Inii weɗ Kooh woo ɗe : “ Set ciŋ ɗa hey nike jaambur ŋ kur ka ɓa raakɗi, ɓa tumu ñaam nga, ɓa torhiɗu kiis teemet-nikiis (400). ”	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	ACT 7:8 Ƴutta Kooh ambtiɗohha na Ibrahiima, a eɗta ɗe nguɗuk ne wa teeɓohee ambtiɗoheem. Ibrahiima raakka kuɓu ƴaar Isaahha, a nguɗta ɗe ŋ mbeha yasna-kaahayɗoh. Isaahha nammba tum kuɓkiŋ ɗe Yaŋhooɓa ɗaa, yeem nammba tum kuɓuuciŋ ɗe ndaŋkiyaah na kanak ci (12) ɗaa, ɓeɗ ɓi caac ciŋ cuuɓ ciŋ ɓoo.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	ACT 7:14 Yuusufa woosohha ne baab ɓa Yaŋhooɓa kaɗaat ɓaysa, a yi na ɓi kahan ɓa jen : ɓa nikeen ɓo' ndaŋkiyaah-yasna-kanak na ɓo' yatuus (75).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 7:23 Wi a raak kiis ndaŋkiyaah-nikiis (40) weɗ a liiɓoh kaɗ marka ɓaah ciŋ ɗe, Israayel ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 7:30 Wa degga kiis ndaŋkiyaah-nikiis (40), malaaka teeɓukka Musaa ŋ kehƴa hulangaŋ tangooraŋ Sinaay, ŋ jaalaŋ yongkaahaŋ kidga ƴina gile.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 7:36 A Musaa puliɗ Israayel ci Misra. A tumiɗ in feyohiɗ na keemaan laayiɗ ŋ kur keem, na wa ɓa huusee Cookma-Ruumnda na wa ɓa nik ŋ kehƴa hulanga kiis ndaŋkiyaah-nikiis (40).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 7:42 Ŋ ndeem, Kooh suungɗukka ɓa, a faɗta ɓa ɓa ñaamkeeɗa caɓni na nohi na hor ciŋ eel ci findi wa fiisohu ŋ Fiis ciŋ woosuuɗ ci an : “ Cey cuuɓiŋ Israayel ci, ɗoopaat ca ɗu seeƴkee na sarah ca cinooca ɗu haɓɗee ini ree kiis ndaŋkiyaah-nikiis (40) ŋ kehƴa hulanga, ɗu haɓɗee ca wuu so e ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 13:18 Wa ɓa nik ŋ kehƴa hulanga, a muñɗeeɗa ɓa ini ree kiis ndaŋkiyaah-nikiis (40).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 13:20 In ceem jen, a tumiɗ ca ŋ ɗooƴ kiis teemet-nikiis na kiis ndaŋkiyaah-yatuus (450). Ƴutta a eɗeeɗa caac ciŋ ɓoo ɓi kilifa po wi woosuuɗi Samuwel hay.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 13:21 Ŋ jamanoonaŋ Samuwel, ɓa waaɗta waakɗu buur. Kooh eɗta ɓa Sawul kuɓkiŋ Kis yi ɓaah ŋ cuuɓiŋ Benyaamin. A nikka buur kiis ndaŋkiyaah-nikiis (40).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	ACT 19:7 Ini ree ƴaar ndaŋkiyaah na kanak (12) nikee nga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 19:19 Laayiɗ ŋ ɓa meeɗ luhus hayeeɗa na kayit ca ɓa meeɗ jangoh luhus, ɓa doheeɗa ca ŋ fiki ɓooɓa jen. Candoomaŋ kayit ca kinduusa, wa nikka darakma junni-ndaŋkiyaah-yatuus (50.000) ŋ koporaŋ ɓa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 21:38 Kon a fu ƴaariŋ Misraaci ɓekee ɗuuɗi miskiɗi mbaɗni haa e ? Ƴaari ɓayee apoh ɓo' junni-nikiis (4000) a cootta na ɓa bilaf fa ? »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 23:13 Ini uup ƴaar ndaŋkiyaah-nikiis (40) ɓeɗ giñee giñeem.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 23:21 Waaye kina ɓa kos, ini uup ƴaar ndaŋkiyaah-nikiis (40) hey ɗe jo'e. Ɓa giñiɗ ne feeh ɓa apɗi ɗe ɗah, ɓa ñamanɗi, ɓa ananɗi. Ɓa ƴutiɗ, ɓa na seke ne fu teyɗuk. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ACT 23:23 Wa komaaknda coot, kilifaana ɓeeɗukka kanak ŋ ɓa adgohee soldaar ca, a woosa ɓa ne : « Nangɗohaat soldaar teemet-kanak (200), ɗu nam nangɗoh soldaar ndaŋkiyaah-yasna-kanak (70) ŋ ɓi na rape panis ci, na soldaar teemet-kanak (200) ŋ heɗ salmaaci. Kooɗkaat ɗu kaɗ Seesare wahtu yasna-nikiis na weki.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	ACT 24:11 Fu sah, fu miniɗa marak, wa uupɗi neeh ndaŋkiyaah na kanak (12), ŋ kaɗiɗ Yerusalem ne ñaamuk Kooh.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	ACT 26:7 Cuuɓ ciŋ ɓoo ndaŋkiyaah na kanak ci (12) ambiɗ ne wa hey raake weɗ tah ɓeɗi ñaamuk Kooh noh na wek. Ee kilifaani, oolkeem nak weɗ tah Yawuut ci yambee so.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	ACT 27:27 Wa nikee ŋ weka ndaŋkiyaah na nikiisɗoh (14), puuɗsa rissa ɓoo coottoh ŋ cookmaŋ Mediterane. Ŋ ndengelnde weka, wa mannda ŋ ɓa ambohee batoona ne ɓoo reɓee keheƴ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	8	ACT 27:28 Ɓa yoorra niy na inaa ɓitiɗ ne ɓa marak nooɗiina, ɓa hotta ne wa meetar ndaŋkiyaah-kaahay na meetar yasna-kanak (37) ; wa kaɗta ƴissuut, ɓa tumissa ɗaa, wa nikka meetar ndaŋkiyaah-kanak na meetar yasna-kaahay (28).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	ACT 27:33 Bala Kooh wiisan, Pool ñaahha ɓooɓa jen ne ɓa ñam, a woo ɓa ne : « Neeh ndaŋkiyaah na nikiis (14) ceɗɗi, ɗu ɓi sek rook ɓarang, ñamaaɗi ali in.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	6	ACT 27:37 Ɓoo nikee ɓo' teemet-kanak na ndaŋkiyaah-yasna-kanak na yasna-yino (276) ŋ ɗooƴ batoona.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	ROM 11:4 Waaye Kooh lof ye nga ? A woo ɗe ne : « Ŋ ɗaakɗiɗ haf fo ƴaar junni-yasna-kanak (7000), ɓi moosɗi ƴekiɗ Ba'al. »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	1CO 10:8 Ɓoo kinaat faankoh faankoh sangohuuɗ, findi ɓi nga ɓa tumohee wa, tahha po raakka junni-ndaŋkiyaah-kanak na junni-kaahay (23.000) ɓi kaan ŋ mbeh yino.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	1CO 15:5 A teeɓkiɗ ɓi ɓo' laayiɗ jahran, a teeɓuk Piyeer, ƴutta a teeɓukka Apootar ci ndaŋkiyaah na kanak ci (12).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	1CO 15:6 Ƴutta, a teeɓukka waas yino ini uup ɓo' teemet-yatuus (500) ŋ ɓaah ciŋ ɓoo kosiɗ ci. Raakiɗ ɓi kaan, waaye laayiɗ nga ɓa ɓii pes.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	9	2CO 11:24 Ini ree waas yatuus, Yawuut ci laɓiɗ to leraw ciŋ ɓa ndaŋkiyaah-kaahay na yasna-nikiis (39) ciŋ ɓa,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	2CO 12:2 Ŋ inhiɗ ɓo' nikiɗ ŋ Kiristaani. Wa tumiɗ kiis ndaŋkiyaah na nikiis (14) kotii, wi Kooh ɓay ƴaareem po ŋ Asamaana kaahayɗoh. Andi a ɓay ɗe na faaniŋ ɗe ? Ŋ inahɗi. Andi na faaniŋ ɗe haa ? Ŋ inahɗi, waaye Kooh inhiɗ.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	5	GAL 1:18 Wa degga kiis kaahay, ŋ kaɗta Yerusalem ne ŋ inhoh na Piyeer, ŋ nikka ɗiskaŋ ɗe neeh ndaŋkiyaah na yatuus (15).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	GAL 2:1 Wa wa deg kiis ndaŋkiyaah na kiis nikiis (14), ŋ dokukka Yerusalem, mi na Barnabaas, ŋ nammba ɓayndoh ɓaah ɓoo Tit.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	GAL 3:17 Inii weɗ ŋ waaɗ woo : Kooh tufkiɗiɗ ambtiɗohiŋ ɗe po ƴutiɗ in maañiɗ, wa yakohiɗ waasiŋMusaa kiis teemet-nikiis na kiis ndaŋkiyaah-kaahay (430), kon waasi minɗaa nihis po gapohi kee nika ɓarang ɓarang.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	1TI 5:9 Ɓitɓi ƴaar ce kaan te a joyya fiisu ne Janguuni amboh ɗe, ƴissuut po ƴissuut, a joyiɗ raak kiis ndaŋkiyaah-yasna-yino (60) te a joy nik ɓitɓi topee ŋ ƴaar ce.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	1TI 5:11 Waaye kina fiis ɓi raakɗi kiis ndaŋkiyaah-yasna-yino (60), laam hel ciŋ ɓa nik ŋ raakis ƴaar ɗah, wa na ɓekee ɓa ŋ faɗ taambkoh in ciŋ Kiristaani.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	HEB 3:10 ini ree kiis ndaŋkiyaah-nikiis (40). Weɗ tah ŋ raakka neɓsaaɗi ŋ ɓooɓaŋ jamanoonaam ; ŋ woosa ne : “ Liiɓohaaɗ ciŋ ɓa na genee ɓa muuƴiɗ te ɓa sangiɗ ne ɓa inhanɗi ini maa seke ne ɓa tuma. ”	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	HEB 3:17 Kooh namee raak neɓsaaɗi ŋ ɓinde ini ree kiis ndaŋkiyaah-nikiis (40) ? Wa hooliɗ ne e ɓooɓa bakaaɗee te fiɗaaf caŋ ɓa keennda ŋ kehƴa hulanga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	JAM 1:1 Mi yi Saak, ñaamiŋ Kooh na Heɗ ɓoo Yeesu Kiristaa, mi yii fiis kaytii ne ŋ woo na ɗu, ɗu ɓi cuuɓ ci ndaŋkiyaah na kanak ci (12) nik ɓooɓiŋ Kooh, te ɗu pasarkohha ŋ adinaani. Ɗu moɗ jam e ?	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	2PE 3:8 Ɓaah ciŋ ngo ŋ keeñkoh, raakiɗ ini ɗu joyɗi alkoh, weɗ ne mbeh yino ŋ Heɗi mand na kiis junni (1000) te kiis junni (1000) mand na mbeh yino nga ɗe.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	REV 4:4 Ɓoofoha-buur ndaŋkiyaah-kanak na nikiis (24) ndeerra ɓoofohaaneem, yakak ndaŋkiyaah-kanak na nikiis (24) ɓooffa nga ca, ɓa ɓekkee kulɓa yaanow, ɓa degga mbahne-buur haɓɗohu urus ŋ haf ciŋ ɓa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	REV 4:10 yakak ci ndaŋkiyaah-kanak na nikiis ci (24) ƴek ŋ fiki Yi nik ŋ ɓoofoha-buuri ne ɓa ñaamuk Yi na pese po faw. Jaar ɓa njaf mbahne-buur ciŋ ɓa ŋ fiki ɓoofoha-buuri, ɓa woyee ne :	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	REV 5:8 Wa a ɓaya, pesiɗ ca nikiis ca na yakak ca ndaŋkiyaah-kanak ca na nikiis ca (24) ƴekiɗta Kuyaŋ Mbaala ƴina. Raak yaa nu nga ambiɗ koora na kaas urus riifiɗ na cuuraay, cuuraay ceem ceɗ kiim ciŋ ɓo'-Kooh ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 7:4 Ŋ woyuusa ɓooɓi ñaasu findi ɓa hend : Ɓa nikee junni-teemet na junni-ndaŋkiyaah-nikiis na junni-nikiis (144.000) ŋ cuuɓ ciŋ Israayel jen.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 7:5 Junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Yudaa, junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Ruben, junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Gaad,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 7:6 junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Aser, junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Naftaali, junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Manasse,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 7:7 junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Simeyong, junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Lewi, junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Issaakar,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 7:8 junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Sabuloon, junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Yuusufa, junni-ndaŋkiyaah na junni-kanak (12.000) ŋ cuuɓiŋ Benyaamin, ɓa jen, ɓa ñaasuusa ŋ puk.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 9:16 Hiñohoh ca rapee panis ca, ŋ woyseen findi ɓa hend, ɓa nikee milyong teemet-kanak (200.000.000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	REV 11:2 Waaye ini wila ŋ hari, kanaa ɓees, faɗaa laam e kosaaɗiici eɗuu wa : Ɓa hey daksohe kur kiŋ Kooh ini ree caɓin ndaŋkiyaah-nikiis na kanak (42).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 11:3 Ŋ hey tuuƴe seedeeciŋ ngo kanak ci, ɓa ɓekuk kulɓa ruy te ɓa woo na ɓooɓi ŋ tiikiŋ ngo ini ree neeh junni na neeh teemet-kanak na neeh ndaŋkiyaah-yasna-yino (1260). »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 11:13 Ŋ ɗiska ɗiska, kehƴi yoondɗukka yoondɗuk keeh-keeh, haaƴ yino ŋ haaƴ ci ndaŋkiyaah ciŋ kur-taaha keennda. Ɓo' junni-yasna-kanak (7000) kaannda ŋ yoondɗukaŋ kehƴa. Ɓi rawɗi kaan nga jaahiɗta, ɓa yakɗeeɗa Koohiŋ Eel ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	REV 11:16 Yakak ca ndaŋkiyaah-kanak ca na nikiis ca (24) ɓoofee ŋ fiki Kooh ŋ ɓoofoha-buur ca ɓa eɗsee, yippa puk ciŋ ɓa ŋ kehƴi, ɓa ñaamkeeɗa Kooh,	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	REV 12:1 Firnde yakak pulla ŋ eel ci, a nikee ɓitiɓ, a lipukka nohi, caɓni nikka ŋ ooɓ kot ciŋ ɗe, mbahne-buur haɓɗohu hor ndaŋkiyaah na kanak (12) willa hafiŋ ɗe.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 12:6 Ɓitɓa nak, a saandohha ŋ kehƴa hulanga, ɗiska Kooh kooɗkiɗee ɗe ne a nik nga, a eɗsee kañam ini ree neeh junni na teemet-kanak na ndaŋkiyaah-yasna-yino (1260).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	REV 13:5 A onuusa ne a woyee woo yaksiɗkoha na woo ɓaseeh ŋ Kooh. A onuusa ne a tiindiɗ ini neɓ ɗe caɓin ndaŋkiyaah-nikiis na kanak (42).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	6	REV 13:18 Ndii, wa meeksoh inah-inah. Ɓoyi ñaañ waakaat kindi hend na tiikiŋ ɗoopti, ini wa tokis. Wa kindi hend na tiik ɓo', wa teemet-yasna-yino na ndaŋkiyaah-yasna-yino na yasna-yino (666).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 14:1 Ŋ markissa, ŋ hotta Kuyiŋ Mbaali ƴini tufkiɗ ŋ tangooriŋ Siyong, a nikka na ɓo' junni-teemet na junni-ndaŋkiyaah-nikiis na junni-nikiis (144.000) ɓi fu inah ne tiikiŋ ɗe na wiŋ Baabiŋ ɗe fiisseen ŋ puk ciŋ ɓa.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 14:3 Ɓooɓa junni-teemet na junni-ndaŋkiyaah-nikiis na junni-nikiis ca (144.000) jen ƴeekeeɗa ƴeek as ŋ fiki ɓoofoha-buura na pesiɗ ca nikiis ca na yakak ca. Ali ɓo' mineeɗi jang ƴeeka ɗal ɓooɓeem, ɓeɗ ɓi tossee ŋ kehƴi.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 14:20 Reseñi pooƴuusa ŋ pooƴohaana, ngaŋ bilaf faŋ kur-taaha. Ñif pulohha nga, wa rapeeɗa po wa gannga panis ŋ lahaɓ, wa kaɗɗeeɗa po wa reesa kilomeet teemet-kaahay (300).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 16:21 Galacaac yakak puloh eel ci keeneeɗa ŋ ɗafuk ɓooɓa findi toɓ. Waa nu nga ɗah reyeen kilo ndaŋkiyaah-nikiis (40). Ɓa ɓaseeɗa Kooh sagu naamooniŋ toɓiŋ galacaaci, laam wa nikee naamo miskiɗ lool.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	REV 19:4 Yakak ci ndaŋkiyaah-kanak na nikiis ci (24), na pesiɗ ci nikiis ci, ƴekka ñaamkeeɗa Kooh yi ɓoof ŋ ɓoofoha-buuri ; ɓa woyeeɗa ne : « Amiin ! Halleluya ! »	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 20:2 A ammba iiñ-safaali, iiña ɗeɓgaan, a yi siɓniɗi wala Seytaani. A ceennda ɗe, ceeni kaɗan kiis junni (1000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 20:4 Ƴutta ŋ hotta ɓi ɓoofoha-buur, ɓi ɓoofee nga ca eɗuusa hatil atte'oha. Ŋ nammba hot ruuh ciŋ ɓooɓi haf ciŋ ɓa nguɗsee sagu seede Yeesu na kos woo kiŋ Kooh. Ɓooɓeem ñaamkeeɗi ɗoopta na nataaliŋ ɗe, te ɓa raakeeɗi mandargaaniŋ ɗe ŋ puk ciŋ ɓa wala ŋ yaah ciŋ ɓa. Ɓa pesissa, ɓa nikka buur na Kiristaani ini ree kiis junni (1000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 20:6 Ɓa neɓɗiɗ, ɓa hooliɗ wuu Kooh, ɓooɓi ɓaah ŋ hulti koc ! Kakaan ki kanakɗoh miniɗɗi ɓa in ; ɓa hey nike seeƴkiɗoh wuu Kooh na Kiristaani, te ɓa hey nike buur, hun na Kiristaani ini ree kiis junni (1000).	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	REV 21:12 Wa raakee miir nguusiɗ, njooliɗ na yahndeer ndaŋkiyaah na kanak (12), malaaka ndaŋkiyaah na kanak tufukka niiɗeeɗa ca. Tiik ciŋ cuuɓ ciŋ Israayel ndaŋkiyaah na kanak ci fiisuusa ŋ buntaaci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	REV 21:14 Atoh ndaŋkiyaah na atoh kanak (12) ceɗ raanee miiri wila ; atoh nu nga ɗah, tiik yino ŋ tiik ciŋ Apootar ci ndaŋkiyaah na kanak ciŋ Kuyiŋ Mbaali ƴini fiisuusa nga.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	0	REV 21:16 Ɓak ciŋ wa nikiis ci ceɗ hend, hutiini na angiini ceɗ hend. Malaakaani ɓeessa kur ki na ndooɗiŋ ɗe, wa nikka kilomeet junni-kanak na kilomeet teemet-kanak (2200) ; hutiini na angiini na njooliini hennda hend.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	4	REV 21:17 A ɓeessa miiri, wa nikka suung teemet na suung ndaŋkiyaah-nikiis na suung nikiis (144) ŋ suung ɓo', weɗ malaakaani ɓeesohe.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	REV 21:21 Yahndeer ci ndaŋkiyaah na kanak ci (12) nikee per, waa nu nga haɓɗohsee per yino kut. Mbeeddaani yakki ŋ kur ki nikka urus koceet ñiiniɗ findi seetu.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	2	REV 22:2 Wa kaɗɗeeɗa ŋ leerniŋ mbeeddaaniŋ kur ki. Kidgiŋ kipes ki paarra ŋ harmban salɗoh ciŋ wa. Wa rimee waas ndaŋkiyaah na kanak (12) ŋ kiis ki, caɓin nu caɓin wa rim, saaf ciŋ wa paƴoha cuuɓ ci.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Source	count	362	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Aionian	70	040-MAT-018-022 Yeesu loffa ɗe ne: «Ŋ wooɗi ɗa waas yasna-kanak rek waaye, waas ndaŋkiyaah-yasna-kanak waas yasna-kanak (70×7).	ERROR
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Wa Yeesu hulit ŋ mbehi koc na ɓaaɓa, a ɗeɓ teeɓ haf ce Mari Makdala. A yi ɓitɓa a saɓsohee na jiini yasna-kanak.	WARN
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Aionian	1	043-JOH-004-052 A meekissa ɓa ne: «A ngisoh ŋ winde wahtu?» Ɓa loffa ɗe ne: «Wotɓa, ŋ njooloor, ŋ ineer (1h), weɗ dohɗiŋ faaniŋ ɗe cootoh.»	ERROR
+Saafi-Saafi---Saafi-Saafi-Bible	NUMERALS	Aionian	count	3	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,370 @@
+# File Name: Holy-Bible---Holy-Bible---Latin---Vulgata-Sistina---Analysis.txt
+# File Size: 26858       
+# File Date: 12/13/2025 05:44:39
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Bibbia Vulgata Sistina
+# Bible Name English: Sistina Vulgate Bible
+# Bible Language: Latine
+# Bible Language English: Latin
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Revision of the Holy Vulgate, Sixtus Quintus Maximus
+# Bible Source Version: 1/17/2014
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=VulgSistine
+# Bible Source Year: 405, 1590
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Latin---Vulgata-Sistina	ENCODING	Source	Holy-Bible---Latin---Vulgata-Sistina---Source-Edition.SWORD.txt	ASCII	WARNING
+Latin---Vulgata-Sistina	ENCODING	Aionian	Holy-Bible---Latin---Vulgata-Sistina---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Latin---Vulgata-Sistina	BYTES	Source	bytes / chars	4676599 / 4676599 (single-byte)	NOTICE
+Latin---Vulgata-Sistina	BYTES	Aionian	bytes / chars	4045461 / 4045262 (multi-byte)	NOTICE
+Latin---Vulgata-Sistina	BYTES	SourceClean	bytes / chars	4559886 / 4559886 (single-byte)	NOTICE
+Latin---Vulgata-Sistina	BYTES	AionianClean	bytes / chars	4041717 / 4041529 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Latin---Vulgata-Sistina	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Latin---Vulgata-Sistina	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Latin---Vulgata-Sistina	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Latin---Vulgata-Sistina	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Latin---Vulgata-Sistina	AIONIAN	Aionian	missing-verse	0	NOTICE
+Latin---Vulgata-Sistina	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Latin---Vulgata-Sistina	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Latin---Vulgata-Sistina	UNPRINTABLE	Source	count	0	NOTICE
+Latin---Vulgata-Sistina	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Latin---Vulgata-Sistina	UNICODE	Summary	(-)Orginal	74	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Summary	(+)Aionian	73	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : ([)	2	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : ( )	663110	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (T)	3137	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (e)	431004	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (s)	269459	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (t)	300515	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (a)	279626	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (m)	193053	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (n)	217613	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (1)	31742	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (H)	3120	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (d)	96588	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (i)	393507	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (g)	34907	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (])	2	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (\n)	37217	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (G)	3400	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (0)	7667	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (:)	65471	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (I)	25069	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (p)	72719	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (r)	201650	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (c)	121887	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (o)	188607	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (v)	48689	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (D)	18365	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (u)	277463	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (l)	97546	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (,)	75581	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (.)	31464	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (2)	21674	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (b)	55087	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (f)	30078	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (y)	4776	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (S)	10612	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (q)	41892	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (3)	14625	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (x)	16269	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (F)	1594	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (E)	14035	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (4)	10968	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (5)	8301	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (A)	8960	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (N)	5444	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (6)	7630	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (7)	6985	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (h)	39107	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (8)	6814	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (V)	1851	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (C)	6892	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (9)	6253	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (M)	7068	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (P)	7990	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (B)	2339	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (;)	131	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (Q)	3608	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (?)	3197	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (z)	3137	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (U)	666	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (R)	2552	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (L)	3647	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (()	234	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : ())	234	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (O)	1520	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (Z)	638	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (!)	45	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (J)	5958	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (K)	1585	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (k)	3417	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (W)	459	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (X)	15	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (-)	2	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (Y)	1	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source(-)	Basic Latin : (w)	1416	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (0)	130548	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (1)	42433	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (\t)	124368	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (G)	3849	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (E)	20253	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (N)	6878	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (I)	14458	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (n)	178239	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : ( )	506950	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (p)	62512	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (r)	165538	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (i)	326641	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (c)	97498	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (o)	152837	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (e)	352078	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (a)	225596	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (v)	41021	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (t)	252968	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (D)	17465	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (u)	235514	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (s)	212441	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (l)	76267	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (m)	159785	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (,)	65979	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (.)	27631	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (\n)	31091	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (2)	31076	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (T)	4886	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (b)	43407	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (f)	26013	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (y)	3211	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (:)	25794	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (S)	13074	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (q)	37436	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (3)	17178	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (x)	13020	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (F)	1491	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (4)	20026	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (d)	82948	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (5)	10272	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (A)	16237	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (6)	10729	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (7)	7448	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (h)	23052	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (8)	7858	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (V)	2981	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (C)	8216	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (9)	9292	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (g)	28508	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (M)	7351	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (P)	7652	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (B)	3350	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (H)	6423	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (;)	119	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (Q)	3311	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (?)	3001	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (z)	1418	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (U)	4103	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (R)	5588	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (L)	3920	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (()	490	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : ())	490	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (O)	8022	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (Z)	2164	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (!)	31	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (X)	1215	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (J)	4973	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (K)	2686	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (k)	40	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Basic Latin : (-)	3	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : ( )	663110	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (T)	3137	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (e)	431004	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (s)	269459	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (t)	300515	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (a)	279626	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (m)	193053	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (n)	217613	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (1)	31742	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (H)	3120	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (d)	96588	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (i)	393507	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (g)	34907	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (])	2	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (\n)	37217	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (G)	3400	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (0)	7667	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (:)	65471	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (I)	25069	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (p)	72719	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (r)	201650	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (c)	121887	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (o)	188607	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (v)	48689	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (D)	18365	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (u)	277463	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (l)	97546	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (,)	75581	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (.)	31464	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (2)	21674	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (b)	55087	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (f)	30078	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (y)	4776	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (S)	10612	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (q)	41892	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (3)	14625	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (x)	16269	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (F)	1594	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (E)	14035	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (4)	10968	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (5)	8301	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (A)	8960	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (N)	5444	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (6)	7630	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (7)	6985	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (h)	39107	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (8)	6814	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (V)	1851	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (C)	6892	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (9)	6253	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (M)	7068	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (P)	7990	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (B)	2339	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (;)	131	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (Q)	3608	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (?)	3197	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (z)	3137	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (U)	666	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (R)	2552	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (L)	3647	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (()	234	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : ())	234	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (O)	1520	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (Z)	638	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (!)	45	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (J)	5958	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (K)	1585	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (k)	3417	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (W)	459	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (X)	15	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (-)	2	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (Y)	1	NOTICE
+Latin---Vulgata-Sistina	UNICODE	Source	Basic Latin : (w)	1416	NOTICE
+
+# VERSIFICATION
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	001-GEN-049-032	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	002-EXO-040-013	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	002-EXO-040-014	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	004-NUM-030-011	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	004-NUM-030-012	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	006-JOS-021-038	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	006-JOS-021-039	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	019-PSA-072-020	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	020-PRO-025-024	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Summary	missing	10	WARN
+Latin---Vulgata-Sistina	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Latin---Vulgata-Sistina	ENCLOSURES	Source	()	234 / 234	NOTICE
+Latin---Vulgata-Sistina	ENCLOSURES	Source	[]	2 / 2	NOTICE
+Latin---Vulgata-Sistina	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Latin---Vulgata-Sistina	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	()	490 / 490	NOTICE
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(1/0)	I Kings 8:41 Insuper et alienigena, qui non est de populo tuo Israel, cum venerit de terra longinqua propter nomen tuum (audietur enim nomen tuum magnum, et manus tua fortis, et brachium tuum	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(0/1)	I Kings 8:42 extentum ubique) cum venerit ergo, et oraverit in hoc loco,	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(1/0)	I Kings 10:11 (Sed et classis Hiram, quae portabat aurum de Ophir, attulit ex Ophir ligna thyina multa nimis, et gemmas pretiosas.	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(0/1)	I Kings 10:12 Fecitque rex de lignis thyinis fulcra domus Domini, et domus regiae, et citharas lyrasque cantoribus: non sunt allata huiuscemodi ligna thyina, neque visa usque in praesentem diem.)	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(1/0)	I Chronicles 5:1 Filii quoque Ruben primogeniti Israel (Ipse quippe fuit primogenitus eius: sed cum violasset thorum patris sui, data sunt primogenita eius filiis Ioseph filii Israel, et non est ille reputatus in primogenitum.	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(0/1)	I Chronicles 5:2 Porro Iudas, qui erat fortissimus inter fratres suos, de stirpe eius principes germinati sunt: primogenita autem reputata sunt Ioseph.)	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(1/0)	Hebrews 7:20 Et quantum est non sine iureiurando (alii quidem sine iureiurando sacerdotes facti sunt,	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(0/1)	Hebrews 7:21 hic autem cum iureiurando per eum, qui dixit ad illum: Iuravit Dominus, et non poenitebit eum: tu es sacerdos in aeternum):	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(1/0)	Revelation of John 18:12 merces auri, et argenti, et lapidis pretiosi, et margaritae, et byssi, et purpurae, et serici, et cocci, (et omne lignum thyinum, et omnia vasa eboris, et omnia vasa de lapide pretioso, et aeramento, et ferro, et marmore,	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Source	(0/1)	Revelation of John 18:13 et cinnamomum) et amomum et odoramentorum, et unguenti, et turis, et vini, et olei, et similae, et tritici, et iumentorum, et ovium, et equorum, et rhedarum, et mancipiorum, et animarum hominum.	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(1/0)	011 1KI 008 041 Insuper et alienigena, qui non est de populo tuo Israel, cum venerit de terra longinqua propter nomen tuum (audietur enim nomen tuum magnum, et manus tua fortis, et brachium tuum	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(0/1)	011 1KI 008 042 extentum ubique) cum venerit ergo, et oraverit in hoc loco,	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (Sed et classis Hiram, quae portabat aurum de Ophir, attulit ex Ophir ligna thyina multa nimis, et gemmas pretiosas.	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 Fecitque rex de lignis thyinis fulcra domus Domini, et domus regiae, et citharas lyrasque cantoribus: non sunt allata huiuscemodi ligna thyina, neque visa usque in praesentem diem.)	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Filii quoque Ruben primogeniti Israel (Ipse quippe fuit primogenitus eius: sed cum violasset thorum patris sui, data sunt primogenita eius filiis Ioseph filii Israel, et non est ille reputatus in primogenitum.	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Porro Iudas, qui erat fortissimus inter fratres suos, de stirpe eius principes germinati sunt: primogenita autem reputata sunt Ioseph.)	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 Et quantum est non sine iureiurando (alii quidem sine iureiurando sacerdotes facti sunt,	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 hic autem cum iureiurando per eum, qui dixit ad illum: Iuravit Dominus, et non poenitebit eum: tu es sacerdos in aeternum): (aiōn g165)	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(1/0)	066 REV 018 012 merces auri, et argenti, et lapidis pretiosi, et margaritae, et byssi, et purpurae, et serici, et cocci, (et omne lignum thyinum, et omnia vasa eboris, et omnia vasa de lapide pretioso, et aeramento, et ferro, et marmore,	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Aionian	(0/1)	066 REV 018 013 et cinnamomum) et amomum et odoramentorum, et unguenti, et turis, et vini, et olei, et similae, et tritici, et iumentorum, et ovium, et equorum, et rhedarum, et mancipiorum, et animarum hominum.	WARN
+Latin---Vulgata-Sistina	ENCLOSURES	Summary	lines	10 / 10	NOTICE
+
+# UNEXPECTED
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Latin---Vulgata-Sistina	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Latin---Vulgata-Sistina	NUMERALS	Source	count	0	NOTICE
+Latin---Vulgata-Sistina	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Surgens autem Iesus mane, prima sabbati, apparuit primo Mariae Magdalene, de qua eiecerat septem daemonia.	WARN
+Latin---Vulgata-Sistina	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

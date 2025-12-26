@@ -1,0 +1,428 @@
+# File Name: Holy-Bible---Holy-Bible---Dutch---Statenvertaling---Analysis.txt
+# File Size: 42497       
+# File Date: 12/13/2025 05:18:43
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Nederlandse Statenvertaling Bijbel
+# Bible Name English: Dutch States Translation
+# Bible Language: Nederlandse
+# Bible Language English: Dutch
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Authorized by the Synod of Dordrecht
+# Bible Source Version: 2/7/2021
+# Bible Source Link: https://unbound.biola.edu
+# Bible Source Year: 1618-1619
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Dutch---Statenvertaling	ENCODING	Source	Holy-Bible---Dutch---Statenvertaling---Source-Edition.UNBOUND.txt	ASCII	WARNING
+Dutch---Statenvertaling	ENCODING	Aionian	Holy-Bible---Dutch---Statenvertaling---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Dutch---Statenvertaling	BYTES	Source	bytes / chars	4649402 / 4649402 (single-byte)	NOTICE
+Dutch---Statenvertaling	BYTES	Aionian	bytes / chars	4830626 / 4830424 (multi-byte)	NOTICE
+Dutch---Statenvertaling	BYTES	SourceClean	bytes / chars	4648398 / 4648398 (single-byte)	NOTICE
+Dutch---Statenvertaling	BYTES	AionianClean	bytes / chars	4827095 / 4826907 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Dutch---Statenvertaling	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Dutch---Statenvertaling	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Dutch---Statenvertaling	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Dutch---Statenvertaling	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Dutch---Statenvertaling	AIONIAN	Aionian	missing-verse	0	NOTICE
+Dutch---Statenvertaling	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Dutch---Statenvertaling	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Dutch---Statenvertaling	UNPRINTABLE	Source	count	0	NOTICE
+Dutch---Statenvertaling	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Dutch---Statenvertaling	UNICODE	Summary	(-)Orginal	67	NOTICE
+Dutch---Statenvertaling	UNICODE	Summary	(+)Aionian	68	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (0)	16379	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (1)	38907	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (O)	24732	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (\t)	93306	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (I)	8694	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (n)	379427	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : ( )	740154	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (d)	223170	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (e)	626394	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (b)	40807	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (g)	108105	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (i)	218432	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (s)	103035	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (c)	26884	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (h)	110736	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (p)	26483	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (G)	8443	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (o)	180405	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (m)	64878	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (l)	110481	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (a)	240063	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (r)	170812	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (.)	26621	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (\r)	31102	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (\n)	31102	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (2)	28422	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (D)	8330	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (u)	60483	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (t)	191536	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (,)	86445	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (f)	21603	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (;)	19271	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (3)	17207	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (E)	34010	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (:)	8028	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (4)	20054	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (k)	64155	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (5)	10074	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (H)	16627	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (T)	2742	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (v)	74728	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (6)	10491	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (7)	7390	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (8)	7811	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (9)	9320	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (Z)	6481	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (L)	1308	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (M)	7492	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (A)	5387	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (R)	7692	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (P)	925	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (x)	34	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (C)	931	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (V)	1576	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (U)	2517	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (N)	11891	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (K)	1316	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (J)	6648	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (-)	699	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (S)	3572	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (B)	2155	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (y)	1254	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (()	416	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : ())	423	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : ([)	94	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (])	94	NOTICE
+Dutch---Statenvertaling	UNICODE	Source(-)	Basic Latin : (q)	6	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (G)	10793	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (E)	44922	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (N)	7612	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (I)	11965	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (n)	379623	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : ( )	740294	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (d)	223187	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (e)	626483	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (b)	40805	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (g)	108317	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (i)	218673	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (s)	103008	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (c)	26883	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (h)	110858	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (p)	26484	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (o)	180533	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (m)	64815	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (l)	110479	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (a)	240183	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (r)	170823	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (.)	26549	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (D)	10288	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (u)	60484	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (t)	191542	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (,)	86443	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (f)	21602	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (;)	19270	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (:)	7936	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (k)	64156	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (H)	20745	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (T)	5498	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (v)	74727	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (Z)	8298	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (L)	3893	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (O)	8278	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (M)	11555	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (A)	14541	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (R)	11849	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (P)	4743	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (x)	33	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (C)	5251	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (V)	2839	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (U)	6025	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (K)	4001	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (J)	11608	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (-)	700	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (S)	10031	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (B)	3605	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (y)	1268	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (()	663	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : ())	670	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Basic Latin : (q)	8	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Dutch---Statenvertaling	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (0)	16379	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (1)	38907	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (O)	24732	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (\t)	93306	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (I)	8694	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (n)	379427	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : ( )	740154	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (d)	223170	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (e)	626394	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (b)	40807	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (g)	108105	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (i)	218432	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (s)	103035	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (c)	26884	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (h)	110736	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (p)	26483	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (G)	8443	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (o)	180405	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (m)	64878	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (l)	110481	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (a)	240063	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (r)	170812	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (.)	26621	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (\r)	31102	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (\n)	31102	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (2)	28422	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (D)	8330	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (u)	60483	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (w)	58402	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (t)	191536	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (,)	86445	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (f)	21603	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (;)	19271	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (z)	91289	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (3)	17207	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (E)	34010	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (:)	8028	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (j)	76741	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (!)	2753	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (4)	20054	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (k)	64155	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (5)	10074	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (H)	16627	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (T)	2742	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (v)	74728	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (6)	10491	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (7)	7390	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (8)	7811	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (9)	9320	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (Z)	6481	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (L)	1308	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (W)	4019	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (M)	7492	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (A)	5387	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (R)	7692	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (P)	925	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (x)	34	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (C)	931	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (F)	816	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (V)	1576	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (?)	3068	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (U)	2517	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (N)	11891	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (K)	1316	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (J)	6648	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (-)	699	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (S)	3572	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (')	119	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (B)	2155	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (y)	1254	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (()	416	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : ())	423	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : ([)	94	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (])	94	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (q)	6	NOTICE
+Dutch---Statenvertaling	UNICODE	Source	Basic Latin : (Q)	1	NOTICE
+
+# VERSIFICATION
+Dutch---Statenvertaling	VERSIFICATION	Summary	missing	0	NOTICE
+Dutch---Statenvertaling	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Dutch---Statenvertaling	ENCLOSURES	Source	()	416 / 423	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	[]	94 / 94	NOTICE
+Dutch---Statenvertaling	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Dutch---Statenvertaling	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Dutch---Statenvertaling	ENCLOSURES	Aionian	()	663 / 670	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Dutch---Statenvertaling	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Dutch---Statenvertaling	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	02O 11 1 (Want de HEERE had tot Mozes gesproken: Ik zal nog een plaag over Farao, en over Egypte brengen, daarna zal hij ulieden van hier laten trekken; als hij u geheellijk zal laten trekken, zo zal hij u haastelijk van hier uitdrijven. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	02O 11 3 En de HEERE gaf het volk genade in de ogen der Egyptenaren; ook was de man Mozes zeer groot in Egypteland voor de ogen van Farao's knechten, en voor de ogen des volks.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	04O 21 14 (Daarom wordt gezegd in het boek van de oorlogen des HEEREN: Tegen Waheb, in een wervelwind, en tegen de beken Arnon, 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	04O 21 15 En den afloop der beken, die zich naar de gelegenheid van Ar wendt, en leent aan de landpale van Moab.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	04O 21 17 (Toen zong Israel dit lied: Spring op, gij put, zingt daarvan bij beurte! 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	04O 21 18 Gij put, dien de vorsten gegraven hebben, dien de edelen des volks gedolven hebben, door den wetgever, met hun staven.) En van de woestijn reisden zij naar Mattana; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	04O 31 43 (Het halve deel nu der vergadering was, uit de schapen, driehonderd zeven en dertig duizend en vijfhonderd; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	04O 31 46 En der mensen zielen zestien duizend;) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	05O 10 6 (En de kinderen Israels reisden van Beeroth-Bene-jaakan en Mosera. Aldaar stierf Aaron, en werd aldaar begraven; en zijn zoon Eleazar bediende het priesterambt in zijn plaats. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	05O 10 7 Van daar reisden zij naar Gudgod, en van Gudgod naar Jotbath, een land van waterbeken.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	07O 9 17 (Want mijn vader heeft voor ulieden gestreden, en hij heeft zijn ziel verre weggeworpen, en u uit der Midianieten hand gered; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	07O 9 18 Maar gij zijt heden opgestaan tegen het huis mijns vaders, en hebt zijn zonen, zeventig mannen, op een steen gedood; en gij hebt Abimelech, een zoon zijner dienstmaagd, koning gemaakt over de burgers van Sichem, omdat hij uw broeder is); 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	12O 4 13 (Want hij had hem gezegd: Zeg nu tot haar: Zie, gij zijt zorgvuldig voor ons geweest, met al deze zorgvuldigheid; wat is er voor u te doen? Is er iets om voor u te spreken tot den koning, of tot den krijgsoverste? En zij had gezegd: Ik woon in het midden mijns volks. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	12O 4 15 Daarom had hij gezegd: Roep haar. En als hij ze geroepen had, stond zij in de deur.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	12O 9 14 Alzo maakte Jehu, de zoon van Josafat, den zoon van Nimsi, een verbintenis tegen Joram. (Joram nu had Ramoth in Gilead bewaard, hij en gans Israel, uit oorzake van Hazael, den koning van Syrie; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	12O 9 15 Maar de koning Joram was wedergekeerd, opdat hij zich te Jizreel helen liet van de slagen, die hem de Syriers geslagen hadden, als hij streed tegen Hazael, den koning van Syrie.) En Jehu zeide: Zo het ulieder wil is, laat niemand van de stad uittrekken, die ontkome, om dit in Jizreel te gaan verkondigen. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	12O 13 5 (Zo gaf de HEERE Israel een verlosser, dat zij van onder de hand der Syriers uitkwamen; en de kinderen Israels woonden in hun tenten, als te voren. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	12O 13 6 Nochtans weken zij niet af van de zonden van het huis van Jerobeam, die Israel zondigen deed; maar hij wandelde daarin; en het bos bleef ook staan te Samaria.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	13O 5 1 De kinderen van Ruben nu, den eerstgeborene van Israel; (want hij was de eerstgeborene; maar dewijl hij zijns vaders bed ontheiligd had, werd zijn eerstgeboorte gegeven aan de kinderen van Jozef, den zoon van Israel; doch niet alzo, dat hij zich in het geslachtsregister naar de eerstgeboorte rekenen mocht; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	13O 5 2 Want Juda werd machtig onder zijn broederen, en die tot een voorganger was, was uit hem; doch de eerstgeboorte was van Jozef.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	14O 5 11 En het geschiedde, als de priesters uit het heilige uitgingen; (want al de priesters, die gevonden werden, hadden zich geheiligd, zonder de verdelingen te houden; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	14O 5 12 En de Levieten, die zangers waren van hen allen, van Asaf, van Heman, van Jeduthun, en van hun zonen, en van hun broederen, in fijn linnen gekleed, met cimbalen, en met luiten, en harpen, stonden tegen het oosten des altaars, en met hen tot honderd en twintig priesteren toe, trompettende met trompetten.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	14O 32 9 Na dezen zond Sanherib, de koning van Assyrie, zijn knechten naar Jeruzalem,, doch hij zelf was voor Lachis, en al zijn heerschappij met hem) tot Jehizkia, den koning van Juda, en tot het ganse Juda, dat te Jeruzalem was, zeggende: 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	17O 1 13 Toen zeide de koning tot de wijzen, die de tijden verstonden (want alzo moest des konings zaak geschieden, in de tegenwoordigheid van al degenen, die de wet en het recht wisten; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	17O 1 14 De naasten nu bij hem waren Carsena, Sethar, Admatha, Tharsis, Meres, Marsena, Memuchan, zeven vorsten der Perzen en der Meden, die het aangezicht des konings zagen, die vooraan zaten in het koninkrijk), 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	18O 31 14 (Want wat zou ik doen, als God opstond? En als Hij bezoeking deed, wat zou ik Hem antwoorden? 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	18O 31 15 Heeft Hij niet, Die mij in den buik maakte, hem ook gemaakt en Een ons in de baarmoeder bereid?) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	24O 32 2 (Het heir nu des konings van Babel belegerde toen Jeruzalem, en de profeet Jeremia was besloten in het voorhof der bewaring, dat in het huis des konings van Juda is. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	24O 32 5 En hij zal Zedekia naar Babel voeren, en aldaar zal hij zijn, totdat Ik hem bezoek, spreekt de HEERE; ofschoon gijlieden tegen de Chaldeen strijdt, gij zult toch geen geluk hebben.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	24O 37 4 (Want Jeremia was nog ingaande en uitgaande in het midden des volks, en zij hadden hem nog in het gevangenhuis niet gesteld. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	24O 37 5 En Farao's heir was uit Egypte uitgetogen; en de Chaldeen, die Jeruzalem belegerden, als zij het gerucht van hen gehoord hadden, zo waren zij van Jeruzalem opgetogen.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	26O 16 23 Het is ook geschied na al uw boosheid,, wee, wee u, spreekt de Heere HEERE), 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	40N 9 20 (En ziet, een vrouw die twaalf jaren het bloedvloeien gehad had, komende tot Hem van achteren, raakte den zoom Zijns kleeds aan; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	40N 9 22 En Jezus, Zich omkerende, en haar ziende, zeide: Wees welgemoed, dochter! uw geloof heeft u behouden. En de vrouw werd gezond van dezelve ure af.) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	43N 13 2 En als het avondmaal gedaan was,, toen nu de duivel in het hart van Judas, Simons zoon, Iskariot, gegeven had, dat hij Hem verraden zou), 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	45N 1 4 Die krachtelijk bewezen is te zijn de Zoon van God, naar den Geest der heiligmaking, uit de opstanding der doden) namelijk Jezus Christus, onzen Heere: 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	45N 1 5 (Door Welken wij hebben ontvangen genade en het apostelschap, tot gehoorzaamheid des geloofs onder al de heidenen, voor Zijn Naam; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	45N 1 6 Onder welken gij ook zijt, geroepenen van Jezus Christus!) 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	45N 1 32 Dewelken, daar zij het recht Gods weten,, namelijk, dat degenen, die zulke dingen doen, des doods waardig zijn) niet alleen dezelve doen, maar ook mede een welgevallen hebben in degenen, die ze doen. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	45N 2 13 (Want de hoorders der wet zijn niet rechtvaardig voor God, maar de daders der wet zullen gerechtvaardigd worden; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	45N 2 15 Als die betonen het werk der wet geschreven in hun harten, hun geweten medegetuigende, en de gedachten onder elkander hen beschuldigende, of ook ontschuldigende). 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	47N 6 13 Nu, om dezelfde vergelding te doen,, ik spreek als tot mijn kinderen) zo wordt gij ook uitgebreid. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	48N 1 1 Paulus, een apostel,, geroepen niet van mensen, noch door een mens, maar door Jezus Christus, en God den Vader, Die Hem uit de doden opgewekt heeft), 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	49N 3 3 Dat Hij mij door openbaring heeft bekend gemaakt deze verborgenheid, (gelijk ik met weinige woorden te voren geschreven heb; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	49N 3 4 Waaraan gij, dit lezende, kunt bemerken mijn wetenschap, in deze verborgenheid van Christus), 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	58N 7 20 En voor zoveel het niet zonder eedzwering is geschied, (want genen zijn wel zonder eedzwering priesters geworden; 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	58N 7 21 Maar Deze met eedzwering, door Dien, Die tot Hem gezegd heeft: De Heere heeft gezworen, en het zal Hem niet berouwen: Gij zijt Priester in der eeuwigheid naar de ordening van Melchizedek). 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(1/0)	58N 12 20 (Want zij konden niet dragen, hetgeen er geboden werd: Indien ook een gedierte den berg aanraakt, het zal gestenigd of met een pijl doorschoten worden. 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Source	(0/1)	58N 12 21 En Mozes, zo vreselijk was het gezicht, zeide: Ik ben gans bevreesd en bevende). 	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	002 EXO 011 001 (Want de HEERE had tot Mozes gesproken: Ik zal nog een plaag over Farao, en over Egypte brengen, daarna zal hij ulieden van hier laten trekken; als hij u geheellijk zal laten trekken, zo zal hij u haastelijk van hier uitdrijven.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	002 EXO 011 003 En de HEERE gaf het volk genade in de ogen der Egyptenaren; ook was de man Mozes zeer groot in Egypteland voor de ogen van Farao's knechten, en voor de ogen des volks.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	004 NUM 021 014 (Daarom wordt gezegd in het boek van de oorlogen des HEEREN: Tegen Waheb, in een wervelwind, en tegen de beken Arnon,	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	004 NUM 021 015 En den afloop der beken, die zich naar de gelegenheid van Ar wendt, en leent aan de landpale van Moab.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	004 NUM 021 017 (Toen zong Israel dit lied: Spring op, gij put, zingt daarvan bij beurte!	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	004 NUM 021 018 Gij put, dien de vorsten gegraven hebben, dien de edelen des volks gedolven hebben, door den wetgever, met hun staven.) En van de woestijn reisden zij naar Mattana;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (Het halve deel nu der vergadering was, uit de schapen, driehonderd zeven en dertig duizend en vijfhonderd;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 En der mensen zielen zestien duizend;)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (En de kinderen Israels reisden van Beeroth-Bene-jaakan en Mosera. Aldaar stierf Aaron, en werd aldaar begraven; en zijn zoon Eleazar bediende het priesterambt in zijn plaats.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	005 DEU 010 007 Van daar reisden zij naar Gudgod, en van Gudgod naar Jotbath, een land van waterbeken.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (Want mijn vader heeft voor ulieden gestreden, en hij heeft zijn ziel verre weggeworpen, en u uit der Midianieten hand gered;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 Maar gij zijt heden opgestaan tegen het huis mijns vaders, en hebt zijn zonen, zeventig mannen, op een steen gedood; en gij hebt Abimelech, een zoon zijner dienstmaagd, koning gemaakt over de burgers van Sichem, omdat hij uw broeder is);	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	012 2KI 004 013 (Want hij had hem gezegd: Zeg nu tot haar: Zie, gij zijt zorgvuldig voor ons geweest, met al deze zorgvuldigheid; wat is er voor u te doen? Is er iets om voor u te spreken tot den koning, of tot den krijgsoverste? En zij had gezegd: Ik woon in het midden mijns volks.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	012 2KI 004 015 Daarom had hij gezegd: Roep haar. En als hij ze geroepen had, stond zij in de deur.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Alzo maakte Jehu, de zoon van Josafat, den zoon van Nimsi, een verbintenis tegen Joram. (Joram nu had Ramoth in Gilead bewaard, hij en gans Israel, uit oorzake van Hazael, den koning van Syrie;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 Maar de koning Joram was wedergekeerd, opdat hij zich te Jizreel helen liet van de slagen, die hem de Syriers geslagen hadden, als hij streed tegen Hazael, den koning van Syrie.) En Jehu zeide: Zo het ulieder wil is, laat niemand van de stad uittrekken, die ontkome, om dit in Jizreel te gaan verkondigen.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	012 2KI 013 005 (Zo gaf de HEERE Israel een verlosser, dat zij van onder de hand der Syriers uitkwamen; en de kinderen Israels woonden in hun tenten, als te voren.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Nochtans weken zij niet af van de zonden van het huis van Jerobeam, die Israel zondigen deed; maar hij wandelde daarin; en het bos bleef ook staan te Samaria.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 De kinderen van Ruben nu, den eerstgeborene van Israel; (want hij was de eerstgeborene; maar dewijl hij zijns vaders bed ontheiligd had, werd zijn eerstgeboorte gegeven aan de kinderen van Jozef, den zoon van Israel; doch niet alzo, dat hij zich in het geslachtsregister naar de eerstgeboorte rekenen mocht;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Want Juda werd machtig onder zijn broederen, en die tot een voorganger was, was uit hem; doch de eerstgeboorte was van Jozef.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 En het geschiedde, als de priesters uit het heilige uitgingen; (want al de priesters, die gevonden werden, hadden zich geheiligd, zonder de verdelingen te houden;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 En de Levieten, die zangers waren van hen allen, van Asaf, van Heman, van Jeduthun, en van hun zonen, en van hun broederen, in fijn linnen gekleed, met cimbalen, en met luiten, en harpen, stonden tegen het oosten des altaars, en met hen tot honderd en twintig priesteren toe, trompettende met trompetten.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	014 2CH 032 009 Na dezen zond Sanherib, de koning van Assyrie, zijn knechten naar Jeruzalem, doch hij zelf was voor Lachis, en al zijn heerschappij met hem) tot Jehizkia, den koning van Juda, en tot het ganse Juda, dat te Jeruzalem was, zeggende:	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Toen zeide de koning tot de wijzen, die de tijden verstonden (want alzo moest des konings zaak geschieden, in de tegenwoordigheid van al degenen, die de wet en het recht wisten;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 De naasten nu bij hem waren Carsena, Sethar, Admatha, Tharsis, Meres, Marsena, Memuchan, zeven vorsten der Perzen en der Meden, die het aangezicht des konings zagen, die vooraan zaten in het koninkrijk),	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	018 JOB 031 014 (Want wat zou ik doen, als God opstond? En als Hij bezoeking deed, wat zou ik Hem antwoorden?	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	018 JOB 031 015 Heeft Hij niet, Die mij in den buik maakte, hem ook gemaakt en Een ons in de baarmoeder bereid?)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	024 JER 032 002 (Het heir nu des konings van Babel belegerde toen Jeruzalem, en de profeet Jeremia was besloten in het voorhof der bewaring, dat in het huis des konings van Juda is.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	024 JER 032 005 En hij zal Zedekia naar Babel voeren, en aldaar zal hij zijn, totdat Ik hem bezoek, spreekt de HEERE; ofschoon gijlieden tegen de Chaldeen strijdt, gij zult toch geen geluk hebben.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	024 JER 037 004 (Want Jeremia was nog ingaande en uitgaande in het midden des volks, en zij hadden hem nog in het gevangenhuis niet gesteld.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	024 JER 037 005 En Farao's heir was uit Egypte uitgetogen; en de Chaldeen, die Jeruzalem belegerden, als zij het gerucht van hen gehoord hadden, zo waren zij van Jeruzalem opgetogen.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	026 EZE 016 023 Het is ook geschied na al uw boosheid, wee, wee u, spreekt de Heere HEERE),	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	040 MAT 009 020 (En ziet, een vrouw die twaalf jaren het bloedvloeien gehad had, komende tot Hem van achteren, raakte den zoom Zijns kleeds aan;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	040 MAT 009 022 En Jezus, Zich omkerende, en haar ziende, zeide: Wees welgemoed, dochter! uw geloof heeft u behouden. En de vrouw werd gezond van dezelve ure af.)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	043 JOH 013 002 En als het avondmaal gedaan was, toen nu de duivel in het hart van Judas, Simons zoon, Iskariot, gegeven had, dat hij Hem verraden zou),	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	045 ROM 001 004 Die krachtelijk bewezen is te zijn de Zoon van God, naar den Geest der heiligmaking, uit de opstanding der doden) namelijk Jezus Christus, onzen Heere:	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	045 ROM 001 005 (Door Welken wij hebben ontvangen genade en het apostelschap, tot gehoorzaamheid des geloofs onder al de heidenen, voor Zijn Naam;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	045 ROM 001 006 Onder welken gij ook zijt, geroepenen van Jezus Christus!)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	045 ROM 001 032 Dewelken, daar zij het recht Gods weten, namelijk, dat degenen, die zulke dingen doen, des doods waardig zijn) niet alleen dezelve doen, maar ook mede een welgevallen hebben in degenen, die ze doen.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (Want de hoorders der wet zijn niet rechtvaardig voor God, maar de daders der wet zullen gerechtvaardigd worden;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 Als die betonen het werk der wet geschreven in hun harten, hun geweten medegetuigende, en de gedachten onder elkander hen beschuldigende, of ook ontschuldigende).	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	047 2CO 006 013 Nu, om dezelfde vergelding te doen, ik spreek als tot mijn kinderen) zo wordt gij ook uitgebreid.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	048 GAL 001 001 Paulus, een apostel, geroepen niet van mensen, noch door een mens, maar door Jezus Christus, en God den Vader, Die Hem uit de doden opgewekt heeft),	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 Dat Hij mij door openbaring heeft bekend gemaakt deze verborgenheid, (gelijk ik met weinige woorden te voren geschreven heb;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 Waaraan gij, dit lezende, kunt bemerken mijn wetenschap, in deze verborgenheid van Christus),	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 En voor zoveel het niet zonder eedzwering is geschied, (want genen zijn wel zonder eedzwering priesters geworden;	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 Maar Deze met eedzwering, door Dien, Die tot Hem gezegd heeft: De Heere heeft gezworen, en het zal Hem niet berouwen: Gij zijt Priester in der eeuwigheid naar de ordening van Melchizedek). (aiōn g165)	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(1/0)	058 HEB 012 020 (Want zij konden niet dragen, hetgeen er geboden werd: Indien ook een gedierte den berg aanraakt, het zal gestenigd of met een pijl doorschoten worden.	WARN
+Dutch---Statenvertaling	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 En Mozes, zo vreselijk was het gezicht, zeide: Ik ben gans bevreesd en bevende).	WARN
+Dutch---Statenvertaling	ENCLOSURES	Summary	lines	49 / 49	NOTICE
+
+# UNEXPECTED
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Dutch---Statenvertaling	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Dutch---Statenvertaling	NUMERALS	Source	count	0	NOTICE
+Dutch---Statenvertaling	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) En als Jezus opgestaan was, des morgens vroeg, op den eersten dag der week, verscheen Hij eerst aan Maria Magdalena, uit welke Hij zeven duivelen uitgeworpen had.	WARN
+Dutch---Statenvertaling	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

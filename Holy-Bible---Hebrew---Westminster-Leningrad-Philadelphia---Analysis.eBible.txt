@@ -1,0 +1,286 @@
+# File Name: Holy-Bible---Holy-Bible---Hebrew---Westminster-Leningrad-Philadelphia---Analysis.txt
+# File Size: 21260       
+# File Date: 12/13/2025 05:37:59
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: כתבי הקודש
+# Bible Name English: Westminster Leningrad Cdx Phila
+# Bible Language: עברית
+# Bible Language English: Hebrew
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: United Bible Societies
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=hebwlc
+# Bible Source Year: 2018
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Hebrew---Westminster-Leningrad-Philadelphia	ENCODING	Source	Holy-Bible---Hebrew---Westminster-Leningrad-Philadelphia---Source-Edition.VPL.txt	UTF-8	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCODING	Aionian	Holy-Bible---Hebrew---Westminster-Leningrad-Philadelphia---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Hebrew---Westminster-Leningrad-Philadelphia	BYTES	Source	bytes / chars	5593278 / 3040111 (multi-byte)	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	BYTES	Aionian	bytes / chars	5748576 / 3195189 (multi-byte)	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	BYTES	SourceClean	bytes / chars	5592445 / 3039278 (multi-byte)	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	BYTES	AionianClean	bytes / chars	5745886 / 3192719 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Hebrew---Westminster-Leningrad-Philadelphia	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	AIONIAN	Aionian	book-defined-not-exist	200	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	AIONIAN	Aionian	missing-verse	0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	AIONIAN	Aionian	aionian-verses	64	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Hebrew---Westminster-Leningrad-Philadelphia	UNPRINTABLE	Source	count	0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Summary	(-)Orginal	23	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Summary	(+)Aionian	29	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (N)	3679	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : ( )	291582	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (1)	22456	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (:)	23213	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (\n)	23213	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (2)	16573	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (3)	9558	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (4)	6960	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (5)	5280	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (6)	4885	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (7)	4545	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (8)	4497	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (9)	4400	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (0)	4117	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (U)	2333	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (M)	1749	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (S)	6463	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (A)	6198	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (K)	1536	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (I)	2932	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (C)	2525	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (H)	2508	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source(-)	Basic Latin : (P)	3495	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (0)	97685	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (1)	33363	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (\t)	92572	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (N)	3678	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : ( )	245354	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (\n)	23142	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (2)	24580	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (3)	13505	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (4)	10460	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (5)	6800	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (6)	7292	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (7)	5764	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (8)	6109	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (9)	7789	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (()	64	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (S)	6460	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (h)	128	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (e)	64	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (o)	64	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (l)	64	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : ())	64	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (U)	2332	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (M)	1748	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (A)	6131	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (K)	1535	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (I)	2931	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (C)	2524	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (H)	2507	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Aionian(+)	Basic Latin : (P)	3429	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (G)	2189	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (E)	9885	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (N)	3679	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : ( )	291582	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (1)	22456	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (:)	23213	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ב)	65216	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ּ)	169897	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ְ)	149552	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ר)	68064	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֵ)	58800	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (א)	95685	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ש)	58198	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ׁ)	45853	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ִ)	108421	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֖)	36950	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (י)	137870	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ת)	63206	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ָ)	151168	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֣)	41147	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֱ)	4462	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ל)	88302	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֹ)	73123	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ה)	101962	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֑)	21474	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ם)	41291	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֥)	33064	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ַ)	116693	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (מ)	57638	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ו)	129606	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֽ)	41092	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֶ)	75102	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ץ)	3288	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (׃)	23192	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (\n)	23213	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (2)	16573	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֗)	12727	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֨)	11288	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֙)	20489	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֔)	25456	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ח)	27598	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ך)	14002	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ע)	44811	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (־)	42571	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (פ)	16911	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (נ)	39852	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (3)	9558	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (4)	6960	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֧)	3261	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֛)	7825	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (כ)	33466	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ט)	6310	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ד)	32371	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ן)	15241	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (5)	5280	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ק)	16278	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֤)	12542	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (׀)	2273	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (6)	4885	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (7)	4545	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ׂ)	12042	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֮)	1220	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֒)	949	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֲ)	25455	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (8)	4497	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (9)	4400	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֜)	4143	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (0)	4117	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֚)	1174	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ז)	9099	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֞)	1717	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (צ)	11689	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֠)	1197	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֕)	1648	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ג)	10080	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ף)	2554	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֡)	942	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֩)	1859	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֻ)	4343	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ס)	9616	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֳ)	621	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֺ)	412	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ׄ)	53	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֘)	212	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֓)	46	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֦)	14	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (O)	4458	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (L)	1185	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (V)	859	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֝)	2945	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (U)	2333	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (M)	1749	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (׆)	9	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֪)	250	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֟)	16	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (D)	1934	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (J)	3831	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (S)	6463	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (R)	2644	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (T)	252	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (A)	6198	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ֿ)	5	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (K)	1536	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (I)	2932	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (C)	2525	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (H)	2508	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (Z)	1817	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (B)	1147	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֭)	2676	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֫)	407	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (֬)	183	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Basic Latin : (P)	3495	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNICODE	Source	Hebrew : (ׅ)	3	NOTICE
+
+# VERSIFICATION
+Hebrew---Westminster-Leningrad-Philadelphia	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+Hebrew---Westminster-Leningrad-Philadelphia	VERSIFICATION	Aionian	missing	023-ISA-064-001	WARN
+Hebrew---Westminster-Leningrad-Philadelphia	VERSIFICATION	Summary	missing	2	WARN
+Hebrew---Westminster-Leningrad-Philadelphia	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Source	()	0 / 0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Aionian	()	64 / 64	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Hebrew---Westminster-Leningrad-Philadelphia	NUMERALS	Source	count	0	NOTICE
+Hebrew---Westminster-Leningrad-Philadelphia	NUMERALS	Aionian	count	0	NOTICE
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

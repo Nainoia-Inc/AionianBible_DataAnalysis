@@ -1,0 +1,1081 @@
+# File Name: Holy-Bible---Holy-Bible---Male---Maale-Bible---Analysis.txt
+# File Size: 86105       
+# File Date: 12/13/2025 05:47:21
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: ጌኤዦ ማፃኣፖ
+# Bible Name English: Maale Bible (Ethiopic)
+# Bible Language: Maale
+# Bible Language English: Male
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Bible Society of Ethiopia
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=mdyeth
+# Bible Source Year: 2008
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Male---Maale-Bible	ENCODING	Source	Holy-Bible---Male---Maale-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Male---Maale-Bible	ENCODING	Aionian	Holy-Bible---Male---Maale-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Male---Maale-Bible	BYTES	Source	bytes / chars	6856490 / 2879054 (multi-byte)	NOTICE
+Male---Maale-Bible	BYTES	Aionian	bytes / chars	7067674 / 3088968 (multi-byte)	NOTICE
+Male---Maale-Bible	BYTES	SourceClean	bytes / chars	6855677 / 2878241 (multi-byte)	NOTICE
+Male---Maale-Bible	BYTES	AionianClean	bytes / chars	7062959 / 3085335 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Male---Maale-Bible	AIONIAN	Aionian	missing-verse	001-GEN-044-031	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	missing-verse	042-LUK-001-055	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	missing-verse	045-ROM-010-007	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	missing-verse	3	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	aionian-verses	261	NOTICE
+Male---Maale-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Male---Maale-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Male---Maale-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Male---Maale-Bible	UNICODE	Summary	(-)Orginal	29	NOTICE
+Male---Maale-Bible	UNICODE	Summary	(+)Aionian	54	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (G)	2325	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (E)	10623	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : ( )	620334	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (1)	29895	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (:)	30506	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (\n)	30506	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (2)	21218	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (3)	11963	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (4)	8972	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (5)	6909	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (6)	6376	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (7)	5687	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (8)	5678	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (9)	5549	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (0)	5205	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (()	27	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : ())	27	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (O)	6667	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (L)	2544	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (V)	1228	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (M)	3954	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (J)	4935	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (S)	6352	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (R)	4045	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (T)	2740	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (A)	9104	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (H)	3883	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (P)	3874	NOTICE
+Male---Maale-Bible	UNICODE	Source(-)	Basic Latin : (-)	8	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	128109	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	41525	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	122016	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	2337	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	10622	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	559658	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	30503	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	30582	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	16738	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	19697	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10048	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10524	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7215	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7758	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9200	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (()	292	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : ())	292	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	6416	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	129	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	97	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	148	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	69	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	6666	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2549	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1227	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	3955	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4934	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4044	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2742	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	9113	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	3894	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	3879	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	9	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	201	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	16	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	113	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	246	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	8	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	6	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	2	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	2	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	1	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Male---Maale-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (G)	2325	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (E)	10623	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (N)	3470	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : ( )	620334	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (1)	29895	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (:)	30506	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቤ)	11072	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ር)	23135	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ታ)	57079	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዺ)	5330	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፆ)	18087	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኦ)	17588	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሲ)	18666	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጫ)	4679	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሪ)	6602	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ን)	111684	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቺ)	2356	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ና)	74421	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሳ)	15896	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዓ)	80162	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዔ)	45946	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኤ)	26269	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቢ)	11807	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ባ)	24041	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኣ)	62599	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ያ)	50681	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ይ)	51172	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዳ)	52809	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፓ)	17560	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ማ)	51804	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዤ)	450	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኔ)	54890	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (።)	24607	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (\n)	30506	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (2)	21218	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዬ)	19661	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኖ)	4751	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዎ)	17300	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዶ)	9667	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዖ)	19398	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኮ)	40550	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሃ)	21138	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኬ)	25718	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጌ)	26194	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዒ)	51069	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዚ)	13361	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (፤)	28488	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሣ)	9207	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፔ)	11185	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቴ)	28507	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዞ)	8079	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (፥)	15171	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሚ)	9738	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዼ)	7474	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፖ)	4918	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጊ)	20714	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቻ)	1337	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዋ)	18326	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዑ)	5903	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሻ)	4183	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዹ)	1689	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሴ)	14848	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ካ)	31261	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጋ)	25024	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (3)	11963	NOTICE
+Male---Maale-Bible	UNICODE	Source	Latin-1 Supplement: («)	7880	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጎ)	23935	NOTICE
+Male---Maale-Bible	UNICODE	Source	Latin-1 Supplement: (»)	7188	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዛ)	26184	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (4)	8972	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዱ)	4412	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (5)	6909	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሮ)	18680	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሞ)	9179	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሬ)	4076	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሊ)	9841	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (6)	6376	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቂ)	6797	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቃ)	8040	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሌ)	12519	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (7)	5687	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዲ)	14362	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጉ)	13796	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዴ)	16046	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፃ)	7218	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሢ)	47394	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቶ)	18754	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (8)	5678	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ላ)	22060	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ም)	19183	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (9)	5549	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጪ)	2134	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጴ)	1195	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዻ)	9750	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጮ)	5366	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ስ)	8736	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (0)	5205	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዾ)	2304	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፒ)	5329	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቱ)	4171	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዜ)	5265	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ል)	4783	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሶ)	9489	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኒ)	14929	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሎ)	12526	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፑ)	2621	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኡ)	6183	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዦ)	2845	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሤ)	1826	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሼ)	3947	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዢ)	1265	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቲ)	10621	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ራ)	13503	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቦ)	4463	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሜ)	11177	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሾ)	3710	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኩ)	3561	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጄ)	151	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (፦)	7436	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቆ)	3958	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኑ)	6265	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዮ)	4456	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቄ)	7403	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሂ)	4905	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጳ)	1751	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፂ)	2376	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሙ)	9046	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሺ)	9318	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጂ)	157	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሽ)	3753	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኪ)	10957	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ኢ)	7343	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሄ)	5520	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዊ)	512	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ው)	3898	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጲ)	1075	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሹ)	2187	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዙ)	1039	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፄ)	2860	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ግ)	217	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዣ)	697	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሱ)	6060	NOTICE
+Male---Maale-Bible	UNICODE	Source	General Punctuation : (‹)	1584	NOTICE
+Male---Maale-Bible	UNICODE	Source	General Punctuation : (›)	1580	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቾ)	1492	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጩ)	379	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (?)	3131	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጬ)	1618	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጶ)	2045	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሥ)	185	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሉ)	1004	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቼ)	331	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቁ)	1269	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሩ)	1873	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (!)	4359	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሁ)	1806	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዩ)	180	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዉ)	588	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሦ)	1425	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጱ)	75	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቡ)	2240	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሆ)	911	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጃ)	137	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዡ)	50	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ብ)	2033	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዌ)	284	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፕ)	409	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ክ)	296	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቅ)	62	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጆ)	231	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዪ)	1732	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ት)	233	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ቹ)	271	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ሡ)	345	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዝ)	143	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (()	27	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : ())	27	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፁ)	184	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ድ)	112	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (X)	1203	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (O)	6667	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ፅ)	40	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጭ)	5	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (L)	2544	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (V)	1228	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (U)	3380	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (M)	3954	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ህ)	69	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዕ)	166	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (D)	1940	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : ([)	39	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (])	39	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (J)	4935	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (S)	6352	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (R)	4045	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (T)	2740	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (A)	9104	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (K)	2671	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (I)	3265	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (C)	4181	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (H)	3883	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጵ)	4	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ዥ)	16	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (Z)	1731	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (B)	1446	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (P)	3874	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጁ)	8	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ች)	1	NOTICE
+Male---Maale-Bible	UNICODE	Source	Ethiopic : (ጅ)	2	NOTICE
+Male---Maale-Bible	UNICODE	Source	Basic Latin : (-)	8	NOTICE
+
+# VERSIFICATION
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-009-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-013-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-020-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-023-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-024-038	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-031-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-044-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-048-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	001-GEN-048-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-001-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-022-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-022-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-022-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-024-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-027-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-028-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-038-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-006-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-008-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-013-041	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-014-055	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-014-056	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-015-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-015-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-017-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-017-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-017-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-018-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-018-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-023-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-024-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-025-052	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-050	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-051	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-032	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-038	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-039	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-040	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-043	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-044	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-045	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-046	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-047	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-049	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-050	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-051	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-052	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-053	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-055	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-056	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-057	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-058	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-059	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-061	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-062	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-063	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-064	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-065	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-067	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-068	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-069	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-070	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-071	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-073	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-074	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-075	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-076	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-077	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-079	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-080	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-081	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-082	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-083	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-011-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-014-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-032-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-032-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-032-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-032	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-036	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-039	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-043	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-044	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-045	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-046	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-047	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-048	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-049	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-035-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-035-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	004-NUM-036-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-001-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-004-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-010-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-015-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-017-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-019-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-025-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	005-DEU-029-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	006-JOS-002-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	006-JOS-003-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	006-JOS-004-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	006-JOS-009-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	006-JOS-022-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	007-JDG-003-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	007-JDG-019-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	007-JDG-020-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	007-JDG-021-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	008-RUT-001-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	009-1SA-001-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	009-1SA-003-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	009-1SA-009-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	009-1SA-009-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	009-1SA-009-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	009-1SA-025-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	009-1SA-030-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-003-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-008-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-013-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-013-038	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-017-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-032	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-036	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-038	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-039	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	010-2SA-024-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	011-1KI-001-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	011-1KI-006-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	011-1KI-006-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	011-1KI-007-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	011-1KI-008-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	011-1KI-009-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	011-1KI-011-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	011-1KI-012-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	012-2KI-009-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	012-2KI-012-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	012-2KI-022-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-039	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-040	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-041	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-002-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-004-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-004-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-005-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-005-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-058	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-059	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-032	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-036	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-038	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-039	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-040	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-041	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-043	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-044	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-045	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-046	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-047	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-032	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-036	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-016-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-017-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-023-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-023-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-026-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-003-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-003-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-005-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-005-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-006-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-008-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-009-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-017-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-022-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-028-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-028-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-029-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-029-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-030-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-030-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	014-2CH-032-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-001-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-032	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-038	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-039	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-041	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-044	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-045	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-046	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-047	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-048	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-049	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-050	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-051	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-052	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-053	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-054	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-056	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-057	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-060	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-062	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-065	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-066	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-067	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-032	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-036	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-039	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-040	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-041	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-001-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-003-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-032	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-033	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-036	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-037	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-038	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-040	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-041	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-042	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-044	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-045	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-047	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-048	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-049	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-050	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-051	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-052	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-053	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-054	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-055	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-056	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-058	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-059	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-062	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-064	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-067	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-069	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-071	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-072	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-011	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-027	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-017	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	017-EST-005-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	017-EST-006-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	017-EST-009-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	017-EST-009-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	017-EST-009-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	018-JOB-003-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	018-JOB-009-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	018-JOB-034-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	018-JOB-038-038	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	019-PSA-007-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	019-PSA-105-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	019-PSA-132-004	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	019-PSA-132-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	020-PRO-026-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	021-ECC-005-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	023-ISA-002-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	023-ISA-033-016	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-001-019	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-002-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-021-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-022-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-025-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-025-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-025-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-025-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-025-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-025-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-025-026	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-026-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-027-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-029-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-033-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-035-013	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-036-028	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-037-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-041-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-042-020	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-044-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-046-002	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-046-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-048-022	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-048-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	024-JER-048-024	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-001-025	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-014-023	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-023-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-023-030	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-024-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-040-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-041-010	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-043-014	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-043-015	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	027-DAN-010-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	029-JOE-003-021	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	030-AMO-005-009	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-055	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-031	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	042-LUK-006-018	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	042-LUK-020-043	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	044-ACT-002-035	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	044-ACT-025-003	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	045-ROM-010-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	066-REV-001-005	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	066-REV-007-006	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	066-REV-007-007	WARN
+Male---Maale-Bible	VERSIFICATION	Aionian	missing	066-REV-007-008	WARN
+Male---Maale-Bible	VERSIFICATION	Summary	missing	598	WARN
+Male---Maale-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Male---Maale-Bible	ENCLOSURES	Source	()	27 / 27	NOTICE
+Male---Maale-Bible	ENCLOSURES	Source	[]	39 / 39	NOTICE
+Male---Maale-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Male---Maale-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Male---Maale-Bible	ENCLOSURES	Aionian	()	292 / 292	NOTICE
+Male---Maale-Bible	ENCLOSURES	Aionian	[]	39 / 39	NOTICE
+Male---Maale-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Male---Maale-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	DEU 2:10 [ናንጊና ናንጋ ጎዳ ሞዓኣቤ ዓሶም ዒንጋንዳሢኮ ቤርታ ዔሚሜ ጌይንታያ ዎልቄና ዓኣ፥ ዺቢ ዴሬ ዔኤሬይዳ ናንጋኔ፤ ዔያታ ዼኤፒ ማዔያ ዔናኣቄ ዓሶጉዲ ዖዶሲ ዓሲኬ።	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	DEU 2:12 ሆኦሬ ዓሳኣ ዔዶኦሜይዳ ናንጋንቴ ዔኤሳዎ ዜርፃ ዔያቶ ዳውሲ ባይዚ ቤዛ ዴዔኔ፤ ዬኖ ጎይፆ ዒስራዔኤሌ ዓሳ ናንጊቤቃ ናንጊና ናንጋ ጎዳ ዔያቶም ዒንጌ ዓጬሎይዳፓ ካኣናኔ ዓሶ ዳውሲ ኬሲ ቤዛ ዴዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	DEU 2:20 [ዬና ቤዛ ዒኢካ ናንጋ ዴራ ዔኤላ ጎይፆና ሬፓ ዓሶ ዓጮ ጌይንታኔ፤ ዓሞራ ዓሳ ጋዓንቴ ዛምዙሚሜ ዓሶ ዔያቶ ጋዓኔ።	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	DEU 2:23 ቄርፄሴ ጌይንታ ዋኣፆ ሳዛ ዓኣ ዓጬሎፓ ሙኬ ዴራ ጋኣዛ ካታሞ ኮይላ ናንጋ ዔዋዌ ዓሶ ጌይንታ፥ ዒኢካ ናንጋ ዓሶ ባይዚ ዔያቶ ቤዛ ዴዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (ዒስራዔኤሌ ዓሳ ያዕቃኔ ዴራ ቦኦኬ ዔቶ ዋኣፃ ዓኣ ቤዛፓ ዔቂ ሞሴራ ጌይንታ ቤሲ ዴንዴኔ፤ ዒማና ዓኣሮኔ ዒኢካ ሃይቂ ዱኡቴኔ፤ ዒዛ ቤዞይዳ ናኣዚ ዓላዜሬ ቄኤሴ ማዔኔ።	WARN
+Male---Maale-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 ሌዊ ማኣሮ ዓሳ ሃንጎ ዔያቶ ዓሶጉዲ ዓጪ ዓኣያ ማዒባኣሢ ዬያሮኬ፤ ናንጊና ናንጋ ጎዳ ማዔ ዒንሢኮ ፆኦዛሢ ቤርታ ኬኤዜ ጎይፆ ዔያታ ፔ ናንጎም ማዓ ባኣዚ ዴንቃሢ ናንጊና ናንጋ ጎዳም ዔያታ ማዻ ማዻፓኬ።)	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	1CH 5:1 ዒስራዔኤሌኮ ናኣዚ ቶይዲ፥ ሮኦቤኤሌኮ ዜርፃ ሃይካፓ ዴማ ፓይዲንታዞንሢኬ፤ [ሮኦቤኤሌ ዒስራዔኤሌኮ ናኣዚ ቶይዲታዖ ዒንዶ ሌጎ ዓርቂ ዒኢሴሢሮ ቶይዳታ ዮሴፔ ናኣቶም ዒንጊንቴኔ፤ ዬያሮ ዔያቶኮ ቶይዱማ ዔያታ ዎሊ ሄሊ ሾይንቴ ጎይፆ ዓኣዻኒ ዳንዳዒባኣሴ።	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	1CH 5:2 ሂዴቶዋ ቢያፓ ባሼ ዶዲ ማዔሢና ፃጶ ቢያኮ ሱኡጌ ማዔ ዓሲ ጴዼሢ ዪሁዳ ፃጳፓኬ፤]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAT 17:20 ዬሱሴ ማሃዖ፦ «ጉሙርቂፃ ዒንሢኮ ዻኬሢሮኬ፤ ጎኔ ታ ዒንሢም ጋዓኔ፤ ሴናፒጬ ጌይንታ ባኮማ ዓኣፖ ጉዴያታዖ ጉሙርቂሢ ዒንሢኮ ዓኣቶ ሃያ ዹኮ ‹ሃካፓ ሺኢኬ› ጌዔቶ ዒንሢም ዓኣዻንዳኔ፤ ዒንሢ ባሻንዳ ባኣዚ ፔቴታዖ ባኣሴ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAT 17:21 ሃያ ጉዴሢ ሙኡዚ ሃሺ ሺኢቆ ሺኢጲሢና ማዒባኣቶ ኬስኩዋሴ» ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAT 18:10 «ሃንሢ፥ ዻኮንሢዳፓ ፔቴማታዖ ዒንሢ ቦሁዋጉዲ ዒንሢና ዔሩዋቴ፤ ጫሪንጮይዳ ዓኣ ዔያቶም ጊኢጊንቴ ኪኢታንቻ ጫሪንጫ ዓኣ፥ ታ ዓዳሢ ቤርታ ቢያ ኬሊ ዓኣኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAT 18:11 ዓሲኮ ናዓሢ ሙኬሢ ባይቄሢ ዴንቂ ዻቂሻኒኬ]» ጌዔኔ።	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAT 21:43 «ዬያሮ ታ ዒንሢም ሂዚ ጋዓኔ፤ ፆኦሲ ካኣቱማ ዒንሢዳፓ ዔውቲ ዓኣፒ ዓኣፓ ዴሬም ዒንጊንታንዳኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAT 21:44 ዬያ ሹጫሢዳ ሎኦማሢ ሜቃንዳኔ፤ ሃሣ ዬይ ሹጫሢ ዒዛ ዑፃ ዶዔ ዓሢያ ዳኣፂንታንዳኔ» ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 ሃሣ ዬሱሴ፦ «ዒንሢ፥ ፂሎቱዋዖ ፔና ‹ፂሎኬ› ጋዓ ሙሴ ዔርዜ ዎጎ ዔርዛ ዓሶና ፔርሴ ዓሳ! ዓሳ ጫሪንጮ ካኣቱሞይዳ ጌሉዋጉዲ ዓሶኮ ካሮ ዒንሢ ዎዻሢሮ ዒንሢና ባዴዔ! ዒንሢ ዒንሢሮ ጌሉዋሴ፤ ሃሣ ጌላኒ ኮዓ ዓሶዋ ዒንሢ ጌልዙዋሴ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 «ዒንሢ ፂሎቱዋዖ ፔና ‹ፂሎኬ› ጋዓ፥ ሙሴ ዔርዜ ዎጎ ዔርዛ ዓሶና ፔርሴ ዓሳ ዒንሢ ባዴዔ! ዓኒንሢ ሃይቄ ላኣሎኮ ማኣሮ ዒንሢ ቡራያታዖ ዓሲ ‹ፆኦሲ ሺኢቃኔ› ዒንሢ ጎዖንጎ ጌዒ ዖዶሲ ሺኢጲሢ ዒንሢ ሺኢቃኔ፤ ዬያሮ ፑርታ ዎጌ ዒንሢዳ ዎጊንታንዳኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAR 9:43 ዬያሮ ኩጫ ኔና ዻቢሳቴ ቲቂ ኔኤፓ ኬኤሬ፤ ላምዖ ኩቺ ዓኣንቴ ጋኣናኣሜይዳ፥ ታሞ ባይቁዋኣሢዳ ኬኤሪንቲፃፓ ጉንዖ ማዒ ናንጎ ማኣሪ ጌሊፃ ቃራኬ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAR 9:44 ጋኣናኣሜ ጌይንታ ቤዛ ዒኢካ ዓኣ ፁርቃላ ሃይቁዋያ፥ ታማኣ ባይቁዋ ቤሲኬ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAR 9:45 ቶካ ኔና ዻቢሳቴ ኔኤፓ ቲቂ ኬኤሬ፤ ላምዖ ቶኪ ቢያ ዓኣንቴ ጋኣናኣሜ ጌሊፃፓ ጉንዖ ማዒ ናንጎ ማኣሪ ጌሊፃ ቃራኬ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAR 9:46 ጋኣናኣሜ ጌይንታ ቤዛ ዒኢካ ዓኣ ፁርቃላ ሃይቁዋያ፥ ታማኣ ባይቁዋ ቤሲኬ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAR 11:25 ጫሪንጫ ዓኣ ዓዳሢ ዒንሢ ጎሞ ዓቶም ጋዓንዳጉዲ ዒንሢ ሺኢቃኒ ዔቃ ዎዶና ዓሲዳ ዒንሢ ዓርቄ ኮሜ ዓኣቶ ሃሹዋቴ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAR 11:26 ዒንሢ ሜሌ ዓሶኮ ዻቢንቶ ዓቶም ጌዒባኣቶ ጫሪንጫ ዓኣ ዓዳሢ ዒንሢ ጎሞ ዓቶም ጌዒንዱዋሴ» ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAR 15:27 ዒማና ላምዖ ሱላ ዬሱሴና ዎላ ዔኪ ሙኪ ፔቴሢ ዬሱሴኮ ሚዛቆ ዛላ፥ ፔቴሢ ሻውሎ ዛላ ሱፄኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAR 15:28 ያዒ ማዒፆና «ዋይዞ ዒፃ ዓሶና ዎላ ፓይዲንቴኔ» ጌይንቲ ቤርታ ኬኤዞና ፆኦሲ ማሊፃ ኩሜኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	MAR 16:8 ላኣሎንሢያ ዒጊቹሞና ጎጋይቂ ጎጋይቂ ዱኡፖ ዔታፓ ኬስኪ ጳሽኬኔ፤ ዔያታ ኮሺ ዒጊጬያታሢሮ ፔቴታዖ ዖኦማኣ ኬኤዚባኣሴ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	MAR 16:20 ዬሱሴኮ ጊንፆ ሃንታ ናኣታ ቢያ ቤዛ ዓኣዺ ዓኣዺ ዔርዜኔ፤ ጎዳሢያ ዔያቶና ዎላ ማዼኔ። ዲቃሣ ማዾ ማዻንዳጉዲ ቢታንቶ ዔያቶም ዒንጊ ዔርዚፆዋ ዔያቶኮ ዒ ዶዲሼኔ። ]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	LUK 23:16 ዬያሮ ታ ጳዺና ኩንሢ ሃሻንዳኔ» ጌዔኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	LUK 23:17 ሌዓ ሌዓ ዑሣ ዓኣዺፆ ቦንቾ ኬሎና ጲላፆሴ ፔቴ ቱኡሲ ዓሲ ዴሮም ቡላያኬ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	JOH 5:3 ሚርጌ ሃርጊንቴ ዓሲ፥ ዓኣፒ ባይቄ ዓሲ፥ ዎቦ ዓሲ ሃሣ ሃንታኒ ዳንዳዑዋ ዎቦ ዓሲ ዬንሢ ጎይፆንሢ ካኣማ ካራ ላሂ፥ [ዋኣፃ ዓጊፃንዳያ ሄላንዳኣና ካፓኔ፤	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	JOH 5:4 ፔቴ ፔቴና ጎዳኮ ኪኢታንቻሢ ዴዔ ዋኣፄሎ ኬዲ ዓጊሣኔ፤ ዋኣፃ ዓጊፃኣና ቤርታዺ ዋኣፆይዳ ጌላሢ ፔኤኮ ዓኣ፥ ዓይጎ ዶርዖይዳፓ ቢያ ፖፖዓኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	JOH 7:52 ዔያታ ማሃዖ፦ «ኔኤኒያ ጌሊላ ዓጮይዳፓዳ? ፆኦሲ ማሊሢ ኬኤዛይ ጌሊላ ዓጮይዳፓ ዔቂንዱዋኣሢ ማፃኣፖ ኮሺ ማሂ ዛጊ ዔሬ» ዒዛም ጌዔኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 ዒዛ ማሃዖ፦ «ጎዳሢዮ! ዖኦኒያ ባኣሴ» ጌዔኔ። ዬሱሴያ፦ «ታኣ ኔ ዑፃ ዎጋዓኬ፤ ዓኣዼ፥ ላሚ ጎሜ ማዺፖ» ዒዞም ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[1/0]	ACT 8:36 ዔያታ ዴንዲቤቃ ዋኣሢ ዓኣ ቤሲ ሄላዛ፥ ካኣቶ ማኣራ ማዻ ዼኤፖ ዓሢ ፒልጶሴ ኮራ፦ «ሃይሾ ሃካ ዋኣሢ ዓኣኔ፤ ታኣኒ ማስቱዋጉዲ ታና ላኣጋሢ ዓይጎዳይ?» ጌዔኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Source	[0/1]	ACT 8:37 ፒልጶሴያ፦ «ጉቤ ዒናፓ ኔ ጉሙርቄቶ ዋኣፆ ማስታኒ ዳንዳዓኔ» ዒዛም ጌዔኔ። ካኣቶ ማኣራ ማዻ ዼኤፖ ዓሢያ፦ «ዬሱስ ኪሪስቶሴ ፆኦሲ ናኣዚ ማዔሢ ታ ጉሙርቃኔ» ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	005 DEU 002 010 [ናንጊና ናንጋ ጎዳ ሞዓኣቤ ዓሶም ዒንጋንዳሢኮ ቤርታ ዔሚሜ ጌይንታያ ዎልቄና ዓኣ፥ ዺቢ ዴሬ ዔኤሬይዳ ናንጋኔ፤ ዔያታ ዼኤፒ ማዔያ ዔናኣቄ ዓሶጉዲ ዖዶሲ ዓሲኬ።	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	005 DEU 002 012 ሆኦሬ ዓሳኣ ዔዶኦሜይዳ ናንጋንቴ ዔኤሳዎ ዜርፃ ዔያቶ ዳውሲ ባይዚ ቤዛ ዴዔኔ፤ ዬኖ ጎይፆ ዒስራዔኤሌ ዓሳ ናንጊቤቃ ናንጊና ናንጋ ጎዳ ዔያቶም ዒንጌ ዓጬሎይዳፓ ካኣናኔ ዓሶ ዳውሲ ኬሲ ቤዛ ዴዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	005 DEU 002 020 [ዬና ቤዛ ዒኢካ ናንጋ ዴራ ዔኤላ ጎይፆና ሬፓ ዓሶ ዓጮ ጌይንታኔ፤ ዓሞራ ዓሳ ጋዓንቴ ዛምዙሚሜ ዓሶ ዔያቶ ጋዓኔ።	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	005 DEU 002 023 ቄርፄሴ ጌይንታ ዋኣፆ ሳዛ ዓኣ ዓጬሎፓ ሙኬ ዴራ ጋኣዛ ካታሞ ኮይላ ናንጋ ዔዋዌ ዓሶ ጌይንታ፥ ዒኢካ ናንጋ ዓሶ ባይዚ ዔያቶ ቤዛ ዴዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (ዒስራዔኤሌ ዓሳ ያዕቃኔ ዴራ ቦኦኬ ዔቶ ዋኣፃ ዓኣ ቤዛፓ ዔቂ ሞሴራ ጌይንታ ቤሲ ዴንዴኔ፤ ዒማና ዓኣሮኔ ዒኢካ ሃይቂ ዱኡቴኔ፤ ዒዛ ቤዞይዳ ናኣዚ ዓላዜሬ ቄኤሴ ማዔኔ።	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 ሌዊ ማኣሮ ዓሳ ሃንጎ ዔያቶ ዓሶጉዲ ዓጪ ዓኣያ ማዒባኣሢ ዬያሮኬ፤ ናንጊና ናንጋ ጎዳ ማዔ ዒንሢኮ ፆኦዛሢ ቤርታ ኬኤዜ ጎይፆ ዔያታ ፔ ናንጎም ማዓ ባኣዚ ዴንቃሢ ናንጊና ናንጋ ጎዳም ዔያታ ማዻ ማዻፓኬ።)	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	013 1CH 005 001 ዒስራዔኤሌኮ ናኣዚ ቶይዲ፥ ሮኦቤኤሌኮ ዜርፃ ሃይካፓ ዴማ ፓይዲንታዞንሢኬ፤ [ሮኦቤኤሌ ዒስራዔኤሌኮ ናኣዚ ቶይዲታዖ ዒንዶ ሌጎ ዓርቂ ዒኢሴሢሮ ቶይዳታ ዮሴፔ ናኣቶም ዒንጊንቴኔ፤ ዬያሮ ዔያቶኮ ቶይዱማ ዔያታ ዎሊ ሄሊ ሾይንቴ ጎይፆ ዓኣዻኒ ዳንዳዒባኣሴ።	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	013 1CH 005 002 ሂዴቶዋ ቢያፓ ባሼ ዶዲ ማዔሢና ፃጶ ቢያኮ ሱኡጌ ማዔ ዓሲ ጴዼሢ ዪሁዳ ፃጳፓኬ፤]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 017 020 ዬሱሴ ማሃዖ፦ «ጉሙርቂፃ ዒንሢኮ ዻኬሢሮኬ፤ ጎኔ ታ ዒንሢም ጋዓኔ፤ ሴናፒጬ ጌይንታ ባኮማ ዓኣፖ ጉዴያታዖ ጉሙርቂሢ ዒንሢኮ ዓኣቶ ሃያ ዹኮ ‹ሃካፓ ሺኢኬ› ጌዔቶ ዒንሢም ዓኣዻንዳኔ፤ ዒንሢ ባሻንዳ ባኣዚ ፔቴታዖ ባኣሴ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 017 021 ሃያ ጉዴሢ ሙኡዚ ሃሺ ሺኢቆ ሺኢጲሢና ማዒባኣቶ ኬስኩዋሴ» ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 018 010 «ሃንሢ፥ ዻኮንሢዳፓ ፔቴማታዖ ዒንሢ ቦሁዋጉዲ ዒንሢና ዔሩዋቴ፤ ጫሪንጮይዳ ዓኣ ዔያቶም ጊኢጊንቴ ኪኢታንቻ ጫሪንጫ ዓኣ፥ ታ ዓዳሢ ቤርታ ቢያ ኬሊ ዓኣኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 018 011 ዓሲኮ ናዓሢ ሙኬሢ ባይቄሢ ዴንቂ ዻቂሻኒኬ]» ጌዔኔ።	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 021 043 «ዬያሮ ታ ዒንሢም ሂዚ ጋዓኔ፤ ፆኦሲ ካኣቱማ ዒንሢዳፓ ዔውቲ ዓኣፒ ዓኣፓ ዴሬም ዒንጊንታንዳኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 021 044 ዬያ ሹጫሢዳ ሎኦማሢ ሜቃንዳኔ፤ ሃሣ ዬይ ሹጫሢ ዒዛ ዑፃ ዶዔ ዓሢያ ዳኣፂንታንዳኔ» ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 ሃሣ ዬሱሴ፦ «ዒንሢ፥ ፂሎቱዋዖ ፔና ‹ፂሎኬ› ጋዓ ሙሴ ዔርዜ ዎጎ ዔርዛ ዓሶና ፔርሴ ዓሳ! ዓሳ ጫሪንጮ ካኣቱሞይዳ ጌሉዋጉዲ ዓሶኮ ካሮ ዒንሢ ዎዻሢሮ ዒንሢና ባዴዔ! ዒንሢ ዒንሢሮ ጌሉዋሴ፤ ሃሣ ጌላኒ ኮዓ ዓሶዋ ዒንሢ ጌልዙዋሴ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 023 014 «ዒንሢ ፂሎቱዋዖ ፔና ‹ፂሎኬ› ጋዓ፥ ሙሴ ዔርዜ ዎጎ ዔርዛ ዓሶና ፔርሴ ዓሳ ዒንሢ ባዴዔ! ዓኒንሢ ሃይቄ ላኣሎኮ ማኣሮ ዒንሢ ቡራያታዖ ዓሲ ‹ፆኦሲ ሺኢቃኔ› ዒንሢ ጎዖንጎ ጌዒ ዖዶሲ ሺኢጲሢ ዒንሢ ሺኢቃኔ፤ ዬያሮ ፑርታ ዎጌ ዒንሢዳ ዎጊንታንዳኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 043 ዬያሮ ኩጫ ኔና ዻቢሳቴ ቲቂ ኔኤፓ ኬኤሬ፤ ላምዖ ኩቺ ዓኣንቴ ጋኣናኣሜይዳ፥ ታሞ ባይቁዋኣሢዳ ኬኤሪንቲፃፓ ጉንዖ ማዒ ናንጎ ማኣሪ ጌሊፃ ቃራኬ። [ (Geenna g1067)	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 044 ጋኣናኣሜ ጌይንታ ቤዛ ዒኢካ ዓኣ ፁርቃላ ሃይቁዋያ፥ ታማኣ ባይቁዋ ቤሲኬ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 045 ቶካ ኔና ዻቢሳቴ ኔኤፓ ቲቂ ኬኤሬ፤ ላምዖ ቶኪ ቢያ ዓኣንቴ ጋኣናኣሜ ጌሊፃፓ ጉንዖ ማዒ ናንጎ ማኣሪ ጌሊፃ ቃራኬ። [ (Geenna g1067)	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 046 ጋኣናኣሜ ጌይንታ ቤዛ ዒኢካ ዓኣ ፁርቃላ ሃይቁዋያ፥ ታማኣ ባይቁዋ ቤሲኬ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 011 025 ጫሪንጫ ዓኣ ዓዳሢ ዒንሢ ጎሞ ዓቶም ጋዓንዳጉዲ ዒንሢ ሺኢቃኒ ዔቃ ዎዶና ዓሲዳ ዒንሢ ዓርቄ ኮሜ ዓኣቶ ሃሹዋቴ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 011 026 ዒንሢ ሜሌ ዓሶኮ ዻቢንቶ ዓቶም ጌዒባኣቶ ጫሪንጫ ዓኣ ዓዳሢ ዒንሢ ጎሞ ዓቶም ጌዒንዱዋሴ» ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 015 027 ዒማና ላምዖ ሱላ ዬሱሴና ዎላ ዔኪ ሙኪ ፔቴሢ ዬሱሴኮ ሚዛቆ ዛላ፥ ፔቴሢ ሻውሎ ዛላ ሱፄኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 015 028 ያዒ ማዒፆና «ዋይዞ ዒፃ ዓሶና ዎላ ፓይዲንቴኔ» ጌይንቲ ቤርታ ኬኤዞና ፆኦሲ ማሊፃ ኩሜኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 008 ላኣሎንሢያ ዒጊቹሞና ጎጋይቂ ጎጋይቂ ዱኡፖ ዔታፓ ኬስኪ ጳሽኬኔ፤ ዔያታ ኮሺ ዒጊጬያታሢሮ ፔቴታዖ ዖኦማኣ ኬኤዚባኣሴ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 ዬሱሴኮ ጊንፆ ሃንታ ናኣታ ቢያ ቤዛ ዓኣዺ ዓኣዺ ዔርዜኔ፤ ጎዳሢያ ዔያቶና ዎላ ማዼኔ። ዲቃሣ ማዾ ማዻንዳጉዲ ቢታንቶ ዔያቶም ዒንጊ ዔርዚፆዋ ዔያቶኮ ዒ ዶዲሼኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 023 016 ዬያሮ ታ ጳዺና ኩንሢ ሃሻንዳኔ» ጌዔኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 023 017 ሌዓ ሌዓ ዑሣ ዓኣዺፆ ቦንቾ ኬሎና ጲላፆሴ ፔቴ ቱኡሲ ዓሲ ዴሮም ቡላያኬ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 003 ሚርጌ ሃርጊንቴ ዓሲ፥ ዓኣፒ ባይቄ ዓሲ፥ ዎቦ ዓሲ ሃሣ ሃንታኒ ዳንዳዑዋ ዎቦ ዓሲ ዬንሢ ጎይፆንሢ ካኣማ ካራ ላሂ፥ [ዋኣፃ ዓጊፃንዳያ ሄላንዳኣና ካፓኔ፤	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 005 004 ፔቴ ፔቴና ጎዳኮ ኪኢታንቻሢ ዴዔ ዋኣፄሎ ኬዲ ዓጊሣኔ፤ ዋኣፃ ዓጊፃኣና ቤርታዺ ዋኣፆይዳ ጌላሢ ፔኤኮ ዓኣ፥ ዓይጎ ዶርዖይዳፓ ቢያ ፖፖዓኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 052 ዔያታ ማሃዖ፦ «ኔኤኒያ ጌሊላ ዓጮይዳፓዳ? ፆኦሲ ማሊሢ ኬኤዛይ ጌሊላ ዓጮይዳፓ ዔቂንዱዋኣሢ ማፃኣፖ ኮሺ ማሂ ዛጊ ዔሬ» ዒዛም ጌዔኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 ዒዛ ማሃዖ፦ «ጎዳሢዮ! ዖኦኒያ ባኣሴ» ጌዔኔ። ዬሱሴያ፦ «ታኣ ኔ ዑፃ ዎጋዓኬ፤ ዓኣዼ፥ ላሚ ጎሜ ማዺፖ» ዒዞም ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 008 036 ዔያታ ዴንዲቤቃ ዋኣሢ ዓኣ ቤሲ ሄላዛ፥ ካኣቶ ማኣራ ማዻ ዼኤፖ ዓሢ ፒልጶሴ ኮራ፦ «ሃይሾ ሃካ ዋኣሢ ዓኣኔ፤ ታኣኒ ማስቱዋጉዲ ታና ላኣጋሢ ዓይጎዳይ?» ጌዔኔ። [	WARN
+Male---Maale-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 008 037 ፒልጶሴያ፦ «ጉቤ ዒናፓ ኔ ጉሙርቄቶ ዋኣፆ ማስታኒ ዳንዳዓኔ» ዒዛም ጌዔኔ። ካኣቶ ማኣራ ማዻ ዼኤፖ ዓሢያ፦ «ዬሱስ ኪሪስቶሴ ፆኦሲ ናኣዚ ማዔሢ ታ ጉሙርቃኔ» ጌዔኔ።]	WARN
+Male---Maale-Bible	ENCLOSURES	Summary	lines	34 / 34	NOTICE
+
+# UNEXPECTED
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Male---Maale-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Male---Maale-Bible	NUMERALS	Source	count	0	NOTICE
+Male---Maale-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) ዬሱሴ ዉዴ ጉቴ ሃይባፓ ዔቄስካፓ ቤርታዺ ላንካይ ፑርታ ዓያና ዒዚ ኬሴ ሜግዴላ ዓጮ ማይራሞም ጴዼኔ፤	WARN
+Male---Maale-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

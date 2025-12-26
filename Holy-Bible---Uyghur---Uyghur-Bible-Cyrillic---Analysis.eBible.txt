@@ -1,0 +1,905 @@
+# File Name: Holy-Bible---Holy-Bible---Uyghur---Uyghur-Bible-Cyrillic---Analysis.txt
+# File Size: 124959      
+# File Date: 12/13/2025 06:06:40
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Муқеддес Калам (кирил йезиқ)
+# Bible Name English: Uyghur Bible (cyrillic script)
+# Bible Language: Uyghur tili
+# Bible Language English: Uyghur
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Mukeddes Kalam - Uyghur Bible Translation Committee
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=uigcyr
+# Bible Source Year: 2010
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Uyghur---Uyghur-Bible-Cyrillic	ENCODING	Source	Holy-Bible---Uyghur---Uyghur-Bible-Cyrillic---Source-Edition.VPL.txt	UTF-8	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	ENCODING	Aionian	Holy-Bible---Uyghur---Uyghur-Bible-Cyrillic---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Uyghur---Uyghur-Bible-Cyrillic	BYTES	Source	bytes / chars	8147311 / 4562298 (multi-byte)	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	BYTES	Aionian	bytes / chars	8359385 / 4773871 (multi-byte)	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	BYTES	SourceClean	bytes / chars	8146474 / 4561461 (multi-byte)	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	BYTES	AionianClean	bytes / chars	8355135 / 4770204 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Uyghur---Uyghur-Bible-Cyrillic	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	AIONIAN	Aionian	missing-verse	0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Uyghur---Uyghur-Bible-Cyrillic	UNPRINTABLE	Source	count	0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Summary	(-)Orginal	79	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Summary	(+)Aionian	61	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (G)	2294	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : ( )	602757	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (1)	30202	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (:)	38564	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Cyrillic : (у)	145069	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Cyrillic : (и)	548822	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (.)	28730	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (\n)	30824	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (2)	21438	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (;)	15048	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (3)	12257	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (!)	4672	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (,)	49000	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (4)	9094	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (5)	6940	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (6)	6384	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	General Punctuation : (—)	10673	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (-)	10586	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (7)	5949	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (8)	5851	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (9)	5337	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (0)	5279	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (()	732	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : ())	735	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Latin-1 Supplement: ( )	65	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (O)	6630	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (L)	2552	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (b)	10	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (U)	3464	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (M)	4021	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (D)	1945	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (S)	6363	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (R)	4121	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (T)	2719	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (A)	9081	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (I)	3257	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (C)	4272	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (H)	4070	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (e)	6	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (a)	11	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (P)	3844	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (|)	398	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (א)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ב)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ג)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ד)	10	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ה)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ו)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ז)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ח)	12	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ט)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (י)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (כ)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ל)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (מ)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (נ)	8	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ס)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ע)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (פ)	10	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (צ)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ק)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ר)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ש)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (u)	5	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (s)	3	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (y)	3	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (n)	5	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (k)	3	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (o)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (l)	6	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (p)	4	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (t)	4	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (r)	6	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (i)	7	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (g)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (d)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (q)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Basic Latin : (m)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source(-)	Hebrew : (ת)	6	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (0)	129435	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (1)	42090	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (\t)	123324	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (G)	2306	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Cyrillic : (у)	145067	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : ( )	541501	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Cyrillic : (и)	548824	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (.)	28681	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (\n)	30830	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (2)	30872	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (;)	15047	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (3)	17051	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (:)	7742	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (!)	4652	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (,)	49008	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (4)	19826	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (5)	10158	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (6)	10650	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	General Punctuation : (—)	10670	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (-)	10587	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (7)	7376	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (8)	7794	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (9)	9228	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (()	1063	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : ())	1066	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (S)	6430	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (h)	129	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (e)	105	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (o)	150	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (l)	75	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (O)	6632	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (L)	2557	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (U)	3465	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (M)	4024	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (D)	1946	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (R)	4123	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (T)	2722	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (A)	9092	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (I)	3258	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (C)	4273	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (H)	4084	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (a)	210	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (P)	3851	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (u)	8	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (s)	117	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (y)	17	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (n)	207	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (k)	4	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (b)	13	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (p)	5	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (t)	11	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (r)	17	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (i)	254	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (g)	215	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (d)	19	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (q)	3	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (m)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (G)	2294	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (E)	10814	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (N)	3621	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : ( )	602757	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (1)	30202	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (:)	38564	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (М)	10936	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (у)	145069	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (қ)	108513	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ә)	253224	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (д)	150360	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (м)	104501	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Х)	4790	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (а)	313565	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (с)	81660	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (н)	253914	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (л)	233734	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (р)	209823	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (б)	81344	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (и)	548822	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (з)	44481	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (я)	14826	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (т)	119062	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (.)	28730	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (\n)	30824	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (2)	21438	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (У)	9260	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ч)	39022	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ғ)	60608	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (й)	62805	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (о)	58301	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ш)	56332	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (к)	83845	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (в)	37819	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (п)	61540	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (һ)	34786	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (;)	15048	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ң)	74237	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ү)	53483	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Р)	2161	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (3)	12257	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin-1 Supplement: («)	5100	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Й)	5516	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (!)	4672	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin-1 Supplement: (»)	4993	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (е)	62089	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (,)	49000	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (4)	9094	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (х)	13436	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (г)	41672	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ө)	27550	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (5)	6940	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ш)	4834	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (җ)	10947	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (6)	6384	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (А)	6200	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	General Punctuation : (—)	10673	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (С)	6412	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : ([)	3243	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ж)	5012	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (-)	10586	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (])	3243	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (7)	5949	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (8)	5851	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (9)	5337	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (0)	5279	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (К)	2099	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Һ)	3455	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ю)	1685	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Н)	1475	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ө)	1976	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Б)	6746	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (П)	9257	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (З)	1229	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Л)	2281	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Е)	864	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (И)	5132	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Г)	1246	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ү)	153	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Д)	2293	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ә)	4495	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ф)	1456	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (?)	3460	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Я)	1286	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Қ)	1753	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (В)	750	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Т)	2016	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ч)	2543	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ю)	111	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (()	732	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : ())	735	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin-1 Supplement: ( )	65	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Җ)	386	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ф)	428	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin Extended-C : (Ⱪ)	74	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ж)	196	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (О)	764	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ъ)	396	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ғ)	173	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (X)	1209	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (O)	6630	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin Extended-C : (Ⱨ)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (L)	2552	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (V)	1260	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (b)	10	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (U)	3464	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (M)	4021	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (D)	1945	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (Ц)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (J)	4943	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (S)	6363	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (R)	4121	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (T)	2719	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (A)	9081	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (K)	2664	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (I)	3257	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (C)	4272	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (H)	4070	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (e)	6	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (a)	11	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (Z)	1808	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (B)	1438	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (P)	3844	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (|)	398	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (א)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ב)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ג)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ד)	10	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ה)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ו)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ז)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ח)	12	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ט)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (י)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (כ)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ל)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (מ)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (נ)	8	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ס)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ע)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (פ)	10	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (צ)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ק)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ר)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ש)	9	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	General Punctuation : (“)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	General Punctuation : (”)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (u)	5	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (s)	3	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (f)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (y)	3	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (z)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin Extended-B : (ƣ)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (n)	5	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (k)	3	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin-1 Supplement: (ü)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (o)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (l)	6	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (p)	4	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (t)	4	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (r)	6	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (i)	7	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin Extended-B : (ǝ)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (g)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (x)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (d)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (q)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (m)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (э)	2	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	IPA Extensions : (ɵ)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Latin Extended-C : (ⱪ)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	General Punctuation : (–)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Hebrew : (ת)	6	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (')	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Basic Latin : (Y)	1	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNICODE	Source	Cyrillic : (ь)	3	NOTICE
+
+# VERSIFICATION
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-001-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-005-029	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-007-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-007-009	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-008-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-009-009	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-009-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-009-013	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-009-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-010-012	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-015-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-017-027	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-018-009	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-020-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-021-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-023-006	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-024-065	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-025-008	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-026-029	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-027-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-028-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-029-012	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-030-039	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-031-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-032-014	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-032-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-032-020	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-036-011	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-036-012	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-036-013	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-036-021	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-036-030	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-036-041	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-036-042	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-036-043	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-037-024	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-041-046	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-045-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-046-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	001-GEN-050-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	002-EXO-018-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	002-EXO-028-014	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	002-EXO-028-034	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	002-EXO-040-032	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	003-LEV-017-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-004-023	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-004-035	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-004-039	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-004-043	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-004-047	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-005-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-005-022	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-007-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-015-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-016-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-016-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-021-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	004-NUM-027-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-001-033	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-004-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-004-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-009-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-010-013	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-011-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-013-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-013-013	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-016-014	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-017-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	005-DEU-028-057	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	006-JOS-001-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	006-JOS-002-013	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	006-JOS-003-011	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	006-JOS-013-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	006-JOS-023-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	007-JDG-020-028	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	010-2SA-007-011	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	010-2SA-008-012	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	010-2SA-023-033	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	011-1KI-011-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	011-1KI-011-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	012-2KI-010-033	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	012-2KI-022-006	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	013-1CH-004-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	013-1CH-008-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	013-1CH-010-014	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	013-1CH-017-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	014-2CH-002-009	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	014-2CH-030-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	014-2CH-036-022	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	014-2CH-036-023	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	015-EZR-009-011	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	016-NEH-001-009	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	016-NEH-004-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	016-NEH-011-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-003-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-010-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-010-021	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-010-022	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-013-028	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-016-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-037-022	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-037-023	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	018-JOB-038-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-007-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-033-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-044-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-046-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-049-008	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-049-009	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-064-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-076-009	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-077-011	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-078-043	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-102-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-102-020	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-102-022	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-103-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-132-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	019-PSA-132-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	020-PRO-006-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	020-PRO-007-023	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	020-PRO-008-023	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	020-PRO-008-026	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	020-PRO-008-028	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	020-PRO-008-029	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	020-PRO-026-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	021-ECC-008-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	021-ECC-008-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	023-ISA-003-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	023-ISA-018-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	023-ISA-025-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	023-ISA-036-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	023-ISA-057-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	023-ISA-065-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	024-JER-032-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	024-JER-032-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	024-JER-039-012	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	024-JER-044-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	024-JER-051-035	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	026-EZE-013-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	026-EZE-016-057	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	026-EZE-018-011	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	026-EZE-023-030	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	026-EZE-039-027	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	026-EZE-041-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	026-EZE-041-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	026-EZE-041-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	027-DAN-004-021	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	028-HOS-002-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	033-MIC-003-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	040-MAT-027-053	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-001-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-001-044	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-005-023	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-006-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-007-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-007-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-007-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-007-022	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	041-MAR-011-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-027	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-042	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-054	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-069	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-071	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-073	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-074	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-075	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-001-079	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-004-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-011-051	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-013-021	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-014-030	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-019-038	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-020-043	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-024-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	042-LUK-024-034	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	043-JOH-001-025	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	043-JOH-004-008	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	043-JOH-010-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	043-JOH-011-052	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	043-JOH-012-040	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	043-JOH-019-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	043-JOH-019-037	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-001-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-001-025	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-002-011	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-002-035	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-008-028	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-010-035	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-010-038	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-010-041	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-013-033	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-014-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-015-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-015-035	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-018-013	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-024-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-026-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-026-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-027-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-001-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-002-020	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-004-017	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-005-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-008-021	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-009-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-009-024	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-015-009	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-015-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	045-ROM-015-024	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	046-1CO-001-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	046-1CO-003-020	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	046-1CO-010-033	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	046-1CO-011-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	046-1CO-016-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	047-2CO-001-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	047-2CO-001-014	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	047-2CO-012-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	047-2CO-013-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	048-GAL-001-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	048-GAL-004-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	048-GAL-005-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	049-EPH-001-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	049-EPH-003-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	049-EPH-005-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	049-EPH-006-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	050-PHI-001-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	050-PHI-002-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	051-COL-001-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	051-COL-001-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	051-COL-001-012	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	051-COL-001-022	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	051-COL-002-021	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	052-1TH-001-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	052-1TH-002-012	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	052-1TH-004-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	053-2TH-001-007	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	054-1TI-001-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	054-1TI-001-019	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	054-1TI-006-015	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	055-2TI-001-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	055-2TI-003-011	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	056-TIT-001-014	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	056-TIT-002-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	057-PHM-001-005	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	058-HEB-006-001	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	058-HEB-006-004	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	058-HEB-006-006	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	058-HEB-007-020	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	058-HEB-011-018	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	058-HEB-012-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	059-JAM-001-010	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	059-JAM-001-024	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	059-JAM-002-016	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	059-JAM-005-008	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	060-1PE-002-003	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	060-1PE-002-008	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	060-1PE-002-014	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	060-1PE-003-002	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	063-2JO-001-001	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	066-REV-002-025	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Aionian	missing	066-REV-009-014	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Summary	missing	271	WARN
+Uyghur---Uyghur-Bible-Cyrillic	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	()	732 / 735	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	[]	3243 / 3243	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	()	1063 / 1066	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	[]	3243 / 3243	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	EXO 18:2 Шуниң билән Мусаниң қейинатиси Йәтро Мусаниң әслидә өз йениға әвәтивәткән аяли Зиппораһ вә униң икки оғлини елип йолға чиқти (биринчи оғлиниң исми Гәршом дәп қоюлған еди; чүнки Муса: «мән яқа жутта мусапир болуп туруватимән» дегән еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	EXO 18:4 Йәнә бириниң исми Әлиезәр дәп қоюлған еди; чүнки Муса: «Атамниң Худаси маңа ярдәмдә болуп, мени Пирәвнниң қиличидин қутқузди», дегән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	NUM 21:13 Йәнә у йәрдин меңип Аморийларниң зимининиң четидин чиқип чөл-баявандин өтүп, еқип турған Арнон дәриясиниң у қетида чедир тикти (чүнки Арнон дәрияси Моабийларниң чегариси болуп, Моабийлар билән Аморийларниң оттурисида еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	NUM 21:14 Шуңа «Пәрвәрдигарниң җәңнамиси» дегән китапта: — «Суфаһдики Ваһәб вә дәрия-вадилири, Арнон дәрияси вә җилғилириниң янбағирлири, Арниң туралғусиғичә йетип, Моабниң чегарисиға чүшиду» дәп пүтүлгән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 2:10 (Әмийләр әслидә шу йәрдә туратти; улар Анакийларға охшаш күчлүк, сани көп, егиз бойлуқ бир хәлиқ еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 2:12 Сеирда әслидә Һорийлар туратти; лекин Әсавлар Һорийларни зиминидин һайдиветип, уларни йоқитип орниға олтирақлашти — худди Исраиллар Мәнки Пәрвәрдигар уларға тәқдим қилған, уларниң тәвәлиги болған зиминға қилғиниға охшаш).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 2:20 (бу зиминму «гигантларниң зимини» һесаплиниду; чүнки илгири гигантлар шу йәрдә турған еди; Аммонийлар уларни «Замзумлар» дәп атайду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 2:23 Вә Газа шәһиригичә кәнт-қишлақларда олтирақлашқан аввийларни болса, Кафтордин чиққан Кафторийлар йоқитип, уларниң орниға олтирақлашти).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 3:13 Гилеадниң қалған зимини вә Ог падишаниң зимини болған пүткүл Башанни мән Манассәһниң йерим қәбилисигә тәқдим қилдим (пүткүл Аргоб райони, йәни пүткүл Башан «гигантларниң зимини» дейилиду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 3:14 Манассәһниң оғли Яир пүткүл Аргоб районини, йәни Башанни Гәшурийлар вә Маакатийларниң чегарисиғичә егилигән вә уни өз исми билән «Һаввот-Яир» дәп атиған. Бүгүнгә қәдәр у шундақ аталмақта).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 4:45 (булар болса Исраиллар Мисирдин чиққанда Муса [пәйғәмбәр] уларға җакалиған агаһ-гувалар, бәлгүлимиләр һәм һөкүмләрдур;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 4:49 шундақла Иордан дәриясиниң шәриқ тәрипидики пүткүл Арабаһ түзләңлиги вә Писгаһ теғиниң бағриға җайлашқан «Түзләңликтики деңиз»ғичә еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 6:2 (шуниң билән силәр, йәни сән өзүң, оғлуң вә нәврәң барлиқ тирик күнлириңларда Пәрвәрдигар Худайиңлардин қорқуп, мән силәргә тапилаватқан униң барлиқ бәлгүлимә вә әмирлирини тутисиләр, шундақла узун күнләрни көрисиләр.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 6:3 Сән, и Исраил, уларни аңлап әмәл қилишқа көңүл қоюңлар; шуниң билән ата-бовилириңларниң Худаси Пәрвәрдигар силәргә дегинидәк, сүт билән һәсәл еқип туридиған мунбәт зиминда туруп, һалиңлар яхши болиду вә саниңлар интайин көпийиду): —	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 8:15 (У сени бепаян вә дәһшәтлик чөл-баявандин, йәни зәһәрлик иланлар вә чаянлар қаплап кәткән, сусирап қағҗирап кәткән бир чөл-баявандин йетәкләп чиққан, шу йәрдә саңа чақмақ тешидин су чиқирип бәргән,	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 8:16 сени өзини төвән тутсун дәп синап, саңа ахир раһәт-бәрикәт көрситиш үчүн чөл-баяванда ата-бовилириң көрүп бақмиған «манна» билән озуқландурған)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 9:22 (силәр йәнә Табәраһ, Массаһ, Киброт-Һаттаваһдиму Пәрвәрдигарни ғәзәпләндүрдүңлар.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 9:24 Мән силәрни тонуған күндин тартип силәр Пәрвәрдигар Худайиңларға асийлиқ қилип кәлдиңлар).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 11:4 (чүнки улар [Пәрвәрдигарниң] Мисирниң қошуни, уларниң атлири, уларниң җәң һарвулириға қилған ишлири, йәни Қизил Деңизниң сулири билән уларни ғәриқ қилип, үзүл-кесил һалак қилғанлиғи,	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 11:6 Униң Рубәнниң әвлади, Елиабниң оғуллири Датан вә Абирамға немә қилғанлиғи, йәни пүтүн Исраиллар арисида йәр йүзиниң ағзини қандақ ечип уларни аилисидикилири вә чедирлири билән қошуп барлиқ тәәллуқатлири билән жутувәткәнлигини көрмигән еди);	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DEU 29:16 (чүнки силәр бизниң Мисир зиминида қандақ турғанлиғимиз вә сәпиримиздә әлләрниң оттурисидин қандақ өтүп кәлгинимизни убдан билисиләр;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DEU 29:17 Силәр уларниң арисидики жиргиничлик нәрсиләрни, уларниң арисидики яғач, таш, алтун вә күмүчтин ясалған бутларни көрдүңлар).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JDG 8:1 (Кейин, Әфраимлар униңға: — Сән немишкә бизгә шундақ муамилә қилисән, Мидиянийлар билән соқушқа чиққанда, бизни чақирмидиңғу, дәп униң билән қаттиқ дейишип кәтти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JDG 8:3 Худа Мидиянниң әмирлири Орәб билән Зәәбни қолуңларға тапшурған йәрдә, мениң қолумдин кәлгинини қандақму силәрниң қилғиниңларға тәңләштүргили болсун? — деди. Шундақ девиди, уларниң униңға болған аччиғи янди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JDG 9:17 (чүнки атам силәр үчүн җәң қилип, өз җенини хәтәргә тәвәккул қилип силәрни Мидиянниң қолидин қутқузди!	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JDG 9:18 Лекин силәр бүгүн атамниң җәмәтигә қарши қозғилип, униң оғуллирини, җәмий йәтмиш адәмни бир ташниң үстидә өлтүрүп, униң дедигиниң оғли Абимәләкни туққиниңлар болғини үчүн Шәкәм хәлқиниң үстигә падиша қилип тикләпсиләр!)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	2SA 4:2 Саулниң оғлиниң қошуниниң алдин жүрәр қисмида икки сәрдари болуп, бириниң исми Баанаһ, йәнә бириниң исми Рәкаб еди. Улар Бинямин қәбилисидин болған Бәәротлуқ Риммонниң оғуллири еди (чүнки Бәәрот Бинямин қәбилисигә тәвә һесаплинатти;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	2SA 4:3 лекин Бәәротлуқлар Гиттаимға қечип берип у йәрдә бу күнгичә мусапирдәк яшаватиду).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	1KI 10:11 (Һирамниң Офирдин алтун әпкелидиған кемилириму Офирдин йәнә интайин зор миқдардики сәндәл яғичи вә яқут-гөһәрләрни елип кәлди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	1KI 10:12 Падиша сәндәл яғичидин Пәрвәрдигарниң өйи үчүн вә падишаниң ордиси үчүн пәләмпәй-саласунлар ясатти һәм нәғмә-навачилар үчүн чилтарлар вә сазларни шуниңдин ясатти. Шу вақиттин кейин шундақ зор миқдардики есил сәндәл яғичи бу вақитқичә һеч кәлтүрүлмиди я көрүлүп бақмиди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	1KI 18:3 Аһаб ордисидики ғоҗидар Обадияни чақирди (Обадия толиму тәқвадар киши болуп Пәрвәрдигардин интайин қорқатти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	1KI 18:4 Йизәбәл Пәрвәрдигарниң пәйғәмбәрлирини өлтүрүп йоқитиватқанда Обадия йүз пәйғәмбәрни елип әлликтин-әлликтин айрим-айрим икки ғарға йошуруп, уларни нан вә су билән баққан еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	1KI 21:25 (Бәрһәқ, хотуни Йизәбәлниң қутритишлири билән Пәрвәрдигарниң нәзиридә рәзиллик қилғили өзини сатқан Аһабдәк һеч ким йоқ еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	1KI 21:26 У Пәрвәрдигар Исраилларниң алдидин һайдап қоғливәткән Аморийларниң қилғинидәк қилип, жиркиничлик бутларға тайинип әгишип, ләнәтлик ишларни қилатти).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	2KI 20:7 (Йәшая болса: — «Әнҗир пошкили тәйярлаңлар, деди. Улар уни елип келип, ярисиға чапливиди, у сақайди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	2KI 20:11 Шуниң билән Йәшая пәйғәмбәр Пәрвәрдигарға нида қилди вә У қуяшниң Аһаз падиша қурған пәләмпәй басқучилири үстигә чүшкән сайисини яндуруп, он басқуч кәйнигә маңдурди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	1CH 5:1 Исраилниң тунҗа оғли Рубәнниң оғуллири мунулар: — (Рубән гәрчә тунҗа оғул болғини билән, лекин [атисиниң тоқили билән] зина қилғанлиғи үчүн, униң чоң оғуллуқ һоқуқи Исраилниң оғли болған Йүсүпниң оғуллириға өткүзүветилгән. Шуңа нәсәбнамә бойичә у чоң оғул һесапланмайду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	1CH 5:2 Йәһуда қериндашлири ичидә үстүнлүккә егә болған болсиму вә идарә қилғучи униңдин чиққан болсиму, лекин чоң оғуллуқ һоқуқи Йүсүпкә тәвә болуп кәткән): —	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	1CH 7:21 Таһатниң оғли Забад, Забадниң оғли Шутилаһ еди (Езәр билән Елиад Гатлиқларниң чарва маллирини булаң-талаң қилғили чүшкәндә, шу йәрлик Гатлиқлар тәрипидин өлтүрүлгән.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	1CH 7:24 Униң қизи Үстүн Бәйт-Һорон билән Төвән Бәйт-Һоронни вә Уззән-Шәәраһни бена қилған).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	1CH 9:22 Дәрвазивәнликкә талланған бу кишиләр җәмий икки йүз он икки киши еди; улар өз йеза-кәнтлиридә, нәсәблири бойичә тизимланған (әслидә Давут вә алдин көргүчи Самуил уларни аманәт қилинған вәзипилиригә бекиткән еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	1CH 9:23 Улар вә уларниң әвлатлири Пәрвәрдигарниң өйи, йәни муқәддәс чедирниң ишик-дәрвазилирини беқишқа бекитилгән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	1CH 12:1 Давут Кишниң оғли Саулниң бесими сәвәвидин Зиклагда йошурунуп ятқан чағда муну кишиләр Давутниң йениға келишти (уларниң һәммиси Давутқа җәң қилишта ярдәм бәргән батурлардин еди;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	1CH 12:2 оқя билән қуралланған болуп, оң қоли биләнму, сол қоли биләнму оқя вә салға аталайтти; улар Саулниң Бинямин қәбилисидин болған туққанлири еди):	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	2CH 5:11 Каһинлар муқәддәс җайдин чиқишти (шу йәрдә һазир болған барлиқ каһинлар, өз нөвитигә қаримай өзлирини Худаға атап пакизлиған еди;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	2CH 5:12 нәғмә-навачи барлиқ Лавийлар, җүмлидин Асаф, Һеман, Йәдутун вә уларниң оғуллири һәм қериндашлири чәкмән тонлирини кийишип, қурбангаһниң шәрқидә туруп җаң, тәмбур вә чилтарлар челишиватқан еди; улар билән биллә канай челиватқан йәнә бир йүз жигирмә каһин бар еди)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	2CH 9:10 (Офирдин алтунларни әпкелидиған Һурамниң хизмәткарлири вә Сулайманниң хизмәткарлири йәнә интайин зор миқдардики сәндәл яғичини вә яқут-гөһәрләрниму елип кәлди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	2CH 9:11 Падиша сәндәл яғичидин Пәрвәрдигарниң өйи үчүн вә падишаниң ордиси үчүн пәләмпәйләр ясап һәм нәғмә-навачилар үчүн чилтарлар вә сазларни шуниңдин ясатти. Шундақ есил сәндәл яғичи Йәһуда зиминида бу вақитқичә һеч көрүлүп бақмиған еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	2CH 30:2 (Падишаһ, әмәлдарлири вә Йерусалимдики барлиқ җамаәт билән биллә мәслиһәтлишип, иккинчи айда өтүп кетиш һейтини өткүзәйли дәп қарарға келишти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	2CH 30:3 Лекин пакланған каһинлар йетишмигәчкә, хәлиқму Йерусалимға жиғилип болмиғачқа, һейтни вақтида өткүзәлмиди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JOB 32:15 (Бу үчәйлән һәйрануһәс болуп, қайта җавап беришмиди; Һәммә сөз улардин учуп кәтти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JOB 32:16 Мән күтүп тураттим, чүнки улар гәп қилмиди, бәлки җим-җит өрә туруп қайта җавап бәрмиди);	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	ISA 38:21 (Йәшая болса: — «Әнҗир пошкили тәйярлап, ярисиға чаплаңлар, у әслигә келиду», дегән еди	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	ISA 38:22 вә Һәзәкия: — «Мениң Пәрвәрдигарниң өйигә чиқидиғанлиғимни испатлайдиған қандақ бешарәтлик аламәт берилиду?» дәп сориған еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	ISA 44:25 (У болса ялған [пәйғәмбәрләрниң] бешарәтлирини бекар қилғучи, Палчиларни қаймуқтурғучи, Даналарни йолидин яндурғучи, Уларниң билимлирини наданлиққа айландурғучи;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	ISA 44:28 Һәм Қорәш тоғрисида: «У Мениң қой падичим, у Мениң көңлүмдикигә толуқ әмәл қилип, Йерусалимға: «Қурулисән», Һәм ибадәтханиға: «Сениң һулуң селиниду» дәйду» — дегүчидур): —	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JER 21:3 Йәрәмия уларға: — Зәдәкияға мундақ дәңлар, — деди)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JER 26:20 (Пәрвәрдигарниң намида Йәрәмияниң барлиқ дегәнлиридәк бу шәһәрни вә бу зиминни әйипләп бешарәт бәргән, Кириат-Йеаримлиқ Шәмаяниң оғли Урия исимлиқ йәнә бир адәм бар еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JER 26:23 улар Урияни Мисирдин елип чиқип падиша Йәһоакимниң алдиға апарған; у уни қиличлап, җәситини пухраларниң гөрлүгигә ташливәткән).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JER 29:2 (хәт падиша Йәконияһ, ханиш, вәзирләр, Йәһуда вә Йерусалимдики шаһзадә-әмирләр вә һүнәрвәнләр Йерусалимдин кәткәндин кейин,	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JER 29:3 Шафанниң оғли Әласаһниң вә Һилқияниң оғли Гәмарияниң қоли билән йолланған — Йәһуда падишаси Зәдәкия бу кишиләрни Бабил падишаси Небоқаднәсарниң алдиға йоллиған). Йоллиған хәт мундақ: —	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JER 29:28 Чүнки у һәтта Бабилда туруватқан бизләргиму: «Шу йәрдә болған вақтиңлар узун болиду; шуңа өйләрни селиңлар, уларда туруңлар, бағларни бәрпа қилиңлар, уларниң мевисини йәңлар» дәп хәт йоллиди!»)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JER 32:1 Йәһуда падишаси Зәдәкияниң онинчи жили, Йәрәмияға Пәрвәрдигардин кәлгән сөз төвәндә хатириләнгән (шу жил Небоқаднәсарниң он сәккизинчи жили еди;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JER 32:3 Чүнки Йәһуда падишаси Зәдәкия уни әйипләп: «Немишкә сән: «Мана, Мән бу шәһәрни Бабил падишасиниң қолиға тапшуримән; у уни ишғал қилиду; Йәһуда падишаси Зәдәкия калдийләрниң қолидин қечип қутулалмайду; чүнки у Бабил падишасиниң қолиға тапшурулмай қалмайду; у униң билән йүз туранә сөзлишиду, өз көзи билән униң көзигә қарайду. У Зәдәкияни Бабилға апириду, у мән униңға йеқинлишип толуқ бир тәрәп қилғичә шу йәрдә туриду, дәйду Пәрвәрдигар; силәр калдийләр билән қаршилашсаңларму ғәлибә қилалмайсиләр! — дәйду Пәрвәрдигар» — дәп бешарәт берисән?» — дәп уни қамап қойған еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JER 34:9 (әһдә бойичә һәр бири өз ибраний қуллирини, әр болсун, қиз-аял болсун, қоюветиши керәк еди; һеч қайсиси өз қериндиши болған Йәһудийни қуллуқта қалдурмаслиғи керәк еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JER 34:11 Лекин униңдин кейин улар бу йолдин йенип қоювәткән қул-дедәкләрни өзигә қайтурувалди. Улар буларни қайтидин мәҗбурий қул-дедәк қиливалди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JER 37:4 (шу чағда Йәрәмия зинданда қамақлиқ әмәс еди; у хәлиқ арисиға чиқип-киришкә әркин еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JER 37:5 Пирәвнниң қошуни Мисирдин чиққан еди; Йерусалимни қоршивалған Калдийләр буларниң хәвирини аңлап Йерусалимдин чекинип кәткән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	DAN 8:11 (у толиму мәғрурлинип, һәтта самавий қошунниң Сәрдари билән тәң болмақчи болуп, ибадәтханида Сәрдарға атап күндилик қурбанлиқ сунушни әмәлдин қалдурди, һәмдә Сәрдарниң ибадәтханисидики «муқәддәс җай»ни вәйран қиливәтти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	DAN 8:12 Асийлиқ түпәйлидин Худаниң хәлқи вә күндилик қурбанлиқ чоң мүңгүзгә тапшурулиду). У һәқиқәтни аяқ асти қилиду; униң барлиқ ишлири наһайити оңушлуқ болди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	HOS 3:2 (шуңа мән он бәш күмүч тәңгә, бир хомир буғдай вә йерим хомир арпиға уни өзүмгә қайтурувалдим;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	HOS 3:3 Мән униңға: «Сән мән үчүн узун күнләр күтисән; сән паһишилик қилмайсән, сән башқа әрниңки болмайсән; мәнму сән үчүн охшашла сени күтимән» — дедим).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	LUK 7:29 (әнди [Йәһяни] аңлиған пухралар, һәтта баҗгирларму Худаниң йолини тоғра дәп Йәһяниң чөмүлдүрүши билән чөмүлдүрүлгән еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	LUK 7:30 Лекин Пәрисийләр вә Тәвратшунаслар Йәһяниң чөмүлдүрүшини қобул қилмай, Худаниң өзлиригә болған мәхсәт-ирадисини чәткә қаққан еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	JOH 13:28 (Әнди дәстиханда олтарғанларниң һеч қайсиси униң [Йәһудаға] бу сөзләрни немә үчүн дегинини билмиди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	JOH 13:29 Йәһуда уларниң ортақ һәмянини тутқини үчүн, бәзиләр Әйса униңға: «Бизгә керәклик һейтлиқ нәрсиләрни елип кәл» яки «Кәмбәғәлләргә бирәр нәрсә бәр» дәватса керәк, дәп ойлашти).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	ACT 1:18 (у қилған қәбиһликниң инъамидин еришкән пулға бир парчә йәр сетивалған еди, у шу йәрдә бешичилап жиқилип, үчәй-қерини чувулуп кәтти;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	ACT 1:19 бу иш пүткүл Йерусалимдикиләргә мәлум болуп, улар у йәрни өз тили билән «Һақәлдәма» дәп аташти. Буниң мәнаси «қан төкүлгән йәр» дегәнликтур)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	ACT 5:12 Расулларниң қоли арқилиқ хәлиқ ичидә нурғун мөҗизилик аламәтләр вә карамәтләр көрситилди. (Барлиқ [етиқатчилар] бир нийәттә болуп ибадәтханидики «Сулайман пешайвини»да дайим җәм болатти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	ACT 5:14 Шундақтиму, етиқат қилғучилар барғансери көпийип, һәм әрләр һәм аяллар топ-топ болуп Рәбгә қошулғили турди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	ROM 2:13 (чүнки Худаниң алдида қанунни аңлиғанлар әмәс, бәлки қанунға әмәл қилғучилар һәққаний һесаплиниду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	ROM 2:15 Уларниң бу қилғанлири өз қәлблиригә қанун тәләплириниң пүтүклүк екәнлигини көрситиду; шуниңдәк, уларниң виҗданлириму өзлиригә һәқиқәтниң гувачиси болуп, ой-пикирлири өзини әйипләйду яки өзини ақлайду)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	ROM 5:13 (чүнки Тәврат қанунидин илгириму гуна дунияда бар еди, әлвәттә; һалбуки, қанун болмиса гунаниң һесави елинмайду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	ROM 5:14 Шундақтиму, өлүм Адәм ата вақтидин Муса пәйғәмбәр вақтиғичә инсанларғиму һөкүм сүрди; улар гәрчә Адәм атиниң садир қилған итаәтсизлигидәк гуна садир қилмиған болсиму, бу инсанларму өлүм һөкүмидин халий болмиди). Адәм атиниң өзи — кейин келидиған Мәсиһниң бир бешарәтлик үлгисидур;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	EPH 3:2 (силәр бәлким маңа тапшурулған, силәргә Худаниң шәпқитини елип баридиған ғоҗидарлиғим тоғрилиқ,	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	EPH 3:3 йәни Униң маңа вәһий билән сирни аян қилғанлиғи тоғрилиқ хәвәрдар болушуңлар мүмкин (мән бу тоғрисида илгири аз-паз язған едим;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	EPH 3:4 силәр уни оқуғиниңларда, Мәсиһниң сири тоғрилиқ йорутулғанлиғимни билип йетисиләр)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	EPH 3:13 шуниң үчүн силәрдин өтүнимәнки, мениң силәр үчүн тартқан җапа-җәбирлирим түпәйлидин пәришан болмаңлар; чүнки бу иш силәрниң шан-шәривиңлар болиду).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	TIT 1:2 (бу етиқат вә һәқиқәт мәңгүлүк һаятқа бағланған үмүтни елип келиду; бу мәңгүлүк һаятни мутләқ ялған ейтмайдиған Худа һәммә дәвир-заманлардин илгирила вәдә қилған еди;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	TIT 1:3 лекин [һазир] вәдисиниң вақти келип Қутқузғучимиз Худа буниң калам-хәвирини Өз әмри билән маңа тапшурған җакар арқилиқ ашкарилиди)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	HEB 3:16 (Әнди Униң авазини аңлап туруп, Уни ғәзәпләндүргәнләр кимләр еди? Муса пәйғәмбәрниң йетәкчилигидә Мисирдин [қутулуп] чиққан әшу [Исраилларниң] һәммиси әмәсму?	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	HEB 3:19 Шуңа булардин көрүвалалаймизки, уларниң [арамлиққа] кирмәслиги етиқатсизлиғи түпәйлидин еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	HEB 12:19 (у җайда канай садаси билән сөзлигән аваз йәткүзүлгәндә, буларни аңлиғанлар: «Бизгә йәнә сөз қилинмисун!» дәп [Худаға] ялвурушти;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	HEB 12:21 у көрүнүш шундақ қорқунучлуқ едики, Мусаму: «Бәк қаттиқ қорқуп ғал-ғал титрәп кәттим» дегән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(1/0)	1PE 4:1 Әнди Мәсиһ тенидә азап-оқубәт чәккән екән, силәрму шундақ ирадә билән өзүңларни қуралландуруңлар (чүнки [Худа йолида] өз тенидә азап-оқубәт чәккән киши гунадин қол үзгән болиду;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	1PE 4:2 ундақ киши тенидә қалған һаятини йәнә инсаний нәпс-һәвәсләргә берилиш билән әмәс, бәлки Худаниң ирадисигә мувапиқ өткүзиду).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Source	(0/1)	REV 18:14 [И Бабил], җениң мәстанә болған есил мевиләр сәндин кәтти, Барлиқ һәшәмәтлик вә һәйвәтлик мал-дуниялириң сәндин йоқалди. Улар буларни әнди һәргиз тапалмайду!)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	002 EXO 018 002 Шуниң билән Мусаниң қейинатиси Йәтро Мусаниң әслидә өз йениға әвәтивәткән аяли Зиппораһ вә униң икки оғлини елип йолға чиқти (биринчи оғлиниң исми Гәршом дәп қоюлған еди; чүнки Муса: «мән яқа жутта мусапир болуп туруватимән» дегән еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	002 EXO 018 004 Йәнә бириниң исми Әлиезәр дәп қоюлған еди; чүнки Муса: «Атамниң Худаси маңа ярдәмдә болуп, мени Пирәвнниң қиличидин қутқузди», дегән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	004 NUM 021 013 Йәнә у йәрдин меңип Аморийларниң зимининиң четидин чиқип чөл-баявандин өтүп, еқип турған Арнон дәриясиниң у қетида чедир тикти (чүнки Арнон дәрияси Моабийларниң чегариси болуп, Моабийлар билән Аморийларниң оттурисида еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	004 NUM 021 014 Шуңа «Пәрвәрдигарниң җәңнамиси» дегән китапта: — «Суфаһдики Ваһәб вә дәрия-вадилири, Арнон дәрияси вә җилғилириниң янбағирлири, Арниң туралғусиғичә йетип, Моабниң чегарисиға чүшиду» дәп пүтүлгән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Әмийләр әслидә шу йәрдә туратти; улар Анакийларға охшаш күчлүк, сани көп, егиз бойлуқ бир хәлиқ еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Сеирда әслидә Һорийлар туратти; лекин Әсавлар Һорийларни зиминидин һайдиветип, уларни йоқитип орниға олтирақлашти — худди Исраиллар Мәнки Пәрвәрдигар уларға тәқдим қилған, уларниң тәвәлиги болған зиминға қилғиниға охшаш).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (бу зиминму «гигантларниң зимини» һесаплиниду; чүнки илгири гигантлар шу йәрдә турған еди; Аммонийлар уларни «Замзумлар» дәп атайду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Вә Газа шәһиригичә кәнт-қишлақларда олтирақлашқан аввийларни болса, Кафтордин чиққан Кафторийлар йоқитип, уларниң орниға олтирақлашти).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 Гилеадниң қалған зимини вә Ог падишаниң зимини болған пүткүл Башанни мән Манассәһниң йерим қәбилисигә тәқдим қилдим (пүткүл Аргоб райони, йәни пүткүл Башан «гигантларниң зимини» дейилиду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 Манассәһниң оғли Яир пүткүл Аргоб районини, йәни Башанни Гәшурийлар вә Маакатийларниң чегарисиғичә егилигән вә уни өз исми билән «Һаввот-Яир» дәп атиған. Бүгүнгә қәдәр у шундақ аталмақта).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 004 045 (булар болса Исраиллар Мисирдин чиққанда Муса [пәйғәмбәр] уларға җакалиған агаһ-гувалар, бәлгүлимиләр һәм һөкүмләрдур;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 004 049 шундақла Иордан дәриясиниң шәриқ тәрипидики пүткүл Арабаһ түзләңлиги вә Писгаһ теғиниң бағриға җайлашқан «Түзләңликтики деңиз»ғичә еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 006 002 (шуниң билән силәр, йәни сән өзүң, оғлуң вә нәврәң барлиқ тирик күнлириңларда Пәрвәрдигар Худайиңлардин қорқуп, мән силәргә тапилаватқан униң барлиқ бәлгүлимә вә әмирлирини тутисиләр, шундақла узун күнләрни көрисиләр.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 006 003 Сән, и Исраил, уларни аңлап әмәл қилишқа көңүл қоюңлар; шуниң билән ата-бовилириңларниң Худаси Пәрвәрдигар силәргә дегинидәк, сүт билән һәсәл еқип туридиған мунбәт зиминда туруп, һалиңлар яхши болиду вә саниңлар интайин көпийиду): —	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 008 015 (У сени бепаян вә дәһшәтлик чөл-баявандин, йәни зәһәрлик иланлар вә чаянлар қаплап кәткән, сусирап қағҗирап кәткән бир чөл-баявандин йетәкләп чиққан, шу йәрдә саңа чақмақ тешидин су чиқирип бәргән,	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 008 016 сени өзини төвән тутсун дәп синап, саңа ахир раһәт-бәрикәт көрситиш үчүн чөл-баяванда ата-бовилириң көрүп бақмиған «манна» билән озуқландурған)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 009 022 (силәр йәнә Табәраһ, Массаһ, Киброт-Һаттаваһдиму Пәрвәрдигарни ғәзәпләндүрдүңлар.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 009 024 Мән силәрни тонуған күндин тартип силәр Пәрвәрдигар Худайиңларға асийлиқ қилип кәлдиңлар).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 011 004 (чүнки улар [Пәрвәрдигарниң] Мисирниң қошуни, уларниң атлири, уларниң җәң һарвулириға қилған ишлири, йәни Қизил Деңизниң сулири билән уларни ғәриқ қилип, үзүл-кесил һалак қилғанлиғи,	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 011 006 Униң Рубәнниң әвлади, Елиабниң оғуллири Датан вә Абирамға немә қилғанлиғи, йәни пүтүн Исраиллар арисида йәр йүзиниң ағзини қандақ ечип уларни аилисидикилири вә чедирлири билән қошуп барлиқ тәәллуқатлири билән жутувәткәнлигини көрмигән еди);	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (чүнки силәр бизниң Мисир зиминида қандақ турғанлиғимиз вә сәпиримиздә әлләрниң оттурисидин қандақ өтүп кәлгинимизни убдан билисиләр;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 Силәр уларниң арисидики жиргиничлик нәрсиләрни, уларниң арисидики яғач, таш, алтун вә күмүчтин ясалған бутларни көрдүңлар).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	007 JDG 008 001 (Кейин, Әфраимлар униңға: — Сән немишкә бизгә шундақ муамилә қилисән, Мидиянийлар билән соқушқа чиққанда, бизни чақирмидиңғу, дәп униң билән қаттиқ дейишип кәтти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	007 JDG 008 003 Худа Мидиянниң әмирлири Орәб билән Зәәбни қолуңларға тапшурған йәрдә, мениң қолумдин кәлгинини қандақму силәрниң қилғиниңларға тәңләштүргили болсун? — деди. Шундақ девиди, уларниң униңға болған аччиғи янди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (чүнки атам силәр үчүн җәң қилип, өз җенини хәтәргә тәвәккул қилип силәрни Мидиянниң қолидин қутқузди!	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 Лекин силәр бүгүн атамниң җәмәтигә қарши қозғилип, униң оғуллирини, җәмий йәтмиш адәмни бир ташниң үстидә өлтүрүп, униң дедигиниң оғли Абимәләкни туққиниңлар болғини үчүн Шәкәм хәлқиниң үстигә падиша қилип тикләпсиләр!)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 Саулниң оғлиниң қошуниниң алдин жүрәр қисмида икки сәрдари болуп, бириниң исми Баанаһ, йәнә бириниң исми Рәкаб еди. Улар Бинямин қәбилисидин болған Бәәротлуқ Риммонниң оғуллири еди (чүнки Бәәрот Бинямин қәбилисигә тәвә һесаплинатти;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 лекин Бәәротлуқлар Гиттаимға қечип берип у йәрдә бу күнгичә мусапирдәк яшаватиду).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (Һирамниң Офирдин алтун әпкелидиған кемилириму Офирдин йәнә интайин зор миқдардики сәндәл яғичи вә яқут-гөһәрләрни елип кәлди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 Падиша сәндәл яғичидин Пәрвәрдигарниң өйи үчүн вә падишаниң ордиси үчүн пәләмпәй-саласунлар ясатти һәм нәғмә-навачилар үчүн чилтарлар вә сазларни шуниңдин ясатти. Шу вақиттин кейин шундақ зор миқдардики есил сәндәл яғичи бу вақитқичә һеч кәлтүрүлмиди я көрүлүп бақмиди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Аһаб ордисидики ғоҗидар Обадияни чақирди (Обадия толиму тәқвадар киши болуп Пәрвәрдигардин интайин қорқатти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Йизәбәл Пәрвәрдигарниң пәйғәмбәрлирини өлтүрүп йоқитиватқанда Обадия йүз пәйғәмбәрни елип әлликтин-әлликтин айрим-айрим икки ғарға йошуруп, уларни нан вә су билән баққан еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Бәрһәқ, хотуни Йизәбәлниң қутритишлири билән Пәрвәрдигарниң нәзиридә рәзиллик қилғили өзини сатқан Аһабдәк һеч ким йоқ еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 У Пәрвәрдигар Исраилларниң алдидин һайдап қоғливәткән Аморийларниң қилғинидәк қилип, жиркиничлик бутларға тайинип әгишип, ләнәтлик ишларни қилатти).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	012 2KI 020 007 (Йәшая болса: — «Әнҗир пошкили тәйярлаңлар, деди. Улар уни елип келип, ярисиға чапливиди, у сақайди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	012 2KI 020 011 Шуниң билән Йәшая пәйғәмбәр Пәрвәрдигарға нида қилди вә У қуяшниң Аһаз падиша қурған пәләмпәй басқучилири үстигә чүшкән сайисини яндуруп, он басқуч кәйнигә маңдурди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Исраилниң тунҗа оғли Рубәнниң оғуллири мунулар: — (Рубән гәрчә тунҗа оғул болғини билән, лекин [атисиниң тоқили билән] зина қилғанлиғи үчүн, униң чоң оғуллуқ һоқуқи Исраилниң оғли болған Йүсүпниң оғуллириға өткүзүветилгән. Шуңа нәсәбнамә бойичә у чоң оғул һесапланмайду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Йәһуда қериндашлири ичидә үстүнлүккә егә болған болсиму вә идарә қилғучи униңдин чиққан болсиму, лекин чоң оғуллуқ һоқуқи Йүсүпкә тәвә болуп кәткән): —	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	013 1CH 007 021 Таһатниң оғли Забад, Забадниң оғли Шутилаһ еди (Езәр билән Елиад Гатлиқларниң чарва маллирини булаң-талаң қилғили чүшкәндә, шу йәрлик Гатлиқлар тәрипидин өлтүрүлгән.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	013 1CH 007 024 Униң қизи Үстүн Бәйт-Һорон билән Төвән Бәйт-Һоронни вә Уззән-Шәәраһни бена қилған).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	013 1CH 009 022 Дәрвазивәнликкә талланған бу кишиләр җәмий икки йүз он икки киши еди; улар өз йеза-кәнтлиридә, нәсәблири бойичә тизимланған (әслидә Давут вә алдин көргүчи Самуил уларни аманәт қилинған вәзипилиригә бекиткән еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	013 1CH 009 023 Улар вә уларниң әвлатлири Пәрвәрдигарниң өйи, йәни муқәддәс чедирниң ишик-дәрвазилирини беқишқа бекитилгән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	013 1CH 012 001 Давут Кишниң оғли Саулниң бесими сәвәвидин Зиклагда йошурунуп ятқан чағда муну кишиләр Давутниң йениға келишти (уларниң һәммиси Давутқа җәң қилишта ярдәм бәргән батурлардин еди;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	013 1CH 012 002 оқя билән қуралланған болуп, оң қоли биләнму, сол қоли биләнму оқя вә салға аталайтти; улар Саулниң Бинямин қәбилисидин болған туққанлири еди):	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 Каһинлар муқәддәс җайдин чиқишти (шу йәрдә һазир болған барлиқ каһинлар, өз нөвитигә қаримай өзлирини Худаға атап пакизлиған еди;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 нәғмә-навачи барлиқ Лавийлар, җүмлидин Асаф, Һеман, Йәдутун вә уларниң оғуллири һәм қериндашлири чәкмән тонлирини кийишип, қурбангаһниң шәрқидә туруп җаң, тәмбур вә чилтарлар челишиватқан еди; улар билән биллә канай челиватқан йәнә бир йүз жигирмә каһин бар еди)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (Офирдин алтунларни әпкелидиған Һурамниң хизмәткарлири вә Сулайманниң хизмәткарлири йәнә интайин зор миқдардики сәндәл яғичини вә яқут-гөһәрләрниму елип кәлди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 Падиша сәндәл яғичидин Пәрвәрдигарниң өйи үчүн вә падишаниң ордиси үчүн пәләмпәйләр ясап һәм нәғмә-навачилар үчүн чилтарлар вә сазларни шуниңдин ясатти. Шундақ есил сәндәл яғичи Йәһуда зиминида бу вақитқичә һеч көрүлүп бақмиған еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	014 2CH 030 002 (Падишаһ, әмәлдарлири вә Йерусалимдики барлиқ җамаәт билән биллә мәслиһәтлишип, иккинчи айда өтүп кетиш һейтини өткүзәйли дәп қарарға келишти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	014 2CH 030 003 Лекин пакланған каһинлар йетишмигәчкә, хәлиқму Йерусалимға жиғилип болмиғачқа, һейтни вақтида өткүзәлмиди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	018 JOB 032 015 (Бу үчәйлән һәйрануһәс болуп, қайта җавап беришмиди; Һәммә сөз улардин учуп кәтти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	018 JOB 032 016 Мән күтүп тураттим, чүнки улар гәп қилмиди, бәлки җим-җит өрә туруп қайта җавап бәрмиди);	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	023 ISA 038 021 (Йәшая болса: — «Әнҗир пошкили тәйярлап, ярисиға чаплаңлар, у әслигә келиду», дегән еди	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	023 ISA 038 022 вә Һәзәкия: — «Мениң Пәрвәрдигарниң өйигә чиқидиғанлиғимни испатлайдиған қандақ бешарәтлик аламәт берилиду?» дәп сориған еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	023 ISA 044 025 (У болса ялған [пәйғәмбәрләрниң] бешарәтлирини бекар қилғучи, Палчиларни қаймуқтурғучи, Даналарни йолидин яндурғучи, Уларниң билимлирини наданлиққа айландурғучи;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	023 ISA 044 028 Һәм Қорәш тоғрисида: «У Мениң қой падичим, у Мениң көңлүмдикигә толуқ әмәл қилип, Йерусалимға: «Қурулисән», Һәм ибадәтханиға: «Сениң һулуң селиниду» дәйду» — дегүчидур): —	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	024 JER 021 003 Йәрәмия уларға: — Зәдәкияға мундақ дәңлар, — деди)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	024 JER 026 020 (Пәрвәрдигарниң намида Йәрәмияниң барлиқ дегәнлиридәк бу шәһәрни вә бу зиминни әйипләп бешарәт бәргән, Кириат-Йеаримлиқ Шәмаяниң оғли Урия исимлиқ йәнә бир адәм бар еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	024 JER 026 023 улар Урияни Мисирдин елип чиқип падиша Йәһоакимниң алдиға апарған; у уни қиличлап, җәситини пухраларниң гөрлүгигә ташливәткән).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	024 JER 029 002 (хәт падиша Йәконияһ, ханиш, вәзирләр, Йәһуда вә Йерусалимдики шаһзадә-әмирләр вә һүнәрвәнләр Йерусалимдин кәткәндин кейин,	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	024 JER 029 003 Шафанниң оғли Әласаһниң вә Һилқияниң оғли Гәмарияниң қоли билән йолланған — Йәһуда падишаси Зәдәкия бу кишиләрни Бабил падишаси Небоқаднәсарниң алдиға йоллиған). Йоллиған хәт мундақ: —	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	024 JER 029 028 Чүнки у һәтта Бабилда туруватқан бизләргиму: «Шу йәрдә болған вақтиңлар узун болиду; шуңа өйләрни селиңлар, уларда туруңлар, бағларни бәрпа қилиңлар, уларниң мевисини йәңлар» дәп хәт йоллиди!»)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	024 JER 032 001 Йәһуда падишаси Зәдәкияниң онинчи жили, Йәрәмияға Пәрвәрдигардин кәлгән сөз төвәндә хатириләнгән (шу жил Небоқаднәсарниң он сәккизинчи жили еди;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	024 JER 032 003 Чүнки Йәһуда падишаси Зәдәкия уни әйипләп: «Немишкә сән: «Мана, Мән бу шәһәрни Бабил падишасиниң қолиға тапшуримән; у уни ишғал қилиду; Йәһуда падишаси Зәдәкия калдийләрниң қолидин қечип қутулалмайду; чүнки у Бабил падишасиниң қолиға тапшурулмай қалмайду; у униң билән йүз туранә сөзлишиду, өз көзи билән униң көзигә қарайду. У Зәдәкияни Бабилға апириду, у мән униңға йеқинлишип толуқ бир тәрәп қилғичә шу йәрдә туриду, дәйду Пәрвәрдигар; силәр калдийләр билән қаршилашсаңларму ғәлибә қилалмайсиләр! — дәйду Пәрвәрдигар» — дәп бешарәт берисән?» — дәп уни қамап қойған еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	024 JER 034 009 (әһдә бойичә һәр бири өз ибраний қуллирини, әр болсун, қиз-аял болсун, қоюветиши керәк еди; һеч қайсиси өз қериндиши болған Йәһудийни қуллуқта қалдурмаслиғи керәк еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	024 JER 034 011 Лекин униңдин кейин улар бу йолдин йенип қоювәткән қул-дедәкләрни өзигә қайтурувалди. Улар буларни қайтидин мәҗбурий қул-дедәк қиливалди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	024 JER 037 004 (шу чағда Йәрәмия зинданда қамақлиқ әмәс еди; у хәлиқ арисиға чиқип-киришкә әркин еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	024 JER 037 005 Пирәвнниң қошуни Мисирдин чиққан еди; Йерусалимни қоршивалған Калдийләр буларниң хәвирини аңлап Йерусалимдин чекинип кәткән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	027 DAN 008 011 (у толиму мәғрурлинип, һәтта самавий қошунниң Сәрдари билән тәң болмақчи болуп, ибадәтханида Сәрдарға атап күндилик қурбанлиқ сунушни әмәлдин қалдурди, һәмдә Сәрдарниң ибадәтханисидики «муқәддәс җай»ни вәйран қиливәтти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	027 DAN 008 012 Асийлиқ түпәйлидин Худаниң хәлқи вә күндилик қурбанлиқ чоң мүңгүзгә тапшурулиду). У һәқиқәтни аяқ асти қилиду; униң барлиқ ишлири наһайити оңушлуқ болди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	028 HOS 003 002 (шуңа мән он бәш күмүч тәңгә, бир хомир буғдай вә йерим хомир арпиға уни өзүмгә қайтурувалдим;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	028 HOS 003 003 Мән униңға: «Сән мән үчүн узун күнләр күтисән; сән паһишилик қилмайсән, сән башқа әрниңки болмайсән; мәнму сән үчүн охшашла сени күтимән» — дедим).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	042 LUK 007 029 (әнди [Йәһяни] аңлиған пухралар, һәтта баҗгирларму Худаниң йолини тоғра дәп Йәһяниң чөмүлдүрүши билән чөмүлдүрүлгән еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	042 LUK 007 030 Лекин Пәрисийләр вә Тәвратшунаслар Йәһяниң чөмүлдүрүшини қобул қилмай, Худаниң өзлиригә болған мәхсәт-ирадисини чәткә қаққан еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	043 JOH 013 028 (Әнди дәстиханда олтарғанларниң һеч қайсиси униң [Йәһудаға] бу сөзләрни немә үчүн дегинини билмиди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	043 JOH 013 029 Йәһуда уларниң ортақ һәмянини тутқини үчүн, бәзиләр Әйса униңға: «Бизгә керәклик һейтлиқ нәрсиләрни елип кәл» яки «Кәмбәғәлләргә бирәр нәрсә бәр» дәватса керәк, дәп ойлашти).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (у қилған қәбиһликниң инъамидин еришкән пулға бир парчә йәр сетивалған еди, у шу йәрдә бешичилап жиқилип, үчәй-қерини чувулуп кәтти;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 бу иш пүткүл Йерусалимдикиләргә мәлум болуп, улар у йәрни өз тили билән «Һақәлдәма» дәп аташти. Буниң мәнаси «қан төкүлгән йәр» дегәнликтур)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	044 ACT 005 012 Расулларниң қоли арқилиқ хәлиқ ичидә нурғун мөҗизилик аламәтләр вә карамәтләр көрситилди. (Барлиқ [етиқатчилар] бир нийәттә болуп ибадәтханидики «Сулайман пешайвини»да дайим җәм болатти.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	044 ACT 005 014 Шундақтиму, етиқат қилғучилар барғансери көпийип, һәм әрләр һәм аяллар топ-топ болуп Рәбгә қошулғили турди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (чүнки Худаниң алдида қанунни аңлиғанлар әмәс, бәлки қанунға әмәл қилғучилар һәққаний һесаплиниду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 Уларниң бу қилғанлири өз қәлблиригә қанун тәләплириниң пүтүклүк екәнлигини көрситиду; шуниңдәк, уларниң виҗданлириму өзлиригә һәқиқәтниң гувачиси болуп, ой-пикирлири өзини әйипләйду яки өзини ақлайду)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	045 ROM 005 013 (чүнки Тәврат қанунидин илгириму гуна дунияда бар еди, әлвәттә; һалбуки, қанун болмиса гунаниң һесави елинмайду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	045 ROM 005 014 Шундақтиму, өлүм Адәм ата вақтидин Муса пәйғәмбәр вақтиғичә инсанларғиму һөкүм сүрди; улар гәрчә Адәм атиниң садир қилған итаәтсизлигидәк гуна садир қилмиған болсиму, бу инсанларму өлүм һөкүмидин халий болмиди). Адәм атиниң өзи — кейин келидиған Мәсиһниң бир бешарәтлик үлгисидур;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	049 EPH 003 002 (силәр бәлким маңа тапшурулған, силәргә Худаниң шәпқитини елип баридиған ғоҗидарлиғим тоғрилиқ,	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 йәни Униң маңа вәһий билән сирни аян қилғанлиғи тоғрилиқ хәвәрдар болушуңлар мүмкин (мән бу тоғрисида илгири аз-паз язған едим;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 силәр уни оқуғиниңларда, Мәсиһниң сири тоғрилиқ йорутулғанлиғимни билип йетисиләр)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	049 EPH 003 013 шуниң үчүн силәрдин өтүнимәнки, мениң силәр үчүн тартқан җапа-җәбирлирим түпәйлидин пәришан болмаңлар; чүнки бу иш силәрниң шан-шәривиңлар болиду).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(2/1)	056 TIT 001 002 (бу етиқат вә һәқиқәт мәңгүлүк һаятқа бағланған үмүтни елип келиду; бу мәңгүлүк һаятни мутләқ ялған ейтмайдиған Худа һәммә дәвир-заманлардин илгирила вәдә қилған еди; (aiōnios g166)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	056 TIT 001 003 лекин [һазир] вәдисиниң вақти келип Қутқузғучимиз Худа буниң калам-хәвирини Өз әмри билән маңа тапшурған җакар арқилиқ ашкарилиди)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	058 HEB 003 016 (Әнди Униң авазини аңлап туруп, Уни ғәзәпләндүргәнләр кимләр еди? Муса пәйғәмбәрниң йетәкчилигидә Мисирдин [қутулуп] чиққан әшу [Исраилларниң] һәммиси әмәсму?	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	058 HEB 003 019 Шуңа булардин көрүвалалаймизки, уларниң [арамлиққа] кирмәслиги етиқатсизлиғи түпәйлидин еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	058 HEB 012 019 (у җайда канай садаси билән сөзлигән аваз йәткүзүлгәндә, буларни аңлиғанлар: «Бизгә йәнә сөз қилинмисун!» дәп [Худаға] ялвурушти;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 у көрүнүш шундақ қорқунучлуқ едики, Мусаму: «Бәк қаттиқ қорқуп ғал-ғал титрәп кәттим» дегән еди).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(1/0)	060 1PE 004 001 Әнди Мәсиһ тенидә азап-оқубәт чәккән екән, силәрму шундақ ирадә билән өзүңларни қуралландуруңлар (чүнки [Худа йолида] өз тенидә азап-оқубәт чәккән киши гунадин қол үзгән болиду;	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	060 1PE 004 002 ундақ киши тенидә қалған һаятини йәнә инсаний нәпс-һәвәсләргә берилиш билән әмәс, бәлки Худаниң ирадисигә мувапиқ өткүзиду).	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Aionian	(0/1)	066 REV 018 014 [И Бабил], җениң мәстанә болған есил мевиләр сәндин кәтти, Барлиқ һәшәмәтлик вә һәйвәтлик мал-дуниялириң сәндин йоқалди. Улар буларни әнди һәргиз тапалмайду!)	WARN
+Uyghur---Uyghur-Bible-Cyrillic	ENCLOSURES	Summary	lines	97 / 97	NOTICE
+
+# UNEXPECTED
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(|)	398/0	WARN
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Cyrillic	UNEXPECTED	Source/Aionian	Summary	398/0	WARN
+
+# NUMERALS
+Uyghur---Uyghur-Bible-Cyrillic	NUMERALS	Source	3	PSA 95:12 13 Далалар һәм улардики һәммә яйрисун! У чағда ормандики пүткүл дәрәқләр Пәрвәрдигар алдида яңритип нахша ейтиду; Чүнки мана, У келиду! У җаһанни сорақ қилишқа келиду; У аләмни адиллиқ билән, Хәлиқләрни Өз һәқиқәт-садақитидә сорақ қилиду.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	NUMERALS	Source	0	REV 12:6 Аял чөлгә қачти; у йәрдә униң 1260 күн беқилиши үчүн униңға Худа тәрипидин һазирлап қоюлған бир җай бар еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	NUMERALS	Source	6	REV 13:18 Мана бу йәрдә һекмәт бар. Әқил-парасити барлиги кишиләр дивиниң рәқимини һесаплап бақсун; чүнки бу рәқәм бир адәмниң рәқими болиду. Униң рәқими 666дур.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	NUMERALS	Source	count	3	WARN
+Uyghur---Uyghur-Bible-Cyrillic	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Әйса һәптиниң биринчи күни таң сәһәрдә тирилгәндин кейин, авал Магдаллиқ Мәрйәмгә көрүнди. У әслидә униңдин йәттә җинни һайдивәткән еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	NUMERALS	Aionian	1260	066-REV-012-006 Аял чөлгә қачти; у йәрдә униң 1260 күн беқилиши үчүн униңға Худа тәрипидин һазирлап қоюлған бир җай бар еди.	WARN
+Uyghur---Uyghur-Bible-Cyrillic	NUMERALS	Aionian	666	066-REV-013-018 Мана бу йәрдә һекмәт бар. Әқил-парасити барлиги кишиләр дивиниң рәқимини һесаплап бақсун; чүнки бу рәқәм бир адәмниң рәқими болиду. Униң рәқими 666дур.	ERROR
+Uyghur---Uyghur-Bible-Cyrillic	NUMERALS	Aionian	count	3	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

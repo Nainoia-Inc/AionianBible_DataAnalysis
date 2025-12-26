@@ -1,0 +1,726 @@
+# File Name: Holy-Bible---Holy-Bible---Norwegian---Living-Bible---Analysis.txt
+# File Size: 87134       
+# File Date: 12/13/2025 05:51:11
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Open En Levende Bok
+# Bible Name English: Norwegian Living New Testament
+# Bible Language: Norsk Bokmål
+# Bible Language English: Norwegian Bokmal
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0, International
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=noblb
+# Bible Source Year: 1978, 1988, 2005
+# Bible Description: Original work available for free at www.biblica.com and open.bible
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Norwegian---Living-Bible	ENCODING	Source	Holy-Bible---Norwegian---Living-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Norwegian---Living-Bible	ENCODING	Aionian	Holy-Bible---Norwegian---Living-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Norwegian---Living-Bible	BYTES	Source	bytes / chars	1206084 / 1171146 (multi-byte)	NOTICE
+Norwegian---Living-Bible	BYTES	Aionian	bytes / chars	1261812 / 1226865 (multi-byte)	NOTICE
+Norwegian---Living-Bible	BYTES	SourceClean	bytes / chars	1205246 / 1170308 (multi-byte)	NOTICE
+Norwegian---Living-Bible	BYTES	AionianClean	bytes / chars	1259442 / 1224496 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Norwegian---Living-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Norwegian---Living-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Norwegian---Living-Bible	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Norwegian---Living-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Norwegian---Living-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Norwegian---Living-Bible	AIONIAN	Aionian	aionian-verses	200	NOTICE
+Norwegian---Living-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Norwegian---Living-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Norwegian---Living-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Norwegian---Living-Bible	UNICODE	Summary	(-)Orginal	53	NOTICE
+Norwegian---Living-Bible	UNICODE	Summary	(+)Aionian	58	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (M)	3724	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (A)	3663	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (T)	2980	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : ( )	217832	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (1)	7929	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (:)	9783	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (D)	4848	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (e)	144231	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (t)	61910	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (r)	67706	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (o)	41563	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (d)	46207	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (n)	59311	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (i)	41921	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (l)	42826	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (J)	5163	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (s)	54162	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (u)	15879	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (K)	2133	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (,)	10777	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (k)	29121	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (g)	30895	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (m)	32030	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (a)	49385	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (b)	9844	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (h)	17226	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (\n)	7748	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (2)	5046	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (.)	11932	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (3)	2647	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (P)	1291	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (H)	4085	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (4)	2205	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (5)	1792	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (B)	625	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (R)	1619	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (E)	1718	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (p)	12123	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (O)	2507	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (6)	1516	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (U)	1191	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (7)	1363	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (8)	1260	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (9)	1224	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (0)	1397	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (y)	5052	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (G)	3748	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (L)	1814	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	General Punctuation : ( )	67	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : ($)	11	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Latin-1 Supplement: ( )	46	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (C)	1773	NOTICE
+Norwegian---Living-Bible	UNICODE	Source(-)	Basic Latin : (c)	7	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	32407	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	9416	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	31132	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	3727	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	3672	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2983	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	8939	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	4850	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	144266	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	61917	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	200756	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	67717	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	41648	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	46224	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	59513	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	42168	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	42831	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	5169	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	54276	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	15882	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2149	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	10785	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	29122	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	31108	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	32037	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	49584	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	9854	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	17227	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	2037	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	7782	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	6404	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	11933	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	3607	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	1298	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	4107	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	3426	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	629	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	1621	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	1724	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	12124	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	2517	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	3366	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	1209	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	1657	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	1720	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1483	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	5066	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3760	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	1835	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (()	202	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : ())	202	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	1777	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	9	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Norwegian---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (M)	3724	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (A)	3663	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (T)	2980	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : ( )	217832	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (1)	7929	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (:)	9783	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (D)	4848	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (e)	144231	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (t)	61910	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (r)	67706	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (f)	16932	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (o)	41563	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (d)	46207	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (n)	59311	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (i)	41921	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (l)	42826	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (J)	5163	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (s)	54162	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (u)	15879	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (K)	2133	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (,)	10777	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (v)	19808	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (k)	29121	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (g)	30895	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (m)	32030	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (a)	49385	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (b)	9844	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (h)	17226	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (\n)	7748	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (2)	5046	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (I)	892	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Latin-1 Supplement: (ø)	7744	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (.)	11932	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (V)	975	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (3)	2647	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (P)	1291	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (S)	1339	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Latin-1 Supplement: (å)	15255	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (H)	4085	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (4)	2205	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (N)	766	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (j)	8135	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (5)	1792	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (B)	625	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (R)	1619	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (E)	1718	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (p)	12123	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (O)	2507	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (6)	1516	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (U)	1191	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (7)	1363	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (8)	1260	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (9)	1224	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (0)	1397	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (y)	5052	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (G)	3748	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Latin-1 Supplement: (Å)	367	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	General Punctuation : (”)	3898	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Latin-1 Supplement: (æ)	2093	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (L)	1814	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (!)	812	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	General Punctuation : (’)	724	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Latin-1 Supplement: (Ø)	30	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (?)	881	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	General Punctuation : ( )	67	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (F)	752	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : ($)	11	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Latin-1 Supplement: ( )	46	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (C)	1773	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Latin-1 Supplement: (é)	14	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Latin-1 Supplement: (Æ)	11	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (`)	3	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (])	2	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (x)	11	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (z)	2	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (c)	7	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (Z)	2	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (Y)	1	NOTICE
+Norwegian---Living-Bible	UNICODE	Source	Basic Latin : (;)	1	NOTICE
+
+# VERSIFICATION
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-004-013	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-006-004	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-006-032	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-007-010	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-008-006	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-011-030	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-044	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-045	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-047	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-013-003	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-015-006	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-016-003	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-020-012	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-003	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-004	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-058	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-061	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-013	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-002-011	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-002-026	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-032	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-004-032	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-016	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-036	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-040	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-012	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-012-022	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-013-004	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-064	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-067	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-004	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-019	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-002	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-012	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-040	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-073	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-079	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-031	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-037	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-047	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-005-019	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-005-026	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-007-021	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-007-022	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-008-023	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-008-036	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-006	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-012	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-038	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-013-021	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-016-006	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-018-005	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-018-036	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-021-035	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-021-038	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-022-029	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-022-064	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-024	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-033	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-041	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-024-046	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-020	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-002-008	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-002-025	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-003-002	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-002	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-003	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-018	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-005-042	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-009-023	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-011-013	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-014-003	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-016-018	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-018-005	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-020-004	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-003	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-004-037	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-033	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-014-006	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-029	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-019-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-019-019	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-020-017	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-011	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-027	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-036	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-023-013	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-027-015	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-002	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-002	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-004	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-003-026	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-021	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-039	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-013	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-010-016	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-015-016	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-002	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-003-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-003-022	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-003-023	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-013	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-006-008	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-006-010	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-007-030	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-007-031	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-009-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-010-020	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-011-002	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-011-015	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-014-022	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-014-031	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-014-034	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-018	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-037	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-054	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-014	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-016	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-003-008	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-008-011	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-012-004	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-003-020	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-003-022	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-002-005	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-002-016	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-005-030	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-025	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-002-016	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-002-012	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-005-021	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	053-2TH-001-006	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-003-015	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	056-TIT-003-005	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-005-013	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-009-017	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-013-016	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-013-025	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-011	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-003-012	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-005-020	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-002-003	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-002-014	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-001-018	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-002-008	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-007-005	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-007-006	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-007-007	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-007-008	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-008-004	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-008-009	WARN
+Norwegian---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-015-006	WARN
+Norwegian---Living-Bible	VERSIFICATION	Summary	missing	174	WARN
+Norwegian---Living-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Norwegian---Living-Bible	ENCLOSURES	Source	()	0 / 0	NOTICE
+Norwegian---Living-Bible	ENCLOSURES	Source	[]	2 / 2	NOTICE
+Norwegian---Living-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Norwegian---Living-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Norwegian---Living-Bible	ENCLOSURES	Aionian	()	202 / 202	NOTICE
+Norwegian---Living-Bible	ENCLOSURES	Aionian	[]	2 / 2	NOTICE
+Norwegian---Living-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Norwegian---Living-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Norwegian---Living-Bible	ENCLOSURES	Source	[1/0]	JOH 5:3 Mange lamme og blinde og andre som var handikappet lå i disse buegangene [og ventet på at vannet skulle komme i bevegelse.	WARN
+Norwegian---Living-Bible	ENCLOSURES	Source	[0/1]	JOH 5:4 En Herrens engel steg nemlig nå og da ned i dammen og rørte opp vannet. Den første som steg ned i dammen etter at vannet var blitt rørt opp, ble frisk, samme hvilken sykdom han enn led av.]	WARN
+Norwegian---Living-Bible	ENCLOSURES	Source	[1/0]	JOH 7:52 De svarte: ”Er du også fra Galilea, etter som du forsvarer ham? Les i Skriften så får du se at ingen profet kommer fra Galilea.” [	WARN
+Norwegian---Living-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 ”Nei, Herre”, svarte hun. Da sa Jesus: ”Jeg tenker heller ikke å dømme deg. Gå nå, men synd ikke mer.”]	WARN
+Norwegian---Living-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 003 Mange lamme og blinde og andre som var handikappet lå i disse buegangene [og ventet på at vannet skulle komme i bevegelse.	WARN
+Norwegian---Living-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 005 004 En Herrens engel steg nemlig nå og da ned i dammen og rørte opp vannet. Den første som steg ned i dammen etter at vannet var blitt rørt opp, ble frisk, samme hvilken sykdom han enn led av.]	WARN
+Norwegian---Living-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 052 De svarte:”Er du også fra Galilea, etter som du forsvarer ham? Les i Skriften så får du se at ingen profet kommer fra Galilea.” [	WARN
+Norwegian---Living-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 ”Nei, Herre”, svarte hun. Da sa Jesus:”Jeg tenker heller ikke å dømme deg. Gå nå, men synd ikke mer.”]	WARN
+Norwegian---Living-Bible	ENCLOSURES	Summary	lines	4 / 4	NOTICE
+
+# UNEXPECTED
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(`)	3/3	WARN
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	($)	11/0	WARN
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Norwegian---Living-Bible	UNEXPECTED	Source/Aionian	Summary	14/3	WARN
+
+# NUMERALS
+Norwegian---Living-Bible	NUMERALS	Source	4	MAT 1:17 Disse personene utgjør 14 slektledd fra Abraham og fram til kong David, 14 slektledd fra kong David og fram til tiden da jødene ble ført bort til Babylon og 14 slektledd fra epoken i Babylon og fram til Jesus Kristus.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 4:2 I 40 dager og 40 netter spiste han ingenting, og han ble til slutt sulten.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	MAT 6:5 Når dere ber, da skal dere ikke stå og vise dere fram for andre. Vær ikke som falske mennesker som bare later som om dem er lydige mot Gud. De elsker å be offentlig på gatehjørnene og i synagogenededup$1 der alle kan se dem. Jeg forsikrer dere at de allerede har fått sin lønn.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 13:8 Mestedelen av kornet falt i fruktbar jord og ga 30, 60 og til og med 100 ganger så mye avling som bonden hadde sådd.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 13:23 Den fruktbare jorden derimot, ligner hjertet til en person som hører til budskapet og forstår det og lar det påvirke hele livet sitt. Han gir en avling som er 30, 60 eller til og med 100 ganger så stor som den mengde såkorn som falt i hjertet hans.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 14:21 Det var omkring 5 000 menn som hadde spist, i tillegg til kvinner og barn.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 15:38 Det var 4 000 menn som hadde spist. I tillegg kom kvinner og barn.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 16:9 Forstår dere fortsatt ingenting? Husker dere ikke den gangen jeg mettet mer enn 5 000 personer med fem brød, og hvor mange kurver dere da fikk til overs?	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 16:10 Husker dere ikke den andre gangen da jeg mettet mer enn 4 000 personer med sju brød, og hvor mange kurver dere da fikk til overs?	WARN
+Norwegian---Living-Bible	NUMERALS	Source	9	MAT 18:12 La meg bruke et bilde: Om en mann har 100 sauer og plutselig oppdager at en av dem har gått seg vill, hva tror dere han da gjør? Overlater han ikke de 99 andre til seg selv i fjellet, og gir seg av sted for å lete etter den ene som har forsvunnet?	WARN
+Norwegian---Living-Bible	NUMERALS	Source	9	MAT 18:13 Jo, og når han endelig har funnet den, kan jeg fortelle dere at han gleder seg mer over den ene sauen, enn over de 99 andre som aldri var på villstrå.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 18:22 ”Nei”, svarte Jesus. ”Du skal tilgi 70 ganger sju ganger!” Og så tilføyde han:	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 26:15 og spurte: ”Hvor mye vil dere betale meg dersom jeg overgir Jesus til dere?” Øversteprestene ga ham da 30 sølvmynter.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 27:3 Da Judas, han som hadde forrådt Jesus, så at de hadde dømt ham til døden, angret han på det han hadde gjort. Han gikk tilbake til øversteprestene og folkets ledere med de 30 sølvmyntene og sa:	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAT 27:9 Og gjennom dette ble det til virkelighet som Gud hadde forutsagt ved profeten Jeremia: ”De tok de 30 sølvmyntene, den prisen som han ble verdsatt til av Israels folk,	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 1:12 Straks etter dette førte Guds Ånd Jesus ut i ødemarken. Der oppholdt han seg i 40 dager og ble fristet av Satan. Han levde blant de ville dyrene, og englene tjente ham.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	MAR 2:18 Disiplene til døperen Johannes og fariseerne$1 fastet regelmessig. En dag kom noen og spurte Jesus hvorfor ikke disiplene hans fastet, siden dette var vanlig både hos Johannes og fariseerne.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 4:8 Mest korn falt i den fruktbare jorden og vokste opp og ga rik avling. Noe ga 30, 60 og til og med 100 ganger så mye som den mengden såkorn som hadde blitt sådd.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 4:20 Den fruktbare jorden ligner hjertet til et menneske som hører budskapet, tar det til seg og lar det påvirke hele livet. Disse som hører og tar imot, gir en avling som er 30, 60 eller til og med 100 ganger så stor mengde korn som ble sådd i hjertets gode jord.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 5:13 Det lot Jesus dem få lov til. Da for de onde åndene ut av mannen og inn i grisene. Hele flokken på omkring 2 000 griser, styrtet utfor den bratte skråningen og druknet i sjøen.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 6:39 Jesus ba dem da å si til folket at de skulle sette seg ned i grupper på 50 eller 100 personer der det var grønt gress på bakken.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 6:44 Det var 5 000 menn som hadde spist, og i tillegg kom kvinnene og barna.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 8:9 Det var omkring 4 000 personer til stede. Etterpå sendte Jesus folket hjem.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	MAR 8:15 Jesus begynte å advare dem og sa: ”Ta dere nøye i vare både for fariseerne$1 og kong Herodes sin deig som ligger og gjærer.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 8:19 at jeg mettet mer enn 5 000 personer med bare fem brød? Hvor mange fulle kurver med rester plukket dere opp den gangen?” ”Tolv”, sa de.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	MAR 8:20 ”Da jeg mettet mer enn 4 000 personer med sju brød, hvor mange kurver fikk dere da til overs?” ”Sju”, svarte de.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	MAR 14:20 Han svarte: ”Det er en av dere tolv, han som dypper brødet i fatet sammen med meg.$1	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	LUK 2:36 En gammel kvinne, som het Hanna og som Gud hadde gitt evner til å holde fram budskap fra ham, var også i templet. Hun var datter til Fanuel fra Asjers stamme. Hun hadde vært gift i sju år da hun var ung, men hennes mann døde, og nå var hun 84 år. Hun dro aldri fra templet, men var der dag og natt og tjente Gud ved bønn og faste.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	LUK 3:23 Jesus var rundt 30 år da han begynte å undervise folket og gjøre mirakler. Han ble ansett for å være sønnen til Josef. Far til Josef, og forfedrenes hans lenger tilbake hadde denne rekkefølgen: Eli, Mattat, Levi, Melki, Jannai, Josef, Mattatia, Amos, Nahum, Esli, Naggai, Ma`at, Mattatia, Sjimi, Josek, Joda, Johanan, Resa, Serubabel, Sealtiel, Neri, Melki, Addi, Kosam, Elmadam, Er, Josva, Elieser, Jorim, Mattat, Levi, Simeon, Juda, Josef, Jonam, Eljakim, Melea, Manna, Mattata, Natan, David, Isai, Obed, Boas, Salmon, Naksjon, Amminadab, Admin, Arni, Hesron, Peres, Juda, Jakob, Isak, Abraham, Tarah, Nakor, Serug, Re`u, Peleg, Eber, Salah, Kenan, Arpaksad, Sem, Noah, Lamek, Metusalah, Enok, Jered, Mahalael, Kenan, Enosj, Set. Set var sønn til Adam som ble skapt av Gud.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	LUK 4:2 Der ble han fristet av djevelen i 40 dager. I hele denne tiden spiste han ingenting, og ble til slutt sulten.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	LUK 4:16 Da han kom til Nasaret, byen der han hadde vokst opp, gikk han som vanlig til synagogen$1 på hviledagen. Han reiste seg for å lese fra Skriften.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	LUK 8:8 Men det meste av kornet falt i den fruktbare jorden. Det vokste opp og ga 100 ganger så mye korn som den mengden som hadde blitt sådd.” Jesus ropte ut til folket: ”Lytt nøye og forsøk å forstå!”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	LUK 9:14 Det var omkring 5 000 menn, og i tillegg kom kvinner og barn. ”Bare be dem om å slå seg ned i grupper på 50 personer”, svarte Jesus.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	2	LUK 10:1 Herren Jesus valgte seg nå ut 72 disipler. Han sendte dem i forveien, to og to, til alle de stedene og byene som han seinere planla å besøke.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	2	LUK 10:17 Da de 72 disiplene seinere kom tilbake, kunne de med glede fortelle: ”Herre, til og med de onde åndene var lydige mot oss når vi drev dem ut i ditt navn.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	8	LUK 13:4 Og hvordan var det med de 18 ofrene som døde da tårnet i Siloa raste ned over dem? Var de større syndere enn alle andre i Jerusalem?	WARN
+Norwegian---Living-Bible	NUMERALS	Source	8	LUK 13:11 var det en kvinne der som var handikappet på grunn av en ond Ånd. Hun hadde gått med krum rygg i 18 år og kunne ikke rette seg opp.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	8	LUK 13:16 Men her har vi en jødisk kvinne som Satan har holdt bundet i 18 år, og så vil dere hindre henne fra å bli løst fra sin pine bare fordi det er hviledag!”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	LUK 14:31 Tenk også på dette bilde: En konge planla å dra ut i krig mot en annen konge. Setter han seg ikke først ned og overveier om hæren hans på 10 000 mann er sterk nok til å beseire den fienden som kommer imot ham med 20 000 mann?	WARN
+Norwegian---Living-Bible	NUMERALS	Source	9	LUK 15:4 ”Om noen av dere har 100 sauer og plutselig oppdager at han mangler en av dem, vil han ikke da forlate de 99 andre i ødemarken og lete etter den som er forsvunnet til han finner den?	WARN
+Norwegian---Living-Bible	NUMERALS	Source	9	LUK 15:7 Jeg forsikrer dere at på samme måten kommer de til å glede seg mer i himmelen over en eneste synder som vender om til Gud, enn over 99 som allerede følger Guds vilje og ikke trenger å vende tilbake til Gud.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	LUK 16:5 Som tenkt som gjort! Han ba om et møte med dem som skyldte arbeidsgiveren penger, og begynte å forhandle med en etter en. Den første spurte han: ’Hvor mye er du skyldig?’ ’100 fat olivenolje’, svarte mannen. Da sa forvalteren: ’Her er gjeldsbrevet du har skrev under på. Riv det i biter og skriv ut et nytt på 50 fat i stedet.’	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	LUK 16:7 Så spurte han neste mann: ’Og hvor mye skylder du?’ ’100 tønner hvete’, svarte han. ’Her’, sa forvalteren, ’ta gjeldsbrevet ditt og skriv 80 tønner i stedet!’	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	JOH 2:6 I huset var det seks store krukker hogget i stein. De ble brukt ved de jødiske seremoniene for renselse og rommet omkring 100 liter hver.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	6	JOH 2:20 ”Hva!” ropte de. ”Det tok 46 år å bygge dette templet, og du påstår at du kan gjenreise det på tre dager.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	8	JOH 5:5 En av dem som lå der, var en mann som hadde vært lam i 38 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	JOH 5:16 Fra og med nå begynte de religiøse lederne å forfølge Jesus. De mente han hadde arbeidet på hviledagen$1 ved å helbrede en syk mann.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	JOH 6:10 Da sa Jesus: ”Si til alle at de skal sette seg.” Det vokste mye gress der, og alle slo seg ned. Det var omkring 5 000 menn. I tillegg kom kvinner og barn.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	JOH 8:57 Folket sa: ”Du er ikke en gang 50 år, hvordan kan du da ha sett Abraham?”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	JOH 19:39 Nikodemus, den mannen som først hadde kommet til Jesus om natten, var også med. Han hadde med seg en blanding av myrra og aloe som veide omkring 30 kilo.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	JOH 21:8 De andre disiplene kom etter med båten som slepte noten med fiskene i. De var omkring 100 meter fra stranden.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	3	JOH 21:11 Da hoppet Simon Peter ombord i båten og hjalp de andre med å dra noten i land. Det var 153 store fisker i noten. Til tross for at den var så full, hadde den ikke revnet.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 1:2 helt fram til den dagen da han ble tatt opp til himmelen. Etter at han hadde lidd, var død og stått opp fra de døde, viste han seg for de mennene han hadde valgt ut som sine spesielle utsendinger. Han beviste på mange måter for dem at han levde. I 40 dager viste han seg for dem og fortalte om Guds plan for å frelse menneskene og gjøre dem til sitt eget folk. Gjennom Guds Hellige Ånd ga han en rekke råd og befalinger.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 1:15 Noen dager seinere var omkring 120 troende samlet. Peter reiste seg opp og sa:	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 4:4 Mange som hadde lyttet til utsendingene, begynte å tro på budskapet. Antallet troende hadde nå økt til omkring 5 000 menn. I tillegg kom kvinner og barn.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 4:22 Mannen som var blitt helbredet, hadde vært lam i over 40 år!	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 5:36 Bråkmakere kommer og går. For et tid siden var det en tvilsom type ved navn Teudas, som ga seg ut for å være noe. Han hadde rundt regnet 400 mann som sluttet seg til ham. Men da han ble drept, spredde tilhengerne seg til alle kanter og bevegelsen døde ut.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 7:6 Gud sa også til ham at etterkommerne hans skulle bo i et fremmed land og bli slaver og være undertrykket i 400 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	5	ACT 7:14 Noe seinere sendte Josef bud etter faren sin Jakob og hele slekten hans for at de skulle komme til Egypt. Til sammen var de 75 personer.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 7:23 Da Moses var 40 år, begynte han å gruble over sine røtter og ville lete opp sitt eget folk, israelittene, for å hjelpe dem.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 7:30 Da han 40 år seinere oppholdt seg i ørkenen, nær fjellet Sinai, viste en engel seg for ham i en brennende tornebusk.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 7:36 Moses fikk ved hjelp av mirakler og tegn lede folket ut av Egypt, gjennom Rødehavet og ørkenen i 40 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 7:42 Da ga Gud opp folket og lot dem tjene solen, månen og stjernene som sine guder! I profetene sin bok sier Gud: ’Var det meg dere ofret til i de 40 årene i ørkenen, dere Israels folk?	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 13:18 I 40 år hadde Gud tålmodighet mens de gikk i ørkenen.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 13:20 Alt dette tok omkring 450 år. Etter det lot han forskjellige dommere herske over folket, fram til den tiden da profeten Samuel styrte Israel.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 13:21 Folket tigget om å få en konge, og Gud ga dem Saul, som var sønn av Kis, en mann av Benjamins stamme. Han regjerte i 40 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 19:18 Mange av de troende, som før hadde praktisert trolldom, bekjente det de hadde vært med om. De plukket fram sine svartebøker og brente dem offentlig. Noen regnet ut at bøkene var verd omkring 50 000 daglønninger.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 21:38 ”Er ikke du den egypteren som satte i gang et opprør for noen år siden og tok med seg 4 000 bevæpnete rebeller ut i ørkenen?”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 23:12 Neste morgen samlet mer enn 40 jødiske menn seg og sverget på at de verken skulle spise eller drikke før de hadde drept Paulus.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 23:21 Ikke la dem få det som de vil, for mer enn 40 menn ligger gjemt i et bakhold for å drepe Paulus. De har sverget at de verken skal spise eller drikke før han er død. De har allerede gjort seg klare og venter bare på at du skal gi ditt ja.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 23:23 Kommandanten kalte på to av offiserene sine og sa: ”Kall ut 200 soldater som står klare til å marsjere til Cæsarea klokka ni i kveld sammen med 200 spydkastere og 70 ryttere.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 23:32 Neste morgen fortsatte de 70 rytterne med ham til Cæsarea, mens de øvrige mennene vendte tilbake til festningsborgen i Jerusalem.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ACT 27:28 De loddet dybden og oppdaget at den var mindre enn 40 meter. Etter en liten stund målte de dybden til snaut 30 meter.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	6	ACT 27:37 Det var 276 personer om bord.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ROM 4:19 Derfor fortsatte Abraham å tro til tross for at han var omkring 100 år gammel og uten kraft i kroppen, og til tross for at kona Sara ikke kunne få barn og i tillegg var rent for gammel.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	ROM 7:7 Hva betyr dette? Er Moseloven$1 ond? Nei, naturligvis ikke! Loven oppfordrer ingen til å synde. Det var loven som viste oss hva synd er. Jeg ville ikke ha visst hva det betyr å begjære, dersom ikke loven hadde befalt: ”Du skal ikke begjære.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	ROM 11:4 Hva svarte da Gud? Jo, han sa: ”Det finnes 7 000 personer som ikke har tilbedt Baal, og de har jeg bevart som mine.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	1CO 10:8 Vi må heller ikke hengi oss til seksuell løssluppenhet som mange gjorde, noe som førte til at Gud drepte 23 000 personer på en eneste dag.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	1CO 15:6 Etter dette viste han seg for mer enn 500 troende ved en og samme anledning. De fleste av disse lever fortsatt, men noen er døde.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	9	2CO 11:24 Fem ganger har jeg fått 39 piskeslag av jødene.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	2CO 12:2 men la meg i alle fall fortelle så mye som at for 14 år siden ble en viss person, en som lever i fellesskap med Jesus Kristus, ført helt opp til Gud i himmelen.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	GAL 2:1 Etter 14 år kom jeg tilbake til Jerusalem sammen med Barnabas. Titus var også med oss.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	GAL 3:17 Det jeg vil si, er dette: Guds testamente, det løfte han ga Abraham, kan ikke bli endret eller erklært ugyldig av Moseloven som han ga til Israels folk 430 år seinere.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	GAL 4:21 Lytt til meg, dere som vil være lydige mot Moseloven$1. Vet dere egentlig hva Moses har skrevet?	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	GAL 5:13 Kjære søsken, dere er innbudt til å leve i frihet og slipper å følge Moseloven$1. Men utnytt på ingen måte friheten til å følge deres gamle menneskelige natur, men hjelp hverandre og vis hverandre kjærlighet.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	1TI 5:9 For å få underhold av menigheten må en enke være minst 60 år og skal ha vært trofast mot mannen.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	HEB 3:9 Der testet de min tålmodighet og utfordret meg. Det til tross for at i 40 års tid hadde de sett meg gjøre utallige mirakler.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	HEB 3:17 Og hvem var det som Gud seinere ble sint på i 40 år? Jo, det var de samme menneskene. De syndet mot Gud og måtte derfor dø i ørkenen.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	HEB 7:20 Gud har sverget en ed på at Jesus for alltid skal være presten vår. Noe slikt har han aldri gjort med de andre prestene. Det er bare Jesus som har fått høre Gud si: ”Herren har sverget en ed som han ikke vil bryte: ’Du er prest for evig.’ ”$1	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	2PE 3:8 Ikke glem, kjære venner, at for Gud er en dag som 1 000 år, og 1 000 år som en dag.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 4:4 I en ring rundt tronen sto 24 andre troner. På dem satt 24 himmelske ledere. Alle var kledd i hvite klær og hadde kranser av gull på hodene sine.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 4:10 faller de 24 lederne i himmelen ned og tilber ham som sitter på tronen, han som lever i evighet. De 24 lederne i himmelen kaster sine kranser av gull for tronen og sier:	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 5:5 Da sa en av de 24 lederne i himmelen til meg: ”Gråt ikke, for løven av Juda stamme, arvingen til kong Davids trone, har vunnet seier. Han kan bryte de sju seglene og åpne skriftrullen.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 5:6 Da så jeg opp og fikk se et lam. Det sto for tronen midt blant de fire levende skikkelsene og de 24 lederne i himmelen. Det så ut som om det hadde blitt slaktet. Det hadde sju horn og sju øyne. Disse er symboler for Guds sju Ånder, som har blitt sendt ut over hele jorden.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 5:8 Da Lammet tok imot skriftrullen, falt de fire skikkelsene og de 24 lederne i himmelen ned for Lammet og hyllet det. Alle hadde hver sin harpe og holdt en skål av gull som var fylt med røkelse. Dette er et symbol på de bønnene og den tilbedelsen som er blitt sendt opp fra dem som tilhører Gud.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 5:11 Så hørte jeg et stort kor av engler. Jeg fikk se at de sto rundt tronen og de fire skikkelsene og de 24 lederne i himmelen. De var så mange at det var umulig å telle alle.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 5:14 De fire skikkelsene sa: ”Ja, det er sant!” Og de 24 lederne i himmelen falt ned og tilba.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 7:4 Jeg fikk høre hvor mange som hadde blitt merket med Guds segl. Det var 144 000. De kom fra alle Israels stammer: 12 000 fra Juda stamme var merket med segl. 12 000 fra Rubens stamme. 12 000 fra Gads stamme. 12 000 fra Asjers stamme. 12 000 fra Naftali stamme. 12 000 fra Manasse stamme. 12 000 fra Simons stamme. 12 000 fra Levi stamme. 12 000 fra Isaskars stamme. 12 000 fra Sebulons stamme. 12 000 fra Josefs stamme og 12 000 fra Benjamins stamme.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 7:11 Alle englene sto rundt tronen, de 24 lederne i himmelen og de fire skikkelsene. De falt ned på sine ansikter for tronen og tilba Gud.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	1	REV 7:12 De sa: ”Vi synger lovsanger og ærer vår Gud for hans visdom. Ja, vi synger lovsanger for ham! Vi takker og hyller ham i evighet for hans makt og styrke. Ja, vi takker ham!$1”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 7:13 En av de 24 lederne i himmelen spurte meg: ”Vet du hvem disse er som er kledd i hvite klær, og hvor de kommer fra?”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 9:16 De disponerte en armé med 200 millioner ryttere; jeg fikk greie på hvor mange de var.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	2	REV 11:2 Templets ytre gård skal du ikke måle, for den har Gud overlatt til dem som ikke kjenner ham. De vil beseire Guds by, Jerusalem og ha kontrollen over byen i 42 måneder.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 11:3 I disse 1 260 dagene vil jeg gi mine to representanter i oppdrag å holde fram mitt budskap mens de er kledd i sørgeklær.”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 11:13 I samme øyeblikk ble det et kraftig jordskjelv, som fikk en tiendedel av byen til å styrte sammen. 7 000 mennesker ble drept, og de som overlevde, skalv av skrekk og begynte å hyllet, himmelens Gud.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 11:16 De 24 lederne i himmelen, som satt på sine troner for Gud, falt ned på ansiktene, tilba, og sa:	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 12:6 Kvinnen flyktet ut i ørkenen, der Gud hadde gjort i stand et sted for henne. Der vil hun bli tatt hånd om i 1 260 dager.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	2	REV 13:5 Så ble udyret utstyrt med en munn som skrøt og hånte alt og alle som var hellig og hadde med Gud å gjøre. Det fikk makt til å holde på i 42 måneder.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	6	REV 13:18 Her blir det krevd visdom, og bare den som har forstand, kan regne ut udyrets tall. Det er et mennesketall, og tallet er 666.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 14:1 Nå så jeg Lammet stå på Sions fjell. Sammen med Lammet sto de 144 000, som hadde Lammets navn og hans Fars navn skrevet i sine panner.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 14:3 Disse tusener av mennesker som sto for Guds trone, for de fire skikkelsene, de 24 lederne i himmelen, og de sang en ny sang. Ingen kunne lære seg denne sangen uten de 144 000 som hadde blitt kjøpt fri fra jorden.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 14:20 Druene ble trampet til mos i vinpressen utenfor byen. Fra pressen fløt en strøm av blod som var så dyp at den ville nådd opp til bislet på en hest, og strømmen var 1 600 stadier lang.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 16:21 Det falt enorme hagl på omkring 40 kilo fra himmelen ned over jorden. Menneskene forbannet Gud for haglene, etter som katastrofen var en så fryktelig pine.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 19:4 De 24 lederne i himmelen og de fire skikkelsene falt ned og tilba Gud som sitter på tronen, og sa: ”Ja, det er sant! Hyll Gud!”	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 20:2 Han grep dragen, den gamle slangen, som er djevelen eller Satan, og bandt ham for 1 000 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 20:3 Så kastet engelen ham ned i den bunnløse avgrunnen og låste og forseglet den med et segl, slik at han ikke kunne bedra folkene før de 1 000 årene hadde gått. Etter det må han bli sluppet ut igjen for en kort periode.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 20:4 Jeg så også troner. På dem satte noen seg som hadde fått retten til å dømme. Disse som jeg så, var sjelene til de menneskene som hadde blitt halshugget fordi de spredde Guds budskap om Jesus. De hadde ikke tilbedt udyret, bildet av udyret eller tatt imot merke av udyret i sine panner eller på hendene. Disse menneskene fikk liv igjen og regjerte med Kristus, den lovede kongen, i 1 000 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 20:5 Resten av de døde ble ikke levende igjen før de 1 000 årene var ute. Dette er den første oppstandelsen.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 20:6 Lykkelige er de som tilhører Gud og får være med i den første oppstandelsen. Den andre døden kan ikke skade dem, men de skal være prester som tjener Gud og Kristus, den lovede kongen, og skal regjere med ham i 1 000 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 20:7 Når de 1 000 årene er ute, skal Satan bli sluppet løs av sitt fengsel.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	0	REV 21:16 Da han målte byen, fant han at den var bygget som en kube. Den var like bred som den var lang, og høyden var nøyaktig den samme. Alle målene var 12 000 stadier.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	4	REV 21:17 Så målte engelen muren og fant at tykkelsen var 144 alen som tilsvarer de menneskelige målene, som også engelen brukte.	WARN
+Norwegian---Living-Bible	NUMERALS	Source	count	122	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	14	040-MAT-001-017 Disse personene utgjør 14 slektledd fra Abraham og fram til kong David, 14 slektledd fra kong David og fram til tiden da jødene ble ført bort til Babylon og 14 slektledd fra epoken i Babylon og fram til Jesus Kristus.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	040-MAT-004-002 I 40 dager og 40 netter spiste han ingenting, og han ble til slutt sulten.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	040-MAT-013-008 Mestedelen av kornet falt i fruktbar jord og ga 30, 60 og til og med 100 ganger så mye avling som bonden hadde sådd.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	040-MAT-013-023 Den fruktbare jorden derimot, ligner hjertet til en person som hører til budskapet og forstår det og lar det påvirke hele livet sitt. Han gir en avling som er 30, 60 eller til og med 100 ganger så stor som den mengde såkorn som falt i hjertet hans.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	5	040-MAT-014-021 Det var omkring 5 000 menn som hadde spist, i tillegg til kvinner og barn.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	4	040-MAT-015-038 Det var 4 000 menn som hadde spist. I tillegg kom kvinner og barn.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	5	040-MAT-016-009 Forstår dere fortsatt ingenting? Husker dere ikke den gangen jeg mettet mer enn 5 000 personer med fem brød, og hvor mange kurver dere da fikk til overs?	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	4	040-MAT-016-010 Husker dere ikke den andre gangen da jeg mettet mer enn 4 000 personer med sju brød, og hvor mange kurver dere da fikk til overs?	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	100	040-MAT-018-012 La meg bruke et bilde: Om en mann har 100 sauer og plutselig oppdager at en av dem har gått seg vill, hva tror dere han da gjør? Overlater han ikke de 99 andre til seg selv i fjellet, og gir seg av sted for å lete etter den ene som har forsvunnet?	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	99	040-MAT-018-013 Jo, og når han endelig har funnet den, kan jeg fortelle dere at han gleder seg mer over den ene sauen, enn over de 99 andre som aldri var på villstrå.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	70	040-MAT-018-022 ”Nei”, svarte Jesus.”Du skal tilgi 70 ganger sju ganger!” Og så tilføyde han:	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	040-MAT-026-015 og spurte:”Hvor mye vil dere betale meg dersom jeg overgir Jesus til dere?” Øversteprestene ga ham da 30 sølvmynter.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	040-MAT-027-003 Da Judas, han som hadde forrådt Jesus, så at de hadde dømt ham til døden, angret han på det han hadde gjort. Han gikk tilbake til øversteprestene og folkets ledere med de 30 sølvmyntene og sa:	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	040-MAT-027-009 Og gjennom dette ble det til virkelighet som Gud hadde forutsagt ved profeten Jeremia:”De tok de 30 sølvmyntene, den prisen som han ble verdsatt til av Israels folk,	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	041-MAR-001-012 Straks etter dette førte Guds Ånd Jesus ut i ødemarken. Der oppholdt han seg i 40 dager og ble fristet av Satan. Han levde blant de ville dyrene, og englene tjente ham.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	041-MAR-004-008 Mest korn falt i den fruktbare jorden og vokste opp og ga rik avling. Noe ga 30, 60 og til og med 100 ganger så mye som den mengden såkorn som hadde blitt sådd.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	041-MAR-004-020 Den fruktbare jorden ligner hjertet til et menneske som hører budskapet, tar det til seg og lar det påvirke hele livet. Disse som hører og tar imot, gir en avling som er 30, 60 eller til og med 100 ganger så stor mengde korn som ble sådd i hjertets gode jord.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	2	041-MAR-005-013 Det lot Jesus dem få lov til. Da for de onde åndene ut av mannen og inn i grisene. Hele flokken på omkring 2 000 griser, styrtet utfor den bratte skråningen og druknet i sjøen.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	50	041-MAR-006-039 Jesus ba dem da å si til folket at de skulle sette seg ned i grupper på 50 eller 100 personer der det var grønt gress på bakken.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	5	041-MAR-006-044 Det var 5 000 menn som hadde spist, og i tillegg kom kvinnene og barna.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	4	041-MAR-008-009 Det var omkring 4 000 personer til stede. Etterpå sendte Jesus folket hjem.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	5	041-MAR-008-019 at jeg mettet mer enn 5 000 personer med bare fem brød? Hvor mange fulle kurver med rester plukket dere opp den gangen?””Tolv”, sa de.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	4	041-MAR-008-020 ”Da jeg mettet mer enn 4 000 personer med sju brød, hvor mange kurver fikk dere da til overs?””Sju”, svarte de.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Det var tidlig søndag morgen, dagen etter hviledagen, da Jesus sto opp fra de døde. Den første personen han viste seg for, var Maria Magdalena. Hun var den kvinnen som han hadde satt fri fra sju onde ånder.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	84	042-LUK-002-036 En gammel kvinne, som het Hanna og som Gud hadde gitt evner til å holde fram budskap fra ham, var også i templet. Hun var datter til Fanuel fra Asjers stamme. Hun hadde vært gift i sju år da hun var ung, men hennes mann døde, og nå var hun 84 år. Hun dro aldri fra templet, men var der dag og natt og tjente Gud ved bønn og faste.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	042-LUK-003-023 Jesus var rundt 30 år da han begynte å undervise folket og gjøre mirakler. Han ble ansett for å være sønnen til Josef. Far til Josef, og forfedrenes hans lenger tilbake hadde denne rekkefølgen: Eli,	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	042-LUK-004-002 Der ble han fristet av djevelen i 40 dager. I hele denne tiden spiste han ingenting, og ble til slutt sulten.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	100	042-LUK-008-008 Men det meste av kornet falt i den fruktbare jorden. Det vokste opp og ga 100 ganger så mye korn som den mengden som hadde blitt sådd.” Jesus ropte ut til folket:”Lytt nøye og forsøk å forstå!”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	5	042-LUK-009-014 Det var omkring 5 000 menn, og i tillegg kom kvinner og barn.”Bare be dem om å slå seg ned i grupper på 50 personer”, svarte Jesus.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	72	042-LUK-010-001 Herren Jesus valgte seg nå ut 72 disipler. Han sendte dem i forveien, to og to, til alle de stedene og byene som han seinere planla å besøke.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	72	042-LUK-010-017 Da de 72 disiplene seinere kom tilbake, kunne de med glede fortelle:”Herre, til og med de onde åndene var lydige mot oss når vi drev dem ut i ditt navn.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	18	042-LUK-013-004 Og hvordan var det med de 18 ofrene som døde da tårnet i Siloa raste ned over dem? Var de større syndere enn alle andre i Jerusalem?	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	18	042-LUK-013-011 var det en kvinne der som var handikappet på grunn av en ond Ånd. Hun hadde gått med krum rygg i 18 år og kunne ikke rette seg opp.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	18	042-LUK-013-016 Men her har vi en jødisk kvinne som Satan har holdt bundet i 18 år, og så vil dere hindre henne fra å bli løst fra sin pine bare fordi det er hviledag!”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	10	042-LUK-014-031 Tenk også på dette bilde: En konge planla å dra ut i krig mot en annen konge. Setter han seg ikke først ned og overveier om hæren hans på 10 000 mann er sterk nok til å beseire den fienden som kommer imot ham med 20 000 mann?	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	100	042-LUK-015-004 ”Om noen av dere har 100 sauer og plutselig oppdager at han mangler en av dem, vil han ikke da forlate de 99 andre i ødemarken og lete etter den som er forsvunnet til han finner den?	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	99	042-LUK-015-007 Jeg forsikrer dere at på samme måten kommer de til å glede seg mer i himmelen over en eneste synder som vender om til Gud, enn over 99 som allerede følger Guds vilje og ikke trenger å vende tilbake til Gud.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	100	042-LUK-016-005 Som tenkt som gjort! Han ba om et møte med dem som skyldte arbeidsgiveren penger, og begynte å forhandle med en etter en. Den første spurte han:’Hvor mye er du skyldig?’’100 fat olivenolje’, svarte mannen. Da sa forvalteren:’Her er gjeldsbrevet du har skrev under på. Riv det i biter og skriv ut et nytt på 50 fat i stedet.’	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	100	042-LUK-016-007 Så spurte han neste mann:’Og hvor mye skylder du?’’100 tønner hvete’, svarte han.’Her’, sa forvalteren,’ta gjeldsbrevet ditt og skriv 80 tønner i stedet!’	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	100	043-JOH-002-006 I huset var det seks store krukker hogget i stein. De ble brukt ved de jødiske seremoniene for renselse og rommet omkring 100 liter hver.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	46	043-JOH-002-020 ”Hva!” ropte de.”Det tok 46 år å bygge dette templet, og du påstår at du kan gjenreise det på tre dager.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	38	043-JOH-005-005 En av dem som lå der, var en mann som hadde vært lam i 38 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	5	043-JOH-006-010 Da sa Jesus:”Si til alle at de skal sette seg.” Det vokste mye gress der, og alle slo seg ned. Det var omkring 5 000 menn. I tillegg kom kvinner og barn.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	50	043-JOH-008-057 Folket sa:”Du er ikke en gang 50 år, hvordan kan du da ha sett Abraham?”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	30	043-JOH-019-039 Nikodemus, den mannen som først hadde kommet til Jesus om natten, var også med. Han hadde med seg en blanding av myrra og aloe som veide omkring 30 kilo.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	100	043-JOH-021-008 De andre disiplene kom etter med båten som slepte noten med fiskene i. De var omkring 100 meter fra stranden.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	153	043-JOH-021-011 Da hoppet Simon Peter ombord i båten og hjalp de andre med å dra noten i land. Det var 153 store fisker i noten. Til tross for at den var så full, hadde den ikke revnet.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-001-002 helt fram til den dagen da han ble tatt opp til himmelen. Etter at han hadde lidd, var død og stått opp fra de døde, viste han seg for de mennene han hadde valgt ut som sine spesielle utsendinger. Han beviste på mange måter for dem at han levde. I 40 dager viste han seg for dem og fortalte om Guds plan for å frelse menneskene og gjøre dem til sitt eget folk. Gjennom Guds Hellige Ånd ga han en rekke råd og befalinger.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	120	044-ACT-001-015 Noen dager seinere var omkring 120 troende samlet. Peter reiste seg opp og sa:	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	5	044-ACT-004-004 Mange som hadde lyttet til utsendingene, begynte å tro på budskapet. Antallet troende hadde nå økt til omkring 5 000 menn. I tillegg kom kvinner og barn.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-004-022 Mannen som var blitt helbredet, hadde vært lam i over 40 år!	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	400	044-ACT-005-036 Bråkmakere kommer og går. For et tid siden var det en tvilsom type ved navn Teudas, som ga seg ut for å være noe. Han hadde rundt regnet 400 mann som sluttet seg til ham. Men da han ble drept, spredde tilhengerne seg til alle kanter og bevegelsen døde ut.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	400	044-ACT-007-006 Gud sa også til ham at etterkommerne hans skulle bo i et fremmed land og bli slaver og være undertrykket i 400 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	75	044-ACT-007-014 Noe seinere sendte Josef bud etter faren sin Jakob og hele slekten hans for at de skulle komme til Egypt. Til sammen var de 75 personer.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-007-023 Da Moses var 40 år, begynte han å gruble over sine røtter og ville lete opp sitt eget folk, israelittene, for å hjelpe dem.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-007-030 Da han 40 år seinere oppholdt seg i ørkenen, nær fjellet Sinai, viste en engel seg for ham i en brennende tornebusk.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-007-036 Moses fikk ved hjelp av mirakler og tegn lede folket ut av Egypt, gjennom Rødehavet og ørkenen i 40 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-007-042 Da ga Gud opp folket og lot dem tjene solen, månen og stjernene som sine guder! I profetene sin bok sier Gud:’Var det meg dere ofret til i de 40 årene i ørkenen, dere Israels folk?	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-013-018 I 40 år hadde Gud tålmodighet mens de gikk i ørkenen.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	450	044-ACT-013-020 Alt dette tok omkring 450 år. Etter det lot han forskjellige dommere herske over folket, fram til den tiden da profeten Samuel styrte Israel.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-013-021 Folket tigget om å få en konge, og Gud ga dem Saul, som var sønn av Kis, en mann av Benjamins stamme. Han regjerte i 40 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	50	044-ACT-019-018 Mange av de troende, som før hadde praktisert trolldom, bekjente det de hadde vært med om. De plukket fram sine svartebøker og brente dem offentlig. Noen regnet ut at bøkene var verd omkring 50 000 daglønninger.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	4	044-ACT-021-038 ”Er ikke du den egypteren som satte i gang et opprør for noen år siden og tok med seg 4 000 bevæpnete rebeller ut i ørkenen?”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-023-012 Neste morgen samlet mer enn 40 jødiske menn seg og sverget på at de verken skulle spise eller drikke før de hadde drept Paulus.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-023-021 Ikke la dem få det som de vil, for mer enn 40 menn ligger gjemt i et bakhold for å drepe Paulus. De har sverget at de verken skal spise eller drikke før han er død. De har allerede gjort seg klare og venter bare på at du skal gi ditt ja.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	200	044-ACT-023-023 Kommandanten kalte på to av offiserene sine og sa:”Kall ut 200 soldater som står klare til å marsjere til Cæsarea klokka ni i kveld sammen med 200 spydkastere og 70 ryttere.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	70	044-ACT-023-032 Neste morgen fortsatte de 70 rytterne med ham til Cæsarea, mens de øvrige mennene vendte tilbake til festningsborgen i Jerusalem.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	044-ACT-027-028 De loddet dybden og oppdaget at den var mindre enn 40 meter. Etter en liten stund målte de dybden til snaut 30 meter.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	276	044-ACT-027-037 Det var 276 personer om bord.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	100	045-ROM-004-019 Derfor fortsatte Abraham å tro til tross for at han var omkring 100 år gammel og uten kraft i kroppen, og til tross for at kona Sara ikke kunne få barn og i tillegg var rent for gammel.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	7	045-ROM-011-004 Hva svarte da Gud? Jo, han sa:”Det finnes 7 000 personer som ikke har tilbedt Baal, og de har jeg bevart som mine.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	23	046-1CO-010-008 Vi må heller ikke hengi oss til seksuell løssluppenhet som mange gjorde, noe som førte til at Gud drepte 23 000 personer på en eneste dag.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	500	046-1CO-015-006 Etter dette viste han seg for mer enn 500 troende ved en og samme anledning. De fleste av disse lever fortsatt, men noen er døde.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	39	047-2CO-011-024 Fem ganger har jeg fått 39 piskeslag av jødene.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	14	047-2CO-012-002 men la meg i alle fall fortelle så mye som at for 14 år siden ble en viss person, en som lever i fellesskap med Jesus Kristus, ført helt opp til Gud i himmelen.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	14	048-GAL-002-001 Etter 14 år kom jeg tilbake til Jerusalem sammen med Barnabas. Titus var også med oss.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	430	048-GAL-003-017 Det jeg vil si, er dette: Guds testamente, det løfte han ga Abraham, kan ikke bli endret eller erklært ugyldig av Moseloven som han ga til Israels folk 430 år seinere.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	60	054-1TI-005-009 For å få underhold av menigheten må en enke være minst 60 år og skal ha vært trofast mot mannen.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	058-HEB-003-009 Der testet de min tålmodighet og utfordret meg. Det til tross for at i 40 års tid hadde de sett meg gjøre utallige mirakler.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	058-HEB-003-017 Og hvem var det som Gud seinere ble sint på i 40 år? Jo, det var de samme menneskene. De syndet mot Gud og måtte derfor dø i ørkenen.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	061-2PE-003-008 Ikke glem, kjære venner, at for Gud er en dag som 1 000 år, og 1 000 år som en dag.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-004-004 I en ring rundt tronen sto 24 andre troner. På dem satt 24 himmelske ledere. Alle var kledd i hvite klær og hadde kranser av gull på hodene sine.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-004-010 faller de 24 lederne i himmelen ned og tilber ham som sitter på tronen, han som lever i evighet. De 24 lederne i himmelen kaster sine kranser av gull for tronen og sier: 	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-005-005 Da sa en av de 24 lederne i himmelen til meg:”Gråt ikke, for løven av Juda stamme, arvingen til kong Davids trone, har vunnet seier. Han kan bryte de sju seglene og åpne skriftrullen.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-005-006 Da så jeg opp og fikk se et lam. Det sto for tronen midt blant de fire levende skikkelsene og de 24 lederne i himmelen. Det så ut som om det hadde blitt slaktet. Det hadde sju horn og sju øyne. Disse er symboler for Guds sju Ånder, som har blitt sendt ut over hele jorden.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-005-008 Da Lammet tok imot skriftrullen, falt de fire skikkelsene og de 24 lederne i himmelen ned for Lammet og hyllet det. Alle hadde hver sin harpe og holdt en skål av gull som var fylt med røkelse. Dette er et symbol på de bønnene og den tilbedelsen som er blitt sendt opp fra dem som tilhører Gud.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-005-011 Så hørte jeg et stort kor av engler. Jeg fikk se at de sto rundt tronen og de fire skikkelsene og de 24 lederne i himmelen. De var så mange at det var umulig å telle alle.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-005-014 De fire skikkelsene sa:”Ja, det er sant!” Og de 24 lederne i himmelen falt ned og tilba.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	144	066-REV-007-004 Jeg fikk høre hvor mange som hadde blitt merket med Guds segl. Det var 144 000. De kom fra alle Israels stammer: 12 000 fra Juda stamme var merket med segl. 12 000 fra Rubens stamme. 12 000 fra Gads stamme. 12 000 fra Asjers stamme. 12 000 fra Naftali stamme. 12 000 fra Manasse stamme. 12 000 fra Simons stamme. 12 000 fra Levi stamme. 12 000 fra Isaskars stamme. 12 000 fra Sebulons stamme. 12 000 fra Josefs stamme og 12 000 fra Benjamins stamme.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-007-011 Alle englene sto rundt tronen, de 24 lederne i himmelen og de fire skikkelsene. De falt ned på sine ansikter for tronen og tilba Gud.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-007-013 En av de 24 lederne i himmelen spurte meg:”Vet du hvem disse er som er kledd i hvite klær, og hvor de kommer fra?”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	200	066-REV-009-016 De disponerte en armé med 200 millioner ryttere; jeg fikk greie på hvor mange de var.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	42	066-REV-011-002 Templets ytre gård skal du ikke måle, for den har Gud overlatt til dem som ikke kjenner ham. De vil beseire Guds by, Jerusalem og ha kontrollen over byen i 42 måneder.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-011-003 I disse 1 260 dagene vil jeg gi mine to representanter i oppdrag å holde fram mitt budskap mens de er kledd i sørgeklær.”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	7	066-REV-011-013 I samme øyeblikk ble det et kraftig jordskjelv, som fikk en tiendedel av byen til å styrte sammen. 7 000 mennesker ble drept, og de som overlevde, skalv av skrekk og begynte å hyllet, himmelens Gud.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-011-016 De 24 lederne i himmelen, som satt på sine troner for Gud, falt ned på ansiktene, tilba, og sa:	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-012-006 Kvinnen flyktet ut i ørkenen, der Gud hadde gjort i stand et sted for henne. Der vil hun bli tatt hånd om i 1 260 dager.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	42	066-REV-013-005 Så ble udyret utstyrt med en munn som skrøt og hånte alt og alle som var hellig og hadde med Gud å gjøre. Det fikk makt til å holde på i 42 måneder.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	666	066-REV-013-018 Her blir det krevd visdom, og bare den som har forstand, kan regne ut udyrets tall. Det er et mennesketall, og tallet er 666.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	144	066-REV-014-001 Nå så jeg Lammet stå på Sions fjell. Sammen med Lammet sto de 144 000, som hadde Lammets navn og hans Fars navn skrevet i sine panner.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-014-003 Disse tusener av mennesker som sto for Guds trone, for de fire skikkelsene, de 24 lederne i himmelen, og de sang en ny sang. Ingen kunne lære seg denne sangen uten de 144 000 som hadde blitt kjøpt fri fra jorden.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-014-020 Druene ble trampet til mos i vinpressen utenfor byen. Fra pressen fløt en strøm av blod som var så dyp at den ville nådd opp til bislet på en hest, og strømmen var 1 600 stadier lang.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	40	066-REV-016-021 Det falt enorme hagl på omkring 40 kilo fra himmelen ned over jorden. Menneskene forbannet Gud for haglene, etter som katastrofen var en så fryktelig pine.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	24	066-REV-019-004 De 24 lederne i himmelen og de fire skikkelsene falt ned og tilba Gud som sitter på tronen, og sa:”Ja, det er sant! Hyll Gud!”	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-020-002 Han grep dragen, den gamle slangen, som er djevelen eller Satan, og bandt ham for 1 000 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-020-003 Så kastet engelen ham ned i den bunnløse avgrunnen og låste og forseglet den med et segl, slik at han ikke kunne bedra folkene før de 1 000 årene hadde gått. Etter det må han bli sluppet ut igjen for en kort periode. 	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-020-004 Jeg så også troner. På dem satte noen seg som hadde fått retten til å dømme. Disse som jeg så, var sjelene til de menneskene som hadde blitt halshugget fordi de spredde Guds budskap om Jesus. De hadde ikke tilbedt udyret, bildet av udyret eller tatt imot merke av udyret i sine panner eller på hendene. Disse menneskene fikk liv igjen og regjerte med Kristus, den lovede kongen, i 1 000 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-020-005 Resten av de døde ble ikke levende igjen før de 1 000 årene var ute. Dette er den første oppstandelsen.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-020-006 Lykkelige er de som tilhører Gud og får være med i den første oppstandelsen. Den andre døden kan ikke skade dem, men de skal være prester som tjener Gud og Kristus, den lovede kongen, og skal regjere med ham i 1 000 år.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	1	066-REV-020-007 Når de 1 000 årene er ute, skal Satan bli sluppet løs av sitt fengsel.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	12	066-REV-021-016 Da han målte byen, fant han at den var bygget som en kube. Den var like bred som den var lang, og høyden var nøyaktig den samme. Alle målene var 12 000 stadier.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	144	066-REV-021-017 Så målte engelen muren og fant at tykkelsen var 144 alen som tilsvarer de menneskelige målene, som også engelen brukte.	WARN
+Norwegian---Living-Bible	NUMERALS	Aionian	count	112	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

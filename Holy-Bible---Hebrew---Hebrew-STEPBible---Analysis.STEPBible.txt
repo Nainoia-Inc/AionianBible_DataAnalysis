@@ -1,0 +1,435 @@
+# File Name: Holy-Bible---Holy-Bible---Hebrew---Hebrew-STEPBible---Analysis.txt
+# File Size: 30688       
+# File Date: 12/13/2025 05:37:13
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: כתבי הקודש
+# Bible Name English: Hebrew STEP Old Testament
+# Bible Language: עברית
+# Bible Language English: Hebrew
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution 4.0
+# Bible Source: Tyndale House Cambridge
+# Bible Source Version: 9/27/2025
+# Bible Source Link: https://github.com/STEPBible/STEPBible-Data
+# Bible Source Year: 2024
+# Bible Description: Scripture Tools for Every Person
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Hebrew---Hebrew-STEPBible	ENCODING	Source	Holy-Bible---Hebrew---Hebrew-STEPBible---Source-Edition.STEP.txt	UTF-8	NOTICE
+Hebrew---Hebrew-STEPBible	ENCODING	Aionian	Holy-Bible---Hebrew---Hebrew-STEPBible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Hebrew---Hebrew-STEPBible	BYTES	Source	bytes / chars	5636245 / 3075304 (multi-byte)	NOTICE
+Hebrew---Hebrew-STEPBible	BYTES	Aionian	bytes / chars	5764679 / 3203386 (multi-byte)	NOTICE
+Hebrew---Hebrew-STEPBible	BYTES	SourceClean	bytes / chars	5635390 / 3074449 (multi-byte)	NOTICE
+Hebrew---Hebrew-STEPBible	BYTES	AionianClean	bytes / chars	5761659 / 3200722 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Hebrew---Hebrew-STEPBible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Hebrew---Hebrew-STEPBible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Hebrew---Hebrew-STEPBible	AIONIAN	Aionian	book-defined-not-exist	200	NOTICE
+Hebrew---Hebrew-STEPBible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Hebrew---Hebrew-STEPBible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Hebrew---Hebrew-STEPBible	AIONIAN	Aionian	aionian-verses	64	NOTICE
+Hebrew---Hebrew-STEPBible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Hebrew---Hebrew-STEPBible	UNPRINTABLE	Source	count	0	NOTICE
+Hebrew---Hebrew-STEPBible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Hebrew---Hebrew-STEPBible	UNICODE	Summary	(-)Orginal	76	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Summary	(+)Aionian	41	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (/)	117	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : ( )	315430	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (S)	1667	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (T)	20	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (E)	3172	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (P)	3389	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (B)	70	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (i)	1945	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (b)	1199	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (l)	266	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (e)	7026	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (H)	338	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (r)	2786	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (w)	70	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (,)	75	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (c)	815	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (o)	4578	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (m)	1677	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (p)	151	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (d)	738	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (y)	9	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (A)	180	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (C)	1791	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (M)	161	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (()	37	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (a)	6318	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (h)	2305	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : ())	37	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (\n)	23198	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (u)	2379	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (:)	23181	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (t)	479	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (s)	4920	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (f)	26	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (v)	907	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (n)	2292	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (.)	11	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (g)	740	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (-)	10	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (D)	1326	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (O)	24	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (L)	1079	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (\t)	132	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (=)	60	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (;)	12	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (Q)	10	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (')	16	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (k)	5	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (x)	1222	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (K)	1546	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (R)	91	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (X)	6	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (J)	3834	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (F)	4	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (2)	16523	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (V)	6	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (j)	1	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	General Punctuation : (“)	1	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (+)	7	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	General Punctuation : (”)	1	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (G)	1534	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (1)	22396	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (")	180	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (>)	45	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (3)	9528	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (4)	6940	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (5)	5223	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (6)	4905	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (7)	4521	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (8)	4483	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (9)	4390	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (0)	4101	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (N)	1741	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (z)	1553	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (I)	1292	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source(-)	Basic Latin : (Z)	264	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (0)	97693	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (1)	33365	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (\t)	92580	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (G)	2189	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (E)	9886	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (N)	3679	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : ( )	245553	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (\n)	23144	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (2)	24581	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (3)	13506	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (4)	10461	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (5)	6800	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (6)	7295	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (7)	5765	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (8)	6110	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (9)	7789	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (()	64	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (S)	6461	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (h)	128	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (e)	64	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (o)	64	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (l)	64	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : ())	64	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (O)	4458	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (L)	1185	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (V)	859	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (U)	2332	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (M)	1748	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (D)	1934	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (J)	3831	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (R)	2644	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (T)	252	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (A)	6132	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (K)	1535	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (I)	2932	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (C)	2524	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (H)	2508	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (B)	1147	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Aionian(+)	Basic Latin : (P)	3429	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (/)	117	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : ( )	315430	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (S)	1667	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (T)	20	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (E)	3172	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (P)	3389	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (B)	70	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (i)	1945	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (b)	1199	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (l)	266	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (e)	7026	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (H)	338	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (r)	2786	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (w)	70	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (,)	75	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (c)	815	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (o)	4578	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (m)	1677	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (p)	151	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (d)	738	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (y)	9	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (A)	180	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (C)	1791	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (M)	161	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (()	37	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (a)	6318	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (h)	2305	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : ())	37	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (\n)	23198	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (u)	2379	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (:)	23181	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (t)	479	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (s)	4920	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (f)	26	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (v)	907	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (n)	2292	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (.)	11	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (g)	740	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (-)	10	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (D)	1326	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (O)	24	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (L)	1079	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (\t)	132	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (=)	60	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (;)	12	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (Q)	10	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (')	16	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (k)	5	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (x)	1222	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (K)	1546	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (R)	91	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (X)	6	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (J)	3834	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (F)	4	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (2)	16523	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (V)	6	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (j)	1	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	General Punctuation : (“)	1	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (+)	7	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	General Punctuation : (”)	1	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (G)	1534	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (1)	22396	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (")	180	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (>)	45	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ב)	65243	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ּ)	170909	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ְ)	150557	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ר)	68100	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֵ)	59060	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (א)	95724	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ש)	58231	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ׁ)	46089	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ִ)	109056	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֖)	37127	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (י)	138018	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ת)	63250	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ָ)	152118	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֣)	41368	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֱ)	4474	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ל)	88335	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֹ)	73900	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ה)	102020	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֑)	21573	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ם)	41315	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֥)	33197	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ַ)	117333	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (מ)	57681	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ו)	129700	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֽ)	41334	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֶ)	75273	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ץ)	3288	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (׃)	23197	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֗)	12807	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֙)	24458	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֔)	25571	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ח)	27612	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ך)	14010	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ע)	44836	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (־)	42543	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (פ)	16909	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (נ)	39872	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (3)	9528	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (4)	6940	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֧)	3272	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֛)	7860	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (כ)	33487	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ט)	6318	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ד)	32394	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ן)	15253	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (5)	5223	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ק)	16284	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֨)	7539	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֤)	12614	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (׀)	2273	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (6)	4905	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (7)	4521	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ׂ)	12096	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֮)	1227	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֒)	956	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֲ)	25609	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (8)	4483	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (9)	4390	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֜)	4173	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (0)	4101	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֚)	1174	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ז)	9106	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֞)	1729	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (צ)	11692	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֠)	1200	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֕)	1657	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ג)	10088	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ף)	2555	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֡)	955	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֩)	1869	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֻ)	4359	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ס)	9621	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֳ)	632	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ׄ)	53	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֘)	212	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֓)	46	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֦)	14	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ֿ)	12	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֝)	2965	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (N)	1741	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (׆)	2	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֪)	252	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֟)	16	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (z)	1553	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֭)	2690	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֫)	407	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (֬)	185	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Hebrew : (ׅ)	3	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (I)	1292	NOTICE
+Hebrew---Hebrew-STEPBible	UNICODE	Source	Basic Latin : (Z)	264	NOTICE
+
+# VERSIFICATION
+Hebrew---Hebrew-STEPBible	VERSIFICATION	Summary	missing	0	NOTICE
+Hebrew---Hebrew-STEPBible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	()	37 / 37	NOTICE
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<>	0 / 45	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Aionian	()	64 / 64	NOTICE
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "A" => "Aleppo",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "B" => "Biblia Hebraica Stuttgartensia",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "C" => "Cairensis",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "D" => "Dead Sea and Judean Desert manuscripts",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "E" => "Emendation from ancient sources",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "F" => "Format pointing or word division difference without letter changes",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "H" => "Ben Chaim (2nd Rabbinic Bible)",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "K" => "Ketiv 'written' in the text with Tyndale pointing",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L" => "Leningrad",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(a+bh)" => "Leningrad with minor variants: Aleppo plus BHS and Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(a+V)" => "Leningrad with minor variants: Aleppo plus meaning variants: other Hebrew manuscripts",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(abh)" => "Leningrad with minor variants: Aleppo, BHS, and Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(ah+b)" => "Leningrad with minor variants: Aleppo and Ben Chaim plus BHS",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(AH+B)" => "Leningrad with meaning variants: Aleppo and Ben Chaim plus BHS",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(b)" => "Leningrad with minor variants: BHS",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(b+p)" => "Leningrad with minor variants: BHS plus alternate punctuation",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(bah)" => "Leningrad with minor variants: Aleppo, BHS, and Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(D)" => "Leningrad with meaning variants: Dead Sea and Judean Desert manuscripts",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(E)" => "Leningrad with meaning variants: emendation from ancient sources",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(F)" => "Leningrad with meaning variants: format pointing or word division difference without letter changes",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(H)" => "Leningrad with meaning variants: Ben Chaim (2nd Rabbinic Bible)",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(p)" => "Leningrad with minor variants: alternate punctuation",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(P)" => "Leningrad with meaning variants: alternate punctuation",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(S)" => "Leningrad with meaning variants: scribal traditions",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "L(V)" => "Leningrad with meaning variants: other Hebrew manuscripts",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LA(bh)" => "Leningrad and Aleppo with minor variants: BHS and Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LA(BH)" => "Leningrad and Aleppo with meaning variants: BHS and Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LAB(h)" => "Leningrad, Aleppo, and BHS with minor variants: Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LAB(H)" => "Leningrad, Aleppo, and BHS with meaning variants: Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LAH(b)" => "Leningrad, Aleppo, and Ben Chaim with minor variants: BHS",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LB(ah)" => "Leningrad and BHS with minor variants: Aleppo and Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LB(AH)" => "Leningrad and BHS with meaning variants: Aleppo and Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LB(ha)" => "Leningrad and BHS with minor variants: Aleppo and Ben Chaim",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LBH(a)" => "Leningrad, BHS, and Ben Chaim with minor variants: Aleppo",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LBH(A)" => "Leningrad, BHS, and Ben Chaim with meaning variants: Aleppo",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LBH(a+C)" => "Leningrad, BHS, and Ben Chaim with minor variants: Aleppo plus meaning variants: Cairensis",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "LH(ab)" => "Leningrad and Ben Chaim with minor variants: Aleppo and BHS",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "P" => "Alternate punctuation",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "Q" => "Qere 'spoken' corrections from margin and text pointing",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "Q(k)" => "Qere 'spoken' corrections from margin and text pointing, with minor variants: Ketiv 'written', Tyndale pointing",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "Q(K)" => "Qere 'spoken' corrections from margin and text pointing, with meaning variants: Ketiv 'written', Tyndale pointing",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "R" => "Restored text based on Leningrad parallels",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "S" => "Scribal traditions",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "V" => "Variants from other Hebrew manuscripts",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Source	<0/1>	// "X" => "Extra words from Septuagint (LXX), in Hebrew based on apparatus in BHS and BHK",	WARN
+Hebrew---Hebrew-STEPBible	ENCLOSURES	Summary	lines	45 / 0	WARN
+
+# UNEXPECTED
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(+)	7/0	WARN
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(=)	60/0	WARN
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	(/)	117/0	WARN
+Hebrew---Hebrew-STEPBible	UNEXPECTED	Source/Aionian	Summary	184/0	WARN
+
+# NUMERALS
+Hebrew---Hebrew-STEPBible	NUMERALS	Source	count	0	NOTICE
+Hebrew---Hebrew-STEPBible	NUMERALS	Aionian	count	0	NOTICE
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

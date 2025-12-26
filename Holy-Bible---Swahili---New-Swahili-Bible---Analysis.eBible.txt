@@ -1,0 +1,1172 @@
+# File Name: Holy-Bible---Holy-Bible---Swahili---New-Swahili-Bible---Analysis.txt
+# File Size: 171093      
+# File Date: 12/13/2025 06:01:25
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Biblia Takatifu Mpya
+# Bible Name English: New Swahili Bible
+# Bible Language: Kiswahili
+# Bible Language English: Swahili
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Door43 World Missions Community
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=swhulb
+# Bible Source Year: 2019
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Swahili---New-Swahili-Bible	ENCODING	Source	Holy-Bible---Swahili---New-Swahili-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Swahili---New-Swahili-Bible	ENCODING	Aionian	Holy-Bible---Swahili---New-Swahili-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Swahili---New-Swahili-Bible	BYTES	Source	bytes / chars	4283743 / 4261839 (multi-byte)	NOTICE
+Swahili---New-Swahili-Bible	BYTES	Aionian	bytes / chars	4497720 / 4475628 (multi-byte)	NOTICE
+Swahili---New-Swahili-Bible	BYTES	SourceClean	bytes / chars	4282912 / 4261008 (multi-byte)	NOTICE
+Swahili---New-Swahili-Bible	BYTES	AionianClean	bytes / chars	4494214 / 4472122 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Swahili---New-Swahili-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Swahili---New-Swahili-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Swahili---New-Swahili-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Swahili---New-Swahili-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Swahili---New-Swahili-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Swahili---New-Swahili-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Swahili---New-Swahili-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Swahili---New-Swahili-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Swahili---New-Swahili-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Swahili---New-Swahili-Bible	UNICODE	Summary	(-)Orginal	66	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Summary	(+)Aionian	64	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (G)	3347	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (E)	12717	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (N)	12567	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : ( )	640185	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (1)	30654	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (:)	32134	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (H)	9923	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (a)	709527	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (p)	30383	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (o)	127270	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (m)	166192	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (n)	210076	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (M)	17970	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (u)	221182	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (g)	41280	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (l)	98424	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (i)	335053	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (b)	59688	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (c)	17359	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (h)	96682	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (.)	39297	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31101	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (2)	21863	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (y)	92416	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (k)	215281	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (t)	103095	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (s)	71624	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (d)	43355	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (R)	5159	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (e)	175476	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (3)	12400	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (,)	53405	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (r)	34557	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (4)	9258	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (A)	17980	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (5)	7181	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (I)	7540	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (6)	6557	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (7)	6002	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (8)	5840	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (9)	5669	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (0)	5850	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (W)	8014	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (K)	12393	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (J)	6431	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (V)	1579	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (T)	4839	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (S)	11304	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (L)	5346	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (P)	5285	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (D)	3596	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (?)	3254	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (()	274	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : ())	271	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (U)	5689	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (B)	8038	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (C)	4496	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (-)	1303	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (O)	7223	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (+)	7	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : ([)	5	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (=)	4	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : ({)	3	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (})	2	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (_)	15	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source(-)	Basic Latin : (*)	1	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	131142	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42654	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124404	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3358	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	12715	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	12566	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	9934	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	709726	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	30384	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	127418	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	578354	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	166199	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	210277	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	17969	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	221184	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	41493	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	98493	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	335299	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	59698	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	17361	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	96811	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	39256	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31100	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31285	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	92430	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	215282	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	103101	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	71737	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	43371	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	5158	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	175573	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17322	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	53398	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	34568	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20149	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	17988	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10412	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	7532	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10824	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7541	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7931	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9333	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	1035	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	8013	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	12392	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	6430	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1578	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	4841	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	11366	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	5348	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	5290	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	3594	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	3253	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (()	600	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : ())	596	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	5688	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	8037	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4498	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1304	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	7220	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	4	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (G)	3347	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (E)	12717	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (N)	12567	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : ( )	640185	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (1)	30654	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (:)	32134	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (H)	9923	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (a)	709527	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (p)	30383	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (o)	127270	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (m)	166192	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (w)	170215	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (n)	210076	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (z)	40126	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (M)	17970	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (u)	221182	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (g)	41280	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (l)	98424	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (i)	335053	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (b)	59688	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (c)	17359	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (h)	96682	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (.)	39297	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (\n)	31101	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (2)	21863	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (y)	92416	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (k)	215281	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (t)	103095	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (j)	32584	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (s)	71624	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (v)	19122	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (d)	43355	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (R)	5159	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (e)	175476	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (3)	12400	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (,)	53405	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	General Punctuation : (“)	5440	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (r)	34557	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	General Punctuation : (”)	5210	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (4)	9258	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (A)	17980	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (5)	7181	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (I)	7540	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (6)	6557	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (7)	6002	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (f)	28264	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (8)	5840	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (9)	5669	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (0)	5850	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (Z)	2478	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (W)	8014	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (K)	12393	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (J)	6431	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (V)	1579	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (T)	4839	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (S)	11304	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (Y)	12300	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (L)	5346	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (P)	5285	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (D)	3596	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (F)	636	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (')	3785	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (?)	3254	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (;)	4796	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (()	274	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : ())	271	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (U)	5689	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (B)	8038	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (C)	4496	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (!)	1584	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (-)	1303	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (O)	7223	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (")	10	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	General Punctuation : (’)	48	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	General Punctuation : (–)	25	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	General Punctuation : (—)	212	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (+)	7	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	General Punctuation : (‘)	11	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	General Punctuation : (​)	6	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : ([)	5	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (])	4	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (=)	4	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : ({)	3	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (})	2	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (/)	1	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (Q)	1	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (`)	43	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (q)	1	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (_)	15	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (x)	2	NOTICE
+Swahili---New-Swahili-Bible	UNICODE	Source	Basic Latin : (*)	1	NOTICE
+
+# VERSIFICATION
+Swahili---New-Swahili-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Swahili---New-Swahili-Bible	VERSIFICATION	Summary	missing	1	WARN
+Swahili---New-Swahili-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	()	274 / 271	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	[]	5 / 4	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	{}	3 / 2	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	()	600 / 596	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	[]	4 / 4	NOTICE
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (Hapo awali waliishi Waemi, watu kama wakuu, wengi, na warefu kama Waanaki;	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 Wahori pia waliishi hapo awali Seiri, lakini wazao wa Esau waliwafuata. Waliwaharibu kutoka mbele yao na kuishi katika eneo lao, kama Israeli ilivyofanya kwa nchi ya umiliki wake ambayo Yahwe aliwapa.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Hiyo tena ilifikiriwa kuwa nchi ya Rephaimu. Warephaimu waliishi hapo awali-lakini Wammonites wanawaita Zamzummim,	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 Na Waavi, walioishi katika vijiji vya mbali ya Gaza, Wakaftori, ambao wanatokana na Kaftori, waliwangamiza na kuishi katika maeneo yao.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	DEU 3:14 Jair, mzao wa Manasseh, alichukuwa mkoa wote wa Argob, kuelekea mpaka wa Geshunites na wa Maacathites. Aliita mkoa hata Bashani kwa jina lake, Havvothi Jair, hadi leo.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (Watu wa Israeli walisafiri kutoka Beerothi ya Bene Jaakan kwenda Moserathi. Huko Aaroni alikufa, na huko alizikwa; Eleazar, mwana wake, alitumika katika ofisi ya ukuhani kwenye nafasi yake.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 Kwa hiyo Lawi hawana sehemu wala urithi wa nchi pamoja na ndugu zake; Yahwe ni urithi wao, kama Yahwe Mungu wenu alizungumza naye)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	JOS 13:3 (tangu Shihori, iliyoko mashariki mwa Misri, na upande wa kaskazini kuelekea mpaka wa Ekroni, inayofikiriwa kuwa ni mali ya Wakanaani; wafalme watano wa Wafilisti, wale wafalme wa Gaza, Ashidodi, Ashikeloni, Gathi na Ekroni - miliki ya Waavi.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	2SA 4:2 Basi mwana wa Sauli alikuwa na watu wawili waliokuwa wakuu wa vikosi vya askari. Mmoja wao alikuwa Baana na mwingine alikuwa Rekabu, wana wa Rimoni Mbeerothi wa wana wa Benjamini(kwa maana Berothi ilihesabiwa kuwa sehemu ya Benjamini,	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	2SA 4:3 na Waberothi walikimbilia Gitaimu na wamekuwa wakiishi pale hadi sasa).	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	[1/0]	1KI 11:24 Rezoni alijikusanyia wanaume naye akawa mkuu wa jeshi dogo, Daudi ali[owapiga wanaume wa Soba. Wale wanume Rezoni walienda Dameski kuishi huko, na Rezoni aliitawala Dameski.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	1CH 7:21 Tahati mwana wa Eleada. Eleada mwana wa Shutela. (Eza na Eleadi waliuawa na wanaume wa Gati, wenyeji wa nchi, walipoenda kuiba mifugo yao.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	1CH 7:24 Binti yake alikuwa Sheera, ambaye alijenga miji juu na chini Beth Horon na Uzzen Sheerah.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	2CH 1:5 Zaidi ya hayo, madhabahu ya shaba iliyotengenezwa na Bezaleli mwana wa uri mwana wa Huri ilikuwepo huko kabla ya mbele ya madhabahu ya Yahwe; Sulemani na kusanyiko wakaenda ilikokuwa. (Maandiko ya zamani yanasema	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	2CH 20:2 Kisha baadhi ya watu wakaja wakamwambia Yehoshafati, wakisema, “Umati mkubwa wanakuja juu yako ng'ambo ya Bahari iliyokufa, kutoka Edomu. Ona, wako Hason- tamari”, ambayo ndiyo En-gedi. (Badala ya “Edomu” baadhi ya matoleo ya zamani na ya kisasa yanasomeka, “Aramu.”	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	EST 1:13 Mfalme akawandea wenye hekima, waliofahamu nyakati (kwa kuwa huu ndio uliokuwa utaratibu wa mfalme kuhusu wale waliokuwa watalaamu wa sheria na hukumu.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(2/1)	EST 3:7 Katika mwezi wa kwanza, (ambao ni mwezi wa Nisani) ndani ya mwaka wa kumi na mbili wa Mfalme Ahusiero, walipiga kura mbele ya Hamani kura kila siku na mwezi, kuchagua siku na mwezi hadi walipochagua mwezi wa kumi na mbili, (mwezi wa Adari.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (kwa Mafarisayo na Wayahudi wote hawali mpaka wameosha mikono yao vizuri; wanashikilia utamaduni wa wazee. Wakati	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 Mafarisayo wanaporudi kutoka mahali pa soko, hawali mpaka wameoga kwanza. Na kuna sheria zingine ambazo wanazifuata kabisa, ikiwa ni pamoja na kuosha vikombe, masufuria, vyombo vya shaba, na hata viti vinavyotumika wakati wa chakula.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	JOH 1:38 Tena Yesu aligeuka na kuwaona wanafunzi wale wakimfuata, na akawambia, “Mnataka nini?” Wakajibu, “Rabbi, (maana yake 'mwalimu,' unaishi wapi?”	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	JOH 5:3 Idadi kubwa ya wagonjwa ilikuwemo, vipofu, viwete, au waliopooza walikuwa wamelala katika matao hayo. {Zingatia: Maneno ya mstari wa 3 hayaonekani katika nakala nzuri za kale. “Wakisubiri maji kutibuliwa.”) Kwa hakikia wakati fulani malaika alishuka ndani ya Bwana na kuyatibua maji.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	\{1/0\}	JOH 5:3 Idadi kubwa ya wagonjwa ilikuwemo, vipofu, viwete, au waliopooza walikuwa wamelala katika matao hayo. {Zingatia: Maneno ya mstari wa 3 hayaonekani katika nakala nzuri za kale. “Wakisubiri maji kutibuliwa.”) Kwa hakikia wakati fulani malaika alishuka ndani ya Bwana na kuyatibua maji.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	ACT 1:18 (Sasa mtu huyu alinunua eneo kwa kile alichokipokea kwa uovu wake na hapo alianguka akitanguliza kichwa, mwili ukapasuka na matumbo yake yote yakawa wazi yakamwagika.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 Wote walioishi Yerusalemu walisikia kuhusu hili, hivyo eneo hilo wakaliita kwa lugha yao “Akeldama” hilo ni “shamba la damu.”)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	ACT 8:37 maneno haya, “Hivyo Muethiopia akajibu “naamini kwamba Yesu Kristo ni Mwana wa Mungu,” hayamo kwenyemaandiko ya kale). Ndipo Muethiopia akaamuru gari lisimame.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	ACT 24:5 Kwa maana tumempata mtu huyu mkorofi, na anasababisha Wayahudi wote kuasi duniani. Tena ni kiongozi wa madhehebu ya Wanazorayo. (Zingatia: Sehemu ya maneno ya mstari huu 24: 6	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	ACT 24:7 Lisiasi, afisa, alikuja na akamchukua kwa nguvu mikononi mwetu., haumo kwenye nakala bora za maandiko ya kale).	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(1/0)	ACT 28:28 Kwa hiyo, mnapaswa kujua kwamba huu wokovu wa Mungu umepelekwa kwa watu wa Mataifa, na watasikiliza.” (Zingatia: Mstari huu	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Source	(0/1)	ACT 28:29 “Wakati alipokuwa amesema mambo haya, wayahudi waliondoka, wakiwa na mashindano makubwa kati yao.,” haumo kwenye nakala bora za kale).	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Hapo awali waliishi Waemi, watu kama wakuu, wengi, na warefu kama Waanaki;	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Wahori pia waliishi hapo awali Seiri, lakini wazao wa Esau waliwafuata. Waliwaharibu kutoka mbele yao na kuishi katika eneo lao, kama Israeli ilivyofanya kwa nchi ya umiliki wake ambayo Yahwe aliwapa.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Hiyo tena ilifikiriwa kuwa nchi ya Rephaimu. Warephaimu waliishi hapo awali-lakini Wammonites wanawaita Zamzummim,	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Na Waavi, walioishi katika vijiji vya mbali ya Gaza, Wakaftori, ambao wanatokana na Kaftori, waliwangamiza na kuishi katika maeneo yao.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 Jair, mzao wa Manasseh, alichukuwa mkoa wote wa Argob, kuelekea mpaka wa Geshunites na wa Maacathites. Aliita mkoa hata Bashani kwa jina lake, Havvothi Jair, hadi leo.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Watu wa Israeli walisafiri kutoka Beerothi ya Bene Jaakan kwenda Moserathi. Huko Aaroni alikufa, na huko alizikwa; Eleazar, mwana wake, alitumika katika ofisi ya ukuhani kwenye nafasi yake.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Kwa hiyo Lawi hawana sehemu wala urithi wa nchi pamoja na ndugu zake; Yahwe ni urithi wao, kama Yahwe Mungu wenu alizungumza naye)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	006 JOS 013 003 (tangu Shihori, iliyoko mashariki mwa Misri, na upande wa kaskazini kuelekea mpaka wa Ekroni, inayofikiriwa kuwa ni mali ya Wakanaani; wafalme watano wa Wafilisti, wale wafalme wa Gaza, Ashidodi, Ashikeloni, Gathi na Ekroni - miliki ya Waavi.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 Basi mwana wa Sauli alikuwa na watu wawili waliokuwa wakuu wa vikosi vya askari. Mmoja wao alikuwa Baana na mwingine alikuwa Rekabu, wana wa Rimoni Mbeerothi wa wana wa Benjamini(kwa maana Berothi ilihesabiwa kuwa sehemu ya Benjamini,	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 na Waberothi walikimbilia Gitaimu na wamekuwa wakiishi pale hadi sasa).	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 007 021 Tahati mwana wa Eleada. Eleada mwana wa Shutela. (Eza na Eleadi waliuawa na wanaume wa Gati, wenyeji wa nchi, walipoenda kuiba mifugo yao.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 007 024 Binti yake alikuwa Sheera, ambaye alijenga miji juu na chini Beth Horon na Uzzen Sheerah.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 001 005 Zaidi ya hayo, madhabahu ya shaba iliyotengenezwa na Bezaleli mwana wa uri mwana wa Huri ilikuwepo huko kabla ya mbele ya madhabahu ya Yahwe; Sulemani na kusanyiko wakaenda ilikokuwa. (Maandiko ya zamani yanasema	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 020 002 Kisha baadhi ya watu wakaja wakamwambia Yehoshafati, wakisema, “Umati mkubwa wanakuja juu yako ng'ambo ya Bahari iliyokufa, kutoka Edomu. Ona, wako Hason- tamari”, ambayo ndiyo En-gedi. (Badala ya “Edomu” baadhi ya matoleo ya zamani na ya kisasa yanasomeka, “Aramu.”	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Mfalme akawandea wenye hekima, waliofahamu nyakati (kwa kuwa huu ndio uliokuwa utaratibu wa mfalme kuhusu wale waliokuwa watalaamu wa sheria na hukumu.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(2/1)	017 EST 003 007 Katika mwezi wa kwanza, (ambao ni mwezi wa Nisani) ndani ya mwaka wa kumi na mbili wa Mfalme Ahusiero, walipiga kura mbele ya Hamani kura kila siku na mwezi, kuchagua siku na mwezi hadi walipochagua mwezi wa kumi na mbili, (mwezi wa Adari.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (kwa Mafarisayo na Wayahudi wote hawali mpaka wameosha mikono yao vizuri; wanashikilia utamaduni wa wazee. Wakati	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 Mafarisayo wanaporudi kutoka mahali pa soko, hawali mpaka wameoga kwanza. Na kuna sheria zingine ambazo wanazifuata kabisa, ikiwa ni pamoja na kuosha vikombe, masufuria, vyombo vya shaba, na hata viti vinavyotumika wakati wa chakula.)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 001 038 Tena Yesu aligeuka na kuwaona wanafunzi wale wakimfuata, na akawambia, “Mnataka nini?” Wakajibu, “Rabbi, (maana yake 'mwalimu,' unaishi wapi?”	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Sasa mtu huyu alinunua eneo kwa kile alichokipokea kwa uovu wake na hapo alianguka akitanguliza kichwa, mwili ukapasuka na matumbo yake yote yakawa wazi yakamwagika.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Wote walioishi Yerusalemu walisikia kuhusu hili, hivyo eneo hilo wakaliita kwa lugha yao “Akeldama” hilo ni “shamba la damu.”)	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 008 037 maneno haya, “Hivyo Muethiopia akajibu “naamini kwamba Yesu Kristo ni Mwana wa Mungu,” hayamo kwenyemaandiko ya kale). Ndipo Muethiopia akaamuru gari lisimame.	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 024 005 Kwa maana tumempata mtu huyu mkorofi, na anasababisha Wayahudi wote kuasi duniani. Tena ni kiongozi wa madhehebu ya Wanazorayo. (Zingatia: Sehemu ya maneno ya mstari huu 24: 6	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 024 007 Lisiasi, afisa, alikuja na akamchukua kwa nguvu mikononi mwetu., haumo kwenye nakala bora za maandiko ya kale).	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 028 028 Kwa hiyo, mnapaswa kujua kwamba huu wokovu wa Mungu umepelekwa kwa watu wa Mataifa, na watasikiliza.” (Zingatia: Mstari huu	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 028 029 “Wakati alipokuwa amesema mambo haya, wayahudi waliondoka, wakiwa na mashindano makubwa kati yao.,” haumo kwenye nakala bora za kale).	WARN
+Swahili---New-Swahili-Bible	ENCLOSURES	Summary	lines	29 / 26	WARN
+
+# UNEXPECTED
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(`)	43/43	WARN
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(*)	1/0	WARN
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(_)	15/0	WARN
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(+)	7/0	WARN
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(=)	4/0	WARN
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	(/)	1/1	WARN
+Swahili---New-Swahili-Bible	UNEXPECTED	Source/Aionian	Summary	71/44	WARN
+
+# NUMERALS
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GEN 5:3 Wakati Adamu alipokuwa ameishi miaka 130, akamzaa mwana katika sura yake mwenyewe, kwa mfano wake, na akamuita jina lake Sethi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GEN 5:5 Adamu akaishi miaka 930 kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	GEN 5:6 Wakati Sethi alipokuwa ameishi miaka 105, akamzaa Enoshi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	GEN 5:7 Baada ya kumzaa Enoshi, akaishi miaka 807 na akawazaa wana wengi waume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	GEN 5:8 Sethi akaishi miaka 912 kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	GEN 5:10 Baada ya kumzaa Kenani, Enoshi aliishi miaka 815. Akazaa wana wengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	GEN 5:11 Enoshi aliishi miaka 905 na kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GEN 5:13 Baada ya kumzaa Mahalaleli, Kenani aliishi miaka 840. Akawazaa wana wengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GEN 5:14 Kenani aliishi miaka 910, na kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GEN 5:16 Baada ya kumzaa Yaredi, Mahalaleli aliishi miaka 830. Akazaa wana wengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	GEN 5:17 Mahalaleli aliishi miaka 895 na kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	GEN 5:18 Yaredi alipokuwa ameishi miaka 162, alimzaa Henoko.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	GEN 5:20 Yaredi aliishi miaka 962 na kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	GEN 5:23 Henoko aliishi miaka 365.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	GEN 5:25 Wakati Methusela alipokuwa ameishi miaka 187, alimzaa Lameki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	GEN 5:26 Baada ya kumzaa Lameki, Methusela aliishi miaka 782. Akawazaa wana wengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	9	GEN 5:27 Methusela aliishi miaka 969. Kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	GEN 5:28 Wakati Lameki alipokuwa ameishi miaka 182, alimzaa mwana.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	GEN 5:30 Lameki aliishi miaka 595 baada ya kumzaa baba wa Nuhu. Akazaa wanawengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	GEN 5:31 Lameki aliishi miaka 777. Kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GEN 6:3 Yahwe akaema, “ roho yangu haitasalia kwa mwanadamu milele, kwa kuwa wao ni nyama. Wataishi miaka 120.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	GEN 11:13 Alfaksadi aliishi miaka 403 baada ya kumzaa Shela. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	GEN 11:15 Shela aliishi miaka 403 baada ya kumzaa Eberi. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GEN 11:17 Eberi aliishi miaka 430 baada ya kumzaa Pelegi. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	9	GEN 11:19 Pelegi aliishi miaka 209 baada ya kumza a Reu. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	GEN 11:21 Reu aliishi miaka207 baada ya kumzaa Seregu. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	9	GEN 11:25 Nahori aliishi mika 119 baada ya kumzaa Tera. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	GEN 11:32 Tera akaishi miaka 205 kisha akafa hapao Harani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	GEN 14:14 Abram aliposikia kuwa maadui wamemteka ndugu yake, akawaongoza wanaume waliofunzwa na kuzaliwa nyumbani mwake 318 na akawaongoza hadi Dani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	GEN 25:7 Hizi ndizo zilikuwa siku za miaka ya uhai wake Abraham alizoishi, miaka 175.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	GEN 25:17 Hii ndiyo ilikuwa miaka ya Ishimaeli, miaka 137: akapumua pumzi yake ya mwisho na akafa, na akakusanywa pamoja na watu wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GEN 50:26 Hivyo Yusufu akafa, mwenye miaka 110. Wakampaka dawa na akawekwa katika jeneza huko Misri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	EXO 6:16 Hapa yameorodheshwa majina ya wana wa Lawi, pamoja na uzo wao. Walikuwa ni Gerishoni, Kohathi, na Merari. Lawi aliishi mpaka alipo kuwa na miaka 137.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	EXO 6:18 Wana wa Kohathi walikuwa Amramu, Izhari, Hebroni, na uzieli. Kohathi aliishi hadi miaka 133.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	EXO 6:20 Amramu alimuoa Yokebedi, dada yake baba yake. Alimzalia Aruni na Musa. Amramu aliishi miaka 137 na akafa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EXO 12:37 Waisraeli wakasafiri kutoka Ramesi kwenda Sakothi. Walikuwa na idadi ya wanaume 600, 000 kwa miguu, kuongezea kwa wanawake na watoto.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EXO 12:40 Waisraeli waliishi Misri kwa miaka 430.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EXO 12:41 Baada ya miaka 430, siku hiyo hiyo, majeshi yote ya Yahweh yalio jiami waliondoka kutoka nchi ya Misri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EXO 30:23 “Jitwalie manukato yaliyo bora, manemane mbichi shekeli mia tano, na mdalasini wenye harufu nzuri 250, na kane shekeli 250	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EXO 38:24 Dhahabu yote iliyotumiwa kwa ajili ya kazi katika kazi yote ya mahali patakatifu ikawa jumla ya dhahabu ya toleo la kutikisa, + talanta ishirini na tisa na shekeli 730 kulingana na shekeli+ ya mahali patakatifu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	EXO 38:25 Nayo fedha ya wale walioandikishwa kati ya kusanyiko ilikuwa talanta mia moja na shekeli 1, 775 kulingana na shekeli ya mahali patakatifu,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EXO 38:26 ile nusu shekeli kwa ajili ya mtu mmoja ilikuwa nusu shekeli kulingana na shekeli ya mahali patakatifu,. Kwa kila mtu aliyekuwa akipita kuingia upande wa wale waliokuwa wameandikishwa kuanzia miaka ishirini na zaidi, jumla ya watu 603, 550.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	EXO 38:28 Na kutokana na zile shekeli 1, 775 alifanyiza vibanio vya nguzo na kuvifunika sehemu yake ya juu na kuviunganisha pamoja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EXO 38:29 Nayo shaba ya toleo la kutikisa ilikuwa talanta sabini na shekeli 2, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:21 Waliwahesabu wanaume 46, 000 kutoka ukoo wa Reubeni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:23 Walihesabu wanaume 59, 300 kutoka kabila la Simeoni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:25 Walihesabu wanaume 45, 650 kutoka kabila la Gadi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:27 walihesabiwa wanume 74, 000 kutoka kabila la Yuda.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:29 Walihesabiwa wanaume 54, 000 kutoka kabila la Isakari.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:31 Walihesabiwa wanume 57, 400 kutoka kabila la Zabuloni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:33 Walihesabiwa wanaume 40, 500 kutoka kabila la Efraimu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:35 Walihesabiwa wanaume 32, 000 kutoka kabila la Manase.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:37 Walihesabiwa wanaume 35, 000 kutoka kabila la Benjamini.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:39 Walihesabiwa wanaume 62, 000 kutoka kabila la Dani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:41 Walihesabiwa wanaume 41, 500 kutoka ukoo wa Asheri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:43 Walihesabiwa wanaume 53, 400 kutoka kabila la Naftari	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 1:46 Walihesabu wanaume 603, 550.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:4 Idadi ya watu wa Yuda ni 74, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:6 Idadi ya kikosi chake ni wanaume 54, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:8 Idadi ya kikosi chake ni 57, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:9 Idadi yote ya kambi y a Yuda ni 186, 400. Watakuwa wa kwanza kuondoka.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:11 Idadi ya kikosi chake ni 46, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:13 Waliohesabiwa kwenye kikosi chake ni 59, 300.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:15 Idadi ya kikosi chake ni 45, 650.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:16 Wote waliohesabiwa kwenye kambi ya Reubeni, kulingana na kikosi chake, ni 151, 450. Watakuwa wa pili kuondoka.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:19 Hesabu ya kikosi hiki ni 40, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:21 Hesabu ya kikosi hiki ni 32, 200.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:23 Hesabu ya kikosi hiki ni 35, 000	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:24 Wote waliohesabiwa katika kambi ya Efraimu ni 108, 100. Watakuwa wa tatu kuondoka.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:26 Hesabu ya kikosi hiki ni 62, 700.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:28 Hesabu ya Kikosi hiki ni 41, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:30 Hesabu ya kikosi hiki ni 53, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:31 Wote waliohesabiwa kwenye kambi ya Dani ni 157, 600. Hawa watakuwa wa mwisho kuondoka kambini, wakifuata bango lao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 2:32 Hawa ndio Waisraeli, waliohesabiwa kufuata familia zao. Wote waliohesabiwa kwenye kambi zao, kwa kufuata vikosi vyao ni 603, 550.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 3:22 Wanaume wote wenye umri wa mwezi mmoja au zaidi walihesabiwa na kufikia idadi ya 7, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 3:28 Wanaume 8, 600 wenye umri wa mwezi mmoja au zaidi walihesabiwa ili kulinda vitu vya BWANA.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 3:34 Wanaume 6, 200 wenye umri wa mwezi mmoja na zaidi walihesabiwa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	NUM 3:43 Aliwahesabu wazaliwa wote wa kwanza kwa mjina, wenye umri wa mwezi mmoja na zaidi. Alihesabu wanaume 22, 273.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	NUM 3:46 Unikusanyie shekeli tano za wokovu kwa kila hao 273 za hao wazaliwa wa kwanza wa Israeli za hao wanaozidi idadi ya Walawi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	NUM 3:50 Musa akakusanya zile fedha kutoka kwa hao wazaliwa wa kwanza wa wana wa Israeli. Alikusanya jumla ya shekeli 1, 365, zenye kipimo sawa na mahali patakatifu. Musa akamlipa Haruni na wanawe hizo shekeli za wokovu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 4:36 Waliwahesabu wanaume 2, 750 kwa kufuata koo zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 4:40 Wanaume wote waliohesabiwa kufuata koo na familia za mababu zao walikuwa 2, 630.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 4:44 Wanaume wote waliohesabiwa kupitia koo za familia za mababu zao walikuwa 3. 200.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 4:48 Waliwahesabu wanaume 8, 580.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:13 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli moja ya fedha ambayo uzito wake ni shekeli sabini, kwa kipimo cha mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:19 Sadaka yake ilikuwa sahani moja ya fedha ya uzito wa shekeli130 na bakuli moja la fedha lenye uzani wa sheli sabini, kwa kipimo cha mahali patakatifu. Viyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:25 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130, na bakuli moja la fedha lenye uzito wa shekeli sabini kwa kipimo cha shekeli za mahali patakatifu. vyombo vyote hivi vilikuwa vimeja unga mwembemba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:31 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli moja la fedha lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo hivi vyote vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:37 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shaekali 130 na bakuli mojala fedha lenye uzani wa shekeli sabini kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:43 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli la shaba lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo hivi vyote vilikuwa vimejaa unga mwembemba uliochanganywa na mafuta kwa ajili ya sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:49 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli la fedha lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo hivi vyote ilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:55 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli130 na bakuli moja la fedha lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:61 Sadaka yake ilikuwa sahani moja yafedha yenye uzani wa sheli 130 na bakuli moja la fedha lenye uzito wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:67 Alitoa sahani moja ya fedha yenye uzani wa shaekeli 130 na bakuli moja lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:73 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli moja la fedha lenye uzani wa shekeli sabani, kwa kipimo cha shekeli ya mahali patakatifu. Vyombo vyote hivi ilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:79 Sadaka yake ailikuwa sahani moja ya fedha yenye uzani wa shaekeli 130 na bakuli moja la fedha lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba ulichanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:85 Zile sahani za fedha kila moja ilikuwa na uzani wa shaekeli 130 na kila bakuli ye fedha ilikuwa na uzani wa shekeli sabini. Vyombo vyote vya fedh vilikuwa na ujumla ya uzani wa shekeli 2, 400, kwa kipimo cha shekeli za mahali patakatifu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 7:86 Vile vijiko vya dhahabu vilivyokuwa vimejaa ubani, vilikuwa na uzani wa shekeli kumi kila kimoja. Vijiko vyote vya dhahabu vilikuwa na uzani wa shekeli 120.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 11:21 Kisha Musa akasema, “Mimi nina watu 600, 000, na wewe umesema, “Nitawapa nyama mle kwa mwezi mmoja,'	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 16:35 Kisha moto ukashuka toka kwa BWANA na kuwaangamiza wale wanaume 250 waliokuwa wametoa ubani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 16:49 Idadi ya wale waliokuwa wamekufa kwa tauni walikuwa14, 000, nje na wale waliokufa kutokana na swala la Kora.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:7 Hizi ndizo zilikuwa koo za uzao wa Reubeni, ambzo idadi yao ilikuwa wanaume 43, 730.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:10 Pale ambapo dunia ilifungua kinywa na kuwameza pamoja na Kora wakati ambapo wafuasi wa Kora walikufa. Wakati ule, moto uliteketeza wanaume 250, amboa wlikuwa ishara ya onyo.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:14 Hizi ndizo koo za uzao wa Simeoni, idadi yao ilikuwa wanaume 22, 200.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:18 Hizi ndizo koo za uzao wa Gadi, idadi yao walikuwa wanaume 40, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:22 Hizi ndizo zilizokuwa koo za Yuda, idadi yao ilikuwa wanaume 76, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:25 Hizi ndizo zilikuwa koo za Isakari, Idadi yao ilikuwa wanaume 64, 300.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:27 Hizi ndizo zilikuwa koo za Zabuloni, idadi y ao ilikuwa wanaume 60, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:34 Hizi ndizo koo za Manase, idadi yao ilikuwa wanaume 52, 700.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:37 Hizi ndizo koo za uzao wa Efraimu, idadi yao ilikuwa wanaume 32, 500. Huu ndio uzao wa Yusufu, uliohesabiwa toka kila koo zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:41 Hizi ndizo koo za uzao wa Benjamini. Idadai yao ilikuwa wanaume 45, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:43 Idadi ya koo zote za Washuhamu ilikuwa wanaume 64, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:47 Hizi ndizo koo za uzao wa Asheri, idadi yao ilikuwa wanaume 53, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:50 Hizi ndizo zilizokuwa koo za uzao wa Naftali, idadi yao walikuwa wanaume 45, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 26:51 Hii ndiyo iliyokuwa jumla kuu ya wanaume wa Israeli: 601, 730.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 31:32 Sasa zile nyara zilizokuwa zimebaki ambazo wanajeshi walikuwa wameteka zilikuwa kondoo 675, 000,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 31:36 Ile hesabu ya nusu iliyokuwa imetunzwa kwa ajili ya wanajeshi ilikuwa kondoo 337, 000. Ile sehemu ya	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	NUM 31:37 BWANA ya kondoo ilikuwa kondoo 675.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 31:39 Punda walikuwa 30, 500 ambao sehemu ya BWANA ilikuwa sitini na moja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 31:43 ile nusu y a watu ilikuwa kondoo 337, 500,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 31:45 punda 30, 500,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NUM 31:52 Vitu vyote vya sadaka ya dhahabu ambavyo walimpa BWANA- sadaka toka kwa makamanda wa maelfu na kutoka kwa makepteni wa mamia - vilikuwa na uzito wa shekeli 16, 750.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	NUM 33:39 Haruni alikuwa na umri wa mika 123 alipokufa pale juu ya Mlima Hori.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	NUM 35:4 Hayo malisho yatakayozunguka miji hiyo ambayo mtawapa Walawi yataanzia kwenye maboma kwa ukubwa wa “mita 457” kila upande.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JOS 24:29 Baada ya mambo haya, Yoshua mwana wa Nuni, mtumishi wa Yahweh, alikufa akiwa na miaka 110.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 2:8 Yoshua mwana wa Nuni, mtumishi wa Bwana, alikufa akiwa na umri wa miaka 110.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 3:31 Baada ya Ehudi, mwamuzi aliyefuata alikuwa Shamgari mwana wa Anathi ambaye aliwaua Wafilisti 600 kwa konzo la ng'ombe. Pia aliwaokoa Israeli kutoka kwenye hatari.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 8:10 Sasa Zeba na Salmuna walikuwa huko Karkori pamoja na jeshi lao, karibu na watu elfu kumi na tano, wote waliosalia nje ya jeshi lote la watu wa Mashariki, kwa kuwa walianguka watu 120, 000 waliofundishwa kupigana na upanga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 8:26 Uzito wa pete za dhahabu alizoomba zilikuwa shekeli 1, 700 za dhahabu. Nyara hizi zilikuwa ni pamoja na mapambo ya makoja, vidani, nguo ya rangi ya zambarau waliyovaa na wafalme wa Midiani, na zaidi ya minyororo iliyokuwa karibu na shingo za ngamia zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 16:5 Wale wakuu wa Wafilisti wakamwendea, wakamwambia, “mdanganye Samsoni ili uone mahali zilipo nguvu zake kuu, na kwa namna gani tunaweza kumshinda, ili tumfunge na kumtesa. Fanya hili, na kila mmoja wetu atakupa vipande 1, 100 vya fedha.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 17:2 Akamwambia mama yake, “Shilingi 1, 100 za fedha ambazo zilichukuliwa kutoka kwako, ambazo ulizungumza kwa kiapo, na kuniambia-tazama hapa! Ninazo fedha pamoja nami. Nimeziiba.” Mama yake akasema, 'Na Bwana atakubariki, mwanangu!'	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 17:3 Alirejesha vipande 1, 100 vya fedha kwa mama yake na mama yake akasema, “Nimeweka fedha hii kwa Bwana, kwa ajili ya mwanangu kuifanya na kuchonga takwimu za chuma.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 20:2 Viongozi wa watu wote, wa kabila zote za Israeli, wakachukua nafasi zao kwenye kusanyiko la watu wa Mungu-watu 400, 000 waendao kwa miguu, ambao walikuwa tayari kupigana na upanga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 20:17 Watu wa Israeli, bila kuhesabu namba kutoka kwa Benyamini, walikuwa na watu 400, 000 waliokuwa wamejifunza kupigana na upanga. Wote hawa walikuwa watu wa vita.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JDG 20:35 Bwana akamshinda Benyamini mbele ya Israeli. Siku hiyo, askari wa Israeli waliwauawa watu wa Benyamini 25, 100. Wote hawa waliokufa walikuwa wale waliokuwa wamejifunza kupigana na upanga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1SA 1:6 Hasimu wake alimchokoza sana ili kumkasilisha, kwa sababu BWANA alikuwa amelifunga tumbo lake. 8	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1SA 1:16 Usimchukulie mjakazi wako kama mwanamke duni; nimekuwa nikiongea kutokana na maumivu na masikitiko yangu.” 18	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1SA 3:6 BWANA akamwita tena, “Samweli.” Saamweli aliamka tena na kwenda kwa Eli na kusema, Niko hapa, sababu umeniita.” Eli akajibu, “Sijakuita, mwanangu; kalale tu tena.” 8	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	1SA 3:11 BWANA akasema na Samweli, “Tazama, Niko tayari kufanya jambo katika Israeli ambalo masikio ya kila mmoja akisikia atashtuka. -14	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	1SA 3:14 Hii ndiyo sababu nimeapa kwa nyumba ya Eli, kwamba dhambi za nyumba yake hazitasahehewa kwa dhabihu au kwa sadaka kamwe.” 16	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1SA 3:16 Kisha Eli akamwita Samweli na kusema, “Samweli, mwanangu.” Samweli akasema, “Niko hapa.” 18	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1SA 7:6 Wakakusanyika Mispa, wakateka maji na kuyamwaga chini mbele za BWANA. Siku hiyo walifunga na kusema, “Tumemfanyia BWANA dhambi.” Hapo Mispa ndipo Samweli aliwaamu na kuwaongoza watu wa Iraeli. -8	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	1SA 16:19 Hivyo Sauli akawatuma wajumbe kwa Yese, na kusema, “Nitumie mtoto wako Daudi, anayewatunza kondoo.” 1 Samweli! 6: 20-21	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	9	1SA 18:18 Daudi akamwambia Sauli, “Mimi ni nani, na maisha yangu yana nini, au hata maisha ya familia ya baba yangu katika Israeli, kiasi cha kuwa mkwe wa mfalme?” 1 Samweli 18-19-19	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2SA 2:31 Lakini watu wa Daudi walikuwa wameua watu 360 wa Benjamini na Abneri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2SA 8:4 Daudi aliteka magari 1, 700 ya farasi na askari ishirini elfu waendao kwa miguu. Daudi akawakata miguu farasi wa magari, lakini akahifadhi wakutosha magari mia moja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2SA 24:9 Ndipo Yoabu alipotoa taarifa ya hesabu kamili kwa mfalme kuhusu watu wawezao kupigana vita. Katika Israeli kulikuwa na watu 800, 000 jasiri wawezao kutoa upanga, na wale wa Yuda walikuwa watu 500, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 5:16 zaidi ya hao, walikuwepo maakida 3, 300 ambao pia waliokuwa wakiisimamia hiyo kazi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 6:1 Kwa hiyo Sulemani akaanza kulijenga hekalu. Hii ilikuwa mwaka wa 480 baada ya wana wa Israeli kutoka katika nchi ya Misri, katika mwaka wa nne wa utawala wa Sulemani huko Israeli, katika mwezi wa Ziv, ambao ndio mwezi wa pili.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	1KI 6:2 Hekalu ambalo mfalme Sulemani alimjengea BWANA lilikuwa na urefu wa mita 27, na upana wa mita 9, na kimo cha mita 13. 5.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	1KI 6:3 Na ukumbi uliokuwa mbele ya hekalu ulikuwa na urefu wa mita 9 na upana wa mita 4. 5 sawa na upana wa sehemu kuu ya hekalu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	1KI 6:6 Kile chumba cha chini kilikuwa na upana wa mita 2. 3, kile cha kati kilikuwa na upana wa mita 2. 8. na kile cha tatu kilikuwa na upana wa mita 3. 2. upande wa nje akaupunguza ukuta wa nyumba pande zote, ili boriti zisishikamane ukutani mwa nyumba.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	1KI 6:10 Akajenga vyumba vya pembeni mwa hekalu, kila upande mita 2. 3 kwenda juu. Navyo vikaunganishwa na hekalu kwa mbao za mierezi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	9	1KI 6:16 Alijenga mita 9 ndani ya hekalu kwa mbao za miberoshi kutoka sakafuni hadi juu. Hiki ni chumba cha ndani, cha patakatifu sana.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1KI 6:17 Ule ukumbu mkuu, ulikuwa mahali pakatifu amabao ulikuwa mbele ya patakatifu sana, ulikuwa wa mita 18. hapo kulikwa na mbao za mwerezi ndani ya hekalu, zilizokuwa zimechongwa kwa sura ya vibuyu na maua yaliyochanua.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	9	1KI 6:20 Kile chumba cha ndani kilikuwa na upana wa mita 9, na kimo cha mita 9. Sulemani alizifunika kuta kwa dhabahu na madhabahu aliifunika kwa mbao za mierezi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	1KI 6:23 Sulemani akatengeneza makerubi mawili kwa mbao za mizeituni, kila moja lilikuwa na kimo cha mita 4. 5 kwa ajili ya chumba cha ndani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	1KI 6:24 Bawa moja la kerubi wa kwanza lilikuwa na urefu wa mita 2. 3. Kwa hiyo kutoka ncha ya bawa moja hadi ncha ya bawa lingine kulikuwa na umbali wa mita 4. 5. Yule	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	1KI 6:25 kerubi mwingine naye alikuwa na bawa lenye kipimo cha mita 4. 5 Makerubi hawa walikuwa wanafanana kwa umbo na kwa vipimo.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	1KI 6:26 Kimo cha kerubi mmoja kilikuwa mita 4. 5 na yule wa pili alikuwa hivyo hivyo.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	1KI 7:2 Aliijenga ikulu iliyoitwa mwitu wa Lebanoni. Urefu wake ulikuwa mita 46, na upanawake ulikuwa mita 23, na kimo chake kilikuwa mita 14. Nayo ilikuwa na safu nne ya nguzo za mierezi na mithili ya mwerezi juu ya nguzo.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	1KI 7:6 Akatengeneza baraza lenye uerfu wa mita 23 na upana wa mita 14. Mbele yake kulikuwa na ukumbi ulioezekwa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1KI 7:10 Msingi ulijengwa kwa mawe makubwa sana na ya thamani yenye urefu wa mita 3. 7 na mengine mita 4. 8.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	1KI 7:15 Huramu alizilemba zile nguzo mbili za shaba, kila moja ilikuwa na kimo cha mita 8. 3 na mzingo wa mita 5. 5.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	1KI 7:16 Akatengeneza taji mbili za shaba za kuwekwa juu ya zile nguzo. Kimo cha kila taji ilikuwa mita 2. 3.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1KI 7:19 Zile taji kwenye vile vichwa vya nguzo za ukumbi zilikuwa zimepambwa kwa maua, yenye vimo vya mita 1. 8.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	1KI 7:23 Tena akafanya bahari ya kusubu ya, yenye mita 2. 3 kutoka ukingo hadi ukingo, kimo chake kilikuwa mita 4. 6, mziingo wake ulikuwa mita 13. 7.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	1KI 7:27 Huramu akatengeneza makalio kumi ya shaba. Kila kalio lilkuwa na urefu wa mita 1. 8, upana wa mita 1. 8, na kimo cha mita 1. 3.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1KI 7:38 Huramu akatengeneza birika kumi za shaba. Birika moja liliweza kubeba bathi arobaini za maji. Kila birika lilikuwa mita 1. 8 toka birika moja hadi jingine na kulikuwa na birika moja katika kila kalio kati ya yale kumi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 8:63 Sulemani akatoa sadaka ya amani, ambayo aliifanya kwa BWANA: Nayo ilikuwa makisai elfu ishirini na mbili, na kondoo 120, 000. Kwa hiyo mfalme na watu wa Israeli wakaiweka wakfu nyumba ya BWANA.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 9:23 Hawa ndio waliokuwa maakida wakuu waliokuwa wakiwasimamia kazi za Sulemani, watu 550, walikuwa wasimamizi wa watu waliokuwa wakifanya kazi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	1KI 9:28 Walikwenda kwa Ofri pamoja na watumishi wa Sulemani. Kutoka huko walileta takribani tani 14. 5 za dhahabu kwa Sulemani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 10:10 Basi Malikia alimpatia mfalme zaidi ya kilo 4500 za dhahabu na kiasi kikubwa cha mawe ya thamani. Hapakuwahi kutokea kiasi kikubwa cha viungo kama hiki ambacho Malkia wa Sheba alitoa kwa mfalme Sulemani kuwahi kutolewa tena.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 10:26 Sulemani alikusanya pamoja magari n a wapanda farasi. Alikuwa na magari 1, 400 na wapanda farasi elfu kumi na mbili ambao alikuwa amewaweka kwenye miji ya magari pamoja naye Yerusalemu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 10:29 Magari yalinunuliwa kutoka Misri kwa shekeli mia sita za fedha kila moja, na farasi kwa shekeli 150 kila moja. Vitu vingi katika hivi baadaye viliuzwa kwa wafalme wote wa Wahiti na Aramu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 12:21 Rehoboamu alipofika Yerusalemu, akawakusanya wote wa nyumba ya Yuda na kabila la Benjamini; walichaguliwa wanaume wanajeshi180, 000 ili wapigane na nyumba ya Israeli, kwa lengo la kurudisha ufalme kwa Rehoboamu mwana wa Sulemani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1KI 16:24 Akakinunua kilima cha Samaria kutoka kwa Shemeri kwa kilo 68 za fedha. Akajenga mji juu ya mlima na ule mji akauita Samaria, kwa sababu ya jina la Shemeri, mmiliki wa awali wa kile kilima.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 18:19 Kwa hiyo sasa, Tuma neno na unikusanyie Israeli yote katika mlima Kameli, pamoja na manabii 450 wa Baali na wale manabii 400 wa Ashera wanaokula kwenye meza ya Yezebeli.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 18:22 Kisha Eliya akawaambia wale watu, “Mimi, pekee yangu, ndiye niliyebaki kuwa nabii wa BWANA, lakini manabii wa Baali wako 450.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	1KI 20:15 Ndipo Ahabu alipowataarifu wale vijna wanaowatumikia maliwali wa wilaya. Idadi yao ilikuwa 232. Baada yao aliwahesabu wanajeshi wote, jeshi lote la Israeli; idadi yao ilikuwa elfu saba.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1KI 20:29 Kwa hiyo majeshi yakaweka kambi yakikabiliana kwa muda wa siku saba. Kisha siku ya saba vita vikaanza. Watu wa Israeli wakawaua Washami 100, 000 wanajeshi wa ardhini kwa siku moja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2KI 3:4 Basi Mesha mfalme wa Moabu alifuga kondoo. Alikuwa akimpatia mfalme wa Israeli kondoo 100, 000 na manyoya ya kondoo dume 100, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2KI 19:35 Ikawa kuhusu usiku huo ambao malaika wa Yahwe alitoka na kuvamia kambi ya Waashuru, akawaua maaskari185, 000. Kisha watu wakaamka asubuhi na mapema, miili ya watu waliokuwa wamekufa ilikuwa imelala kila mahali.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 5:21 Walikamata wanya wao, pamoja na ngamia elfu hamsini, kondoo 250, 000, punda elfu mbili, na wanaume 100, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 7:2 Wana wa Tola walikuwa Uzi, Refaia, Yerie, Yamai, Ibisami, Shemueli. Walikua vichwa katika nyumba za baba yao, toka uzao wa Tola na waliorodheshwa kama mashujaa hodari miongoni mwa kizazi chao. Katika siku za Daudi walikua na idadi ya 22, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	1CH 7:7 Wana watano wa Bela walikuwa Ezibono, Uzi, Uzieli, Yerimoti, na Iri. Walikua ni wanajeshi na waanzilishi wa koo. Watu wao walikuwa na idadi ya wanaume wa vita 22, 034, kwa mujibu wa orodha zilizomilikiwa na koo za mababu zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 7:9 Orodha ya koo zao ilikua na idadi ya 20, 200 viongozi wa familia na wanaume wa vita.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 7:11 Wote hawa waikuwa wana wa Yediaeli. Waliorodheshwa katika ukoo orodha ilikuwa 17, 200 viongozi na wanaume wa vita imara kwa kazi ya jeshi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 8:40 Wana wa Ulamu walikuwa wanaume wa mapambano na warusha mishale wa zuri. Walikuwa na wana wengi na wajukuu, jumla ya 150. Wote hawa walikuwa uzao wa Benjamini.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 9:6 Kati ya uzao wa Zera alikuwa Yeuli. Uzao wao ulikuwa na namba 690.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	1CH 9:9 Ndugu zao waliandika kwenye orodha ya namba 956 ya vizazi vyao. Wanaume wote hawa walikuwa viongozi wa koo za mababu zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 9:13 Ndugu zao, ambao walikuwa viongozi katika koo za mababu zao, idadi ya 1, 760. Walikuwa ni wanaume wenye uwezo sana wa kufanya kazi katika nyumba ya Mungu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	1CH 9:22 Hawa wote walichaguliwa kana walinzi wa mageti ya kuingilia kwa idadi ya 212. Majina yao yaliandikwa kwenye kumbukumbu za watu katika vijiji vyao. Mtabiri aliwaweka Daudi na Samueli katika nafasi ya uaminifu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 12:24 Kutoka Yuda walio beba ngao na mkuki ni 6, 800, tayari kwa vita.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 12:25 Kutoka kwa Wasimeoni walikuwa 7, 100 wanaume wa mapambano.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 12:26 Kutoka kwa Walawi kulikuwa na wanaume wa mapambano 4, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 12:27 Yehoiada alikuwa kiongozi wa uzao wa Aruni, na kwa yeye walikuwa 3, 700.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 12:30 Kutoka kwa Waefraimu palikuwa na wanume wa mapambano 20, 800, wanaume maharufu kwenye familia za baba zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 12:35 Kutoka kwa Wadani palikuwa na wanaume 28, 600 wameandaliwa kwa ajili ya pambano.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 12:37 Kutoka upande wa pili wa Yordani, kutoka kwa Warubeni, Wagadi, na nusu kabila la Manase, palikuwa na wanaume 120, 000 wameandaliwa na silaha za kila namna kwa ajili ya pambano.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 15:5 Kutoka uzao wa Kohathi, palikuwa na Urieli kiongozi na ndugu zake, wanaume 120.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 15:6 Kutoka uzao wa Merari, palikuwa na Asaia kiongozi na ndugu zake, wanaume 220.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 15:7 Kutoka uzao wa Gerishomu, palikuwa na Yoeli kiongozi na ndugu zake, wanaume 130.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 15:8 Kutoka uzao wa Elizafani, palikuwa na Shemaia kiongozi na ndugu zake, wanaume 200.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	1CH 15:10 Kutoka uzao wa Uzieli, palikuwa na Aminadabu kiongozi na ndugu zake, wanaume 112.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 21:5 Yoabu akatoa taarifa ya idadi ya jumla ya wanaume wa mapambano kwa Daudi. Kulikuwa ndani ya Israeli wanaume 1, 100, 000 walio beba upanga. Yuda peke yake kulikuwa na wanajeshi 470, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 22:14 Sasa, ona, kwa bidii kubwa nimeandaa kwa ajili ya nyumba ya Yahweh talanta 100, 000 za dhahabu, talanta milioni moja za fedha, na shaba na chuma katika idadi kubwa. Pia nimetoa mbao na mawe. Lazima uongeze zaidi katika haya.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	1CH 25:7 Wao na kaka zao walikuwa na uwelewa na walifundishwa kutengeneza muziki kwa Yahweh walikuwa na idadi ya 288.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 26:30 Wa uzao wa Hebroni, Hashabia na kaka zake, wanaume wenye uwezo 1, 700, walikuwa wahusika wa kazi ya Yahweh na kazi ya mfalme. Walikuwa upande wa mgharibi mwa Yordani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 26:32 Yerija alikuwa na ndugu 2, 700, walio kuwa viongozi wenye uwezo katika familia. Daudi aliwafanya waangalizi wa makabila ya Rubeni na Gadi, na nusu kabila la Manase, kwa kila jambo linalo muhusu Mungu, na kwa mambo ya mfalme.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	1CH 29:7 Walitoa kwa ajili ya huduma ya nyumba ya Mungu talanta elfu tano na darkoni elfu kumi za dhahabu, talanta elfu kumi za fedha, talanta elfu nane za fedha, na talanta za chuma 100, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 1:14 Selemani akakusanya magari na wanaume waendesha farasi, naye alikuwa na magari 1, 400 na waendesha farasi kumi na mbili elfu ambao aliwaweka katika miji ya magari, pamoja naye, mfalme katika Yerusalemu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 1:17 Waliagiza gari kutoka Misiri kwa shekeli mia sita za fedha, na farasi mmoja kwa shekeli 150. Pia walinunua kutoka kwa wafalme wa Wahiti na wafalme wa Washamu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 2:2 Selemeni akateua wanaume elfu sabini wabebe mizigo, na wanaume elfu themanini wa kukata mbao katika mlima, na wanaume 3, 600 kwa ajili ya kusimamia.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 2:17 Selemani akawahesabu watu wageni waliokuwa katika nchi ya Israeli, kwa kutumia njia ya Daudi, baba yake, aliyoitumia kuwahesabu. Walikutwa wako 153, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 2:18 Miongoni mwao aliwateua sabini elfu ili wabebe mizigo, themanini elfu kuwa wakataji wa mbao katika milima, na 3, 600 kuwa wasimamizi wa kuwasimamia watu wafanye kazi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 5:12 Pia makuhani waliokuwa waimbaji, wote kwa ujumla wao, pamoja na Asafu, Hemani, Yeduthuni, na wana wao na ndugu zao, wakiwa wamevalia kitani safi na wakipiga matoazi, vinanda, na vinubi, wakaasimama upande wa mashariki wa mwisho wa madhabahu. Pamoja nao palikuwa na makuhuni 120 wakipuliza tarumbeta.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 7:5 Mfalme Selemani akatoa sadaka ya ng'ombe ishirini na mbili elfu na kondoo 120, 000 na mbuzi. Kwa hiyo mfalme na watu wote wakaiweka wakifu nyumba ya Mungu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 8:10 Pia hawa walikuwa wakuu wa wakuu wakisimamia wasimamizi waliokuwa wa mfalme Selemani, walikuwa 250, waliowasimamia watu walioifanya kazi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 8:18 Hiramu akatuma meli zake kupitia watumishi wake ambao walikuwa wana maji wenye uzoefu. Wakasafiri na Selemani na watumishi wa Semani hadi Ofiri. Wakachukua kutoka huko talanta 450 za dhahabu ambazo walimletea Selemani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	2CH 9:7 Wamebarikiwa watu wako, na watumishi wako ambao husimama mbele yako, kwa sababu wanaisikia hekima yako. (Baadhi ya maandiko yanasema, “Wambarikiwa wake zako”, ikidhaniwa kwamba kifungu hicho kinapaswa kusomeka kama ilivyo katika Wafalme 10: 8).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 9:9 Akampa mfalme talanta 120 za dhahabu na kiasi kikubwa manukato na vit vya thamani. Selemani hakupewa tena kiasi kikubwa cha manukato kama hiki amabacho alipewa na malakia wa Sheba.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	2CH 9:13 Sasa uzito wa dhahabu ambayo ililetwa kwa Selemani ndani ya mwaka mmoja ulikuwa talanta 666 za dhahabu,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 11:1 Rehoroboamu alipofiki Yerusalemu, akawakusanya nyumba ya Yuda na Benyamini, wanaume 180, 000 walaiaochaguliwa amabao wliakuwa wanajeshi, kwa ajili ya kupigana dhiidi ya Israeli, ili kuurudisha ufalme kwa Rehoboamu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 13:3 Abiya akaingia vitani na jeshi la askari, wenye nguvu, hodari, 400, 00 wanaume waliochaguliwa. Yeroboamu akapanga mistari ya vita dhidi yake yenye 800, 00 wanaume askari waliochaguliwa, wenye nguvu, hodari.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 13:17 Abiya na jeshi lake wakawaua kwa mauji makuu; 500, 000 watu wanaume waliochaguliwa wa Israeli wakaanguka wamekufa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 14:8 Asa alikuwa na jeshi ambalo lilibeba ngao na mikuki; kutoka Yuda alikuwa na wanaume 300, 000, na kutoka Benyamini, wanaume 280, 000 waliobeba ngao na kuvuta pinde.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 17:11 Baadhi ya Wafilisti wakamletea Yehoshafati zawadi, fedha kama kodi. Waarabu pia wakamletea makundi, 7, 700 kondoo waume, na mbuzi 7, 770.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 17:14 Hapa ni rodha yao, wamepangwa kwa majina ya nyumba za baba zo: Kutoka Yuda, maakida wa maelfu; Adna yule jemedari, na pamoja naye wanaume wa kwenda vitani 300, 000;	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 17:15 akifuatiwa na Yehonani jemedari, na pamoja naye wanaume 280, 00;	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 17:16 akifuatiwa na Amasia mwana wa Zikri, ambaye kwa hiari alijitoa kumtumikia Yahwe; na pamoja naye wanaume wa kwenda vitani 200, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 17:17 Kutoka Benyamini: Eliada mtu jasiri, na pamoja naye watu 200, 000 waliovaa upinde na ngao;	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 17:18 akifutiwa na Yehozabadi, na pamoja naye askari 180, 000 waliotayari kwa vita.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 24:15 Yehoyada akazeeka na alaaikuwa amejaa siku, na kisha akafa; alikuwa na umri wa mika 130 alipokufa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 25:5 Aidha, Amazia aliwakusanya Yuda pamoja, na akawaandikisha kwa kufuata nyumba za babu zao, chini ya maakida wa maelfu na maakida wa mamia —wote wa Yuda na wa Benyamini. Akawahesabu kuanzia wa mika ishirini na kuendelea, na akawaona wako 300, 000 wanaume waliochaguliwa, wawezaoa kwenda vitani, walioweza kushika mkuki na ngao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 25:6 Pia alikodi wanaume wa kupigana 100, 000 kutoka Israeli kwa fedha mia moja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 26:12 Jumla ya wakuu wa nyumba za mababu, watu wa kupigana vita, walikuwa 2, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 26:13 Chini ya mkono wao kulikuwa na jeshi la watu 307, 500 ambao walifanya vita kwa nguvu ili kumsaidia mfalme idi ya maadui.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 28:6 Kwa maana Peka mwana wa Remalia, aliwaua katika Yuda wanajeshi 120, 00 kwa siku moja, wote walikuwa wanaume hodari, kwa maana walikuwa wamemsahau Yahwe, Mungu wa babu zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 28:8 Jeshsi la Israeli likachukua mateka kutoka kwa ndugu zao 200, 000 wake, wana, na mabinti. Pia wakachukua nyara nyingi, ambazo walipeleka Samaria.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	2CH 35:8 Viongozi wake wakatoa sadaka za hiari kwa watu, makuhani, na Walawi. Hilki, Zekaria, na Yeieli, viongozi wasimamizi wa nyumba ya Mungu, wakawapa makuhani ndama 2, 600 na maksai mia tatu kwa ajili ya matoleo ya Paska.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZR 1:10 mabakuli thelathini ya dhahabu, mabakuli madogo ya fedha 410, na vitu elfu moja vya kuongezea.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZR 1:11 Kulikuwa na vitu 5, 400 vya fedha na dhahabu. Sheshbaza akavileta vyote wakati wa uhamisho kutoka Babeli kwenda Yerusalem.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	EZR 2:3 Waporoshi: 2, 172	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	EZR 2:4 Wana wa Shefatia: 372	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	EZR 2:5 Wana wa Ara: 775.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	EZR 2:6 Wana wa Path-Moabu, kupitia Yeshua na Yoabu: 2, 812.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	EZR 2:7 Wana wa Eliamu: 1, 254.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	EZR 2:8 Wana wa Zatu: 945.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZR 2:9 Wana wa Zakai: 760.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	EZR 2:10 Wana wa Binui: 642.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	EZR 2:11 Wana wa Bebai: 623.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	EZR 2:12 Wana wa Azgadi: 1, 222.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	EZR 2:13 Wana wa Adonikamu: 666.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	EZR 2:14 Wana wa Bigwai: 2, 056.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	EZR 2:15 Wana wa Adini: 454.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	EZR 2:17 Wana wa Besai: 323.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	EZR 2:18 Wana wa Harifu: 112.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	EZR 2:19 Wanaume wa Hashimu: 223.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	EZR 2:21 Wanaume wa Bethlehemu: 123.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	EZR 2:23 Wanaume wa Anathothi: 128.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	EZR 2:26 Wanaume wa Rama na Geba: 621.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	EZR 2:27 Wanaume wa Mikmashi: 122.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	EZR 2:28 Wanaume wa Betheli, na Ai: 223.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	EZR 2:30 Wanaume wa Magbishi: 156.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	EZR 2:31 Wanaume wengine wa Elamu: 1, 254.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZR 2:32 nne. Wanaume wa Harimu: 320.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	EZR 2:33 Wanaume wa Lodi, na Hadidi, na Ono: 725.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	EZR 2:34 Wanaume wa Yeriko: 345.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZR 2:35 Wanaume wa Senaa: 3, 630.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	EZR 2:36 Wana wa Yedaya kuhani wa nyumba ya Yoshua: 973.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	EZR 2:37 Wana wa Imeri: 1, 052.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	EZR 2:38 Wana wa Pashuri: 1, 247.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	EZR 2:39 Wana wa Harimu: 1, 017.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	EZR 2:41 nne. Waimbaji hekaluni wana wa Asafu: 128.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	9	EZR 2:42 Walinzi: wana wa Shalumu, Ateri na, Talmoni, Akubu, Hatita na Shobai: 139 jumla.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZR 2:64 Jumla ya kundi 42, 360,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	EZR 2:65 ukiondoa watumishi na wasaidizi (wao walikuwa 7, 337) waimbaji Hekaluni wanaume na wanawake (mia mbili)	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	EZR 2:66 Farasi wao: 736, Nyumbu wao: 245.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZR 2:67 Ngamia wao: 435. Punda wao: 6, 720.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NEH 5:17 Katika meza yangu walikuwa Wayahudi na maafisa, watu 150, isipokuwa wale waliokuja kwetu kutoka kwa mataifa waliokuwa wakituzunguka.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:8 Wana wa Paroshi, 2, 172.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:9 Wana wa Shefatia, 372.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:10 Wana wa Ara, 652.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:12 kwa wana wa Yeshua na Yoabu, 2, 818.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	NEH 7:13 Wana wa Elamu, 1, 254.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NEH 7:14 Wana wa Zatu, 845. Wana wa Zakai, 760.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:15 Wana wa Binnui, 648.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:16 Wana wa Bebai, 628.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:17 Wana wa Azgadi, 2, 322.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	NEH 7:18 Wana wa Adonikamu, 667.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	NEH 7:19 Wana wa Bigwai, 2, 067.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	NEH 7:20 Wana wa Adini, 655.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:21 Wana wa Ateri, wa Hezekia, 98.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:22 Wana wa Hashumu, 328.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	NEH 7:23 Wana wa Besai, 324.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:24 Wana wa Harifu, 112.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	NEH 7:25 Wana wa Gibeoni, 95.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:26 Watu kutoka Bethlehemu na Netofa, 188.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:27 Watu wa Anathothi, 128.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:28 Watu wa Beth Azmaweth, 42.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	NEH 7:29 Watu wa Kiriath Yearimu, Kefira, na Beerothi, 743.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	NEH 7:30 Watu wa Rama na Geba, 621.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:31 Watu wa Mikmasi, 122.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	NEH 7:32 Watu wa Betheli na Ai, 123.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:33 Watu wa Nebo, 52.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	NEH 7:34 Watu wa Elamu wa pili, 1, 254.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NEH 7:35 Watu wa Harimu, 320.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	NEH 7:36 Watu wa Yeriko, 345.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	NEH 7:37 Watu wa Lodi, Hadidi, na Ono, 721.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NEH 7:38 Watu wa Senaa, 3, 930.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	NEH 7:39 makuhani Wana wa Yedaya (wa nyumba ya Yeshua), 973.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:40 Wana wa Imeri, 1, 052.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	NEH 7:41 Wana wa Pashuri, 1, 247.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	NEH 7:42 Wana wa Harimu, 1, 017.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	NEH 7:43 Walawi, wana wa Yeshua, wa Kadmieli, wa Binui, wa Hodavia, 74.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:44 Waimbaji wana wa Asafu; 148.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 7:45 Waliofungua mlango wana wa Shalumu, wana wa Ateri, wana wa Talmoni; wana wa Akubu, wana wa Hatita, wana wa Shobai, 138.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:60 Watumishi wote wa hekalu, na wana wa watumishi wa Sulemani, walikuwa 392.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 7:62 wana wa Delaya, wana wa Tobia, na wana wa Nekoda, 642.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NEH 7:66 Kusanyiko lote lilikuwa 42, 360,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	NEH 7:67 isipokuwa watumishi wao wa kiume na watumishi wao wa kike, ambao walikuwa 7, 337. Walikuwa na wanaume na wanawake wa kuimba 245.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	NEH 7:68 Farasi zao zilikuwa 736 kwa idadi, nyumbu zao, 245,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NEH 7:69 ngamia zao, 435, na punda zao, 6, 720.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NEH 7:70 Baadhi ya wakuu wa familia za baba zao walitoa zawadi kwa ajili ya kazi. Gavana alitoa sadaka ya darkoni elfu ya dhahabu, mabakuli 50, na mavazi 530 ya makuhani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	NEH 7:71 Baadhi ya wakuu wa familia za baba zao waliwapa katika hazina kwa kazi darkroni elfu ishirini za dhahabu na mane 2, 200 za fedha.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 11:6 Wana wote wa Peresi waliokaa Yerusalemu walikuwa 468. Walikuwa masujaa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 11:8 Na baada yake, Gabai na Salai, watu 928.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 11:12 na wenzake waliofanya kazi ya ukoo, watu 822. na Adaya mwana wa Yerohamu, mwana wa Pelalia, mwana wa Amzi, ​​mwana wa Zekaria, mwana wa Pashuri, mwana wa Malkiya.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 11:13 Nao walikuwa washirika wake waliokuwa wakuu wa jamaa, wanaume 242, na Maasai mwana wa Azareli, mwana wa Azai, mwana wa Meshilemothi, mwana wa Imeri;	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	8	NEH 11:14 na ndugu zao, 128 wapiganaji wenye ujasiri, wenye ujasiri; Waziri wao aliyeongoza alikuwa Zabdieli, mwana wa Hageoli.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	NEH 11:18 Katika mji wote mtakatifu walikuwa Walawi 284.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	NEH 11:19 Walinzi wa malango Akubu, Talmoni, na washirika wao, ambao waliolinda milango, wanaume 172.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	EST 1:1 Katika siku za utawala wa Ahasuero (huyu ni Ahasuero aliyetawala toka India hadi Ethiopa, zaidi ya majimbo 127),	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EST 1:4 Mfalme akaweka wazi utajiri na utukufu wa ufalme wake na heshima ya ukufu wa ukuu alio upata kwa siku nyingi, kwa siku180.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	EST 8:9 Kisha waandishi wa mfalme wakakusanyika kwa wakati huo huo katika mwezi wa tatu, ambao ni mwezi wa Sivani, siku ya ishirini ya mwezi wa tatu. Mbiu iliandikwa yote ambayo Modekai aliyaamuru kwa Wayahudi watendewe na wenyeji wa kila jimbo. Mbiu iliandikwa kwa maakida magavana na wakuu wa majimbo yote yaliyokuwa toka India hadi Ethiopia, majimbo 127 kila jimbo iliandikwa kuwa maandishi yake, na kila watu kwa lugha yao, na kwa Wayahudi kwa maandishi na lugha yao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	7	EST 9:30 Barua zilipelekwa katika majimbo 127 ya mfalme Ahusiero, zikiwatakia Wayahudi wote amani na kweli.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JOB 42:16 Baada ya haya, Ayubu aliishi miaka 140; aliwaona wana wake na wana wa wanawe, hata kizazi cha nne.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	ISA 37:36 Halafu malaika wa Yahwe alienda nje na kuvamia kambi ya Waasiria, na kuwauwa askari 185, 000. Watu walipoamka asubuhi na mapema, miili iliyokufa imelala kila mahali.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	JER 52:28 Hawa walikuwa watu Nebukadneza aliwaamisha: katika mwaka wa saba, Wayudea 3, 023.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	2	JER 52:29 Katika mwaka wa kumi na nane wa Nebukadneza alichukuwa 832 kutoka Yerusalemu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	JER 52:30 Katika mwaka wa ishirini na tatu wa Nebukadneza, Nebuzaradani, jemedari wa walinzi wa mfalme, aliwahamisha Wayudea 745. Jumla ya watu walioamishwa walikuwa 4, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZE 4:5 Mimi mwenyewe nakuagiza kwako siku moja kuwakilisha kila mwaka wa adhabu yao: siku 390! Katika njia hii, utachukua dhambi ya nyumba ya Israeli.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZE 4:9 Chukua ngano kwa ajili yako, shayiri, dengu, mtama, kusemethi; viweke kwenye chombo kimoja na tengeneza mkate kwa ajili yako kulingana na hesabu ya siku ambazo utakazo lala katika ya upande wako. Kwa siku 390 utaula.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZE 48:16 Hivi ndivyo vitakuwa vipimo vya mji: upande wa kaskazini utakuwa ridhaa 4, 500 urefu; upande wa kusini utakuwa ridhaa 4, 500 urefu; upande wa magharibi utakuwa ridhaa 4, 500 urefu; na magharibi itakuwa ridhaa 4, 500 urefu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZE 48:17 Kutakuwa na malisho ya mji kuelekea kaskazini, ridhaa 250 kwenda chini; hata kusini, ridhaa 250 kwenda chini; kuelekea mashariki, ridhaa 250 kwenda chini, na kuelekea magharibi ridhaa 250 kwenda chini.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZE 48:30 Hawa ndio watakaoishi kutoka kwenye nchi: upande wa kaskazini, ambapo patapimwa ridhaa 4, 500 kwa urefu,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZE 48:32 Kwa upande wa mashariki, ambapo patapimwa ridhaa 4, 500 kwa urefu, kutakuwa na malango matatu: lango moja kwa ajili ya Yusufu, lango moja kwa ajili ya Benjamini, na lango moja kwa ajili ya Dani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZE 48:33 Kwa upande wa mashariki, kutakuwa na kipimo cha ridhaa 4, 500 urefu, kutakuwa na malango matatu: lango moja kwa ajili ya Simioni, lango moja kwa ajili ya Isakari, na moja kwa ajili ya Zebuloni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	EZE 48:34 Kwa upande wa magharibi, ambao kipimo chake kitakuwa ridhaa 4, 500, kutakuwa ba malango matatu: lango moja kwa ajili ya Gadi, lango moja kwa ajili ya Asheri, na lango moja kwa ajili ya Naftali.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	DAN 6:1 Ilimpendeza Dario kuchagua juu ya ufalme magavana wa majimbo 120 ambao wangetawala juu ya ufalme wote.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	DAN 8:14 Aliniambia, “ Itadumu kwa jioni na asubuhi zipatazo 2, 300. Baada ya hapo, mahali patakatifu patawekwa sawa.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	DAN 12:11 Katika muda ule ambapo sadaka ya kawaida ya kuteketezwa itakapokuwa imeondolewa na chukizo la uharibifu liliosababisha ukiwa limesimamishwa, kutakuwa na siku zipatazo 1, 290.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	5	DAN 12:12 Ana heri mtu yule anayengojea mpaka mwisho wa siku 1, 335.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	MAT 17:21 (Zingatia: Maneno ya msitari wa 21 “Lakini, aina hii ya pepo haiwezekani kutoka, ila kwa maombi na Kufunga” hayaonekani katika nakala bora za kale).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	MAT 18:11 (Zingatia: Maneno yanayoonekana kama ya msitari wa 11, “Kwa kuwa Mwana wa Adamu alikuja kuokoa kile kilichokuwa kimepotea” hayakuonekana katika nakala bora za kale).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	MAT 23:14 (Zingatia: Msitari wa 14 hauonekani katika nakala bora za kale. Baadhi ya nakala huongeza msitari huu baada ya msitari wa 12. Msitari wa 14 “Ole wenu wandishi na Mafarisayo wanafiki! Kwa kuwa mnawameza wajane”).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	MAR 16:9 (Zingatia: Nakala za kale hazina Marko 16: 9-20) Mapema katika siku ya kwanza ya juma, baada ya kufufuka, alimtokea kwanza Mariamu Magdalena, ambaye kutoka kwake alimtoa mapepo saba.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	MAR 16:12 (Zingatia: Nakala za kale hazina Marko 16: 9-20) Baada ya hayo, akajitokeza katika namna tofauti kwa watu wengine wawili, wakati walipokuwa wakitembea kutoka katika nchi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	MAR 16:14 (Zingatia: Nakala za kale hazina Marko 16: 9-20) Yesu baadaye akajitokeza kwa wale kumi na mmoja walipokuwa wameegama katika meza, na akawakemea kwa kutokuamini kwao na ugumu wa mioyo, kwa sababu hawakuwaamini wale waliomwona baada ya kufufuka kutoka kwa wafu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	MAR 16:17 (Zingatia: Nakala za kale hazina Marko 16: 9-20) Ishara hizi zitaambatana na wote waaminio. Kwa jina langu watatoa pepo. Watasema kwa lugha mpya.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	JOH 5:3 Idadi kubwa ya wagonjwa ilikuwemo, vipofu, viwete, au waliopooza walikuwa wamelala katika matao hayo. {Zingatia: Maneno ya mstari wa 3 hayaonekani katika nakala nzuri za kale. “Wakisubiri maji kutibuliwa.”) Kwa hakikia wakati fulani malaika alishuka ndani ya Bwana na kuyatibua maji.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	JOH 7:53 (Zingatia: Baadhi ya maneno ya Yohana 7: 53 - 8: 11 hayamo katika nakala bora za kale). Kisha kila mtu alienda nyumbani kwake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	JOH 8:1 (Zingatia: Angalia ufafanuzi wa Yohana 7: 53 - 8: 11 hapo juu). Yesu alienda mlima wa Mizeituni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	JOH 8:4 (Zingatia: Angalia ufafanuzi wa Yohana 7: 53 - 8: 11 hapo juu). Ndipo wakamwambia Yesu, “Mwalimu, mwanamke huyu amekamatwa katika uzinzi, katika kitendo kabisa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	JOH 8:7 (Zingatia: Angalia ufafanuzi wa Yohana 7: 53 - 8: 11 hapo juu). Walipoendelea kumwuliza, alisimama na kuwaambia, “Yeye asiyekuwa na dhambi miongoni mwenu, awe wa kwanza kumponda mawe.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	1	JOH 8:9 (Zingatia: Angalia ufafanuzi wa Yohana 7: 53 - 8: 11 hapo juu). Waliposikia hayo, waliondoka mmoja baada ya mwingine, kuanzia aliye mzee. Mwishowe Yesu aliachwa peke yake, pamoja na mwanamke aliyekuwa katikati yao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	3	JOH 21:11 Basi Simon Petro akapanda na kuukokota ule wavu uliokuwa umejaa samaki wakubwa, kiasi cha samaki 153; japo walikuwa wengi, ule wavu haukuchanika.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	ACT 1:15 Katika siku zile Petro alisimama katikati ya ndugu, kama watu 120, akasema,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	ACT 24:5 Kwa maana tumempata mtu huyu mkorofi, na anasababisha Wayahudi wote kuasi duniani. Tena ni kiongozi wa madhehebu ya Wanazorayo. (Zingatia: Sehemu ya maneno ya mstari huu 24: 6	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	ACT 27:37 Tulikuwa watu 276 ndani ya meli.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	ROM 16:24 (Zingatia: Katika nakala halisi za kwanza, mstari huu haupo. Tazama Warumi 16: 20. “Neema ya Bwana Yesu Kristo ikae nanyi nyote. Amina.”)	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	GAL 3:17 Sasa nasema hivi, sheria ambayo ilikuja miaka 430 baadaye, haiondoi agano la nyuma lililowekwa na Mungu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 5:11 Kisha nilitazama na nikasikia sauti ya malaika wengi kuzunguka kiti cha enzi - idadi yao ilikuwa 200, 000, 000 na wenye uhai na wazee.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 7:4 Nikasikia idadi ya wale waliotiwa muhuri: 144, 000, ambao walitiwa muhuri kutoka kila kabila ya watu wa Israel:	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 7:5 12, 000 kutoka katika kabila ya Yuda walitiwa muhuri, 12, 000 kutoka katika kabila ya Rubeni, 12, 000 kutoka katika kabila ya Gadi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 7:6 12, 000 kutoka katika kabila ya Asheri, 12, 000 kutoka katika kabila ya Naftali, 12, 000 kutoka katika kabila ya Manase.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 7:7 12, 000 kutoka kabila ya Simioni, 12, 000 kutoka kabila ya Lawi, 12, 000 kutoka kabila ya Isakari,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 7:8 12, 000 kutoka kabila ya Zebuloni, 12, 000 kutoka kabila ya Yusufu, na 12, 000 kutoka kabila ya Benyamini walitiwa muhuri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 9:16 Idadi ya maaskari waliokuwa juu ya farasi ilikuwa 200, 000, 000. Nilisikia idadi yao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 11:3 Nitawapa mashahidi wangu wawili mamlaka ya kutabiri kwa muda wa siku 1, 260, wakiwa wamevaa magunia.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 12:6 na mwanamke alikimbilia nyikani, mahali ambapo Mungu alikuwa ameandaa eneo kwa ajili yake, ili aweze kuhudumiwa kwa siku 1, 260.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	6	REV 13:18 Hii inahitaji busara. Ikiwa yeyote ana ufahamu, mwache aweze kufanya hesabu ya namba ya mnyama. Maana ni namba ya kibinadamu. Namba yake ni 666.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 14:1 Nilitazama na nikaona Mwana Kondoo amesimama mbele yangu juu ya Mlima Sayuni. Pamoja naye walikuwa 144, 000 wenye jina lake na jina la Baba yake limeandikwa katika vipaji vya nyuso zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 14:3 Wakiimba wimbo mpya mbele za kiti cha enzi na mbele za wenye uhai wanne na wazee. Hakuna hata mwenye uwezo wa kujifunza huo wimbo isipokuwa kwa 144, 000 ambao wamekombolewa kutoka duniani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 14:20 Chujio la divai lilipondwapondwa nje ya mji na damu ikamwagika kutoka katika hicho kimo cha hatamu ya farasi, kwa stadia 1, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	0	REV 21:16 Mji uliwekwa ndani ya mraba; urefu wake ulikuwa sawa na upana wake. Alipima mji kwa kipimio cha fimbo, stadia 12, 000 kwa urefu (urefu wake, upana, na kimo vilifanana).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	4	REV 21:17 Vilevile alipima ukuta wake, unene wake ulikuwa dhiraa 144 kwa vipimo vya kibinadamu (ambavyo pia ni vipimo vya malaika).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Source	count	388	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Wakati Adamu alipokuwa ameishi miaka 130, akamzaa mwana katika sura yake mwenyewe, kwa mfano wake, na akamuita jina lake Sethi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	930	001-GEN-005-005 Adamu akaishi miaka 930 kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	105	001-GEN-005-006 Wakati Sethi alipokuwa ameishi miaka 105, akamzaa Enoshi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	807	001-GEN-005-007 Baada ya kumzaa Enoshi, akaishi miaka 807 na akawazaa wana wengi waume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	912	001-GEN-005-008 Sethi akaishi miaka 912 kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	815	001-GEN-005-010 Baada ya kumzaa Kenani, Enoshi aliishi miaka 815. Akazaa wana wengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Enoshi aliishi miaka 905 na kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Baada ya kumzaa Mahalaleli, Kenani aliishi miaka 840. Akawazaa wana wengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Kenani aliishi miaka 910, na kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	830	001-GEN-005-016 Baada ya kumzaa Yaredi, Mahalaleli aliishi miaka 830. Akazaa wana wengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Mahalaleli aliishi miaka 895 na kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Yaredi alipokuwa ameishi miaka 162, alimzaa Henoko.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Yaredi aliishi miaka 962 na kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Henoko aliishi miaka 365.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Wakati Methusela alipokuwa ameishi miaka 187, alimzaa Lameki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	782	001-GEN-005-026 Baada ya kumzaa Lameki, Methusela aliishi miaka 782. Akawazaa wana wengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Methusela aliishi miaka 969. Kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Wakati Lameki alipokuwa ameishi miaka 182, alimzaa mwana.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Lameki aliishi miaka 595 baada ya kumzaa baba wa Nuhu. Akazaa wanawengi wa ume na wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Lameki aliishi miaka 777. Kisha akafariki.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	001-GEN-006-003 Yahwe akaema, “roho yangu haitasalia kwa mwanadamu milele, kwa kuwa wao ni nyama. Wataishi miaka 120.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	403	001-GEN-011-013 Alfaksadi aliishi miaka 403 baada ya kumzaa Shela. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	403	001-GEN-011-015 Shela aliishi miaka 403 baada ya kumzaa Eberi. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	430	001-GEN-011-017 Eberi aliishi miaka 430 baada ya kumzaa Pelegi. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	209	001-GEN-011-019 Pelegi aliishi miaka 209 baada ya kumza a Reu. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	207	001-GEN-011-021 Reu aliishi miaka207 baada ya kumzaa Seregu. Akawazaa pia wana wengine wa kiume na wa kike.	ERROR
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	119	001-GEN-011-025 Nahori aliishi mika 119 baada ya kumzaa Tera. Akawazaa pia wana wengine wa kiume na wa kike.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Tera akaishi miaka 205 kisha akafa hapao Harani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Abram aliposikia kuwa maadui wamemteka ndugu yake, akawaongoza wanaume waliofunzwa na kuzaliwa nyumbani mwake 318 na akawaongoza hadi Dani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	175	001-GEN-025-007 Hizi ndizo zilikuwa siku za miaka ya uhai wake Abraham alizoishi, miaka 175.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	137	001-GEN-025-017 Hii ndiyo ilikuwa miaka ya Ishimaeli, miaka 137: akapumua pumzi yake ya mwisho na akafa, na akakusanywa pamoja na watu wake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	110	001-GEN-050-026 Hivyo Yusufu akafa, mwenye miaka 110. Wakampaka dawa na akawekwa katika jeneza huko Misri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	137	002-EXO-006-016 Hapa yameorodheshwa majina ya wana wa Lawi, pamoja na uzo wao. Walikuwa ni Gerishoni, Kohathi, na Merari. Lawi aliishi mpaka alipo kuwa na miaka 137.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	133	002-EXO-006-018 Wana wa Kohathi walikuwa Amramu, Izhari, Hebroni, na uzieli. Kohathi aliishi hadi miaka 133.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	137	002-EXO-006-020 Amramu alimuoa Yokebedi, dada yake baba yake. Alimzalia Aruni na Musa. Amramu aliishi miaka 137 na akafa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	600	002-EXO-012-037 Waisraeli wakasafiri kutoka Ramesi kwenda Sakothi. Walikuwa na idadi ya wanaume 600, 000 kwa miguu, kuongezea kwa wanawake na watoto.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	430	002-EXO-012-040 Waisraeli waliishi Misri kwa miaka 430.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	430	002-EXO-012-041 Baada ya miaka 430, siku hiyo hiyo, majeshi yote ya Yahweh yalio jiami waliondoka kutoka nchi ya Misri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	250	002-EXO-030-023 “Jitwalie manukato yaliyo bora, manemane mbichi shekeli mia tano, na mdalasini wenye harufu nzuri 250, na kane shekeli 250	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	730	002-EXO-038-024 Dhahabu yote iliyotumiwa kwa ajili ya kazi katika kazi yote ya mahali patakatifu ikawa jumla ya dhahabu ya toleo la kutikisa, talanta ishirini na tisa na shekeli 730 kulingana na shekeli ya mahali patakatifu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	002-EXO-038-025 Nayo fedha ya wale walioandikishwa kati ya kusanyiko ilikuwa talanta mia moja na shekeli 1, 775 kulingana na shekeli ya mahali patakatifu,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	603	002-EXO-038-026 ile nusu shekeli kwa ajili ya mtu mmoja ilikuwa nusu shekeli kulingana na shekeli ya mahali patakatifu, Kwa kila mtu aliyekuwa akipita kuingia upande wa wale waliokuwa wameandikishwa kuanzia miaka ishirini na zaidi, jumla ya watu 603, 550.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	002-EXO-038-028 Na kutokana na zile shekeli 1, 775 alifanyiza vibanio vya nguzo na kuvifunika sehemu yake ya juu na kuviunganisha pamoja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	002-EXO-038-029 Nayo shaba ya toleo la kutikisa ilikuwa talanta sabini na shekeli 2, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	46	004-NUM-001-021 Waliwahesabu wanaume 46, 000 kutoka ukoo wa Reubeni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	59	004-NUM-001-023 Walihesabu wanaume 59, 300 kutoka kabila la Simeoni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	45	004-NUM-001-025 Walihesabu wanaume 45, 650 kutoka kabila la Gadi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	74	004-NUM-001-027 walihesabiwa wanume 74, 000 kutoka kabila la Yuda.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	54	004-NUM-001-029 Walihesabiwa wanaume 54, 000 kutoka kabila la Isakari.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	57	004-NUM-001-031 Walihesabiwa wanume 57, 400 kutoka kabila la Zabuloni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	40	004-NUM-001-033 Walihesabiwa wanaume 40, 500 kutoka kabila la Efraimu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	32	004-NUM-001-035 Walihesabiwa wanaume 32, 000 kutoka kabila la Manase.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	35	004-NUM-001-037 Walihesabiwa wanaume 35, 000 kutoka kabila la Benjamini.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	62	004-NUM-001-039 Walihesabiwa wanaume 62, 000 kutoka kabila la Dani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	41	004-NUM-001-041 Walihesabiwa wanaume 41, 500 kutoka ukoo wa Asheri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	53	004-NUM-001-043 Walihesabiwa wanaume 53, 400 kutoka kabila la Naftari	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	603	004-NUM-001-046 Walihesabu wanaume 603, 550.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	74	004-NUM-002-004 Idadi ya watu wa Yuda ni 74, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	54	004-NUM-002-006 Idadi ya kikosi chake ni wanaume 54, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	57	004-NUM-002-008 Idadi ya kikosi chake ni 57, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	186	004-NUM-002-009 Idadi yote ya kambi y a Yuda ni 186, 400. Watakuwa wa kwanza kuondoka.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	46	004-NUM-002-011 Idadi ya kikosi chake ni 46, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	59	004-NUM-002-013 Waliohesabiwa kwenye kikosi chake ni 59, 300.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	45	004-NUM-002-015 Idadi ya kikosi chake ni 45, 650.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	151	004-NUM-002-016 Wote waliohesabiwa kwenye kambi ya Reubeni, kulingana na kikosi chake, ni 151, 450. Watakuwa wa pili kuondoka.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	40	004-NUM-002-019 Hesabu ya kikosi hiki ni 40, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	32	004-NUM-002-021 Hesabu ya kikosi hiki ni 32, 200.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	35	004-NUM-002-023 Hesabu ya kikosi hiki ni 35, 000	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	108	004-NUM-002-024 Wote waliohesabiwa katika kambi ya Efraimu ni 108, 100. Watakuwa wa tatu kuondoka.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	62	004-NUM-002-026 Hesabu ya kikosi hiki ni 62, 700.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	41	004-NUM-002-028 Hesabu ya Kikosi hiki ni 41, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	53	004-NUM-002-030 Hesabu ya kikosi hiki ni 53, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	157	004-NUM-002-031 Wote waliohesabiwa kwenye kambi ya Dani ni 157, 600. Hawa watakuwa wa mwisho kuondoka kambini, wakifuata bango lao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	603	004-NUM-002-032 Hawa ndio Waisraeli, waliohesabiwa kufuata familia zao. Wote waliohesabiwa kwenye kambi zao, kwa kufuata vikosi vyao ni 603, 550.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	004-NUM-003-022 Wanaume wote wenye umri wa mwezi mmoja au zaidi walihesabiwa na kufikia idadi ya 7, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	8	004-NUM-003-028 Wanaume 8, 600 wenye umri wa mwezi mmoja au zaidi walihesabiwa ili kulinda vitu vya BWANA.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	6	004-NUM-003-034 Wanaume 6, 200 wenye umri wa mwezi mmoja na zaidi walihesabiwa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	22	004-NUM-003-043 Aliwahesabu wazaliwa wote wa kwanza kwa mjina, wenye umri wa mwezi mmoja na zaidi. Alihesabu wanaume 22, 273.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	273	004-NUM-003-046 Unikusanyie shekeli tano za wokovu kwa kila hao 273 za hao wazaliwa wa kwanza wa Israeli za hao wanaozidi idadi ya Walawi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	004-NUM-003-050 Musa akakusanya zile fedha kutoka kwa hao wazaliwa wa kwanza wa wana wa Israeli. Alikusanya jumla ya shekeli 1, 365, zenye kipimo sawa na mahali patakatifu. Musa akamlipa Haruni na wanawe hizo shekeli za wokovu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	004-NUM-004-036 Waliwahesabu wanaume 2, 750 kwa kufuata koo zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	004-NUM-004-040 Wanaume wote waliohesabiwa kufuata koo na familia za mababu zao walikuwa 2, 630.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	004-NUM-004-044 Wanaume wote waliohesabiwa kupitia koo za familia za mababu zao walikuwa 3. 200.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	8	004-NUM-004-048 Waliwahesabu wanaume 8, 580.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-013 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli moja ya fedha ambayo uzito wake ni shekeli sabini, kwa kipimo cha mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-019 Sadaka yake ilikuwa sahani moja ya fedha ya uzito wa shekeli130 na bakuli moja la fedha lenye uzani wa sheli sabini, kwa kipimo cha mahali patakatifu. Viyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kwa sadaka ya unga.	ERROR
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-025 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130, na bakuli moja la fedha lenye uzito wa shekeli sabini kwa kipimo cha shekeli za mahali patakatifu. vyombo vyote hivi vilikuwa vimeja unga mwembemba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-031 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli moja la fedha lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo hivi vyote vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-037 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shaekali 130 na bakuli mojala fedha lenye uzani wa shekeli sabini kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-043 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli la shaba lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo hivi vyote vilikuwa vimejaa unga mwembemba uliochanganywa na mafuta kwa ajili ya sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-049 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli la fedha lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo hivi vyote ilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-055 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli130 na bakuli moja la fedha lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	ERROR
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-061 Sadaka yake ilikuwa sahani moja yafedha yenye uzani wa sheli 130 na bakuli moja la fedha lenye uzito wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-067 Alitoa sahani moja ya fedha yenye uzani wa shaekeli 130 na bakuli moja lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-073 Sadaka yake ilikuwa sahani moja ya fedha yenye uzani wa shekeli 130 na bakuli moja la fedha lenye uzani wa shekeli sabani, kwa kipimo cha shekeli ya mahali patakatifu. Vyombo vyote hivi ilikuwa vimejaa unga mwembamba uliochanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-079 Sadaka yake ailikuwa sahani moja ya fedha yenye uzani wa shaekeli 130 na bakuli moja la fedha lenye uzani wa shekeli sabini, kwa kipimo cha shekeli za mahali patakatifu. Vyombo vyote hivi vilikuwa vimejaa unga mwembamba ulichanganywa na mafuta kuwa sadaka ya unga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	004-NUM-007-085 Zile sahani za fedha kila moja ilikuwa na uzani wa shaekeli 130 na kila bakuli ye fedha ilikuwa na uzani wa shekeli sabini. Vyombo vyote vya fedh vilikuwa na ujumla ya uzani wa shekeli 2, 400, kwa kipimo cha shekeli za mahali patakatifu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	004-NUM-007-086 Vile vijiko vya dhahabu vilivyokuwa vimejaa ubani, vilikuwa na uzani wa shekeli kumi kila kimoja. Vijiko vyote vya dhahabu vilikuwa na uzani wa shekeli 120.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	600	004-NUM-011-021 Kisha Musa akasema, “Mimi nina watu 600, 000, na wewe umesema, “Nitawapa nyama mle kwa mwezi mmoja,'	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	250	004-NUM-016-035 Kisha moto ukashuka toka kwa BWANA na kuwaangamiza wale wanaume 250 waliokuwa wametoa ubani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	14	004-NUM-016-049 Idadi ya wale waliokuwa wamekufa kwa tauni walikuwa 14, 000, nje na wale waliokufa kutokana na swala la Kora.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	43	004-NUM-026-007 Hizi ndizo zilikuwa koo za uzao wa Reubeni, ambzo idadi yao ilikuwa wanaume 43, 730.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	250	004-NUM-026-010 Pale ambapo dunia ilifungua kinywa na kuwameza pamoja na Kora wakati ambapo wafuasi wa Kora walikufa. Wakati ule, moto uliteketeza wanaume 250, amboa wlikuwa ishara ya onyo.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	22	004-NUM-026-014 Hizi ndizo koo za uzao wa Simeoni, idadi yao ilikuwa wanaume 22, 200.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	40	004-NUM-026-018 Hizi ndizo koo za uzao wa Gadi, idadi yao walikuwa wanaume 40, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	76	004-NUM-026-022 Hizi ndizo zilizokuwa koo za Yuda, idadi yao ilikuwa wanaume 76, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	64	004-NUM-026-025 Hizi ndizo zilikuwa koo za Isakari, Idadi yao ilikuwa wanaume 64, 300.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	60	004-NUM-026-027 Hizi ndizo zilikuwa koo za Zabuloni, idadi y ao ilikuwa wanaume 60, 500.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	52	004-NUM-026-034 Hizi ndizo koo za Manase, idadi yao ilikuwa wanaume 52, 700.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	32	004-NUM-026-037 Hizi ndizo koo za uzao wa Efraimu, idadi yao ilikuwa wanaume 32, 500. Huu ndio uzao wa Yusufu, uliohesabiwa toka kila koo zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	45	004-NUM-026-041 Hizi ndizo koo za uzao wa Benjamini. Idadai yao ilikuwa wanaume 45, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	64	004-NUM-026-043 Idadi ya koo zote za Washuhamu ilikuwa wanaume 64, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	53	004-NUM-026-047 Hizi ndizo koo za uzao wa Asheri, idadi yao ilikuwa wanaume 53, 400.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	45	004-NUM-026-050 Hizi ndizo zilizokuwa koo za uzao wa Naftali, idadi yao walikuwa wanaume 45, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	601	004-NUM-026-051 Hii ndiyo iliyokuwa jumla kuu ya wanaume wa Israeli: 601, 730.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	675	004-NUM-031-032 Sasa zile nyara zilizokuwa zimebaki ambazo wanajeshi walikuwa wameteka zilikuwa kondoo 675, 000,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	337	004-NUM-031-036 Ile hesabu ya nusu iliyokuwa imetunzwa kwa ajili ya wanajeshi ilikuwa kondoo 337, 000. Ile sehemu ya	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	675	004-NUM-031-037 BWANA ya kondoo ilikuwa kondoo 675.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	30	004-NUM-031-039 Punda walikuwa 30, 500 ambao sehemu ya BWANA ilikuwa sitini na moja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	337	004-NUM-031-043 ile nusu y a watu ilikuwa kondoo 337, 500,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	30	004-NUM-031-045 punda 30, 500,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	16	004-NUM-031-052 Vitu vyote vya sadaka ya dhahabu ambavyo walimpa BWANA- sadaka toka kwa makamanda wa maelfu na kutoka kwa makepteni wa mamia - vilikuwa na uzito wa shekeli 16, 750.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	123	004-NUM-033-039 Haruni alikuwa na umri wa mika 123 alipokufa pale juu ya Mlima Hori.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	457	004-NUM-035-004 Hayo malisho yatakayozunguka miji hiyo ambayo mtawapa Walawi yataanzia kwenye maboma kwa ukubwa wa “mita 457” kila upande.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	110	006-JOS-024-029 Baada ya mambo haya, Yoshua mwana wa Nuni, mtumishi wa Yahweh, alikufa akiwa na miaka 110.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	110	007-JDG-002-008 Yoshua mwana wa Nuni, mtumishi wa Bwana, alikufa akiwa na umri wa miaka 110.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	600	007-JDG-003-031 Baada ya Ehudi, mwamuzi aliyefuata alikuwa Shamgari mwana wa Anathi ambaye aliwaua Wafilisti 600 kwa konzo la ng'ombe. Pia aliwaokoa Israeli kutoka kwenye hatari.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	007-JDG-008-010 Sasa Zeba na Salmuna walikuwa huko Karkori pamoja na jeshi lao, karibu na watu elfu kumi na tano, wote waliosalia nje ya jeshi lote la watu wa Mashariki, kwa kuwa walianguka watu 120, 000 waliofundishwa kupigana na upanga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	007-JDG-008-026 Uzito wa pete za dhahabu alizoomba zilikuwa shekeli 1, 700 za dhahabu. Nyara hizi zilikuwa ni pamoja na mapambo ya makoja, vidani, nguo ya rangi ya zambarau waliyovaa na wafalme wa Midiani, na zaidi ya minyororo iliyokuwa karibu na shingo za ngamia zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	007-JDG-016-005 Wale wakuu wa Wafilisti wakamwendea, wakamwambia, “mdanganye Samsoni ili uone mahali zilipo nguvu zake kuu, na kwa namna gani tunaweza kumshinda, ili tumfunge na kumtesa. Fanya hili, na kila mmoja wetu atakupa vipande 1, 100 vya fedha.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	007-JDG-017-002 Akamwambia mama yake, “Shilingi 1, 100 za fedha ambazo zilichukuliwa kutoka kwako, ambazo ulizungumza kwa kiapo, na kuniambia-tazama hapa! Ninazo fedha pamoja nami. Nimeziiba.” Mama yake akasema, 'Na Bwana atakubariki, mwanangu!'	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	007-JDG-017-003 Alirejesha vipande 1, 100 vya fedha kwa mama yake na mama yake akasema, “Nimeweka fedha hii kwa Bwana, kwa ajili ya mwanangu kuifanya na kuchonga takwimu za chuma.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	400	007-JDG-020-002 Viongozi wa watu wote, wa kabila zote za Israeli, wakachukua nafasi zao kwenye kusanyiko la watu wa Mungu-watu 400, 000 waendao kwa miguu, ambao walikuwa tayari kupigana na upanga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	400	007-JDG-020-017 Watu wa Israeli, bila kuhesabu namba kutoka kwa Benyamini, walikuwa na watu 400, 000 waliokuwa wamejifunza kupigana na upanga. Wote hawa walikuwa watu wa vita.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	25	007-JDG-020-035 Bwana akamshinda Benyamini mbele ya Israeli. Siku hiyo, askari wa Israeli waliwauawa watu wa Benyamini 25, 100. Wote hawa waliokufa walikuwa wale waliokuwa wamejifunza kupigana na upanga.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	8	009-1SA-001-006 Hasimu wake alimchokoza sana ili kumkasilisha, kwa sababu BWANA alikuwa amelifunga tumbo lake. 8	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	18	009-1SA-001-016 Usimchukulie mjakazi wako kama mwanamke duni; nimekuwa nikiongea kutokana na maumivu na masikitiko yangu.” 18	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	8	009-1SA-003-006 BWANA akamwita tena, “Samweli.” Saamweli aliamka tena na kwenda kwa Eli na kusema, Niko hapa, sababu umeniita.” Eli akajibu, “Sijakuita, mwanangu; kalale tu tena.” 8	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	14	009-1SA-003-011 BWANA akasema na Samweli, “Tazama, Niko tayari kufanya jambo katika Israeli ambalo masikio ya kila mmoja akisikia atashtuka. -14	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	16	009-1SA-003-014 Hii ndiyo sababu nimeapa kwa nyumba ya Eli, kwamba dhambi za nyumba yake hazitasahehewa kwa dhabihu au kwa sadaka kamwe.” 16	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	18	009-1SA-003-016 Kisha Eli akamwita Samweli na kusema, “Samweli, mwanangu.” Samweli akasema, “Niko hapa.” 18	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	8	009-1SA-007-006 Wakakusanyika Mispa, wakateka maji na kuyamwaga chini mbele za BWANA. Siku hiyo walifunga na kusema, “Tumemfanyia BWANA dhambi.” Hapo Mispa ndipo Samweli aliwaamu na kuwaongoza watu wa Iraeli. -8	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	009-1SA-016-019 Hivyo Sauli akawatuma wajumbe kwa Yese, na kusema, “Nitumie mtoto wako Daudi, anayewatunza kondoo.” 1 Samweli! 6: 20-21	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	009-1SA-018-018 Daudi akamwambia Sauli, “Mimi ni nani, na maisha yangu yana nini, au hata maisha ya familia ya baba yangu katika Israeli, kiasi cha kuwa mkwe wa mfalme?” 1 Samweli 18-19-19	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	360	010-2SA-002-031 Lakini watu wa Daudi walikuwa wameua watu 360 wa Benjamini na Abneri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	010-2SA-008-004 Daudi aliteka magari 1, 700 ya farasi na askari ishirini elfu waendao kwa miguu. Daudi akawakata miguu farasi wa magari, lakini akahifadhi wakutosha magari mia moja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	800	010-2SA-024-009 Ndipo Yoabu alipotoa taarifa ya hesabu kamili kwa mfalme kuhusu watu wawezao kupigana vita. Katika Israeli kulikuwa na watu 800, 000 jasiri wawezao kutoa upanga, na wale wa Yuda walikuwa watu 500, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	011-1KI-005-016 zaidi ya hao, walikuwepo maakida 3, 300 ambao pia waliokuwa wakiisimamia hiyo kazi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	480	011-1KI-006-001 Kwa hiyo Sulemani akaanza kulijenga hekalu. Hii ilikuwa mwaka wa 480 baada ya wana wa Israeli kutoka katika nchi ya Misri, katika mwaka wa nne wa utawala wa Sulemani huko Israeli, katika mwezi wa Ziv, ambao ndio mwezi wa pili.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	27	011-1KI-006-002 Hekalu ambalo mfalme Sulemani alimjengea BWANA lilikuwa na urefu wa mita 27, na upana wa mita 9, na kimo cha mita 13. 5.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	9	011-1KI-006-003 Na ukumbi uliokuwa mbele ya hekalu ulikuwa na urefu wa mita 9 na upana wa mita 4. 5 sawa na upana wa sehemu kuu ya hekalu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	011-1KI-006-006 Kile chumba cha chini kilikuwa na upana wa mita 2. 3, kile cha kati kilikuwa na upana wa mita 2. 8. na kile cha tatu kilikuwa na upana wa mita 3. 2. upande wa nje akaupunguza ukuta wa nyumba pande zote, ili boriti zisishikamane ukutani mwa nyumba.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	011-1KI-006-010 Akajenga vyumba vya pembeni mwa hekalu, kila upande mita 2. 3 kwenda juu. Navyo vikaunganishwa na hekalu kwa mbao za mierezi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	9	011-1KI-006-016 Alijenga mita 9 ndani ya hekalu kwa mbao za miberoshi kutoka sakafuni hadi juu. Hiki ni chumba cha ndani, cha patakatifu sana.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	18	011-1KI-006-017 Ule ukumbu mkuu, ulikuwa mahali pakatifu amabao ulikuwa mbele ya patakatifu sana, ulikuwa wa mita 18. hapo kulikwa na mbao za mwerezi ndani ya hekalu, zilizokuwa zimechongwa kwa sura ya vibuyu na maua yaliyochanua.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	9	011-1KI-006-020 Kile chumba cha ndani kilikuwa na upana wa mita 9, na kimo cha mita 9. Sulemani alizifunika kuta kwa dhabahu na madhabahu aliifunika kwa mbao za mierezi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	011-1KI-006-023 Sulemani akatengeneza makerubi mawili kwa mbao za mizeituni, kila moja lilikuwa na kimo cha mita 4. 5 kwa ajili ya chumba cha ndani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	011-1KI-006-024 Bawa moja la kerubi wa kwanza lilikuwa na urefu wa mita 2. 3. Kwa hiyo kutoka ncha ya bawa moja hadi ncha ya bawa lingine kulikuwa na umbali wa mita 4. 5. Yule	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	011-1KI-006-025 kerubi mwingine naye alikuwa na bawa lenye kipimo cha mita 4. 5 Makerubi hawa walikuwa wanafanana kwa umbo na kwa vipimo.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	011-1KI-006-026 Kimo cha kerubi mmoja kilikuwa mita 4. 5 na yule wa pili alikuwa hivyo hivyo.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	46	011-1KI-007-002 Aliijenga ikulu iliyoitwa mwitu wa Lebanoni. Urefu wake ulikuwa mita 46, na upanawake ulikuwa mita 23, na kimo chake kilikuwa mita 14. Nayo ilikuwa na safu nne ya nguzo za mierezi na mithili ya mwerezi juu ya nguzo.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	23	011-1KI-007-006 Akatengeneza baraza lenye uerfu wa mita 23 na upana wa mita 14. Mbele yake kulikuwa na ukumbi ulioezekwa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	011-1KI-007-010 Msingi ulijengwa kwa mawe makubwa sana na ya thamani yenye urefu wa mita 3. 7 na mengine mita 4. 8.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	8	011-1KI-007-015 Huramu alizilemba zile nguzo mbili za shaba, kila moja ilikuwa na kimo cha mita 8. 3 na mzingo wa mita 5. 5.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	011-1KI-007-016 Akatengeneza taji mbili za shaba za kuwekwa juu ya zile nguzo. Kimo cha kila taji ilikuwa mita 2. 3.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	011-1KI-007-019 Zile taji kwenye vile vichwa vya nguzo za ukumbi zilikuwa zimepambwa kwa maua, yenye vimo vya mita 1. 8.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	011-1KI-007-023 Tena akafanya bahari ya kusubu ya, yenye mita 2. 3 kutoka ukingo hadi ukingo, kimo chake kilikuwa mita 4. 6, mziingo wake ulikuwa mita 13. 7.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	011-1KI-007-027 Huramu akatengeneza makalio kumi ya shaba. Kila kalio lilkuwa na urefu wa mita 1. 8, upana wa mita 1. 8, na kimo cha mita 1. 3.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	011-1KI-007-038 Huramu akatengeneza birika kumi za shaba. Birika moja liliweza kubeba bathi arobaini za maji. Kila birika lilikuwa mita 1. 8 toka birika moja hadi jingine na kulikuwa na birika moja katika kila kalio kati ya yale kumi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	011-1KI-008-063 Sulemani akatoa sadaka ya amani, ambayo aliifanya kwa BWANA: Nayo ilikuwa makisai elfu ishirini na mbili, na kondoo 120, 000. Kwa hiyo mfalme na watu wa Israeli wakaiweka wakfu nyumba ya BWANA.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	550	011-1KI-009-023 Hawa ndio waliokuwa maakida wakuu waliokuwa wakiwasimamia kazi za Sulemani, watu 550, walikuwa wasimamizi wa watu waliokuwa wakifanya kazi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	14	011-1KI-009-028 Walikwenda kwa Ofri pamoja na watumishi wa Sulemani. Kutoka huko walileta takribani tani 14. 5 za dhahabu kwa Sulemani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4500	011-1KI-010-010 Basi Malikia alimpatia mfalme zaidi ya kilo 4500 za dhahabu na kiasi kikubwa cha mawe ya thamani. Hapakuwahi kutokea kiasi kikubwa cha viungo kama hiki ambacho Malkia wa Sheba alitoa kwa mfalme Sulemani kuwahi kutolewa tena.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	011-1KI-010-026 Sulemani alikusanya pamoja magari n a wapanda farasi. Alikuwa na magari 1, 400 na wapanda farasi elfu kumi na mbili ambao alikuwa amewaweka kwenye miji ya magari pamoja naye Yerusalemu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	150	011-1KI-010-029 Magari yalinunuliwa kutoka Misri kwa shekeli mia sita za fedha kila moja, na farasi kwa shekeli 150 kila moja. Vitu vingi katika hivi baadaye viliuzwa kwa wafalme wote wa Wahiti na Aramu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	180	011-1KI-012-021 Rehoboamu alipofika Yerusalemu, akawakusanya wote wa nyumba ya Yuda na kabila la Benjamini; walichaguliwa wanaume wanajeshi 180, 000 ili wapigane na nyumba ya Israeli, kwa lengo la kurudisha ufalme kwa Rehoboamu mwana wa Sulemani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	68	011-1KI-016-024 Akakinunua kilima cha Samaria kutoka kwa Shemeri kwa kilo 68 za fedha. Akajenga mji juu ya mlima na ule mji akauita Samaria, kwa sababu ya jina la Shemeri, mmiliki wa awali wa kile kilima.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	450	011-1KI-018-019 Kwa hiyo sasa, Tuma neno na unikusanyie Israeli yote katika mlima Kameli, pamoja na manabii 450 wa Baali na wale manabii 400 wa Ashera wanaokula kwenye meza ya Yezebeli.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	450	011-1KI-018-022 Kisha Eliya akawaambia wale watu, “Mimi, pekee yangu, ndiye niliyebaki kuwa nabii wa BWANA, lakini manabii wa Baali wako 450.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	232	011-1KI-020-015 Ndipo Ahabu alipowataarifu wale vijna wanaowatumikia maliwali wa wilaya. Idadi yao ilikuwa 232. Baada yao aliwahesabu wanajeshi wote, jeshi lote la Israeli; idadi yao ilikuwa elfu saba.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	100	011-1KI-020-029 Kwa hiyo majeshi yakaweka kambi yakikabiliana kwa muda wa siku saba. Kisha siku ya saba vita vikaanza. Watu wa Israeli wakawaua Washami 100, 000 wanajeshi wa ardhini kwa siku moja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	100	012-2KI-003-004 Basi Mesha mfalme wa Moabu alifuga kondoo. Alikuwa akimpatia mfalme wa Israeli kondoo 100, 000 na manyoya ya kondoo dume 100, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	185	012-2KI-019-035 Ikawa kuhusu usiku huo ambao malaika wa Yahwe alitoka na kuvamia kambi ya Waashuru, akawaua maaskari 185, 000. Kisha watu wakaamka asubuhi na mapema, miili ya watu waliokuwa wamekufa ilikuwa imelala kila mahali.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	250	013-1CH-005-021 Walikamata wanya wao, pamoja na ngamia elfu hamsini, kondoo 250, 000, punda elfu mbili, na wanaume 100, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	22	013-1CH-007-002 Wana wa Tola walikuwa Uzi, Refaia, Yerie, Yamai, Ibisami, Shemueli. Walikua vichwa katika nyumba za baba yao, toka uzao wa Tola na waliorodheshwa kama mashujaa hodari miongoni mwa kizazi chao. Katika siku za Daudi walikua na idadi ya 22, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	22	013-1CH-007-007 Wana watano wa Bela walikuwa Ezibono, Uzi, Uzieli, Yerimoti, na Iri. Walikua ni wanajeshi na waanzilishi wa koo. Watu wao walikuwa na idadi ya wanaume wa vita 22, 034, kwa mujibu wa orodha zilizomilikiwa na koo za mababu zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	20	013-1CH-007-009 Orodha ya koo zao ilikua na idadi ya 20, 200 viongozi wa familia na wanaume wa vita.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	17	013-1CH-007-011 Wote hawa waikuwa wana wa Yediaeli. Waliorodheshwa katika ukoo orodha ilikuwa 17, 200 viongozi na wanaume wa vita imara kwa kazi ya jeshi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	150	013-1CH-008-040 Wana wa Ulamu walikuwa wanaume wa mapambano na warusha mishale wa zuri. Walikuwa na wana wengi na wajukuu, jumla ya 150. Wote hawa walikuwa uzao wa Benjamini.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	690	013-1CH-009-006 Kati ya uzao wa Zera alikuwa Yeuli. Uzao wao ulikuwa na namba 690.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	956	013-1CH-009-009 Ndugu zao waliandika kwenye orodha ya namba 956 ya vizazi vyao. Wanaume wote hawa walikuwa viongozi wa koo za mababu zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	013-1CH-009-013 Ndugu zao, ambao walikuwa viongozi katika koo za mababu zao, idadi ya 1, 760. Walikuwa ni wanaume wenye uwezo sana wa kufanya kazi katika nyumba ya Mungu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	212	013-1CH-009-022 Hawa wote walichaguliwa kana walinzi wa mageti ya kuingilia kwa idadi ya 212. Majina yao yaliandikwa kwenye kumbukumbu za watu katika vijiji vyao. Mtabiri aliwaweka Daudi na Samueli katika nafasi ya uaminifu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	6	013-1CH-012-024 Kutoka Yuda walio beba ngao na mkuki ni 6, 800, tayari kwa vita.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	013-1CH-012-025 Kutoka kwa Wasimeoni walikuwa 7, 100 wanaume wa mapambano.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	013-1CH-012-026 Kutoka kwa Walawi kulikuwa na wanaume wa mapambano 4, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	013-1CH-012-027 Yehoiada alikuwa kiongozi wa uzao wa Aruni, na kwa yeye walikuwa 3, 700.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	20	013-1CH-012-030 Kutoka kwa Waefraimu palikuwa na wanume wa mapambano 20, 800, wanaume maharufu kwenye familia za baba zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	28	013-1CH-012-035 Kutoka kwa Wadani palikuwa na wanaume 28, 600 wameandaliwa kwa ajili ya pambano.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	013-1CH-012-037 Kutoka upande wa pili wa Yordani, kutoka kwa Warubeni, Wagadi, na nusu kabila la Manase, palikuwa na wanaume 120, 000 wameandaliwa na silaha za kila namna kwa ajili ya pambano.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	013-1CH-015-005 Kutoka uzao wa Kohathi, palikuwa na Urieli kiongozi na ndugu zake, wanaume 120.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	220	013-1CH-015-006 Kutoka uzao wa Merari, palikuwa na Asaia kiongozi na ndugu zake, wanaume 220.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	013-1CH-015-007 Kutoka uzao wa Gerishomu, palikuwa na Yoeli kiongozi na ndugu zake, wanaume 130.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	200	013-1CH-015-008 Kutoka uzao wa Elizafani, palikuwa na Shemaia kiongozi na ndugu zake, wanaume 200.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	112	013-1CH-015-010 Kutoka uzao wa Uzieli, palikuwa na Aminadabu kiongozi na ndugu zake, wanaume 112.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	013-1CH-021-005 Yoabu akatoa taarifa ya idadi ya jumla ya wanaume wa mapambano kwa Daudi. Kulikuwa ndani ya Israeli wanaume 1, 100, 000 walio beba upanga. Yuda peke yake kulikuwa na wanajeshi 470, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	100	013-1CH-022-014 Sasa, ona, kwa bidii kubwa nimeandaa kwa ajili ya nyumba ya Yahweh talanta 100, 000 za dhahabu, talanta milioni moja za fedha, na shaba na chuma katika idadi kubwa. Pia nimetoa mbao na mawe. Lazima uongeze zaidi katika haya.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	288	013-1CH-025-007 Wao na kaka zao walikuwa na uwelewa na walifundishwa kutengeneza muziki kwa Yahweh walikuwa na idadi ya 288.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	013-1CH-026-030 Wa uzao wa Hebroni, Hashabia na kaka zake, wanaume wenye uwezo 1, 700, walikuwa wahusika wa kazi ya Yahweh na kazi ya mfalme. Walikuwa upande wa mgharibi mwa Yordani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	013-1CH-026-032 Yerija alikuwa na ndugu 2, 700, walio kuwa viongozi wenye uwezo katika familia. Daudi aliwafanya waangalizi wa makabila ya Rubeni na Gadi, na nusu kabila la Manase, kwa kila jambo linalo muhusu Mungu, na kwa mambo ya mfalme.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	100	013-1CH-029-007 Walitoa kwa ajili ya huduma ya nyumba ya Mungu talanta elfu tano na darkoni elfu kumi za dhahabu, talanta elfu kumi za fedha, talanta elfu nane za fedha, na talanta za chuma 100, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	014-2CH-001-014 Selemani akakusanya magari na wanaume waendesha farasi, naye alikuwa na magari 1, 400 na waendesha farasi kumi na mbili elfu ambao aliwaweka katika miji ya magari, pamoja naye, mfalme katika Yerusalemu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	150	014-2CH-001-017 Waliagiza gari kutoka Misiri kwa shekeli mia sita za fedha, na farasi mmoja kwa shekeli 150. Pia walinunua kutoka kwa wafalme wa Wahiti na wafalme wa Washamu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	014-2CH-002-002 Selemeni akateua wanaume elfu sabini wabebe mizigo, na wanaume elfu themanini wa kukata mbao katika mlima, na wanaume 3, 600 kwa ajili ya kusimamia.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	153	014-2CH-002-017 Selemani akawahesabu watu wageni waliokuwa katika nchi ya Israeli, kwa kutumia njia ya Daudi, baba yake, aliyoitumia kuwahesabu. Walikutwa wako 153, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	014-2CH-002-018 Miongoni mwao aliwateua sabini elfu ili wabebe mizigo, themanini elfu kuwa wakataji wa mbao katika milima, na 3, 600 kuwa wasimamizi wa kuwasimamia watu wafanye kazi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	014-2CH-005-012 Pia makuhani waliokuwa waimbaji, wote kwa ujumla wao, pamoja na Asafu, Hemani, Yeduthuni, na wana wao na ndugu zao, wakiwa wamevalia kitani safi na wakipiga matoazi, vinanda, na vinubi, wakaasimama upande wa mashariki wa mwisho wa madhabahu. Pamoja nao palikuwa na makuhuni 120 wakipuliza tarumbeta.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	014-2CH-007-005 Mfalme Selemani akatoa sadaka ya ng'ombe ishirini na mbili elfu na kondoo 120, 000 na mbuzi. Kwa hiyo mfalme na watu wote wakaiweka wakifu nyumba ya Mungu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	250	014-2CH-008-010 Pia hawa walikuwa wakuu wa wakuu wakisimamia wasimamizi waliokuwa wa mfalme Selemani, walikuwa 250, waliowasimamia watu walioifanya kazi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	450	014-2CH-008-018 Hiramu akatuma meli zake kupitia watumishi wake ambao walikuwa wana maji wenye uzoefu. Wakasafiri na Selemani na watumishi wa Semani hadi Ofiri. Wakachukua kutoka huko talanta 450 za dhahabu ambazo walimletea Selemani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	10	014-2CH-009-007 Wamebarikiwa watu wako, na watumishi wako ambao husimama mbele yako, kwa sababu wanaisikia hekima yako. (Baadhi ya maandiko yanasema, “Wambarikiwa wake zako”, ikidhaniwa kwamba kifungu hicho kinapaswa kusomeka kama ilivyo katika Wafalme 10: 8).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	014-2CH-009-009 Akampa mfalme talanta 120 za dhahabu na kiasi kikubwa manukato na vit vya thamani. Selemani hakupewa tena kiasi kikubwa cha manukato kama hiki amabacho alipewa na malakia wa Sheba.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	666	014-2CH-009-013 Sasa uzito wa dhahabu ambayo ililetwa kwa Selemani ndani ya mwaka mmoja ulikuwa talanta 666 za dhahabu,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	180	014-2CH-011-001 Rehoroboamu alipofiki Yerusalemu, akawakusanya nyumba ya Yuda na Benyamini, wanaume 180, 000 walaiaochaguliwa amabao wliakuwa wanajeshi, kwa ajili ya kupigana dhiidi ya Israeli, ili kuurudisha ufalme kwa Rehoboamu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	400	014-2CH-013-003 Abiya akaingia vitani na jeshi la askari, wenye nguvu, hodari, 400, 00 wanaume waliochaguliwa. Yeroboamu akapanga mistari ya vita dhidi yake yenye 800, 00 wanaume askari waliochaguliwa, wenye nguvu, hodari.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	500	014-2CH-013-017 Abiya na jeshi lake wakawaua kwa mauji makuu; 500, 000 watu wanaume waliochaguliwa wa Israeli wakaanguka wamekufa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	300	014-2CH-014-008 Asa alikuwa na jeshi ambalo lilibeba ngao na mikuki; kutoka Yuda alikuwa na wanaume 300, 000, na kutoka Benyamini, wanaume 280, 000 waliobeba ngao na kuvuta pinde.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	014-2CH-017-011 Baadhi ya Wafilisti wakamletea Yehoshafati zawadi, fedha kama kodi. Waarabu pia wakamletea makundi, 7, 700 kondoo waume, na mbuzi 7, 770.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	300	014-2CH-017-014 Hapa ni rodha yao, wamepangwa kwa majina ya nyumba za baba zo: Kutoka Yuda, maakida wa maelfu; Adna yule jemedari, na pamoja naye wanaume wa kwenda vitani 300, 000;	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	280	014-2CH-017-015 akifuatiwa na Yehonani jemedari, na pamoja naye wanaume 280, 00;	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	200	014-2CH-017-016 akifuatiwa na Amasia mwana wa Zikri, ambaye kwa hiari alijitoa kumtumikia Yahwe; na pamoja naye wanaume wa kwenda vitani 200, 000.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	200	014-2CH-017-017 Kutoka Benyamini: Eliada mtu jasiri, na pamoja naye watu 200, 000 waliovaa upinde na ngao;	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	180	014-2CH-017-018 akifutiwa na Yehozabadi, na pamoja naye askari 180, 000 waliotayari kwa vita.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	130	014-2CH-024-015 Yehoyada akazeeka na alaaikuwa amejaa siku, na kisha akafa; alikuwa na umri wa mika 130 alipokufa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	300	014-2CH-025-005 Aidha, Amazia aliwakusanya Yuda pamoja, na akawaandikisha kwa kufuata nyumba za babu zao, chini ya maakida wa maelfu na maakida wa mamia —wote wa Yuda na wa Benyamini. Akawahesabu kuanzia wa mika ishirini na kuendelea, na akawaona wako 300, 000 wanaume waliochaguliwa, wawezaoa kwenda vitani, walioweza kushika mkuki na ngao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	100	014-2CH-025-006 Pia alikodi wanaume wa kupigana 100, 000 kutoka Israeli kwa fedha mia moja.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	014-2CH-026-012 Jumla ya wakuu wa nyumba za mababu, watu wa kupigana vita, walikuwa 2, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	307	014-2CH-026-013 Chini ya mkono wao kulikuwa na jeshi la watu 307, 500 ambao walifanya vita kwa nguvu ili kumsaidia mfalme idi ya maadui.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	014-2CH-028-006 Kwa maana Peka mwana wa Remalia, aliwaua katika Yuda wanajeshi 120, 00 kwa siku moja, wote walikuwa wanaume hodari, kwa maana walikuwa wamemsahau Yahwe, Mungu wa babu zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	200	014-2CH-028-008 Jeshsi la Israeli likachukua mateka kutoka kwa ndugu zao 200, 000 wake, wana, na mabinti. Pia wakachukua nyara nyingi, ambazo walipeleka Samaria.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	014-2CH-035-008 Viongozi wake wakatoa sadaka za hiari kwa watu, makuhani, na Walawi. Hilki, Zekaria, na Yeieli, viongozi wasimamizi wa nyumba ya Mungu, wakawapa makuhani ndama 2, 600 na maksai mia tatu kwa ajili ya matoleo ya Paska.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	410	015-EZR-001-010 mabakuli thelathini ya dhahabu, mabakuli madogo ya fedha 410, na vitu elfu moja vya kuongezea.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	5	015-EZR-001-011 Kulikuwa na vitu 5, 400 vya fedha na dhahabu. Sheshbaza akavileta vyote wakati wa uhamisho kutoka Babeli kwenda Yerusalem.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	015-EZR-002-003 Waporoshi: 2, 172	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	372	015-EZR-002-004 Wana wa Shefatia: 372	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	775	015-EZR-002-005 Wana wa Ara: 775.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	015-EZR-002-006 Wana wa Path-Moabu, kupitia Yeshua na Yoabu: 2, 812.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	015-EZR-002-007 Wana wa Eliamu: 1, 254.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	945	015-EZR-002-008 Wana wa Zatu: 945.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	760	015-EZR-002-009 Wana wa Zakai: 760.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	642	015-EZR-002-010 Wana wa Binui: 642.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	623	015-EZR-002-011 Wana wa Bebai: 623.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	015-EZR-002-012 Wana wa Azgadi: 1, 222.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	666	015-EZR-002-013 Wana wa Adonikamu: 666.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	015-EZR-002-014 Wana wa Bigwai: 2, 056.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	454	015-EZR-002-015 Wana wa Adini: 454.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	323	015-EZR-002-017 Wana wa Besai: 323.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	112	015-EZR-002-018 Wana wa Harifu: 112.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	223	015-EZR-002-019 Wanaume wa Hashimu: 223.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	123	015-EZR-002-021 Wanaume wa Bethlehemu: 123.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	128	015-EZR-002-023 Wanaume wa Anathothi: 128.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	621	015-EZR-002-026 Wanaume wa Rama na Geba: 621.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	122	015-EZR-002-027 Wanaume wa Mikmashi: 122.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	223	015-EZR-002-028 Wanaume wa Betheli, na Ai: 223.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	156	015-EZR-002-030 Wanaume wa Magbishi: 156.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	015-EZR-002-031 Wanaume wengine wa Elamu: 1, 254.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	320	015-EZR-002-032 nne. Wanaume wa Harimu: 320.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	725	015-EZR-002-033 Wanaume wa Lodi, na Hadidi, na Ono: 725.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	345	015-EZR-002-034 Wanaume wa Yeriko: 345.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	015-EZR-002-035 Wanaume wa Senaa: 3, 630.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	973	015-EZR-002-036 Wana wa Yedaya kuhani wa nyumba ya Yoshua: 973.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	015-EZR-002-037 Wana wa Imeri: 1, 052.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	015-EZR-002-038 Wana wa Pashuri: 1, 247.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	015-EZR-002-039 Wana wa Harimu: 1, 017.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	128	015-EZR-002-041 nne. Waimbaji hekaluni wana wa Asafu: 128.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	139	015-EZR-002-042 Walinzi: wana wa Shalumu, Ateri na, Talmoni, Akubu, Hatita na Shobai: 139 jumla.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	42	015-EZR-002-064 Jumla ya kundi 42, 360,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	015-EZR-002-065 ukiondoa watumishi na wasaidizi (wao walikuwa 7, 337) waimbaji Hekaluni wanaume na wanawake (mia mbili)	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	736	015-EZR-002-066 Farasi wao: 736, Nyumbu wao: 245.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	435	015-EZR-002-067 Ngamia wao: 435. Punda wao: 6, 720.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	150	016-NEH-005-017 Katika meza yangu walikuwa Wayahudi na maafisa, watu 150, isipokuwa wale waliokuja kwetu kutoka kwa mataifa waliokuwa wakituzunguka.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	016-NEH-007-008 Wana wa Paroshi, 2, 172.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	372	016-NEH-007-009 Wana wa Shefatia, 372.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	652	016-NEH-007-010 Wana wa Ara, 652.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	016-NEH-007-012 kwa wana wa Yeshua na Yoabu, 2, 818.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	016-NEH-007-013 Wana wa Elamu, 1, 254.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	845	016-NEH-007-014 Wana wa Zatu, 845. Wana wa Zakai, 760.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	648	016-NEH-007-015 Wana wa Binnui, 648.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	628	016-NEH-007-016 Wana wa Bebai, 628.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	016-NEH-007-017 Wana wa Azgadi, 2, 322.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	667	016-NEH-007-018 Wana wa Adonikamu, 667.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	016-NEH-007-019 Wana wa Bigwai, 2, 067.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	655	016-NEH-007-020 Wana wa Adini, 655.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	98	016-NEH-007-021 Wana wa Ateri, wa Hezekia, 98.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	328	016-NEH-007-022 Wana wa Hashumu, 328.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	324	016-NEH-007-023 Wana wa Besai, 324.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	112	016-NEH-007-024 Wana wa Harifu, 112.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	95	016-NEH-007-025 Wana wa Gibeoni, 95.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	188	016-NEH-007-026 Watu kutoka Bethlehemu na Netofa, 188.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	128	016-NEH-007-027 Watu wa Anathothi, 128.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	42	016-NEH-007-028 Watu wa Beth Azmaweth, 42.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	743	016-NEH-007-029 Watu wa Kiriath Yearimu, Kefira, na Beerothi, 743.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	621	016-NEH-007-030 Watu wa Rama na Geba, 621.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	122	016-NEH-007-031 Watu wa Mikmasi, 122.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	123	016-NEH-007-032 Watu wa Betheli na Ai, 123.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	52	016-NEH-007-033 Watu wa Nebo, 52.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	016-NEH-007-034 Watu wa Elamu wa pili, 1, 254.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	320	016-NEH-007-035 Watu wa Harimu, 320.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	345	016-NEH-007-036 Watu wa Yeriko, 345.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	721	016-NEH-007-037 Watu wa Lodi, Hadidi, na Ono, 721.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	016-NEH-007-038 Watu wa Senaa, 3, 930.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	973	016-NEH-007-039 makuhani Wana wa Yedaya (wa nyumba ya Yeshua), 973.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	016-NEH-007-040 Wana wa Imeri, 1, 052.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	016-NEH-007-041 Wana wa Pashuri, 1, 247.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	016-NEH-007-042 Wana wa Harimu, 1, 017.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	74	016-NEH-007-043 Walawi, wana wa Yeshua, wa Kadmieli, wa Binui, wa Hodavia, 74.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	148	016-NEH-007-044 Waimbaji wana wa Asafu; 148.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	138	016-NEH-007-045 Waliofungua mlango wana wa Shalumu, wana wa Ateri, wana wa Talmoni; wana wa Akubu, wana wa Hatita, wana wa Shobai, 138.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	392	016-NEH-007-060 Watumishi wote wa hekalu, na wana wa watumishi wa Sulemani, walikuwa 392.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	642	016-NEH-007-062 wana wa Delaya, wana wa Tobia, na wana wa Nekoda, 642.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	42	016-NEH-007-066 Kusanyiko lote lilikuwa 42, 360,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	016-NEH-007-067 isipokuwa watumishi wao wa kiume na watumishi wao wa kike, ambao walikuwa 7, 337. Walikuwa na wanaume na wanawake wa kuimba 245.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	736	016-NEH-007-068 Farasi zao zilikuwa 736 kwa idadi, nyumbu zao, 245,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	435	016-NEH-007-069 ngamia zao, 435, na punda zao, 6, 720.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	50	016-NEH-007-070 Baadhi ya wakuu wa familia za baba zao walitoa zawadi kwa ajili ya kazi. Gavana alitoa sadaka ya darkoni elfu ya dhahabu, mabakuli 50, na mavazi 530 ya makuhani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	016-NEH-007-071 Baadhi ya wakuu wa familia za baba zao waliwapa katika hazina kwa kazi darkroni elfu ishirini za dhahabu na mane 2, 200 za fedha.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	468	016-NEH-011-006 Wana wote wa Peresi waliokaa Yerusalemu walikuwa 468. Walikuwa masujaa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	928	016-NEH-011-008 Na baada yake, Gabai na Salai, watu 928.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	822	016-NEH-011-012 na wenzake waliofanya kazi ya ukoo, watu 822. na Adaya mwana wa Yerohamu, mwana wa Pelalia, mwana wa Amzi, ​​mwana wa Zekaria, mwana wa Pashuri, mwana wa Malkiya.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	242	016-NEH-011-013 Nao walikuwa washirika wake waliokuwa wakuu wa jamaa, wanaume 242, na Maasai mwana wa Azareli, mwana wa Azai, mwana wa Meshilemothi, mwana wa Imeri;	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	128	016-NEH-011-014 na ndugu zao, 128 wapiganaji wenye ujasiri, wenye ujasiri; Waziri wao aliyeongoza alikuwa Zabdieli, mwana wa Hageoli.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	284	016-NEH-011-018 Katika mji wote mtakatifu walikuwa Walawi 284.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	172	016-NEH-011-019 Walinzi wa malango Akubu, Talmoni, na washirika wao, ambao waliolinda milango, wanaume 172.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	127	017-EST-001-001 Katika siku za utawala wa Ahasuero (huyu ni Ahasuero aliyetawala toka India hadi Ethiopa, zaidi ya majimbo 127),	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	180	017-EST-001-004 Mfalme akaweka wazi utajiri na utukufu wa ufalme wake na heshima ya ukufu wa ukuu alio upata kwa siku nyingi, kwa siku180.	ERROR
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	127	017-EST-008-009 Kisha waandishi wa mfalme wakakusanyika kwa wakati huo huo katika mwezi wa tatu, ambao ni mwezi wa Sivani, siku ya ishirini ya mwezi wa tatu. Mbiu iliandikwa yote ambayo Modekai aliyaamuru kwa Wayahudi watendewe na wenyeji wa kila jimbo. Mbiu iliandikwa kwa maakida magavana na wakuu wa majimbo yote yaliyokuwa toka India hadi Ethiopia, majimbo 127 kila jimbo iliandikwa kuwa maandishi yake, na kila watu kwa lugha yao, na kwa Wayahudi kwa maandishi na lugha yao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	127	017-EST-009-030 Barua zilipelekwa katika majimbo 127 ya mfalme Ahusiero, zikiwatakia Wayahudi wote amani na kweli.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	140	018-JOB-042-016 Baada ya haya, Ayubu aliishi miaka 140; aliwaona wana wake na wana wa wanawe, hata kizazi cha nne.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	185	023-ISA-037-036 Halafu malaika wa Yahwe alienda nje na kuvamia kambi ya Waasiria, na kuwauwa askari 185, 000. Watu walipoamka asubuhi na mapema, miili iliyokufa imelala kila mahali.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	024-JER-052-028 Hawa walikuwa watu Nebukadneza aliwaamisha: katika mwaka wa saba, Wayudea 3, 023.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	832	024-JER-052-029 Katika mwaka wa kumi na nane wa Nebukadneza alichukuwa 832 kutoka Yerusalemu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	745	024-JER-052-030 Katika mwaka wa ishirini na tatu wa Nebukadneza, Nebuzaradani, jemedari wa walinzi wa mfalme, aliwahamisha Wayudea 745. Jumla ya watu walioamishwa walikuwa 4, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	390	026-EZE-004-005 Mimi mwenyewe nakuagiza kwako siku moja kuwakilisha kila mwaka wa adhabu yao: siku 390! Katika njia hii, utachukua dhambi ya nyumba ya Israeli.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	390	026-EZE-004-009 Chukua ngano kwa ajili yako, shayiri, dengu, mtama, kusemethi; viweke kwenye chombo kimoja na tengeneza mkate kwa ajili yako kulingana na hesabu ya siku ambazo utakazo lala katika ya upande wako. Kwa siku 390 utaula.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	026-EZE-048-016 Hivi ndivyo vitakuwa vipimo vya mji: upande wa kaskazini utakuwa ridhaa 4, 500 urefu; upande wa kusini utakuwa ridhaa 4, 500 urefu; upande wa magharibi utakuwa ridhaa 4, 500 urefu; na magharibi itakuwa ridhaa 4, 500 urefu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	250	026-EZE-048-017 Kutakuwa na malisho ya mji kuelekea kaskazini, ridhaa 250 kwenda chini; hata kusini, ridhaa 250 kwenda chini; kuelekea mashariki, ridhaa 250 kwenda chini, na kuelekea magharibi ridhaa 250 kwenda chini.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	026-EZE-048-030 Hawa ndio watakaoishi kutoka kwenye nchi: upande wa kaskazini, ambapo patapimwa ridhaa 4, 500 kwa urefu,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	026-EZE-048-032 Kwa upande wa mashariki, ambapo patapimwa ridhaa 4, 500 kwa urefu, kutakuwa na malango matatu: lango moja kwa ajili ya Yusufu, lango moja kwa ajili ya Benjamini, na lango moja kwa ajili ya Dani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	026-EZE-048-033 Kwa upande wa mashariki, kutakuwa na kipimo cha ridhaa 4, 500 urefu, kutakuwa na malango matatu: lango moja kwa ajili ya Simioni, lango moja kwa ajili ya Isakari, na moja kwa ajili ya Zebuloni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	4	026-EZE-048-034 Kwa upande wa magharibi, ambao kipimo chake kitakuwa ridhaa 4, 500, kutakuwa ba malango matatu: lango moja kwa ajili ya Gadi, lango moja kwa ajili ya Asheri, na lango moja kwa ajili ya Naftali.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	027-DAN-006-001 Ilimpendeza Dario kuchagua juu ya ufalme magavana wa majimbo 120 ambao wangetawala juu ya ufalme wote.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	2	027-DAN-008-014 Aliniambia, “Itadumu kwa jioni na asubuhi zipatazo 2, 300. Baada ya hapo, mahali patakatifu patawekwa sawa.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	027-DAN-012-011 Katika muda ule ambapo sadaka ya kawaida ya kuteketezwa itakapokuwa imeondolewa na chukizo la uharibifu liliosababisha ukiwa limesimamishwa, kutakuwa na siku zipatazo 1, 290.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	027-DAN-012-012 Ana heri mtu yule anayengojea mpaka mwisho wa siku 1, 335.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	21	040-MAT-017-021 (Zingatia: Maneno ya msitari wa 21 “Lakini, aina hii ya pepo haiwezekani kutoka, ila kwa maombi na Kufunga” hayaonekani katika nakala bora za kale).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	11	040-MAT-018-011 (Zingatia: Maneno yanayoonekana kama ya msitari wa 11, “Kwa kuwa Mwana wa Adamu alikuja kuokoa kile kilichokuwa kimepotea” hayakuonekana katika nakala bora za kale).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	14	040-MAT-023-014 (Zingatia: Msitari wa 14 hauonekani katika nakala bora za kale. Baadhi ya nakala huongeza msitari huu baada ya msitari wa 12. Msitari wa 14 “Ole wenu wandishi na Mafarisayo wanafiki! Kwa kuwa mnawameza wajane”).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) (Zingatia: Nakala za kale hazina Marko 16: 9-20) Mapema katika siku ya kwanza ya juma, baada ya kufufuka, alimtokea kwanza Mariamu Magdalena, ambaye kutoka kwake alimtoa mapepo saba.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	16	041-MAR-016-012 (Zingatia: Nakala za kale hazina Marko 16: 9-20) Baada ya hayo, akajitokeza katika namna tofauti kwa watu wengine wawili, wakati walipokuwa wakitembea kutoka katika nchi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	16	041-MAR-016-014 (Zingatia: Nakala za kale hazina Marko 16: 9-20) Yesu baadaye akajitokeza kwa wale kumi na mmoja walipokuwa wameegama katika meza, na akawakemea kwa kutokuamini kwao na ugumu wa mioyo, kwa sababu hawakuwaamini wale waliomwona baada ya kufufuka kutoka kwa wafu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	16	041-MAR-016-017 (Zingatia: Nakala za kale hazina Marko 16: 9-20) Ishara hizi zitaambatana na wote waaminio. Kwa jina langu watatoa pepo. Watasema kwa lugha mpya.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	3	043-JOH-005-003 Idadi kubwa ya wagonjwa ilikuwemo, vipofu, viwete, au waliopooza walikuwa wamelala katika matao hayo. (Zingatia: Maneno ya mstari wa 3 hayaonekani katika nakala nzuri za kale. “Wakisubiri maji kutibuliwa.”) Kwa hakikia wakati fulani malaika alishuka ndani ya Bwana na kuyatibua maji.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	043-JOH-007-053 (Zingatia: Baadhi ya maneno ya Yohana 7: 53 - 8: 11 hayamo katika nakala bora za kale). Kisha kila mtu alienda nyumbani kwake.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	043-JOH-008-001 (Zingatia: Angalia ufafanuzi wa Yohana 7: 53 - 8: 11 hapo juu). Yesu alienda mlima wa Mizeituni.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	043-JOH-008-004 (Zingatia: Angalia ufafanuzi wa Yohana 7: 53 - 8: 11 hapo juu). Ndipo wakamwambia Yesu, “Mwalimu, mwanamke huyu amekamatwa katika uzinzi, katika kitendo kabisa.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	043-JOH-008-007 (Zingatia: Angalia ufafanuzi wa Yohana 7: 53 - 8: 11 hapo juu). Walipoendelea kumwuliza, alisimama na kuwaambia, “Yeye asiyekuwa na dhambi miongoni mwenu, awe wa kwanza kumponda mawe.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	7	043-JOH-008-009 (Zingatia: Angalia ufafanuzi wa Yohana 7: 53 - 8: 11 hapo juu). Waliposikia hayo, waliondoka mmoja baada ya mwingine, kuanzia aliye mzee. Mwishowe Yesu aliachwa peke yake, pamoja na mwanamke aliyekuwa katikati yao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	153	043-JOH-021-011 Basi Simon Petro akapanda na kuukokota ule wavu uliokuwa umejaa samaki wakubwa, kiasi cha samaki 153; japo walikuwa wengi, ule wavu haukuchanika.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	120	044-ACT-001-015 Katika siku zile Petro alisimama katikati ya ndugu, kama watu 120, akasema,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	24	044-ACT-024-005 Kwa maana tumempata mtu huyu mkorofi, na anasababisha Wayahudi wote kuasi duniani. Tena ni kiongozi wa madhehebu ya Wanazorayo. (Zingatia: Sehemu ya maneno ya mstari huu 24: 6	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	276	044-ACT-027-037 Tulikuwa watu 276 ndani ya meli.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	16	045-ROM-016-024 (Zingatia: Katika nakala halisi za kwanza, mstari huu haupo. Tazama Warumi 16: 20. “Neema ya Bwana Yesu Kristo ikae nanyi nyote. Amina.”)	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	430	048-GAL-003-017 Sasa nasema hivi, sheria ambayo ilikuja miaka 430 baadaye, haiondoi agano la nyuma lililowekwa na Mungu.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	200	066-REV-005-011 Kisha nilitazama na nikasikia sauti ya malaika wengi kuzunguka kiti cha enzi - idadi yao ilikuwa 200, 000, 000 na wenye uhai na wazee.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	144	066-REV-007-004 Nikasikia idadi ya wale waliotiwa muhuri: 144, 000, ambao walitiwa muhuri kutoka kila kabila ya watu wa Israel:	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	12	066-REV-007-005 12, 000 kutoka katika kabila ya Yuda walitiwa muhuri, 12, 000 kutoka katika kabila ya Rubeni, 12, 000 kutoka katika kabila ya Gadi.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	12	066-REV-007-006 12, 000 kutoka katika kabila ya Asheri, 12, 000 kutoka katika kabila ya Naftali, 12, 000 kutoka katika kabila ya Manase.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	12	066-REV-007-007 12, 000 kutoka kabila ya Simioni, 12, 000 kutoka kabila ya Lawi, 12, 000 kutoka kabila ya Isakari,	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	12	066-REV-007-008 12, 000 kutoka kabila ya Zebuloni, 12, 000 kutoka kabila ya Yusufu, na 12, 000 kutoka kabila ya Benyamini walitiwa muhuri.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	200	066-REV-009-016 Idadi ya maaskari waliokuwa juu ya farasi ilikuwa 200, 000, 000. Nilisikia idadi yao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	066-REV-011-003 Nitawapa mashahidi wangu wawili mamlaka ya kutabiri kwa muda wa siku 1, 260, wakiwa wamevaa magunia.”	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	066-REV-012-006 na mwanamke alikimbilia nyikani, mahali ambapo Mungu alikuwa ameandaa eneo kwa ajili yake, ili aweze kuhudumiwa kwa siku 1, 260.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	666	066-REV-013-018 Hii inahitaji busara. Ikiwa yeyote ana ufahamu, mwache aweze kufanya hesabu ya namba ya mnyama. Maana ni namba ya kibinadamu. Namba yake ni 666.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	144	066-REV-014-001 Nilitazama na nikaona Mwana Kondoo amesimama mbele yangu juu ya Mlima Sayuni. Pamoja naye walikuwa 144, 000 wenye jina lake na jina la Baba yake limeandikwa katika vipaji vya nyuso zao.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	144	066-REV-014-003 Wakiimba wimbo mpya mbele za kiti cha enzi na mbele za wenye uhai wanne na wazee. Hakuna hata mwenye uwezo wa kujifunza huo wimbo isipokuwa kwa 144, 000 ambao wamekombolewa kutoka duniani.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	1	066-REV-014-020 Chujio la divai lilipondwapondwa nje ya mji na damu ikamwagika kutoka katika hicho kimo cha hatamu ya farasi, kwa stadia 1, 600.	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	12	066-REV-021-016 Mji uliwekwa ndani ya mraba; urefu wake ulikuwa sawa na upana wake. Alipima mji kwa kipimio cha fimbo, stadia 12, 000 kwa urefu (urefu wake, upana, na kimo vilifanana).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	144	066-REV-021-017 Vilevile alipima ukuta wake, unene wake ulikuwa dhiraa 144 kwa vipimo vya kibinadamu (ambavyo pia ni vipimo vya malaika).	WARN
+Swahili---New-Swahili-Bible	NUMERALS	Aionian	count	388	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

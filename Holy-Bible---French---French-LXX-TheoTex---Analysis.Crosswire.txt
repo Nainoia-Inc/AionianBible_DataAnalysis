@@ -1,0 +1,1254 @@
+# File Name: Holy-Bible---Holy-Bible---French---French-LXX-TheoTex---Analysis.txt
+# File Size: 149305      
+# File Date: 12/13/2025 05:28:52
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Traduction de la LXX par P. GIGUET
+# Bible Name English: LXX by P. GIGUET, TheoTex
+# Bible Language: Français
+# Bible Language English: French
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Translation of the LXX by Pierre Giguet and other translators, Fy Cyrille, TheoTex
+# Bible Source Version: 4/25/2025
+# Bible Source Link: https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=FreLXXTheo
+# Bible Source Year: 1872
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+French---French-LXX-TheoTex	ENCODING	Source	Holy-Bible---French---French-LXX-TheoTex---Source-Edition.SWORD.txt	UTF-8	NOTICE
+French---French-LXX-TheoTex	ENCODING	Aionian	Holy-Bible---French---French-LXX-TheoTex---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+French---French-LXX-TheoTex	BYTES	Source	bytes / chars	4865264 / 4627519 (multi-byte)	NOTICE
+French---French-LXX-TheoTex	BYTES	Aionian	bytes / chars	3668528 / 3522348 (multi-byte)	NOTICE
+French---French-LXX-TheoTex	BYTES	SourceClean	bytes / chars	4701291 / 4463569 (multi-byte)	NOTICE
+French---French-LXX-TheoTex	BYTES	AionianClean	bytes / chars	3665892 / 3519729 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+French---French-LXX-TheoTex	AIONIAN	Aionian	book-not-exist	0	NOTICE
+French---French-LXX-TheoTex	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+French---French-LXX-TheoTex	AIONIAN	Aionian	book-defined-not-exist	200	NOTICE
+French---French-LXX-TheoTex	AIONIAN	Aionian	missing-chapter	0	NOTICE
+French---French-LXX-TheoTex	AIONIAN	Aionian	missing-verse	0	NOTICE
+French---French-LXX-TheoTex	AIONIAN	Aionian	aionian-verses	64	NOTICE
+French---French-LXX-TheoTex	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+French---French-LXX-TheoTex	UNPRINTABLE	Source	count	0	NOTICE
+French---French-LXX-TheoTex	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+French---French-LXX-TheoTex	UNICODE	Summary	(-)Orginal	175	NOTICE
+French---French-LXX-TheoTex	UNICODE	Summary	(+)Aionian	98	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : ([)	166	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : ( )	756106	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (T)	2674	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (e)	492379	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (s)	284063	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (t)	227554	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (a)	248797	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (m)	93460	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (n)	208222	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (1)	25392	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (H)	1222	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (d)	113002	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (i)	234841	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (g)	33521	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (])	168	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (\n)	29853	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (G)	2832	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (0)	6301	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (:)	37019	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (L)	5619	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (p)	77409	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (r)	222831	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (è)	13226	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (o)	171819	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (u)	202568	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (l)	191337	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (c)	90457	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	General Punctuation : (’)	39990	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (h)	39971	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (é)	57633	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (b)	29846	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (,)	63918	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (f)	33049	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (v)	53408	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (.)	26593	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (S)	16271	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (q)	29641	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ê)	5257	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (A)	6377	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (I)	18003	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (à)	13916	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (P)	6924	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (V)	2146	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (7)	5896	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (-)	8416	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (5)	6821	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (D)	7612	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (x)	14735	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (E)	15285	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (y)	8407	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ï)	1972	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (C)	5945	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (;)	15040	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (æ)	40	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (2)	17438	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (M)	6423	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (j)	15338	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (Q)	1611	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ô)	1421	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (N)	3752	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (J)	11502	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (w)	8	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (O)	1568	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (k)	1615	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (9)	5151	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (4)	8987	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (3)	12041	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (6)	6210	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (É)	1038	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ç)	807	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (B)	2072	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (8)	5847	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (τ)	22	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (η)	16	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ν)	25	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (ἑ)	5	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ρ)	12	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (μ)	8	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ε)	12	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ι)	29	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (α)	39	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ω)	14	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (Ο)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (π)	9	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ο)	30	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ς)	17	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (β)	11	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (δ)	9	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (κ)	10	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (z)	8870	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (X)	25	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (υ)	12	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ξ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (U)	305	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (ἡ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (ἐ)	6	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (σ)	16	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (R)	1156	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (û)	715	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: («)	37	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (»)	37	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (W)	462	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (K)	1585	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ü)	500	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (Z)	626	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (î)	1585	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ä)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin Extended-A : (œ)	1990	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (â)	2382	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ù)	1134	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (()	298	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : ())	298	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (F)	672	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (ὑ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ö)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (פ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ל)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ִ)	6	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ש)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ְ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ת)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (י)	5	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ם)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (Φ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (λ)	16	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ί)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (ἀ)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (φ)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ֶ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ס)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ח)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (χ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (א)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ָ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (נ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ֹ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (כ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (γ)	11	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (ἰ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ּ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ר)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (θ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (ὀ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ψ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ֵ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ב)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ו)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (ζ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ֻ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (מ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ק)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ה)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	General Punctuation : (—)	285	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (?)	2508	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ג)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ן)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (ἱ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ַ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Hebrew : (ׁ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek Extended : (Ἐ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	General Punctuation : ( )	25005	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (À)	56	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (ë)	2872	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (!)	813	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin Extended-A : (Œ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Latin-1 Supplement: (Ô)	63	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : ({)	10	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (})	10	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	General Punctuation : (…)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (Ψ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (Α)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (Λ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (Μ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Greek and Coptic : (Ι)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source(-)	Basic Latin : (`)	32	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (0)	96455	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (1)	32837	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (\t)	91384	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (G)	3259	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (E)	19656	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (N)	5149	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (A)	11201	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (u)	151976	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : ( )	538217	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (c)	62664	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (o)	126604	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (m)	65731	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (e)	368085	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (n)	154923	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (t)	175064	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (D)	6955	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (i)	172529	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (r)	168150	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (é)	44011	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (a)	180317	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (l)	143663	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (.)	21033	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (\n)	22845	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (2)	24268	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (O)	5632	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (v)	41109	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (s)	201752	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (b)	18985	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (d)	86590	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (;)	12946	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (è)	10064	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (-)	6963	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	General Punctuation : (’)	31788	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (î)	1206	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (,)	50337	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (p)	59880	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (x)	10151	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (3)	13401	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (:)	6386	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (S)	17501	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (f)	25354	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (4)	10278	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (q)	22688	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (5)	6684	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (j)	12799	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (y)	5603	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (6)	7195	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (Q)	1325	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (7)	5722	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (8)	6072	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (I)	7469	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (9)	7678	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (h)	25017	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (à)	10885	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (L)	4731	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (g)	25037	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (ç)	566	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (P)	5714	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (â)	1795	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (()	196	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : ())	196	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (C)	5587	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (z)	6241	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (ê)	3990	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (V)	2294	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin Extended-A : (œ)	1619	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (ù)	975	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (û)	516	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (É)	967	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (T)	2144	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (M)	5087	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (ô)	1088	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (À)	53	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (?)	2216	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (J)	9534	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	1766	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (ë)	2542	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (B)	2716	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (F)	595	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (R)	3417	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (H)	3147	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (U)	2579	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (Z)	2109	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (!)	517	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (ü)	465	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : ([)	61	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (])	62	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: («)	5	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (»)	5	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (X)	1163	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin Extended-A : (Œ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Latin-1 Supplement: (Ô)	35	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (k)	34	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	General Punctuation : ( )	7	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (K)	1492	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	Basic Latin : (')	9	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	General Punctuation : (…)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Aionian(+)	General Punctuation : (—)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : ([)	166	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : ( )	756106	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (T)	2674	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (e)	492379	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (s)	284063	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (t)	227554	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (a)	248797	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (m)	93460	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (n)	208222	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (1)	25392	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (H)	1222	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (d)	113002	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (i)	234841	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (g)	33521	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (])	168	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (\n)	29853	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (G)	2832	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (0)	6301	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (:)	37019	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (L)	5619	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (p)	77409	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (r)	222831	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (è)	13226	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (o)	171819	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (u)	202568	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (l)	191337	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (c)	90457	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	General Punctuation : (’)	39990	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (h)	39971	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (é)	57633	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (b)	29846	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (,)	63918	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (f)	33049	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (v)	53408	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (.)	26593	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (S)	16271	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (q)	29641	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ê)	5257	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (A)	6377	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (I)	18003	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (à)	13916	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (P)	6924	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (V)	2146	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (7)	5896	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (-)	8416	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (5)	6821	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (D)	7612	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (x)	14735	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (E)	15285	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (y)	8407	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ï)	1972	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (C)	5945	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (;)	15040	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (æ)	40	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (2)	17438	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (M)	6423	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (j)	15338	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (Q)	1611	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ô)	1421	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (N)	3752	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (J)	11502	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (w)	8	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (O)	1568	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (k)	1615	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (9)	5151	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (4)	8987	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (3)	12041	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (6)	6210	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (É)	1038	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ç)	807	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (B)	2072	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (8)	5847	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (τ)	22	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (η)	16	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ν)	25	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (ἑ)	5	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ρ)	12	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (μ)	8	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ε)	12	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ι)	29	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (α)	39	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ω)	14	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (Ο)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (π)	9	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ο)	30	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ς)	17	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (β)	11	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (δ)	9	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (κ)	10	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (z)	8870	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (X)	25	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (υ)	12	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ξ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (U)	305	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (ἡ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (ἐ)	6	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (σ)	16	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (R)	1156	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (û)	715	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: («)	37	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (»)	37	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (W)	462	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (K)	1585	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ü)	500	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (Z)	626	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (î)	1585	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ä)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin Extended-A : (œ)	1990	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (â)	2382	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ù)	1134	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (()	298	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : ())	298	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (F)	672	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (ὑ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ö)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (פ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ל)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ִ)	6	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ש)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ְ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ת)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (י)	5	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ם)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (Φ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (λ)	16	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ί)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (ἀ)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (φ)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ֶ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ס)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ח)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (χ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (א)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ָ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (נ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ֹ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (כ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (γ)	11	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (ἰ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ּ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ר)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (θ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (ὀ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ψ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ֵ)	3	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ב)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ו)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (ζ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ֻ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (מ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ק)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ה)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	General Punctuation : (—)	285	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (?)	2508	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ג)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ן)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (ἱ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ַ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Hebrew : (ׁ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek Extended : (Ἐ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	General Punctuation : ( )	25005	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (À)	56	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (ë)	2872	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (!)	813	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (Î)	6	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (È)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin Extended-A : (Œ)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (Ô)	63	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (Y)	6	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : ({)	10	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (})	10	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	General Punctuation : (…)	4	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (Ψ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (Α)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (Λ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (Μ)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Greek and Coptic : (Ι)	1	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Latin-1 Supplement: (Ê)	2	NOTICE
+French---French-LXX-TheoTex	UNICODE	Source	Basic Latin : (`)	32	NOTICE
+
+# VERSIFICATION
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	001-GEN-031-051	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	001-GEN-035-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-025-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-028-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-028-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-028-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-028-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-028-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-028-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-032-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-035-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-035-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-035-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-035-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-037-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-037-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-037-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-037-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-037-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-037-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-037-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-037-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-038-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-038-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-038-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-038-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-039-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-040-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-040-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-040-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-040-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-040-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	002-EXO-040-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	004-NUM-006-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-006-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-008-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-008-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-008-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-008-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-008-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-008-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-008-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-008-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-010-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-010-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-013-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-020-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-020-005	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	006-JOS-020-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-013-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-050	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-055	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-056	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-057	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-017-058	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-003	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-005	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-010	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-018-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	009-1SA-023-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-003-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-004-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-006-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-006-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-006-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-006-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-006-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-006-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-006-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-007-051	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-008-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-008-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-009-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-010-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-010-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-010-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-011-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-011-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-011-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-011-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-012-003	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-012-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-013-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-003	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-005	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-010	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-014-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-015-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-015-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-022-047	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-022-048	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-022-049	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	011-1KI-022-050	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-001-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	013-1CH-016-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	014-2CH-027-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-003-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-004-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-011-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-012-005	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-012-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	016-NEH-012-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	017-EST-004-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	017-EST-009-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	017-EST-009-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	019-PSA-116-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-004-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-008-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-011-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-015-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-016-001	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-016-003	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-016-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-016-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-018-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-018-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-019-001	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-019-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-020-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-021-005	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-022-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	020-PRO-023-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	023-ISA-002-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	023-ISA-056-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-002-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-007-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-008-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-010-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-010-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-010-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-010-010	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-010-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-011-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-017-001	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-017-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-017-003	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-017-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-025-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-026-001	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-010	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-029-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-030-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-003	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-005	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-010	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-032-044	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-033-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-033-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-034-002	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-034-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-034-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-034-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-034-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-035-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-035-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-036-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-036-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-036-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-036-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-036-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-037-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-037-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-037-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-040-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-040-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-040-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-042-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-042-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-042-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-044-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-005	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-010	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-046-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-044	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-045	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-046	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-048-047	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-049-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-044	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-045	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-050-046	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-044	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-045	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-046	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-047	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-048	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-049	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-050	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-051	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-052	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-053	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-054	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-055	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-056	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-057	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-058	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-059	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-060	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-061	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-062	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-063	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-051-064	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-052-003	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-052-004	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-052-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-052-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-052-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	024-JER-052-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	025-LAM-003-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	025-LAM-003-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	025-LAM-003-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	025-LAM-003-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	026-EZE-001-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	026-EZE-010-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	026-EZE-027-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	026-EZE-032-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	026-EZE-033-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	missing	026-EZE-040-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-026-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-026-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-026-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-044	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-045	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-027-046	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-044	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-045	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-050	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-051	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-052	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-053	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-054	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-055	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-056	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-057	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-058	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-059	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-060	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-061	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-062	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-063	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-028-064	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-030-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-031-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-031-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-031-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-031-044	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-037-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-037-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-038-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-033	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-034	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-035	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-036	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-037	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-038	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-039	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-040	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-041	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-042	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-043	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-039-044	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-041-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-041-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-041-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-041-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-029	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-030	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-031	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-043-032	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-006	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-007	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-010	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-017	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-018	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-019	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-020	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-021	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-022	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-023	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-024	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-025	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-026	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-027	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-045-028	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-008	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-009	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-010	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-011	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-012	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-013	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-014	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-015	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Aionian	extra	024-JER-047-016	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Summary	missing	477	WARN
+French---French-LXX-TheoTex	VERSIFICATION	Summary	extra	178	WARN
+
+# ENCLOSURES
+French---French-LXX-TheoTex	ENCLOSURES	Source	()	298 / 298	NOTICE
+French---French-LXX-TheoTex	ENCLOSURES	Source	[]	166 / 168	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Source	{}	10 / 10	NOTICE
+French---French-LXX-TheoTex	ENCLOSURES	Source	<>	0 / 0	NOTICE
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	()	196 / 196	NOTICE
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	[]	61 / 62	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+French---French-LXX-TheoTex	ENCLOSURES	Source	[0/1]	Ezra 2:40 Lévites, fils de Josué et de Cadmie], des fils d’Oduia : soixante-quatorze	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Source	(1/0)	Nehemiah 6:1 Or, lorsque Sanaballat, Tobias, l’Arabe Gésam et le reste de nos ennemis, (mirent que j’avais relevé le mur, ils en perdirent le souffle ; cependant, alors, je n’avais pas encore mis les battants des portes.	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Source	(1/0)	Nehemiah 12:9 Et les lévites étaient Josué, Banni, Cadmiel, Sarabia, Joad, Matthanias (celui-ci dirigeait les chants, et leurs frères étaient désignés	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Source	(0/1)	Nehemiah 12:10 Pour les services journaliers).	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Source	(0/1)	Nehemiah 12:38 Sur la porte ’pour chanter devant eux les louanges du Seigneur). Et ils montèrent par les degrés de la ville de David sur le mur, au-dessus du palais de ce roi, et ils allèrent jusqu’à la porte des Eaux à l’Est [d’Elihrem ;]	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Source	[0/1]	Psalms of Solomon 2:28 Son cadavre ballotté sur les flots dans une ignominie complète, — Et il n’y avait personne pour (l’)ensevelir, c’est que Dieu] l’a anéanti honteusement.	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	[0/1]	015 EZR 002 040 Lévites, fils de Josué et de Cadmie], des fils d’Oduia: soixante-quatorze	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	(1/0)	016 NEH 006 001 Or, lorsque Sanaballat, Tobias, l’Arabe Gésam et le reste de nos ennemis, (mirent que j’avais relevé le mur, ils en perdirent le souffle; cependant, alors, je n’avais pas encore mis les battants des portes.	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	(1/0)	016 NEH 012 009 Et les lévites étaient Josué, Banni, Cadmiel, Sarabia, Joad, Matthanias (celui-ci dirigeait les chants, et leurs frères étaient désignés	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	(0/1)	016 NEH 012 010 Pour les services journaliers).	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Aionian	(0/1)	016 NEH 012 038 Sur la porte’pour chanter devant eux les louanges du Seigneur). Et ils montèrent par les degrés de la ville de David sur le mur, au-dessus du palais de ce roi, et ils allèrent jusqu’à la porte des Eaux à l’Est [d’Elihrem;]	WARN
+French---French-LXX-TheoTex	ENCLOSURES	Summary	lines	6 / 5	WARN
+
+# UNEXPECTED
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(`)	32/0	WARN
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+French---French-LXX-TheoTex	UNEXPECTED	Source/Aionian	Summary	32/0	WARN
+
+# NUMERALS
+French---French-LXX-TheoTex	NUMERALS	Source	5	Genesis 0:0 La première de toutes les traductions de l’ancien Testament hébreu, faite en grec vulgaire avant l’ère chrétienne. Son importance provient de l’antiquité même de cette version, qui est la première en date. Aristobule, dans un fragment conservé de son Ier livre à Plolémée VI Philométor, écrit vers 170-150, a bien prétendu qu’avant Démétrius de Phalère, avant Alexandre, avant même la domination des Perses, ce qui concernait les événements postérieurs à la sortie d’Egypte, la conquête de la Palestine et la législation hébraïque, avait été traduit en grec. Clément d’Alexandrie, Strom., i ; Eusèbe, Præp. evang., xiii, 12. Mais le but qu’il se proposait, à savoir montrer que Platon avait tiré une partie de sa sagesse des livres de Moïse, rend son témoignage douteux. D’ailleurs, il ne parlait peut-être pas d’une traduction grecque du Pentateuque, mais seulement d’un abrégé grec des origines et de la loi du peuple juif. Quoi qu’il en soit, la version des Septante, comprenant toute la littérature hébraïque, a pour nous plus de valeur que cette soi-disant traduction antérieure du Pentateuque, que nous ne connaissons pas autrement. Multiples sont les avantages à retirer de l’étude de cette version : Comme elle représente le texte hébreu de l’Ancien Testament à un stade bien antérieur à la fixation du texte massorétique, la traduction des Septante a une importance considérable pour la reconstitution du texte original de la plupart des livres de l’ancienne alliance. Comme elle a été employée et citée par les apôtres et les écrivains du Nouveau Testament, nascentis Ecclesiæ roboraverat fidem, dit saint Jérôme, Præf. in l. Paralip., son texte doit servir à confirmer une partie des témoignages apostoliques et des fondements de la foi chrétienne. Comme elle a été faite dans la même langue, le grec vulgaire, que les livres du Nouveau Testament, son texte aide à comprendre, non seulement le style, mais encore le sens de beaucoup de passages de ces écrits. Voir Swete, An introduction to the Old Testament in Greek, Cambridge, 1900, p. 433-461. Comme elle a été citée et commentée par les Pères grecs, qui pour la plupart n’ont connu l’Écriture Sainte des Juifs que par son intermédiaire, ce même texte avec ses particularités et ses leçons propres peut seul rendre compte du sens que les écrivains ecclésiastiques de langue grecque ont reconnu à la Bible juive. Swete, op. cit., p. 462-477. Comme les plus anciennes versions latines de l’Ancien Testament ont été faites directement sur la Bible des Septante, les plus anciens Pères latins ont connu, cité et commenté indirectement le texte biblique de cette version grecque, et la connaissance de la Bible grecque est ainsi fort utile pour l’intelligence de la littérature patristique latine. Comme cette version a servi aussi de prototype à plusieurs traductions syriaques, éthiopiennes, coptes, arabe, arménienne, géorgienne, gothique et slavonne, l’étude de son texte sert donc aussi à l’intelligence des citations bibliques dans toutes les littératures ecclésiastiques de ces diverses langues. Enfin, le rôle que ces versions dérivées jouent dans la critique biblique pour la reconstitution du texte original de l’Ancien Testament montre indirectement l’influence exercée durant des siècles par la traduction des Septante, et par suite l’importance de son étude. Cette première traduction grecque de la Bible hébraïque a été désignée dans l’Eglise catholique sous le nom de version ou de traduction des Septante, en sous-entendant vieillards, ou interprètes, ou traducteurs. La traduction latine de saint Irénée, Cont. hær., iii, 21, la désigne par les mots : in senioribus, ou seniores. Tertullien, Apologet., 18, dit : In septuaginta et duobus interpretibus. Origène l’appelle την ἑρμηνειαν των Ο’, Ad Africanum, 5, ou en parle en disant deux fois, παρα τοις ἑβδομηκοντα. In Matth., tom. xv, 14, Eusèbe de Césarée emploie aussi cette dernière indication. In Psalmos, Ps. II, Saint Jérôme dit couramment Septuaginta interpretes ou translatores, Præfa. in Isaiam, in Job, in l. Par., in Ezram ; Commentarioli in Ps., IV, IX, XXI, CXV, CXXXIII, dans Morin, Anecdota Maredsolana, Maredsous, 1895 ; Tractatus de Ps., IX, ibid., 1897, ou Septuaginta tout court. Commentarioli in Ps., XV, CXXI, CXLIV, ibid. En parlant des 72 docteurs envoyés à Alexandrie par le grand-prêtre Éléazar, saint Augustin dit d’eux : Quorum interpretatio ut Septuaginta vocetur jam obtinuit consuetudo. De civitate Dei, xviii, 42. La version porte aussi ce nom dans les anciens manuscrits grecs. Ainsi la suscription de la Genèse dans le Vaticanus B est : κατα τους ἑβδομηκοντα ; en tête et à la fin des Proverbes dans l’Ephræmiticus E, on lit : παρα ἑβδομηξοντα. Une note du Marchalianus Q sur Isaïe l’appelle : ἡ των ἑβδομηκοντα ἐξδοσις. Le nom courant de cette version dans les manuscrits est : ἡ των ο’, et on la désigne ordinairement par les signes : οι, ο’ ou οβ’. Ce nom a passé dans toutes les langues, et en français on dit : la version des Septante, ou les Septante. Par ellipse, les protestants français disent souvent : la Septante, désignation qui n’a pas encore été admise dans le Dictionnaire de l’Académie française. Ce nom d’un emploi universel provient évidemment de la légende des 72 traducteurs du Pentateuque. La conjecture de Richard Simon, que ce nom lui vient, non pas des septante interprètes qui en furent les auteurs, mais des septante juges du Sanhédrin qui l’approuvèrent pour l’usage des Juifs hellénistes dans leurs synagogues ou au moins dans leurs écoles, Histoire critique du Vieux Testament, l. II, c. ii, Rotterdam, 1685, p. 191, est sans aucun fondement et contraire à toute vraisemblance. M. Trochon, Introduction générale, Paris, 1886, t. i, p. 365, note 5, l’a acceptée trop facilement. Si le fait avait eu lieu, le pseudo-Aristée l’eût relaté pour faire valoir la version grecque du Pentateuque. Les critiques modernes, qui ne peuvent tenir compte de la légende des 72 traducteurs, proposent de nommer la version dite des Septante « version alexandrine », parce qu’elle a été faite à Alexandrie, ou au moins pour les Juifs d’Alexandrie. Cette dénomination est juste, mais elle n’a pas prévalu contre l’usage reçu, et ces critiques suivent eux-mêmes le courant et parlent avec tout le monde de la version des Septante. La première mention de cette légende se rencontre dans la Lettre du pseudo-Aristée à son frère Philocrate. Deux éditions critiques de cette Lettre ont paru récemment : Thackeray, The Letter of Aristeas, en appendice à An Introduction to the Old Testament, Cambridge, 1900, p. 501-574 ; Wendland, Aristeæ ad Philocratem epistola cum cæteris de origine versionis LXX interpretum testimoniis, Leipzig, 1900. Ce dernier en avait publié une traduction allemande, dans Kautzsch, Die Apokryphen und Pseudepigraphen des Alten Testaments, Tubingue, 1900, t. II, p. 4-31. M. Schürer, Geschichte des jüdischen Volkes im Zeitaller Jesu Christi, 3e édit., Leipzig, 1898, t. III, p. 468-470, place la composition de cette Lettre aux alentours de l’an 200 avant Jésus-Christ. Aristobule la connaissait déjà de 170 à 150. L’auteur ne sait rien de la domination des Séleucides sur la Palestine, domination qui commença en 187 ; il ne parle que du grand-prêtre juif et ne connaît pas les princes Machabéens à Jérusalem, il semble ignorer la persécution d’Antiochus et il présente la Judée tranquille et heureuse sous le gouvernement des Ptolémées. Cf. Ed. Herriot, Philon le Juif, Paris, 1898, p. 58. Wendland, dans Kautzsch, op cit., t. II, p. 3-4, la reporte à la seconde moitié du Ier siècle, de 96 à 63, plus près de 96 que de 63. Grätz la rabaissait même au début de notre ère, aux années 15-20, Monatschrïft fur Geschichte und Wissenschaft des Judenthums, 1876, p. 289, et Willrich, Judaica, Gættingue, 1900, p. 111-130, après l’an 33. Ces dates semblent trop basses, car la Lettre d’Aristée manifeste une connaissance très exacte de l’époque des Ptolémées, telle que nous l’ont révélée les inscriptions et les papyrus du temps. « Chose frappante : il n’est pas un titre de cour, une institution, une loi, une magistrature, une charge, un terme technique, une formule, un tour de langue remarquable dans cette lettre, il n’est pas un témoignage d’Aristée concernant l’histoire civile de l’époque, qui ne se trouve enregistré dans les papyrus ou les inscriptions et confirmé par eux. » Lombroso, Recherches sur l’économie politique de l’Egypte sous les Lagides, Turin, 1870, p. xiii. Les découvertes plus récentes n’ont pas infirmé cette conclusion et ont montré que la lettre était écrite dans le grec vulgaire alexandrin, qui est la langue des inscriptions et des papyrus. Les arguments des critiques, qui rabaissent la date d’apparition de cette Lettre, sont peu solides et n’infirment pas les précédents. Or, cette Lettre, qui est un panégyrique de la loi juive, de la sagesse juive, du nom juif, est l’œuvre d’un Juif alexandrin, sous le couvert d’un écrivain païen, qui rend hommage au judaïsme. Officier des gardes de Ptolémée Philadelphe, très estimé du roi, Aristée est un des envoyés du prince qui, sur le conseil de Démétrius de Phalère, voulait enrichir sa bibliothèque, déjà très riche en volumes, de la traduction grecque de la législation hébraïque. Après avoir rendu à la liberté les 100 000 Juifs que son père avait ramenés captifs en Egypte, Philadelphe écrivit au grand-prêtre Éléazar pour lui faire part de son désir et lui demander des traducteurs instruits. Aristée décrit longuement la ville de Jérusalem et les cérémonies du temple. Il réussit dans son ambassade. Le grand prêtre choisit 72 Israélites, six de chaque tribu, dont les noms sont donnés, et les envoya en Egypte avec un exemplaire de la loi juive, transcrit en lettres d’or, et des présents. Philadelphe reçut avec honneur les députés juifs. Pendant sept jours, il leur offrit de grands repas, et leur posa toute sorte de questions difficiles, auxquelles ils répondirent avec sagesse, à la grande admiration du roi. Ces fêtes terminées, les 72 envoyés furent conduits dans l’île de Pharos et placés dans un palais royal pour y accomplir dans le silence leur travail de traduction. Chaque jour, ils en faisaient une partie, qu’ils comparaient entre eux pour se mettre d’accord sur le sens à donner au texte. Au bout de 72 jours leur tâche fut terminée. La traduction tout entière fut lue aux Juifs assemblés, qui louèrent son exactitude et sa fidélité. On la lut au roi, qui admira la législation hébraïque et fit mettre la version dans sa bibliothèque. Il chargea enfin les traducteurs de présents pour eux-mêmes et pour le grand-prêtre, avant de les congédier. Dans un fragment, conservé par Eusèbe, Præp. evang., xiii, 12, de son Explication de la loi mosaïque, Aristobule rappelait à Ptolémée Philométor que, sous son aïeul Philadelphe, une traduction entière de la législation juive avait été faite par les soins de Démétrius de Phalère. Ce dernier renseignement prouve qu’Aristobule connaissait la Lettre d’Aristée, et il est peu vraisemblable qu’il parlait ainsi d’après une tradition indépendante du pseudo-Aristée. Philon, De vita Mosis, ii, 5-7, édit. Mangey, t. II, p. 138-141, a connu le fond de cette légende, sans nommer pourtant Aristée. Il l’a toutefois modifiée en un point important. Il a prétendu que tous les traducteurs, travaillant chacun séparément, se trouvèrent d’accord non seulement pour le sens, mais encore par l’emploi d’expressions absolument identiques, comme s’ils avaient été inspirés par Dieu lui-même. Il ajoute encore qu’on célébrait chaque année, en souvenir de cet événement mémorable, une fête dans l’île de Pharos, où beaucoup de Grecs se rendaient avec les Juifs. L’historien Josèphe reproduisit presque mot pour mot une bonne partie de la Lettre d’Aristée, en résumant le tout. Ant. jud., xii, 2, édit. Dindorf. Voir aussi Ant. jud., proœm., 3, p. 2 ; Cont. Apion., ii, 4. Le récit d’Aristée, connu directement ou par l’intermédiaire de Philon et de Josèphe, trouva créance parmi les chrétiens. Saint Justin en rapporte le fond, mais avec des erreurs, en faisant, par exemple, envoyer des ambassadeurs à Hérode par Ptolémée Philadelphe. Apol., i, 31 ; Dial. cum Tryphone, 71. L’auteur de la Cohortatio ad Græecos (ouvrage qu’on a attribué à saint Justin, mais qui plus probablement n’est pas de lui), 13, apporte aux récits de Philon et de Josèphe cette variante, qui aura du succès : il dit que les 72 interprètes furent enfermés isolément dans des cellules distinctes, dont il a vu les vestiges dans l’île de Pharos, et que, par une influence spéciale du Saint-Esprit, leurs traductions se trouvèrent parfaitement identiques. Saint Irénée admet la même légende des cellules, Cont. hær., iii, 21, n. 3, 4, ainsi que Clément d’Alexandrie, qui parle de Plolémée Lagus. Strom., i, 22. Tertullien, Apologet., 18, reconnaît l’inspiration des Septante. Anatolius de Laodicée, dans Eusèbe, II. E., VII, 32, met Aristobule au nombre des Septante. Eusèbe lui-même cite textuellement une bonne partie de la Lettre d’Aristée. Præp. evangel., viii, 1-5, 8,9 ; ix, 34. Cf. Chronic., an. 1736, Pat. Lat.. Saint Cyrille de Jérusalem, Cat., iv, 34, admet le fond de la légende d’Aristée, ainsi que saint Hilaire de Poitiers, In Psalmos, prol., 8 ; Ps. ii, 2, 3 ; cxv, litt. iv, 6, en considérant les Septante comme des interprètes très sérieux, mais laissés à leurs propres lumières. Saint Épiphane rapporte des détails nouveaux ; il dit notamment que les Septante, enfermés deux à deux en 36 cellules, s’étaient partagé les 22 ou 27 livres de la Bible hébraïque, puis, leur besogne terminée, avaient contrôlé avec l’original leur propre traduction, qui s’était trouvée absolument exacte, ce qui supposait qu’ils avaient reçu l’inspiration divine. De mensuris et ponderibus, 3, 6, 911, 17 ; De LXX interpretibus. Le Dialogue de Timothée et d’Aquila, qu’on rapporte au Ve siècle, se rapproche beaucoup de saint Épiphane, quoiqu’il soit plus précis que lui sur les détails ; comme lui, il dit que les Septante furent enfermés deux à deux en 36 cellules et il fonde leur inspiration divine sur l’accord de leur traduction. F. Conybeare, The Dialogues of Athanasius and Zachæus and of Timothy and Aquila dans Anecdota Oxoniensia, classical séries vii, Oxford, 1898, p.90-91. Saint Jérôme a repoussé vivement la légende des cellules séparées, n’y voyant qu’une invention mensongère : Nescio quis primus auctor Septuaginta cellulas Alexandrie mendacio suo extruxerit quibus divisi eadem scriptitarent, quum Aristæas, ejusdem Ptolemæi ὑπερασπιστης ; et multo post tempore Josephus nihil tale retulerint : sed in una basilica congregatos contulisse scribant, non prophetasse. Aliud est enim valem, aliud est interpretent. Ibi Spiritus ventura prædicit, hic eruditio et verborum copia ea quæ intelligit transfert. Præfatio in Pentateuchum. Plus tard, il reproduisit ce texte pour répondre au bruit calomnieusement répandu qu’il avait réprouvé ce sentiment. Apologia adversus lib. Rufini, 24, 25. Il n’admettait donc pas l’inspiration des Septante, car dans sa préface au Pentateuque il ajoute : Illi interpretati sunt ante adventum Christi, et quod nesciebant dubiis protulere sententiis. Aussi Érasme a-t-il conjecturé avec quelque vraisemblance que, lorsque dans sa lettre à Domnatianus et à Rogatianus, il écrit qu’il n’attribue pas d’erreur aux Septante, qui, Spiritu Sancto pleni, ea qæe vera fuerunt transtulerunt, mais aux copistes, il parlait selon la pensée de ses correspondants plutôt que selon son sentiment personnel. Præfatio in lib. Paral.. Il aimait à faire ressortir les différences du texte hébreu et de la version grecque. Cf. Epist. Lvii, ad Pammach., 7-11 ; Comment, in Jer., l. V, c. xxix, 10, 11 etc. Bien qu’il sût que, suivant Aristée, Josèphe et tous les Juifs, les Septante n’avaient traduit que les cinq livres de Moïse, dont le texte (il l’avait constaté) se rapprochait le plus de l’hébreu, Liber hebraic. quæst. in Gen., præf., il pensait cependant que leur version comprenait toute la Bible hébraïque, Comment, in Ezech., l. II, vi, 12, 13, et il déclarait qu’ils ont modifié la traduction du titre du Ps. ix, 1, quoniam Ptolomeo gentili regi interpretabantur. Tractatus de Ps. ix, dans Anecdota Maredsolana, Maredsous, 1897, t. iii, b., p. 26. Une fois néanmoins, il doute que la version grecque de Michée soit des Septante : Si tamen Septuaginta est. Comment, in Mich., I, c. xv, 9, 10. Saint Augustin admettait, l’inspiration des Septante, malgré le désaccord de leur texte d’avec l’hébreu. De Civitate Dei, xviii, 42,43. Cette inspiration résultait de la tradition des cellules, ut fertur ; tradition qui n’était pas indigne de foi ; elle n’était pourtant pas certaine, puisque Aristée disait que les traducteurs s’étaient concertés. De doctrina christiana, l. II, c. xv. Ailleurs, il fonde cette inspiration sur leur admirable fidélité de traduction. Enar. in Ps lxxxvii, 10. Ébranlé par les raisons de saint Jérôme, il se borne à reconnaître aux Septante la plus grande autorité. Epist., xxviii, ad Hieronymum, ii, 2. Saint Chrysostome savait que Ptolémée Philadelphe a fait traduire en grec toute la Bible hébraïque, et qu’il a déposé cette version dans le temple, de Sérapis. Adversus Judæos, i, 6 ; In Gen., c. i, homil. iv ; De prophetiarum obscuritate, ii, 2. Il n’a jamais dit un mot de l’inspiration des Septante, et il reconnaissait seulement à leur œuvre l’autorité de traducteurs dignes de foi. In Matth., homil. v, 2. Théodore de Mopsueste, In Soph., i, 4-6, et saint Cyrille d’Alexandrie, Adversus Julianum, l. I, résument les données de la lettre d’Aristée, et par conséquent ne parlent pas de l’inspiration des Septante. Théodoret croyait à cette inspiration, In Psalmos, præf., comme saint Philastre de Brescia, sur la foi de la légende des cellules. Hær., 142. Saint Isidore de Séville est du même sentiment. Etym., VI, iii, 5 ; iv, 1, 2 ; De ecclesiasticis officiis, I, xii, 4, 5. Le pseudo-Athanase, Synopsis Scriptural Sacræ, 77, admet seulement le fond de la Lettre d’Aristée, aussi bien que Cosmas Indicopleuste, Topographia christiana, xii. Nicétas d’Héraclée, Catena, est renseigné par Philon et le pseudo-Justin, il connaît les deux traditions de la réunion des Septante dans un palais et de leur isolement dans des cellules séparées. Saint Julien de Tolède, De comprobatione ætalis sexti, iii, 16, suit le sentiment de saint Épiphane et de saint Augustin. Raban-Maur, De universo, v, ne parle des cellules distinctes que sur l’affirmation de quelques-uns (ut quidem asserunt). Rémi de Saint-Germain, Enarratio in Psalmos, et Bernon de Reichenau, De varia psalmorum atque canticorum modulatione, 2, rapportent les opinions divergentes de saint Augustin et de saint Jérôme. Jean Malalas, Chronographia, viii, fait remonter cette version au règne de Ptolémée Lagus et dit qu’elle a été faite en 72 jours. Le Chronicon pascale, admet les cellules séparées. Georges le Syncelle joint aux détails de la Lettre d’Aristée la mention des 36 cellules et reconnaît l’inspiration des traducteurs. Chronographia, édit. Dindorf, Bonn, 1829, t. i, p. 516-518. George Cedrenus, Hist. compendium, rapporte que cette version a été faite à l’instigation de Démétrius de Phalère et en 72 jours. Jean Zonaras, Annal., iv, 16, a pris ses renseignements dans Josèphe. Hugues de Saint-Victor, De Scripturis et scriptoribus sacris, c. ix ; Adnolat. elucidaloriæ in Pentateuchon, c. i ; Erudit. didascaliæ, l. IV, c. v, se range résolument du côté de saint Jérôme et répète sa parole que les Septante n’ont pas été plus inspirés du Saint-Esprit que Cicéron, lorsqu’il traduisait en latin des ouvrages grecs. Hugues de Saint-Cher est du même avis. Opera omnia in universum V. et N. T. Au contraire, Vincent de Beauvais, Speculum doctrinale, l. XVII, c. xl, admet l’inspiration des Septante. Galland, Bibliotheca veterum Patrum, Venise, 1788, t. ii, p. 805-824, a réuni la plupart des témoignages des anciens Pères sur la version des Septante. Tous croyaient que les Septante avaient traduit la Bible hébraïque en entier, et ceux qui admettaient qu’ils avaient travaillé dans des cellules séparées, attribuaient leur accord merveilleux à l’action évidente du Saint-Esprit ; aussi plaçaient-ils les interprètes alexandrins à côté des prophètes et des apôtres. Au XVe siècle, Denys le Chartreux réfute les arguments de saint Jérôme, que Henri de Hesse avait adoptés, et pense que l’autorité de saint Augustin est sur ce point supérieure à celle de son contradicteur. In Genesim narratio, 1-3, dans Opera omnia, Montreuil, 1896, t. i, p. 5-12. Mais son contemporain, Alphonse Tostat, niait l’inspiration des Septante. Au XVIe siècle, Sixte de Sienne l’admettait, Bibliotheca sancta, l. VIII, hær. xiii, ainsi que Ange Rocca. Opera, t. i, p. 276 ; t. ii, p. 8, Le futur cardinal Sirlet, en 1546, s’appuyait sur l’autorité de Philon ; mais, en 1575, Bellarmin lui exposait dans une lettre le sentiment opposé, fondé sur la comparaison critique du texte des différents livres. H. Höpfl, Kardinal Wilhelm Sirlets Annotationen zum Neuen Testament, dans les Biblische Studien, Fribourg-en-Brisgau, 1908, t. xiii, fasc. 2, p. 6, note. Bellarmin avait donc changé d’avis. Cf. J.de la Servière, La théologie de Bellarmin, Paris, 1908, p. 16. Dans la préface à l’édition romaine de 1587, Pierre Morin écrivait encore des Septante : Constat enim eos Interpretes, natione quidem Judæos, doctos vero græce, trecentis uno plus annis ante Christi adventum, cum in Egypto regnaret Ptolemoeus Philadelphus, Spiritu Sancto plenos sacra Biblia interpretatos esse, et de leur version : nimirum quæ instinctu quodam divinitatis elaborata bono generis humani prodierit in lucem. D’autres écrivains du même siècle et du siècle suivant ont maintenu ce sentiment, qui n’est plus reçu aujourd’hui par personne et qui n’a jamais été dans l’Eglise qu’une opinion particulière. Le Talmud de Babylone, traité Meghilla, i, fol. 9 a, admet la légende des 72 cellules. Les Samaritains l’admettent aussi. Voir un extrait de la Chronique samaritaine, dans Silvestre de Sacy, Chrestomathie arabe, t. i, p. 347, 348. Jusqu’au XVIe siècle, la Lettre d’Aristée fut tenue pour authentique. Louis Vives émit le premier des doutes dans une note sur le De civitate Dei, xviii, 42, de saint Augustin, Bâle, 1522. Son sentiment finit par prédominer. Il n’est plus nécessaire aujourd’hui de prouver l’inauthenticité de cette Lettre. On sait depuis longtemps que Démétrius n’était plus en charge sous le règne de Ptolémée Philadelphe ; il avait été banni d’Alexandrie immédiatement après la mort de Ptolémée Lagus. Voir Hemippus, cité par Diogène Laerce, v, 78, dans Müller, Fragmenta hist. græc, t. iii, p. 47. La victoire navale, remportée par Philadelphe sur Antigone, n’a probablement pas eu lieu. L’intervention officielle du roi et celle du grand-prêtre paraissent invraisemblables. La distinction des tribus n’existait plus depuis la captivité des Juifs à Babylone. On se demande seulement si la Lettre pseudonyme est purement fictive et constitue un roman historique, ou bien si la fiction ne contient pas quelques faits réels. Nous nous efforcerons plus loin d’en dégager le fond historique. Il n’est plus nécessaire non plus de prouver la non-inspiration des Septante. Il suffit de noter que cette inspiration n’a jamais été enseignée par l’Église. Elle a été admise par quelques Pères seulement sur la foi de la légende des cellules séparées et dans le dessein de justifier contre les Juifs qui s’appuyaient exclusivement sur la « vérité hébraïque », les passages et les leçons, propres à la traduction grecque. Saint Jérôme l’a vivement combattue et saint Chrysostome n’en a pas parlé. Les modernes la rejettent avec raison et se rangent au sentiment de saint Jérôme, suivant lequel les traducteurs grecs ont été des interprètes et non des prophètes. F. Vigouroux, Manuel biblique, 12o édit., Paris, 1906, t. i, p. 81-84. 1. La traduction grecque de la Bible hébraïque ne s’est pas faite d’un seul coup, et les divers livres ont été traduits par divers auteurs et à des époques différentes. Les interprètes n’ont pas suivi les mêmes principes de traduction ni employé les mêmes mots grecs pour rendre les mêmes termes hébraïques. Le Psaume 17 (hébreu 18) n’est pas traduit dans le psautier de la même manière qu’au deuxième livre de Samuel, chapitre 22. Les passages parallèles qu’on lit dans les Rois ou les Paralipomènes, dans les Rois ou Isaïe et Jérémie, dans les Psaumes et les Paralipomènes, appartiennent à des versions différentes. Le même terme a été différemment compris. Les noms divins n’ont pas été rendus de la même façon. Voir Loisy, Histoire critique du texte et des versions de la Bible, dans L’enseignement biblique, 1893, p. 21, 143-145. Ainsi encore פלִשְתִים est toujours traduit Φυλιστιείμ dans le Pentateuque et le livre de Josué, et ἀλλοφυλοι dans les autres livres. פֶסח est rendu par πασχα dans tous les livres, sauf les Paralipomènes et Jérémie où il est rendu par φασεκ. אָנֹכִי est traduit par ἐγω εἰμι dans les Juges, Ruth et les Rois et par ἐγω seul partout ailleurs. כִנֹּר est rendu dix-sept fois par κινιρα, qui n’est que la forme grécisée du nom hébreu, et vingt fois par κιθαρα, une fois par ὀργανα et une autre fois par ψαλτηριον. Voir F. Vigouroux, la Sainte Bible polyglotte, Paris, 1903, t. iv, p. 644, note 9. נֵבֶל est rendu ordinairement par ναβλα, dix fois par ψαλτηριον, deux fois par ὀργανον et une fois par ψαλμος. Ibid., p. 615, note 5. אוּרִים est traduit δηλωσις ou δηλοι dans le Pentateuque, mais φωτιζοντες, ou φωτιζων dans les livres d’Esdras. תֻמִים devient ἀληθεια dans l’Exode et τελειον dans le premier livre d’Esdras. קָהָל est rendu συναγωγη dans les quatre premiers livres de Moïse et dans les prophètes, mais ἐκκλησια dans le Deutéronome (sauf une exception) et dans les derniers livres historiques. Beaucoup d’autres exemples ont été recueillis par Hody, De Bibliorum textibus originalibus, versionibus græcis et latina vulgata, Oxford, 1705, p. 204-217. Le caractère de la traduction, dans les différents livres, est très variable, tantôt libre, tantôt littéral à l’excès et très lourd. Saint Jérôme avait déjà remarqué que celle du Pentateuque était la plus fidèle. Liber hebraic. quæst. in Gen., præf. Celle des autres livres historiques, quoique moins soignée que la précédente, l’emporte cependant en exactitude sur celle des livres poétiques. Pour ceux-ci, la traduction des Proverbes est la meilleure ; celle des Psaumes est trop littérale et peu poétique, quoique suffisante ; celle de l’Ecclésiaste est parfois inintelligible. On y trouve συν pour traduire un אֵת. Celle de Job est très médiocre dans les parties poétiques. Les livres des prophètes n’ont pas toujours été compris, et la version est obscure. Origène et saint Jérôme avaient constaté que celle de Jérémie est fort défectueuse. Celle d’Isaïe présente les mêmes défauts. Ézéchiel et les petits prophètes sont mieux interprétés. Daniel était si mal rendu que l’Église grecque adopta la version de Théodotion pour ce livre. Voir Trochon, Introduction générale, t. i, p. 372-375. On n’a pas encore étudié le texte de tous les livres. Nous indiquerons plus loin les ouvrages publiés sur chacun d’eux au point de vue de la valeur critique. 2. La version du Pentateuque. — C’est la plus ancienne et la seule qu’Aristée, Philon, Josèphe et tous les Juifs aient attribuée aux Septante. Les critiques qui tiennent la Lettre d’Aristée pour purement fictive, n’admettent même pas qu’elle ait été faite sous le règne de Ptolémée Philadelphe. Grätz retient seulement des sources helléniques et talmudiques qu’elle a eu un Ptolémée pour promoteur, et il ne voit que Ptolémée VI Philométor (180-145 avant Jésus-Christ), qui ait témoigné un véritable intérêt aux Juifs hellénistes et au judaïsme. Aussi place-t-il la version grecque du Pentateuque sous ce roi, ami des Juifs. Histoire des Juifs, trad. Wogue, Paris, 1884, t. ii, p. 406-407. Selon lui, Philométor en aurait chargé le Juif Aristobule. Sinaï et Golgotha, trad. Hess, Paris, 1867, p. 81-84. Cf. Jewish Quarterly Review, t. iii, p. 150-156, où Grätz prétend que la traduction du Lévitique 23.16, indique une différence d’opinion entre les Sadducéens et les Pharisiens sur la date de la Pâque. Plus généralement cependant, on la rapporte au règne de Ptolémée Philadelphe. Quelques-uns pensent qu’elle avait déjà été commencée sous Ptolémée Soter, fils de Lagus, parce que quelques Pères nomment ces rois en parlant des Septante. Il paraît plus vraisemblable qu’elle a vu le jour sous Ptolémée Philadelphe. La Lettre d’Aristée la rattache à ce prince. Or, quels qu’aient été les embellissements de la légende, on peut reconnaître au récit d’Aristée un fond de vérité. En effet, si cette Lettre a été rédigée vers 200, cinquante ans environ après la mort de Philadelphe, elle n’aurait guère pu être reçue et se répandre si tout le contenu en était fictif et si l’époque indiquée ne répondait même pas à la réalité. La fiction sans aucun fondement historique n’aurait eu aucun succès ; il fallait qu’elle gardât au moins quelque vraisemblance. Ptolémée Philadelphe aurait été mentionné dans la Lettre, parce que la version avait été réellement faite sous son règne. Le Talmud de Jérusalem, traité Meghilla, i, 9, trad. Schwab, Paris, 1883, t. vi, p. 213, qui reconnaît que la seule langue étrangère permise pour la transcription de la Loi est le grec, parce que, après examen, on a observé que le texte peut le mieux être traduit en cette langue, ajoute, p. 217-218, que les sages ont modifié pour le roi Ptolémée 13 passages bibliques : Genèse 1.1, 25, 27 ; 2.2 ; 11.7 ; 18.12 ; 49.6 ; Exode 4.20 ; 12.40 ; Lévitique 11.6 ; Nombres 16.15 ; Deutéronome 4.9 ; 17.3. La raison de ces modifications n’est indiquée que pour le 10e: « Au lieu du mot lièvre (Lévitique 11.6), dans l’énumération des animaux impurs, on dit « la bête aux courtes pattes » ; car la mère du roi Ptolémée portait le nom d’Arnatha. » On pense que ce nom ressemblait assez à celui d’ arnebeth, « lièvre », pour que le roi ait pu s’offenser de la traduction littérale. M. Wogue y a vu sans raison suffisante une allusion à Ptolémée Soter, dont la mère était femme de Lagus (λαγως, lièvre). Histoire de la Bible et de l’exégèse biblique, Paris, 1881, p. 138-139. Les traducteurs y ont pu préférer le nom δασυπους; à λαγως ; par respect pour n’importe quel prince Lagide. Il est moins sûr que le désir de Ptolémée Philadelphe d’enrichir sa bibliothèque de la traduction de la législation hébraïque ait été l’occasion de la version du Pentateuque. Ce désir lui aurait été attribué à cause de sa magnificence à accroître les collections de la bibliothèque du Musée, qu’avait fondée Plolémée Soter. Tout en admettant la possibilité de ce désir du roi, Munk ajoutait : « Mais l’origine immédiate de la version est suffisamment motivée par les besoins religieux des Juifs d’Égypte. Quoique nous ne sachions dire de qui elle est émanée, il est certain qu’elle est l’œuvre d’un ou de plusieurs Juifs d’Egypte, d’éducation grecque. » Palestine, Paris, 1881, p. 487. Les Juifs, en effet, étaient fort nombreux alors en Egypte, et notamment à Alexandrie. Ils avaient un temple à Léontopolis, et il leur importait de posséder dans la seule langue que la plupart connaissaient, leur loi qu’ils ne comprenaient plus en hébreu. La traduction grecque du Pentateuque a donc été faite par des Juifs alexandrins et pour les Juifs alexandrins. On eût peut-être difficilement trouvé à Jérusalem des hommes sachant assez de grec pour traduire le Pentateuque en cette langue. La version porte la marque d’une connaissance peu parfaite de l’hébreu ; elle est faite dans l’idiome vulgaire, parlé à Alexandrie. On y a même relevé des mots d’origine égyptienne, tels que ἀχει, (prairie) Genèse 41.2, 3 ; Jérémie 19.7 ; κονδυ (coupe), Genèse 44.2 ; ἰβις, (cigogne) Levitique 11.17 ; Deutéronome 14.16 ; βυσσος (lin), Exode 25.4 ; 26.1 ; θιβις (corbeille) Exode 2.3, etc. Mais l’emploi de ces mots ne prouve rien, puisqu’ils appartenaient à la langue vulgaire, parlée même en dehors de l’Égypte. Cependant, les traducteurs de la lettre des Purim dans Esther et du livre de l’Ecclésiastique étaient des Juifs palestiniens ; mais le dernier vivait en Egypte depuis longtemps. Certaines particularités de la traduction du Pentateuque répondent aux idées répandues dans le monde hellénique à l’époque des premiers Ptolémées. Ainsi, les traducteurs ont atténué les anthropomorphismes. Au lieu de se repentir d’avoir fait l’homme, Genèse 6.6, Dieu pense et réfléchit qu’il l’a créé. Tandis que, dans le texte hébreu, Moïse prie Dieu de se repentir du mal qu’il voulait infliger à son peuple et que Dieu s’en repentit réellement, Exode 32.12, 14, dans la version grecque, Moïse lui demande seulement d’avoir pitié du malheur de ce peuple, et Dieu en a pitié. Au lieu de voir « la face » de Dieu, Nombres 12.8, on ne voit que sa « gloire » . On a cru remarquer que les deux récits de la création avaient été traduits en conformité avec des idées platoniciennes qu’on retrouve dans Philon. La terre était « invisible », Genèse 1.2 ; Dieu se reposa de toutes les œuvres qu’il avait commencé à faire, Genèse 2.3, etc. Trochon, Introduction générale, t. i, p. 372. Mais cette observation est contestable, et il est plus probable que la philosophie grecque n’a pas eu d’influence directe sur les traducteurs de la Bible. A. Loisy, op. cit., p. 146-149. Cf. Freudenthal, Are there traces of greek philosophy in the Septuagint ? dans Jewish Quarterly Review, 1890, t. ii, p. 205-222. Plusieurs critiques modernes pensent que les auteurs de cette version n’avaient aucune mission officielle. D’abord œuvre simplement individuelle, la traduction grecque du Pentateuque a été bientôt adoptée par la communauté juive. M. Noldeke cependant la regarde comme l’œuvre de la communauté et comme le modèle de la traduction des autres livres de l’Ancien Testament. Histoire littéraire de l’Ancien Testament, trad. franc., Paris, 1873, p. 359-360. Le traité Sopherim, c. i, du Talmud de Babylone dit que chacun des cinq livres de Moïse aurait été traduit par un traducteur spécial, et on a remarqué que le même mot hébreu est rendu par des mots grecs différents dans plusieurs de ces livres et dans le même livre. Ainsi גֵר, « étranger », est traduit tantôt γειωρας, Exode 12.19, tantôt par προσηλυτος, Exode 12.48, 49 ; Levitique 19.34. הין est simplement transcrit ἱν, Levitique 23.13, mais traduit par χους, Levitique 19.36. שַׁבּת est traduit ἀναπαυσις, Exode 23.12, et σαββατα Exode 31.13, et les deux traductions sont réunies, Exode 16.23 ; 31.15 ; 35.2 ; Levitique 16.31 ; 23.3 ; 25.4. Cf. Grätz, Geschichte der Juden, t. iii p. 620. Cela prouve seulement que le traducteur, s’il n’y en a qu’un, n’avait pas de principes arrêtés d’interprétation. Quoi qu’il en soit et à supposer que la traduction grecque du Pentateuque n’ait pas été faite sous le règne de Ptolémée Philadelphe et pour la bibliothèque de ce roi, elle remonte néanmoins au troisième siècle. Des écrivains juifs du deuxième et du premier siècle s’en sont servis. On cite l’historien juif Démétrius, qui écrivait sous Ptolémée IV (222-204) ; cf. Schürer, t. iii, p. 350 ; le philosophe Aristobule dans son explication de la loi mosaïque, qui n’était qu’une libre reproduction du texte du Pentateuque, et le poète juif Ezéchiel qui, à l’imitation d’Euripide, a composé en vers grecs un drame sur la sortie d’Egypte, intitulé : Ἐξαγωγη. 3. Les autres livres. — Nous manquons de renseignements précis sur la date de la traduction des autres livres de la Bible hébraïque. Le plus sûr nous est fourni par le prologue de la version de l’Ecclésiastique. En l’an 38 de Ptolémée Évergète, le petit-fils de Jésus, étant en Égypte, constata, après un assez long séjour, que tous les Livres Saints de la Bible hébraïque n’étaient pas encore traduits en grec. Il laisse entendre que la loi, les prophètes et une partie au moins des autres livres, c’est-à-dire des hagiographes ou ketûbîm, avaient déjà passé en cette langue, puisque les étrangers mêmes peuvent devenir par leur moyen très habiles à parler et à écrire, puisque ces livres aussi présentent une très grande différence, lorsqu’on les lit dans leur propre langue. Cependant, quelques livres hébreux, qui contiennent une grande et estimable doctrine, ont été laissés sans traduction. De ce nombre était l’ouvrage de son aïeul Jésus, qu’il a pris soin de publier en grec en faveur de ceux qui veulent s’instruire et apprendre de quelle manière ils doivent régler leurs mœurs, quand ils ont résolu de mener une vie conforme à la loi du Seigneur. Ces dernières paroles nous apprennent quel mobile poussait les traducteurs israélites à donner leurs Livres Saints dans une langue étrangère. L’auteur nous apprend aussi quelles difficultés il a dû vaincre pour mener son œuvre à bonne fin, surtout relativement au choix des termes, car les mots hébreux perdent de leur force, lorsqu’ils sont traduits dans une autre langue. Il a constaté cette particularité dans la traduction de la loi, des prophètes et des autres livres, antérieure à celle qu’il a faite du livre de son grand-père. Puisque ce traducteur écrivait la 38e année, non de son âge, mais du règne d’un Ptolémée Évergète, il ne peut être question que de Ptolémée Évergète II ou Physcon (170-117) qui seul a régné plus de 38 ans, et non de Ptolémée III (247-222). Loin d’être superflue, comme on le prétendait, la préposition ἐπι après ἐτει est couramment employée dans les inscriptions de l’époque. Voir Deissmann, Bibelstudien, Marbourg, 1895, p. 255-257. La traduction grecque de l’Ecclésiastique a donc été faite en 132. Il en résulte que la version grecque de la majeure partie de la Bible hébraïque existait en 132. Les livres qui n’étaient pas encore traduits appartenaient à la série des ketûbîm. Or, nous possédons des renseignements sur la version de quelques-uns d’entre eux. Eupolème, qui vivait sous Démétrius Soter (162-150) et qui écrivait en 158-157, s’est servi de la version grecque des Paralipomènes, puisqu’il a tiré de 2Chroniques 2.2-15, la correspondance de Salomon avec Hiram, ainsi que l’a démontré Freudenthal, Alexander Polyhistor, 1875, p. 119. Cf. Schürer, t. iii, p. 311, 353. Les deux livres d’Esdras et de Néhémie, qui ont été longtemps réunis aux Paralipomènes, ont peut-être été traduits en même temps qu’eux. L’historien Aristée, qui est antérieur à Polyhistor et qui vivait au plus tard dans la première moitié du premier siècle, s’est servi de la version grecque du livre de Job, dont il connaît, la finale inauthentique. Freudenthal, p. 139 ; Schürer, t. iii, p. 311, 357. Selon une note du Codex Alexandrinus, le livre de Job aurait été traduit sur la Bible syriaque. Dans la suscription du texte grec d’Esther, 11.1 (Vulgate), Lysimaque de Jérusalem est désigné comme le traducteur de la lettre concernant la fête de Purim, et la version aurait été apportée à Alexandrie par le prêtre Dosithée, la quatrième année du règne de Ptolémée et de Cléopâtre. On pense généralement que ce roi est Ptolémée Philométor (181-175), sans que ce soit absolument certain, parce que quatre Ptolémées (V, VI, VII et VIII) ont eu chacun une femme du nom de Cléopâtre. Quelques critiques pensent à Ptolémée VIII et placent la traduction d’Esther à l’année 114. Willrich, Judaïca, Gœttingue, 1900, p. 2, a même voulu y voir, quoique sans grand fondement, Ptolémée XIV (48-47). Le Psaume 78 (79), 2, est cité en grec. 1Machabées 8.17. Or, la version grecque du premier livre des Machabées a probablement été faite au premier siècle avant notre ère. On attribue la traduction du Psautier en grec à la première moitié du deuxième siècle. Il faut noter que la version grecque, dite des Septante, a compris, dès l’origine, les livres et les parties deutéro-canoniques, dont le texte primitif était hébreu. Ainsi la version d’Esther avait les additions de cette nature, quelle qu’en soit d’ailleurs la provenance. Les fragments de Daniel sont écrits en grec dans la même langue que la version du livre protocanonique. C’est donc vraisemblablement le même interprète qui a traduit le tout vers le milieu du deuxième siècle avant notre ère. A. Bludau, De alexandrinæ interpretationis libri Daniel indole critica et hermeneutica, Munster, 1891, p. 5 ; Die alexandrinische Ubersetzung des Buches Daniel, Fribourg-en-Brisgau, 1897, p. 8. La version de Jérémie était complétée par celle du livre de Baruch et de la Lettre de Jérémie. Il y a une allusion à cette Lettre, Baruch, chapitre 6, dans 2Machabées 2.2-3. Notre troisième livre d’Esdras, qui est apocryphe, est le premier de ce nom dans la Bible grecque. Cette Bible existait dans son entier au premier siècle avant notre ère. Elle a été utilisée dans la partie juive des Oracles sybillins. Philon, qui vivait à cette époque, se servait de la version grecque des Livres Saints, quoique L. Cohn en ait douté, Neue Jahrbücher fur das klass. Alterthum, 1898, t. i, p. 521 sq., et il en a cité de nombreux passages. On n’a relevé dans ses œuvres aucune citation de Ruth, de l’Ecclésiaste, du Cantique, d’Esther, des Lamentations, d’Ézéchiel et de Daniel. C. F. Hornemann, Specimen exercitalionum criticarum in versionem LXX interpretum ex Philone, Gœttingue, 1773 ; C. Siegfried, Philo und der überlieferte Text der LXX, dans Zeitschrift fur wissenchaftliche Theologie, 1873, p. 217 sq.,411 sq., 522 sq. ; Ryle, Philo and Holy Scripture, Londres, 1895, p. xxxi-xxxii. Mais ces livres existaient alors en grec : Ruth était joint aux Juges, et les Lamentations à Jérémie. De ce que Philon ne les a pas cités, on ne peut pas conclure qu’ils n’étaient pas encore traduits en grec, pas plus qu’il n’en résulte qu’ils n’étaient pas alors reconnus comme sacrés et canoniques. Les écrivains du Nouveau Testament citent souvent les livres de la Bible hébraïque d’après la version grecque, sauf Esdras, Néhémie, Esther, l’Ecclésiaste, le Cantiq	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	2	Joshua 9:2 Ils se réunirent à la fois pour combattre Josué et Israël. 9.2a Alors, Josué éleva un autel au Seigneur Dieu d’Israël sur le mont Hebal, 9.2b Selon ce que Moïse, serviteur de Dieu, avait prescrit aux fils d’Israël et qu’il est écrit en la loi de Moïse ; cet autel fut construit en pierres brutes que le fer n’avait point travaillées ; Josué y posa des holocaustes au Seigneur et des hosties pacifiques. 9.2c Et sur les pierres il écrivit le Deutéronome, la loi de Moïse, devant les fils d’Israël. 9.2d Alors, tout Israël, ses anciens, les juges et les scribes de l’arche se faisaient face ; tandis que les prêtres et les lévites transportaient l’arche de l’alliance du Seigneur. Le prosélyte s’y trouvait avec l’indigène ; moitié de cette multitude se tenait près des montagnes de Garizin, l’autre moitié près du mont Hébal, comme l’avait prescrit à la première génération, Moïse, serviteur de Dieu, pour les bénédictions à donner au peuple. 9.2e Après cela, Josué lut toutes les paroles de la loi, les bénédictions et les malédictions, et tout ce qui est écrit en la loi de Moïse. 9.2f Et de tous les ordres de Moïse à Josué, il n’y eut pas une seule parole que celui-ci ne lut aux oreilles de toute l’Eglise des fils d’Israël, hommes, femmes, enfants et prosélytes qui s’étaient réunis à Israël.	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	7	Joshua 19:47 Tel est l’héritage de la tribu des fils de Dan, par familles, avec leurs villes et leurs villages. 19.47a Et les fils de Dan n’écrasèrent pas l’Amorrhéen qui les assiégeait dans les montagnes ; l’Amorrhéen ne leur permettait pas de descendre dans les vallées, et leur ôtait par force une part de leur territoire.	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	8	Joshua 19:48 (a) Et les fils de Dan n’écrasèrent pas l’Amorrhéen qui les assiégeait dans les montagnes ; l’Amorrhéen ne leur permettait pas de descendre dans les vallées, et leur ôtait par force une part de leur territoire. 19.48a Toutefois, l’Amorrhéen continua de demeurer en Elom et en Salamin. Puis, la main d’Ephraïm s’appesantit sur lui, et il devint tributaire.	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	2	Joshua 21:42 Et leurs banlieues ; ils eurent chaque ville avec sa banlieue, et toutes ces villes étaient entourées de banlieues. 21.42a Josué eut alors achevé de visiter la terre promise, et d’assigner à chacun ses limites. 21.42b Or, les fils d’Israël avaient fait la part de Josué, selon l’ordre du Seigneur, ils lui avaient donné la ville qu’il avait demandée, Thamnasachar, dans les montagnes d’Ephraïm ; 21.42c il l’avait bâtie et il l’habitait. 21.42d Josué y recueillit les couteaux de pierre avec lesquels il avait circoncis les fils d’Israël nés pendant le voyage dans le désert ; il les déposa en Thamnasachar.	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	1	Joshua 24:31 On l’ensevelit sur les limites de son héritage, en Thamnasarach, dans les montagnes d’Ephraïm, au nord des montagnes de Galaad. 24.31a Et lorsqu’on l’eut déposé là dans son sépulcre, on y plaça près de lui les couteaux de pierre avec lesquels il avait circoncis les fils d’Israël en Galgala, comme l’avait prescrit le Seigneur, lorsqu’il les eut amenés de l’Egypte ; et les couteaux y sont encore de nos jours.	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	3	Joshua 24:33 Les fils d’Israël avaient rapporté de l’Egypte les ossements de Joseph, et ils les inhumèrent à Sichem dans le champ que Jacob avait acheté au prix de cent agneaux, des Amorrhéens qui habitaient Sichem, et qu’il avait donné à Joseph. 24.33a Ce jour-là, les fils d’Israël, ayant pris l’arche de Dieu, la transportèrent dans leurs rangs. Et Phinées fut prêtre à la place de son père Eléazar, jusqu’à ce que lui-même mourut et fut inhumé dans sa terre de Gabaar. 24.33b Et les fils d’Israël retournèrent chacun en son lieu et dans sa ville, et ils adorèrent Astarté, Astaroth et les dieux des nations qui les entouraient. Et le Seigneur les livra aux mains d’Eglom, roi de Moab, qui les tyrannisa pendant dix-huit ans. 	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	9	Sirach 0:0 1De grandes et nombreuses choses, au sujet desquelles il faut louer Israël de sa doctrine et de sa sagesse, nous ayant été transmises par la Loi, les Prophètes et autres qui les ont suivis; 2comme il est nécessaire que les hommes qui les lisent, non seulement soient instruits, mais encore puissent être des savants utiles, parlant et écrivant pour ceux qui y sont étrangers ; 3mon aïeul Jésus, s’étant adonné de toutes ses forces à l’étude de la Loi, des Prophètes et des autres livres de nos pères, et ayant acquis de la sorte une instruction suffisante, 4a été entraîné à consigner lui-même dans un écrit quelques choses concernant la discipline et la sagesse, afin que ceux qui ont le goût de la science, devenus eux-mêmes dociles à ses préceptes, s’attachent d’autant plus à une genre de vie conforme à la loi. 5Soyez donc invités à faire cette lecture avec bienveillance et attention, et à être indulgents si, en n’épargnant pas la peine pour traduire exactement, nous semblions en quelques passages n’avoir pu bien rendre les expressions ; 6car les choses dites en hébreu ne sont pas toujours transportées dans une autre langue avec la même force. Mais ce n’est pas tout : la Loi aussi, et les Prophètes et les autres livres n’ont pas entre eux de médiocres variantes. 7Étant venu en Égypte la trente-huitième année du règne de Ptolémée Évergète, et y étant resté longtemps, j’ai trouvé un ouvrage d’une doctrine qui n’est pas sans importance. 8J’ai donc jugé nécessaire d’apporter quelque zèle et de mettre beaucoup de soin à traduire ce livre. 9Ayant consacré de longues veilles et beaucoup de savoir pour mener à fin mon œuvre, j’ai voulu la publier à l’usage de ceux qui, sur la terre étrangère, désirent apprendre et se sont préparés d’avance à régler leur vie et leurs habitudes selon la loi. 	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	5	Jeremiah 10:5 C’est de l’argent travaillé, il ne marchera jamais ; c’est une image en argent de Tharsis ; viendra aussi l’or de Mophaz, et la main du fondeur ; ce sont œuvres d’artistes, revêtues d’hyacinthe et de pourpre. 10.5a Elles ne peuvent aller qu’on ne les porte. Ne les craignez point, elles ne vous feront point de mal, et il n’y a pas de bien à en attendre.	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	1	Baruch 1:11 Priez pour1a vie de Nabuchodonosor, roi de Babylone, et pour la vie de Baltassar, son fils, afin que leurs jours sur la terre soient comme les jours du ciel ;	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	1	Baruch 4:12 Que nul ne se réjouisse en me voyant veuve Et délaissée d’un grand nombre ; Je suis réduite à la solitude à cause des péchés de mes fils, Parce qu’ils se sont détournés de la 1oi de Dieu,	WARN
+French---French-LXX-TheoTex	NUMERALS	Source	count	11	WARN
+French---French-LXX-TheoTex	NUMERALS	Aionian	19	006-JOS-019-047 Tel est l’héritage de la tribu des fils de Dan, par familles, avec leurs villes et leurs villages. 19.47a Et les fils de Dan n’écrasèrent pas l’Amorrhéen qui les assiégeait dans les montagnes; l’Amorrhéen ne leur permettait pas de descendre dans les vallées, et leur ôtait par force une part de leur territoire.	ERROR
+French---French-LXX-TheoTex	NUMERALS	Aionian	19	006-JOS-019-048 Et les fils de Dan n’écrasèrent pas l’Amorrhéen qui les assiégeait dans les montagnes; l’Amorrhéen ne leur permettait pas de descendre dans les vallées, et leur ôtait par force une part de leur territoire. 19.48a Toutefois, l’Amorrhéen continua de demeurer en Elom et en Salamin. Puis, la main d’Ephraïm s’appesantit sur lui, et il devint tributaire.	ERROR
+French---French-LXX-TheoTex	NUMERALS	Aionian	5	010-2SA-005-016 Elisama, Elidaé, Eliphalath, 5.16a Samaé, Jessibath, Nathan, Galamaan, Jébahar, Theïsus, Eliphalat, Naged, Naphec, Janathas, Leasamys, Baalimath et Eliphaath.	ERROR
+French---French-LXX-TheoTex	NUMERALS	Aionian	9	011-1KI-009-009 Et on lui répondra: C’est pour avoir abandonné le Seigneur leur Dieu, qui avait ramené leurs pères de l’Égypte, et de la maison de servitude; ils se sont attachés à des dieux étrangers, ils les ont adorés, et les ont servis; voilà pourquoi le Seigneur a fait retomber sur eux leurs propres crimes. 9.9a Or, le roi Salomon avait déjà conduit la fille du Pharaon de la ville de David au palais qu’en ces temps-là il s’était bâti.	ERROR
+French---French-LXX-TheoTex	NUMERALS	Aionian	36	014-2CH-036-002 Joachaz avait vingt-trois ans quand il monta sur le trône, et il régna trois mois à Jérusalem; 36.2a Sa mère se nommait Amital, fille de Jérémie de Lobna, 36.2b Et il fit le mal devant le Seigneur; il suivit tous les mauvais exemples de ses pères; 36.2c Et le Pharaon Néchao le chargea de chaînes à Déblatha, en la terre d’Emath, pour qu’il ne régnât pas à Jérusalem.	ERROR
+French---French-LXX-TheoTex	NUMERALS	Aionian	36	014-2CH-036-004 Et il fit le mal devant le Seigneur; il suivit tous les mauvais exemples de ses pères; 36.4a Mais il avait donné l’argent et l’or au Pharaon; en ce temps-là, on commença sur la terre à lever une taxe réglée par le Pharaon; chacun, autant qu’il le put, emprunta l’argent et l’or du peuplade la terre, pour le donner au Pharaon Néchao.	ERROR
+French---French-LXX-TheoTex	NUMERALS	Aionian	10	024-JER-010-005 C’est de l’argent travaillé, il ne marchera jamais; c’est une image en argent de Tharsis; viendra aussi l’or de Mophaz, et la main du fondeur; ce sont œuvres d’artistes, revêtues d’hyacinthe et de pourpre. 10.5a Elles ne peuvent aller qu’on ne les porte. Ne les craignez point, elles ne vous feront point de mal, et il n’y a pas de bien à en attendre.	ERROR
+French---French-LXX-TheoTex	NUMERALS	Aionian	count	7	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

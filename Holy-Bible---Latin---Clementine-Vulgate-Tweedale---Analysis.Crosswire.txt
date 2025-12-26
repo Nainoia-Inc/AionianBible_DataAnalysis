@@ -1,0 +1,383 @@
+# File Name: Holy-Bible---Holy-Bible---Latin---Clementine-Vulgate-Tweedale---Analysis.txt
+# File Size: 32037       
+# File Date: 12/13/2025 05:44:31
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Bibbia Vulgata Clementina
+# Bible Name English: Clementine Vulgate, Tweedale
+# Bible Language: Latine
+# Bible Language English: Latin
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Catholic Publishing, Madrid, Michael Tweedale, vulsearch.sourceforge.net
+# Bible Source Version: 4/29/2019
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=VulgClementine
+# Bible Source Year: 405, 1946
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Latin---Clementine-Vulgate-Tweedale	ENCODING	Source	Holy-Bible---Latin---Clementine-Vulgate-Tweedale---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCODING	Aionian	Holy-Bible---Latin---Clementine-Vulgate-Tweedale---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Latin---Clementine-Vulgate-Tweedale	BYTES	Source	bytes / chars	6287499 / 6260922 (multi-byte)	NOTICE
+Latin---Clementine-Vulgate-Tweedale	BYTES	Aionian	bytes / chars	4041100 / 4017598 (multi-byte)	NOTICE
+Latin---Clementine-Vulgate-Tweedale	BYTES	SourceClean	bytes / chars	4620946 / 4594402 (multi-byte)	NOTICE
+Latin---Clementine-Vulgate-Tweedale	BYTES	AionianClean	bytes / chars	4037311 / 4013820 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Latin---Clementine-Vulgate-Tweedale	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	AIONIAN	Aionian	missing-verse	0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Latin---Clementine-Vulgate-Tweedale	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Latin---Clementine-Vulgate-Tweedale	UNPRINTABLE	Source	count	0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Summary	(-)Orginal	78	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Summary	(+)Aionian	78	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : ([)	2	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : ( )	729235	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (T)	2451	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (e)	404371	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (s)	269713	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (t)	301162	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (a)	258441	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (m)	193018	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (n)	217419	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (1)	31741	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (H)	3046	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (d)	96612	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (i)	381595	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (g)	35315	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (])	2	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (\n)	37218	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (G)	2963	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (0)	7669	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (:)	61206	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (I)	18020	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (p)	72904	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (r)	201545	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (c)	121379	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (o)	187657	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (v)	48722	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (D)	18197	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (u)	277207	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Latin-1 Supplement: (æ)	21785	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (l)	97538	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (.)	30452	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (2)	21676	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (,)	73890	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (b)	55032	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (f)	30074	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (y)	4700	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (q)	42026	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (3)	14628	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (x)	16266	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (F)	1583	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (E)	13625	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (4)	10968	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (5)	8301	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (A)	7459	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (N)	5285	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (6)	7630	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (7)	6984	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (h)	38740	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (8)	6814	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (V)	1768	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (C)	6700	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (9)	6253	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (M)	6866	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (j)	11627	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (P)	7705	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (B)	2313	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (;)	3110	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Latin-1 Supplement: (Æ)	853	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (Q)	3427	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (S)	10313	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (?)	3206	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (z)	3140	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (U)	523	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (R)	2512	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Latin-1 Supplement: (ë)	2986	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (L)	3497	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (J)	12921	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Latin Extended-A : (œ)	920	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (()	225	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : ())	225	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (O)	1280	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (Z)	632	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (!)	244	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (-)	8	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (K)	1585	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (k)	3418	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (W)	459	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (X)	4	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source(-)	Basic Latin : (w)	1416	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (0)	130566	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (1)	42437	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (\t)	124384	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (G)	3465	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (E)	19847	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (N)	6742	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (I)	8165	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (n)	178052	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : ( )	506306	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (p)	62708	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (r)	165463	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (i)	316067	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (c)	97059	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (o)	152003	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (e)	328769	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (a)	207266	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (v)	41056	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (t)	253605	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (D)	17313	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (u)	235306	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (s)	212693	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Latin-1 Supplement: (æ)	18888	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (l)	76266	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (m)	159773	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (.)	26767	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (\n)	31095	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (2)	31082	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (T)	4217	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (,)	65101	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (b)	43368	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (f)	26003	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (y)	3159	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (:)	21649	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (q)	37558	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (3)	17180	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (x)	13011	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (F)	1481	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (4)	20029	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (d)	82969	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (A)	14824	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (6)	10729	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (h)	22702	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (8)	7858	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (V)	2903	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (C)	8038	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (9)	9293	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (g)	28866	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (M)	7160	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (j)	10290	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (P)	7372	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (B)	3324	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (H)	6352	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (;)	2975	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Latin-1 Supplement: (Æ)	812	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (Q)	3145	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (S)	12790	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (?)	3021	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (z)	1422	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (U)	3968	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (R)	5556	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Latin-1 Supplement: (ë)	2779	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (L)	3771	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (J)	11193	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Latin Extended-A : (œ)	824	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (()	481	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : ())	481	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (O)	7797	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (Z)	2157	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (!)	213	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (X)	1211	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (-)	9	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (K)	2686	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Basic Latin : (k)	40	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : ( )	729235	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (T)	2451	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (e)	404371	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (s)	269713	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (t)	301162	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (a)	258441	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (m)	193018	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (n)	217419	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (1)	31741	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (H)	3046	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (d)	96612	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (i)	381595	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (g)	35315	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (])	2	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (\n)	37218	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (G)	2963	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (0)	7669	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (:)	61206	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (I)	18020	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (p)	72904	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (r)	201545	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (c)	121379	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (o)	187657	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (v)	48722	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (D)	18197	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (u)	277207	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Latin-1 Supplement: (æ)	21785	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (l)	97538	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (.)	30452	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (2)	21676	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (,)	73890	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (b)	55032	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (f)	30074	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (y)	4700	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (q)	42026	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (3)	14628	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (x)	16266	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (F)	1583	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (E)	13625	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (4)	10968	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (5)	8301	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (A)	7459	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (N)	5285	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (6)	7630	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (7)	6984	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (h)	38740	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (8)	6814	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (V)	1768	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (C)	6700	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (9)	6253	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (M)	6866	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (j)	11627	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (P)	7705	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (B)	2313	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (;)	3110	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Latin-1 Supplement: (Æ)	853	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (Q)	3427	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (S)	10313	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (?)	3206	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (z)	3140	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (U)	523	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (R)	2512	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Latin-1 Supplement: (ë)	2986	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (L)	3497	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (J)	12921	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Latin Extended-A : (œ)	920	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (()	225	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : ())	225	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (O)	1280	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (Z)	632	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (!)	244	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (-)	8	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (K)	1585	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (k)	3418	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (W)	459	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (X)	4	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNICODE	Source	Basic Latin : (w)	1416	NOTICE
+
+# VERSIFICATION
+Latin---Clementine-Vulgate-Tweedale	VERSIFICATION	Aionian	missing	001-GEN-049-032	WARN
+Latin---Clementine-Vulgate-Tweedale	VERSIFICATION	Aionian	missing	002-EXO-040-013	WARN
+Latin---Clementine-Vulgate-Tweedale	VERSIFICATION	Aionian	missing	002-EXO-040-014	WARN
+Latin---Clementine-Vulgate-Tweedale	VERSIFICATION	Aionian	missing	006-JOS-021-038	WARN
+Latin---Clementine-Vulgate-Tweedale	VERSIFICATION	Aionian	missing	006-JOS-021-039	WARN
+Latin---Clementine-Vulgate-Tweedale	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+Latin---Clementine-Vulgate-Tweedale	VERSIFICATION	Summary	missing	6	WARN
+Latin---Clementine-Vulgate-Tweedale	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	()	225 / 225	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	[]	2 / 2	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	()	481 / 481	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(1/0)	I Kings 8:41 Insuper et alienigena, qui non est de populo tuo Israël, cum venerit de terra longinqua propter nomen tuum (audietur enim nomen tuum magnum, et manus tua fortis, et brachium tuum	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(0/1)	I Kings 8:42 extentum ubique), cum venerit ergo, et oraverit in hoc loco,	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(1/0)	I Kings 10:11 (Sed et classis Hiram, quæ portabat aurum de Ophir, attulit ex Ophir ligna thyina multa nimis, et gemmas pretiosas.	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(0/1)	I Kings 10:12 Fecitque rex de lignis thyinis fulcra domus Domini et domus regiæ, et citharas lyrasque cantoribus : non sunt allata hujuscemodi ligna thyina, neque visa usque in præsentem diem.)	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(1/0)	I Chronicles 5:1 Filii quoque Ruben primogeniti Israël. (Ipse quippe fuit primogenitus ejus : sed cum violasset thorum patris sui, data sunt primogenita ejus filiis Joseph filii Israël, et non est ille reputatus in primogenitum.	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(0/1)	I Chronicles 5:2 Porro Judas, qui erat fortissimus inter fratres suos, de stirpe ejus principes germinati sunt : primogenita autem reputata sunt Joseph.)	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(1/0)	Amos 5:6 Quærite Dominum, et vivite (ne forte comburatur ut ignis domus Joseph, et devorabit, et non erit qui extinguat Bethel : 	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(0/1)	Amos 5:7 qui convertitis in absinthium judicium, et justitiam in terra relinquitis) : 	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(1/0)	Hebrews 7:20 Et quantum est non sine jurejurando (alii quidem sine jurejurando sacerdotes facti sunt,	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(0/1)	Hebrews 7:21 hic autem cum jurejurando per eum, qui dixit ad illum : Juravit Dominus, et non pœnitebit eum : tu es sacerdos in æternum) :	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(1/0)	Revelation of John 18:12 merces auri, et argenti, et lapidis pretiosi, et margaritæ, et byssi, et purpuræ, et serici, et cocci (et omne lignum thyinum, et omnia vasa eboris, et omnia vasa de lapide pretioso, et æramento, et ferro, et marmore,	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Source	(0/1)	Revelation of John 18:13 et cinnamomum) et odoramentorum, et unguenti, et thuris, et vini, et olei, et similæ, et tritici, et jumentorum, et ovium, et equorum, et rhedarum, et mancipiorum, et animarum hominum.	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(1/0)	011 1KI 008 041 Insuper et alienigena, qui non est de populo tuo Israël, cum venerit de terra longinqua propter nomen tuum (audietur enim nomen tuum magnum, et manus tua fortis, et brachium tuum	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(0/1)	011 1KI 008 042 extentum ubique), cum venerit ergo, et oraverit in hoc loco,	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (Sed et classis Hiram, quæ portabat aurum de Ophir, attulit ex Ophir ligna thyina multa nimis, et gemmas pretiosas.	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 Fecitque rex de lignis thyinis fulcra domus Domini et domus regiæ, et citharas lyrasque cantoribus: non sunt allata hujuscemodi ligna thyina, neque visa usque in præsentem diem.)	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Filii quoque Ruben primogeniti Israël. (Ipse quippe fuit primogenitus ejus: sed cum violasset thorum patris sui, data sunt primogenita ejus filiis Joseph filii Israël, et non est ille reputatus in primogenitum.	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Porro Judas, qui erat fortissimus inter fratres suos, de stirpe ejus principes germinati sunt: primogenita autem reputata sunt Joseph.)	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(1/0)	030 AMO 005 006 Quærite Dominum, et vivite (ne forte comburatur ut ignis domus Joseph, et devorabit, et non erit qui extinguat Bethel:	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(0/1)	030 AMO 005 007 qui convertitis in absinthium judicium, et justitiam in terra relinquitis):	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 Et quantum est non sine jurejurando (alii quidem sine jurejurando sacerdotes facti sunt,	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 hic autem cum jurejurando per eum, qui dixit ad illum: Juravit Dominus, et non pœnitebit eum: tu es sacerdos in æternum): (aiōn g165)	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(1/0)	066 REV 018 012 merces auri, et argenti, et lapidis pretiosi, et margaritæ, et byssi, et purpuræ, et serici, et cocci (et omne lignum thyinum, et omnia vasa eboris, et omnia vasa de lapide pretioso, et æramento, et ferro, et marmore,	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Aionian	(0/1)	066 REV 018 013 et cinnamomum) et odoramentorum, et unguenti, et thuris, et vini, et olei, et similæ, et tritici, et jumentorum, et ovium, et equorum, et rhedarum, et mancipiorum, et animarum hominum.	WARN
+Latin---Clementine-Vulgate-Tweedale	ENCLOSURES	Summary	lines	12 / 12	NOTICE
+
+# UNEXPECTED
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Latin---Clementine-Vulgate-Tweedale	NUMERALS	Source	count	0	NOTICE
+Latin---Clementine-Vulgate-Tweedale	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Surgens autem mane prima sabbati, apparuit primo Mariæ Magdalene, de qua ejecerat septem dæmonia.	WARN
+Latin---Clementine-Vulgate-Tweedale	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

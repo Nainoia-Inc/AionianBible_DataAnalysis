@@ -1,0 +1,432 @@
+# File Name: Holy-Bible---Holy-Bible---Hungarian---Hungarian-Karoli---Analysis.txt
+# File Size: 40081       
+# File Date: 12/13/2025 05:38:57
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Revideált Károli Biblia 1908
+# Bible Name English: Revised Hungarian Bible 1908
+# Bible Language: Magyar Nyelv
+# Bible Language English: Hungarian
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Károli Gáspár, Vizsoly, Hungary
+# Bible Source Version: 10/24/2020
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=HunKar
+# Bible Source Year: 1590, 1908
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Hungarian---Hungarian-Karoli	ENCODING	Source	Holy-Bible---Hungarian---Hungarian-Karoli---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Hungarian---Hungarian-Karoli	ENCODING	Aionian	Holy-Bible---Hungarian---Hungarian-Karoli---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Hungarian---Hungarian-Karoli	BYTES	Source	bytes / chars	4829764 / 4454206 (multi-byte)	NOTICE
+Hungarian---Hungarian-Karoli	BYTES	Aionian	bytes / chars	4688560 / 4312707 (multi-byte)	NOTICE
+Hungarian---Hungarian-Karoli	BYTES	SourceClean	bytes / chars	4649132 / 4273574 (multi-byte)	NOTICE
+Hungarian---Hungarian-Karoli	BYTES	AionianClean	bytes / chars	4684938 / 4309152 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Hungarian---Hungarian-Karoli	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Hungarian---Hungarian-Karoli	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Hungarian---Hungarian-Karoli	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Hungarian---Hungarian-Karoli	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Hungarian---Hungarian-Karoli	AIONIAN	Aionian	missing-verse	0	NOTICE
+Hungarian---Hungarian-Karoli	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Hungarian---Hungarian-Karoli	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Hungarian---Hungarian-Karoli	UNPRINTABLE	Source	count	0	NOTICE
+Hungarian---Hungarian-Karoli	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Hungarian---Hungarian-Karoli	UNICODE	Summary	(-)Orginal	74	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Summary	(+)Aionian	77	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : ([)	2	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : ( )	661452	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (T)	2009	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (e)	355532	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (s)	194138	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (t)	234696	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (a)	292672	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (m)	126513	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (n)	202112	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (1)	27554	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (H)	4312	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (d)	82865	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (i)	137491	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (g)	101819	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (])	2	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (\n)	32383	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (G)	2869	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (0)	6721	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (:)	43037	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (K)	4705	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (z)	136656	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (b)	48651	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (r)	112989	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Latin-1 Supplement: (é)	126600	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (I)	18458	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (f)	31271	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Latin-1 Supplement: (ö)	31305	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (l)	183742	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (.)	25901	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (2)	19316	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (A)	10780	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (p)	25324	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (k)	177237	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (u)	30109	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (v)	58841	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (,)	74194	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (y)	59516	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Latin-1 Supplement: (í)	13389	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (L)	3664	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (3)	12506	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (o)	122486	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Latin-1 Supplement: (á)	106784	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Latin Extended-A : (ő)	32199	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (4)	9334	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (h)	55057	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (j)	36046	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Latin-1 Supplement: (ó)	21498	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (;)	10480	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (5)	7207	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (6)	6599	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (7)	6030	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (8)	5890	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (9)	5752	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (c)	17010	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (P)	4845	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (-)	2467	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (S)	6561	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (M)	10607	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (E)	7428	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (B)	2242	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (O)	459	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (x)	1311	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (D)	3909	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (N)	4191	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (V)	967	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (C)	3050	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (J)	12096	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (U)	1612	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (!)	3526	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (R)	1709	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (Z)	652	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (()	219	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : ())	219	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source(-)	Basic Latin : (w)	1417	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (G)	3479	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (E)	14913	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (N)	6075	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (K)	5806	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (e)	330682	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (z)	135064	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (d)	80945	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (t)	227061	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (b)	44890	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (n)	190652	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : ( )	566550	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (r)	102945	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (m)	116842	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin-1 Supplement: (é)	126613	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (I)	11160	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (s)	169831	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (a)	276211	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (g)	99608	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (f)	30721	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin-1 Supplement: (ö)	31315	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (l)	174612	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (.)	25831	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (A)	18744	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (p)	24891	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (i)	122141	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (k)	173887	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (u)	21320	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (v)	56586	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (,)	74204	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (y)	58329	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin-1 Supplement: (í)	13390	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (L)	4026	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (o)	109489	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (:)	10659	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin-1 Supplement: (á)	106791	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin Extended-A : (ő)	32206	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (h)	43980	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (j)	36051	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin-1 Supplement: (ó)	21500	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (;)	10482	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (T)	4361	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (H)	7805	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (c)	12408	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (P)	4794	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (-)	2468	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (S)	11213	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (M)	12704	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (B)	3692	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (O)	7127	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (x)	58	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (D)	4507	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (V)	2230	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (C)	4716	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (J)	11488	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (U)	5120	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (!)	3525	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (R)	4902	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (Z)	2186	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (()	561	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : ())	560	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Basic Latin : (q)	3	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : ( )	661452	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (T)	2009	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (e)	355532	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (s)	194138	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (t)	234696	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (a)	292672	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (m)	126513	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (n)	202112	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (1)	27554	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (H)	4312	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (d)	82865	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (i)	137491	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (g)	101819	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (])	2	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (\n)	32383	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (G)	2869	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (0)	6721	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (:)	43037	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (K)	4705	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (z)	136656	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (b)	48651	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (r)	112989	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (é)	126600	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (I)	18458	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (f)	31271	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (ö)	31305	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (l)	183742	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (.)	25901	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (2)	19316	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (A)	10780	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (p)	25324	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (k)	177237	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (u)	30109	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (v)	58841	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (,)	74194	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (y)	59516	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (í)	13389	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (L)	3664	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (3)	12506	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (É)	10731	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (o)	122486	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (á)	106784	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin Extended-A : (ő)	32199	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (4)	9334	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (h)	55057	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (j)	36046	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (ó)	21498	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (;)	10480	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (5)	7207	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (6)	6599	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (7)	6030	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (ú)	6729	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (8)	5890	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (9)	5752	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin Extended-A : (ű)	3750	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (ü)	12779	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (c)	17010	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (P)	4845	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (-)	2467	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (S)	6561	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (Í)	1000	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (M)	10607	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (E)	7428	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (Ú)	6578	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (F)	1606	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (B)	2242	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (O)	459	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (x)	1311	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (D)	3909	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (N)	4191	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (V)	967	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (C)	3050	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (?)	3106	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin Extended-A : (Ő)	507	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (Á)	1183	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (J)	12096	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (U)	1612	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (!)	3526	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (R)	1709	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (Z)	652	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	General Punctuation : (–)	93	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (()	219	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : ())	219	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (Ó)	74	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (Ö)	163	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (Y)	4	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin Extended-A : (Ű)	7	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Latin-1 Supplement: (Ü)	40	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	General Punctuation : („)	14	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	General Punctuation : (”)	14	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (`)	4	NOTICE
+Hungarian---Hungarian-Karoli	UNICODE	Source	Basic Latin : (w)	1417	NOTICE
+
+# VERSIFICATION
+Hungarian---Hungarian-Karoli	VERSIFICATION	Summary	missing	0	NOTICE
+Hungarian---Hungarian-Karoli	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	()	219 / 219	NOTICE
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	[]	2 / 2	NOTICE
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	()	561 / 560	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Numbers 11:7 (A manna pedig olyan vala mint a kóriándrum magva, a színe pedig mint a bdelliomnak színe. 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Numbers 11:9 Mikor pedig a harmat leszáll vala a táborra éjjel, a manna is mindjárt leszáll vala arra.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Numbers 31:43 (Vala pedig a gyülekezetre eső felerész juhokból: háromszáz harminczhét ezer és ötszáz;	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Numbers 31:46 Emberi lélek: tizenhat ezer.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Deuteronomy 2:10 (Az Emeusok laktak abban annak előtte, nagy nép, sok és szálas, mint az Anákok.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Deuteronomy 2:12 Szeirben pedig Horeusok laktak az előtt, a kiket az Ézsaú fiai kiűztek, és kiirtottak színök elől, és azoknak helyén laktak, a miképen cselekedék Izráel is az ő örökségének földén, a melyet adott néki az Úr.) 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Deuteronomy 2:20 (Óriások földének tartották azt is; óriások laktak azon régenten, a kiket az Ammoniták Zanzummoknak hívtak.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Deuteronomy 2:23 Az Avveusokat is, a kik falvakban laknak vala Gázáig, kiirtották a Káftoreusok a kik kijöttek volt Káftorból, és lakának azoknak helyén.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Deuteronomy 29:16 (Mert ti tudjátok miképen laktunk Égyiptomnak földén, és miképen jöttünk által a nemzetek között, a kiken általjöttetek.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Deuteronomy 29:17 És láttátok az ő undokságaikat és bálványaikat: fát és követ, ezüstöt és aranyat, a melyek nálok vannak.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	I Kings 12:2 Mikor pedig meghallotta ezt Jeroboám, a Nébát fia, (a ki még Égyiptomban volt, a hová futott volt Salamon király elől, és Égyiptomban tartózkodék Jeroboám, 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	I Kings 12:3 És hozzá küldvén, elhivaták őt); elmenének Jeroboám és az Izráel egész gyülekezete, és szólának Roboámnak, mondván:	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	I Kings 18:3 És Akháb hivatá Abdiást, a ki az ő házának gondviselője volt. (Abdiás pedig felette igen féli vala az Urat; 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	I Kings 18:4 Mert mikor Jézabel megölette az Úr prófétáit, Abdiás száz prófétát vett oltalmába, és rejtette el ötvenenként egy-egy barlangba, és ott táplálta őket kenyérrel és vízzel).	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	I Chronicles 5:1 Rúbennek, Izráel elsőszülöttének fiai (mert ő volt az elsőszülött; mikor pedig megfertőztette az ő atyjának ágyasházát, az ő elsőszülöttségi joga a József fiainak adaték, a ki Izráel fia vala, mindazáltal nem úgy hogy ők neveztessenek származás szerint elsőszülötteknek, 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	I Chronicles 5:2 Mert Júda tekintélyesebb vala az ő testvérei között, és ő belőle való volt a fejedelem, hanem az elsőszülöttségnek haszna lőn Józsefé): 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	I Chronicles 8:3 (Belának fiai voltak: Adár, Géra és Abihúd,	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	I Chronicles 8:4 Abisua, Naamán, Ahóah.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	I Chronicles 8:6 Ezek az Ehud fiai: (Ezek voltak főemberek a Géba városában lakó nemzetség között, kiket fogságba vittek Manahátba.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	I Chronicles 8:7 Nevezetesen Naamánt és Ahiját és Gérát vitték fogságba): nemzé pedig Uzzát és Akhihúdot.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	I Chronicles 21:29 (Az Úr sátora pedig, a melyet csinált vala Mózes a pusztában, és az égőáldozat oltára is akkor Gibeon magaslatán vala. 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	I Chronicles 21:30 És Dávid nem mehetett fel oda, hogy az Istent megengesztelje, mert igen megrettent volt az Úr angyalának kardjától.) 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	II Chronicles 5:11 Lőn pedig, mikor a papok kijöttek a szent helyből, (mert a papok mindnyájan, a kik ott valának, magokat megszentelték vala és akkor nem kellett megtartaniok az ő sorrendjöket, 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	II Chronicles 5:13 Mert a kürtölőknek és éneklőknek tisztök vala egyenlőképen zengeni az Úrnak dícséretére és tiszteletére.) És mikor nagy felszóval énekelnének kürtökkel, czimbalmokkal és mindenféle zengő szerszámokkal, dícsérvén az Urat, hogy ő igen jó és örökkévaló az ő irgalmassága: akkor a ház, az Úrnak háza megtelék köddel, 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Esther 1:13 És monda a király az időket mérő bölcseknek, (mert a királynak összes dolgai a jog- és törvénytudók elé tartoznak.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Esther 1:14 Legközelebb valának pedig hozzá: Karséna, Sétár, Admata, Társis, Méres, Marséna, Mémukán, Persiának és Médiának hét fejedelme, a kik láták a király arczát, és elől ülének az országban): 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Luke 2:36 És vala egy prófétaasszony, Anna, a Fánuel leánya, az Áser nemzetségéből (ez sok időt élt, miután az ő szűzességétől fogva hét esztendeig élt férjével,	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Luke 2:37 És ez mintegy nyolczvannégy esztendős özvegy vala), a ki nem távozék el a templomból, hanem bőjtölésekkel és imádkozásokkal szolgál vala éjjel és nappal.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Acts 1:18 (Ez hát mezőt szerze hamisságának béréből; és alá zuhanván, elhasadt középen, és minden belső része kiomlott. 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Acts 1:19 És ez tudtokra lőn mindazoknak, kik Jeruzsálemben lakoznak; úgy hogy az a mező tulajdon nyelvökön Akeldamának, azaz Vérmezőnek neveztetett el.) 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Romans 2:13 (Mert nem azok igazak Isten előtt, a kik a törvényt hallgatják, hanem azok fognak megigazulni, a kik a törvényt betöltik. 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Romans 2:15 Mint a kik megmutatják, hogy a törvény cselekedete be van írva az ő szívökbe, egyetemben bizonyságot tévén arról az ő lelkiismeretök és gondolataik, a melyek egymást kölcsönösen vádolják vagy mentegetik.) 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(1/0)	Ephesians 4:9 (Az pedig, hogy fölment, mit jelentene mást, mint hogy előbb le is szállott a föld alsóbb részeire? 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Source	(0/1)	Ephesians 4:10 A ki leszállott vala, ugyanaz, a ki fel is ment, feljebb minden egeknél, hogy mindeneket betöltsön.) 	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	004 NUM 011 007 (A manna pedig olyan vala mint a kóriándrum magva, a színe pedig mint a bdelliomnak színe.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	004 NUM 011 009 Mikor pedig a harmat leszáll vala a táborra éjjel, a manna is mindjárt leszáll vala arra.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (Vala pedig a gyülekezetre eső felerész juhokból: háromszáz harminczhét ezer és ötszáz;	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 Emberi lélek: tizenhat ezer.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Az Emeusok laktak abban annak előtte, nagy nép, sok és szálas, mint az Anákok.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Szeirben pedig Horeusok laktak az előtt, a kiket az Ézsaú fiai kiűztek, és kiirtottak színök elől, és azoknak helyén laktak, a miképen cselekedék Izráel is az ő örökségének földén, a melyet adott néki az Úr.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Óriások földének tartották azt is; óriások laktak azon régenten, a kiket az Ammoniták Zanzummoknak hívtak.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Az Avveusokat is, a kik falvakban laknak vala Gázáig, kiirtották a Káftoreusok a kik kijöttek volt Káftorból, és lakának azoknak helyén.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (Mert ti tudjátok miképen laktunk Égyiptomnak földén, és miképen jöttünk által a nemzetek között, a kiken általjöttetek.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 És láttátok az ő undokságaikat és bálványaikat: fát és követ, ezüstöt és aranyat, a melyek nálok vannak.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	011 1KI 012 002 Mikor pedig meghallotta ezt Jeroboám, a Nébát fia, (a ki még Égyiptomban volt, a hová futott volt Salamon király elől, és Égyiptomban tartózkodék Jeroboám,	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	011 1KI 012 003 És hozzá küldvén, elhivaták őt); elmenének Jeroboám és az Izráel egész gyülekezete, és szólának Roboámnak, mondván:	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 És Akháb hivatá Abdiást, a ki az ő házának gondviselője volt. (Abdiás pedig felette igen féli vala az Urat;	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Mert mikor Jézabel megölette az Úr prófétáit, Abdiás száz prófétát vett oltalmába, és rejtette el ötvenenként egy-egy barlangba, és ott táplálta őket kenyérrel és vízzel).	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Rúbennek, Izráel elsőszülöttének fiai (mert ő volt az elsőszülött; mikor pedig megfertőztette az ő atyjának ágyasházát, az ő elsőszülöttségi joga a József fiainak adaték, a ki Izráel fia vala, mindazáltal nem úgy hogy ők neveztessenek származás szerint elsőszülötteknek,	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Mert Júda tekintélyesebb vala az ő testvérei között, és ő belőle való volt a fejedelem, hanem az elsőszülöttségnek haszna lőn Józsefé):	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	013 1CH 008 003 (Belának fiai voltak: Adár, Géra és Abihúd,	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	013 1CH 008 004 Abisua, Naamán, Ahóah.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	013 1CH 008 006 Ezek az Ehud fiai: (Ezek voltak főemberek a Géba városában lakó nemzetség között, kiket fogságba vittek Manahátba.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	013 1CH 008 007 Nevezetesen Naamánt és Ahiját és Gérát vitték fogságba): nemzé pedig Uzzát és Akhihúdot.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	013 1CH 021 029 (Az Úr sátora pedig, a melyet csinált vala Mózes a pusztában, és az égőáldozat oltára is akkor Gibeon magaslatán vala.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	013 1CH 021 030 És Dávid nem mehetett fel oda, hogy az Istent megengesztelje, mert igen megrettent volt az Úr angyalának kardjától.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 Lőn pedig, mikor a papok kijöttek a szent helyből, (mert a papok mindnyájan, a kik ott valának, magokat megszentelték vala és akkor nem kellett megtartaniok az ő sorrendjöket,	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	014 2CH 005 013 Mert a kürtölőknek és éneklőknek tisztök vala egyenlőképen zengeni az Úrnak dícséretére és tiszteletére.) És mikor nagy felszóval énekelnének kürtökkel, czimbalmokkal és mindenféle zengő szerszámokkal, dícsérvén az Urat, hogy ő igen jó és örökkévaló az ő irgalmassága: akkor a ház, az Úrnak háza megtelék köddel,	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 És monda a király az időket mérő bölcseknek, (mert a királynak összes dolgai a jog- és törvénytudók elé tartoznak.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 Legközelebb valának pedig hozzá: Karséna, Sétár, Admata, Társis, Méres, Marséna, Mémukán, Persiának és Médiának hét fejedelme, a kik láták a király arczát, és elől ülének az országban):	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(2/1)	019 PSA 055 019 Meghallja Isten és megfelel nékik, (mivelhogy ő eleitől fogva trónol, (Szela) a kik nem akarnak megváltozni és nem félik az Istent.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	042 LUK 002 036 És vala egy prófétaasszony, Anna, a Fánuel leánya, az Áser nemzetségéből (ez sok időt élt, miután az ő szűzességétől fogva hét esztendeig élt férjével,	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	042 LUK 002 037 És ez mintegy nyolczvannégy esztendős özvegy vala), a ki nem távozék el a templomból, hanem bőjtölésekkel és imádkozásokkal szolgál vala éjjel és nappal.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Ez hát mezőt szerze hamisságának béréből; és alá zuhanván, elhasadt középen, és minden belső része kiomlott.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 És ez tudtokra lőn mindazoknak, kik Jeruzsálemben lakoznak; úgy hogy az a mező tulajdon nyelvökön Akeldamának, azaz Vérmezőnek neveztetett el.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (Mert nem azok igazak Isten előtt, a kik a törvényt hallgatják, hanem azok fognak megigazulni, a kik a törvényt betöltik.	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 Mint a kik megmutatják, hogy a törvény cselekedete be van írva az ő szívökbe, egyetemben bizonyságot tévén arról az ő lelkiismeretök és gondolataik, a melyek egymást kölcsönösen vádolják vagy mentegetik.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Az pedig, hogy fölment, mit jelentene mást, mint hogy előbb le is szállott a föld alsóbb részeire?	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 A ki leszállott vala, ugyanaz, a ki fel is ment, feljebb minden egeknél, hogy mindeneket betöltsön.)	WARN
+Hungarian---Hungarian-Karoli	ENCLOSURES	Summary	lines	34 / 35	WARN
+
+# UNEXPECTED
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(`)	4/4	WARN
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Hungarian---Hungarian-Karoli	UNEXPECTED	Source/Aionian	Summary	4/4	WARN
+
+# NUMERALS
+Hungarian---Hungarian-Karoli	NUMERALS	Source	count	0	NOTICE
+Hungarian---Hungarian-Karoli	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Mikor pedig reggel, a hétnek első napján föltámadott vala, megjelenék először Mária Magdalénának, a kiből hét ördögöt űzött vala ki.	WARN
+Hungarian---Hungarian-Karoli	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

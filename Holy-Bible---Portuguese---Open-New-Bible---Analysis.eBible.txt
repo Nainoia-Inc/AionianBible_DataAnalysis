@@ -1,0 +1,1102 @@
+# File Name: Holy-Bible---Holy-Bible---Portuguese---Open-New-Bible---Analysis.txt
+# File Size: 144185      
+# File Date: 12/13/2025 05:54:44
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Open Nova Bíblia Viva
+# Bible Name English: Portuguese Open New Living Bible
+# Bible Language: Língua Portuguesa
+# Bible Language English: Portuguese
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=poronbv
+# Bible Source Year: 2007, 2010
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Portuguese---Open-New-Bible	ENCODING	Source	Holy-Bible---Portuguese---Open-New-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Portuguese---Open-New-Bible	ENCODING	Aionian	Holy-Bible---Portuguese---Open-New-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Portuguese---Open-New-Bible	BYTES	Source	bytes / chars	4735081 / 4585298 (multi-byte)	NOTICE
+Portuguese---Open-New-Bible	BYTES	Aionian	bytes / chars	4945919 / 4798977 (multi-byte)	NOTICE
+Portuguese---Open-New-Bible	BYTES	SourceClean	bytes / chars	4734248 / 4584465 (multi-byte)	NOTICE
+Portuguese---Open-New-Bible	BYTES	AionianClean	bytes / chars	4942350 / 4795439 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Portuguese---Open-New-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Portuguese---Open-New-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Portuguese---Open-New-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Portuguese---Open-New-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Portuguese---Open-New-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Portuguese---Open-New-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Portuguese---Open-New-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Portuguese---Open-New-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Portuguese---Open-New-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Portuguese---Open-New-Bible	UNICODE	Summary	(-)Orginal	49	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Summary	(+)Aionian	52	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (G)	3496	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : ( )	795059	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (1)	30576	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (:)	38354	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (o)	379458	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (p)	78687	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (r)	232405	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (i)	171982	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (n)	145226	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (c)	97447	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (D)	11184	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (e)	437159	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (u)	153699	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (s)	296600	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (a)	383834	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (t)	129309	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (.)	36528	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31105	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (2)	21858	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (A)	17573	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (m)	157399	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (d)	168306	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (,)	56104	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (b)	27802	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (g)	31686	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (3)	12384	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (H)	5768	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (l)	86280	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (h)	44097	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (4)	9266	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (5)	7163	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (O)	12266	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (6)	6555	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (7)	5997	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (8)	5823	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (T)	5379	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (9)	5675	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (0)	5816	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (M)	9267	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (-)	5730	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (S)	21666	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (P)	9065	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (L)	4069	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (J)	12413	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : (()	61	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	Basic Latin : ())	61	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	General Punctuation : ( )	1180	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	General Punctuation : ( )	312	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source(-)	General Punctuation : ( )	38	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	131110	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42574	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3507	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	379606	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	734635	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	78688	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	232416	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	172228	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	145427	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	97449	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	11183	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	437256	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	153701	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	296713	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	384033	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	129315	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	36529	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31280	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	17581	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	157406	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	168322	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	56112	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	27812	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	31899	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17304	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	7251	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	5779	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	86349	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	44226	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20157	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10393	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	12265	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10821	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7535	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7913	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	5381	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9338	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	9268	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	5731	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	21729	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	9070	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	4074	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	12411	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (()	326	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : ())	326	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (G)	3496	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (E)	25244	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (N)	7908	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : ( )	795059	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (1)	30576	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (:)	38354	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (o)	379458	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (p)	78687	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (r)	232405	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (i)	171982	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (n)	145226	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (c)	97447	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (í)	7928	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (D)	11184	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (e)	437159	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (u)	153699	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (s)	296600	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (é)	16046	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (a)	383834	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (t)	129309	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (.)	36528	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (\n)	31105	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (2)	21858	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (A)	17573	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (v)	55059	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (z)	13859	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (m)	157399	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (f)	35577	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (d)	168306	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (,)	56104	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (b)	27802	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (á)	17439	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (g)	31686	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (3)	12384	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : (“)	8581	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (H)	5768	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (j)	9195	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (l)	86280	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : (”)	6477	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (h)	44097	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (4)	9266	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (ã)	30648	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (5)	7163	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (O)	12266	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (6)	6555	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (Q)	2977	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (x)	5440	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (7)	5997	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (q)	37936	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (8)	5823	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (T)	5379	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (9)	5675	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (ç)	12836	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (0)	5816	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (õ)	2146	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (F)	1493	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (;)	5245	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (M)	9267	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (-)	5730	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (à)	2446	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (S)	21666	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (!)	6289	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (ê)	11195	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (ô)	1092	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	5700	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (P)	9065	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (É)	464	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (U)	4120	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (C)	7481	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (V)	3825	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (?)	3145	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (R)	5273	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	1641	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (I)	6646	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (L)	4069	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (Z)	2549	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (J)	12413	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (â)	421	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (()	61	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : ())	61	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (B)	3518	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : (‘)	1233	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : (’)	1219	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : ( )	1180	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : (—)	619	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (Ó)	348	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : ( )	312	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (À)	35	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (X)	1240	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (Á)	54	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : ( )	38	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (ü)	9	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (Í)	6	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Basic Latin : (K)	2686	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	General Punctuation : (…)	1	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (Ú)	4	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (Ê)	2	NOTICE
+Portuguese---Open-New-Bible	UNICODE	Source	Latin-1 Supplement: (Ô)	3	NOTICE
+
+# VERSIFICATION
+Portuguese---Open-New-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Portuguese---Open-New-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Portuguese---Open-New-Bible	ENCLOSURES	Source	()	61 / 61	NOTICE
+Portuguese---Open-New-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Portuguese---Open-New-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Portuguese---Open-New-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	()	326 / 326	NOTICE
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (Antigamente os emins moravam naquela região, um povo forte e numeroso, gigante como os enaquins.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 Em tempos passados, os horeus viviam na região de Seir, mas foram derrotados e exterminados pelos edomitas, descendentes de Esaú, que habitaram o seu lugar, assim como os israelitas com a terra que o Senhor lhes deu).	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Essa região também era considerada terra dos refains, que habitaram ali no passado. Eles eram chamados de “zanzumins” pelos amonitas.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 Um fato semelhante também aconteceu quando os caftoritas saíram de Caftor e destruíram os aveus, que moravam em povoados espalhados pelo território, até a cidade de Gaza, e passaram a morar nas terras deles.)	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (Os israelitas partiram, então, de Beerote-Bene-Jacã e foram até Moserá. Ali Arão morreu e foi sepultado. Eleazar, o filho de Arão, foi o seu sucessor no sacerdócio.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 Esta é a razão por que a tribo de Levi, diferentemente das outras tribos irmãs, não recebeu nenhum território ou herança na terra prometida. Porém, como o Senhor prometeu, ele mesmo é a herança dos levitas!)	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 Os homens de Israel consultaram o Senhor. (A arca da aliança do Senhor estava em Betel naqueles dias,	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 e o sacerdote em exercício era Fineias, filho de Eleazar e neto de Arão.) Eles perguntaram: “Devemos sair de novo para guerrear contra o nosso irmão Benjamim, ou devemos desistir?” E o Senhor respondeu: “Vão, porque amanhã eu farei com que vocês vençam”.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (Porque os judeus, especialmente os fariseus, não comem enquanto não lavam as mãos, conforme suas antigas tradições exigiam.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 Por isso, quando eles voltam da rua para casa, devem sempre lavar-se desta maneira antes de tocar em qualquer comida. Este é apenas um de muitos exemplos de leis e regulamentos aos quais eles se apegaram durante séculos, e ainda seguem, tais como sua cerimônia de purificação de vasilhas, panelas e pratos.)	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Antigamente os emins moravam naquela região, um povo forte e numeroso, gigante como os enaquins.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Em tempos passados, os horeus viviam na região de Seir, mas foram derrotados e exterminados pelos edomitas, descendentes de Esaú, que habitaram o seu lugar, assim como os israelitas com a terra que o Senhor lhes deu).	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Essa região também era considerada terra dos refains, que habitaram ali no passado. Eles eram chamados de “zanzumins” pelos amonitas.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Um fato semelhante também aconteceu quando os caftoritas saíram de Caftor e destruíram os aveus, que moravam em povoados espalhados pelo território, até a cidade de Gaza, e passaram a morar nas terras deles.)	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Os israelitas partiram, então, de Beerote-Bene-Jacã e foram até Moserá. Ali Arão morreu e foi sepultado. Eleazar, o filho de Arão, foi o seu sucessor no sacerdócio.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Esta é a razão por que a tribo de Levi, diferentemente das outras tribos irmãs, não recebeu nenhum território ou herança na terra prometida. Porém, como o Senhor prometeu, ele mesmo é a herança dos levitas!)	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Os homens de Israel consultaram o Senhor. (A arca da aliança do Senhor estava em Betel naqueles dias,	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 e o sacerdote em exercício era Fineias, filho de Eleazar e neto de Arão.) Eles perguntaram: “Devemos sair de novo para guerrear contra o nosso irmão Benjamim, ou devemos desistir?” E o Senhor respondeu: “Vão, porque amanhã eu farei com que vocês vençam”.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Porque os judeus, especialmente os fariseus, não comem enquanto não lavam as mãos, conforme suas antigas tradições exigiam.	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 Por isso, quando eles voltam da rua para casa, devem sempre lavar-se desta maneira antes de tocar em qualquer comida. Este é apenas um de muitos exemplos de leis e regulamentos aos quais eles se apegaram durante séculos, e ainda seguem, tais como sua cerimônia de purificação de vasilhas, panelas e pratos.)	WARN
+Portuguese---Open-New-Bible	ENCLOSURES	Summary	lines	10 / 10	NOTICE
+
+# UNEXPECTED
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Portuguese---Open-New-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:3 Adão tinha 130 anos quando seu filho Sete nasceu, um filho que era conforme à sua imagem e semelhança.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:4 Depois do nascimento de Sete, Adão viveu mais 800 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:5 Viveu ao todo 930 anos e morreu.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 5:6 Sete tinha 105 anos quando nasceu seu filho Enos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	GEN 5:7 Depois disso, Sete viveu mais 807 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	GEN 5:8 Ele morreu com a idade de 912 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:9 Enos tinha 90 anos quando nasceu seu filho Cainã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 5:10 Depois disso, Enos viveu mais 815 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 5:11 Ele morreu com a idade de 905 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:12 Cainá tinha 70 anos quando nasceu seu filho Maalaleel,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:13 Depois disso, Cainã viveu mais 840 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:14 Ele morreu com a idade de 910 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 5:15 Maalaleel tinha 65 anos quando nasceu seu filho Jarede.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:16 Depois disso, Maalaleel viveu mais 830 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 5:17 Ele morreu com a idade de 895 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	GEN 5:18 Jarede tinha 162 anos quando nasceu seu filho Enoque.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:19 Depois disso, Jarede viveu mais 800 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	GEN 5:20 Ele morreu com a idade de 962 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 5:21 Enoque tinha 65 anos quando nasceu seu filho Matusalém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:22 Depois disso, Enoque viveu mais 300 anos, e andou em comunhão com Deus e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 5:23 Ele viveu ao todo 365 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	GEN 5:25 Matusalém tinha 187 anos quando nasceu seu filho Lameque.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	GEN 5:26 Depois disso, Matusalém viveu mais 782 anos e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	GEN 5:27 Ele morreu com a idade de 969 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	GEN 5:28 Lameque tinha 182 anos quando lhe nasceu um filho.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 5:30 Depois do nascimento de Noé, Lameque viveu mais 595 anos, e teve outros filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	GEN 5:31 Ele morreu com a idade de 777 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 5:32 Quando Noé estava com 500 anos, tinha três filhos: Sem, Cam e Jafé.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 6:3 E o Senhor disse: “O meu Espírito não continuará com o homem, visto que ele é todo mau. Ele só viverá 120 anos”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 6:15 Estas são as medidas da embarcação que você vai construir: 150 metros de comprimento, 25 metros de largura e 15 metros de altura.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 7:6 Noé tinha 600 anos de idade quando as águas do dilúvio vieram sobre a terra.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 7:11 Quando Noé tinha precisamente 600 anos, um mês e dezessete dias de idade, romperam-se todas as fontes do abismo, e as comportas do céu se abriram.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	1	GEN 8:13 Passaram-se ainda vinte e nove dias depois disso, e quando Noé completou 601 anos de idade, secaram-se as águas na terra. Noé então levantou a cobertura da embarcação e verificou que as águas tinham descido totalmente.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	1	GEN 8:14 Ao fim de mais oito semanas, no dia 27 do segundo mês do ano 601 de Noé, a terra estava completamente seca.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 9:28 Noé viveu ainda 350 anos depois do dilúvio.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 9:29 Ele morreu com 950 anos de idade.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 11:10 São estes os descendentes de Sem: Quando ele tinha 100 anos de idade, nasceu seu filho Arfaxade. Isso aconteceu dois anos após o dilúvio.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 11:11 Depois do nascimento de Arfaxade, Sem viveu mais 500 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 11:12 Arfaxade tinha 35 anos quando nasceu seu filho Salá.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 11:13 Depois disso, Arfaxade viveu mais 430 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 11:14 Salá tinha 35 anos quando nasceu seu filho Héber.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	GEN 11:15 Depois disso, Salá viveu mais 403 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	GEN 11:16 Héber tinha 34 anos quando nasceu seu filho Pelegue.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 11:17 Depois disso, Héber viveu mais 430 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 11:18 Pelegue tinha 30 anos quando nasceu seu filho Reú.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	GEN 11:19 Depois disso, Pelegue viveu mais 209 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	GEN 11:20 Reú tinha 32 anos quando nasceu seu filho Serugue.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	GEN 11:21 Depois disso, Reú viveu mais 207 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 11:22 Serugue tinha 30 anos quando nasceu seu filho Naor.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 11:23 Depois disso, Serugue viveu mais 200 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	GEN 11:24 Naor tinha 29 anos quando nasceu seu filho Terá.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	GEN 11:25 Depois disso, Naor viveu mais 119 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 11:26 Aos 70 anos, Terá era pai de três filhos: Abrão, Naor e Harã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 11:32 Terá viveu 205 anos e morreu em Harã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 12:4 Então Abrão partiu, como o Senhor lhe havia ordenado. E Ló também foi com ele. Abrão tinha 75 anos quando partiu de Harã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	GEN 14:14 Quando Abrão soube que seu sobrinho Ló tinha sido capturado, juntou os 318 homens treinados, nascidos na sua casa, e perseguiu os inimigos até Dã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 15:13 Então o Senhor disse a Abrão: “Fique sabendo que os seus descendentes viverão numa terra estrangeira e serão oprimidos e explorados como escravos por 400 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	6	GEN 16:16 Abrão tinha 86 anos quando Ismael nasceu.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	GEN 17:1 Quando Abrão estava com 99 anos de idade, o Senhor apareceu a ele, e disse: “Eu sou o Deus todo-poderoso. Faça a minha vontade e seja íntegro.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	GEN 17:24 Abraão tinha 99 anos quando foi circuncidado,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	GEN 23:1 Quando Sara estava com 127 anos de idade,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 23:15 “Ouça-me, meu senhor; o terreno vale 400 moedas de prata, mas o que significa isso entre mim e você? Vá e sepulte a sua mulher”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 23:16 Tendo ouvido isso de Efrom, Abraão concordou com o preço e pesou 400 moedas de prata diante dos heteus, moeda corrente entre os mercadores.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	GEN 25:7 Abraão viveu 175 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	GEN 25:17 Ismael viveu 137 anos de idade. Morreu e foi reunido aos seus antepassados.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	GEN 47:9 Jacó respondeu: “Tenho 130 anos de peregrinação. Minha vida de peregrinação foi curta e difícil, e não tenho vivido tanto quanto os meus antepassados”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	GEN 47:28 Depois de chegar ao Egito, Jacó viveu mais dezessete anos, e chegou a ter 147 anos de idade.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	EXO 6:16 Filhos de Levi, por ordem de idade: Gérson, Coate e Merari. Levi viveu 137 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	EXO 6:18 Filhos de Coate: Anrão, Jizar, Hebrom e Uziel. Coate viveu 133 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	EXO 6:20 Anrão casou com Joquebede, sua tia pelo lado paterno. Arão e Moisés eram filhos desse casal. Anrão viveu 137 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EXO 16:35 Os israelitas comeram maná durante 40 anos, até entrarem em terras habitáveis. Eles comeram maná até chegarem às fronteiras de Canaã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EXO 21:32 Se a pessoa morta pelo boi for escravo ou escrava, o preço do resgate será de 30 moedas de prata pago ao dono do escravo. Além disso, o boi será apedrejado.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EXO 24:4 Moisés escreveu todas as palavras do Senhor, e na manhã seguinte se levantou bem cedo e fez um altar ao pé do monte. Construiu ali 12 pilares, um para cada tribo de Israel.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EXO 28:21 Cada pedra representará uma das 12 tribos de Israel. O nome de cada tribo será gravado nela como um selo.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	EXO 30:24 três quilos de cássia aromática, com base no peso padrão do siclo do santuário, e aproximadamente 5 litros de azeite de oliveira.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EXO 38:26 Seis gramas para cada um dos contados. Essa cobrança foi feita para todos de vinte anos para cima, que somaram 603.550.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	LEV 25:8 “Contem sete semanas de anos, sete vezes sete anos, totalizando 49 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:21 Foram contados ao todo da tribo de Rúben 46.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:23 Foram contados ao todo da tribo de Simeão 59.300 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:25 Foram contados ao todo da tribo de Gade 45.650 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:27 Foram contados ao todo da tribo de Judá 74.600 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:29 Foram contados ao todo da tribo de Issacar 54.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:31 Foram contados ao todo da tribo de Zebulom 57.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:33 Foram contados ao todo da tribo de Efraim 40.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:35 Foram contados ao todo da tribo de Manassés 32.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:37 Foram contados ao todo da tribo de Benjamin 35.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:39 Foram contados ao todo da tribo de Dã 62.700 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:41 Foram contados ao todo da tribo de Aser 41.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:43 Foram contados ao todo da tribo de Naftali 53.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 1:46 somaram um total de 603.550 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:4 e o seu exército, segundo o censo, é de 74.600 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:6 e o seu exército, segundo o censo, é de 54.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:8 e o seu exército, segundo o censo, é de 57.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:9 O número total dos homens recenseados do acampamento de Judá, segundo os seus exércitos, é de 186.400. Esses homens marcharão primeiro.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:11 e o seu exército, segundo o censo, é de 46.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:13 e o seu exército, segundo o censo, é de 59.300 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:15 e o seu exército, segundo o censo, é de 45.650 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:16 O número total dos homens recenseados do acampamento de Rúben, segundo os seus exércitos, é de 151.450. Esses marcharão em segundo lugar.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:19 e o seu exército, segundo o censo, é de 40.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:21 e o seu exército, segundo o censo, é de 32.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:23 e o seu exército, segundo o censo, é de 32.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:24 O número total dos homens recenseados do acampamento de Efraim, segundo os seus exércitos, é de 108.100. Esses marcharão em terceiro lugar.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:26 e o seu exército, segundo o censo, é de 62.700 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:28 e o seu exército, segundo o censo, é de 41.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:30 e o seu exército, segundo o censo, é de 53.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:31 O número total dos homens recenseados do acampamento de Dã, segundo os seus exércitos, é de 157.600 homens. Esses marcharão em último lugar, junto às suas bandeiras.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 2:32 O número total de homens de Israel contados de acordo com as suas famílias, nos acampamentos, de acordo com os seus exércitos foi de 603.550.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 3:22 O número de todos os que foram contados do sexo masculino, de um mês de idade para cima, foi 7.500.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 3:28 O número de todos os que foram contados do sexo masculino, de um mês de idade para cima, foi 8.600. Eles eram responsáveis para cuidar do Santuário.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 3:34 O número de todos os que foram contados do sexo masculino, de um mês de idade para cima, foi 6.200.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 3:39 A contagem dos levitas do sexo masculino, da idade de um mês para cima, que Moisés e Arão fizeram por ordem do Senhor, foi de 22.000.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	NUM 3:43 O número total dos filhos mais velhos do sexo masculino, de um mês para cima, segundo o censo, foi de 22.273.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	NUM 3:46 Para pagar o resgate dos 273 filhos mais velhos que excederam o número de levitas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	NUM 3:49 Moisés então recebeu o valor do resgate dos 273 filhos mais velhos das famílias do povo de Israel que excederam o número de levitas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 4:36 O total dos coatitas contados, conforme as suas famílias, foi de 2.750 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 4:40 O total de gersonitas contados, conforme os grupos de famílias e as famílias, foi de 2.630 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 4:44 O total de meraritas contados, conforme os grupos de famílias, foi de 3.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 4:48 totalizaram 8.580 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 11:21 Mas Moisés disse: “São 600.000 homens, e o Senhor diz: ‘Darei a eles carne para comerem durante um mês inteiro!’	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 16:49 E os que morreram em decorrência da praga foram 14.700 pessoas, sem contar aqueles que morreram por causa de Coré.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 25:9 Morreram 24.000 pessoas em decorrência da praga.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:7 Foram contados dos grupos de famílias de Rúben 43.730 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:10 Mas a terra se abriu e os engoliu juntamente com Coré, e o fogo queimou 250 homens, seguidores deles. Isso serviu de advertência para todo o povo.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:14 Foram contados dos grupos de famílias de Simeão 22.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:18 Foram contados dos grupos de famílias de Gade 40.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:22 Foram contados dos grupos de famílias de Judá 76.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:25 Foram contados dos grupos de famílias de Issacar 64.300 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:27 Foram contados dos grupos de famílias de Zebulom 60.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:34 Foram contados dos grupos de famílias de Manassés 52.700 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:37 Foram contados dos grupos de famílias de Efraim 32.500 homens. Esses foram os descendentes de José segundo os seus grupos de famílias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:41 Foram contados dos grupos de famílias de Benjamim 45.600 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:43 Foram contados dos grupos de famílias de Dã (todos eles dos grupos de famílias suamitas) 64.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:47 Foram contados dos grupos de famílias de Aser 53.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:50 Foram contados dos grupos de famílias de Naftali 45.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:51 O número total de homens contados em Israel foi de 601.730.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 26:62 O número total de levitas contados do sexo masculino de um mês para cima foi de 23.000. Eles não foram contados junto com os outros israelitas porque não receberam propriedade na divisão da terra entre as tribos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:5 Assim, dos milhares de israelitas foram separados de cada tribo mil soldados armados. O total de homens armados para a guerra foi de 12.000.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:28 Daquilo que os soldados trouxeram da guerra, separem um ‘tributo’ ao Senhor: de cada 500, um pertence ao Senhor, seja de pessoas, bois, jumentos ou ovelhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:30 E da parte que pertence ao povo, de cada 50 um pertence ao Senhor, seja de pessoas, bois, jumentos, ovelhas, ou de qualquer outro animal, e entreguem-no aos levitas encarregados de cuidar do Tabernáculo do Senhor”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:32 O total de pessoas e animais capturados pelos soldados, além das joias, roupas e outros objetos que eles guardaram para si, foi: 675.000 ovelhas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:33 72.000 cabeças de gado,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:34 61.000 jumentos	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:35 e 32.000 moças que não tiveram relação com um homem.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:36 Então, a metade destinada aos que foram à guerra foi de 337.500 ovelhas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	NUM 31:37 das quais o tributo para o Senhor foi de 675 ovelhas;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NUM 31:38 36.000 cabeças de gado, das quais o imposto para o Senhor foi de 72 cabeças;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	1	NUM 31:39 30.500 jumentos, dos quais o imposto para o Senhor foi de 61 jumentos;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NUM 31:40 16.000 pessoas, das quais o tributo para o Senhor foi de 32 pessoas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:43 Essa foi a parte que pertencia à comunidade de Israel: 337.500 ovelhas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:44 36.000 cabeças de gado,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:45 30.500 jumentos	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:46 e 16.000 pessoas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 31:52 O total do ouro da oferta que os comandantes de milhares e os comandantes de centenas ofereceram ao Senhor foi de 200 quilos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 32:11 ‘Nenhum dos homens que saíram do Egito com mais de 20 anos de idade verá a terra que prometi a Abraão, Isaque e Jacó.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 32:13 Por isso o Senhor ficou irado com Israel e fez o povo andar sem destino durante 40 anos pelo deserto, até que morresse toda aquela geração que tinha desagradado ao Senhor.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	NUM 33:39 Arão tinha 123 anos de idade quando morreu no monte Hor.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 35:4 “As pastagens nos arredores das cidades que vocês darão aos levitas se estenderão por 450 metros desde o muro da cidade para cada um dos lados dessas cidades.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NUM 35:5 Fora da cidade vocês medirão 900 metros para o lado leste, 900 metros para o lado oeste, 900 metros para o lado sul, e 900 metros para o lado norte, ficando a cidade no centro. Essas serão as áreas de pastagens das cidades.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1KI 6:1 Foi na primavera do quarto ano do reinado de Salomão que ele começou a construção do templo. Isso ocorreu 480 anos depois que o povo de Israel deixou a escravidão do Egito.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 7:2 Os filhos de Tolá foram chefes dos seguintes grupos de famílias: Uzi, Refaías, Jeriel, Jamai, Ibsão e Samuel. No tempo do rei Davi, o número total de soldados pertencentes aos descendentes de Tolá era de 22.600.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 7:4 que tinham muitas mulheres e filhos. No tempo de Davi, os homens destas famílias preparados para a guerra eram 36.000.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 7:5 O número total de homens prontos para o serviço militar pertencentes a todos os grupos de famílias da tribo de Issacar era de 87.000 guerreiros valentes, todos incluídos no registro oficial das famílias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	1CH 7:7 Os filhos de Belá foram: Esbom, Uzi, Uziei, Jerimote e Iri. Esses cinco poderosos guerreiros foram chefes de grupos de famílias e comandavam 22.034 soldados, todos registrados no registro oficial das famílias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 7:9 No tempo de Davi havia 22.200 poderosos guerreiros entre os filhos dessas famílias. Eles eram comandados pelos chefes dos grupos de famílias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 7:11 Eles foram os chefes de famílias dos seus grupos de famílias de Jediael, e dentre os descendentes deles havia 17.200 guerreiros prontos para a guerra.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 7:40 Todos esses descendentes de Aser foram chefes de famílias, homens escolhidos, soldados valentes, bons líderes, e sabiam lutar muito bem. Eles estavam inscritos nos registros de famílias e havia um total de 26.000 soldados.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:24 da tribo de Judá, 6.800 soldados armados com escudos e lanças;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:25 da tribo de Simeão, 7.100 soldados valentes;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:26 da tribo de Levi, 4.600,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:27 Joiada, líder da família de Arão, com 3.700 homens,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	1CH 12:28 e Zadoque, um jovem de coragem fora do comum, com 22 oficiais, membros da sua família;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:29 da tribo de Benjamim, a mesma tribo de Saul, havia 3.000, uma grande parte dessa tribo permaneceu fiel à família de Saul;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:30 da tribo de Efraim, 20.800 soldados valentes, cada um deles muito respeitado em seus grupos de famílias;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:31 da meia tribo de Manassés, 18.000 foram enviados com a única finalidade de ajudar Davi a tornar-se rei;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:32 da tribo de Issacar, 200 chefes, todos homens que conheciam bem os fatos daquele tempo e sabiam qual o melhor caminho para Israel seguir. Eles comandavam todos os seus parentes;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:33 da tribo de Zebulom, 50.000 soldados treinados, muito bem preparados para a batalha com qualquer tipo de arma, e eram sinceros na ajuda a Davi;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:34 da tribo de Naftali havia 1.000 oficiais e 37.000 soldados armados com escudos e lanças;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:35 da tribo de Dã, 28.600 soldados, todos preparados para a guerra;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:36 da tribo de Aser, 40.000 soldados treinados e prontos para a guerra;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 12:37 do outro lado do rio Jordão, onde moravam as tribos de Rúben e Gade e a meia tribo de Manassés, 120.000 soldados. Esses soldados tinham todos os tipos de armas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:2 O comandante da primeira divisão era Jasobeão, filho de Zabdiel. Ele tinha a responsabilidade por 24.000 soldados que estavam de serviço no primeiro mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:4 O comandante da segunda divisão era Dodai, filho de Aoí. Ele era responsável por 24.000 soldados que estavam de serviço no segundo mês de cada ano. Miclote era oficial imediato de Dodai.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:5 O comandante da terceira divisão era Benaia, filho do sacerdote Joiada. Ele era chefe da sua divisão de 24.000 homens que estavam de serviço no terceiro mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:7 O comandante da quarta divisão era Asael, irmão de Joabe, que mais tarde foi substituído por seu filho Zebadias. Ele tinha 24.000 homens de serviço no quarto mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:8 O comandante da quinta divisão era Samute, de Izrá, com 24.000 homens de serviço no quinto mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:9 O comandante da sexta divisão era Ira, filho de Iques, de Tecoa; ele tinha 24.000 homens de serviço no sexto mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:10 O comandante da sétima divisão era Helez, de Pelona, descendente de Efraim, com 24.000 homens de serviço no sétimo mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:11 O comandante da oitava divisão era Sibecai, de Husate, da família de Zerá; ele tinha 24.000 homens de serviço no oitavo mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:12 O comandante da nona divisão era Abiezer, de Anatote, da tribo de Benjamim; ele comandava 24.000 homens de serviço durante o nono mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:13 O comandante da décima divisão era Maarai, de Netofa, da família de Zerá, com 24.000 homens de serviço no décimo mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:14 O comandante da décima primeira divisão era Benaia, de Piratom, descendente de Efraim, com 24.000 homens de serviço durante o décimo primeiro mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CH 27:15 O comandante da décima segunda divisão era Heldai, de Netofate, da família de Otoniel; ele tinha 24.000 homens de serviço durante o décimo segundo mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	EZR 1:9 Os objetos que Ciro ofertou foram os seguintes: 30 tigelas de ouro, 1.000 bacias de prata, 29 incensórios de prata,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 1:10 30 vasos de ouro maciço, 410 vasos de prata de menor valor e 1.000 objetos diversos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 1:11 Ao todo foram entregues 5.400 objetos de ouro e de prata a Sesbazar quando os exilados israelitas vieram da Babilônia para Jerusalém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:3 da família de Parós, 2.172;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:4 da família de Sefatias, 372;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	EZR 2:5 da família de Ara, 775;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:6 da família de Paate-Moabe, descendentes de Jesua e Joabe, 2.812;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	EZR 2:7 da família de Elão, 1.254;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	EZR 2:8 da família de Zatu, 945;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 2:9 da família de Zacai, 760;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:10 da família de Bani, 642;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	EZR 2:11 da família de Bebai, 623;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:12 da família de Azgade, 1.222;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	6	EZR 2:13 da família de Adonicão, 666;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	6	EZR 2:14 da família de Bigvai, 2.056;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	EZR 2:15 da família de Adim, 454;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	EZR 2:16 da família de Ater, descendentes de Ezequias, 98;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	EZR 2:17 da família de Bezai, 323;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:18 da família de Jora, 112;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	EZR 2:19 da família de Hasum, 223;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	EZR 2:20 da família de Gibar, 95;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	EZR 2:21 os da cidade de Belém, 123;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	6	EZR 2:22 de Netofa, 56;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	EZR 2:23 de Anatote, 128;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:24 de Azmavete, 42;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	EZR 2:25 de Quiriate-Arim, Quefira e Beerote, 743;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	1	EZR 2:26 de Ramá e Geba, 621;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:27 de Micmás, 122;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	EZR 2:28 de Betel e Ai, 223;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:29 de Nebo, 52;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	6	EZR 2:30 de Magbis, 156;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	EZR 2:31 de Elão, 1.254;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 2:32 de Harim, 320;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	EZR 2:33 de Lode, Hadide e Ono, 725;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	EZR 2:34 de Jericó, 345;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 2:35 de Senaá, 3.630.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	EZR 2:36 Esta é a lista dos grupos de famílias dos sacerdotes que voltaram do cativeiro: dos descendentes de Jedaías, por meio da família de Jesua, 973;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:37 da família de Imer, 1.052;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	EZR 2:38 da família de Pasur, 1.247;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	EZR 2:39 da família de Harim, 1.017.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	EZR 2:40 Esta é a lista dos grupos de famílias dos levitas que voltaram do cativeiro: das famílias de Jesua e Cadmiel, por meio dos descendentes de Hodavias, 74.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	EZR 2:41 Os cantores: descendentes da família de Asafe, 128.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	EZR 2:42 Dos porteiros do templo: das famílias de Salum, Ater, Talmom, Acube, Hatita e Sobai, 139.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:58 Os servidores do templo e os descendentes dos oficiais de Salomão eram 392.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	EZR 2:60 Esse grupo incluía os grupos de famílias de Delaías, de Tobias e de Necoda, num total de 652.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 2:64 Assim, os que voltaram para Judá eram um total de 42.360 homens,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 2:65 isso sem contar os 7.337 escravos e escravas e 200 cantores e cantoras.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	EZR 2:66 Eles levaram consigo 736 cavalos, 245 mulos,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 2:67 435 camelos e 6.720 jumentos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:3 dos descendentes de Secanias, dos descendentes de Parós, Zacarias, e com ele foram registrados 150 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:4 dos descendentes de Paate-Moabe, Elioenai, filho de Zeraías, e com ele 200 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:5 dos descendentes de Zatu, Secanias, filho de Jeaziel, e com ele 300 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:6 dos descendentes de Adim, Ebede, filho de Jônatas, e com ele 50 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:7 dos descendentes de Elão, Jesaías, filho de Atalias, e com ele 70 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:8 dos descendentes de Sefatias, Zebadias, filho de Micael, e com ele 80 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	EZR 8:9 dos descendentes de Joabe, Obadias, filho de Jeiel, e com ele 218 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:10 dos descendentes de Bani, Selomite, filho de Josifias, e com ele 160 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	EZR 8:11 dos descendentes de Bebai, Zacarias, filho de Bebai, e com ele 28 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:12 dos descendentes de Azgade, Joanã, filho de Catã, e com ele 110 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:13 dos descendentes de Adonicão, Elifelete, Jeiel e Semaías, e com eles 60 homens. Eles chegaram algum tempo mais tarde;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:14 dos descendentes de Bigvai, Utai, Zabude, e com eles 70 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	EZR 8:26 Pesei e entreguei a eles 22.750 quilos de prata, três toneladas e meia de utensílios de prata, três toneladas e meia de ouro,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:8 Da família de Parós, 2.172;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:9 da família de Sefatias, 372;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:10 da família de Ará, 652;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:11 das famílias de Jesua e Joabe, pertencentes à família de Paate-Moabe, 2.818;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	NEH 7:12 da família de Elão, 1.254;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	NEH 7:13 da família de Zatu, 845;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NEH 7:14 da família de Zacai, 760;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:15 da família de Binui, 648;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:16 da família de Bebai, 628;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:17 da família de Azgade, 2.322;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	NEH 7:18 da família de Adonicão, 667;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	NEH 7:19 da família de Bigvai, 2.067;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	NEH 7:20 da família de Adim, 655;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:21 da família de Ezequias, que é da família de Ater, 98;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:22 da família de Hassum, 328;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	NEH 7:23 da família de Bezai, 324;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:24 da família de Harife, 112;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	NEH 7:25 da família de Gibeom, 95;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:26 das famílias de Belém e de Netofa, 188;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:27 da família de Anatote, 128;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:28 da família de Bete-Azmavete, 42;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	NEH 7:29 das famílias de Quiriate-Jearim, Quefira e Beerote, 743;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	1	NEH 7:30 das famílias de Ramá e Geba, 621;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:31 da família de Micmás, 122;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	NEH 7:32 das famílias de Betel e Ai, 123;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:33 da família de Nebo, 52;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	NEH 7:34 da família de Elão, 1.254;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NEH 7:35 da família de Harim, 320;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	NEH 7:36 da família de Jericó, 345;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	1	NEH 7:37 das famílias de Lode, Hadide e Ono, 721;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NEH 7:38 da família de Senaá, 3.930.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	NEH 7:39 Aqui estão os números referentes aos sacerdotes que voltaram: Da família de Jesua, que é da família de Jedaías, 973;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:40 da família de Imer, 1.052;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	NEH 7:41 da família de Pasur, 1.247;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	NEH 7:42 da família de Harim, 1.017.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	NEH 7:43 Estes são os números referentes aos levitas: Da família de Cadmiel, da casa de Hodeva, que é da família de Jesua, 74.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:44 Os cantores da família de Asafe, 148.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 7:45 Das famílias de Salum, Ater, Talmom, Acube, Hatita e Sobai, todos porteiros, 138.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:60 No total, os servidores do templo e os descendentes dos oficiais de Salomão somavam 392.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 7:62 esse grupo era das famílias de Delaías, Tobias e Necoda, num total de 642.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NEH 7:66 Havia um total de 42.360 homens que voltaram para Judá naquela ocasião,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	NEH 7:67 além de 7.337 servos e servas, e 245 cantores e cantoras.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	NEH 7:68 Eles levaram consigo 736 cavalos, 245 mulas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NEH 7:69 435 camelos e 6.720 jumentos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	NEH 7:70 Alguns dos chefes deles fizeram ofertas para a obra. O governador deu oito quilos em ouro, 50 vasos de ouro e 530 vestes sacerdotais.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 11:6 Estes foram os 468 valentes descendentes de Perez que moraram em Jerusalém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 11:8 Mais os 928 descendentes de Gabai e Salai.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 11:12 Ao todo, havia 822 sacerdotes trabalhando no templo sob a direção desses homens. Adaías, filho de Jeroão; Jeroão era filho de Pelalias; Pelalias era filho de Anzi; Anzi era filho de Zacarias; Zacarias era filho de Pasur; Pasur era filho de Malquias,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 11:13 e seus irmãos chefes de grupos de famílias, 242 homens. Amassai, filho de Azareel; Azareel era filho de Azai; Azai era filho de Mesilemote; Mesilemote era filho de Imer,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	NEH 11:14 e os seus irmãos, homens valentes, 128. O oficial superior deles era Zabdiel, filho de Gedolim.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	NEH 11:18 Ao todo, havia 284 levitas em Jerusalém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	NEH 11:19 Também havia 172 porteiros, que eram chefiados por Acube, Talmom e outros da família deles.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	JER 52:28 No sétimo ano do reinado de Nabucodonosor, 3.023 judeus foram levados para o exílio por Nebuzaradã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	JER 52:29 No décimo oitavo ano, mais 832 tiveram o mesmo destino;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	JER 52:30 em seu vigésimo terceiro ano, Nabucodonosor mandou Nebuzaradã, comandante da guarda imperial, a Judá, e ele levou mais 745 judeus para o exílio na Babilônia. Ao todo foram 4.600 judeus.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAT 13:8 Mas outra parte caiu em solo bom, e deram uma colheita que era 30, 60 e até mesmo 100 vezes aquilo que ele tinha plantado.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAT 13:23 O terreno bom representa o coração de um homem que ouve a mensagem e a entende, e dá uma colheita de 30, 60 e até 100 vezes o que foi plantado”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAT 14:21 Cerca de 5.000 homens estavam na multidão naquele dia, além de mulheres e crianças.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAT 15:38 Os que comeram foram 4.000 homens, além de mulheres e crianças!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAT 16:9 Vocês não entenderam ainda? Não se lembram dos cinco pães para os 5.000 e os cestos cheios que sobraram?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAT 16:10 Não se lembram dos sete pães para os 4.000 e de quantos cestos sobraram?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAT 18:28 “Mas quando aquele servo saiu da presença do rei encontrou um dos seus companheiros de trabalho que lhe devia 100 denários, o agarrou pela garganta e exigiu que lhe pagasse na hora.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAR 4:20 Mas a terra boa representa o coração daqueles que verdadeiramente ouvem e aceitam a mensagem divina e dão uma colheita de 30, 60 e até mesmo 100 vezes por um”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAR 6:40 Assim, eles se assentaram em grupos de 50 e de 100.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAR 6:44 Havia cerca de 5.000 homens ali para aquela refeição!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAR 8:9 Havia cerca de 4.000 homens naquele dia. Depois disso ele os despediu,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAR 8:19 Como foi com os 5.000 homens que foram alimentados com cinco pães? Quantos cestos cheios de sobras vocês recolheram depois?” “Doze”, disseram eles.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	MAR 8:20 “E quando eu parti os sete pães para os 4.000, quantos cestos cheios de pedaços vocês recolheram?” “Sete”, disseram.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	LUK 2:37 e era viúva de 84 anos. Ela nunca saía do templo, mas permanecia lá, adorando a Deus, jejuando e orando dia e noite.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	LUK 2:42 Quando Jesus completou 12 anos de idade, acompanhou seus pais para a festa, conforme o costume.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	LUK 3:23 Jesus estava com cerca de 30 anos de idade quando começou o seu ministério público. Jesus era conhecido como o filho de José; o pai de José foi Heli;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	LUK 4:2 onde o diabo o tentou durante 40 dias. Ele não comeu nada durante esse tempo, e no final ficou com muita fome.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	LUK 8:8 Ainda outras caíram em terra boa; estas cresceram e deram boa colheita, de 100 por um”. Ao terminar, disse: “Aquele que tem ouvidos para ouvir, que ouça!”	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	LUK 9:14 Havia ali cerca de 5.000 homens! “Digam-lhes apenas que se sentem no chão em grupos de cinquenta”, respondeu Jesus.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	LUK 10:1 Depois disto o Senhor escolheu outros 70 discípulos e os enviou na frente, dois a dois, às cidades e aldeias que ele pretendia visitar mais tarde.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	LUK 10:17 Quando os 70 discípulos voltaram, contaram-lhe alegres: “Senhor, até os demônios nos obedecem, em seu nome”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	LUK 13:4 E que acham dos 18 homens que morreram quando a Torre de Siloé caiu em cima deles? Eram eles os piores pecadores de Jerusalém?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	LUK 13:11 viu uma mulher que andava encurvada havia 18 anos. Ela tinha um espírito que a mantinha doente e era incapaz de endireitar-se.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	LUK 13:16 E está errado que eu liberte esta mulher judia de 18 anos que ficou presa por Satanás, só porque hoje é sábado?”	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	LUK 14:31 “E qual é o rei que algum dia pensou em ir à guerra sem primeiro sentar-se com os seus conselheiros e discutir se seu exército de 10.000 homens é capaz de derrotar os 20.000 homens que vêm marchando contra ele?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	LUK 15:4 “Se você tivesse 100 ovelhas e uma delas se perdesse, não deixaria as outras 99 para ir à procura da perdida até conseguir encontrá-la?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	9	LUK 15:7 Ora, da mesma forma há muito mais alegria no céu por causa de um pecador que volta para Deus do que por 99 justos que não precisam se arrepender”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	LUK 15:8 Jesus continuou: “Se uma mulher tem 10 valiosas moedas de prata e perde uma delas, ela não vai acender uma lamparina e olhar em cada canto da casa para achá-la?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	LUK 23:44 A esta altura era meio-dia, e a escuridão cobriu toda a terra até as 3 horas da tarde.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	JOH 2:6 Havia ali seis talhas de pedra; elas eram utilizadas nas cerimônias de purificação, e em cada uma cabiam entre 80 e 120 litros.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	6	JOH 2:20 “Como?”, exclamaram eles. “Levou 46 anos para construir-se este templo, e o Senhor vai levantá-lo em três dias?”	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	8	JOH 5:5 Um dos homens que se achavam ali estava paralítico havia 38 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	JOH 6:10 Jesus ordenou: “Digam para todo mundo assentar-se”. E todos eles — só os homens eram aproximadamente 5.000 — sentaram-se no gramado do monte.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	JOH 6:13 Então eles encheram 12 cestos com os pedaços que sobraram dos cinco pães de cevada!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	JOH 11:18 Betânia ficava a cerca de 3 quilômetros de Jerusalém,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	JOH 21:8 Os outros discípulos ficaram no barco e puxaram a rede carregada para a praia, distante cerca de 90 metros.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	3	JOH 21:11 Simão Pedro entrou no barco e arrastou a rede para a praia. Havia 153 peixes grandes; nem assim a rede rebentou!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 1:3 Durante os 40 dias depois do seu sofrimento ele apareceu aos apóstolos diversas vezes, provando para eles de muitas maneiras que realmente estava vivo. Nessas ocasiões falou a eles a respeito do Reino de Deus.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 1:15 Durante esse tempo, num dia em que cerca de 120 pessoas estavam presentes, Pedro se levantou entre os irmãos,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 2:41 E aqueles que acreditaram na mensagem de Pedro foram batizados, e naquele dia se uniram aos seguidores de Jesus cerca de 3.000 pessoas!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 4:4 Porém muitos que ouviram a mensagem deles creram, de modo que o número de crentes agora já atingia cerca de 5.000 pessoas!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 4:22 pois o homem que havia sido curado milagrosamente tinha mais de 40 anos!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 5:36 Há algum tempo, apareceu um certo Teudas, que tinha a pretensão de ser alguém importante. Cerca de outros 400 se juntaram a ele, porém foi morto e os seus seguidores foram dispersos sem prejuízo para ninguém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 7:6 Mas Deus falou a ele dessa forma: ‘Os seus descendentes vão ser peregrinos em uma terra estrangeira e ali se tornarão escravos e serão maltratados por 400 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 7:23 “Um dia, quando ele estava com 40 anos, veio-lhe a ideia de visitar seus irmãos israelitas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 7:36 Por meio de muitos sinais e maravilhas ele os conduziu para fora do Egito, através do mar Vermelho e pelo deserto durante 40 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 13:18 os aturou durante cerca de 40 anos de caminhada através do deserto.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 13:20 Tudo isso levou cerca de 450 anos. “Depois disso, ele lhes deu juízes até o tempo do profeta Samuel.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 13:21 Então o povo pediu um rei, e Deus deu a eles Saul, filho de Quis, homem da tribo de Benjamim, que reinou 40 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 19:19 Muitos dos crentes, que tinham praticado ocultismo, confessaram as suas obras. Trouxeram seus livros de magia e bruxaria e os queimaram numa fogueira pública. Alguém calculou o valor dos livros em 50.000 denários.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 21:38 “Você não é aquele egípcio que chefiou uma rebelião, há poucos anos, e levou com ele ao deserto 4.000 assassinos?”	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 23:13 Juntaram-se mais de 40 homens debaixo dessa conspiração.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 23:21 Mas não acredite nisso! Há mais de 40 homens escondidos ao longo da estrada, preparando uma emboscada para Paulo. Eles juraram não comer nem beber enquanto não o matarem. Eles já estão lá, esperando que o senhor atenda ao pedido deles”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	ACT 23:23 Então o comandante chamou dois dos seus centuriões e ordenou: “Preparem um destacamento de 200 soldados para partirem para Cesareia, hoje às nove horas da noite! Levem 200 lanceiros e 70 homens da cavalaria.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	ACT 26:7 As 12 tribos de Israel esforçam-se na religião noite e dia para alcançar esta mesma esperança que eu tenho! Todavia, ó rei, é por causa dessa esperança que estou sendo acusado pelos judeus.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	7	ACT 27:28 Lançaram a sonda e verificaram que a profundidade era de 37 metros. Um pouco adiante, lançaram novamente a sonda e acharam apenas 27 metros.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	1CO 10:8 Não pratiquemos a imoralidade sexual, como alguns deles fizeram e 23.000 caíram mortos num só dia.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 7:4 Eu ouvi o número dos que receberam esta marca. Eram 144.000, de todas as tribos de Israel.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 7:5 Da tribo de Judá foram selados 12.000, da tribo de Rúbem, 12.000, da tribo de Gade, 12.000,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 7:6 da tribo de Aser, 12.000, da tribo de Naftali, 12.000, da tribo de Manassés, 12.000,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 7:7 da tribo de Simeão, 12.000, da tribo de Levi, 12.000, da tribo de Issacar, 12.000,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 7:8 da tribo de Zebulom, 12.000, da tribo de José, 12.000, da tribo de Benjamim, 12.000.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 11:3 E eu darei poder às minhas duas testemunhas para profetizarem 1.260 dias vestidas de pano de saco”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 11:13 Na mesma hora houve um violento terremoto que arrasou uma décima parte da cidade e deixou 7.000 mortos. Então cada um dos que foram deixados, com muito medo deram glória ao Deus do céu.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 12:6 A mulher fugiu para o deserto, onde Deus lhe tinha preparado um lugar, para cuidar dela durante 1.260 dias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	6	REV 13:18 Este é um enigma que exige um estudo cuidadoso para solucioná-lo. Aqueles que são capazes calculem o número da besta, pois é o número de homem. Seu número é 666!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 14:1 Então eu vi o Cordeiro em pé no monte Sião, e com ele estavam 144.000 que tinham o nome dele e o nome do seu Pai escritos nas suas testas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 14:3 Este som era um maravilhoso cântico novo entoado diante do trono de Deus, diante dos quatro seres viventes e dos anciãos; e ninguém podia aprender este cântico, a não ser estes 144.000 que haviam sido comprados da terra.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 14:20 E as uvas foram esmagadas no lagar, fora da cidade, e correu sangue do lagar numa torrente de cerca de 300 quilômetros de comprimento, e chegava até as rédeas dos cavalos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	5	REV 16:21 e houve uma incrível tempestade de pedras caídas do céu; pedras de granizo do peso de 35 quilos caíram do céu em cima das pessoas, e eles blasfemavam contra Deus por causa da terrível chuva de pedras.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	0	REV 21:16 Quando ele a mediu, descobriu que era quadrada, com a mesma largura que o comprimento. Ele mediu a cidade com a vara; tinha 2.200 quilômetros de comprimento; a largura e a altura eram iguais ao comprimento.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	4	REV 21:17 Então ele mediu os muros e viu que tinham 64 metros de espessura, segundo a medida padrão usada pelo anjo.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	2	REV 21:19 e foi construído sobre 12 camadas de pedras de alicerce ornamentadas de pedras preciosas: A primeira camada era de jaspe; A segunda de safira; A terceira de calcedônia; A quarta de esmeralda;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Source	count	382	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Adão tinha 130 anos quando seu filho Sete nasceu, um filho que era conforme à sua imagem e semelhança.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	800	001-GEN-005-004 Depois do nascimento de Sete, Adão viveu mais 800 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	930	001-GEN-005-005 Viveu ao todo 930 anos e morreu.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	105	001-GEN-005-006 Sete tinha 105 anos quando nasceu seu filho Enos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	807	001-GEN-005-007 Depois disso, Sete viveu mais 807 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	912	001-GEN-005-008 Ele morreu com a idade de 912 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Enos tinha 90 anos quando nasceu seu filho Cainã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	815	001-GEN-005-010 Depois disso, Enos viveu mais 815 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Ele morreu com a idade de 905 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Cainá tinha 70 anos quando nasceu seu filho Maalaleel,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Depois disso, Cainã viveu mais 840 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Ele morreu com a idade de 910 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Maalaleel tinha 65 anos quando nasceu seu filho Jarede.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	830	001-GEN-005-016 Depois disso, Maalaleel viveu mais 830 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Ele morreu com a idade de 895 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Jarede tinha 162 anos quando nasceu seu filho Enoque.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	800	001-GEN-005-019 Depois disso, Jarede viveu mais 800 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Ele morreu com a idade de 962 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Enoque tinha 65 anos quando nasceu seu filho Matusalém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	300	001-GEN-005-022 Depois disso, Enoque viveu mais 300 anos, e andou em comunhão com Deus e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Ele viveu ao todo 365 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Matusalém tinha 187 anos quando nasceu seu filho Lameque.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	782	001-GEN-005-026 Depois disso, Matusalém viveu mais 782 anos e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Ele morreu com a idade de 969 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Lameque tinha 182 anos quando lhe nasceu um filho.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Depois do nascimento de Noé, Lameque viveu mais 595 anos, e teve outros filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Ele morreu com a idade de 777 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	500	001-GEN-005-032 Quando Noé estava com 500 anos, tinha três filhos: Sem, Cam e Jafé.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	120	001-GEN-006-003 E o Senhor disse: “O meu Espírito não continuará com o homem, visto que ele é todo mau. Ele só viverá 120 anos”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	150	001-GEN-006-015 Estas são as medidas da embarcação que você vai construir: 150 metros de comprimento, 25 metros de largura e 15 metros de altura.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	600	001-GEN-007-006 Noé tinha 600 anos de idade quando as águas do dilúvio vieram sobre a terra.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	600	001-GEN-007-011 Quando Noé tinha precisamente 600 anos, um mês e dezessete dias de idade, romperam-se todas as fontes do abismo, e as comportas do céu se abriram.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	601	001-GEN-008-013 Passaram-se ainda vinte e nove dias depois disso, e quando Noé completou 601 anos de idade, secaram-se as águas na terra. Noé então levantou a cobertura da embarcação e verificou que as águas tinham descido totalmente.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	27	001-GEN-008-014 Ao fim de mais oito semanas, no dia 27 do segundo mês do ano 601 de Noé, a terra estava completamente seca.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	350	001-GEN-009-028 Noé viveu ainda 350 anos depois do dilúvio.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	950	001-GEN-009-029 Ele morreu com 950 anos de idade.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	100	001-GEN-011-010 São estes os descendentes de Sem: Quando ele tinha 100 anos de idade, nasceu seu filho Arfaxade. Isso aconteceu dois anos após o dilúvio.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	500	001-GEN-011-011 Depois do nascimento de Arfaxade, Sem viveu mais 500 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	35	001-GEN-011-012 Arfaxade tinha 35 anos quando nasceu seu filho Salá.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	430	001-GEN-011-013 Depois disso, Arfaxade viveu mais 430 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	35	001-GEN-011-014 Salá tinha 35 anos quando nasceu seu filho Héber.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	403	001-GEN-011-015 Depois disso, Salá viveu mais 403 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Héber tinha 34 anos quando nasceu seu filho Pelegue.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	430	001-GEN-011-017 Depois disso, Héber viveu mais 430 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Pelegue tinha 30 anos quando nasceu seu filho Reú.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	209	001-GEN-011-019 Depois disso, Pelegue viveu mais 209 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Reú tinha 32 anos quando nasceu seu filho Serugue.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	207	001-GEN-011-021 Depois disso, Reú viveu mais 207 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	001-GEN-011-022 Serugue tinha 30 anos quando nasceu seu filho Naor.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	200	001-GEN-011-023 Depois disso, Serugue viveu mais 200 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Naor tinha 29 anos quando nasceu seu filho Terá.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	119	001-GEN-011-025 Depois disso, Naor viveu mais 119 anos, e teve filhos e filhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	70	001-GEN-011-026 Aos 70 anos, Terá era pai de três filhos: Abrão, Naor e Harã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Terá viveu 205 anos e morreu em Harã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	75	001-GEN-012-004 Então Abrão partiu, como o Senhor lhe havia ordenado. E Ló também foi com ele. Abrão tinha 75 anos quando partiu de Harã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Quando Abrão soube que seu sobrinho Ló tinha sido capturado, juntou os 318 homens treinados, nascidos na sua casa, e perseguiu os inimigos até Dã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	400	001-GEN-015-013 Então o Senhor disse a Abrão: “Fique sabendo que os seus descendentes viverão numa terra estrangeira e serão oprimidos e explorados como escravos por 400 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	86	001-GEN-016-016 Abrão tinha 86 anos quando Ismael nasceu.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	99	001-GEN-017-001 Quando Abrão estava com 99 anos de idade, o Senhor apareceu a ele, e disse: “Eu sou o Deus todo-poderoso. Faça a minha vontade e seja íntegro.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	99	001-GEN-017-024 Abraão tinha 99 anos quando foi circuncidado,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	127	001-GEN-023-001 Quando Sara estava com 127 anos de idade,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	400	001-GEN-023-015 “Ouça-me, meu senhor; o terreno vale 400 moedas de prata, mas o que significa isso entre mim e você? Vá e sepulte a sua mulher”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	400	001-GEN-023-016 Tendo ouvido isso de Efrom, Abraão concordou com o preço e pesou 400 moedas de prata diante dos heteus, moeda corrente entre os mercadores.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	175	001-GEN-025-007 Abraão viveu 175 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	137	001-GEN-025-017 Ismael viveu 137 anos de idade. Morreu e foi reunido aos seus antepassados.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	130	001-GEN-047-009 Jacó respondeu: “Tenho 130 anos de peregrinação. Minha vida de peregrinação foi curta e difícil, e não tenho vivido tanto quanto os meus antepassados”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	147	001-GEN-047-028 Depois de chegar ao Egito, Jacó viveu mais dezessete anos, e chegou a ter 147 anos de idade.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	137	002-EXO-006-016 Filhos de Levi, por ordem de idade: Gérson, Coate e Merari. Levi viveu 137 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	133	002-EXO-006-018 Filhos de Coate: Anrão, Jizar, Hebrom e Uziel. Coate viveu 133 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	137	002-EXO-006-020 Anrão casou com Joquebede, sua tia pelo lado paterno. Arão e Moisés eram filhos desse casal. Anrão viveu 137 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	002-EXO-016-035 Os israelitas comeram maná durante 40 anos, até entrarem em terras habitáveis. Eles comeram maná até chegarem às fronteiras de Canaã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	002-EXO-021-032 Se a pessoa morta pelo boi for escravo ou escrava, o preço do resgate será de 30 moedas de prata pago ao dono do escravo. Além disso, o boi será apedrejado.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	002-EXO-024-004 Moisés escreveu todas as palavras do Senhor, e na manhã seguinte se levantou bem cedo e fez um altar ao pé do monte. Construiu ali 12 pilares, um para cada tribo de Israel.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	002-EXO-028-021 Cada pedra representará uma das 12 tribos de Israel. O nome de cada tribo será gravado nela como um selo.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	002-EXO-030-024 três quilos de cássia aromática, com base no peso padrão do siclo do santuário, e aproximadamente 5 litros de azeite de oliveira.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	603	002-EXO-038-026 Seis gramas para cada um dos contados. Essa cobrança foi feita para todos de vinte anos para cima, que somaram 603.550.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	49	003-LEV-025-008 “Contem sete semanas de anos, sete vezes sete anos, totalizando 49 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	46	004-NUM-001-021 Foram contados ao todo da tribo de Rúben 46.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	59	004-NUM-001-023 Foram contados ao todo da tribo de Simeão 59.300 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	45	004-NUM-001-025 Foram contados ao todo da tribo de Gade 45.650 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	74	004-NUM-001-027 Foram contados ao todo da tribo de Judá 74.600 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	54	004-NUM-001-029 Foram contados ao todo da tribo de Issacar 54.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	57	004-NUM-001-031 Foram contados ao todo da tribo de Zebulom 57.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	004-NUM-001-033 Foram contados ao todo da tribo de Efraim 40.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	32	004-NUM-001-035 Foram contados ao todo da tribo de Manassés 32.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	35	004-NUM-001-037 Foram contados ao todo da tribo de Benjamin 35.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	62	004-NUM-001-039 Foram contados ao todo da tribo de Dã 62.700 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	41	004-NUM-001-041 Foram contados ao todo da tribo de Aser 41.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	53	004-NUM-001-043 Foram contados ao todo da tribo de Naftali 53.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	603	004-NUM-001-046 somaram um total de 603.550 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	74	004-NUM-002-004 e o seu exército, segundo o censo, é de 74.600 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	54	004-NUM-002-006 e o seu exército, segundo o censo, é de 54.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	57	004-NUM-002-008 e o seu exército, segundo o censo, é de 57.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	186	004-NUM-002-009 O número total dos homens recenseados do acampamento de Judá, segundo os seus exércitos, é de 186.400. Esses homens marcharão primeiro.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	46	004-NUM-002-011 e o seu exército, segundo o censo, é de 46.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	59	004-NUM-002-013 e o seu exército, segundo o censo, é de 59.300 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	45	004-NUM-002-015 e o seu exército, segundo o censo, é de 45.650 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	151	004-NUM-002-016 O número total dos homens recenseados do acampamento de Rúben, segundo os seus exércitos, é de 151.450. Esses marcharão em segundo lugar.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	004-NUM-002-019 e o seu exército, segundo o censo, é de 40.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	32	004-NUM-002-021 e o seu exército, segundo o censo, é de 32.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	32	004-NUM-002-023 e o seu exército, segundo o censo, é de 32.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	108	004-NUM-002-024 O número total dos homens recenseados do acampamento de Efraim, segundo os seus exércitos, é de 108.100. Esses marcharão em terceiro lugar.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	62	004-NUM-002-026 e o seu exército, segundo o censo, é de 62.700 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	41	004-NUM-002-028 e o seu exército, segundo o censo, é de 41.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	53	004-NUM-002-030 e o seu exército, segundo o censo, é de 53.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	157	004-NUM-002-031 O número total dos homens recenseados do acampamento de Dã, segundo os seus exércitos, é de 157.600 homens. Esses marcharão em último lugar, junto às suas bandeiras.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	603	004-NUM-002-032 O número total de homens de Israel contados de acordo com as suas famílias, nos acampamentos, de acordo com os seus exércitos foi de 603.550.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	7	004-NUM-003-022 O número de todos os que foram contados do sexo masculino, de um mês de idade para cima, foi 7.500.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	8	004-NUM-003-028 O número de todos os que foram contados do sexo masculino, de um mês de idade para cima, foi 8.600. Eles eram responsáveis para cuidar do Santuário.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	6	004-NUM-003-034 O número de todos os que foram contados do sexo masculino, de um mês de idade para cima, foi 6.200.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	22	004-NUM-003-039 A contagem dos levitas do sexo masculino, da idade de um mês para cima, que Moisés e Arão fizeram por ordem do Senhor, foi de 22.000.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	22	004-NUM-003-043 O número total dos filhos mais velhos do sexo masculino, de um mês para cima, segundo o censo, foi de 22.273.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	273	004-NUM-003-046 Para pagar o resgate dos 273 filhos mais velhos que excederam o número de levitas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	273	004-NUM-003-049 Moisés então recebeu o valor do resgate dos 273 filhos mais velhos das famílias do povo de Israel que excederam o número de levitas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	004-NUM-004-036 O total dos coatitas contados, conforme as suas famílias, foi de 2.750 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	004-NUM-004-040 O total de gersonitas contados, conforme os grupos de famílias e as famílias, foi de 2.630 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	004-NUM-004-044 O total de meraritas contados, conforme os grupos de famílias, foi de 3.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	8	004-NUM-004-048 totalizaram 8.580 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	600	004-NUM-011-021 Mas Moisés disse: “São 600.000 homens, e o Senhor diz: ‘Darei a eles carne para comerem durante um mês inteiro!’	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	14	004-NUM-016-049 E os que morreram em decorrência da praga foram 14.700 pessoas, sem contar aqueles que morreram por causa de Coré.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	004-NUM-025-009 Morreram 24.000 pessoas em decorrência da praga.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	43	004-NUM-026-007 Foram contados dos grupos de famílias de Rúben 43.730 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	250	004-NUM-026-010 Mas a terra se abriu e os engoliu juntamente com Coré, e o fogo queimou 250 homens, seguidores deles. Isso serviu de advertência para todo o povo.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	22	004-NUM-026-014 Foram contados dos grupos de famílias de Simeão 22.200 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	004-NUM-026-018 Foram contados dos grupos de famílias de Gade 40.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	76	004-NUM-026-022 Foram contados dos grupos de famílias de Judá 76.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	64	004-NUM-026-025 Foram contados dos grupos de famílias de Issacar 64.300 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	60	004-NUM-026-027 Foram contados dos grupos de famílias de Zebulom 60.500 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	52	004-NUM-026-034 Foram contados dos grupos de famílias de Manassés 52.700 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	32	004-NUM-026-037 Foram contados dos grupos de famílias de Efraim 32.500 homens. Esses foram os descendentes de José segundo os seus grupos de famílias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	45	004-NUM-026-041 Foram contados dos grupos de famílias de Benjamim 45.600 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	64	004-NUM-026-043 Foram contados dos grupos de famílias de Dã (todos eles dos grupos de famílias suamitas) 64.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	53	004-NUM-026-047 Foram contados dos grupos de famílias de Aser 53.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	45	004-NUM-026-050 Foram contados dos grupos de famílias de Naftali 45.400 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	601	004-NUM-026-051 O número total de homens contados em Israel foi de 601.730.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	23	004-NUM-026-062 O número total de levitas contados do sexo masculino de um mês para cima foi de 23.000. Eles não foram contados junto com os outros israelitas porque não receberam propriedade na divisão da terra entre as tribos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	004-NUM-031-005 Assim, dos milhares de israelitas foram separados de cada tribo mil soldados armados. O total de homens armados para a guerra foi de 12.000.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	500	004-NUM-031-028 Daquilo que os soldados trouxeram da guerra, separem um ‘tributo’ ao Senhor: de cada 500, um pertence ao Senhor, seja de pessoas, bois, jumentos ou ovelhas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	50	004-NUM-031-030 E da parte que pertence ao povo, de cada 50 um pertence ao Senhor, seja de pessoas, bois, jumentos, ovelhas, ou de qualquer outro animal, e entreguem-no aos levitas encarregados de cuidar do Tabernáculo do Senhor”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	675	004-NUM-031-032 O total de pessoas e animais capturados pelos soldados, além das joias, roupas e outros objetos que eles guardaram para si, foi: 675.000 ovelhas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	72	004-NUM-031-033 72.000 cabeças de gado,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	61	004-NUM-031-034 61.000 jumentos	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	32	004-NUM-031-035 e 32.000 moças que não tiveram relação com um homem.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	337	004-NUM-031-036 Então, a metade destinada aos que foram à guerra foi de 337.500 ovelhas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	675	004-NUM-031-037 das quais o tributo para o Senhor foi de 675 ovelhas;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	36	004-NUM-031-038 36.000 cabeças de gado, das quais o imposto para o Senhor foi de 72 cabeças;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	004-NUM-031-039 30.500 jumentos, dos quais o imposto para o Senhor foi de 61 jumentos;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	16	004-NUM-031-040 16.000 pessoas, das quais o tributo para o Senhor foi de 32 pessoas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	337	004-NUM-031-043 Essa foi a parte que pertencia à comunidade de Israel: 337.500 ovelhas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	36	004-NUM-031-044 36.000 cabeças de gado,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	004-NUM-031-045 30.500 jumentos	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	16	004-NUM-031-046 e 16.000 pessoas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	200	004-NUM-031-052 O total do ouro da oferta que os comandantes de milhares e os comandantes de centenas ofereceram ao Senhor foi de 200 quilos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	20	004-NUM-032-011 ‘Nenhum dos homens que saíram do Egito com mais de 20 anos de idade verá a terra que prometi a Abraão, Isaque e Jacó.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	004-NUM-032-013 Por isso o Senhor ficou irado com Israel e fez o povo andar sem destino durante 40 anos pelo deserto, até que morresse toda aquela geração que tinha desagradado ao Senhor.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	123	004-NUM-033-039 Arão tinha 123 anos de idade quando morreu no monte Hor.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	450	004-NUM-035-004 “As pastagens nos arredores das cidades que vocês darão aos levitas se estenderão por 450 metros desde o muro da cidade para cada um dos lados dessas cidades.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	900	004-NUM-035-005 Fora da cidade vocês medirão 900 metros para o lado leste, 900 metros para o lado oeste, 900 metros para o lado sul, e 900 metros para o lado norte, ficando a cidade no centro. Essas serão as áreas de pastagens das cidades.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	480	011-1KI-006-001 Foi na primavera do quarto ano do reinado de Salomão que ele começou a construção do templo. Isso ocorreu 480 anos depois que o povo de Israel deixou a escravidão do Egito.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	22	013-1CH-007-002 Os filhos de Tolá foram chefes dos seguintes grupos de famílias: Uzi, Refaías, Jeriel, Jamai, Ibsão e Samuel. No tempo do rei Davi, o número total de soldados pertencentes aos descendentes de Tolá era de 22.600.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	36	013-1CH-007-004 que tinham muitas mulheres e filhos. No tempo de Davi, os homens destas famílias preparados para a guerra eram 36.000.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	87	013-1CH-007-005 O número total de homens prontos para o serviço militar pertencentes a todos os grupos de famílias da tribo de Issacar era de 87.000 guerreiros valentes, todos incluídos no registro oficial das famílias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	22	013-1CH-007-007 Os filhos de Belá foram: Esbom, Uzi, Uziei, Jerimote e Iri. Esses cinco poderosos guerreiros foram chefes de grupos de famílias e comandavam 22.034 soldados, todos registrados no registro oficial das famílias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	22	013-1CH-007-009 No tempo de Davi havia 22.200 poderosos guerreiros entre os filhos dessas famílias. Eles eram comandados pelos chefes dos grupos de famílias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	17	013-1CH-007-011 Eles foram os chefes de famílias dos seus grupos de famílias de Jediael, e dentre os descendentes deles havia 17.200 guerreiros prontos para a guerra.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	26	013-1CH-007-040 Todos esses descendentes de Aser foram chefes de famílias, homens escolhidos, soldados valentes, bons líderes, e sabiam lutar muito bem. Eles estavam inscritos nos registros de famílias e havia um total de 26.000 soldados.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	6	013-1CH-012-024 da tribo de Judá, 6.800 soldados armados com escudos e lanças;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	7	013-1CH-012-025 da tribo de Simeão, 7.100 soldados valentes;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	4	013-1CH-012-026 da tribo de Levi, 4.600,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	013-1CH-012-027 Joiada, líder da família de Arão, com 3.700 homens,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	22	013-1CH-012-028 e Zadoque, um jovem de coragem fora do comum, com 22 oficiais, membros da sua família;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	013-1CH-012-029 da tribo de Benjamim, a mesma tribo de Saul, havia 3.000, uma grande parte dessa tribo permaneceu fiel à família de Saul;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	20	013-1CH-012-030 da tribo de Efraim, 20.800 soldados valentes, cada um deles muito respeitado em seus grupos de famílias;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	18	013-1CH-012-031 da meia tribo de Manassés, 18.000 foram enviados com a única finalidade de ajudar Davi a tornar-se rei;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	200	013-1CH-012-032 da tribo de Issacar, 200 chefes, todos homens que conheciam bem os fatos daquele tempo e sabiam qual o melhor caminho para Israel seguir. Eles comandavam todos os seus parentes;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	50	013-1CH-012-033 da tribo de Zebulom, 50.000 soldados treinados, muito bem preparados para a batalha com qualquer tipo de arma, e eram sinceros na ajuda a Davi;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	013-1CH-012-034 da tribo de Naftali havia 1.000 oficiais e 37.000 soldados armados com escudos e lanças;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	28	013-1CH-012-035 da tribo de Dã, 28.600 soldados, todos preparados para a guerra;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	013-1CH-012-036 da tribo de Aser, 40.000 soldados treinados e prontos para a guerra;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	120	013-1CH-012-037 do outro lado do rio Jordão, onde moravam as tribos de Rúben e Gade e a meia tribo de Manassés, 120.000 soldados. Esses soldados tinham todos os tipos de armas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-002 O comandante da primeira divisão era Jasobeão, filho de Zabdiel. Ele tinha a responsabilidade por 24.000 soldados que estavam de serviço no primeiro mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-004 O comandante da segunda divisão era Dodai, filho de Aoí. Ele era responsável por 24.000 soldados que estavam de serviço no segundo mês de cada ano. Miclote era oficial imediato de Dodai.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-005 O comandante da terceira divisão era Benaia, filho do sacerdote Joiada. Ele era chefe da sua divisão de 24.000 homens que estavam de serviço no terceiro mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-007 O comandante da quarta divisão era Asael, irmão de Joabe, que mais tarde foi substituído por seu filho Zebadias. Ele tinha 24.000 homens de serviço no quarto mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-008 O comandante da quinta divisão era Samute, de Izrá, com 24.000 homens de serviço no quinto mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-009 O comandante da sexta divisão era Ira, filho de Iques, de Tecoa; ele tinha 24.000 homens de serviço no sexto mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-010 O comandante da sétima divisão era Helez, de Pelona, descendente de Efraim, com 24.000 homens de serviço no sétimo mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-011 O comandante da oitava divisão era Sibecai, de Husate, da família de Zerá; ele tinha 24.000 homens de serviço no oitavo mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-012 O comandante da nona divisão era Abiezer, de Anatote, da tribo de Benjamim; ele comandava 24.000 homens de serviço durante o nono mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-013 O comandante da décima divisão era Maarai, de Netofa, da família de Zerá, com 24.000 homens de serviço no décimo mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-014 O comandante da décima primeira divisão era Benaia, de Piratom, descendente de Efraim, com 24.000 homens de serviço durante o décimo primeiro mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	24	013-1CH-027-015 O comandante da décima segunda divisão era Heldai, de Netofate, da família de Otoniel; ele tinha 24.000 homens de serviço durante o décimo segundo mês de cada ano.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	015-EZR-001-009 Os objetos que Ciro ofertou foram os seguintes: 30 tigelas de ouro, 1.000 bacias de prata, 29 incensórios de prata,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	015-EZR-001-010 30 vasos de ouro maciço, 410 vasos de prata de menor valor e 1.000 objetos diversos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	015-EZR-001-011 Ao todo foram entregues 5.400 objetos de ouro e de prata a Sesbazar quando os exilados israelitas vieram da Babilônia para Jerusalém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	015-EZR-002-003 da família de Parós, 2.172;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	372	015-EZR-002-004 da família de Sefatias, 372;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	775	015-EZR-002-005 da família de Ara, 775;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	015-EZR-002-006 da família de Paate-Moabe, descendentes de Jesua e Joabe, 2.812;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	015-EZR-002-007 da família de Elão, 1.254;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	945	015-EZR-002-008 da família de Zatu, 945;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	760	015-EZR-002-009 da família de Zacai, 760;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	642	015-EZR-002-010 da família de Bani, 642;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	623	015-EZR-002-011 da família de Bebai, 623;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	015-EZR-002-012 da família de Azgade, 1.222;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	666	015-EZR-002-013 da família de Adonicão, 666;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	015-EZR-002-014 da família de Bigvai, 2.056;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	454	015-EZR-002-015 da família de Adim, 454;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	98	015-EZR-002-016 da família de Ater, descendentes de Ezequias, 98;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	323	015-EZR-002-017 da família de Bezai, 323;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	112	015-EZR-002-018 da família de Jora, 112;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	223	015-EZR-002-019 da família de Hasum, 223;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	95	015-EZR-002-020 da família de Gibar, 95;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	123	015-EZR-002-021 os da cidade de Belém, 123;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	56	015-EZR-002-022 de Netofa, 56;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	128	015-EZR-002-023 de Anatote, 128;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	42	015-EZR-002-024 de Azmavete, 42;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	743	015-EZR-002-025 de Quiriate-Arim, Quefira e Beerote, 743;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	621	015-EZR-002-026 de Ramá e Geba, 621;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	122	015-EZR-002-027 de Micmás, 122;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	223	015-EZR-002-028 de Betel e Ai, 223;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	52	015-EZR-002-029 de Nebo, 52;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	156	015-EZR-002-030 de Magbis, 156;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	015-EZR-002-031 de Elão, 1.254;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	320	015-EZR-002-032 de Harim, 320;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	725	015-EZR-002-033 de Lode, Hadide e Ono, 725;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	345	015-EZR-002-034 de Jericó, 345;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	015-EZR-002-035 de Senaá, 3.630.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	973	015-EZR-002-036 Esta é a lista dos grupos de famílias dos sacerdotes que voltaram do cativeiro: dos descendentes de Jedaías, por meio da família de Jesua, 973;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	015-EZR-002-037 da família de Imer, 1.052;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	015-EZR-002-038 da família de Pasur, 1.247;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	015-EZR-002-039 da família de Harim, 1.017.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	74	015-EZR-002-040 Esta é a lista dos grupos de famílias dos levitas que voltaram do cativeiro: das famílias de Jesua e Cadmiel, por meio dos descendentes de Hodavias, 74.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	128	015-EZR-002-041 Os cantores: descendentes da família de Asafe, 128.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	139	015-EZR-002-042 Dos porteiros do templo: das famílias de Salum, Ater, Talmom, Acube, Hatita e Sobai, 139.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	392	015-EZR-002-058 Os servidores do templo e os descendentes dos oficiais de Salomão eram 392.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	652	015-EZR-002-060 Esse grupo incluía os grupos de famílias de Delaías, de Tobias e de Necoda, num total de 652.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	42	015-EZR-002-064 Assim, os que voltaram para Judá eram um total de 42.360 homens,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	7	015-EZR-002-065 isso sem contar os 7.337 escravos e escravas e 200 cantores e cantoras.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	736	015-EZR-002-066 Eles levaram consigo 736 cavalos, 245 mulos,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	435	015-EZR-002-067 435 camelos e 6.720 jumentos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	150	015-EZR-008-003 dos descendentes de Secanias, dos descendentes de Parós, Zacarias, e com ele foram registrados 150 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	200	015-EZR-008-004 dos descendentes de Paate-Moabe, Elioenai, filho de Zeraías, e com ele 200 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	300	015-EZR-008-005 dos descendentes de Zatu, Secanias, filho de Jeaziel, e com ele 300 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	50	015-EZR-008-006 dos descendentes de Adim, Ebede, filho de Jônatas, e com ele 50 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	70	015-EZR-008-007 dos descendentes de Elão, Jesaías, filho de Atalias, e com ele 70 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	80	015-EZR-008-008 dos descendentes de Sefatias, Zebadias, filho de Micael, e com ele 80 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	218	015-EZR-008-009 dos descendentes de Joabe, Obadias, filho de Jeiel, e com ele 218 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	160	015-EZR-008-010 dos descendentes de Bani, Selomite, filho de Josifias, e com ele 160 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	28	015-EZR-008-011 dos descendentes de Bebai, Zacarias, filho de Bebai, e com ele 28 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	110	015-EZR-008-012 dos descendentes de Azgade, Joanã, filho de Catã, e com ele 110 homens;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	60	015-EZR-008-013 dos descendentes de Adonicão, Elifelete, Jeiel e Semaías, e com eles 60 homens. Eles chegaram algum tempo mais tarde;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	70	015-EZR-008-014 dos descendentes de Bigvai, Utai, Zabude, e com eles 70 homens.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	22	015-EZR-008-026 Pesei e entreguei a eles 22.750 quilos de prata, três toneladas e meia de utensílios de prata, três toneladas e meia de ouro,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	016-NEH-007-008 Da família de Parós, 2.172;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	372	016-NEH-007-009 da família de Sefatias, 372;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	652	016-NEH-007-010 da família de Ará, 652;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	016-NEH-007-011 das famílias de Jesua e Joabe, pertencentes à família de Paate-Moabe, 2.818;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	016-NEH-007-012 da família de Elão, 1.254;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	845	016-NEH-007-013 da família de Zatu, 845;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	760	016-NEH-007-014 da família de Zacai, 760;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	648	016-NEH-007-015 da família de Binui, 648;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	628	016-NEH-007-016 da família de Bebai, 628;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	016-NEH-007-017 da família de Azgade, 2.322;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	667	016-NEH-007-018 da família de Adonicão, 667;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	016-NEH-007-019 da família de Bigvai, 2.067;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	655	016-NEH-007-020 da família de Adim, 655;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	98	016-NEH-007-021 da família de Ezequias, que é da família de Ater, 98;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	328	016-NEH-007-022 da família de Hassum, 328;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	324	016-NEH-007-023 da família de Bezai, 324;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	112	016-NEH-007-024 da família de Harife, 112;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	95	016-NEH-007-025 da família de Gibeom, 95;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	188	016-NEH-007-026 das famílias de Belém e de Netofa, 188;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	128	016-NEH-007-027 da família de Anatote, 128;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	42	016-NEH-007-028 da família de Bete-Azmavete, 42;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	743	016-NEH-007-029 das famílias de Quiriate-Jearim, Quefira e Beerote, 743;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	621	016-NEH-007-030 das famílias de Ramá e Geba, 621;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	122	016-NEH-007-031 da família de Micmás, 122;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	123	016-NEH-007-032 das famílias de Betel e Ai, 123;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	52	016-NEH-007-033 da família de Nebo, 52;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	016-NEH-007-034 da família de Elão, 1.254;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	320	016-NEH-007-035 da família de Harim, 320;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	345	016-NEH-007-036 da família de Jericó, 345;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	721	016-NEH-007-037 das famílias de Lode, Hadide e Ono, 721;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	016-NEH-007-038 da família de Senaá, 3.930.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	973	016-NEH-007-039 Aqui estão os números referentes aos sacerdotes que voltaram: Da família de Jesua, que é da família de Jedaías, 973;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	016-NEH-007-040 da família de Imer, 1.052;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	016-NEH-007-041 da família de Pasur, 1.247;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	016-NEH-007-042 da família de Harim, 1.017.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	74	016-NEH-007-043 Estes são os números referentes aos levitas: Da família de Cadmiel, da casa de Hodeva, que é da família de Jesua, 74.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	148	016-NEH-007-044 Os cantores da família de Asafe, 148.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	138	016-NEH-007-045 Das famílias de Salum, Ater, Talmom, Acube, Hatita e Sobai, todos porteiros, 138.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	392	016-NEH-007-060 No total, os servidores do templo e os descendentes dos oficiais de Salomão somavam 392.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	642	016-NEH-007-062 esse grupo era das famílias de Delaías, Tobias e Necoda, num total de 642.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	42	016-NEH-007-066 Havia um total de 42.360 homens que voltaram para Judá naquela ocasião,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	7	016-NEH-007-067 além de 7.337 servos e servas, e 245 cantores e cantoras.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	736	016-NEH-007-068 Eles levaram consigo 736 cavalos, 245 mulas,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	435	016-NEH-007-069 435 camelos e 6.720 jumentos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	50	016-NEH-007-070 Alguns dos chefes deles fizeram ofertas para a obra. O governador deu oito quilos em ouro, 50 vasos de ouro e 530 vestes sacerdotais.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	468	016-NEH-011-006 Estes foram os 468 valentes descendentes de Perez que moraram em Jerusalém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	928	016-NEH-011-008 Mais os 928 descendentes de Gabai e Salai.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	822	016-NEH-011-012 Ao todo, havia 822 sacerdotes trabalhando no templo sob a direção desses homens. Adaías, filho de Jeroão; Jeroão era filho de Pelalias; Pelalias era filho de Anzi; Anzi era filho de Zacarias; Zacarias era filho de Pasur; Pasur era filho de Malquias,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	242	016-NEH-011-013 e seus irmãos chefes de grupos de famílias, 242 homens. Amassai, filho de Azareel; Azareel era filho de Azai; Azai era filho de Mesilemote; Mesilemote era filho de Imer,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	128	016-NEH-011-014 e os seus irmãos, homens valentes, 128. O oficial superior deles era Zabdiel, filho de Gedolim.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	284	016-NEH-011-018 Ao todo, havia 284 levitas em Jerusalém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	172	016-NEH-011-019 Também havia 172 porteiros, que eram chefiados por Acube, Talmom e outros da família deles.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	024-JER-052-028 No sétimo ano do reinado de Nabucodonosor, 3.023 judeus foram levados para o exílio por Nebuzaradã.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	832	024-JER-052-029 No décimo oitavo ano, mais 832 tiveram o mesmo destino;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	745	024-JER-052-030 em seu vigésimo terceiro ano, Nabucodonosor mandou Nebuzaradã, comandante da guarda imperial, a Judá, e ele levou mais 745 judeus para o exílio na Babilônia. Ao todo foram 4.600 judeus.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	040-MAT-013-008 Mas outra parte caiu em solo bom, e deram uma colheita que era 30, 60 e até mesmo 100 vezes aquilo que ele tinha plantado.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	040-MAT-013-023 O terreno bom representa o coração de um homem que ouve a mensagem e a entende, e dá uma colheita de 30, 60 e até 100 vezes o que foi plantado”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	040-MAT-014-021 Cerca de 5.000 homens estavam na multidão naquele dia, além de mulheres e crianças.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	4	040-MAT-015-038 Os que comeram foram 4.000 homens, além de mulheres e crianças!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	040-MAT-016-009 Vocês não entenderam ainda? Não se lembram dos cinco pães para os 5.000 e os cestos cheios que sobraram?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	4	040-MAT-016-010 Não se lembram dos sete pães para os 4.000 e de quantos cestos sobraram?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	100	040-MAT-018-028 “Mas quando aquele servo saiu da presença do rei encontrou um dos seus companheiros de trabalho que lhe devia 100 denários, o agarrou pela garganta e exigiu que lhe pagasse na hora.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	041-MAR-004-020 Mas a terra boa representa o coração daqueles que verdadeiramente ouvem e aceitam a mensagem divina e dão uma colheita de 30, 60 e até mesmo 100 vezes por um”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	50	041-MAR-006-040 Assim, eles se assentaram em grupos de 50 e de 100.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	041-MAR-006-044 Havia cerca de 5.000 homens ali para aquela refeição!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	4	041-MAR-008-009 Havia cerca de 4.000 homens naquele dia. Depois disso ele os despediu,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	041-MAR-008-019 Como foi com os 5.000 homens que foram alimentados com cinco pães? Quantos cestos cheios de sobras vocês recolheram depois?” “Doze”, disseram eles.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	4	041-MAR-008-020 “E quando eu parti os sete pães para os 4.000, quantos cestos cheios de pedaços vocês recolheram?” “Sete”, disseram.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Era domingo de manhã quando Jesus ressuscitou, e a primeira pessoa que o viu foi Maria Madalena, a mulher de quem ele havia expulsado sete demônios.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	84	042-LUK-002-037 e era viúva de 84 anos. Ela nunca saía do templo, mas permanecia lá, adorando a Deus, jejuando e orando dia e noite.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	042-LUK-002-042 Quando Jesus completou 12 anos de idade, acompanhou seus pais para a festa, conforme o costume.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	30	042-LUK-003-023 Jesus estava com cerca de 30 anos de idade quando começou o seu ministério público. Jesus era conhecido como o filho de José; o pai de José foi Heli;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	042-LUK-004-002 onde o diabo o tentou durante 40 dias. Ele não comeu nada durante esse tempo, e no final ficou com muita fome.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	100	042-LUK-008-008 Ainda outras caíram em terra boa; estas cresceram e deram boa colheita, de 100 por um”. Ao terminar, disse: “Aquele que tem ouvidos para ouvir, que ouça!”	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	042-LUK-009-014 Havia ali cerca de 5.000 homens! “Digam-lhes apenas que se sentem no chão em grupos de cinquenta”, respondeu Jesus.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	70	042-LUK-010-001 Depois disto o Senhor escolheu outros 70 discípulos e os enviou na frente, dois a dois, às cidades e aldeias que ele pretendia visitar mais tarde.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	70	042-LUK-010-017 Quando os 70 discípulos voltaram, contaram-lhe alegres: “Senhor, até os demônios nos obedecem, em seu nome”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	18	042-LUK-013-004 E que acham dos 18 homens que morreram quando a Torre de Siloé caiu em cima deles? Eram eles os piores pecadores de Jerusalém?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	18	042-LUK-013-011 viu uma mulher que andava encurvada havia 18 anos. Ela tinha um espírito que a mantinha doente e era incapaz de endireitar-se.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	18	042-LUK-013-016 E está errado que eu liberte esta mulher judia de 18 anos que ficou presa por Satanás, só porque hoje é sábado?”	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	10	042-LUK-014-031 “E qual é o rei que algum dia pensou em ir à guerra sem primeiro sentar-se com os seus conselheiros e discutir se seu exército de 10.000 homens é capaz de derrotar os 20.000 homens que vêm marchando contra ele?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	100	042-LUK-015-004 “Se você tivesse 100 ovelhas e uma delas se perdesse, não deixaria as outras 99 para ir à procura da perdida até conseguir encontrá-la?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	99	042-LUK-015-007 Ora, da mesma forma há muito mais alegria no céu por causa de um pecador que volta para Deus do que por 99 justos que não precisam se arrepender”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	10	042-LUK-015-008 Jesus continuou: “Se uma mulher tem 10 valiosas moedas de prata e perde uma delas, ela não vai acender uma lamparina e olhar em cada canto da casa para achá-la?	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	042-LUK-023-044 A esta altura era meio-dia, e a escuridão cobriu toda a terra até as 3 horas da tarde.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	80	043-JOH-002-006 Havia ali seis talhas de pedra; elas eram utilizadas nas cerimônias de purificação, e em cada uma cabiam entre 80 e 120 litros.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	46	043-JOH-002-020 “Como?”, exclamaram eles. “Levou 46 anos para construir-se este templo, e o Senhor vai levantá-lo em três dias?”	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	38	043-JOH-005-005 Um dos homens que se achavam ali estava paralítico havia 38 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	043-JOH-006-010 Jesus ordenou: “Digam para todo mundo assentar-se”. E todos eles — só os homens eram aproximadamente 5.000 — sentaram-se no gramado do monte.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	043-JOH-006-013 Então eles encheram 12 cestos com os pedaços que sobraram dos cinco pães de cevada!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	043-JOH-011-018 Betânia ficava a cerca de 3 quilômetros de Jerusalém,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	90	043-JOH-021-008 Os outros discípulos ficaram no barco e puxaram a rede carregada para a praia, distante cerca de 90 metros.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	153	043-JOH-021-011 Simão Pedro entrou no barco e arrastou a rede para a praia. Havia 153 peixes grandes; nem assim a rede rebentou!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	044-ACT-001-003 Durante os 40 dias depois do seu sofrimento ele apareceu aos apóstolos diversas vezes, provando para eles de muitas maneiras que realmente estava vivo. Nessas ocasiões falou a eles a respeito do Reino de Deus.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	120	044-ACT-001-015 Durante esse tempo, num dia em que cerca de 120 pessoas estavam presentes, Pedro se levantou entre os irmãos,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	3	044-ACT-002-041 E aqueles que acreditaram na mensagem de Pedro foram batizados, e naquele dia se uniram aos seguidores de Jesus cerca de 3.000 pessoas!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	5	044-ACT-004-004 Porém muitos que ouviram a mensagem deles creram, de modo que o número de crentes agora já atingia cerca de 5.000 pessoas!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	044-ACT-004-022 pois o homem que havia sido curado milagrosamente tinha mais de 40 anos!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	400	044-ACT-005-036 Há algum tempo, apareceu um certo Teudas, que tinha a pretensão de ser alguém importante. Cerca de outros 400 se juntaram a ele, porém foi morto e os seus seguidores foram dispersos sem prejuízo para ninguém.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	400	044-ACT-007-006 Mas Deus falou a ele dessa forma: ‘Os seus descendentes vão ser peregrinos em uma terra estrangeira e ali se tornarão escravos e serão maltratados por 400 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	044-ACT-007-023 “Um dia, quando ele estava com 40 anos, veio-lhe a ideia de visitar seus irmãos israelitas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	044-ACT-007-036 Por meio de muitos sinais e maravilhas ele os conduziu para fora do Egito, através do mar Vermelho e pelo deserto durante 40 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	044-ACT-013-018 os aturou durante cerca de 40 anos de caminhada através do deserto.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	450	044-ACT-013-020 Tudo isso levou cerca de 450 anos. “Depois disso, ele lhes deu juízes até o tempo do profeta Samuel.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	044-ACT-013-021 Então o povo pediu um rei, e Deus deu a eles Saul, filho de Quis, homem da tribo de Benjamim, que reinou 40 anos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	50	044-ACT-019-019 Muitos dos crentes, que tinham praticado ocultismo, confessaram as suas obras. Trouxeram seus livros de magia e bruxaria e os queimaram numa fogueira pública. Alguém calculou o valor dos livros em 50.000 denários.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	4	044-ACT-021-038 “Você não é aquele egípcio que chefiou uma rebelião, há poucos anos, e levou com ele ao deserto 4.000 assassinos?”	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	044-ACT-023-013 Juntaram-se mais de 40 homens debaixo dessa conspiração.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	40	044-ACT-023-021 Mas não acredite nisso! Há mais de 40 homens escondidos ao longo da estrada, preparando uma emboscada para Paulo. Eles juraram não comer nem beber enquanto não o matarem. Eles já estão lá, esperando que o senhor atenda ao pedido deles”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	200	044-ACT-023-023 Então o comandante chamou dois dos seus centuriões e ordenou: “Preparem um destacamento de 200 soldados para partirem para Cesareia, hoje às nove horas da noite! Levem 200 lanceiros e 70 homens da cavalaria.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	044-ACT-026-007 As 12 tribos de Israel esforçam-se na religião noite e dia para alcançar esta mesma esperança que eu tenho! Todavia, ó rei, é por causa dessa esperança que estou sendo acusado pelos judeus.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	37	044-ACT-027-028 Lançaram a sonda e verificaram que a profundidade era de 37 metros. Um pouco adiante, lançaram novamente a sonda e acharam apenas 27 metros.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	23	046-1CO-010-008 Não pratiquemos a imoralidade sexual, como alguns deles fizeram e 23.000 caíram mortos num só dia.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	144	066-REV-007-004 Eu ouvi o número dos que receberam esta marca. Eram 144.000, de todas as tribos de Israel.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	066-REV-007-005 Da tribo de Judá foram selados 12.000, da tribo de Rúbem, 12.000, da tribo de Gade, 12.000,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	066-REV-007-006 da tribo de Aser, 12.000, da tribo de Naftali, 12.000, da tribo de Manassés, 12.000,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	066-REV-007-007 da tribo de Simeão, 12.000, da tribo de Levi, 12.000, da tribo de Issacar, 12.000,	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	066-REV-007-008 da tribo de Zebulom, 12.000, da tribo de José, 12.000, da tribo de Benjamim, 12.000.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	066-REV-011-003 E eu darei poder às minhas duas testemunhas para profetizarem 1.260 dias vestidas de pano de saco”.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	7	066-REV-011-013 Na mesma hora houve um violento terremoto que arrasou uma décima parte da cidade e deixou 7.000 mortos. Então cada um dos que foram deixados, com muito medo deram glória ao Deus do céu.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	1	066-REV-012-006 A mulher fugiu para o deserto, onde Deus lhe tinha preparado um lugar, para cuidar dela durante 1.260 dias.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	666	066-REV-013-018 Este é um enigma que exige um estudo cuidadoso para solucioná-lo. Aqueles que são capazes calculem o número da besta, pois é o número de homem. Seu número é 666!	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	144	066-REV-014-001 Então eu vi o Cordeiro em pé no monte Sião, e com ele estavam 144.000 que tinham o nome dele e o nome do seu Pai escritos nas suas testas.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	144	066-REV-014-003 Este som era um maravilhoso cântico novo entoado diante do trono de Deus, diante dos quatro seres viventes e dos anciãos; e ninguém podia aprender este cântico, a não ser estes 144.000 que haviam sido comprados da terra.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	300	066-REV-014-020 E as uvas foram esmagadas no lagar, fora da cidade, e correu sangue do lagar numa torrente de cerca de 300 quilômetros de comprimento, e chegava até as rédeas dos cavalos.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	35	066-REV-016-021 e houve uma incrível tempestade de pedras caídas do céu; pedras de granizo do peso de 35 quilos caíram do céu em cima das pessoas, e eles blasfemavam contra Deus por causa da terrível chuva de pedras.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	2	066-REV-021-016 Quando ele a mediu, descobriu que era quadrada, com a mesma largura que o comprimento. Ele mediu a cidade com a vara; tinha 2.200 quilômetros de comprimento; a largura e a altura eram iguais ao comprimento.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	64	066-REV-021-017 Então ele mediu os muros e viu que tinham 64 metros de espessura, segundo a medida padrão usada pelo anjo.	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	12	066-REV-021-019 e foi construído sobre 12 camadas de pedras de alicerce ornamentadas de pedras preciosas: A primeira camada era de jaspe; A segunda de safira; A terceira de calcedônia; A quarta de esmeralda;	WARN
+Portuguese---Open-New-Bible	NUMERALS	Aionian	count	383	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

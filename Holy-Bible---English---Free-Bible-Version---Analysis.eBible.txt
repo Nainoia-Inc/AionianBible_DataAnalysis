@@ -1,0 +1,1410 @@
+# File Name: Holy-Bible---Holy-Bible---English---Free-Bible-Version---Analysis.txt
+# File Size: 196725      
+# File Date: 12/13/2025 05:20:38
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Free Bible Version
+# Bible Name English: Free Bible Version
+# Bible Language: English
+# Bible Language English: English
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Dr. Jonathan Gallagher
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=engfbv
+# Bible Source Year: 2018
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+English---Free-Bible-Version	ENCODING	Source	Holy-Bible---English---Free-Bible-Version---Source-Edition.VPL.txt	UTF-8	NOTICE
+English---Free-Bible-Version	ENCODING	Aionian	Holy-Bible---English---Free-Bible-Version---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+English---Free-Bible-Version	BYTES	Source	bytes / chars	4282213 / 4247629 (multi-byte)	NOTICE
+English---Free-Bible-Version	BYTES	Aionian	bytes / chars	4496175 / 4461403 (multi-byte)	NOTICE
+English---Free-Bible-Version	BYTES	SourceClean	bytes / chars	4281380 / 4246796 (multi-byte)	NOTICE
+English---Free-Bible-Version	BYTES	AionianClean	bytes / chars	4492672 / 4457900 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+English---Free-Bible-Version	AIONIAN	Aionian	book-not-exist	0	NOTICE
+English---Free-Bible-Version	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+English---Free-Bible-Version	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+English---Free-Bible-Version	AIONIAN	Aionian	missing-chapter	0	NOTICE
+English---Free-Bible-Version	AIONIAN	Aionian	missing-verse	0	NOTICE
+English---Free-Bible-Version	AIONIAN	Aionian	aionian-verses	264	NOTICE
+English---Free-Bible-Version	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+English---Free-Bible-Version	UNPRINTABLE	Source	count	0	NOTICE
+English---Free-Bible-Version	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+English---Free-Bible-Version	UNICODE	Summary	(-)Orginal	55	NOTICE
+English---Free-Bible-Version	UNICODE	Summary	(+)Aionian	59	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (G)	8887	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (E)	14202	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : ( )	765861	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (1)	30658	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (:)	32896	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (n)	191586	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (t)	259893	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (h)	207120	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (e)	392775	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (b)	41861	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (g)	57440	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (i)	180227	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (o)	257420	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (d)	138193	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (c)	54022	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (r)	173781	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (a)	229843	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (s)	182120	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (.)	38990	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (\n)	31104	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (2)	21935	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (T)	16703	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (m)	74455	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (l)	126266	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (p)	48216	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (y)	71491	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (,)	47653	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (k)	25137	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (u)	88324	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (S)	13144	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (3)	12410	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (L)	12287	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (!)	3835	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (4)	9274	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (5)	7202	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (6)	6576	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (7)	6024	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (A)	16231	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (8)	5837	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (9)	5671	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (0)	6280	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (H)	9971	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (R)	5215	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (-)	1684	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (U)	3762	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (P)	6608	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (()	495	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : ())	495	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (C)	6045	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (O)	7907	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (q)	887	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (M)	8200	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (J)	12295	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (K)	3569	NOTICE
+English---Free-Bible-Version	UNICODE	Source(-)	Basic Latin : (V)	1401	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (0)	131517	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (1)	42636	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (\t)	124344	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (G)	8899	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (E)	14201	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (n)	191788	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : ( )	704221	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (t)	259900	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (h)	207249	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (e)	392874	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (b)	41871	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (g)	57653	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (i)	180474	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (o)	257569	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (d)	138210	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (c)	54024	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (r)	173792	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (a)	230042	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (s)	182234	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (.)	38916	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (\n)	31085	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (2)	31347	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (T)	16698	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (m)	74462	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (l)	126335	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (p)	48217	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (y)	71505	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (,)	47661	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (k)	25138	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (u)	88327	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (S)	13208	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (3)	17326	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (L)	12290	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (!)	3834	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (4)	20138	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (5)	10429	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (6)	10837	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (7)	7556	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (A)	16228	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (8)	7922	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (9)	9331	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (:)	1794	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (H)	9981	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (R)	5208	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (-)	1685	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (U)	3760	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (P)	6613	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (()	833	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : ())	833	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (C)	6041	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (O)	7904	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (q)	888	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (M)	8192	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (J)	12293	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (K)	3567	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Basic Latin : (V)	1400	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+English---Free-Bible-Version	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (G)	8887	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (E)	14202	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (N)	5430	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : ( )	765861	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (1)	30658	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (:)	32896	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (I)	19033	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (n)	191586	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (t)	259893	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (h)	207120	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (e)	392775	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (b)	41861	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (g)	57440	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (i)	180227	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (o)	257420	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (d)	138193	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (c)	54022	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (r)	173781	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (a)	229843	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (v)	34350	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (s)	182120	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (.)	38990	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (\n)	31104	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (2)	21935	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (T)	16703	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (w)	70612	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (f)	65212	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (m)	74455	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (l)	126266	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (p)	48216	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (y)	71491	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (,)	47653	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (k)	25137	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (u)	88324	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (S)	13144	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (3)	12410	NOTICE
+English---Free-Bible-Version	UNICODE	Source	General Punctuation : (“)	6564	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (L)	12287	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (!)	3835	NOTICE
+English---Free-Bible-Version	UNICODE	Source	General Punctuation : (”)	6563	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (4)	9274	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (5)	7202	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (6)	6576	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (x)	2399	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (7)	6024	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (A)	16231	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (')	15001	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (8)	5837	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (9)	5671	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (0)	6280	NOTICE
+English---Free-Bible-Version	UNICODE	Source	General Punctuation : (—)	2063	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (H)	9971	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (;)	2757	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (R)	5215	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (-)	1684	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (B)	5932	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (U)	3762	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (D)	4963	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (F)	1550	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (P)	6608	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (()	495	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : ())	495	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (C)	6045	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (Y)	2737	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (j)	2924	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (?)	3276	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (W)	4018	NOTICE
+English---Free-Bible-Version	UNICODE	Source	General Punctuation : (‘)	1045	NOTICE
+English---Free-Bible-Version	UNICODE	Source	General Punctuation : (’)	1041	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (z)	2962	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (O)	7907	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (q)	887	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (M)	8200	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (Z)	2696	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (J)	12295	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (K)	3569	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (V)	1401	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (Q)	48	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Basic Latin : (X)	1239	NOTICE
+English---Free-Bible-Version	UNICODE	Source	General Punctuation : (…)	15	NOTICE
+English---Free-Bible-Version	UNICODE	Source	Latin-1 Supplement: (é)	2	NOTICE
+
+# VERSIFICATION
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+English---Free-Bible-Version	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+English---Free-Bible-Version	VERSIFICATION	Summary	missing	16	WARN
+English---Free-Bible-Version	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+English---Free-Bible-Version	ENCLOSURES	Source	()	495 / 495	NOTICE
+English---Free-Bible-Version	ENCLOSURES	Source	[]	0 / 0	NOTICE
+English---Free-Bible-Version	ENCLOSURES	Source	{}	0 / 0	NOTICE
+English---Free-Bible-Version	ENCLOSURES	Source	<>	0 / 0	NOTICE
+English---Free-Bible-Version	ENCLOSURES	Aionian	()	833 / 833	NOTICE
+English---Free-Bible-Version	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+English---Free-Bible-Version	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+English---Free-Bible-Version	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	EXO 9:31 (The flax and barley were destroyed, because the barley was ripe and the flax was flowering.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	EXO 9:32 However, the wheat and the spelt were not destroyed because they grow later.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	NUM 26:9 and Eliab's sons were Nemuel, Dathan, and Abiram. (It was Dathan and Abiram, leaders chosen by the Israelites, who joined the rebellion against Moses and Aaron with the followers of Korah when they rebelled against the Lord.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	NUM 26:11 But Korah's sons didn't die.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	DEU 2:10 (A strong and numerous people called the Emim once lived there. They were as tall as the Anakim,	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	DEU 2:12 Previously the Horites lived in Seir, but the descendants of Esau took over their land. They killed the Horites and settled there, just like Israel did when they occupied the land that the Lord had given them.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	DEU 2:20 (This land was previously considered as the country of the Rephaim who used to live there. However, the Ammonites called them Zamzummites.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	DEU 2:23 The Avvim, living in villages as far away as Gaza, were destroyed by the Philistines, who came from Crete, and settled where they used to live.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	1KI 10:11 (Hiram's fleet of ships brought gold from Ophir, and also carried algum wood and precious stones.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	1KI 10:12 The king used the algum wood to make steps for the Temple and for the royal palace, and into lyres and harps for the musicians. Nothing like them had ever been seen before in the land of Judah.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	1KI 18:3 Ahab summoned Obadiah, the manager of his palace (Obadiah was a very sincere believer in the Lord.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	1KI 18:4 While Jezebel was busy killing the Lord's prophets, Obadiah had taken one hundred prophets and hidden them, fifty in each of two caves, and had provided them with food and water.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	1KI 21:25 (No one else was so bad as Ahab, who sold himself to do what is evil in the Lord's sight, because his wife Jezebel encouraged him.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	1KI 21:26 He did the most despicable things, worshiping idols like the Amorites the Lord had driven out before Israel.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	1CH 5:1 The sons of Reuben the firstborn of Israel. (Though he was the firstborn, his birthright was given to the sons of Joseph son of Israel because he had defiled his father's bed. That is why Reuben is not listed in the genealogy according to birthright,	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	1CH 5:2 and even though Judah became the strongest of his brothers and a ruler came from him, the birthright belonged to Joseph.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	2CH 9:10 (Hiram and Solomon's men, who brought gold from Ophir, also brought algum wood and precious stones.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	2CH 9:11 The king used the algum wood to make steps for the Temple and for the royal palace, and into lyres and harps for the musicians. Nothing like them had ever been seen before in the land of Judah.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	NEH 11:3 This is a list of the leaders of the province who came to live in Jerusalem. (Most of the Israelites lived on their own property in the towns of Judah. This included the priests, the Levites, the Temple servants, and the descendants of Solomon's servants who lived in their home towns.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	NEH 11:4 However, some of the people of Judah and Benjamin moved to Jerusalem.) From the tribe of Judah: Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of Perez;	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	PRO 7:11 (She was loud and provocative, never wanting to stay at home.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	PRO 7:12 One moment she'd be walking the streets, the next she'd be there in the town squares, loitering at every corner.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	SOL 3:9 (Solomon's sedan chair was made for him with wood from Lebanon.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	SOL 3:10 Its posts were covered in silver, and the back was covered in gold. The seat cushion was purple. The interior was lovingly decorated.) Women of Jerusalem,	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	EZE 1:2 (On the fifth day of the month of the fifth year of King Jehoiachin's exile,	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	EZE 1:3 a message from Lord was given to Ezekiel the priest, the son of Buzi, in the land of Babylonia by the River Kebar. There the Lord's power came over him.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	DAN 4:28 (However, all this did happen to King Nebuchadnezzar.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	DAN 4:33 Immediately the decree was fulfilled, and Nebuchadnezzar was driven away from human society. He ate grass like the cattle, and his body was soaked with the dew of heaven. His hair grew matted like a vulture, and his nails like bird claws.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	MAT 1:22 (Now this all happened to fulfill what the Lord said through the prophet:	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	MAT 1:23 “A virgin will become pregnant, and will give birth to a son. They will call him Immanuel,” which means “God with us.”)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	MAR 7:3 (The Pharisees and all Jews don't eat until they wash their hands, following the tradition of their ancestors.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	MAR 7:4 In the same way, they don't eat when they return from the market until they have had a wash. They observe many other rituals, like the washing of cups, pots, and pans.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	MAR 14:51 (One of his followers was a young man who was wearing only a linen garment.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	MAR 14:52 They seized hold of him, but he ran off naked, leaving the garment behind.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	ACT 1:18 (Judas had bought a field with his ill-gotten gains. There he fell down headfirst, and his body burst apart, spilling out all his intestines.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	ACT 1:19 Everybody who lived in Jerusalem heard about this so that the field was called in their language “Akeldama,” which means, “Field of blood.”)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	GAL 2:4 (That issue only arose because some false Christians slipped in to spy on the freedom we have in Christ Jesus, trying to make us slaves.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	GAL 2:5 We never gave in to them, not even for a moment. We wanted to make sure to keep the truth of the good news unchanged for you.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	EPH 4:9 (Regarding this: it says he ascended, but that means he also had previously descended to our lowly world.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	EPH 4:10 The one that descended is the same one who also ascended to the highest heaven in order that he could make the whole universe complete.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(1/0)	1JO 5:16 If you see your Christian brother or sister committing a sin that is not a deadly sin, you ought to pray and God will grant life to the one who's sinned. (But not for a deadly sin. There's a sin that is deadly, and I'm not saying people should pray about that.	WARN
+English---Free-Bible-Version	ENCLOSURES	Source	(0/1)	1JO 5:17 Yes, all that is not right is sin, but there's sin that is not deadly.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (The flax and barley were destroyed, because the barley was ripe and the flax was flowering.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 However, the wheat and the spelt were not destroyed because they grow later.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	004 NUM 026 009 and Eliab's sons were Nemuel, Dathan, and Abiram. (It was Dathan and Abiram, leaders chosen by the Israelites, who joined the rebellion against Moses and Aaron with the followers of Korah when they rebelled against the Lord.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	004 NUM 026 011 But Korah's sons didn't die.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (A strong and numerous people called the Emim once lived there. They were as tall as the Anakim,	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Previously the Horites lived in Seir, but the descendants of Esau took over their land. They killed the Horites and settled there, just like Israel did when they occupied the land that the Lord had given them.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (This land was previously considered as the country of the Rephaim who used to live there. However, the Ammonites called them Zamzummites.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 The Avvim, living in villages as far away as Gaza, were destroyed by the Philistines, who came from Crete, and settled where they used to live.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (Hiram's fleet of ships brought gold from Ophir, and also carried algum wood and precious stones.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 The king used the algum wood to make steps for the Temple and for the royal palace, and into lyres and harps for the musicians. Nothing like them had ever been seen before in the land of Judah.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Ahab summoned Obadiah, the manager of his palace (Obadiah was a very sincere believer in the Lord.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 While Jezebel was busy killing the Lord's prophets, Obadiah had taken one hundred prophets and hidden them, fifty in each of two caves, and had provided them with food and water.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (No one else was so bad as Ahab, who sold himself to do what is evil in the Lord's sight, because his wife Jezebel encouraged him.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 He did the most despicable things, worshiping idols like the Amorites the Lord had driven out before Israel.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 The sons of Reuben the firstborn of Israel. (Though he was the firstborn, his birthright was given to the sons of Joseph son of Israel because he had defiled his father's bed. That is why Reuben is not listed in the genealogy according to birthright,	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 and even though Judah became the strongest of his brothers and a ruler came from him, the birthright belonged to Joseph.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (Hiram and Solomon's men, who brought gold from Ophir, also brought algum wood and precious stones.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 The king used the algum wood to make steps for the Temple and for the royal palace, and into lyres and harps for the musicians. Nothing like them had ever been seen before in the land of Judah.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	016 NEH 011 003 This is a list of the leaders of the province who came to live in Jerusalem. (Most of the Israelites lived on their own property in the towns of Judah. This included the priests, the Levites, the Temple servants, and the descendants of Solomon's servants who lived in their home towns.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	016 NEH 011 004 However, some of the people of Judah and Benjamin moved to Jerusalem.) From the tribe of Judah: Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of Perez;	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (She was loud and provocative, never wanting to stay at home.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 One moment she'd be walking the streets, the next she'd be there in the town squares, loitering at every corner.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	022 SOL 003 009 (Solomon's sedan chair was made for him with wood from Lebanon.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	022 SOL 003 010 Its posts were covered in silver, and the back was covered in gold. The seat cushion was purple. The interior was lovingly decorated.) Women of Jerusalem,	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	026 EZE 001 002 (On the fifth day of the month of the fifth year of King Jehoiachin's exile,	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	026 EZE 001 003 a message from Lord was given to Ezekiel the priest, the son of Buzi, in the land of Babylonia by the River Kebar. There the Lord's power came over him.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	027 DAN 004 028 (However, all this did happen to King Nebuchadnezzar.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	027 DAN 004 033 Immediately the decree was fulfilled, and Nebuchadnezzar was driven away from human society. He ate grass like the cattle, and his body was soaked with the dew of heaven. His hair grew matted like a vulture, and his nails like bird claws.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	040 MAT 001 022 (Now this all happened to fulfill what the Lord said through the prophet:	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	040 MAT 001 023 “A virgin will become pregnant, and will give birth to a son. They will call him Immanuel,” which means “God with us.”)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (The Pharisees and all Jews don't eat until they wash their hands, following the tradition of their ancestors.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 In the same way, they don't eat when they return from the market until they have had a wash. They observe many other rituals, like the washing of cups, pots, and pans.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	041 MAR 014 051 (One of his followers was a young man who was wearing only a linen garment.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	041 MAR 014 052 They seized hold of him, but he ran off naked, leaving the garment behind.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Judas had bought a field with his ill-gotten gains. There he fell down headfirst, and his body burst apart, spilling out all his intestines.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Everybody who lived in Jerusalem heard about this so that the field was called in their language “Akeldama,” which means, “Field of blood.”)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	048 GAL 002 004 (That issue only arose because some false Christians slipped in to spy on the freedom we have in Christ Jesus, trying to make us slaves.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	048 GAL 002 005 We never gave in to them, not even for a moment. We wanted to make sure to keep the truth of the good news unchanged for you.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Regarding this: it says he ascended, but that means he also had previously descended to our lowly world.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 The one that descended is the same one who also ascended to the highest heaven in order that he could make the whole universe complete.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(1/0)	062 1JO 005 016 If you see your Christian brother or sister committing a sin that is not a deadly sin, you ought to pray and God will grant life to the one who's sinned. (But not for a deadly sin. There's a sin that is deadly, and I'm not saying people should pray about that.	WARN
+English---Free-Bible-Version	ENCLOSURES	Aionian	(0/1)	062 1JO 005 017 Yes, all that is not right is sin, but there's sin that is not deadly.)	WARN
+English---Free-Bible-Version	ENCLOSURES	Summary	lines	42 / 42	NOTICE
+
+# UNEXPECTED
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+English---Free-Bible-Version	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:3 When Adam was 130, he had a son who was like him, made in his image; and he named him Seth.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:4 Adam lived another 800 years after Seth was born, and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:5 Adam lived a total of 930 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 5:6 When Seth was 105, he had Enosh.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	GEN 5:7 Seth lived another 807 years after Enosh was born, and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	GEN 5:8 Seth lived a total of 912 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:9 When Enosh was 90, he had Kenan.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 5:10 Enosh lived another 815 years after Kenan was born, and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 5:11 Enosh lived a total of 905 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:12 When Kenan was 70, he had Mehalalel.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:13 Kenan lived another 840 years after Mehalalel was born, and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:14 Kenan lived a total of 910 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 5:15 When Mahalalel was 65, he had Jared.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:16 After Jared was born, Mahalalel lived another 830 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 5:17 Mahalalel lived a total of 895 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	GEN 5:18 When Jared was 162, he had Enoch.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:19 After Enoch was born, Jared lived 800 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	GEN 5:20 Jared lived a total of 962 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 5:21 When Enoch was 65, he had Methuselah.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:22 He had a close relationship with God. After Methuselah was born, Enoch lived another 300 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 5:23 Enoch lived a total of 365 years.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	GEN 5:25 When Methuselah was 187, he had Lamech.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	GEN 5:26 After Lamech was born, Methuselah lived another 782 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	GEN 5:27 Methuselah lived a total of 969 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	GEN 5:28 When Lamech was 182, he had a son.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 5:30 After Noah was born, Lamech lived another 595 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	GEN 5:31 Lamech lived a total of 777 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 5:32 Noah was 500 before he had Shem, Ham, and Japheth.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 6:3 Then the Lord said, “My life-giving Spirit will not remain in these people forever, because they are only mortal. The time they have left will be 120 years.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 6:15 This is how to build it: the ark is to measure 300 cubits long, 50 cubits wide, and 30 cubits high.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 7:6 Noah was 600 when the flood waters covered the earth.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 7:11 Noah was 600 when on the seventeenth day of the second month all the subterranean waters burst through the earth, and heavy rain poured down from the sky.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 7:24 The earth remained flooded for 150 days.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 8:3 The floodwaters steadily receded from the earth. They had gone down so much that by 150 days after the flood began	WARN
+English---Free-Bible-Version	NUMERALS	Source	1	GEN 8:13 By now Noah was 601, and by the first day of the first month, the floodwaters on the earth were gone. Noah pulled back the ark's covering and saw that the ground was drying out.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 9:28 Noah lived for another 350 years after the flood.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 9:29 Noah lived a total of 950 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 11:10 The following is the genealogy of Shem. When Shem was 100, he had Arphaxad. This was two years after the flood.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 11:11 Shem lived another 500 years after Arphaxad was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 11:12 When Arphaxad was 35, he had Shelah.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	GEN 11:13 Arphaxad lived another 403 years after Shelah was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 11:14 When Shelah was 30, he had Eber.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	GEN 11:15 Shelah lived another 403 years after Eber was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	GEN 11:16 When Eber was 34, he had Peleg.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 11:17 Eber lived another 430 years after Peleg was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 11:18 When Peleg was 30, he had Reu.	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	GEN 11:19 Peleg lived another 209 years after Reu was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	GEN 11:20 When Reu was 32, he had Serug.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	GEN 11:21 Reu lived another 207 years after Serug was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 11:22 When Serug was 30, he had Nahor.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 11:23 Serug lived another 200 years after Nahor was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	GEN 11:24 When Nahor was 29, he had Terah.	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	GEN 11:25 Nahor lived another 119 years after Terah was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 11:26 When Terah was 70, he had Abram, Nahor, and Haran.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 11:32 Terah lived for 205 years and died in Haran.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 12:4 So Abram left following the Lord's instructions, and Lot went with him. Abram was 75 when he left Haran.	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	GEN 14:14 When Abram found out that his nephew had been captured, he called together 318 fighting men who had been born in his household and chased after them all the way to Dan.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 15:13 The Lord explained to Abram, “You can be absolutely sure that your descendants will be strangers in a foreign land, where they will be slaves and mistreated for 400 years.	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	GEN 16:16 Abram was 86 when Hagar had Ishmael.	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	GEN 17:1 When Abram was 99, the Lord appeared to him and told him, “I am God Almighty. Live in my presence and don't do wrong.	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	GEN 17:24 Abraham was 99 when he was circumcised,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 21:5 Abraham was 100 when Isaac was born.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	GEN 23:1 Sarah lived to be 127,	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	GEN 25:7 Abraham lived to be 175	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	GEN 25:17 Ishmael lived to be 137. Then he breathed his last and died, and joined his forefathers in death.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 25:20 When Isaac was 40 he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 25:26 Then his twin brother was born, holding on to Esau's heel. So he was named Jacob. Isaac was 60 when they were born.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 26:34 When Esau was 40, he married Judith, daughter of Beeri the Hittite, as well as Basemath, daughter of Elon the Hittite.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 32:6 The messengers returned to Jacob and told him, “Your brother Esau is coming to meet you with 400 armed men!”	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 32:14 200 female goats, 20 male goats; 200 ewes, 20 rams;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 32:15 30 female camels with their young, 40 cows, 10 bulls; 20 female donkeys, 10 male donkeys.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 33:19 He bought the plot of ground where he was camping from the sons of Hamor, the founder of Shechem, for 100 pieces of money.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 35:28 Isaac lived to be 180	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 45:22 He gave each of them new clothes. But to Benjamin he gave five sets of clothes and 300 pieces of silver.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 47:9 “I have been wandering for 130 years,” Jacob replied. “My life has been short and difficult—I have not lived as long as my forefathers who also wandered from place to place.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	GEN 47:28 Jacob lived in Egypt for seventeen years, so he lived in total 147 years.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 50:3 This took a full 40 days, the normal time for the process, and the Egyptians mourned for him for 70 days.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 50:22 Joseph remained in Egypt, together with his father's whole family. He lived to be 110,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	GEN 50:26 Joseph died when he was 110. After his body was embalmed, he was placed in a coffin in Egypt.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 1:5 Jacob had 70 descendants there, including Joseph who was already in Egypt.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	EXO 6:16 These were the names of the sons of Levi according to their genealogical records: Gershon, Kohath, and Merari. Levi lived for 137 years.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	EXO 6:18 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived for 133 years.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	EXO 6:20 Amram married his father's sister Jochebed, and she had their sons Aaron and Moses. Amram lived for 137 years.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 12:37 The Israelites set out on foot from Rameses for Succoth and numbered about 600,000 men, as well as women and children.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 12:40 The Israelites had lived in Egypt for 430 years.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 12:41 On the very day the 430 years ended, all the tribes of the Lord by their respective divisions left Egypt.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 14:7 He took 600 of his best chariots along with all the other chariots of Egypt, each with their officer-in-charge.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 30:23 “Take the best quality spices: 500 shekels of liquid myrrh, 250 shekels of sweet-smelling cinnamon, 250 shekels of aromatic reed,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 30:24 500 shekels of cassia (weights using the sanctuary shekel standard), and a hin of olive oil.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 32:28 The Levites did what Moses had told them, and that day around 3,000 men were killed.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 38:24 The total amount of gold from the offering that was used for the work on the sanctuary was 29 talents and 730 shekels (using the sanctuary shekel standard).	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	EXO 38:25 The total amount of silver from those who had been counted in the census was 100 talents and 1,775 shekels (using the sanctuary shekel standard).	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 38:26 This represents a beka per person, or half a shekel (using the sanctuary shekel standard) from everyone twenty years of age or older who had been censused, a total of 603,550 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 38:27 The hundred talents of silver were used to cast the sanctuary stands and the curtain stands, 100 bases from the 100 talents, or one talent per base.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	EXO 38:28 Bezalel used the 1,775 shekels of silver to make the hooks for the posts, cover their tops, and make bands for them.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EXO 38:29 The total amount of bronze from the offering was 70 talents and 2,400 shekels.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:21 from the tribe of Reuben totaled 46,500.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:23 from the tribe of Simeon totaled 59,300.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:25 from the tribe of Gad totaled 45,650.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:27 from the tribe of Judah, totaled 74,600.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:29 from the tribe of Issachar, totaled 54,400.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:31 from the tribe of Zebulun, totaled 57,400.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:33 from the tribe of Ephraim, totaled 40,500.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:35 from the tribe of Manasseh, totaled 32,200.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:37 from the tribe of Benjamin, totaled 35,400.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:39 from the tribe of Dan, totaled 62,700.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:41 from the tribe of Asher, totaled 41,500.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:43 from the tribe of Naphtali, totaled 53,400.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 1:46 The sum total of those registered was 603,550.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:4 and he has 74,600 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:6 and he has 54,400 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:8 and he has 57,400 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:9 So the total number of men in the area of the camp of Judah is 186,400. When it's time to march out, they are the ones who will lead.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:11 and he has 46,500 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:13 and he has 59,300 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:15 and he has 45,650 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:16 So the total number of men in the area of the camp of Reuben is 151,450. They shall march out in second place.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:19 and he has 40,500 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:21 and he has 32,200 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:23 and he has 35,400 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:24 So the total number of men in the area of the camp of Ephraim is 108,100. They shall march out in third place	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:26 and he has 62,700 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:28 and he has 41,500 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:30 and he has 53,400 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:31 So the total number of men in the area of the camp of Dan is 157,600;. They shall march out last, with their flags.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 2:32 This sums up the registration of the Israelites, carried out by family. The final total of those counted in the camps by their tribal division was 603,550.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 3:22 The total of all males aged one month or older was 7,500.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 3:28 The total of all males aged one month or older was 8,600. Their assigned responsibility was to take care of the sanctuary.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 3:34 The total of all males aged one month or older was 6,200.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 3:39 The sum total of Levites registered by Moses and Aaron as the Lord ordered was 22,000. This included all males aged one month or older.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	NUM 3:43 The sum total of the firstborn males a month old or more, registered by name, was 22,273.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	NUM 3:46 In order to buy back the 273 firstborn Israelites who are more than the number of Levites,	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	NUM 3:50 He collected the money given on behalf of the Israelites' firstborn children. It came to 1,365 shekels (using the sanctuary shekel standard).	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 4:36 The total by families was 2,750.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 4:40 The total by families and father's line was 2,630.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 4:44 The total by families was 3,200.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 4:48 The sum total was 8,580.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 11:21 But Moses replied, “Here I am with 600,000 people and you're telling me, ‘I'm going to give them meat and they'll eat it for a month’?	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 16:2 They rebelled against Moses, and were joined by 250 well-respected Israelite leaders and members of the assembly.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 16:17 Each one will take his incense burner, put incense in it, and offer it before the Lord. All 250 of you will use your incense burners and Aaron will as well.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 16:35 Fire burst out from the Lord and burned up the 250 men who were offering incense.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 16:49 However, 14,700 died from the plague in addition to those who'd died because of Korah.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 25:9 but 24,000 had already died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:7 These were the families descended from Reuben and they numbered 43,730.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:10 The earth opened up and swallowed them down, along with Korah. His followers died when the fire burned up 250 men. What happened to them was a warning to the Israelites.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:14 These were the families descended from Simeon and they numbered 22,200.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:18 These were the families descended from Gad and they numbered 40,500.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:22 These were the families descended from Judah and they numbered 76,500.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:25 These were the families descended from Isaachar and they numbered 64,300.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:27 These were the families descended from Zebulun, and they numbered 60,500.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:34 These were the families descended from Manasseh, and they numbered 52,700.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:37 These were the families descended from Ephraim, and they numbered 32,500. These families were the descendants of Joseph.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:41 These were the families descended from Benjamin, and they numbered 45,600.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:43 They were all Shuhamite families, and they numbered 64,400.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:47 These were the families descended from Asher, and they numbered 53,400.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:50 These were the families descended from Naphtali, and they numbered 45,400.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:51 The total of all those counted was 601,730.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 26:62 The number of the Levites censused totaled 23,000. This included every male one month old or older. However, they were not counted with the other Israelites, because no land allotment was given to them with the other Israelites.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:32 This was the list of plunder remaining that had been looted by the troops: 675,000 sheep,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:33 72,000 cattle,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:34 61,000 donkeys,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:35 and 32,000 virgins.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:36 This was the half share for those who had gone to fight: 337,500 sheep,	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	NUM 31:37 with a contribution for the Lord of 675,	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NUM 31:38 36,000 cattle, with a Lord's contribution of 72,	WARN
+English---Free-Bible-Version	NUMERALS	Source	1	NUM 31:39 30,500 donkeys, with a Lord's contribution of 61,	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NUM 31:40 and 16,000 people, with a Lord's contribution of 32.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:43 consisted of: 337,500 sheep,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:44 36,000 cattle,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:45 30,500 donkeys,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:46 and 16,000 people.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NUM 31:52 The gold that the commanders of thousands and of hundreds gave as an offering to the Lord weighed in total 16,750 shekels.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	NUM 33:39 Aaron was 123 when he died on Mount Hor.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	DEU 34:7 Moses was 120 when he died, yet he was still seeing clearly and he was still strong.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	JOS 3:4 That way you'll know which way to go, since you haven't been here before. Leave about 3,000 feet between you and the Ark. Don't go near it!”	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	JOS 4:13 They numbered about 40,000 men, armed and ready for battle, who crossed in the presence of the Lord to the plains of Jericho.	WARN
+English---Free-Bible-Version	NUMERALS	Source	1	JOS 12:24 The king of Tirzah. The total of all the kings is 31.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	JDG 3:29 Then they attacked the Moabites and killed around 10,000 of their best and strongest fighting men. Not a single one escaped.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	JDG 8:26 The weight of the earrings he'd asked for was 1,700 shekels, not including the ornaments, the pendants, and the purple garments worn by the Midianite kings or the chains that were round their camels' necks.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	JDG 12:6 they would tell him, “Say Shibboleth.” If he was from Ephraim he would say “Sibboleth” because he couldn't pronounce it right, and they'd grab him and kill him there at the Jordan fords. A total of 42,000 were killed at that time.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1SA 4:2 The Philistines attacked the Israelites in formation, and when the battle spread, the Philistines defeated the Israelites, killing 4,000 of them on the battlefield.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1SA 11:8 When Saul counted them at Bezek, there were 300,000 men from Israel and 30,000 men from Judah.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1SA 15:4 Saul called up his army at Telem. There were 200,000 Israelite infantry and 10,000 men from Judah.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2SA 8:4 David captured from him 1,000 chariots, 7,000 charioteers, and 20,000 foot soldiers. David hamstrung all the chariot horses—except he saved enough for 100 chariots.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2SA 10:18 But the Aramean army ran away from the Israelites, and David killed 700 charioteers and 40,000 infantry. He also attacked Shobach, their army commander, and he died there.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2SA 23:18 Abishai, Joab's brother, was leader of the second Three. Using his spear, he once killed 300 men, and became famous among the Three.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2SA 24:9 Joab reported to the king the number of people that had been counted. In Israel there were 800,000 fighting men who could use the sword, and in Judah there were 500,000.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 4:26 Solomon had 40,000 stalls for his chariot horses, and 12,000 charioteers.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 5:11 Solomon gave Hiram 20,000 cors of wheat for food and 20,000 cors of olive oil for his household. Solomon provided this to Hiram every year.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 5:13 King Solomon drafted a labor force of 30,000 from all of Israel.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 5:14 He sent them in shifts of 10,000 each month to Lebanon, so that they were one month in Lebanon and two months at home, Adoniram was in charge of the labor force.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 5:15 Solomon had 70,000 porters and 80,000 stonecutters in the hill country,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 5:16 as well as 3,300 foremen he placed in charge of the workers.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 8:63 Solomon presented as friendship offerings to the Lord 22,000 bulls and 120,000 sheep. In this way the king and all the people of Israel dedicated the Lord's Temple.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 9:14 Even so, Hiram sent the king 120 talents of gold in payment.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 9:23 They were also the chief officers in charge of Solomon's programs: 550 in command of the people who carried out the work.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 9:28 They sailed to Ophir and brought back 420 talents of gold from there and delivered it to Solomon.	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	1KI 10:14 The weight of gold that Solomon received each year was 666 talents,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 10:26 Solomon accumulated 1,400 chariots and 12,000 horsemen. He kept them in the chariot towns, and also with him in Jerusalem.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 12:21 When Rehoboam arrived in Jerusalem, he gathered the men from the households of Judah and Benjamin— 180,000 chosen warriors—to go and fight against Israel to bring the kingdom back to Rehoboam, son of Solomon.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 20:15 So Ahab called up the 232 young officers of the district commanders, and assembled the 7,000 soldiers that made up Israel's army.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 20:29 The armies camped opposite each other for seven days. On the seventh day the battle took place. The Israelites killed 100,000 of the Aramean infantry in one day.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1KI 20:30 The rest ran away to the town of Aphek, where a wall collapsed on 27,000 of those that remained. Ben-hadad also ran to the town and hid in an inside room.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2KI 19:35 That night the angel of the Lord went to the Assyrian camp and killed 185,000. When the survivors woke up in the morning, they were surrounded by dead bodies.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 5:18 The tribe of Reuben, the tribe of Gadites, and the half-tribe of Manasseh had 44,760 battle-ready strong warriors capable of using shields and swords and bows.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 7:2 The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel—leaders of their families. In the time of David, the descendants of Tola listed in their genealogy a total of 22,600 warriors.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 7:4 They had many wives and sons and so in their genealogy they list 36,000 battle-ready fighting men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 7:5 The relatives who were warriors belonging to all the families of Issachar, according to their genealogy, were 87,000 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	1CH 7:7 The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, leaders of their families—a total of five. They had 22,034 fighting men according to their genealogy.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 7:9 Their genealogy included the family heads and 20,200 fighting men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 7:11 All these sons of Jediael were family heads. They had 17,200 battle-ready warriors.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 7:40 These were all descendants of Asher—family heads, proven men, strong warriors, and great leaders. According to their genealogy, they had 26,000 battle-ready warriors.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 8:40 The sons of Ulam were strong warriors and skilled archers. They had many sons and grandsons—a total of 150. All of them were the sons of Benjamin.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 9:6 From the Zerahites: Jeuel and relatives totaled 690.	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	1CH 9:9 All of them were family heads as recorded in their genealogies, and they totaled 956.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 9:13 The priests, who were family heads, totaled 1,760. They were strong and capable men who served in the house of God.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 9:22 In total there were 212 chosen to be gatekeepers at the entrances. They recorded their genealogies in their home towns. David and Samuel the prophet had selected their forefathers for their faithfulness.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 11:11 This is the list of the leading warriors who supported David: Jashobeam, son of Hachmoni, leader of the Three. Using his spear, he once killed 300 men in a single battle.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 11:20 Abishai, Joab's brother, was leader of the second Three. Using his spear, he once killed 300 men, and became famous among the Three.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:14 These warriors from Gad were army officers. The least able of them was in charge of 100 men; the best was in charge of 1,000.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:24 From the tribe of Judah, 6,800 warriors carrying shields and spears.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:25 From the tribe of Simeon, 7,100 strong warriors.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:26 From the tribe of Levi, 4,600,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:27 including Jehoiada, leader of the family of Aaron, and with him 3,700,	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 12:28 and Zadok, a strong young warrior, with 22 members of his family, all officers.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:29 From the tribe of Benjamin, from among Saul's relatives, 3,000, most of whom had remained loyal to Saul up until this time.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:30 From the tribe of Ephraim, 20,800 strong warriors, each highly regarded in his own clan.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:31 From the half-tribe of Manasseh, 18,000 men were designated by name to come and make David king.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:32 From the tribe of Issachar came leaders who knew and could understand the signs of the times and what Israel should do—a total of 200 leaders of the tribe together with their relatives.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:33 From the tribe of Zebulun, 50,000 warriors. They were fully armed and battle-ready, and totally dedicated.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:34 From the tribe of Naphtali, 1,000 officers and 37,000 warriors carrying shields and spears.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:35 From the tribe of Dan, 28,600 warriors, all battle-ready.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:36 From the tribe of Asher, 40,000 experienced warriors, all battle-ready.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 12:37 From the east side of the Jordan River, from the tribes of Reuben, Gad, and the half-tribe of Manasseh, 120,000 warriors carrying all kinds of weapons.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 15:5 From the sons of Kohath, Uriel (chief), and 120 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 15:6 from the sons of Merari, Asaiah (chief), with 220 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 15:7 from the sons of Gershom, Joel (chief), with 130 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 15:8 from the sons of Elizaphan, Shemaiah (chief), with 200 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 15:9 from the sons of Hebron, Eliel (chief), with 80 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 15:10 from the sons of Uzziel, Amminadab (chief), with 112 of his relatives.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 18:4 David captured from him 1,000 chariots, 7,000 charioteers, and 20,000 foot soldiers. David hamstrung all the chariot horses—except he saved enough for 100 chariots.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 18:5 When the Arameans from Damascus came to help Hadadezer king of Zobah, David killed 22,000 of them.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 18:12 Abishai, son of Zeruiah, killed 18,000 Edomites in the Valley of Salt.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 19:7 They also hired 32,000 chariots and the king of Maacah with his army. They came set up camp near Medeba. The Ammonites were also called up from their towns and prepared for battle.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 19:18 But the Aramean army ran away from the Israelites, and David killed 7,000 charioteers and 40,000 infantry, as well as Shobach, their army commander.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 21:5 and he gave David the number of people censused. In Israel there were 1,100,000 fighting men who could handle a sword, and 470,000 in Judah.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 21:14 So the Lord a plague on Israel, and 70,000 Israelites died.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 22:14 Look, I've taken a lot of trouble to provide for the house of the Lord— 100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron, more than can be weighed.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 23:3 The Levites over thirty years old were counted, and there was 38,000 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 23:4 “Of these 24,000 will be in charge of the work of the house of the Lord, while 6,000 will be officers and judges,” David instructed.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 23:5 “And 4,000 will be gatekeepers, while 4,000 will praise the Lord using the musical instruments I have provided for praise worship.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	1CH 25:7 Along with their relatives, all of them trained and skilled in singing to the Lord, they totaled 288.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:9 The first lot, which was for Asaph, fell to Joseph, his sons, and his brother, 12 in total. The second fell to Gedaliah, his sons, and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:10 The third fell to Zaccur, his sons, and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:11 The fourth fell to Izri, his sons, and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:12 The fifth to Nethaniah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:13 The sixth fell to Bukkiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:14 The seventh fell to Jesarelah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:15 The eighth fell to Jeshaiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:16 The ninth fell to Mattaniah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:17 The tenth fell to Shimei, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:18 The eleventh fell to Azarel, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:19 The twelfth fell to Hashabiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:20 The thirteenth fell to Shubael, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:21 The fourteenth fell to Mattithiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:22 The fifteenth fell to Jerimoth, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:23 The sixteenth fell to Hananiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:24 The seventeenth fell to Joshbekashah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:25 The eighteenth fell to Hanani, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:26 The nineteenth fell to Mallothi, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:27 The twentieth fell to Eliathah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:28 The twenty-first fell to Hothir, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:29 The twenty-second fell to Giddalti, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:30 The twenty-third fell to Mahazioth, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	1CH 25:31 The twenty-fourth fell to Romamti-Ezer, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 26:30 From the Hebronites: Hashabiah and his relatives, 1,700 capable men, were put in charge of Israel west of the Jordan, responsible for everything involving the Lord's work and the king's service.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 26:32 Among the relatives of Jerijah were 2,700 capable men who were family leaders. King David put them in charge of the tribes of Reuben and Gad and the half-tribe of Manasseh. They were responsible for everything involving the Lord's work and the king's service.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:1 This is a list of the Israelites, the family leaders, the commanders of thousands, and the commanders of hundreds, and their officers who served the king in everything related to the divisions that were on duty each month during the year. There were 24,000 men in each division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:2 In command of the first division for the first month, was Jashobeam, son of Zabdiel. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:4 In command of the division for the second month was Dodai the Ahohite. Mikloth was his division leader. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:5 The third army commander for the third month was Benaiah, son of Jehoiada the priest. He was chief and there were 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:7 The fourth, for the fourth month, was Asahel, Joab's brother. His son Zebadiah was his successor. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:8 The fifth, for the fifth month, was the army commander Shamhuth the Izrahite. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:9 The sixth, for the sixth month, was Ira, son of Ikkesh the Tekoite. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:10 The seventh, for the seventh month, was Helez the Pelonite of the tribe of Ephraim. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:11 The eighth, for the eighth month, was Sibbecai the Hushathite, a Zerahite. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:12 The ninth, for the ninth month, was Abiezer the Anathothite of the tribe of Benjamin. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:13 The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:14 The eleventh, for the eleventh month, was Benaiah the Pirathonite of the tribe of Ephraim. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 27:15 The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 29:4 3,000 talents of gold—the gold of Ophir—and 7,000 talents of refined silver will go to cover the walls of the buildings,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CH 29:7 They gave to the service of the house of God 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze, and 100,000 talents of iron.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 1:14 Solomon built up an army of chariots and horses. He had 1,400 chariots and 12,000 horses, which he placed in the chariot cities, and also with him in Jerusalem.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 2:2 He allocated 70,000 men as laborers, 80,000 as stone cutters in the mountains, and 3,600 as foremen.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 2:10 I will pay your workers, the wood-cutters, 20,000 cors of crushed wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of olive oil.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 2:17 Solomon had a census taken of all the foreigners in the land of Israel, like the census his father David had conducted, and found there were 153,600.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 2:18 He allocated 70,000 as laborers, 80,000 as stonecutters in the mountains, and 3,600 as foremen.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 7:5 King Solomon offered a sacrifice of 22,000 cattle and 120,000 sheep. In this way the king and all the people dedicated the Temple of God.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 8:10 They were also King Solomon's chief officers, 250 men who supervised the people.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 8:18 Hiram sent him ships under the command of his own officers, along with experienced sailors. They went with Solomon's men to Ophir where they loaded 450 talents of gold, which they then brought back to King Solomon.	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	2CH 9:13 The weight of gold that Solomon received each year was 666 talents,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 11:1 When Rehoboam arrived in Jerusalem, he gathered the men from the households of Judah and Benjamin— 180,000 chosen warriors—to go and fight against Israel to bring the kingdom back to Rehoboam.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 12:3 He came with 1,200 chariots, 60,000 horsemen, and an army from Egypt that couldn't be counted—Libyans, Sukkites, and Cushites.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 13:3 Abijah went out to fight with an army of 400,000 brave warriors, while Jeroboam opposed him with his army of 800,000 chosen warriors of great strength.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 13:17 Abijah and his men hit them hard, and 500,000 of Israel's best warriors were killed.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 17:11 Some of the Philistines even brought him gifts and silver, while the Arabians brought him 7,700 rams and 7,700 goats.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 17:14 This is a count of them, according to their family lines: from Judah, the commanders of thousands: Adnah the commander, and 300,000 mighty warriors with him;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 17:15 then Jehohanan the commander, and 280,000 with him;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 17:16 then Amasiah, son of Zichri, who volunteered to serve the Lord, and 200,000 mighty warriors with him;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 17:17 from Benjamin, Eliada, a mighty warrior, and 200,000 with him armed with bows and shields;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 17:18 then Jehozabad, and 180,000 with him ready for battle;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 24:15 Jehoiada grew old and died at the age of 130, having lived a full life.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 25:5 Then Amaziah called up the people of Judah for military service, and assigned them by families to commanders of thousands and of hundreds. He also took a census of those twenty years of age and older throughout Judah and Benjamin, and found there were 300,000 first-rate fighting men who could use spear and shield.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 25:6 He also hired 100,000 battle-ready fighting men from Israel for a hundred talents of silver.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 25:13 But the men of the army Amaziah sent home, refusing to let them go with him to battle, raided the towns of Judah, from Samaria to Beth-horon They killed 3,000 of their inhabitants and took a great deal of plunder.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 25:23 Joash, king of Israel, captured Amaziah, king of Judah, son of Joash, son of Ahaziah, at Beth-shemesh. He took him to Jerusalem, and demolished the wall of Jerusalem for 400 cubits, from the Ephraim Gate to the Corner Gate.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 26:12 The total number of family leaders was 2,600 fighting men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 26:13 Under their command was an army of 307,500 trained for battle, who had the power to help the king fight against the enemy.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 28:6 In just one day, Pekah, son of Remaliah, killed 120,000 fighting men in Judah, because they had abandoned the Lord, the God of their fathers.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 28:8 The Israelites captured 200,000 of their “brothers”—women, sons, and daughters. They also took a great deal of plunder and brought it to Samaria.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 35:7 Josiah contributed as Passover offerings for all the people who were present 30,000 lambs and goats, and 3,000 bulls, all from his own flocks and herds.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 35:8 His officials contributed freely to the people, to the priests, and to the Levites. Hilkiah, Zechariah, and Jehiel, who were in charge of God's Temple, gave the priests as Passover offerings 2,600 Passover lambs and 300 bulls.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	2CH 35:9 The leaders of the Levites, Conaniah, and Shemaiah and Nethanel his brothers, and Hashabiah and Jeiel and Jozabad, gave the Levites as Passover offerings 5,000 lambs and young goats and 500 bulls.	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	EZR 1:9 This was the list: 30 gold basins, 1,000 silver basins, 29 silver silverware,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 1:10 30 gold bowls, 410 matching silver bowls, and 1,000 other items.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 1:11 In total there were 5,400 gold and silver items. When the exiles left Babylon to go to Jerusalem Sheshbazzar took all these along with them.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:3 the sons of Parosh, 2,172;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:4 the sons of Shephatiah, 372;	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	EZR 2:5 the sons of Arah, 775;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:6 the sons of Pahath-moab (sons of Jeshua and Joab), 2,812;	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	EZR 2:7 the sons of Elam, 1,254;	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	EZR 2:8 the sons of Zattu, 945;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 2:9 the sons of Zaccai, 760;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:10 the sons of Bani, 642;	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	EZR 2:11 the sons of Bebai, 623;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:12 the sons of Azgad, 1,222;	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	EZR 2:13 the sons of Adonikam, 666;	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	EZR 2:14 the sons of Bigvai, 2,056;	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	EZR 2:15 the sons of Adin, 454;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	EZR 2:16 the sons of Ater (sons of Hezekiah), 98;	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	EZR 2:17 the sons of Bezai, 323;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:18 the sons of Jorah, 112;	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	EZR 2:19 the sons of Hashum, 223;	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	EZR 2:20 the sons of Gibbar, 95;	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	EZR 2:21 the people from Bethlehem, 123;	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	EZR 2:22 the people from Netophah, 56;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	EZR 2:23 the people from Anathoth, 128;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:24 the people from Beth-azmaveth, 42;	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	EZR 2:25 the people from Kiriath-jearim, Kephirah, and Beeroth, 743;	WARN
+English---Free-Bible-Version	NUMERALS	Source	1	EZR 2:26 the people from Ramah and Geba, 621;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:27 the people from Micmash, 122;	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	EZR 2:28 the people from Bethel and Ai, 223;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:29 the sons of Nebo, 52;	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	EZR 2:30 the sons of Magbish, 156;	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	EZR 2:31 the sons of Elam, 1,254;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 2:32 the sons of Harim, 320;	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	EZR 2:33 the sons of Lod, Hadid, and Ono, 725;	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	EZR 2:34 the sons of Jericho, 345;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 2:35 the sons of Senaah, 3,630.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	EZR 2:36 This is the number of the priests: the sons of Jedaiah (through the family of Jeshua), 973;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:37 the sons of Immer, 1,052;	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	EZR 2:38 the sons of Pashhur, 1,247;	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	EZR 2:39 the sons of Harim, 1,017.	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	EZR 2:40 This is the number of the Levites: the sons of Jeshua and Kadmiel (sons of Hodaviah), 74;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	EZR 2:41 the singers of the sons of Asaph, 128;	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	EZR 2:42 the gatekeepers of the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, 139.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:58 The total of the Temple servants and the descendants of Solomon's servants was 392.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	EZR 2:60 They included the families of Delaiah, Tobiah, and Nekoda, 652 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 2:64 The total of number of people returning was 42,360.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 2:65 In addition there were 7,337 servants and 200 male and female singers.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	EZR 2:66 They had 736 horses, 245 mules,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 2:67 435 camels, and 6,720 donkeys.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 2:69 They gave depending on how much they had, putting their gift into the treasury. The total came to 61,000 gold daric coins, 5,000 minas of silver, and 100 robes for the priests.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:3 son of Shecaniah. From the sons of Parosh, Zechariah, and with him 150 men were registered.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:4 From the sons of Pahath-moab, Eliehoenai, son of Zerahiah, and with him 200 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:5 From the sons of Zattu, Shecaniah, son of Jahaziel, and with him 300 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:6 From the sons of Adin, Ebed, son of Jonathan, and with him 50 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:7 From the sons of Elam, Jeshaiah, son of Athaliah, and with him 70 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:8 From the sons of Shephatiah, Zebadiah, son of Michael, and with him 80 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	EZR 8:9 From the sons of Joab, Obadiah, son of Jehiel, and with him 218 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:10 From the sons of Bani, Shelomith, son of Josiphiah, and with him 160 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	EZR 8:11 From the sons of Bebai, Zechariah, son of Bebai, and with him 28 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:12 From the sons of Azgad, Johanan, son of Hakkatan, and with him 110 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:13 From the sons of Adonikam, those who were last, their names being Eliphelet, Jeuel, and Shemaiah, and with them 60 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:14 From the sons of Bigvai, Uthai and Zaccur, and with them 70 men.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:20 In addition they brought 220 of the Temple servants, a group appointed by David and his officials to help the Levites. These were all registered by name.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:26 I weighed out and placed in their hands 650 talents of silver, silver Temple items weighing 100 talents, 100 talents of gold,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZR 8:27 20 gold bowls worth 1,000 darics, and two articles of highly-polished bronze, as valuable as gold.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NEH 5:17 I had 150 Jews and officials eating at my table, as well as visitors from nearby countries.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:8 The sons of Parosh, 2,172;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:9 the sons of Shephatiah, 372;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:10 the sons of Arah, 652;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:11 the sons of Pahath-moab (the sons of Jeshua and Joab), 2,818;	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	NEH 7:12 the sons of Elam, 1,254;	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	NEH 7:13 The sons of Zattu, 845;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NEH 7:14 the sons of Zaccai, 760;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:15 the sons of Binnui, 648;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:16 the sons of Bebai, 628;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:17 the sons of Azgad, 2,322;	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	NEH 7:18 the sons of Adonikam, 667;	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	NEH 7:19 the sons of Bigvai, 2,067.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	NEH 7:20 The sons of Adin, 655.	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:21 The sons of Ater (sons of Hezekiah), 98;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:22 the sons of Hashum, 328;	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	NEH 7:23 the sons of Bezai, 324;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:24 the sons of Hariph, 112;	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	NEH 7:25 the sons of Gibeon, 95;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:26 the people from Bethlehem and Netophah, 188;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:27 the people from Anathoth, 128;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:28 the people from Beth-azmaveth 42;	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	NEH 7:29 the people from Kiriath-jearim, Chephirah, and Beeroth, 743;	WARN
+English---Free-Bible-Version	NUMERALS	Source	1	NEH 7:30 the people from Ramah and Geba, 621;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:31 the people from Michmas, 122;	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	NEH 7:32 the people from Bethel and Ai, 123;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:33 the people from the other Nebo, 52;	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	NEH 7:34 the sons of the other Elam, 1,254;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NEH 7:35 the sons of Harim, 320;	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	NEH 7:36 the sons of Jericho, 345;	WARN
+English---Free-Bible-Version	NUMERALS	Source	1	NEH 7:37 the sons of Lod, Hadid and Ono, 721;	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NEH 7:38 the sons of Senaah, 3,930.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	NEH 7:39 This is the number of the priests: the sons of Jedaiah (through the family of Jeshua), 973;	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:40 the sons of Immer, 1,052;	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	NEH 7:41 the sons of Pashhur, 1,247;	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	NEH 7:42 the sons of Harim, 1,017.	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	NEH 7:43 This is the number of the Levites: the sons of Jeshua through Kadmiel (sons of Hodaviah), 74;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:44 the singers of the sons of Asaph, 148;	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 7:45 the gatekeepers of the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, 138.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:60 The total of the Temple servants and the descendants of Solomon's servants was 392.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 7:62 They included the families of Delaiah, Tobiah, and Nekoda, 642 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NEH 7:66 The total number of people returning was 42,360.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	NEH 7:67 In addition there were 7,337 servants and 245 male and female singers.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	NEH 7:68 They had 736 horses, 245 mules,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NEH 7:69 435 camels, and 6,720 donkeys.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NEH 7:70 Some of the family leaders made voluntary contributions toward the work. The governor presented to the treasury 1,000 gold darics, 50 bowls and 530 sets of clothes for the priests.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	NEH 7:71 Some of the family leaders donated to the treasury for the work 20,000 darics of gold and 2,200 minas of silver.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	NEH 7:72 The rest of the people donated 20,000 gold darics, 2,000 minas of silver, and 67 sets of clothes for the priests.	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 11:6 The total of the sons of Perez who lived in Jerusalem was 468 men of ability.	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 11:8 and after him Gabbai and Sallai, a total of 928.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 11:12 and their fellow priests who served at the Temple, a total of 822; Adaiah son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah,	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 11:13 and those who worked with him, family leaders, a total of 242; and Amashsai, son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer,	WARN
+English---Free-Bible-Version	NUMERALS	Source	8	NEH 11:14 and those who worked with him, a total of 128 strong warriors. Zabdiel, son of Haggedolim, was in charge of them.	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	NEH 11:18 The total number of priests in the holy city was 284.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	NEH 11:19 The gatekeepers: Akkub, Talmon, and their fellow workers, who guarded the gates: a total of 172.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	EST 1:1 This is an account of what happened during the time of King Xerxes, the Xerxes who ruled over 127 provinces from India to Ethiopia.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EST 1:4 He put on display his wealth and the glory of his kingdom, showing how majestic, splendid, and glorious he was, for 180 days.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EST 3:9 If it please Your Majesty, issue a decree to destroy them, and I will personally contribute 10,000 silver talents to those who carry out the king's business to be placed in the royal treasury.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	EST 8:9 The king's secretaries were summoned, and on the twenty-third day of the third month, the month of Sivan, they wrote a decree of all of Mordecai's orders to the Jews and to the king's chief officers, the governors, and the nobles of the 127 provinces from India to Ethiopia. They wrote to every province in its own script, to every people in their own language, and to the Jews in their own script and language.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EST 9:16 The other Jews in the king's provinces also gathered to defend themselves and get rid of their enemies. They killed 75,000 who hated them, but did not touch their possessions.	WARN
+English---Free-Bible-Version	NUMERALS	Source	7	EST 9:30 Letters expressing peace and reassurance were also sent all the Jews in the 127 provinces of the empire of King Xerxes.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	JOB 42:12 The Lord blessed the last part of Job's life more than the first part. Now he owned 14,000 sheep, 6,000 camels, 1,000 teams of oxen, and 1,000 female donkeys.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	JOB 42:16 Job lived 140 years after this, seeing his children, and grandchildren, in fact four generations.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	PSA 60:1 For the music director. According to “Lily of the Testimony.” A psalm (miktam) of David, useful for teaching, about the time he fought against Aram-naharaim and Aram-zobah, and then Joab returned and killed 12,000 Edomites in the Valley of Salt. You, God, have rejected us! You have broken us; you have been angry with us; but now you have to welcome us back!	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	ISA 37:36 Then the angel of the Lord went to the Assyrian camp and killed 185,000 of them. When the survivors woke up in the morning, they were surrounded by dead bodies.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	JER 52:28 This is a record of the number of people Nebuchadnezzar took into exile. In the seventh year of his reign he took 3,023 Judeans.	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	JER 52:29 In his eighteenth year Nebuchadnezzar took another 832 from Jerusalem.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	JER 52:30 In his twenty-third year of Nebuchadnezzar's reign, Nebuzaradan, the commander of the guard, took another 745 Judeans, making a total of 4,600.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 4:5 I will make you stay there for 390 days, representing the number of years of their sins. You will bear the sins of the Israelites.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 4:6 Once you have finished doing this for these days, then you are to lie down again, but this time on your right side, and carry the sins of the people of Judah. I will make you stay there for 40 days, one day for every year.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 4:9 Get some wheat, barley, beans, lentils, millet, and spelt, and mix them together in a storage jar. Use them to make bread for yourself. This is what you are to eat for the 390 days that you lie on your side.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 45:1 When you allocate the land ownership by lot, you are to make a provision for the Lord, a holy allocation of the land that measures 25,000 cubits long and 20,000 cubits wide. This whole area is holy.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 45:2 Inside this there is the section for the sanctuary that measures 500 cubits square, with an open area around it 50 cubits wide.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 45:3 From this holy allocation, measure out a section that is 25,000 cubits by 10,000 cubits. This will contain the sanctuary, the Most Holy Place.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 45:5 The other section measuring 25,000 cubits by 10,000 cubits will be assigned the Levites who work in the Temple where they can live.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 45:6 Allocate to the city an area 5,000 cubits wide and 25,000 cubits long beside the sanctuary section. It is for the all the people of Israel.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:8 Adjacent to Judah's allocation, from east to west, is the special area you are to make provision for. It is to be 25,000 cubits wide, and extend the same length as a tribal allocation from east to west. The sanctuary will be in the middle of it.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:9 The special allocation you make is for the Lord and shall be 25,000 cubits by 10,000 cubits.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:10 This is to be the holy allocation for the priests. It will be 25,000 cubits long on the north and south sides, and 10,000 cubits wide on the west and east sides. The sanctuary will be in the middle of it.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:13 The Levites shall have an area 25,000 cubits by 10,000 cubits adjacent to the allocation of the priests. Its entire length will be 25,000 cubits, and its width 10,000 cubits.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:15 The remainder, 5,000 cubits by 25,000 cubits, is for ordinary use by the city for houses and pastureland. The city will be in the middle of it,	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:16 and this will be its measurements: 4,500 cubits on all sides, north, south, east, and west.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:17 The city's pastureland will surround it for 250 cubits on all sides, north, south, east, and west.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:18 What remains of the land bordering the holy allocation and running beside it will be 10,000 cubits on both the east side and the west side. The crops it produces will provide food for those who work in the city.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:20 The whole allocation will be a square, 25,000 cubits by 25,000 cubits. You are to make provision for the holy allocation, together with the area for the city.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:21 The land that remains on both sides of the holy allocation and of the area for the city will belong to the prince. This land will be next to the tribal allocations and extend east from the 25,000 cubits of the holy section to the eastern border, on the other side west from the 25,000 cubits to the western border. In the middle of them will be the holy section and the Temple sanctuary.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:30 These are to be the city exits, starting on the north side, which is 4,500 cubits long.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:32 There will be three gates on the east side (also 4,500 cubits long): the gates of Joseph, Benjamin, and Dan.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:33 There will be three gates on the south side (also 4,500 cubits long): the gates of Simeon, Issachar, and Zebulun.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:34 There will be three gates on the west side (also 4,500 cubits long): the gate of Gad, the gate of Asher, and the gate of Naphtali.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	EZE 48:35 The distance around the outside of the city will be 18,000 cubits. From that day on the name of the city will be “The Lord Is There.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	MAT 14:25 About 3 a.m. Jesus caught up with them, walking on the sea.	WARN
+English---Free-Bible-Version	NUMERALS	Source	9	MAT 20:3 Around 9 a.m. he went out and saw others without work standing in the marketplace.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	MAT 20:5 So they went to work. Around noon and 3 p.m. he went out and did the same thing.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	MAT 20:6 At 5 p.m. he went out and found others standing there. ‘Why are you standing around all day doing nothing?’ he asked them.	WARN
+English---Free-Bible-Version	NUMERALS	Source	5	MAT 20:9 When those who were hired at 5 p.m. came in, they each received one denarius.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	JOH 21:11 Simon Peter went aboard and pulled the net full of fish ashore. There were 153 large fish, yet even so the net hadn't torn.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	ACT 3:1 Peter and John were on their way up to the Temple at the time of the afternoon prayer, around 3 p.m.	WARN
+English---Free-Bible-Version	NUMERALS	Source	3	ACT 10:3 At about 3 p.m. one day he had a vision in which he saw very clearly an angel of God who came to him and called to him, “Cornelius!”	WARN
+English---Free-Bible-Version	NUMERALS	Source	2	ACT 13:33 that he has now fulfilled to us their children by raising Jesus from the dead. As it is written in Psalm 2: ‘You are my Son; today I have become your Father.’	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	1CO 10:8 We must not commit sexual sins, as some of them did, and as a result 23,000 died in one day.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	REV 9:16 I was told the number of the army of soldiers on horseback: it was 200 million.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	REV 11:3 I will give my two witnesses power, and they will prophesy 1,260 days, dressed in sackcloth.”	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	REV 12:6 The woman ran away into the desert, where God had prepared a place for her, so that she could be looked after for 1,260 days.	WARN
+English---Free-Bible-Version	NUMERALS	Source	6	REV 13:18 Wisdom is needed here. Whoever has understanding should calculate the number of the beast, for it is the number of a man. His number is 666.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	REV 14:1 I looked, and saw the Lamb standing on Mount Zion. With him were 144,000 who had his name, and the name of his Father, written on their foreheads.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	REV 14:3 They sang a new song in front of the throne and the four living creatures and the elders. Nobody could learn the song except the 144,000, those who had been redeemed from the earth.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	REV 14:20 They were trampled in the winepress outside the city. Blood flowed out of the winepress to the height of a horse's bridle, and to a distance of 1,600 stadia.	WARN
+English---Free-Bible-Version	NUMERALS	Source	0	REV 21:16 The city was square. The length was the same as the width. He measured the city with the rod, it was 12,000 furlongs. The length, width, and height were all the same.	WARN
+English---Free-Bible-Version	NUMERALS	Source	4	REV 21:17 He measured the wall and it was 144 cubits thick in human measurements that the angel was using.	WARN
+English---Free-Bible-Version	NUMERALS	Source	count	498	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	130	001-GEN-005-003 When Adam was 130, he had a son who was like him, made in his image; and he named him Seth.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	800	001-GEN-005-004 Adam lived another 800 years after Seth was born, and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	930	001-GEN-005-005 Adam lived a total of 930 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	105	001-GEN-005-006 When Seth was 105, he had Enosh.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	807	001-GEN-005-007 Seth lived another 807 years after Enosh was born, and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	912	001-GEN-005-008 Seth lived a total of 912 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	90	001-GEN-005-009 When Enosh was 90, he had Kenan.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	815	001-GEN-005-010 Enosh lived another 815 years after Kenan was born, and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	905	001-GEN-005-011 Enosh lived a total of 905 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	001-GEN-005-012 When Kenan was 70, he had Mehalalel.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	840	001-GEN-005-013 Kenan lived another 840 years after Mehalalel was born, and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	910	001-GEN-005-014 Kenan lived a total of 910 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	65	001-GEN-005-015 When Mahalalel was 65, he had Jared.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	830	001-GEN-005-016 After Jared was born, Mahalalel lived another 830 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	895	001-GEN-005-017 Mahalalel lived a total of 895 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	162	001-GEN-005-018 When Jared was 162, he had Enoch.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	800	001-GEN-005-019 After Enoch was born, Jared lived 800 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	962	001-GEN-005-020 Jared lived a total of 962 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	65	001-GEN-005-021 When Enoch was 65, he had Methuselah.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	001-GEN-005-022 He had a close relationship with God. After Methuselah was born, Enoch lived another 300 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	365	001-GEN-005-023 Enoch lived a total of 365 years.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	187	001-GEN-005-025 When Methuselah was 187, he had Lamech.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	782	001-GEN-005-026 After Lamech was born, Methuselah lived another 782 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	969	001-GEN-005-027 Methuselah lived a total of 969 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	182	001-GEN-005-028 When Lamech was 182, he had a son.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	595	001-GEN-005-030 After Noah was born, Lamech lived another 595 years and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	777	001-GEN-005-031 Lamech lived a total of 777 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	500	001-GEN-005-032 Noah was 500 before he had Shem, Ham, and Japheth.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	120	001-GEN-006-003 Then the Lord said, “My life-giving Spirit will not remain in these people forever, because they are only mortal. The time they have left will be 120 years.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	001-GEN-006-015 This is how to build it: the ark is to measure 300 cubits long, 50 cubits wide, and 30 cubits high.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	600	001-GEN-007-006 Noah was 600 when the flood waters covered the earth.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	600	001-GEN-007-011 Noah was 600 when on the seventeenth day of the second month all the subterranean waters burst through the earth, and heavy rain poured down from the sky.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	150	001-GEN-007-024 The earth remained flooded for 150 days.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	150	001-GEN-008-003 The floodwaters steadily receded from the earth. They had gone down so much that by 150 days after the flood began	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	601	001-GEN-008-013 By now Noah was 601, and by the first day of the first month, the floodwaters on the earth were gone. Noah pulled back the ark's covering and saw that the ground was drying out.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	350	001-GEN-009-028 Noah lived for another 350 years after the flood.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	950	001-GEN-009-029 Noah lived a total of 950 years, and then he died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	001-GEN-011-010 The following is the genealogy of Shem. When Shem was 100, he had Arphaxad. This was two years after the flood.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	500	001-GEN-011-011 Shem lived another 500 years after Arphaxad was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	35	001-GEN-011-012 When Arphaxad was 35, he had Shelah.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	403	001-GEN-011-013 Arphaxad lived another 403 years after Shelah was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	001-GEN-011-014 When Shelah was 30, he had Eber.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	403	001-GEN-011-015 Shelah lived another 403 years after Eber was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	34	001-GEN-011-016 When Eber was 34, he had Peleg.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	430	001-GEN-011-017 Eber lived another 430 years after Peleg was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	001-GEN-011-018 When Peleg was 30, he had Reu.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	209	001-GEN-011-019 Peleg lived another 209 years after Reu was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	32	001-GEN-011-020 When Reu was 32, he had Serug.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	207	001-GEN-011-021 Reu lived another 207 years after Serug was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	001-GEN-011-022 When Serug was 30, he had Nahor.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	001-GEN-011-023 Serug lived another 200 years after Nahor was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	29	001-GEN-011-024 When Nahor was 29, he had Terah.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	119	001-GEN-011-025 Nahor lived another 119 years after Terah was born and had other sons and daughters.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	001-GEN-011-026 When Terah was 70, he had Abram, Nahor, and Haran.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	205	001-GEN-011-032 Terah lived for 205 years and died in Haran.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	75	001-GEN-012-004 So Abram left following the Lord's instructions, and Lot went with him. Abram was 75 when he left Haran.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	318	001-GEN-014-014 When Abram found out that his nephew had been captured, he called together 318 fighting men who had been born in his household and chased after them all the way to Dan.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	400	001-GEN-015-013 The Lord explained to Abram, “You can be absolutely sure that your descendants will be strangers in a foreign land, where they will be slaves and mistreated for 400 years.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	86	001-GEN-016-016 Abram was 86 when Hagar had Ishmael.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	99	001-GEN-017-001 When Abram was 99, the Lord appeared to him and told him, “I am God Almighty. Live in my presence and don't do wrong.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	99	001-GEN-017-024 Abraham was 99 when he was circumcised,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	001-GEN-021-005 Abraham was 100 when Isaac was born.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	127	001-GEN-023-001 Sarah lived to be 127,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	175	001-GEN-025-007 Abraham lived to be 175	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	137	001-GEN-025-017 Ishmael lived to be 137. Then he breathed his last and died, and joined his forefathers in death.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	001-GEN-025-020 When Isaac was 40 he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	60	001-GEN-025-026 Then his twin brother was born, holding on to Esau's heel. So he was named Jacob. Isaac was 60 when they were born.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	001-GEN-026-034 When Esau was 40, he married Judith, daughter of Beeri the Hittite, as well as Basemath, daughter of Elon the Hittite.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	400	001-GEN-032-006 The messengers returned to Jacob and told him, “Your brother Esau is coming to meet you with 400 armed men!”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	001-GEN-032-014 200 female goats, 20 male goats; 200 ewes, 20 rams;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	001-GEN-032-015 30 female camels with their young, 40 cows, 10 bulls; 20 female donkeys, 10 male donkeys.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	001-GEN-033-019 He bought the plot of ground where he was camping from the sons of Hamor, the founder of Shechem, for 100 pieces of money.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	180	001-GEN-035-028 Isaac lived to be 180	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	001-GEN-045-022 He gave each of them new clothes. But to Benjamin he gave five sets of clothes and 300 pieces of silver.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	130	001-GEN-047-009 “I have been wandering for 130 years,” Jacob replied. “My life has been short and difficult—I have not lived as long as my forefathers who also wandered from place to place.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	147	001-GEN-047-028 Jacob lived in Egypt for seventeen years, so he lived in total 147 years.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	001-GEN-050-003 This took a full 40 days, the normal time for the process, and the Egyptians mourned for him for 70 days.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	110	001-GEN-050-022 Joseph remained in Egypt, together with his father's whole family. He lived to be 110,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	110	001-GEN-050-026 Joseph died when he was 110. After his body was embalmed, he was placed in a coffin in Egypt.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	002-EXO-001-005 Jacob had 70 descendants there, including Joseph who was already in Egypt.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	137	002-EXO-006-016 These were the names of the sons of Levi according to their genealogical records: Gershon, Kohath, and Merari. Levi lived for 137 years.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	133	002-EXO-006-018 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived for 133 years.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	137	002-EXO-006-020 Amram married his father's sister Jochebed, and she had their sons Aaron and Moses. Amram lived for 137 years.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	600	002-EXO-012-037 The Israelites set out on foot from Rameses for Succoth and numbered about 600,000 men, as well as women and children.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	430	002-EXO-012-040 The Israelites had lived in Egypt for 430 years.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	430	002-EXO-012-041 On the very day the 430 years ended, all the tribes of the Lord by their respective divisions left Egypt.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	600	002-EXO-014-007 He took 600 of his best chariots along with all the other chariots of Egypt, each with their officer-in-charge.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	500	002-EXO-030-023 “Take the best quality spices: 500 shekels of liquid myrrh, 250 shekels of sweet-smelling cinnamon, 250 shekels of aromatic reed,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	500	002-EXO-030-024 500 shekels of cassia (weights using the sanctuary shekel standard), and a hin of olive oil.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	002-EXO-032-028 The Levites did what Moses had told them, and that day around 3,000 men were killed.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	29	002-EXO-038-024 The total amount of gold from the offering that was used for the work on the sanctuary was 29 talents and 730 shekels (using the sanctuary shekel standard).	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	002-EXO-038-025 The total amount of silver from those who had been counted in the census was 100 talents and 1,775 shekels (using the sanctuary shekel standard).	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	603	002-EXO-038-026 This represents a beka per person, or half a shekel (using the sanctuary shekel standard) from everyone twenty years of age or older who had been censused, a total of 603,550 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	002-EXO-038-027 The hundred talents of silver were used to cast the sanctuary stands and the curtain stands, 100 bases from the 100 talents, or one talent per base.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	002-EXO-038-028 Bezalel used the 1,775 shekels of silver to make the hooks for the posts, cover their tops, and make bands for them.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	002-EXO-038-029 The total amount of bronze from the offering was 70 talents and 2,400 shekels.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	46	004-NUM-001-021 from the tribe of Reuben totaled 46,500.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	59	004-NUM-001-023 from the tribe of Simeon totaled 59,300.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	45	004-NUM-001-025 from the tribe of Gad totaled 45,650.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	74	004-NUM-001-027 from the tribe of Judah, totaled 74,600.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	54	004-NUM-001-029 from the tribe of Issachar, totaled 54,400.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	57	004-NUM-001-031 from the tribe of Zebulun, totaled 57,400.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	004-NUM-001-033 from the tribe of Ephraim, totaled 40,500.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	32	004-NUM-001-035 from the tribe of Manasseh, totaled 32,200.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	35	004-NUM-001-037 from the tribe of Benjamin, totaled 35,400.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	62	004-NUM-001-039 from the tribe of Dan, totaled 62,700.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	41	004-NUM-001-041 from the tribe of Asher, totaled 41,500.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	53	004-NUM-001-043 from the tribe of Naphtali, totaled 53,400.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	603	004-NUM-001-046 The sum total of those registered was 603,550.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	74	004-NUM-002-004 and he has 74,600 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	54	004-NUM-002-006 and he has 54,400 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	57	004-NUM-002-008 and he has 57,400 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	186	004-NUM-002-009 So the total number of men in the area of the camp of Judah is 186,400. When it's time to march out, they are the ones who will lead.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	46	004-NUM-002-011 and he has 46,500 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	59	004-NUM-002-013 and he has 59,300 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	45	004-NUM-002-015 and he has 45,650 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	151	004-NUM-002-016 So the total number of men in the area of the camp of Reuben is 151,450. They shall march out in second place.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	004-NUM-002-019 and he has 40,500 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	32	004-NUM-002-021 and he has 32,200 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	35	004-NUM-002-023 and he has 35,400 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	108	004-NUM-002-024 So the total number of men in the area of the camp of Ephraim is 108,100. They shall march out in third place	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	62	004-NUM-002-026 and he has 62,700 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	41	004-NUM-002-028 and he has 41,500 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	53	004-NUM-002-030 and he has 53,400 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	157	004-NUM-002-031 So the total number of men in the area of the camp of Dan is 157,600; They shall march out last, with their flags.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	603	004-NUM-002-032 This sums up the registration of the Israelites, carried out by family. The final total of those counted in the camps by their tribal division was 603,550.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	7	004-NUM-003-022 The total of all males aged one month or older was 7,500.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	8	004-NUM-003-028 The total of all males aged one month or older was 8,600. Their assigned responsibility was to take care of the sanctuary.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	6	004-NUM-003-034 The total of all males aged one month or older was 6,200.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	004-NUM-003-039 The sum total of Levites registered by Moses and Aaron as the Lord ordered was 22,000. This included all males aged one month or older.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	004-NUM-003-043 The sum total of the firstborn males a month old or more, registered by name, was 22,273.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	273	004-NUM-003-046 In order to buy back the 273 firstborn Israelites who are more than the number of Levites,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	004-NUM-003-050 He collected the money given on behalf of the Israelites' firstborn children. It came to 1,365 shekels (using the sanctuary shekel standard).	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	004-NUM-004-036 The total by families was 2,750.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	004-NUM-004-040 The total by families and father's line was 2,630.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	004-NUM-004-044 The total by families was 3,200.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	8	004-NUM-004-048 The sum total was 8,580.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	600	004-NUM-011-021 But Moses replied, “Here I am with 600,000 people and you're telling me, ‘I'm going to give them meat and they'll eat it for a month’?	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	250	004-NUM-016-002 They rebelled against Moses, and were joined by 250 well-respected Israelite leaders and members of the assembly.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	250	004-NUM-016-017 Each one will take his incense burner, put incense in it, and offer it before the Lord. All 250 of you will use your incense burners and Aaron will as well.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	250	004-NUM-016-035 Fire burst out from the Lord and burned up the 250 men who were offering incense.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	14	004-NUM-016-049 However, 14,700 died from the plague in addition to those who'd died because of Korah.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	004-NUM-025-009 but 24,000 had already died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	43	004-NUM-026-007 These were the families descended from Reuben and they numbered 43,730.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	250	004-NUM-026-010 The earth opened up and swallowed them down, along with Korah. His followers died when the fire burned up 250 men. What happened to them was a warning to the Israelites.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	004-NUM-026-014 These were the families descended from Simeon and they numbered 22,200.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	004-NUM-026-018 These were the families descended from Gad and they numbered 40,500.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	76	004-NUM-026-022 These were the families descended from Judah and they numbered 76,500.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	64	004-NUM-026-025 These were the families descended from Isaachar and they numbered 64,300.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	60	004-NUM-026-027 These were the families descended from Zebulun, and they numbered 60,500.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	52	004-NUM-026-034 These were the families descended from Manasseh, and they numbered 52,700.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	32	004-NUM-026-037 These were the families descended from Ephraim, and they numbered 32,500. These families were the descendants of Joseph.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	45	004-NUM-026-041 These were the families descended from Benjamin, and they numbered 45,600.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	64	004-NUM-026-043 They were all Shuhamite families, and they numbered 64,400.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	53	004-NUM-026-047 These were the families descended from Asher, and they numbered 53,400.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	45	004-NUM-026-050 These were the families descended from Naphtali, and they numbered 45,400.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	601	004-NUM-026-051 The total of all those counted was 601,730.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	23	004-NUM-026-062 The number of the Levites censused totaled 23,000. This included every male one month old or older. However, they were not counted with the other Israelites, because no land allotment was given to them with the other Israelites.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	675	004-NUM-031-032 This was the list of plunder remaining that had been looted by the troops: 675,000 sheep,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	72	004-NUM-031-033 72,000 cattle,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	61	004-NUM-031-034 61,000 donkeys,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	32	004-NUM-031-035 and 32,000 virgins.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	337	004-NUM-031-036 This was the half share for those who had gone to fight: 337,500 sheep,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	675	004-NUM-031-037 with a contribution for the Lord of 675,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	36	004-NUM-031-038 36,000 cattle, with a Lord's contribution of 72,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	004-NUM-031-039 30,500 donkeys, with a Lord's contribution of 61,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	16	004-NUM-031-040 and 16,000 people, with a Lord's contribution of 32.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	337	004-NUM-031-043 consisted of: 337,500 sheep,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	36	004-NUM-031-044 36,000 cattle,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	004-NUM-031-045 30,500 donkeys,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	16	004-NUM-031-046 and 16,000 people.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	16	004-NUM-031-052 The gold that the commanders of thousands and of hundreds gave as an offering to the Lord weighed in total 16,750 shekels.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	123	004-NUM-033-039 Aaron was 123 when he died on Mount Hor.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	120	005-DEU-034-007 Moses was 120 when he died, yet he was still seeing clearly and he was still strong.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	006-JOS-003-004 That way you'll know which way to go, since you haven't been here before. Leave about 3,000 feet between you and the Ark. Don't go near it!”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	006-JOS-004-013 They numbered about 40,000 men, armed and ready for battle, who crossed in the presence of the Lord to the plains of Jericho.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	31	006-JOS-012-024 The king of Tirzah. The total of all the kings is 31.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	10	007-JDG-003-029 Then they attacked the Moabites and killed around 10,000 of their best and strongest fighting men. Not a single one escaped.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	007-JDG-008-026 The weight of the earrings he'd asked for was 1,700 shekels, not including the ornaments, the pendants, and the purple garments worn by the Midianite kings or the chains that were round their camels' necks.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	42	007-JDG-012-006 they would tell him, “Say Shibboleth.” If he was from Ephraim he would say “Sibboleth” because he couldn't pronounce it right, and they'd grab him and kill him there at the Jordan fords. A total of 42,000 were killed at that time.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	4	009-1SA-004-002 The Philistines attacked the Israelites in formation, and when the battle spread, the Philistines defeated the Israelites, killing 4,000 of them on the battlefield.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	009-1SA-011-008 When Saul counted them at Bezek, there were 300,000 men from Israel and 30,000 men from Judah.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	009-1SA-015-004 Saul called up his army at Telem. There were 200,000 Israelite infantry and 10,000 men from Judah.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	010-2SA-008-004 David captured from him 1,000 chariots, 7,000 charioteers, and 20,000 foot soldiers. David hamstrung all the chariot horses—except he saved enough for 100 chariots.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	700	010-2SA-010-018 But the Aramean army ran away from the Israelites, and David killed 700 charioteers and 40,000 infantry. He also attacked Shobach, their army commander, and he died there.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	010-2SA-023-018 Abishai, Joab's brother, was leader of the second Three. Using his spear, he once killed 300 men, and became famous among the Three.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	800	010-2SA-024-009 Joab reported to the king the number of people that had been counted. In Israel there were 800,000 fighting men who could use the sword, and in Judah there were 500,000.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	011-1KI-004-026 Solomon had 40,000 stalls for his chariot horses, and 12,000 charioteers.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	20	011-1KI-005-011 Solomon gave Hiram 20,000 cors of wheat for food and 20,000 cors of olive oil for his household. Solomon provided this to Hiram every year.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	011-1KI-005-013 King Solomon drafted a labor force of 30,000 from all of Israel.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	10	011-1KI-005-014 He sent them in shifts of 10,000 each month to Lebanon, so that they were one month in Lebanon and two months at home, Adoniram was in charge of the labor force.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	011-1KI-005-015 Solomon had 70,000 porters and 80,000 stonecutters in the hill country,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	011-1KI-005-016 as well as 3,300 foremen he placed in charge of the workers.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	011-1KI-008-063 Solomon presented as friendship offerings to the Lord 22,000 bulls and 120,000 sheep. In this way the king and all the people of Israel dedicated the Lord's Temple.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	120	011-1KI-009-014 Even so, Hiram sent the king 120 talents of gold in payment.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	550	011-1KI-009-023 They were also the chief officers in charge of Solomon's programs: 550 in command of the people who carried out the work.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	420	011-1KI-009-028 They sailed to Ophir and brought back 420 talents of gold from there and delivered it to Solomon.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	666	011-1KI-010-014 The weight of gold that Solomon received each year was 666 talents,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	011-1KI-010-026 Solomon accumulated 1,400 chariots and 12,000 horsemen. He kept them in the chariot towns, and also with him in Jerusalem.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	180	011-1KI-012-021 When Rehoboam arrived in Jerusalem, he gathered the men from the households of Judah and Benjamin— 180,000 chosen warriors—to go and fight against Israel to bring the kingdom back to Rehoboam, son of Solomon.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	232	011-1KI-020-015 So Ahab called up the 232 young officers of the district commanders, and assembled the 7,000 soldiers that made up Israel's army.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	011-1KI-020-029 The armies camped opposite each other for seven days. On the seventh day the battle took place. The Israelites killed 100,000 of the Aramean infantry in one day.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	27	011-1KI-020-030 The rest ran away to the town of Aphek, where a wall collapsed on 27,000 of those that remained. Ben-hadad also ran to the town and hid in an inside room.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	185	012-2KI-019-035 That night the angel of the Lord went to the Assyrian camp and killed 185,000. When the survivors woke up in the morning, they were surrounded by dead bodies.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	44	013-1CH-005-018 The tribe of Reuben, the tribe of Gadites, and the half-tribe of Manasseh had 44,760 battle-ready strong warriors capable of using shields and swords and bows.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	013-1CH-007-002 The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel—leaders of their families. In the time of David, the descendants of Tola listed in their genealogy a total of 22,600 warriors.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	36	013-1CH-007-004 They had many wives and sons and so in their genealogy they list 36,000 battle-ready fighting men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	87	013-1CH-007-005 The relatives who were warriors belonging to all the families of Issachar, according to their genealogy, were 87,000 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	013-1CH-007-007 The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, leaders of their families—a total of five. They had 22,034 fighting men according to their genealogy.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	20	013-1CH-007-009 Their genealogy included the family heads and 20,200 fighting men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	17	013-1CH-007-011 All these sons of Jediael were family heads. They had 17,200 battle-ready warriors.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	26	013-1CH-007-040 These were all descendants of Asher—family heads, proven men, strong warriors, and great leaders. According to their genealogy, they had 26,000 battle-ready warriors.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	150	013-1CH-008-040 The sons of Ulam were strong warriors and skilled archers. They had many sons and grandsons—a total of 150. All of them were the sons of Benjamin.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	690	013-1CH-009-006 From the Zerahites: Jeuel and relatives totaled 690.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	956	013-1CH-009-009 All of them were family heads as recorded in their genealogies, and they totaled 956.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	013-1CH-009-013 The priests, who were family heads, totaled 1,760. They were strong and capable men who served in the house of God.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	212	013-1CH-009-022 In total there were 212 chosen to be gatekeepers at the entrances. They recorded their genealogies in their home towns. David and Samuel the prophet had selected their forefathers for their faithfulness.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	013-1CH-011-011 This is the list of the leading warriors who supported David: Jashobeam, son of Hachmoni, leader of the Three. Using his spear, he once killed 300 men in a single battle.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	013-1CH-011-020 Abishai, Joab's brother, was leader of the second Three. Using his spear, he once killed 300 men, and became famous among the Three.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	013-1CH-012-014 These warriors from Gad were army officers. The least able of them was in charge of 100 men; the best was in charge of 1,000.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	6	013-1CH-012-024 From the tribe of Judah, 6,800 warriors carrying shields and spears.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	7	013-1CH-012-025 From the tribe of Simeon, 7,100 strong warriors.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	4	013-1CH-012-026 From the tribe of Levi, 4,600,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	013-1CH-012-027 including Jehoiada, leader of the family of Aaron, and with him 3,700,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	013-1CH-012-028 and Zadok, a strong young warrior, with 22 members of his family, all officers.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	013-1CH-012-029 From the tribe of Benjamin, from among Saul's relatives, 3,000, most of whom had remained loyal to Saul up until this time.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	20	013-1CH-012-030 From the tribe of Ephraim, 20,800 strong warriors, each highly regarded in his own clan.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	18	013-1CH-012-031 From the half-tribe of Manasseh, 18,000 men were designated by name to come and make David king.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	013-1CH-012-032 From the tribe of Issachar came leaders who knew and could understand the signs of the times and what Israel should do—a total of 200 leaders of the tribe together with their relatives.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	50	013-1CH-012-033 From the tribe of Zebulun, 50,000 warriors. They were fully armed and battle-ready, and totally dedicated.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	013-1CH-012-034 From the tribe of Naphtali, 1,000 officers and 37,000 warriors carrying shields and spears.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	28	013-1CH-012-035 From the tribe of Dan, 28,600 warriors, all battle-ready.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	013-1CH-012-036 From the tribe of Asher, 40,000 experienced warriors, all battle-ready.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	120	013-1CH-012-037 From the east side of the Jordan River, from the tribes of Reuben, Gad, and the half-tribe of Manasseh, 120,000 warriors carrying all kinds of weapons.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	120	013-1CH-015-005 From the sons of Kohath, Uriel (chief), and 120 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	220	013-1CH-015-006 from the sons of Merari, Asaiah (chief), with 220 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	130	013-1CH-015-007 from the sons of Gershom, Joel (chief), with 130 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	013-1CH-015-008 from the sons of Elizaphan, Shemaiah (chief), with 200 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	80	013-1CH-015-009 from the sons of Hebron, Eliel (chief), with 80 of his relatives;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	112	013-1CH-015-010 from the sons of Uzziel, Amminadab (chief), with 112 of his relatives.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	013-1CH-018-004 David captured from him 1,000 chariots, 7,000 charioteers, and 20,000 foot soldiers. David hamstrung all the chariot horses—except he saved enough for 100 chariots.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	013-1CH-018-005 When the Arameans from Damascus came to help Hadadezer king of Zobah, David killed 22,000 of them.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	18	013-1CH-018-012 Abishai, son of Zeruiah, killed 18,000 Edomites in the Valley of Salt.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	32	013-1CH-019-007 They also hired 32,000 chariots and the king of Maacah with his army. They came set up camp near Medeba. The Ammonites were also called up from their towns and prepared for battle.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	7	013-1CH-019-018 But the Aramean army ran away from the Israelites, and David killed 7,000 charioteers and 40,000 infantry, as well as Shobach, their army commander.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	013-1CH-021-005 and he gave David the number of people censused. In Israel there were 1,100,000 fighting men who could handle a sword, and 470,000 in Judah.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	013-1CH-021-014 So the Lord a plague on Israel, and 70,000 Israelites died.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	013-1CH-022-014 Look, I've taken a lot of trouble to provide for the house of the Lord— 100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron, more than can be weighed.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	38	013-1CH-023-003 The Levites over thirty years old were counted, and there was 38,000 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-023-004 “Of these 24,000 will be in charge of the work of the house of the Lord, while 6,000 will be officers and judges,” David instructed.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	4	013-1CH-023-005 “And 4,000 will be gatekeepers, while 4,000 will praise the Lord using the musical instruments I have provided for praise worship.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	288	013-1CH-025-007 Along with their relatives, all of them trained and skilled in singing to the Lord, they totaled 288.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-009 The first lot, which was for Asaph, fell to Joseph, his sons, and his brother, 12 in total. The second fell to Gedaliah, his sons, and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-010 The third fell to Zaccur, his sons, and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-011 The fourth fell to Izri, his sons, and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-012 The fifth to Nethaniah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-013 The sixth fell to Bukkiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-014 The seventh fell to Jesarelah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-015 The eighth fell to Jeshaiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-016 The ninth fell to Mattaniah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-017 The tenth fell to Shimei, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-018 The eleventh fell to Azarel, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-019 The twelfth fell to Hashabiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-020 The thirteenth fell to Shubael, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-021 The fourteenth fell to Mattithiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-022 The fifteenth fell to Jerimoth, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-023 The sixteenth fell to Hananiah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-024 The seventeenth fell to Joshbekashah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-025 The eighteenth fell to Hanani, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-026 The nineteenth fell to Mallothi, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-027 The twentieth fell to Eliathah, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-028 The twenty-first fell to Hothir, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-029 The twenty-second fell to Giddalti, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-030 The twenty-third fell to Mahazioth, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	013-1CH-025-031 The twenty-fourth fell to Romamti-Ezer, his sons and his brothers, 12 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	013-1CH-026-030 From the Hebronites: Hashabiah and his relatives, 1,700 capable men, were put in charge of Israel west of the Jordan, responsible for everything involving the Lord's work and the king's service.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	013-1CH-026-032 Among the relatives of Jerijah were 2,700 capable men who were family leaders. King David put them in charge of the tribes of Reuben and Gad and the half-tribe of Manasseh. They were responsible for everything involving the Lord's work and the king's service.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-001 This is a list of the Israelites, the family leaders, the commanders of thousands, and the commanders of hundreds, and their officers who served the king in everything related to the divisions that were on duty each month during the year. There were 24,000 men in each division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-002 In command of the first division for the first month, was Jashobeam, son of Zabdiel. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-004 In command of the division for the second month was Dodai the Ahohite. Mikloth was his division leader. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-005 The third army commander for the third month was Benaiah, son of Jehoiada the priest. He was chief and there were 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-007 The fourth, for the fourth month, was Asahel, Joab's brother. His son Zebadiah was his successor. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-008 The fifth, for the fifth month, was the army commander Shamhuth the Izrahite. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-009 The sixth, for the sixth month, was Ira, son of Ikkesh the Tekoite. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-010 The seventh, for the seventh month, was Helez the Pelonite of the tribe of Ephraim. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-011 The eighth, for the eighth month, was Sibbecai the Hushathite, a Zerahite. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-012 The ninth, for the ninth month, was Abiezer the Anathothite of the tribe of Benjamin. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-013 The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-014 The eleventh, for the eleventh month, was Benaiah the Pirathonite of the tribe of Ephraim. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	24	013-1CH-027-015 The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. He had 24,000 men in his division.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	013-1CH-029-004 3,000 talents of gold—the gold of Ophir—and 7,000 talents of refined silver will go to cover the walls of the buildings,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	5	013-1CH-029-007 They gave to the service of the house of God 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze, and 100,000 talents of iron.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	014-2CH-001-014 Solomon built up an army of chariots and horses. He had 1,400 chariots and 12,000 horses, which he placed in the chariot cities, and also with him in Jerusalem.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	014-2CH-002-002 He allocated 70,000 men as laborers, 80,000 as stone cutters in the mountains, and 3,600 as foremen.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	20	014-2CH-002-010 I will pay your workers, the wood-cutters, 20,000 cors of crushed wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of olive oil.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	153	014-2CH-002-017 Solomon had a census taken of all the foreigners in the land of Israel, like the census his father David had conducted, and found there were 153,600.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	014-2CH-002-018 He allocated 70,000 as laborers, 80,000 as stonecutters in the mountains, and 3,600 as foremen.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	22	014-2CH-007-005 King Solomon offered a sacrifice of 22,000 cattle and 120,000 sheep. In this way the king and all the people dedicated the Temple of God.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	250	014-2CH-008-010 They were also King Solomon's chief officers, 250 men who supervised the people.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	450	014-2CH-008-018 Hiram sent him ships under the command of his own officers, along with experienced sailors. They went with Solomon's men to Ophir where they loaded 450 talents of gold, which they then brought back to King Solomon.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	666	014-2CH-009-013 The weight of gold that Solomon received each year was 666 talents,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	180	014-2CH-011-001 When Rehoboam arrived in Jerusalem, he gathered the men from the households of Judah and Benjamin— 180,000 chosen warriors—to go and fight against Israel to bring the kingdom back to Rehoboam.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	014-2CH-012-003 He came with 1,200 chariots, 60,000 horsemen, and an army from Egypt that couldn't be counted—Libyans, Sukkites, and Cushites.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	400	014-2CH-013-003 Abijah went out to fight with an army of 400,000 brave warriors, while Jeroboam opposed him with his army of 800,000 chosen warriors of great strength.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	500	014-2CH-013-017 Abijah and his men hit them hard, and 500,000 of Israel's best warriors were killed.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	7	014-2CH-017-011 Some of the Philistines even brought him gifts and silver, while the Arabians brought him 7,700 rams and 7,700 goats.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	014-2CH-017-014 This is a count of them, according to their family lines: from Judah, the commanders of thousands: Adnah the commander, and 300,000 mighty warriors with him;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	280	014-2CH-017-015 then Jehohanan the commander, and 280,000 with him;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	014-2CH-017-016 then Amasiah, son of Zichri, who volunteered to serve the Lord, and 200,000 mighty warriors with him;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	014-2CH-017-017 from Benjamin, Eliada, a mighty warrior, and 200,000 with him armed with bows and shields;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	180	014-2CH-017-018 then Jehozabad, and 180,000 with him ready for battle;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	130	014-2CH-024-015 Jehoiada grew old and died at the age of 130, having lived a full life.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	014-2CH-025-005 Then Amaziah called up the people of Judah for military service, and assigned them by families to commanders of thousands and of hundreds. He also took a census of those twenty years of age and older throughout Judah and Benjamin, and found there were 300,000 first-rate fighting men who could use spear and shield.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	100	014-2CH-025-006 He also hired 100,000 battle-ready fighting men from Israel for a hundred talents of silver.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	014-2CH-025-013 But the men of the army Amaziah sent home, refusing to let them go with him to battle, raided the towns of Judah, from Samaria to Beth-horon They killed 3,000 of their inhabitants and took a great deal of plunder.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	400	014-2CH-025-023 Joash, king of Israel, captured Amaziah, king of Judah, son of Joash, son of Ahaziah, at Beth-shemesh. He took him to Jerusalem, and demolished the wall of Jerusalem for 400 cubits, from the Ephraim Gate to the Corner Gate.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	014-2CH-026-012 The total number of family leaders was 2,600 fighting men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	307	014-2CH-026-013 Under their command was an army of 307,500 trained for battle, who had the power to help the king fight against the enemy.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	120	014-2CH-028-006 In just one day, Pekah, son of Remaliah, killed 120,000 fighting men in Judah, because they had abandoned the Lord, the God of their fathers.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	014-2CH-028-008 The Israelites captured 200,000 of their “brothers”—women, sons, and daughters. They also took a great deal of plunder and brought it to Samaria.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	014-2CH-035-007 Josiah contributed as Passover offerings for all the people who were present 30,000 lambs and goats, and 3,000 bulls, all from his own flocks and herds.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	014-2CH-035-008 His officials contributed freely to the people, to the priests, and to the Levites. Hilkiah, Zechariah, and Jehiel, who were in charge of God's Temple, gave the priests as Passover offerings 2,600 Passover lambs and 300 bulls.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	5	014-2CH-035-009 The leaders of the Levites, Conaniah, and Shemaiah and Nethanel his brothers, and Hashabiah and Jeiel and Jozabad, gave the Levites as Passover offerings 5,000 lambs and young goats and 500 bulls.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	015-EZR-001-009 This was the list: 30 gold basins, 1,000 silver basins, 29 silver silverware,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	30	015-EZR-001-010 30 gold bowls, 410 matching silver bowls, and 1,000 other items.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	5	015-EZR-001-011 In total there were 5,400 gold and silver items. When the exiles left Babylon to go to Jerusalem Sheshbazzar took all these along with them.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	015-EZR-002-003 the sons of Parosh, 2,172;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	372	015-EZR-002-004 the sons of Shephatiah, 372;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	775	015-EZR-002-005 the sons of Arah, 775;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	015-EZR-002-006 the sons of Pahath-moab (sons of Jeshua and Joab), 2,812;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	015-EZR-002-007 the sons of Elam, 1,254;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	945	015-EZR-002-008 the sons of Zattu, 945;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	760	015-EZR-002-009 the sons of Zaccai, 760;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	642	015-EZR-002-010 the sons of Bani, 642;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	623	015-EZR-002-011 the sons of Bebai, 623;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	015-EZR-002-012 the sons of Azgad, 1,222;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	666	015-EZR-002-013 the sons of Adonikam, 666;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	015-EZR-002-014 the sons of Bigvai, 2,056;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	454	015-EZR-002-015 the sons of Adin, 454;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	98	015-EZR-002-016 the sons of Ater (sons of Hezekiah), 98;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	323	015-EZR-002-017 the sons of Bezai, 323;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	112	015-EZR-002-018 the sons of Jorah, 112;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	223	015-EZR-002-019 the sons of Hashum, 223;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	95	015-EZR-002-020 the sons of Gibbar, 95;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	123	015-EZR-002-021 the people from Bethlehem, 123;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	56	015-EZR-002-022 the people from Netophah, 56;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	128	015-EZR-002-023 the people from Anathoth, 128;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	42	015-EZR-002-024 the people from Beth-azmaveth, 42;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	743	015-EZR-002-025 the people from Kiriath-jearim, Kephirah, and Beeroth, 743;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	621	015-EZR-002-026 the people from Ramah and Geba, 621;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	122	015-EZR-002-027 the people from Micmash, 122;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	223	015-EZR-002-028 the people from Bethel and Ai, 223;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	52	015-EZR-002-029 the sons of Nebo, 52;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	156	015-EZR-002-030 the sons of Magbish, 156;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	015-EZR-002-031 the sons of Elam, 1,254;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	320	015-EZR-002-032 the sons of Harim, 320;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	725	015-EZR-002-033 the sons of Lod, Hadid, and Ono, 725;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	345	015-EZR-002-034 the sons of Jericho, 345;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	015-EZR-002-035 the sons of Senaah, 3,630.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	973	015-EZR-002-036 This is the number of the priests: the sons of Jedaiah (through the family of Jeshua), 973;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	015-EZR-002-037 the sons of Immer, 1,052;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	015-EZR-002-038 the sons of Pashhur, 1,247;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	015-EZR-002-039 the sons of Harim, 1,017.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	74	015-EZR-002-040 This is the number of the Levites: the sons of Jeshua and Kadmiel (sons of Hodaviah), 74;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	128	015-EZR-002-041 the singers of the sons of Asaph, 128;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	139	015-EZR-002-042 the gatekeepers of the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, 139.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	392	015-EZR-002-058 The total of the Temple servants and the descendants of Solomon's servants was 392.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	652	015-EZR-002-060 They included the families of Delaiah, Tobiah, and Nekoda, 652 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	42	015-EZR-002-064 The total of number of people returning was 42,360.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	7	015-EZR-002-065 In addition there were 7,337 servants and 200 male and female singers.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	736	015-EZR-002-066 They had 736 horses, 245 mules,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	435	015-EZR-002-067 435 camels, and 6,720 donkeys.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	61	015-EZR-002-069 They gave depending on how much they had, putting their gift into the treasury. The total came to 61,000 gold daric coins, 5,000 minas of silver, and 100 robes for the priests.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	150	015-EZR-008-003 son of Shecaniah. From the sons of Parosh, Zechariah, and with him 150 men were registered.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	015-EZR-008-004 From the sons of Pahath-moab, Eliehoenai, son of Zerahiah, and with him 200 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	300	015-EZR-008-005 From the sons of Zattu, Shecaniah, son of Jahaziel, and with him 300 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	50	015-EZR-008-006 From the sons of Adin, Ebed, son of Jonathan, and with him 50 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	015-EZR-008-007 From the sons of Elam, Jeshaiah, son of Athaliah, and with him 70 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	80	015-EZR-008-008 From the sons of Shephatiah, Zebadiah, son of Michael, and with him 80 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	218	015-EZR-008-009 From the sons of Joab, Obadiah, son of Jehiel, and with him 218 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	160	015-EZR-008-010 From the sons of Bani, Shelomith, son of Josiphiah, and with him 160 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	28	015-EZR-008-011 From the sons of Bebai, Zechariah, son of Bebai, and with him 28 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	110	015-EZR-008-012 From the sons of Azgad, Johanan, son of Hakkatan, and with him 110 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	60	015-EZR-008-013 From the sons of Adonikam, those who were last, their names being Eliphelet, Jeuel, and Shemaiah, and with them 60 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	70	015-EZR-008-014 From the sons of Bigvai, Uthai and Zaccur, and with them 70 men.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	220	015-EZR-008-020 In addition they brought 220 of the Temple servants, a group appointed by David and his officials to help the Levites. These were all registered by name.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	650	015-EZR-008-026 I weighed out and placed in their hands 650 talents of silver, silver Temple items weighing 100 talents, 100 talents of gold,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	20	015-EZR-008-027 20 gold bowls worth 1,000 darics, and two articles of highly-polished bronze, as valuable as gold.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	150	016-NEH-005-017 I had 150 Jews and officials eating at my table, as well as visitors from nearby countries.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	016-NEH-007-008 The sons of Parosh, 2,172;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	372	016-NEH-007-009 the sons of Shephatiah, 372;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	652	016-NEH-007-010 the sons of Arah, 652;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	016-NEH-007-011 the sons of Pahath-moab (the sons of Jeshua and Joab), 2,818;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	016-NEH-007-012 the sons of Elam, 1,254;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	845	016-NEH-007-013 The sons of Zattu, 845;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	760	016-NEH-007-014 the sons of Zaccai, 760;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	648	016-NEH-007-015 the sons of Binnui, 648;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	628	016-NEH-007-016 the sons of Bebai, 628;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	016-NEH-007-017 the sons of Azgad, 2,322;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	667	016-NEH-007-018 the sons of Adonikam, 667;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	016-NEH-007-019 the sons of Bigvai, 2,067.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	655	016-NEH-007-020 The sons of Adin, 655.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	98	016-NEH-007-021 The sons of Ater (sons of Hezekiah), 98;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	328	016-NEH-007-022 the sons of Hashum, 328;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	324	016-NEH-007-023 the sons of Bezai, 324;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	112	016-NEH-007-024 the sons of Hariph, 112;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	95	016-NEH-007-025 the sons of Gibeon, 95;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	188	016-NEH-007-026 the people from Bethlehem and Netophah, 188;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	128	016-NEH-007-027 the people from Anathoth, 128;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	42	016-NEH-007-028 the people from Beth-azmaveth 42;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	743	016-NEH-007-029 the people from Kiriath-jearim, Chephirah, and Beeroth, 743;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	621	016-NEH-007-030 the people from Ramah and Geba, 621;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	122	016-NEH-007-031 the people from Michmas, 122;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	123	016-NEH-007-032 the people from Bethel and Ai, 123;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	52	016-NEH-007-033 the people from the other Nebo, 52;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	016-NEH-007-034 the sons of the other Elam, 1,254;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	320	016-NEH-007-035 the sons of Harim, 320;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	345	016-NEH-007-036 the sons of Jericho, 345;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	721	016-NEH-007-037 the sons of Lod, Hadid and Ono, 721;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	016-NEH-007-038 the sons of Senaah, 3,930.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	973	016-NEH-007-039 This is the number of the priests: the sons of Jedaiah (through the family of Jeshua), 973;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	016-NEH-007-040 the sons of Immer, 1,052;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	016-NEH-007-041 the sons of Pashhur, 1,247;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	016-NEH-007-042 the sons of Harim, 1,017.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	74	016-NEH-007-043 This is the number of the Levites: the sons of Jeshua through Kadmiel (sons of Hodaviah), 74;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	148	016-NEH-007-044 the singers of the sons of Asaph, 148;	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	138	016-NEH-007-045 the gatekeepers of the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, 138.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	392	016-NEH-007-060 The total of the Temple servants and the descendants of Solomon's servants was 392.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	642	016-NEH-007-062 They included the families of Delaiah, Tobiah, and Nekoda, 642 in total.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	42	016-NEH-007-066 The total number of people returning was 42,360.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	7	016-NEH-007-067 In addition there were 7,337 servants and 245 male and female singers.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	736	016-NEH-007-068 They had 736 horses, 245 mules,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	435	016-NEH-007-069 435 camels, and 6,720 donkeys.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	016-NEH-007-070 Some of the family leaders made voluntary contributions toward the work. The governor presented to the treasury 1,000 gold darics, 50 bowls and 530 sets of clothes for the priests.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	20	016-NEH-007-071 Some of the family leaders donated to the treasury for the work 20,000 darics of gold and 2,200 minas of silver.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	20	016-NEH-007-072 The rest of the people donated 20,000 gold darics, 2,000 minas of silver, and 67 sets of clothes for the priests.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	468	016-NEH-011-006 The total of the sons of Perez who lived in Jerusalem was 468 men of ability.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	928	016-NEH-011-008 and after him Gabbai and Sallai, a total of 928.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	822	016-NEH-011-012 and their fellow priests who served at the Temple, a total of 822; Adaiah son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	242	016-NEH-011-013 and those who worked with him, family leaders, a total of 242; and Amashsai, son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	128	016-NEH-011-014 and those who worked with him, a total of 128 strong warriors. Zabdiel, son of Haggedolim, was in charge of them.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	284	016-NEH-011-018 The total number of priests in the holy city was 284.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	172	016-NEH-011-019 The gatekeepers: Akkub, Talmon, and their fellow workers, who guarded the gates: a total of 172.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	127	017-EST-001-001 This is an account of what happened during the time of King Xerxes, the Xerxes who ruled over 127 provinces from India to Ethiopia.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	180	017-EST-001-004 He put on display his wealth and the glory of his kingdom, showing how majestic, splendid, and glorious he was, for 180 days.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	10	017-EST-003-009 If it please Your Majesty, issue a decree to destroy them, and I will personally contribute 10,000 silver talents to those who carry out the king's business to be placed in the royal treasury.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	127	017-EST-008-009 The king's secretaries were summoned, and on the twenty-third day of the third month, the month of Sivan, they wrote a decree of all of Mordecai's orders to the Jews and to the king's chief officers, the governors, and the nobles of the 127 provinces from India to Ethiopia. They wrote to every province in its own script, to every people in their own language, and to the Jews in their own script and language.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	75	017-EST-009-016 The other Jews in the king's provinces also gathered to defend themselves and get rid of their enemies. They killed 75,000 who hated them, but did not touch their possessions.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	127	017-EST-009-030 Letters expressing peace and reassurance were also sent all the Jews in the 127 provinces of the empire of King Xerxes.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	14	018-JOB-042-012 The Lord blessed the last part of Job's life more than the first part. Now he owned 14,000 sheep, 6,000 camels, 1,000 teams of oxen, and 1,000 female donkeys.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	140	018-JOB-042-016 Job lived 140 years after this, seeing his children, and grandchildren, in fact four generations.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	019-PSA-060-001 For the music director. According to “Lily of the Testimony.” A psalm (miktam) of David, useful for teaching, about the time he fought against Aram-naharaim and Aram-zobah, and then Joab returned and killed 12,000 Edomites in the Valley of Salt. You, God, have rejected us! You have broken us; you have been angry with us; but now you have to welcome us back!	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	185	023-ISA-037-036 Then the angel of the Lord went to the Assyrian camp and killed 185,000 of them. When the survivors woke up in the morning, they were surrounded by dead bodies.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	024-JER-052-028 This is a record of the number of people Nebuchadnezzar took into exile. In the seventh year of his reign he took 3,023 Judeans.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	832	024-JER-052-029 In his eighteenth year Nebuchadnezzar took another 832 from Jerusalem.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	745	024-JER-052-030 In his twenty-third year of Nebuchadnezzar's reign, Nebuzaradan, the commander of the guard, took another 745 Judeans, making a total of 4,600.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	390	026-EZE-004-005 I will make you stay there for 390 days, representing the number of years of their sins. You will bear the sins of the Israelites.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	40	026-EZE-004-006 Once you have finished doing this for these days, then you are to lie down again, but this time on your right side, and carry the sins of the people of Judah. I will make you stay there for 40 days, one day for every year.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	390	026-EZE-004-009 Get some wheat, barley, beans, lentils, millet, and spelt, and mix them together in a storage jar. Use them to make bread for yourself. This is what you are to eat for the 390 days that you lie on your side.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-045-001 When you allocate the land ownership by lot, you are to make a provision for the Lord, a holy allocation of the land that measures 25,000 cubits long and 20,000 cubits wide. This whole area is holy.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	500	026-EZE-045-002 Inside this there is the section for the sanctuary that measures 500 cubits square, with an open area around it 50 cubits wide.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-045-003 From this holy allocation, measure out a section that is 25,000 cubits by 10,000 cubits. This will contain the sanctuary, the Most Holy Place.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-045-005 The other section measuring 25,000 cubits by 10,000 cubits will be assigned the Levites who work in the Temple where they can live.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	5	026-EZE-045-006 Allocate to the city an area 5,000 cubits wide and 25,000 cubits long beside the sanctuary section. It is for the all the people of Israel.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-048-008 Adjacent to Judah's allocation, from east to west, is the special area you are to make provision for. It is to be 25,000 cubits wide, and extend the same length as a tribal allocation from east to west. The sanctuary will be in the middle of it.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-048-009 The special allocation you make is for the Lord and shall be 25,000 cubits by 10,000 cubits.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-048-010 This is to be the holy allocation for the priests. It will be 25,000 cubits long on the north and south sides, and 10,000 cubits wide on the west and east sides. The sanctuary will be in the middle of it.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-048-013 The Levites shall have an area 25,000 cubits by 10,000 cubits adjacent to the allocation of the priests. Its entire length will be 25,000 cubits, and its width 10,000 cubits.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	5	026-EZE-048-015 The remainder, 5,000 cubits by 25,000 cubits, is for ordinary use by the city for houses and pastureland. The city will be in the middle of it,	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	4	026-EZE-048-016 and this will be its measurements: 4,500 cubits on all sides, north, south, east, and west.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	250	026-EZE-048-017 The city's pastureland will surround it for 250 cubits on all sides, north, south, east, and west.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	10	026-EZE-048-018 What remains of the land bordering the holy allocation and running beside it will be 10,000 cubits on both the east side and the west side. The crops it produces will provide food for those who work in the city.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-048-020 The whole allocation will be a square, 25,000 cubits by 25,000 cubits. You are to make provision for the holy allocation, together with the area for the city.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	25	026-EZE-048-021 The land that remains on both sides of the holy allocation and of the area for the city will belong to the prince. This land will be next to the tribal allocations and extend east from the 25,000 cubits of the holy section to the eastern border, on the other side west from the 25,000 cubits to the western border. In the middle of them will be the holy section and the Temple sanctuary.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	4	026-EZE-048-030 These are to be the city exits, starting on the north side, which is 4,500 cubits long.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	4	026-EZE-048-032 There will be three gates on the east side (also 4,500 cubits long): the gates of Joseph, Benjamin, and Dan.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	4	026-EZE-048-033 There will be three gates on the south side (also 4,500 cubits long): the gates of Simeon, Issachar, and Zebulun.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	4	026-EZE-048-034 There will be three gates on the west side (also 4,500 cubits long): the gate of Gad, the gate of Asher, and the gate of Naphtali.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	18	026-EZE-048-035 The distance around the outside of the city will be 18,000 cubits. From that day on the name of the city will be “The Lord Is There.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	040-MAT-014-025 About 3 a.m. Jesus caught up with them, walking on the sea.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	9	040-MAT-020-003 Around 9 a.m. he went out and saw others without work standing in the marketplace.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	040-MAT-020-005 So they went to work. Around noon and 3 p.m. he went out and did the same thing.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	5	040-MAT-020-006 At 5 p.m. he went out and found others standing there. ‘Why are you standing around all day doing nothing?’ he asked them.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	5	040-MAT-020-009 When those who were hired at 5 p.m. came in, they each received one denarius.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) When Jesus rose from the dead on the first day of the week, he appeared first of all to Mary Magdalene, from whom he'd driven out seven demons.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	153	043-JOH-021-011 Simon Peter went aboard and pulled the net full of fish ashore. There were 153 large fish, yet even so the net hadn't torn.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	044-ACT-003-001 Peter and John were on their way up to the Temple at the time of the afternoon prayer, around 3 p.m.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	3	044-ACT-010-003 At about 3 p.m. one day he had a vision in which he saw very clearly an angel of God who came to him and called to him, “Cornelius!”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	2	044-ACT-013-033 that he has now fulfilled to us their children by raising Jesus from the dead. As it is written in Psalm 2: ‘You are my Son; today I have become your Father.’	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	23	046-1CO-010-008 We must not commit sexual sins, as some of them did, and as a result 23,000 died in one day.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	200	066-REV-009-016 I was told the number of the army of soldiers on horseback: it was 200 million.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	066-REV-011-003 I will give my two witnesses power, and they will prophesy 1,260 days, dressed in sackcloth.”	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	066-REV-012-006 The woman ran away into the desert, where God had prepared a place for her, so that she could be looked after for 1,260 days.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	666	066-REV-013-018 Wisdom is needed here. Whoever has understanding should calculate the number of the beast, for it is the number of a man. His number is 666.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	144	066-REV-014-001 I looked, and saw the Lamb standing on Mount Zion. With him were 144,000 who had his name, and the name of his Father, written on their foreheads.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	144	066-REV-014-003 They sang a new song in front of the throne and the four living creatures and the elders. Nobody could learn the song except the 144,000, those who had been redeemed from the earth.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	1	066-REV-014-020 They were trampled in the winepress outside the city. Blood flowed out of the winepress to the height of a horse's bridle, and to a distance of 1,600 stadia.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	12	066-REV-021-016 The city was square. The length was the same as the width. He measured the city with the rod, it was 12,000 furlongs. The length, width, and height were all the same.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	144	066-REV-021-017 He measured the wall and it was 144 cubits thick in human measurements that the angel was using.	WARN
+English---Free-Bible-Version	NUMERALS	Aionian	count	499	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

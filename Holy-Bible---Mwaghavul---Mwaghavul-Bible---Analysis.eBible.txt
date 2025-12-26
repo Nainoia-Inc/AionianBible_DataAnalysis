@@ -1,0 +1,892 @@
+# File Name: Holy-Bible---Holy-Bible---Mwaghavul---Mwaghavul-Bible---Analysis.txt
+# File Size: 153566      
+# File Date: 12/13/2025 05:48:43
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Manji Yiljep
+# Bible Name English: Mwaghavul Sura Bible
+# Bible Language: Sura
+# Bible Language English: Mwaghavul
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Initiative for the Translation and Development of African Languages
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=sur
+# Bible Source Year: 2024
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Mwaghavul---Mwaghavul-Bible	ENCODING	Source	Holy-Bible---Mwaghavul---Mwaghavul-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Mwaghavul---Mwaghavul-Bible	ENCODING	Aionian	Holy-Bible---Mwaghavul---Mwaghavul-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Mwaghavul---Mwaghavul-Bible	BYTES	Source	bytes / chars	686546 / 625086 (multi-byte)	NOTICE
+Mwaghavul---Mwaghavul-Bible	BYTES	Aionian	bytes / chars	717085 / 652151 (multi-byte)	NOTICE
+Mwaghavul---Mwaghavul-Bible	BYTES	SourceClean	bytes / chars	640131 / 582543 (multi-byte)	NOTICE
+Mwaghavul---Mwaghavul-Bible	BYTES	AionianClean	bytes / chars	715175 / 650242 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Mwaghavul---Mwaghavul-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Mwaghavul---Mwaghavul-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Mwaghavul---Mwaghavul-Bible	AIONIAN	Aionian	book-defined-not-exist	177	NOTICE
+Mwaghavul---Mwaghavul-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Mwaghavul---Mwaghavul-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Mwaghavul---Mwaghavul-Bible	AIONIAN	Aionian	aionian-verses	87	NOTICE
+Mwaghavul---Mwaghavul-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Mwaghavul---Mwaghavul-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Summary	(-)Orginal	83	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Summary	(+)Aionian	89	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (M)	2061	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (A)	2863	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (R)	1326	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : ( )	122931	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (1)	4150	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (:)	3811	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin Extended-B : (Ɗ)	728	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (e)	36324	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (s)	15814	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin Extended-B : (ǝ)	31399	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (a)	45152	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (h)	6293	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (p)	8006	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (w)	13103	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (o)	20979	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	IPA Extensions : (ɗ)	16285	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (r)	13294	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (t)	11396	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (n)	43602	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (k)	19985	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (J)	1409	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (u)	20800	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (K)	1427	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (i)	18151	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (N)	2421	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (g)	8853	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	IPA Extensions : (ɓ)	5644	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (m)	27255	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (,)	10835	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (L)	454	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin-1 Supplement: (à)	516	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (.)	5432	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (\n)	3796	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (2)	2440	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (y)	4890	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (l)	8193	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (z)	1880	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (<)	1219	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (f)	2337	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (d)	2218	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (b)	6309	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (3)	1260	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (>)	851	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (4)	1008	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (c)	2175	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ì)	1610	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (j)	2621	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (W)	919	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (-)	657	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (5)	863	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (6)	691	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (7)	633	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (8)	559	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (9)	545	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (G)	439	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (0)	541	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin Extended-B : (Ɓ)	298	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (S)	285	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (P)	1058	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin-1 Supplement: (á)	715	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (B)	388	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (()	91	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : ())	92	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (?)	262	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (v)	387	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (F)	93	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (D)	528	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin-1 Supplement: (í)	146	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (H)	485	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (I)	252	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (T)	1467	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (C)	1813	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (!)	52	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (Y)	403	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ú)	124	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ò)	30	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin-1 Supplement: (é)	35	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (O)	827	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin Extended-B : (Ə)	9	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (E)	834	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ù)	39	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	IPA Extensions : (ɨ)	6	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source(-)	Basic Latin : (V)	405	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	15675	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	4730	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	5063	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	15176	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	2142	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	3074	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	1348	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin Extended-B : (Ɗ)	769	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	38968	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	17060	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin Extended-B : (ǝ)	33512	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	124046	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	49139	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	6885	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	8519	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	14049	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	22402	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	IPA Extensions : (ɗ)	17391	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	14161	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	12172	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	46892	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	21440	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	1486	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	22156	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	1508	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	19761	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	2587	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	9751	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	IPA Extensions : (ɓ)	5958	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	29193	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	11536	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	491	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (à)	579	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	5949	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	3793	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	2541	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	5322	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	8829	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	2072	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	General Punctuation : (“)	848	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	2531	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	2379	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	6798	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	1324	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	General Punctuation : (‘)	91	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	1037	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	588	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	707	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	113	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	General Punctuation : (’)	95	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	General Punctuation : (”)	662	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2358	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ì)	1745	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	2842	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	1426	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	2297	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	893	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	714	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	808	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	475	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin Extended-B : (Ɓ)	308	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	1083	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	320	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (á)	766	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	396	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	429	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (()	179	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : ())	180	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	418	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (F)	98	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (í)	168	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	502	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	278	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	1504	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	1819	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	68	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (Y)	442	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ú)	134	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ò)	31	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (é)	37	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	832	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin Extended-B : (Ə)	11	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	836	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	17	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	12	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ù)	40	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	IPA Extensions : (ɨ)	7	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	1	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	404	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (M)	2061	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (A)	2863	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (R)	1326	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : ( )	122931	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (1)	4150	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (:)	3811	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin Extended-B : (Ɗ)	728	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (e)	36324	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (s)	15814	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin Extended-B : (ǝ)	31399	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (a)	45152	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (h)	6293	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (p)	8006	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (w)	13103	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (o)	20979	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	IPA Extensions : (ɗ)	16285	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (r)	13294	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (t)	11396	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (n)	43602	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (k)	19985	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (J)	1409	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (u)	20800	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (K)	1427	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (i)	18151	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (N)	2421	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (g)	8853	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	IPA Extensions : (ɓ)	5644	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (m)	27255	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (,)	10835	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (L)	454	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (à)	516	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (.)	5432	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (\n)	3796	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (2)	2440	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (y)	4890	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (l)	8193	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (z)	1880	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (<)	1219	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (f)	2337	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (d)	2218	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (b)	6309	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (3)	1260	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (>)	851	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (4)	1008	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (c)	2175	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (ì)	1610	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (j)	2621	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (W)	919	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (-)	657	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (5)	863	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (6)	691	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (7)	633	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (8)	559	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (9)	545	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (G)	439	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (0)	541	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin Extended-B : (Ɓ)	298	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (S)	285	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (P)	1058	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (Z)	30	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (á)	715	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (B)	388	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (()	91	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : ())	92	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (?)	262	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (v)	387	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (F)	93	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (D)	528	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (í)	146	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (H)	485	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (I)	252	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (T)	1467	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (C)	1813	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (!)	52	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (Y)	403	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	1	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	124	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (ò)	30	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (;)	3	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (é)	35	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (O)	827	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin Extended-B : (Ə)	9	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (E)	834	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (U)	28	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (è)	1	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin-1 Supplement: (ù)	39	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Latin Extended-B : (ƙ)	2	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (/)	1	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	IPA Extensions : (ɨ)	6	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNICODE	Source	Basic Latin : (V)	405	NOTICE
+
+# VERSIFICATION
+Mwaghavul---Mwaghavul-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Mwaghavul---Mwaghavul-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	()	91 / 92	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<>	1219 / 851	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Aionian	()	179 / 180	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/0>	MAR 1:2 Kaaɗe gyet mo kǝ ten ran nɗǝǝn ɓǝǝt haal mǝ Aizaya ngusatpwoo Naan sǝ nǝnee, <<Naan wur sat nǝ, an nlep ngulep fen shindǝm a kyeen fwaa, <<mbǝkǝ wur ɗak ar fwaa ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 1:3 Mee gwar kǝ pǝreppee shi ɗoo ɗeɗes a naaryil, >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 1:7 Wur sat ngurum mo nǝnee, <<Mee gwar pǝ jì mɓwoon fen, ɗe, wur ɗes met nghan, kǝ baa ɗeret fen nǝ mak, kǝ nghan ɗoom mbǝkǝ nghan fwen teng kwoopshi wur ɗi kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 1:8 Wen kǝn cìn baptisma nwun a shi am, ɗangɓǝ gwar nǝ wur njì ɓe wur ncìn baptisma nwun a shi Riin Ɗeɓang.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 1:41 Jesu naajeel gwar nǝ, ɓe wu zan sar fin, wu tung gwar nǝ, ɗang wur sat ngwar nǝ nǝnee, <<wen nlap ii, aa bar.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 2:8 Abet, ɓe Jesu man mbii ɗe moo pan nǝ nɗǝǝn pǝtuup fur mo, ɓe wur sat mmo nǝnee, <<A mi le ɗang wuu pan mbii ɗesǝ mo nɗǝǝn pǝtuup fuu mo ye?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 2:19 Jesu lap mmo nǝnee, <<Wu yee nǝ, nǝn mmak cìn kǝ mǝzep ɗe mo a pee serǝɓet mǝ ɗyik, mon ntong kǝ neen, ɓe mish kǝ matpoo nǝ wur ɗe ashak kǝ mo me? Katɗang mish matpoo nǝ wur kuɗi ashak kǝ mo, ɓe baa mon mmak wet kǝ neen kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 2:22 Kǝzak, baa mee gurum mak ɗoo am anab ɗepoo nɗǝǝn tuulshim ɗesǝǝr mo kas. Katɗang wur cìn kǝsǝ, ɓe am anab ɗepoo nǝn mpyan tuulshim ɗesǝǝr nǝ mo, kǝ am anab nǝn mɓeer, kǝ tuulshim nǝ mon ntee zak. Amma moo ɗoo am anab ɗepoo a nɗǝǝn tuulshim ɗepoo mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 2:25 Jesu lap mmo nǝnee, <<Ashee, baa wuu cam tang mbii ɗe mo ran nɗǝǝn ɓǝǝt haal Naan nkaa mbii ɗe gyet Devit, kǝ nenyil ɗe mo ashak kǝ wur mo cìn, kaaɗi gyet neenláa wur kǝ nenyil ɗe mo ashak kǝ wur kas se?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 2:26 Gyet wur ɗel nɗǝǝn Lu Naan ɗǝǝɗes, ɓe wur mang gǝǝl aas ɗe mo kǝ ten shin nǝn nNaan, wur se, kǝ wur shin pak nenyil ɗe mo ashak kǝ wur. Gǝǝl aas ɗe baa a mee gurum buu mak se nǝ kas, see a pris mo ɗak. Gyet wur ɗel Lu Naan ɗǝǝɗes nǝ a mɓít ɗe Abiyata wur a pris ɗǝǝɗes met jir.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 2:27 Jesu sat mmo nǝ, <<Mo le parpuus Nookɗi nǝ a mbe gurum, baa mo le a gurum mbe parpuus Nookɗi nǝ kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 2:28 Ɗesǝ nǝ kám nǝ, Làa Gurum, wur a Daa mǝ puus Nookɗi nǝ zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 3:23 Jesu pǝrep mo jì kus, ɓe wur sat Sǝmpwoo mo nǝnee, <<Cinarang ɗangɓe ngujwaan nwaa ceen ngujwaan put yi?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 3:28 <<Azeen, kǝn sat nwun nǝ, shikbish ɗe gurum moo cìn, kǝ pwoo ɗebish ɗe moo sat, ɓe Naan wur nfwo shikbish mǝnǝn ngurum mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 3:29 Ɗangɓǝ katɗang mee gwar cìn shikbish, nkaa Riin Naan, ɓe baa Naan nfwo gwar mǝnǝ kas, mɓe vit. Mɓeɗi wu cìn a shikbish ɗe baa Naan cam fwo nǝ nwur kas har ngaa-ngaa.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 3:34 Ɓe wur lyap nen ɗe moo tong neer wur cǝǝrkaat, ɓe wur sat mmo nǝnee, <<Wu naa, a nǝǝn fen, kǝ ɗyemnǝǝn fen mon nɗesi!	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 3:35 Ngwar ɗewur cìn ɗyen kǝ Naan, ɓe a gwar mǝnǝ a ɗyemnǝǝn fen ɗemish, kǝ ɗyemnǝǝn fen ɗe mat, kǝ nǝǝn fen zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 4:3 <<wu lekom! Gyet mee ngumaar wur put dǝm mɓe ɓwet cirem mɓut mmaar.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 4:8 Pak cirem nǝ mo taa nkaa yil ɗeret, ɓe mo kàa wurang rǝret, kǝ mo le àa ɗes. Memee le àa mo laarkun, kǝ memee le mo laarpeemee, kǝ memee le mo kambil.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 4:11 Jesu sat mmo nǝ, <<Naan shin man nwun, mbǝkǝ wur manshii kǝ mbii ɗe mo a sǝsok mǝ mulki Naan, amma pee nen ɗe atǝlǝng mo, ɓe moo kǝlǝng mbii ɗesǝ mo jir a shi sǝmpwoo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	MAR 4:12 Mbǝkǝ koo >	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 4:13 Jesu tal pǝ mo nǝnee, <<Baa wuu manshii sǝmpwoo ɗesǝ nǝ kas aa? Cinarang ɗang wun mmanshii kǝ koor sǝmpwoo nǝ mo yi?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 4:20 Pak gurum mo a kaa cirem ɗe mo ɓwet mo nkaa yil ɗeret sǝ, ɗe mo kǝlǝng pwoo Naan nǝ. Ɓe mo lap nǝ, ɓe pwoo Naan nǝ cìn ɗak ɗes nɗǝǝn pǝtuup fur mo, kaa cirem ɗe nǝ làa-làa mo ɗes sǝ. Pak mo làa-làa laarkun, pak mo laarpeemee kǝ pak mo kambil.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 4:21 Jesu sat mmo nǝnee, <<Kyet mee gurum nle wus nfitila, ɗang wur waa mang ɗaa ɗeɗes paa nǝ ɗi wa? Koo wur waa le nǝ nder peesaam wa? Amma wur nle nǝ aɗeng pee, a pee le fitila.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 4:23 Ngwar ɗewur kǝ kom mǝ kǝlǝngpee, ɓe nǝ ret kǝ wur kǝleng.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 4:24 Wur sat mmo zak nǝnee, <<Wu cìn pan nkaa mbii ɗe wuu kǝlǝng mo. Shi ɗaa ɗe wuu kám mbii ɗe ngurum mo, ɓe mon nkám mbii mo wun a shi shik zak, ɓe nǝn ngam met mumo nǝ zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 4:25 Koo ɗang weyi ɗewur kǝ mbii, ɓe mon ncin ɗyikǝ nwur. Ɗangɓe gwar ɗe baa wur kǝ mee mbii kas, ɓe mon nsǝǝt nwaa yaa wur kǝ rep mbii ɗewur kǝ nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 4:26 Jesu sat zak nǝnee, <<Mulki Naan nǝ a kaa mee gwar ɗe wu ɓwet cirem ɗǝɓen mɓut mmaar sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 4:29 Kaaɗe ɗǝɓen nǝ nung, ɓe wur mang cuk dǝm ɗiip ɗǝɓen nǝ abet, mbǝɗe pee mak ɗiip nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 4:30 Jesu sat nǝnee, <<Mun nkám mulki Naan nǝ a kaa me sǝ yi? Kǝ mun nkám nǝ a shi sǝmpwoo ɗeɗangyii?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 4:32 ɓe nǝ yool wurang, ɓe nǝ ɗee a tǝng ɗeɗes zam. Nii put song ɗenan-nan mo, ɓe nyer mo jì le tish fur mo mɓut riin ni.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/1>	MAR 5:41 Ɓe wur yaa sar laareep nǝ, ɓe wur sat nwar nǝnee, < ɗe shii mǝnǝ a nǝ, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 6:2 Kaaɗe parpuus Nookɗi nǝ wul, ɓe wur yaa kám-kam ngurum mo, nɗǝǝn lu Naan. Gurum mo ɗes mo kǝlǝng wur, nǝ aapwoo mmo, ɓe mo sat nǝnee, <<Gwar ɗesǝ wur kat mbii ɗesǝ mo jir a nneyi? Mo shin a seen ɗeɗang ngwar ɗesǝ ye? Ɗe nǝ le kǝ wur cìn mbii aapwoo ɗenan-nan sǝ mo yi?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 6:3 Baa a ngu pwas shyeep sǝ nɗesǝ kas aa? Ɗyem kǝ Meeri, ɗe ɗyemnǝǝn wur mo a Jemis, kǝ Josep, kǝ Judas, kǝ Simon kas aa? Ɗe ɗyemnǝǝn wur ɗe mat sǝ mo, ashak kǝ mu zak, kas aa?>> Mbǝmǝnǝ ɓe mo langtuup kǝ wur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 6:8 Wur sat mmo shiɓal nǝnee, <<Taji wu mang mee mbii mbǝ mwaan nǝ kas, koo gill aas, koo kuluk, koo shool nɗǝǝn daam fuu mo kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 6:11 Koo pee ɗeɗangyi ɗe baa mo lap wun kas, kǝ baa mo kǝlǝng pwoo fuu kas zak, ɓe katɗang wun a ar put mbe nǝ, ɓe wu ɓwap ǝrong ɗe nǝn nkaa shii fuu mo, mbǝkǝ nǝ ɗee ɗe a langtǝng nkaa nenyil nǝ mo, nǝ mo cii lap wun.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 6:35 Kus yak puus nru, ɓe jeplep nwur mo jì sat nwur nǝnee, <<A naa puus nǝ kus kǝ ru, ɗang pee ɗesǝ nǝ a naaryil ɗe baa tul gurum mo ɗi kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 6:36 A sat ngurum nǝ mo dǝm, mbǝkǝ mo dǝm ɗe nɗǝǝn tul nenmaar mo, kǝ jepyil ɗe mo neer pee ɗesǝ cǝǝrkaat, mo seet mbiise ɗe shikáa fur.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/0>	MAR 7:6 Jesu lap mmo nǝnee, <<Wun nen mwaan ndang Naan shi pǝtuup vǝl-vǝl mo. Gyet Aizaya wur satpwoo nkaa wun azeen nǝnee, <Nen ɗesǝ moo shin ɗeɗes nghan a shi mǝshpwoo fur mo. Amma pǝtuup fur mo jong kǝ an.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 7:8 Wuu yit Wàar Naan, kǝ wu ɗyel a Wàar ɗe gurum moo loot kǝ cìn nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 7:9 Wur sat mmo zak nǝnee, <<Wun kǝ mee ar seen mbe cii Wàar Naan mo, mbǝkǝ wu ɗyel kám fuu mo ɗe.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	MAR 7:11 Amma wuu kám ngurum mo nǝ, <Katɗang gurum wu kǝ mee mbii ɗe nǝ ret kǝ wu ɓam puun wur ɗe, koo nǝǝn wur shi shik, ɗangɓe wu sat nǝ, nǝ a Korban, (ɗe shii mǝnǝ nnǝ, nǝ a mǝ Naan).	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 7:13 A mɓe kám fuu ɗesǝ mo, ɓe wuu lepwoo Naan ɗee a mbii ɗebuu, kǝ mbii mo ɗes ɗe wuu cìn mo aasǝ zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 7:14 Jesu waa baa pet ɗuu gurum nǝ mo, ɓe wur sat mmo nǝnee, <<Wu lekom, kǝ wur kǝlǝng mbii ɗe an nsat ɗi, kǝ wur manshii nǝ ɗe zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 7:15 Baa mee mbii ɗe gurum kǝ se mpwoo, nǝn nle kǝ gurum ɗee a mbii ɗebish (nyaknkap) nyit Naan kas, amma a mbii ɗe moo kàa pwat mpwoo gurum, a mǝnǝ moo ke le gurum ɗee a mbii ɗebish (nyaknkap) nyit Naan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 7:18 Jesu sat mmo nǝnee, <<Baa wun wu manshii nǝ kas zak aa? Wu man nǝ, koo a mbii ɗeɗangyi ɗe gurum se, ɓe baa nǝn mmak le gurum ɗee a mbii ɗebish (nyaknkap) nyit Naan kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 7:19 Mɓeɗi mbii ɗe gurum se, ɓe baa nii ɗel sham a nɗǝǝn pǝtuup wur kas, amma nii ɗel sham a nɗǝǝn ɓut nwur, ɓe wu ndem kǝn nǝ nɗyes.>> Jesu satpwoo ɗese, a mbǝkǝ wur kám ɗe nǝ, baa mee mbiise mak le gurum ɗee a mbii ɗebish (nyaknkap) nyit Naan kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 7:20 Jesu sat zak nǝnee, <<A mbii ɗe moo kàa pwat nɗǝǝn pǝtuup gurum, a moo le gurum a mbii ɗebish (nyaknkap) nyit Naan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 7:23 A mbii ɗebish ɗesi mo jir, ɗe moo pwat nɗǝǝn pǝtuup gurum, a mǝnǝ moo ke le gurum ɗee a mbii ɗebish (nyaknkap) nyit Naan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 8:2 <<Wen naajeel ɗuu gurum sǝ mo, mbǝɗe mo kǝ cìn teer kun ashak kǝ an nɗesi, ɗang baa mo kuɗi kǝ mbiise kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 8:3 Katɗang wen ɓwet mo shindǝm ntul fur mo kǝ neen, ɓe mon ntaa muutleet a ar, mbǝɗe pak mo pwat a mpee ɗejong.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 8:17 Jesu man mbii ɗe moo ɓeet nǝ, ɓe wur sat mmo nǝnee, <<A me le ɗang wuu ɓeet nnǝ, baa wun kǝ gǝǝl aas kas yi? Tan, har yaksǝ ɓe baa wu naashii nǝ kǝ wu man kas aa? Pǝtuup fuu nǝ mo ɗee a ɗeɓal ɗe mo cíi manshii kǝ nǝ me?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/3>	MAR 8:19 Gǝǝl aas ɗepaat sǝ mo, ɗe di an yilang nshin ngurum mo ngal paat mo se sǝ. Ɓe di wu kok koor gǝǝl aas ɗe nǝ ɗee ɗe, ɓe di nǝ gam kǝcik mo a kong ye?>> Mo lap nǝ, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/1>	MAR 8:28 Jeplep nwur mo lap nǝnee, <<Pak gurum nǝ moo sat nǝnee, ɗang pak moo sat zak nǝnee, Pak moo sat nǝnee, >	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 8:34 Jesu pǝrep ɗuu gurum nǝ mo ashak kǝ jeplep wur nǝ mo, ɓe wu sat mmo nǝnee, <<Katɗang mee gurum rǝɓet jì nɗang an, ɓe naa tǝng wur cii shin kǝ wur ɗakshin ɗe mɓe shwaajeel, nǝn nɗee a kaa wur mang a shiyeepmúut fin, kǝ wur jì ɗe nɗang an sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 8:38 Koo gwar ɗeɗangyi ɗe naashwoop yaa wur mɓe nghan, kǝ kám fen mo nyiicinsǝ, ɗe nǝ a mǝ nenɓutbish mo, kǝ nen ɗe baa mo man Naan kas. Ɓe Làa Gurum, wur ncìn naashwoop kǝ gwar nǝ zak, parpuus ɗe wu njì nɗǝǝn ɗeɗes mǝ puun wur ɗe ashak kǝ nenlep Naan ɗeɓang mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	MAR 9:11 Mo tal pǝ Jesu nǝnee, <<A me le ɗang nenkám Wàar Mosis mo sat nǝnee, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 9:12 Jesu lap mmo nǝnee, <<Ilaija wur nshee jì, mbǝkǝ wur ɗak mbii mo ɗe reret jir. Ɓe a me le ɗangɓe mo kǝ ten ran nǝ, Làa Gurum wur nshwaajeel mo ɗes shini-shinǝ mon mɓák wur, kǝ le wur a ɗebuu yi?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 9:13 Amma wen sat nwun nǝ, Ilaija wur kǝ ten jì, kǝ mo kǝ cìn mbii ɗe mo rǝɓet kǝ wur jir, kaaɗi mo kǝ ran nɗǝǝn ɓǝǝt haal Naan nkaa wur sǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 9:17 Ɓe mee gwar mɓut ɗuu gurum nǝ mo wur lap nǝnee, <<Ngukám, wen jì kǝ làa fen pee gha ɗe, mbǝɗe wur kǝ riin ɗebish, ɗe nǝ kǝ cíi leshap nwur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 9:18 Tong ɓe nii jì yool yaa wur karmat, ɓe nii mang wur shweer nyil, ɗang tǝfil kǝ jì put nwur mpwoo, ɗang wur kǝ sǝm oos, ɗangɓe nii le kǝ fwoshik wur nǝ fii. Wen ɗang pǝ jeplep fwaa mo, mbǝkǝ mo ceen riin ɗebish nǝ put ɗe, amma baa mo mak kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	MAR 9:21 Jesu tal pǝ puun làa nǝ nǝnee, <> Puun nǝ wur lap nǝnee, <<Pǝgyet wur kuɗi a làa ɗelee.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 9:22 Nii naa mang wur vwet nɗǝǝn wus, kǝ nɗǝǝn am zak, mbǝkǝ nǝ tu wur ɗi. Amma katɗang gha mak cìn mee mbii, ɓe a naajeel fen, kambok a ɓam mun.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 9:39 Amma Jesu sat mmo nǝnee, <<Taji wu cíi nwur kas. Mɓeɗi baa mee gurum mak cìn mee mbii aapwoo shi sǝm fen, ɗangɓe wur waa ciir satpwoo ɗebish nkaa an kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 9:41 Azeen nzeen kǝ sat nwun nǝ, koo gwar ɗeɗangyii, ɗewur shin am nwun shwaa, mbǝɗe wun a mu Kristi mo, ɓe gwar mǝnǝn nlap kwat nǝ hakyeng.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 9:42 <<Koo gwar ɗeɗangyi ɗewur le kǝ memee mǝndong nɗǝǝn jep sǝ mo, ɗe mo shinzeen an, mo cìn shikbish, ɓe nǝ nret met kǝ mo ɗyiin mee fin ɗyees ɗak ɗetoon ntook gwar mǝnǝ, kǝ mo vwet wur ɗe nɗǝǝn am kuur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 9:49 <<Mon ncìn ɗak shi wus, mbǝkǝ mo le gurum mo pan shee ret ɗe jir, kaaɗi moo le kǝǝn nkaa mbii, mbǝkǝ taji nǝ wam kas sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 9:50 Kǝǝn nǝ a mbii ɗeret, ɗang ɓe katɗang baa kǝǝn nǝ kuɗi kǝ shang kas, ɓe mon nɗak nǝ a shi me, mbǝkǝ nǝ waa shang ɗe yi? Wun jeplep fen mo, wu tongryang kǝ shak, kaa kǝǝn ɗe baa nii ɓàkshak kǝ shang nǝ kas sǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:5 Jesu sat mmo nǝnee, <<A mbǝɗe wun a nen cíishik mo, a nǝ le ɗang gyet Mosis ran Wàar ɗesǝ mo nwun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	MAR 10:7 <Mɓǝmǝnǝ ɓe gurum wur nyit puun kǝ nǝǝn wur mo, mbǝkǝ wur ɓalkaa wur ɗe ashak kǝ mat wur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	MAR 10:8 Ɗangɓe mo weet, mon nɗee a nan ɗemǝndong. Aɓwoon ɗese, ɓe baa mo kuɗi a gurum mo vǝl kas, amma moo ɗee a nan ɗemǝndong.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:9 Mbǝmǝnǝ, ɓe nen ɗe Naan wur kǝ ten ɓàl mo ashak, ɓe taji mee gurum ɓàk mo kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:11 Ɓe wur sat mmo nǝnee, <<Koo gwar ɗeɗangyi wur ceen mat wur, mbǝkǝ wur lap mee mat ɗecì ɗi, ɓe gwar mǝnǝ cìn a ngaa nkaa mat wur ɗe mmǝnǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:12 Kǝ katɗang ɓe, mee mat war yit mish war, mbǝkǝ war dǝm ɗyik ɗe mmee gwar ɗecì, ɓe war cìn a ngaa mmǝnǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:14 Amma kaaɗi Jesu naa mǝnǝ, ɓe nǝ làa nwur mɓut, ɓe wur sat jeplep mu mo nǝnee, <<Wur yit kǝ jep ɗe ɗyeen-ɗyeen mo jì pee an ɗe, taji wur daam mo kas. Mɓeɗi mulki Naan nǝ a mɓe nen ɗe mo kǝ mǝse kaa mǝ jep ɗe ɗyeen-ɗyeen mo sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:15 Azeen-nzeen sat nwun nǝ, koo weye ɗe baa wur le Naan a ɗeɗes nɗǝǝn pǝtuup wur shi mǝse ɗe nǝ kaa mǝ jep ɗeɗyeen mo sǝ kas, ɓe baa wur mmak ɗel nɗǝǝn mulki Naan kas, koo dǝɓen.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:18 Jesu lap nwur nǝnee, <<A me le ɗang a pet an a Ngukám ɗeret yi? Baa mee gurum ɗe a ɗeret kas, see a Naan mbǝshin ɓejee ɗak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:19 Gha man mbii ɗe Wàar Mosis nǝ mo sat jir nǝnee, >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:24 Kaaɗe jeplep wur mo kǝlǝng pwoo mǝnǝ, ɓe nǝ aapwoo mmo zam. Jesu baa sat mmo zak nǝnee, <<Jep fen mo, nǝ luk, kǝ gurum wur ɗel nɗǝǝn mulki Naan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:25 Ngyal ɗesǝ ɓe raakumi nkǝlak ɗel nɗǝǝn fung ngilili, met aku ɗe ngulong wur ndel nɗǝǝn mulki Naan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:29 Jesu sat mmo nǝnee, <<Azeen kǝn sat nwun, koo a gwar ɗeɗangyi ɗewur yit tul, koo ɗyemnǝǝn ɗemish mo, koo ɗyemnǝǝn ɗe mat mo, koo nǝǝn, koo jep mo, koo mmaar, mɓe sǝm fen, kǝ mɓe pwoo ɗeret,	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:31 Pak gurum ɗenshee mo ɗes, mon nyool ɗee a nen ɗe aɓwoon mo. Nen ɗe aɓwoon mon nyool ɗee a nen ɗenshee mo zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:33 Nǝnee, <<Wu naa, mun a ar kàa nJerusalem nɗesi, katɗang mu wul, ɓe mon nseet Làa Gurum nɗǝǝn sar pris ɗenan mo, kǝ nen kám Wàar kǝ Mosis mo, ɗang mon ncanɗyeel muut nwur. Mon nshin wur nsar nen ɗe baa mo a nen Yahudi mo kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:34 Kǝ mon nshwar wur, mon ntwas lii nkaa wur. Mon nfwo nɓwat nwur, mon ntu wur zak, ɗangɓe parpuus ɗekun, ɓe wur nyool a peemúut.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:38 Jesu sat mmo nǝnee, <<Baa wur man mbii ɗe wuu ɗang nǝ kas. Wun mmak shwaajeel ɗe nghan nshwaa nǝ aa? Wun mmak lap baptisma ɗe mon ncìn nghan nǝ aa?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	MAR 10:39 Mo lap nǝnee, <> Ɗangɓe Jesu sat mmo nǝnee, <<Azeen wun mmak nshwaajeel ɗe wen nshwaa nǝ, kǝ baptisma ɗe mon ncìn nghan nǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:40 Amma mbe shin pee nwun tong nsarse fen, kǝ nsarkul fen, baa an kǝ ɓal ɗe an ncin mǝnǝ nwun kas. Amma nǝ a mɓee nen ɗe Naan wur kǝ ten ɗak nǝ le mbe mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 10:42 Jesu pǝrep mo jì ashak jir, ɓe wur sat mmo nǝnee, <<Wu man nǝ, a mishkom nen ɗe baa mo a nenyil Yahudi mo kas, moo lesut fur mo a ɗeɗes nkaa nen fur mo, kǝ nennan fur mo, moo kám iiko fur mo zam, nkaa gurum nǝ mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 10:45 Baa Làa Gurum wur jì a mbǝkǝ gurum mo cìn ɗak ɗe nwur kas, amma a mbǝkǝ wur cìn ɗak ɗe ngurum mo, kǝ wur shin seen fir ɗi mbe ang gurum mo ɗes zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 11:2 Wur sat mmo nǝnee, <<Wur dǝm nɗǝǝn laayil ɗe nǝ a kyeen fuu sǝ. Katɗang wu wul, ɓe abet, wun nkat mee làa jaaki ɗe a ɗiɗiin, ɗe baa mee gurum kǝ cam lang nkaa nǝ kas. Ɓe wur shang wur jì kǝ nǝ mpesi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/3>	MAR 11:3 Katɗang mee gurum tal pǝ wun nǝnee, Ɓe wur sat nǝ, a Daa wur kǝ rǝɓet nǝ. Aɓwoon ɓe wu mbaa lep nǝ shi jì abet.> >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 11:9 Nen ɗe mo akyeen, kǝ ɗe mon mɓwoon Jesu, mo ɗyeep ɗoo fur mo sat nǝnee, <<Hosana! Daa le ɗeret nkaa gwar ɗewur jì nɗǝǝn sǝm Daa!	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 11:10 Naan le ɗeret nkaa mulki ɗe mu puun fun Devit nǝ, nii jì wul. Hosana Naan nɗǝǝn mulki fin.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 11:22 Jesu sat mmo nǝnee, <<Wu shinzeen nNaan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 11:29 Jesu lap mmo nǝnee, <<Wen kǝn rǝɓet tal mee mbii pǝ wun ɗe zak. Katɗang wu lap nghan, ɓe an nsat nwun iiko ɗe nghan kǝn cìn mbii ɗesǝ mo shi shik zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 11:30 Kyet gyet a Naan lep Joon mbǝkǝ wu jì cìn baptisma ɗe ngurum mo aa? Aa koo gyet a gurum mo lep wu yi? Wu lap nghan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 11:31 Mo ɓeet ɓwet nshak nǝnee, <<Katɗang mu sat nǝ, Gyet a Naan lep wur shin ji, ɓe wur nsat nǝnee, 	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 11:32 Ɗangɓe katɗang mu sat nǝ, gyet a gurum lep Joon jì, ɓe gurum nǝ mon nlangtuup.>> Moo kǝǝr gurum mo, mbǝɗe gurum nǝ mo jir moo le Joon a ngusatpwoo Naan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 12:1 Jesu ɗoom sat pwoo ngurum mo shi sǝmpwoo mo nǝnee, <<Gyet mee ngulu wur kop anab mo mbong wur, ɓe wur neer nǝ shi kok, wur ɓwan mee tuun mɓe ɗwat làa tǝng anab nǝ, kǝzak, wur ɗyik mee ɗengpee mɓe naa anab nǝ. Ɗangɓe wur yit mar nǝ nsar mee kǝ nennaa mar mo, mbǝkǝ mo naa bong nǝ ɗe nwur. Aɓwoon mǝnǝ, ɓe wur yool dǝm mmee yil.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/0>	MAR 12:10 Baa wuu cam tang pwoo ɗe mo kǝ ten ran nɗǝǝn ɓǝǝt haal Naan sǝ kas me? Ɗe nǝ sat nǝnee, <<nGhǝk ɗe nen ɗyiklu mo cii nǝ, <<Ɓe a nǝ ɗee a ɗeɗes nɗǝǝn kwang lu nǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/2>	MAR 12:11 Ɗesǝ nǝ a ɗak ɗe Daa wur kǝ ten cìn; < >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 12:19 <<Ngukám, Mosis kǝ ran mmun nǝ, katɗang mee gurum muut seet yit mat wur ɗi, ɗe baa war làa-làa nwur kas, ɓe nnǝ mee ɗyemnǝǝn wur lap matkaa nǝ, mbǝkǝ wur làa-làa mo ɗe nɗyemnǝǝn fin ɗe wu kǝ ten muut nǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 12:23 To, katɗang parpuus yool a peemúut, ɓe war kǝ nɗee a mat we nɗǝǝn mo pwovǝl sǝ ye? Mɓeɗi mo jir, mo kǝ lap war mmat.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 12:24 Jesu sat mmo nǝnee, <<Wun wuu ɗel ɗikǝ, mbǝɗe baa wu man mbii ɗe mo kǝ ten ran nɗǝǝn ɓǝǝt haal Naan kas, kǝ baa wu man ɗeɗes Naan kas zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 12:27 Baa wur a Naan mu nenmuut mo kas, amma a mǝ nen ɗe mmeen mo. (Ɗesǝ nǝ kám nǝ koo ɗe mo kǝ ten murap ɓe mo ɗe kǝ seen pee Naan.) Wun wu ɗel ɗikǝ bish-bish hakyeng!>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/0>	MAR 12:29 Jesu lap nwur nǝnee, <<A Wàar ɗeɗes met nǝ nɗesi, <Wun nen Isreil mo, wur kǝleng. Daa Naan fun, a wur a Daa mǝndong ɓejee.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	MAR 12:30 A wal nDaa Naan fwaa shi pǝtuup fwaa jir, shi seen fwaa jir, kǝ shi pan fwaa jir, kǝ shiɓal fwaa jir.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 12:31 Ɗe vǝl nǝ a kaa mǝnǝ sǝ zak nǝnee, Baa mee Wàar ɗe waa ɗes met ɗe vǝl sǝ mo kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 12:32 Ngukám Wàar Mosis nǝ wur sat nJesu nǝnee, <<Azeen Ngukám, a sat a rǝret. Daa Naan wur a mǝndong ɓejee ɗak, baa memee ɗe kas, see a wur mbǝshin.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 12:33 Kǝ nǝ a tǝng kǝ gurum nwal nwur shi pǝtuup fin jir, kǝ shi pan fin jir, kǝ shiɓal fin jir, kǝ gurum nwal ngǝnǝǝn fin kaa shin fin sǝ zak. Wàar ɗe vǝl sǝ mo ret met nlong ɗe gurum moo shin mbe wus mbiizuum, kǝ koor mbiizuum ɗe gurum moo shin mon nNaan jir.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 12:35 Kaaɗe Jesu nkaa kam-kam ngurum mo nɗǝǝn Lu Naan ɗǝɗes, ɓe wur tal pǝ mo nǝnee, <<A me le ɗangɓe nenkám Wàar Mosis moo sat nǝ, 	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 12:37 Devit pet Kristi a Daa fin, ɓe cirang ɗang Kristi wu waa ciir ɗee a Làa Devit zak ye?>> Ɗuu gurum nǝ mo kǝlǝng wur shi retnyit.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 12:38 nƊǝǝn kám Jesu, ɓe wur sat ngurum nǝ mo nǝnee, <<Wu tap kǝ kam nenkám Wàar Mosis mo. Mo a nen ɗe moo jwal nlǝr ɗeshwal-shwal mo, kǝ moo mwaan mbǝkǝ gurum mo naa mo ɗi. Moo rǝɓet kǝ gurum mo tok kǝ mo nɗǝǝn lutuk.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 12:40 A moo yak matkaa mo kǝ lee fur mo, kǝ moo ɗangnaan (leshap kǝ Naan) ɗeshwal-shwal mo shi nyang zak, mbǝkǝ gurum mo kwoop mo ɗi. Mɓee mbii ɗebish ɗe moo cìn ɗesǝ mo, ɓe Naan wur ncin kwat ɗeshwal mo ɗes hakyeng.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 12:43 Jesu pǝrep jeplep wur nǝ mo jì ashak, ɓe wur sat mmo nǝnee, <<Azeen kǝn sat nwun, mbii ɗe matkaa ɗejeel ɗesǝ waa ɓwet nɗǝǝn kwati mǝ ɓwet mbiizuum nǝ, nǝ met mǝ koor gurum nǝ mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 12:44 Mɓeɗi nen ɗesǝ mo jir, mo ɓwet mbiizuum nǝ a mɓut nɗes mǝ long ɗe mo kǝni, ɗangɓǝ war nɗǝǝn jeel war, ɓe war sǝhǝt ɓwet a kyes kǝ mbii ɗe war kǝ nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 13:5 Jesu ɗoom sat mmo nǝnee, <<Wu tap, taji mee gurum ngwam wun kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 13:9 <<Ɗangɓe wu tap kǝ káa fuu, mbǝɗe gurum mon nyool sǝrep wun nsar kǝ nentokɗyeel mo, kǝ mon nnǝram wun nɗǝǝn lu Naan mo. Mon ndǝm kǝ wun ntoom gofna, kǝ mishkoom mo, mbe sǝm fen. Ɗesǝ nǝn nle kǝ wun katpee satpwoo ɗeret nǝ ɗe ntoom mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 13:13 Gurum mon ncii wun jir, mɓe sǝm fen. Ɗangɓe gwar ɗe wu gung har peekyes nǝ, ɓe a wur nkat ɓam.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 13:14 <<Ɗangɓe katɗang wu naa mbii ɗebish, ɗe nii watpee ɗee buu, nii ɗar a peeɗi baa nǝ ret kǝ nǝ ɗar ɗe kas. (Ngwar ɗewur tang pwoo ɗesǝ ni, ɓe nǝ ret kǝ wu manshii nǝ). Ɓe nenyil ɗe mo nɗǝǝn Judiya, mo swe dǝm mɓut jwak mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 13:21 <<Katɗang mee gurum sat nwun nǝnee, Koo ɗang nnǝ, Ɓe taji wu shinzeen mpwoo mǝnǝ kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 13:23 Amma wu tap kǝ káa fuu mo. Wen kǝn satpwoo ɗesǝ mo nwun nshee akuɗang pee nii wul.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 13:24 <<Aɓwoon kǝ jeel mǝnǝ mo, ɓe puus nǝn ncǝǝr ɗee a peenkoo, kǝ baa tar nǝn mɓangpee kas, nɗǝǝn teer mǝnǝ mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 13:27 Ɓe wur nlep nenlep Naan mo, mbǝkǝ mo dǝm kok nen ɗewur kǝ ten bǝlǝp mo kuur ashak, nɗǝǝn kwang ɗe feer mǝ yil nǝ. Yaa mpeeɗar kǝ yil nǝ jir, ɓe dǝm wul mpeeɗar kǝ ɗeng nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 13:28 <<Wu yit kǝ tǝngkyeen nǝ ɗee a mbiikám pee wun ɗi. Katɗang song tǝngkyeen nǝ mo ɗoom put kǝ kompee ɗepoo, ɓe wu man nǝ, tarlok nǝ kus mmǝnǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 13:31 Ɗeng kǝ yil mon nɗel dǝm weet, ɗangɓǝ baa pwoo fen mmak cam ɗel dǝm kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 13:32 <<Baa mee gurum mak man puus mǝnǝ, kǝ pee nǝ kas, koo a nenlep Naan ɗe aɗeng mo, kǝ koo a Làa nǝ shikáa fin, ɓe baa wur man kas, amma see a puun ɓejee ɗak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 13:37 Mbii ɗe wen sat nwun, ɓe an kǝn sat a ngurum mo jir mmǝnǝ nǝ, wu tong shi gongpee.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:4 Amma nǝ láa mpak gurum ɗe mo ɗe mɓut, har mo satpwoo kǝ shak nǝnee, <<A me le ɗangɓe moo tǝkook kǝ mwoor ɗesǝ aasǝ yi?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:5 Ɗe nǝ ret kǝ mo seet kǝ mwoor ɗesǝ nǝ nkaa shool zinariya ɗe nǝ met kambil kun, mbǝkǝ mo shin shool nǝ ɗe nenjeel mo.>> Pak gurum nǝ mo gwak mat nǝ war, shi tuup.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:6 Amma Jesu sat mmo nǝnee, <<Wu yit war ɗi. A me le ɗang wuu daampee nwar yi? War cìn a ɗak ɗeret nghan hakyeng.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:9 Azeen kǝn sat nwun nǝ, koo a pee ɗeɗangyi nɗǝǝn yil ɗesǝ jir, ɗe mon nsatpwoo ɗeret ɗesǝ ni, ɓe mbii ɗe mat ɗesǝ war cìn nghan, ɓe mon nkǝǝ sat nǝ mɓe pan war.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:13 Jesu lep memee mo vǝl nɗǝǝn jeplep fin mo, wu sat mmo nǝnee, <<Wu ɗel nɗǝǝn yilkaam ni, ɓe wun nkat kǝ mee gurum ɗewur kǝ tuul am nkáa, ɓe wu dǝm nɗang wur,	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:15 Ngulu nǝ wur nkám mee luɗeng ɗeɗes nwun, ɗe mo kǝ ɗakle. Ɓe wu ɗak mbiise nǝ mmun, nlu mǝni.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:20 Wur sat mmo nǝnee, <<A memee nɗǝǝn wun ɗe kaapaat baavǝl sǝ mo. A gwar ɗewur sham kǝ gǝǝl aas nsar mbǝ lep mpuk nɗaa kǝ an.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:21 Mɓeɗi Làa Gurum, wur mmuut a kaaɗi mo kǝ ten ran nɗǝǝn ɓǝǝt haal Naan nkaa wur sǝ. Amma jeel nǝn ntaa nkaa gwar ɗewur seet kǝ Làa Gurum. Ngyal ɗesi ɓe, Di mon nnook làa gwar mǝni, ɓe ɗi nǝ ret met nwur.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:24 Ɓe wur sat mmo nǝnee, <<Ɗesǝ nǝ a toom fen ɗe nǝ ɗee a gam mǝ tuweerpwoo ɗepoo shi toom mǝ Naan, ɗe nǝ yaa ɗak mɓe toom fen ɗe mon mɓeer nǝ mɓe gurum mo ɗes.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:25 Azeen-nzeen, kǝn sat nwun nǝ, baa an mbaa shwaa am anab ɗi kas, see parɗi an nshwaa am anab ɗepoo nǝ nɗǝǝn mulki Naan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:27 Jesu sat mmo nǝnee, <<Wun jir wun nshwe wu yit nghan ɗi, mbǝɗe mo kǝ ten ran nɗǝǝn ɓǝǝt haal Naan nǝnee, 	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:28 Amma aɓwoon ɗe Naan wur baa yool kǝ an a peemúut, ɓe an ndǝm nwun akyeen nyil nGalili.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:37 Wur waa dǝm pee jeplep fin ɗekun nǝ mo ɗe, ɓe wur kat mo nkaa saam. Ɓe wur sat mPita nǝnee, <<Simon waa a nkaa saam wo? Tan, baa a mak gongpee mɓe awa mǝndong kas aa?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:38 Wu tong shi gongpee, kǝ wu cìn ɗangnaan (leshap kǝ Naan), mbǝkǝ taji wu ɗel mɓut jwaan kas. Riin nǝ rǝɓet ɗak, amma nan nǝ cii, mbǝɗe baa nǝ ɓal kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:41 Kaaɗe wur waa waaji pee jeplep nǝ mo ɗe yit ɗekun, ɓe wur sat mmo nǝ, <<Har yaksǝ, ɓe wun ɗe nkaa saam kǝ nookɗi aa? Nǝ mak kǝsǝ, pee nǝ kǝ wul. Mo kǝ seet kǝ Làa Gurum nsar nenshikbish mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:42 Wu yool mmun seet. Wu naa gwar ɗewur seet kǝ an wur kǝ jì wul.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:48 Jesu sat nɗuu kǝ gurum nǝ mo nǝ, <<Wun, wu pwat wur jì kǝ kwai mo, kǝ duul mo, mbǝkǝ wu yaa wen ɗe, kaa wen a mee kus wat sǝ aa?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:49 Shidaar-shidaar ɓe an ɗe ashak kǝ wun, kǝ an kǝn kám nwun nɗǝǝn Lu Naan ɗǝɗes, ɓe baa wu yaa an kas. Amma mbii ɗesǝ mo cìn aasǝ jir, a mbǝkǝ pwoo ɗe mo kǝ ten ran mo nɗǝǝn ɓǝǝt haal Naan mo gam ɗe.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 14:63 Kaaɗe pris ɗeɗes met jir, wur kǝlǝng pwoo mǝni, ɓe wur yilang nlǝr fin mo, ɓǝ wur sat nǝnee, <<Muu tang a langtǝng ɗeɗang ɗikǝ zak yi?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 14:64 Yaksǝ, wu kǝlǝng pwoo ɗe Jesu wur sat, ɗewur leshin a kaa Naan sǝ. Wur naa arang nkaa pwoo mǝnǝ yi?>> Ɓe mo jir, mo canɗyeel muut nJesu.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	MAR 15:2 Pailet tal pǝ Jesu nǝnee, <<A gha a mishkom nen Yahudi mo aa? Jesu lap nǝnee, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 15:26 Mo ran pwoo nkaa mbii ɗe nǝ le ɗang mo tu Jesu, mo lang nkaa shiyeepyoom nǝ nɗeel nkáa nJesu, ɗǝ nǝ sat nǝnee, << A MISHKOOM MƏ NEN YAHUDI MO NƊESƏ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 15:28 Mo cìn mbii ɗesǝ mo jir a mbǝkǝ pwoo ɗe mo kǝ ten ran nɗǝǝn ɓǝǝt haal Naan nǝ gam ɗe nǝnee, <<Mon tang wur mɓut nenɗebish mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 15:29 Nen ɗe mo ɗel ar peeɗi mo pwas Jesu ɗe, mo zǝkkáa fur mo, kǝ mo nwangpwoo nwur nǝnee, <<Kaigwa! Waa ɗe di a sat nǝ, waa nshirip Lu Naan ɗǝɗes, ɗangɓe nghan mbaa ɗyik nǝ ɗe nɗǝǝn teer mo kun zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 15:30 A ɓam sak kǝse! A sham nkaa shiyeep nǝ shiko.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 15:31 Pris ɗenan-nan mo, kǝ nenkám Wàar Mosis mo, mo shwar, ɓǝ mo toklong nJesu zak, mo sat nǝnee, <<Waa ɓam nen ɗeci mo, ɗangɓǝ baa waa mak ɓam sak kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 15:32 Katɗang gha a Kristi azeen-nzeen, mishkoom nen Isreil mo. Ɓe a sham nyil nkaa shiyeepmúut nǝ yaksǝ, mbǝkǝ mu naa, kǝ mun shinzeen ɗe.>> Wat ɗe mo pwas mo ashak kǝ Jesu, mo satpwoo ɗebuu nwur zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 16:6 Zǝlang nǝ wur sat mmo nǝnee, <<Taji kǝǝrmuut yaa wun kas, mbǝɗe wen man nǝ, wun pǝ yap a Jesu ngu Nazaret. Gwar ɗe mo pwas wur nkaa shiyeep sí, wur kǝ yool a peemúut nǝ. Baa wur mpesi kas. Wu jì wu naapee ɗe mo le wur ɗe nɗesi!	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 16:7 Ɓe wu dǝm, wu sat jeplep wur mo, kǝ Pita nǝ, wur kǝ yool a peemúut, yaksǝ wur a ar dǝm nGalili a tǝleng nwun. Wun ndem wu naa wur a mpee mǝni, kaaɗi dǝ wur kǝ ten sat nwun sǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	MAR 16:15 Jesu sat mmo nǝnee, <<Wur dǝm nɗǝǝn yil nǝ jir, wur satpwoo ɗeret ɗe ngurum mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	MAR 16:18 Katɗang mo yak nwòo mo, koo mo shwaa yen tupee ɓe baa nǝn ncìn mee mbii mmo kas koo dǝɓen. Mon nle sar fur mo nkaa nenciinkoom mo ɓe mon mbar.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 1:4 Par mǝ puus sǝ, ɓǝ kaaɗe wur ɗi ashak kǝ jeplep fin mo, ɓǝ wur leshap mmo ɓalɓal nǝnee, <<Taji wu yool wu yit Jerusalem kas. Ɗangɓe wu tong, wu naa gam zuum ɗe puun fen wur kǝ ten cweer nwun, ɗe wuu kǝlǝng nǝ mpwoo fen.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 1:5 Dǝ Joon wur cìn baptisma ngurum mo a shi am, ɗang ɗee meeteer mo ɗi a lee ɗak, ɓǝ mon ncìn baptisma nwun a shi Riin Ɗeɓang.>> Mo Mang Jesu Kàa Kǝ Wur Aɗeng	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 1:7 Jesu lap mo nǝnee, <<Baa ɗesǝ nǝ a muu, mbǝkǝ nwun man puus nǝ, kǝ ɓit ɗe Daa kǝ ten le mo nɗǝǝn iiko fin kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 1:8 Ɗangɓǝ Naan wur nshin ɓal nwun, katɗang Riin Ɗeɓang sham nkaa wun. Ɓǝ wun mbǝ ɗee a langtǝng fen mhffig o nɗǝǝn Jerusalem, kǝ nɗǝǝn Judiya jir, kǝ Samariya, dǝm wul nɗǝǝn yil mo jir zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 1:16 <<Ɗyemnaa mo, nǝ a tǝng kǝ mo gampwoo ɗe mo kǝ ten ran nɗǝǝn ɓǝǝt haal mǝ Naan. Pwoo ɗe gyet Riin Ɗeɓang le kǝ Devit leshap nkaa Judas ngwe ɗewur ɗee a ngukám ar nnen ɗe dǝ mo yaa Jesu.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 1:17 Dǝ wur a memee mɓut mmun, kǝ dǝ wur cìn pak ɗak fun ɗesǝ nǝ zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	(1/0)	ACT 1:18 (Shi shool ɗe Judas lap mbǝ kwat ɗak fin ɗebish, ɓǝ wur dǝm seet mee maar ɗishik. A pee ɗewur sham taa wur muut, wur piin ɓut fin, dǝm kat pinbut wur mo pwat ɓeer.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 Mbii ɗesǝ nǝ ɗee a ɗemǝman ngurum ɗe moo tong nɗǝǝn yil nJerusalem jir, moo pet maar ɗesǝ nǝ shi liispwoo mo a Akeldama. Ɗe shii mǝnǝ a maar toom).	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/0>	ACT 1:20 <<Mbǝɗǝ mo Jeplep Jesu mo ten ran nɗǝǝn ɓǝǝt haal Zabura nǝnee, < Kǝ mo ran zak nǝnee, 	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 1:21 <<Mbǝ mǝnǝ, ɓǝ nǝ ret kǝ mmun bǝlǝp mee gurum mɓut nnen ɗe peegyet mo ɗi ashak kǝ mun, kaaɗe dǝ Daa Jesu wur kǝ mwaan dǝm kǝ mun shipee-shipee sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 1:22 Yool mɓít ɗe Joon kǝ cìn baptisma ngurum mo, dǝm wul parpuus ɗe Naan mang Jesu kaa kǝ nǝ aɗeng, pǝ mun ɗi. Nǝ ɗee a tǝng kǝ memee mɓut nnen ɗe mun mbǝlǝp sǝ mo, wur ɗee a ngusatpwoo nkaa yool kǝ Jesu a peemúut nǝ ashak kǝ mun.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 1:24 Yaksǝ mo ɗangnaan nǝnee, <<Daa, gha ɗe a man pǝtuup gurum mo jir. A kám ngwe ɗe waa a bǝlǝp mmun, nɗǝǝn des ɗevǝl sǝ mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 1:25 Mbǝkǝ ngwe nǝ cìn ɗak ɗi a koppee mǝ Judas kaa memee nɗǝǝn jeplep kǝ Jesu mo sǝ. Dǝ Judas yool yit ɗak nǝ ɗi, mbǝkǝ nwur dǝm ɗi a pee ɗyem fin.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 2:7 Nǝ lekǝǝrmuut, ɗang nǝ aapwoo mo, ɓǝ mo sat nǝnee, <<Nen ɗe moo leshap sǝ mo jir, a nen Galili mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 2:11 (Mo a nen Yahudi mo, kǝ nen ɗe mo jì ɗeɗel nɗǝǝn nen Yahudi mo). Kǝ nen Kritan mo, kǝ nen Arab mo. Muu kǝlǝng mo nkaa leshap nkaa mbii aapwoo ɗǝnan-nan ɗe Naan wur cìn mo shi liispwoo mǝ yil fun mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 2:14 Ɓǝ Pita yool ɗar atǝng ashak kǝ jeplep ɗe kaapaat baamǝndong sǝ mo, ɓǝ wur ɗiyeep ɗoo fin ɓalɓal, ɓǝ wur sat nɗuu gurum nǝ mo nǝnee, <<Wun nen Yahudi mo, kǝ wun nen ɗe wuu tong nJerusalem jir. Wu lekom kǝ nwen sat shii mbii ɗesǝ mo ɗi nwun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 2:17 <Naan wur sat nǝnee, Nɗǝǝn meeteer mǝ kyes nǝ mo. Ɓǝ an mbǝ nɗoo Riin fen nkaa gurum mo jir. Jep fuu ɗemish mo, kǝ ɗe mat mo, mon nsatpwoo Naan ngurum mo, kǝ mbii ɗe mo mbǝ jì akyeen. Zǝlang fuu mon nnaa mbii ɗesǝsok mo, ɗe Naan wur rǝɓet kám nǝ mmo, kǝ dǝkaam fuu mon nsuun suun mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 2:21 Parmǝnǝ, ɓǝ koo a ngwe ɗeɗangyii, ɗewur pet sǝm mǝ Daa ɓǝ a wur nkat ɓam.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 2:22 <<Wun nen Isreil mo! Wu lekom kǝ wu kǝlǝng pwoo ɗesǝ mo ɗe. Jesu ngu Nazaret, ngwe ɗe Naan kat retnyit kǝ wur, kǝ ɗe Naan cìn mbii lukshik mo, kǝ mbii aapwoo mo kǝ Sǝmpwoo mo nsar wur a yit fuu. Wun shikáa fuu wu man nǝ, mbii ɗesǝ mo cìn a kǝsǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 2:28 Waa a ten a kám ar ɗe mo a mǝ seen nghan. Kǝ gha mbǝ ngam pǝtuup fen shi retnyit ntoom fwaa zak.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 2:29 <<Ɗyemnaa mo, wu lekom, kǝ nghan leshap ɗi nwun rǝrret nkaa puunkaam fun Devit, ɗe gyet wur muut, ɓǝ mo wum wur, kǝcir wur nǝ ɗi mpee ɗesǝ har cicinsǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 2:34 Baa gyet Devit kǝ kaa aɗeng kas, ɗang wur shikáa fin sat nǝnee <Daa wur kǝ sat nDaa fen nǝnee, A tong nsarse fen.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 2:35 Dǝm wul a ɗe an nle shaarlek fwaa mo ɗee a mbii leshii ngha.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 2:38 Ɓǝ Pita lap mmo nǝnee, <<Wu tuwap, mbǝkǝ mmo cìn baptisma ɗi nwun jir ngwe ɗeɗangyii nɗǝǝn wun, nɗǝǝn sǝm kǝ Jesu Kristi, mbǝkǝ nNaan fwo shikbish fuu mo ɗi nwun. Ɓǝ wun mbǝ lap zuum mǝ Riin Ɗeɓang.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 2:39 Pwoo ɗe mo cweer nǝ, a mbǝ wun, kǝ jep fuu mo, kǝ mbǝ nen ɗejong mo jir, kǝ koo a ngwe ɗeɗangyii ɗe Daa fun Naan wur mpet zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 3:12 Kaaɗe Pita naa a kǝsǝ, ɓǝ wur sat ngurum nǝ mo nǝnee, <<Wun nen Isreil mo! A mii le ɗang bar gwar ɗesǝ nǝ aapwoo nwun yii? A mii le ɗang wuu ban yit nkaa mun, koo a shi mee ɗeɗes fun, koo a shi mee ɗeret fun, ɗang mu le ngwar ɗesǝ mwaan yii?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 3:17 <<Yaksǝ ɗyemnaa mo, wen man nǝ, mbii ɗe dǝ wun kǝ nennan fuu mo, wu cìn nJesu, ɓǝ dǝ wu cìn a mbǝ ciin man.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 3:26 Kaaɗe Naan wur bǝlǝp nguɗak fin, ɓǝ Naan wur shee lep wur shin jì a pǝ wun ɗi, mbǝkǝ nwur le ɗeret ɗi nkaa wun, kǝ mbǝkǝ nǝ ciir ɗi kǝ koo a wii nɗǝǝn wun, kǝ nwur yit cìn mbii ɗebish mo ɗi.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 4:8 Mbǝɗǝ Pita wur gam kǝ Riin Ɗeɓang, ɓǝ wur lap mmo nǝnee, <<Wun nen taatǝleng mǝ gurum mo, kǝ nen ɗenan-nan mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 4:12 Baa gurum mon nwaa mak kat mee ɓam pǝ mee ngwe ɗi kas. Mbǝɗǝ nɗǝǝn yil ɗesǝ jir, ɓǝ baa Naan kǝ shin ɗeɗes mmee ngwe, mbǝkǝ nwur ɓam gurum mo ɗi kas, tǝng a nɗǝǝn sǝm mǝ Jesu Kristi ɓejee ɗak>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 4:16 Mo sat nǝnee, <<Mmun ncìn a mii kǝ nen ɗesǝ mo yii? Azeen-zeen gurum ɗe moo tong nɗǝǝn nJerusalem jir, mo kǝ man nǝ, Naan kǝ cìn mee mbii lukshik ɗeɗes nsar kǝ Pita kǝ Joon, ɗang baa mun mmak cíipwoo nǝ kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 4:17 Mbǝkǝ taji gurum mo ɗes mo kǝlǝng pwoo ɗesǝ nǝ kas, ɓǝ wu yit kǝ mmun cíi mmo nǝ, taji mo baa leshap ɗi mmee gurum nɗǝǝn sǝm mǝ Jesu kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 4:19 Ɗangɓe Pita kǝ Joon mo lap mmo nǝnee, <<Wun shikáa fuu wu ɓeet, kyet nǝn nret nNaan nyit kǝ mmun cìn a mbii ɗe wun wu sat aa? Koo a mbii ɗe Naan sat yii?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 4:20 Baa mun mbǝ nook leshap nkaa mbii ɗe mu naa, kǝ mbii ɗe mu kǝlǝng kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 4:24 Kaaɗe nen shinzeen nǝ mo kǝlǝng pwoo mǝnǝ, ɓǝ mo ɗangnaan shi pǝtuup mǝndong, nǝnee, <<Daa Ɗehai, ɗe waa a le ɗeng kǝ yil, kǝ am kuur mo, kǝ mbii ɗe mo nɗǝǝn mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 4:25 Gyet a shi Riin Ɗeɓang, ɓǝ waa a leshap mpwoo mǝ kǝrem fwaa ɗewur a puunkaam fun Devit nǝnee <A mii le ɗang gurum ɗe baa mo a nen Yahudi mo kas, mo yool ntuup yii? A mii le ɗang gurum nǝ mo kǝ pan ɗebish nɗǝǝn pǝtuup fur mo, mbǝ cìn mbii ɗebuu mo yii?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 4:26 Deskoom ɗe mǝ yil nǝ mo, mo kǝ ɗak sut fur mo mbǝ lek, kǝ nenpanyil mo kǝ ɓalkaa fur mo ashak, mbǝkǝ mmo yaa lek ɗi kǝ Daa Naan kǝ Kristi fin zak.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 4:30 A le kǝn iiko fwaa nǝ bar gurum mo, kǝ a le kǝ mbii lukshik mo kǝ mbii aapwoo mo cìn nɗǝǝn sǝm mǝ nguɗak fwaa Jesu Ɗeɓang.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 5:3 Ɗangɓe Pita sat nǝnee, <<Ananiyas, a mii le ɗang a yit kǝ nngujwaan gam pǝtuup fwaa, kǝn nghan cìn ɗung ɗi nRiin Ɗeɓangyii? Mbǝɗǝ aa sok pak shool maar nǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 5:4 Akuɗang aa mang maar nǝ a seet, ɓǝ baa dǝ nǝ a mwaa kas aa? Kǝzak aɓwoon ɗe dǝ a mang maar nǝ a seet, ɓǝ baa shool nǝ a mwaa kas ee? A mii le ɗang a kat pan mǝ cìn mbii ɗesǝ nɗǝǝn pǝtuup fwaa yii? Baa a cìn ɗung ɗesǝ nǝ a ngurum mo kas, a cìn ɗung nǝ a nNaan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 5:29 Ɗangɓe Pita kǝ jeplep nǝ mo, mo lap mmo nǝnee, <<Nǝ a tǝng kǝ mun cìn a mbii ɗe Naan sat, met mbii ɗe gurum mo sat.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 5:32 Mun a langtǝng mǝ mbii ɗesǝ mo, kǝ Riin Ɗeɓang ɗe Naan shin nnen ɗe mo cìn ɗyen wur, mo kǝ cìn langtǝng nǝ a kǝsǝ zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 5:35 Ɓǝ wur sat nnen ɓeetpwoo nǝ mo nǝnee, <<Ɗyemnaa mo, nen Isreil mo. Wu tap kǝ mbii ɗe wuu reɓet cìn nǝn ndes ɗesǝ mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 5:39 Ɗang katɗang mbii ɗe moo cìn nǝ a mǝ Naan, ɓǝ baa mu mmak se koorong nkaa mo kas. Wu tap taji nwun ɗee koo wun a nlek kǝ Naan sǝ kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 6:2 Aasǝ ɓǝ, jeplep ɗe kaapaat baavǝl nǝ mo pǝrep kuur mǝ nenseet nɗang Jesu mo jir, kǝ mo sat nǝnee, <<Baa nǝ ret kǝ mmun nook satpwoo mǝ Naan, mbǝkǝ mu ɗee ɗi ɓàk mbiise kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 6:4 Ɗang mun, mbǝ sekyeen kǝ ɗangnaan shidaar-shidaar kǝ satpwoo mǝ Naan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 6:13 Kǝzak mo jì kǝ langtǝng mǝ ɗung mo, ɗe mo sat nǝnee, <<Gwar ɗesǝ wur leshap ɗebish nkaa Lu Naan ɗeɗes nǝ, kǝ nkaa Wàar Mosis shidaar-shidaar zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 6:14 Mu kǝlǝng wur sat nǝ, Jesu ngu Nazaret mbǝ shirip Lu mǝ Naan ɗeɗes nǝ, kǝn nwur cǝǝr kǝ mbii ɗe muu loot kǝ cìn mo, ɗe gyet Mosis shin mo mmun.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:2 Yaksǝ Stivin lap nǝnee, <<Ɗyemnaa mo, kǝ puun mo, wu lekom, kǝn nwun kǝlǝng mbii ɗe an mbǝ sat nǝ ɗi. Gyet Naan Ɗehai wur woo shin fin mpuun fun Abraham, ɓǝ wur kutɗi nyil mMesopotamiya, akuɗang wur dǝm tong nɗǝǝn yil nHaran.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:9 <<Puun fun ɗesǝ mo, mo cìn zuur kǝ Josep, yaksǝ mo seet kǝ wur sham nyil Ijip koo kǝrem sǝ. Ɗangɓe Naan ɗi ashak kǝ wur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:23 <<Kaaɗe Mosis wul ɓit mo laarfeer, ɓǝ wur pan mputuup fin mbǝ dǝm naa ɗyemnǝǝn fin nen Isreil mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 7:27 Ɗangɓǝ gwar ɗewur nkaa shinjeel ngǝnǝǝn nǝ, bet Mosis shin baa aku, kǝ nwur sat mMosis nǝnee, <A wii le gha a mishkoom kǝ ngutokɗyeel nkaa mun ii?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 7:28 Aa reɓet tu wen a kaaɗe doon a tu ngu Ijip sǝ mee?>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:30 <<Aɓwoon ɓit mo laarfeer, ɓǝ mee ngulep mǝ Naan jì woo shin mMosis, shi mbǝlem wus nkaa mee laalǝǝt a yil kus kǝ zuul Sinai.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 7:33 Daa Naan sat mMosis nǝnee, <A shwat kwoopshi ɗe mon nshii fwaa, mbǝɗe pee ɗe aa ɗar ɗi yaksǝ, nǝ a pee ɗeɓang.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 7:34 Azeen-zeen, an kǝn naajeel nen fen ɗe mon nyil Ijip, kǝn kǝlǝng gwan mo mo. Mbǝmǝnǝ kǝn sham, mbǝkǝ nghan ɓam mo ɗi zak. Mbǝ mǝnǝ, a jì kǝ nghan lep gha shindǝm nyil Ijip.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:35 <<Gyet nen Isreil mo cii Mosis, ɓǝ gyet mo sat nǝnee, A Mosis a ngwe ɗe gyet Naan lep wur, mbǝkǝ nwur ɗee a Taakyeen kǝ Nguɓam mǝ nen Isreil mo shi ɓam mǝ ngulep mǝ Naan ɗe gyet wur woo shin mMosis nɗǝǝn rep laalǝǝt a yil sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:37 <<Gyet a Mosis sat nnen Isreil mo nǝnee, 	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:39 <<Ɗangɓe gyet puun fun mo cii cìn mbii ɗe Mosis sat, kǝzak mo toklong shi Mosis, kǝ mo le mputuup fur mo mbǝ waa baa dǝm Ijip.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 7:42 Mbǝ mǝnǝ ɓǝ Naan cǝǝr kǝɓwoon mmo, kǝzak wur le kǝ mmo seyil ɗi nzar mo, kǝ mbii ɗe aɗeng mo. Kaaɗe mo kǝ ten ran nɗǝǝn ɓǝǝt-haal mǝ nensatpwoo kǝ Naan mo nǝnee, <Wun nen Isreil mo, nɗǝǝn ɓit ɗelaarfeer sǝ mo a naaryil, ɓǝ baa gyet wu saa long mo, kǝ wus mbiizuum mo, a mbǝ an kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 7:43 Ɗang gyet wuu mang a Tent mǝ kùm Molek, wu mwaan kǝ nǝ, kǝ zar mǝ kùm fuu Refan. Wu kǝlem mbii ɗesǝ mo, mbǝkǝ nwun seyil ɗi mmo. Mbǝ mǝnǝ, ɓǝ an mbǝ le kǝ mmo dǝm kǝ wun jong-jong, ɗe dǝm ɗel yil ɗe aɓwoon mBabilon.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:44 <<Gyet puun fun mo kǝ Tent mǝ langtǝng nǝ, Naan ɗi ashak kǝ mo a naaryil. Mo ɗak Tent mǝnǝ a nciit-nciit kǝ ɗe Naan shin mMosis naa. Mosis sat mmo tap ɗak a kǝsǝ zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 7:49 <Naan sat nǝ, ɗengnaan nǝ a peetong fen, kǝ yil ɗesǝ nǝ a pee leshii fen zak. Wun nɗyik a mee lu ɗǝɗang nghan yii? Peeɗe an nnookɗi a nii?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 7:50 Baa a sar fen le mbii ɗesǝ mo jir kas aa?>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 7:51 <<Wun nencinshik mo, ɗe pǝtuup fuu mo ɗee a koo mǝ nenkum mo sǝ. Wuu ɗee a komjoor mo mbǝ cíikǝlǝngpwoo mǝ Naan, kǝzak wu cii Riin Ɗeɓang shidaar-shidaar, kaaɗe gyet puun fuu mo kǝ cìn sǝ. Mbǝmǝnǝ wun a koo puun fuu mo gyet sǝ zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 7:53 A wun a nen ɗe wu lap Wàar mǝ Naan ɗewur shin nwun nsar nenlep mǝ Naan mo, ɗang baa wu cìn mbii ɗe Wàar nǝ mo sat kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 8:20 Ɗangɓǝ Pita sat nSimon nǝnee, <<Waa kǝ shool fwaa nǝ, wun nɗel nwus. Mbǝɗǝ aa pan nǝ, a mmak seet mbiizuum mǝ Naan a shi shool.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 8:23 Mbǝɗǝ wen naa, aa gam kǝ zuur ɗebish, ɗang aa ɗee a ɗe ɓuɓwoot nɗǝǝn shikbish.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 8:32 A pwoo ɗewur nkaa tang nǝ nɗǝǝn ɓǝǝt-haal nǝ nɗesǝ, ɗe nǝ sat nǝnee, <<Wur a koo tǝm ɗe mo kǝ dǝm kǝnǝ, mpee saa sǝ. Koo tǝm ɗe ɗok tǝtǝk ntoom mǝ ngusaa shweep nǝ sǝ, Wur ɗok tǝtǝk a kǝsǝ zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 8:33 Mbǝɗǝ wur sham kǝ káa fin, ɓǝ baa mo tokɗyeel nwur nkaa zeen kas. A wii mmak yool leshap nkaa ɗang wur mo ii? Mbǝɗǝ mo kǝ mang seen wur nɗǝǝn yil nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	ACT 9:5 Yaksǝ Sool tal nǝnee, <> Ɗoo nǝ lap nǝnee, <<A an Jesu, ɗe gha nkaa shinjeel nghan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 9:6 A yool a ɗel nɗǝǝn pee nkaam nǝ, ɓǝ mon nsat nghan mbii ɗe nǝ a tǝng gha ncìn.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 9:11 Daa sat nwur nǝnee, <<A yool a dǝm a ar ɗesǝ, ɗe moo pet a Sham ndǝr-ndǝr, ɓǝ a tal mee gwar ɗe moo pet sǝm wur a Sool, wur a ngu Tarsus. Wur ntul Judas. Yaksǝ ɓǝ wur nkaa ɗangnaan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 9:12 Nɗǝǝn suun wur, ɓǝ wur naa mee gwar ɗe moo pet sǝm wur a Ananiyas, wur jì ɗel, ɗang wur lesar fin nkaa wur, mbǝkǝ nyit fin mo baa naapee ɗi zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 9:13 Ɗangɓe Ananiyas lap nǝnee, <<Daa, gurum mo ɗes mo kǝ leshap nghan, nkaa niyang ɗe gwar ɗesǝ wur kǝcin nnen fwaa ɗe mon nJerusalem.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 9:14 Kǝzak wur jì mpee ɗesǝ nDamaskus, shipee ɗe pris ɗenan mo shin nwur, mbǝkǝ nwur yak nen ɗe mo shinzeen nɗǝǝn sǝm fwaa jir.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 9:15 Ɗangɓe Daa lap wur nǝnee, <<A yool a dǝm, mbǝɗe an kǝn bǝlǝp wur, mbǝkǝ nwur cìn ɗak ɗi nghan. Wur mbǝ le kǝn nnen ɗe baa mo a nen Yahudi mo kas, kǝ mishkoom mo, kǝ nnen Yahudi mo man sǝm fen zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 9:16 An mbǝ kám nwur jeel ɗe nwur mbǝ shwaa mo mbǝ sǝm fen.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	ACT 10:4 Ɓǝ Konilus naa ngulep nǝ shi yit kǝǝrmuut, ɓǝ wur sat nǝnee, <> Ngulep mǝ Naan sat nKonilus nǝnee, <<Naan kǝ lap ɗang fwaa mo, kǝ mbiizuum ɗe aa shin nenjeel mo, ɓǝ mo kǝkàa wul pǝ Naan ɗi aɗeng, ɗang mo ɗee a mbii ɗe Naan pan gha zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 10:6 Wur tong a nlu Simon nguɗak shim, ɗe lu wur nǝ kus kǝ pwoo Am kuur sǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 10:19 Kaaɗe Pita kutɗi nkaa panshii mǝ suun ɗesǝ nǝ, ɓǝ Riin mǝ Naan sat nwur nǝnee, <<A naa mee gurum mo kun, mo pǝ yap gha.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 10:20 A yool, a sham, kǝ nghan seet ashak kǝ mo, baa a shi mee kyetwo kas, mbǝɗe a an lep mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 10:28 Pita sat mmo nǝnee, <<Wun shikáa fuu wu man nǝ, baa nǝ ndǝre kǝ ngu Yahudi ɓalkaa fin ashak kǝ mee soon ɗecì mo, koo wur jì pǝ mo ɗi kas. Ɗangɓe Naan kǝ kám nghan, kǝ taji wen mpet mee gurum a ɗebuu, koo ɗebish kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 10:29 Mbǝ mǝnǝ, kaaɗe wu lep mo pet an sǝ, ɓǝ wen jì pǝ wun ɗi, baa wen cii kas. Mbǝmǝnǝ wen reɓet kǝlǝng mbii ɗe nǝ le kǝ nwun pet an nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 10:30 Konilus sat nǝnee, <<Nǝ kus aa teer mo feer cicinsǝ, nciit kǝ pee kǝsǝ, ɓǝ nkaa ndang Naan nkun mǝ puus nɗǝǝn lu fen. Ɓǝ nnaa mee gwar sǝ, ɗe nlǝr wur mo piyaa pet-pet, wur jì ɗar a kyeen fen.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 10:33 Abet-abet ɓǝ wen nlep-lep shindǝm pǝ gha ɗi. Nǝ ret zam kaaɗe a jì mpee ɗesǝ. Mun sǝ jir ntoom mǝ Naan yaksǝ, mbǝkǝ mmun kǝlǝng mbii ɗe Daa wur sat ngha, mbǝkǝ nghan sat ɗi mmun.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 10:34 Pita leshap mmo nǝnee, <<Azeen-zeen wen naa nǝ, baa Naan kǝ ɓakyit mmee gurum kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 10:43 A wur a ngwe ɗe gyet nensatpwoo mǝ Naan mo jir, mo kǝ ten tong a langtǝng wur nǝ, a mbǝ sǝm wur, ɗang koo a ngwe ɗeɗangyii ɗewur shinzeen, ɓǝ wur nkat fwo mǝ shikbish wur mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 11:5 <<Dǝ an nɗǝǝn pee nkaam nJoppa, ɓǝ kaaɗe an nkaa ɗangnaan ɓǝ wen suun. Ɓǝ nɗǝǝn suun nǝ, nnaa mee haal ɗeɗes ɗe nǝ tong aɗeng sham ɗe, nǝ kǝ kwang mo feer, nǝ sham wul pǝ an ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 11:15 <<Kaaɗe nɗoom leshap, ɓǝ Riin Ɗeɓang sham nkaa mo, nciit kǝ ɗe dǝ wur sham nkaa mun nshee sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 11:17 Katɗang ɓǝ mbiizuum ɗesǝ, ɗe Naan wur shin mmo, nǝ a ɗemǝndong kǝ ɗewur shin mmun, mbǝɗe mu shinzeen nDaa Jesu Kristi, ɓǝ wen a wii, ɗe an mmak cíi nNaan yii?>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 13:10 ɓǝ wur sat nǝnee, <<Waa làa mǝ ngunjwaan! Gha a shaarlek mǝ mbii ɗe ndǝre mo jir. Kǝzak pǝtuup fwaa nǝ gam kǝ gwampee, kǝ cìn nyang. Aa ɗaar shidaar-shidaar, mbǝkǝ nghan cǝǝr kǝ zeen mǝ Daa, mbǝkǝ nǝ ɗee ɗi a ɗung.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 13:11 A naa yaksǝ, Daa Naan wur mbǝ le kǝ gha ɗee a vum. Baa gha mmak naa puus kas, mbǝ reppee lee.>> Abet-abet, ɓǝ vuun, kǝ peenkwoo mo jì paa Elimas, ɓǝ wur ɗoom yappee, mbǝ yap ngwe ɗe mbǝ yaakam nwur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 13:16 Pool yool ɗar atǝng, ɓǝ wur ɗiyeep sar wur, mbǝkǝ ngurum nǝ mo ɗok ɗe tǝtǝk, ɓǝ wur sat nǝnee, <<Wun nnen Isreil mo, kǝ wun nen ɗe baa wun a nnen Isreil mo kas, ɗe wuu kǝǝr Naan, wu lekom fuu mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 13:26 <<Ɗyemnaa mo! Jep mǝ ɗang Abraham mo, kǝ nen ɗe baa mo a nnen Yahudi mo kas, ɗe mo kǝ kǝǝr Naan nɗǝǝn wun. A mbǝ wun jir, ɓǝ Naan kǝ lep pwoo ɓam ɗesǝ nǝ jì.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 13:36 <<Gyet Devit kǝ cìn ɗak nciit kǝ ɗyen mǝ Naan mɓít fin mo, ɓǝ wur muut, ɓǝ mo wum wur ashak kǝ puun fin mo, ɓǝ wur wam.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 13:41 >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 13:46 Yaksǝ Pool kǝ Barnabas mo waa sǝǝt leshap nǝ ɓalɓal agaak baa kǝ mee kǝǝrmuut kas. Mo sat nǝnee, <<Nǝ a tǝng kǝ mo shee satpwoo mǝ Naan nǝ a nwun, ɗang wu ciipwoo Naan nǝ, kǝzak wu lesuk a koo baa wun kǝkoop nǝ mbǝ kat seen ɗe dǝm nghaa-nghaa kas. Ɓǝ yaksǝ, mun mbǝ yit wun, mbǝkǝ mmun dǝm mu satpwoo mǝ Naan nǝ ɗe nnen ɗe baa mo a nnen Yahudi mo kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 13:47 Mbǝɗǝ Daa kǝ sat mmun nǝnee, >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 14:15 <<Hee des oo! A mii le ɗang wun pǝ reɓet cìn mbii mǝnǝ ii? Mun a gurum mo koo wun sǝ. Mu jì mpee ɗesǝ a mbǝkǝ mmo satpwoo ɗeret ɗe nwun, mbǝkǝ nwun yit mbii ɗebuu sǝ mo ɗi, ɗe baa mo kǝ mee koop nǝ kas. Mbǝkǝ nwun jì pǝ Naan ɗewur kǝ seen. A wur le ɗeng, kǝ yil, kǝ Am kuur mo, kǝ mbii ɗe nɗǝǝn mo jir zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 14:17 Jir kǝsǝ, ɓǝ baa wur kǝ cam nook cìn langtǝng mbǝ shin fin kas, mbǝɗe wur cìn mbii ɗeret mo. A wur shin fwan sham nwun aɗeng, kǝ mbii kǝkop fuu mo ntarpas, ɗang a wur shin mbiise nwun ɗes zak, kǝzak a wur gam pǝtuup fuu mo shi retnyit zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 15:7 Aɓwoon ɗe mo kǝ ɓeetpwoo nǝ ɗes ndǝr-ndǝr hakyeng, ɓǝ Pita yool ɗar atǝng, ɓǝ wur sat mmo nǝnee, <<Ɗyemnaa mo! Wu man nǝ, Naan shee bǝlǝp an mɓut nwun, mbǝkǝ nghan sat pwoo ɗeret nǝ ɗi nnen ɗe baa mo a nen Yahudi mo kas, kǝ mmo shinzeen ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 15:11 Hai! Mu shinzeen nǝ, a mbǝ ɗeret mǝ Daa fun Jesu, ɗang mu kat ɓam, kaaɗe mo kat ɓam nǝ sǝ zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 15:13 Aɓwoon ɗe mo kyes leshap nǝ, ɓǝ Jemis sat nǝnee, <<Ɗyemnaa mo, wu lekom kǝ nwun kǝlǝng an ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 15:16 <Aɓwoon ɗesǝ ɓǝ an mbǝ baajì. Mbǝkǝ nghan mbaa ɗi kǝ lu mǝ Devit ɗe nǝ shirip sǝ ɗi. An mbǝ baa ɗiyeep kǝrem lu ɗe mo kǝ shirip nǝ zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 15:18 A Daa kǝ sat a kǝsǝ! Wur kǝ ten le kǝ mbii ɗesǝ mo ɗee a ɗemǝman pegyet ɗi yam-yam.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 15:19 <<Mbǝ mǝnǝ, nnaa mǝnǝ, ɓǝ taji wu le nǝ luk nen ɗe baa mo a nnen Yahudi mo kas, ɗe mo ciir kǝ pǝtuup fur mo pǝ Naan ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 15:21 Mbǝɗǝ mo kǝ tang Wàar mǝ Mosis nǝ peedǝ ɗi yam-yam, koo a parpuus Nookɗi ɗeɗangyii nɗǝǝn lu mǝ Naan nǝ mo jir, kǝ nɗǝǝn pee nkaam nǝ mo jir zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 15:23 Yaksǝ mo lep mo shindǝm ashak kǝ lep a rǝran ɗe nǝ sat nǝnee, <<Jeplep mo, kǝ nen ɗenan-nan mǝ Eklesiya mo, mun ɗyemnǝǝn fuu mo, muu lep tokshik fun ɗeɗes dǝm pǝ wun ɗyemnǝǝn fun, nenseet nɗang Jesu mo, ɗe baa wun a nnen Yahudi mo kas. Ɗe wuu tong nɗǝǝn yil Antiyok, kǝ Siriya, kǝ Silisiya.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 15:29 Taji wu se mbiise ɗe mo kǝ ten shin nkùm kas, kǝzak taji wu se luwaa ashak kǝ toom kas. Taji wu se luwaa mǝ long ɗe mo miyoor took nǝ kas, ɗang taji wu cìn ngaa kas. Katɗang baa wuu cìn mbii ɗesǝ mo kas, ɓǝ nǝ ret zam. Ɗang mukaat. Wu tongriyang.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 16:20 Kaaɗe mo jì kǝ mo ntoom nentokɗyeel nǝ mo, ɓǝ mo sat nǝnee, <<Nen ɗesǝ mo a nnen Yahudi. Moo ring gurum mo nɗǝǝn pee nkaam fun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 16:21 Mo nkaa kám mbii mo mmun, ɗe baa muu loot cìn mo kas. Mbǝ mǝnǝ, baa mu lap mbii ɗe mon nkaa kám nǝ kas, mbǝɗe mun a nnen Rom mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 17:6 Ɗang kaaɗe baa mo kat mo kas, ɓǝ mo fee Jesen, kǝ pak nenseet nɗang Jesu mo pwat, ɓǝ mo jì kǝ mo ntoom nen ɗǝnan-nan mǝ pee nkaam nǝ mo. Mo nkaa le or nǝnee, <<Nen ɗesǝ mo, ɗe mo kǝ ciir kǝ yil nǝ shikáa atuum, mo jì mpee ɗesǝ zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 17:7 Nǝ le Jesen lap mo le ntul fin! Moo tep a Wàar mǝ Siza, mbǝɗe mon nkaa sat nǝ, mee mishkoom ɗi, ɗe mo kǝ pet wur a Jesu.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 17:19 Mo yaa Pool, ɓǝ mo kàa kǝ wur a peekuur ɗe mo kǝ pet a Ariyopagus, ɓǝ mo sat nwur nǝnee, <<Muu reɓet manshii mǝ kám ɗepwoo ɗe gha nkaa leshap nkaa nǝ sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 17:20 Mbǝɗǝ pak mbii ɗe waa a sat nǝ mo a ɗepwoo pǝ mun ɗi, kǝzak muu reɓet manshii mo nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 17:22 Pool yool ɗar a peekuur ɗe moo pet a Ariyopagus nǝ, ɓǝ wur sat mmo nǝnee, <<Wun nnen Atens mo! An pǝ naa wun a nen ɗe wuu seyil nnaan mo ɗes hakyeng.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 17:24 <<Naan ɗewur leyil ɗesǝ, kǝ mbii ɗe mo nɗǝǝn yil nǝ jir. Wur a Daa mǝ ɗeng kǝ yil ɗesǝ, kǝ baa wur kǝ tong a nɗǝǝn lu ɗe gurum mo ɗyik shi sar mbǝ seyil nwur kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 17:31 Mbǝɗǝ Naan lepuus ɗewur mbǝ tokɗyeel ngurum ɗe nɗǝǝn nyil nǝ jir, shi gwar ɗewur kǝ ten bǝlǝp. Naan wur kǝ woo langtǝng mǝnǝ ngurum mo agaak jir, mbǝɗe wur kǝ yool kǝ gwar mǝnǝ a peemúut.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 18:9 Parmeeci sǝ mpar, ɓǝ Daa leshap kǝ Pool nɗǝǝn suun nǝnee, <<Taji kǝǝrmuut yaa gha kas, a satpwoo nǝ, kǝzak taji a nook sat nǝ kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 18:10 Mbǝɗǝ an ɗi ashak kǝ gha. Baa mee gurum mmak cìn mee mbii nghan kas. Mbǝɗǝ an ɗi kǝ gurum mo ɗes nɗǝǝn pee nkaam ɗesǝ nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 18:14 Ɗangɓǝ kaaɗe Pool ɗoom leshap, ɓǝ Galiyo ɗewur a gofna, sat nnen Yahudi nǝ mo nǝnee, <<Wun nnen Yahudi mo! Katɗang ɓǝ ɗe gwar ɗe ɗesǝ wur cìn a mee mbii ɗebish, kǝ koo ɗewur wat a mee mbii, ɓǝ yoo an mmak lekom kǝn nghan nkǝlǝng wun ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 18:15 Ɗangɓǝ kaaɗe nǝ a ɓeetshik nkaa pak pwoo mo, kǝ sǝmpwoo, kǝ Wàar fuu mo, ɓǝ wu dǝm wu ɓeet mǝnǝ mbuu shikáa fuu. Baa an mbǝ reɓet ɗee a ngutokɗyeel mǝ mbii koo mǝnǝ mo sǝ kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 19:25 Demetriyus pǝrep nenkǝlem nǝ mo jì ashak jir, kǝ nen ɗe ɗak mo nǝ mo, a koo mǝ nenkǝlem nǝ mo sǝ zak. Yaksǝ wur sat mmo nǝnee, <<Daa mo! Wu man nǝ, mmun muu kat shool ɗes a nɗǝǝn ɗak fun ɗesǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 19:27 Wu naa zak, yaksǝ baa ɗak fun nǝ kutɗi kǝ mee sǝm ɗeret kas. Baa a ɗak fun nǝ ɓejee ɗak kas, kǝ Atemis ɗeɗes, war mbǝ ɗee a mbii shwar ngurum mo, kǝ naan nǝ war shikáa fer zak. Gurum ɗe mo ngaar yil Eshiya, kǝ yil sǝ jir, mo kǝ seyil a nwar.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 19:35 Kaaɗe nguran mǝ pee nkaam nǝ wur le kǝ ngurum mo ɗok tǝtǝk, ɓǝ wur sat mmo nǝnee, <<Wun nen Afisus mo! A wii nook man nǝ, a wun a nnen ɗe wun pǝ tap kǝ lu kùm mǝ Atemis ɗeɗes nɗǝǝn Afisus kas yii? Kǝzak nghǝk ɗe gyet nǝ tong aɗeng sham taa mpee ɗesǝ kas yii?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 19:40 Azeen-zeen mun mbǝ teer ɗiɓut katɗang mo dǝm kǝ mun nluɗyeel mbǝ or ɗǝ cicinsǝ, mbǝɗe baa mun manshii mǝ mbii ɗe wun pǝ ɗyeep or nkaa nǝ kas, kǝzak, baa kuur fuu nǝ kǝ mee koop nǝ kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 20:18 Ɓǝ kaaɗe mo jì wul pǝ wur ɗi, ɓǝ wur leshap mmo nǝnee, <<Wun shikáa fuu, wu man tong fen nnaar fuu peedǝ ɗi an nshee jì ɗi ngaar nyil Eshiya.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 20:25 <<Yaksǝ wen man nǝ, baa memee nɗǝǝn wun, ɗe gyet an kǝn mwaan nnaar fuu, mbǝ leshap nwun nkaa yil mishkoom mǝ Naan nǝ, wun baa wu naa an ɗi kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 20:32 <<Yaksǝ, ɓǝ wen le wun nsar Naan, kǝ pwoo ɗeret wur ɗe nǝ kǝ ɓal mbǝ ɗyik wun, mbǝkǝ nǝ shin ɗeret mǝ Naan, ɗi wur kǝ nǝ mbǝ nnen wur mo jir nwun zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 20:35 An kǝn nkám nwun nɗǝǝn mbii mo jir, nǝ, a shi ɗak mǝ káa fuu mo, ɗang wun ɓam nen ɗe baa mo katɓal kas, kaaɗe muu panpwoo ɗe Daa Jesu kǝ sat shikáa fin sǝ nǝnee, >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 21:20 Aɓwoon ɗe mo kǝlǝng pwoo nkaa mbii mǝnǝ mo, ɓǝ mo kwoop Naan hakyeng. Ɓǝ mo sat mPool nǝnee, <<Ɗyemnǝǝn fun, a naa nnen Yahudi mo ɗes hakyeng mo kǝ ɗee a nen shinzeen mo, ɗang mo fes le pǝtuup fur mo nkaa Wàar mǝ Mosis.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 21:25 Mbǝ nnen ɗe mo shinzeen ɗe baa mo a nnen Yahudi mo kas, ɓǝ mu ten mulep a rǝran mmo, nkaa pwoo ɗe gyet mu yool mu ɗar nkaa nǝ, nǝ, taji mo se mee mbiise ɗe mo kǝ ten shin nkùm kas, kǝ taji mo se toom kas, kǝzak taji mo se long ɗe mo miyoor took nnǝ kas, kǝ taji mo cin ngaa kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	ACT 21:37 Kaaɗe mo nkaa ɗel kǝ Pool nɗǝǝn peetong mǝ shiitoon nǝ mo, ɓǝ wur sat ngwe ɗeɗes mǝ shiitoon nǝ mo nǝnee, <> Ngu taakyeen nǝ tal pǝ wur nǝnee, <<A man pwoo mǝ nnen Heleni mo ee?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 21:38 Tan! Baa a gha a ngu Ijip ɗe gyet nɗǝǝn meeteer ɗeɗel sǝ mo, ɓǝ wur ɓwetɓeer nkaa gwomnati, ɗewur dul gurum mo ngal feer, dǝm nɗang shin a naaryil, mbǝ twe gurum mo sǝ kas ee?>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 22:3 <<An a ngu Yahudi, ɗe mo làa an a nTarsus mǝ yil nSilisiya. Ɗangɓǝ nwurang a nɗǝǝn pee nkaam ɗesǝ. An nkam tang ran a nsar mǝ Gamaliyel. Mo kǝ tap kám nghan rǝret hakyeng nɗǝǝn Wàar ɗe mo a mǝ puun fun mo, ɗe an kǝ zuur ɗes zam mbǝ cìn ɗak Naan, koo wun sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 22:5 Koo a pris ɗeɗes sǝ, kǝ nen ɗenan-nan ɗesǝ mo, ɓǝ mon mmak ɗar langtǝng fen, nǝ pwoo ɗe an pǝ sat nǝ azeen. Mbǝɗǝ gyet wen kǝn lap ɓǝǝt-haal a pǝ mo, mbǝkǝ nghan ndǝm kǝ nǝ nɗyemnǝǝn fun nnen Yahudi mo, ɗe mo kǝ tong nɗǝǝn Damaskus, kǝ nghan nyak nenseet nɗang Jesu, ɗe mo kǝ tong pee nkaam mǝnǝ. Mbǝkǝ nghan jì ɗi kǝ mo nJerusalem a ɓuɓwoot, kǝn mmo shinjeel ɗi mmo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 22:6 <<Kaaɗe an a ar yoo mwaan nǝ, ɓǝ jì nwul kus kǝ Damaskus, koo puus a naar sǝ. Nnen mman, ɓǝ mee peeɓang ɗeɗes, tong aɗeng sham ɓangpee ɗe an ɗi cǝǝrkaat.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 22:12 <<Mee gwar ɗi ɗe mo kǝ petsǝm wur a Ananiyas, wur a mee nguseet ndang Naan, ɗewur kǝ cìn mbii ɗe Wàar Mosis moo sat rǝret. Nnen Yahudi ɗe mo kǝ tong nDamaskus jir, moo shin ɗeɗes nwur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 22:14 Ɓǝ wur sat nghan zak nǝnee, <Naan mǝ puun fun mo, kǝ bǝlǝp gha, mbǝkǝ nghan man mbii ɗe Naan kǝ reɓet kǝn gha cìn ɗi, kǝ mbǝkǝ nghan naa Ngwe ɗe ndǝre sǝ, kǝ nghan kǝlǝng ɗoopwoo wur ɗi zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/3>	ACT 22:16 Yaksǝ, ɓǝ aa yap a mii? A yool kǝn mmo cìn baptisma ɗe ngha, Mbǝkǝ nghan ɗang ɗi nɗǝǝn sǝm mǝ Daa, kǝn nwur vwang shikbish fwaa mo ɗi.> >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 22:17 <<Kaaɗe waa baa nji nJerusalem, ɓǝ an nkaa ɗangnaan nɗǝǝn Lu Naan ɗeɗes, ɓǝ nsuun suun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 22:21 Ɓǝ Daa sat nghan nǝnee, >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 23:4 Nen ɗe moo ɗar ɗi a pee nǝ, mo sat mPool nǝnee, <<Waa aa fǝlǝp a pris ɗeɗes mǝ Naan mmǝnǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 23:14 Yaksǝ mo jì pǝ pris ɗenan mo, kǝ nen ɗenan-nan mo, mo sat nǝnee, <<Mun muu ɓalpwoo fun ɓalɓal ashak, kǝ mmun tuweer nɗǝǝn sǝm mǝ Naan nǝ, baa mun cam mee mbiise kas, tǝng mun tu Pool akuɗang.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 23:20 Làa zǝlang nǝ sat nǝnee, <<A nnen Yahudi mo kǝ ɓalpwoo mo ashak nǝ, mo mbǝ jì ɗang pǝ gha, mbǝkǝ daar a dǝm ɗi kǝ Pool a pee ɓeetpwoo. Mo mbǝ cìn koo mo a mbǝ baa naa pwoo nǝ ɗi rǝret sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 23:21 Taji a reɓet mmo kas, mbǝɗe gurum mo met nlaarfeer mɓut mmo, mo kǝ lǝǝm a ar, mo mbǝ yap Pool dǝm. Mo kǝ ɓǝlemcuk shi toom nɗǝǝn sǝm mǝ Naan nǝ, baa ɗun nse, koo shwaa mee mbii kas, tǝng ɗun ntu Pool akuɗang. Yaksǝ mo kǝ ɗak sut, moo ɗar naa a ɗe gha mbǝ lep Pool shindǝm ɓejee.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 23:26 <<Tokshik nsar ngwe ɗeɗes Klodiyus Lisiyas, dǝm pǝ ngwe ɗeɗes gofna Feliks ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 23:30 Ɓǝ kaaɗe nkǝlǝng nǝ pak nnen Yahudi nǝ mo kǝ ɓalpwoo mo mbǝ tu gwar nǝ, ɓǝ nlep wur shindǝm pǝ gha ɗi abet. An kǝn nsat nnen ɗe mo kǝ pwoo nkaa wur nǝ, kǝn mmo dǝm leshap ɗe mo kǝ nǝ nkaa wur ɗi ntoom fwaa.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 24:2 Kaaɗe mo pet Pool, ɓǝ Tartulus ɗoom leshap nkaa Pool nǝnee, <<Waa Feliks ngwe ɗeret met jir. A mbǝ gha, ɗang muu tongriyang, hakyeng, kǝ a mbǝ ɗak ɗeret fwaa mo zak, ɗang yil fun ɗesǝ nǝ ɗee a ɗe ɗak, koo a mpee ɗeɗangyii.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 24:8 Yaksǝ Lisiyas sat nnen ɗe mo kǝ pwoo nkaa wur nǝ, kǝn mo jì pǝ gha ɗi. Katɗang a tal pwoo mo nkaa mbii ɗe muu sat sǝ mo shikáa fwaa pǝ wur, ɓǝ a mman zeen mǝ pwoo ɗesǝ mo jir, ɗe muu jì kǝ mo nkaa wur.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 24:10 Ɓǝ gofna kam sar mPool, mbǝkǝ nwur leshap ɗi. Yaksǝ Pool sat nǝnee, <<Wen man nǝ, waa aa cìn ɓit mo ɗes, ɓǝ gha nkaa tokɗyeel nnen ɗesǝ mo. Mbǝ mǝnǝ ɓǝ an pǝ leshap ɗesǝ nǝ a shi retnyit, mbǝ put kǝ káa fen.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 24:17 <<Aɓwoon mǝ ɓit mo ruk, ɓǝ wen njì kǝ shool mbǝ ɓam nen fen mo, kǝ mbii mo mbǝ wus mbiizuum nNaan zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 24:21 Ɗee a mbii mǝndong, ɗe ɗiyeep ɗoo fen nnaar mo, ɓǝ a an sat mmo nǝnee, >>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 25:4 Ɗangɓǝ Festus lap mmo nǝnee, <<Pool wur a ɓuɓwoot nSizariya. An shikáa fen, wen nreɓet yool sham nSizariya nǝ nɗǝǝn meeteer ɗesǝ mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 25:5 Wur sat zak nǝnee, wu yit kǝn mpak nen ɗenan-nan mo mɓut nwun, mo sham ashak kǝ an, mbǝkǝ mmo sat mbii ɗebish ɗe gwar nǝ wur cìn mo ɗi.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 25:10 Ɓǝ Pool sat nǝnee, <<An mbǝ ɗar a ntoom mbii tong mǝ tokɗyeel mǝ Siza, a pee ɗe nǝ ret kǝ mmo tokɗyeel ɗi nghan mmǝnǝ. Baa an kǝn cìn mee shikbish nnen Yahudi mo kas. Waa shikáa fwaa a man azeen-zeen nǝ, baa an kǝn cìn mee mbii ɗebish kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 25:11 Katɗang yoo an kǝn tep Wàar nǝ, koo cìn mee mbii ɗebish ɗe nǝ mak kǝn mmo tu an, ɓǝ ɗi baa an kǝǝrmuut nǝ kas. Ɗangɓǝ katɗang ɓǝ baa mee zeen ɗi nɗǝǝn mbii ɗe nnen ɗesǝ moo ɗyeel fen mbǝ nǝ kas, ɓǝ baa mee gurum mak shin an nsar mo kas. An kǝn reɓet kǝ a Siza tokɗyeel nǝ nghan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 25:14 Mbǝɗǝ mo kǝ cìn teer mo ɗes ɗi nSizariya nǝ, ɓǝ Festus yakshii mǝ pwoo nkaa Pool mishkoom Agripa, wur sat nǝnee, <<Mee gwar ɗi, ɗe gyet Feliks yit wur a ɓuɓwoot nlushoot.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 25:21 Ɗangɓe kaaɗe Pool ɗang nǝ, tǝng a Siza tokɗyeel nǝ nɗyin, ɓǝ wen nle kǝ mmo tap kǝ wur rǝret, dǝm wul parpuus ɗe an mbǝ lep wur shindǝm pǝ Siza ɗi.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 25:24 Ɓǝ Festus sat nǝnee, <<Mishkoom Agripa, kǝ wun nen ɗe wun ashak kǝ mun jir mpee ɗesǝ. Wu naa gwar ɗesǝ, dǝ nnen Yahudi mo jir, mo kǝ jì kǝ ɗyeel nkaa wur pǝ an ɗi nJerusalem, kǝ mpee ɗesǝ zak. Dǝ mon nkaa ɗyeep ɗoo ɗang moo sat nǝ baa nǝ ret kǝ mmo yit gwar ɗesǝ ɗi mmeen kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 25:27 Mbǝɗǝ wen naa nǝ ɗee a koo ɗak mwen sǝ, kǝn mmo lep mee gurum shindǝm a ɓuɓwoot, baa ashak kǝ satpwoo nkaa mbii ɗebish ɗe ngwe nǝ cìn kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 26:2 <<Azeen-zeen, mishkoom Agripa, yaksǝ ɓǝ nǝ fes shang nghan zam, mbǝɗe wen nkatpee leshap mǝ shang nkáa fen ntoom fwaa cicinsǝ, nkaa mbii ɗe nnen Yahudi moo sat cin nkaa an mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 26:11 Yit ɗes, ɓǝ nshinjeel nnenseet nɗang Jesu nǝ mo nɗǝǝn lu Naan mo zak. Gyet kǝn reɓet le kǝn mmo cíipwoo nǝ, baa Jesu a Kristi kas. Mbǝɗǝ gyet njar naa mo nyit bǝbish zam. Mbǝ mǝnǝ ɓǝ gyet mmwaan ndǝm mpee nkaam ɗe baa mo a mǝ nnen Yahudi mo kas, mbǝkǝ nghan nshinjeel ɗi nnenseet nɗang Jesu mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 26:12 <<Par sǝ mpuus ɓǝ an a ar dǝm nDamaskus mbǝ yak nenseet nɗang Jesu nǝ mo, shi ɓal ɗe kǝn nlap pǝ pris ɗenan mo, ɗǝ a mo lep an zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 26:15 Ɓǝ ntal nǝnee, Yaksǝ Daa sat nghan nǝnee, <A an Jesu ɗe aa shinjeel nghan sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 26:16 Yaksǝ a yool a ɗar atǝng, mbǝɗe an mbǝ woo sen fen ngha, a mbǝkǝ nghan ɗee ɗe a nguɗak fen, kǝ nguɗar langtǝng ngurum mo nkaa mbii ɗe aa naa, kǝ mbii ɗe an mbǝ kám mo nghan zak.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 26:18 Mbǝkǝ nghan wang yit mo mo ɗi. Kǝn mmo yit peenkwoo, kǝ mmo ɗel ɗi nɗǝǝn peeɓang. Kǝzak mbǝkǝ mmo put ɗi mɓut mɓal mǝ ngujwaan. Kǝn mmo jì ɗi pǝ Naan zak. Mbǝkǝ katɗang mo shinzeen, ɓǝ mon nkat fwoo mǝ shikbish fur mo, kǝn mon nkat peetong ɗe ashak kǝ nen ɗe Naan kǝ ten bǝlǝp mo zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 26:19 <<Mishkoom Agripa, baa gyet ncii cìn mbii ɗe suun ɗe nǝ tong aɗeng sham sat nghan kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 26:23 Nǝ, tǝng Kristi mbǝ shwaajeel, kǝ a wur a ngwe ɗenshee mǝ yool a peemúut zak. A wur mbǝ shee leshap nkaa peeɓang nǝ nnen Yahudi mo, kǝ nen ɗe baa mo a nnen Yahudi mo kas zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 26:25 Ɓǝ Pool lap nǝnee, <<Baa an a ngutar kas Festus, ngwe ɗeret met jir. An kǝn sat a pwoo ɗe mo azeen-zeen kǝ ɗe mo a ndǝre zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 26:27 Mishkoom Agripa, a shinzeen nnensat pwoo mǝ Naan mo ee? Mman nǝ, a shinzeen.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 27:21 Mbǝɗǝ gurum nǝ mo kǝ cìn teer mo ɗes nnen se mbiise, ɓǝ Pool yool nnaar mo, ɓǝ wur sat nǝnee, <<Daa mo, katɗang dǝ wu kǝlǝng pwoo fen, ɓǝ baa dǝ wun nyool nɗǝǝn yil nKrit, kǝn nwun shwaajeel ɗesǝ, kǝn nwun bǝlang nlée fuu mo kǝrong kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 27:24 <<Ɓǝ wur sat nghan nǝnee, 	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 27:26 Ɗang jir kǝsǝ ɓǝ kut nǝn tǝp tii nǝ shweer nkaa mee yil ɗe am neer nǝ ciirkaat.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 27:33 Kaaɗe ɓit kus kǝ mang, ɓǝ Pool sat ngurum nǝ mo jir kǝ mmo se mbiise, wur sat nǝnee, <<A teer mo kaapaat baafeer nɗesǝ, ɓǝ wun pǝ tong gongpee, kǝ baa wu se mee mbiise kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 27:34 Mbǝmǝnǝ kǝn ɗang pǝ wun, mbǝkǝ nwun se mbiise, mbǝɗe mǝnǝn nshínɓal nwun nɗǝǝn shik fuu mo. Baa mee shweepkáa mǝ mee gurum mǝndong nɗǝǝn wun nǝn nloom kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 28:17 Aɓwoon teer mo kun, ɓǝ Pool pǝrep nen ɗenan-nan mǝ nnen Yahudi mo. Kaaɗe mo kuur ashak, ɓǝ wur sat mmo nǝnee, <<Ɗyemnaa mo, baa kǝn cìn mee mbii ɗebish nnen fun mo kas. Koo a nkaa mǝse mǝ wàar puun fun mo, ɓǝ baa kǝn cìn mee mbii ɗebish kas, jir kǝsǝ, ɓǝ mo yaa an shin nnen Rom mo a ɓuɓwoot nɗǝǝn yil nJerusalem.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 28:20 A mbǝ pwoo ɗesǝ, ɓǝ wen nyappee ɗe an nnaa wun ɗi, mbǝkǝ wen leshap ɗi kǝ wun, mbǝɗe a mbǝ canciin ɗe nnen Isreil mo kǝ nǝ, ɗang an ɗi a ɓuɓwoot shi shoolbǝring ɗesǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 28:21 Mo sat nwur nǝnee, <<Baa mmun muu kat mee lep a rǝran nyil Judiya nkaa gha kas. Kǝzak baa mee ɗyemnǝǝn fun mo jì mpee ɗesǝ, kǝn mmo satpwoo ɗi mmun nkaa gha, koo mo sat mee pwoo mmun nkaa mbii ɗebish ɗe a cìn mo kas zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	ACT 28:22 Ɗangɓǝ mu rǝɓet kǝlǝng nǝ mpwoo fwaa mbii ɗe gha naa nǝ ret, mbǝɗe katɗang a pwoo nkaa Ar ɗesǝ nǝ, ɓǝ mu man nǝ, koo a nii, ɓǝ mo nkaa leshap ɗebish nkaa nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	ACT 28:25 Kaaɗe baa mo kǝlǝngkar nǝ ashak jir kas, ɓǝ akuɗang moo rangkáa, ɓǝ Pool sat mee pwoo mmo mǝndong, nǝnee, <<Azeen-zeen pwoo ɗe gyet Riin Ɗeɓang wur kǝ sat mpuun fuu mo nsar kǝ ngusat pwoo Naan Aizaya nǝnee,	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	ACT 28:26 <A dǝm pǝ nnen ɗesǝ mo ɗi, kǝn nghan sat mmo nǝnee, wun nsat a kǝlǝngpee, ɗang baa wun mmanshii mǝ mbii ɗe wun kǝlǝng nǝ kas koo dǝɓen. Wun nsat a nnaapee ɗak, ɗang baa wun mmanshii mǝ mbii ɗe wuu naa nǝ kas koo dǝɓen.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	ACT 28:27 Mbǝɗǝ pǝtuup mǝ nnen ɗesǝ nǝ mo fii ɗee kakras. Mo kǝ duur kom fur mo, ɗang mo kǝ kup ar fur mo zak. Mbǝkǝ taji mo naapee shi yit fur mo, kǝ taji mo kǝlǝngpee shi kom fur mo zak, kǝzak, mbǝkǝ taji mo manshii nǝ nɗǝǝn pǝtuup fur mo. Kǝn mmo ciir pǝ an ɗi, ɓǝ yool an ɓam mo.>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<9/1>	1CO 2:9 Kaaɗǝ mo kǝ ten ran ndǝǝn ɓǝǝt haal sǝ nǝnee, <<Mbii ɗi baa gurum kǝ cham naa kǝ yit kas, <<ɗe baa gurum kǝ cham kǝlǝng nǝ shi kom kas, <<ɗe baa pǝtuup gurum kǝ cham pan <<mbii ɗe Naan wur kǝ tap ɗak nǝ le, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	1CO 3:20 Kǝzak, <<Daa wur man nǝnee, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	1CO 9:9 Mo kǝ ten ran nǝ ndǝǝn ɓǝǝt haal Wàar Mosis nǝnee, <<Taji a lep shang nkus randong mpwoo, <<kaaɗǝ nǝ nkaa tǝreng ɗeɓen mbong <> Naan wur kǝ pan aa randong mo aa?	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<7/1>	1CO 10:7 Taji wu ɗee a nenkum mo, kaaɗe gyet pak mo ndǝǝn mo, mo cìn sǝ kas, kaaɗe mo kǝ ten ran ndǝǝn ɓǝǝt haal mǝ Naan sǝ nǝnee, <<Gurum nǝ mo tong nyil, <<mbǝkǝ mo se gwom kùm, <<kǝ shwaa mwes, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<7/1>	1CO 11:24 Aɓwoon ɗi wur kǝ cìn ɗangnaan (leshap kǝ Naan) mǝ pǝlang Naan nkaa gill aas nǝ, ɓe wur yilang nǝ, wur sat nǝnee, <<Ɗesǝ nǝ a fwoshik fen, <<ɗi wen kǝn shin nǝ mɓe wun, <<Wu naa nshìn aasǝ, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<9/1>	1CO 14:21 Mo kǝ ten ran ndǝǝn ɓǝǝt haal Naan nǝnee, <<A shi gurum ɗi moo leshap ɗecǝ mo, <<kǝ a shi lǝpwoo kǝ mǝzep mo, <<ɓe wen nkatpwoo nen ɗesǝ mo, <<a ɗishik ɗangbe jir kǝsǝ, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1CO 15:54 Aɓwoon ɗi fwoshik fun ɗi mo a mǝ wam, mo lep fwoshik ɗi baa mon cham wam kas, kǝ fwoshik fun ɗi mo a mǝ muut, mo lep fwoshik ɗi baa mon cham murǝp kas zak. Ɗangɓe sǝmpwoo ɗi mo kǝ ten ran nǝ ndǝǝn ɓǝǝt haal kǝ Naan nǝn ngam ɗi, ɗe nǝ sat nǝnee, <<Mo kǝ see koorong kǝ muut hakyeng kǝnding-nding.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	1CO 15:55 Muut, koorong fii nǝ a nneyi? Muut, ɓal fii ɗi wii twe gurum mo ɗishik sǝ nǝ a nneyi?>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2CO 6:17 Mbǝmǝnǝ bǝ wu put aku, <<mɓut nen ɗe baa mo shinzeen kas, kǝ wu ɓàkshak kǝ mo zak, Daa Naan wur sat akǝsǝ. Taji wu tung mee mbii ɗe nǝ a ɗerap kas, ɗangɓe wen nlap wun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	2CO 6:18 Wen nɗee a puun fuu, kǝ wun nɗee a jep fen ɗemish mo, kǝ ɗe mat mo. A Daa ɗeɓal met jir, wur sat pwoo mǝnǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2CO 7:11 Wu naa, mbii ɗe Naan wur kǝ cìn kǝ pǝtuup ɗewat nǝ, nǝ le kǝ wu ɗak mǝse fuu mo azeen-nzeen. Kǝ nǝ le kǝ wuu reɓet kám agaak nǝ, baa gyet wu man mee mbii ɗebish kas, har nǝ kǝ le kǝ wu kat canciin. Nǝ le kǝ wu katɓal, kǝ nǝ le kǝ wu kat gung nɗǝǝn kar fuu zak. Mɓut mbii ɗesǝ mo, bǝ koo a nɗǝǝn ar ɗeɗangyi, ɓe nǝ kám azeen-nzeen nǝnee, << wuu mwaan a nɗǝǝn ɗeret.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	GAL 2:8 Ɓe mo naa nǝnee, << Naan ɗewur shinɓal mPita, mbǝkǝ wur ɗee ɗe a ngusatpwoo ɗeret nǝ nen Yahudi mo, a wur shinɓal nwen zak, mbǝkǝ wen ɗee ɗi a ngusatpwoo ɗeret nǝ nen ɗe baa mo a nen Yahudi mo kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	GAL 5:2 Wen Pool, an nkaa sat nǝ wun nee, katɗang wu yit mmee gurum can wun, ɓe nǝ ɗee agaak nǝnee, << mbii ɗe Kristi kǝ cìn mbǝ wun, ɓe nǝ ɗee a buu mǝnǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	1TH 5:3 Nciit kǝ mǝnǝ, ɓe gurum mon mɓwet sut, ɗang mon nsat nǝnee, << <> Ɗangɓe, ndi mman, mee jeel kǝ shwal ntaa nkaa mo, kaa shwal ɗe mat moo kǝlǝng nǝ, kaaɗe mo pǝ làa-làa sǝ. Parmǝnǝ ɓe baa mee gwar mbar kas koo mǝndong.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	TIT 2:2 A kám nen ɗekukun mo nǝnee, << nǝ ret kǝ mo ɗee a nen ɗe mo ya sut, kǝ mo le pǝtuup fur mo ɗar a pee mǝndong. Taji mo ɗee ntan kas, ɗangɓe mo ɗee a nen ɗe mo ɗar ɓalɓal nɗǝǝn shinzeen nǝ. Nen ɗe mo wal ngurum mo, kǝ nengung nɗǝǝn mbii mo zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	TIT 2:3 A sat mmat ɗenan mo nǝnee, << nǝ ret kǝ mo kǝ mwaan kaa nen ɗe mo man Naan sǝ. Taji mo satpwoo ɗebish nkaa gurum mo kas. Taji mo ɗee a kǝrem mǝ shwaa mwes kas. Nǝ ret kǝ mo kám mbii ɗeret ngurum mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	TIT 2:6 A sat jepzǝlang mo nǝnee, << nǝ ret kǝ mo yaasut.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	TIT 2:9 A sat kǝrem mo nǝnee, << mo sham kǝ káa fur mo ndǝr nen ɗe mo sǝrep mo, kǝ mo cìn mbii ɗeret nen ɗe moo mo zak. Taji kǝrem mo lapwoo nen ɗe mo sǝrep mo shiɓal kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	TIT 3:1 A lepan nen fwa mo nǝnee, << nǝ ret kǝ mo sham kǝ káa fur mo ndǝr mishkoom mo, kǝ nen ɗe mo kǝ ram jir. Nǝ ret kǝ mo kǝlǝng mo, kǝzak mo tong shi ɗak sut, mbee cìn jir ɗak ɗeɗang ɗe nǝ a ɗeret.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	TIT 3:11 A man nǝnee, << gurum kaa mǝnǝ sǝ, ɓe pan wur mo jir a ɗebish, a ngushikbish, wur shikáa wur, kǝ ten man nǝ; ɗyin a ɗebish.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	JAM 2:8 Katɗang wu fes wu gam wàar, ɗe nǝ put a pee Naan ɗe azeen-nzeen, ɗe mo kǝ ten ran nǝ nɗǝǝn ɓǝǝt haal Naan nǝnee: <<<> <<Ɓe wu cìn a mbii ɗeret hakyeng.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<6/2>	JAM 2:11 Ngwar ɗe wu sat nǝ: <<<<Taji wu chìn ngaa kas, <<kǝ >> Ɗangɓe katɗang mee gwar tukáa, ɓe gwar mǝnǝ kǝ tep wàar Naan nǝ mmǝnǝ, koo ɗe baa wu chìn ngaa kas, ɓe nǝ ɗee nǝ, gwar mǝnǝ taa pal nɗǝǝn mbii ɗe Naan kǝ ten sat nnǝ taji wu cìn kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<7/1>	JAM 2:23 Ni gam mbii ɗe gyet mo kǝ ten ran nǝ nɗǝǝn ɓǝǝt haal Naan sǝ nǝnee: <<<<Abraham wu shinzeen nNaan, mpeemǝnǝ ɓe <<Abraham wu ɗee a gwar ɗe ɗeret nyit <> ɗang gyet gurum moo pet wu a shaar Naan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	JAM 4:5 Wu pan nǝ, pwoo ɗe mo kǝ ten ran nǝ nɗǝǝn ɓǝǝt haal kǝ Naan, nǝn nɗee a buu aa? Ɗe mo ran nǝ: <<<<Riin ɗe Naan wu le nɗǝǝn pǝtuup fuu mo, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	JAM 4:6 Ɗangɓe ɗeret ɗe Naan wu shin mmun, nǝ ɓal met choor ɗebish ɗe mo nɗǝǝn pǝtuup fun mo. Ni a kaaɗi mo kǝ ten ran nɗǝǝn ɓǝǝt haal Naan sǝ nǝ: <<<<Naan wu chii nyemroop mo, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 1:6 Mpeemǝnǝ wu cìn retnyit ɗes, mbee mbii ɗe Naan wur tap ɗak mo le mbee wun nɗǝǝn ɗengnaan, koo ɗe nyaksǝ ɓe wun kǝ pǝtuup ɗewat mbee jeel ɗe wuu shwaa mo. Wen man nǝnee, << jeel ɗe wuu shwaa mo nyaksǝ, a mbee reppee lee ɓejee.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 1:12 Naan wur kám mmo nǝnee, << baa mon mmak naa gam nǝ nɗǝǝn teer fur mo kas, ɗangɓe a wun naa gam nǝ. NYaksǝ nen ɗe mo satpwoo ɗiiret nǝ nwun, mo kǝ ten sat mbii mo nwun jir, kaaɗi Riin nNaan ɗewur tong aɗeng sham, wur shìn ɓal mmo sǝ. Nen lep Naan mo shikáa fur, mo rǝɓet naa mbii ɗesǝ nǝ mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 1:15 Nǝ ret kǝ nwun man nǝnee, << Naan ɗewur pǝrep wun kǝ nwun ɗee a nen wur mo, wur a Naan ɗeɓang. Nǝ a tǝng, ɓe wu yit kǝ mwaan fuu mo ɗee a ɗeɓang nɗǝǝn mbii mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	1PE 1:16 Nǝ a nciit-nciit kǝ mbii ɗe mo kǝ ran nɗǝǝn ɓǝǝt haal Naan sǝ nǝnee, << <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 1:18 Wu man nǝnee, << Daa Jesu wur seet wun, a mbǝkǝ wur put ɗi kǝ wun nɗǝǝn wàar ɗebuu mǝ gurum ɗe gyet puun fuu moo cìn. Baa Daa Jesu wur seet wun a shi zinariya, koo azurfa ɗe moo wat sǝ kas,	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 1:20 Naan wur kǝ ten sat mbii ɗesǝ aasǝ, akuɗang wur leyil ɗesǝ, nǝnee, << Jesu wur mɓam gurum mo a nɗǝǝn ar ɗesǝ. NYaksǝ, kaaɗi yil nǝ kus kǝ kyes, ɓe Naan kám Jesu mmun agaak mbee wun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 1:22 Wuu ten wu le pǝtuup fuu mo ɗee a ɗeɓang, mbǝɗe wuu cìn mbii ɗe azeen, ɗe pwoo Naan nǝ sat nǝnee wu cìn mo, azeen-nzeen, wuu wal nendǝm nɗang Kristi mo. Mpeemǝnǝ nghan nkaa sat nwun nǝnee, << wu walnshak shi pǝtuup fuu mo, kǝ ɓal fuu mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 1:23 Kaji wu mundǝr nǝnee, << moo baa làa wun ɗi apoo a buu kas, ɗangɓe mbee ɓal ɗi nǝ nɗǝǝn pwoo wur ɗe nǝ jì kǝ seen. Baa mee mbii mak wat pwoo wur nǝ kas, nǝ tong ɗi mbe ngha-ngha. Baa a nen ɗemǝmurep mo làa wun nyaksǝ kas, ɗangɓe a Naan ɗe baa wur muut kas, a wur shin seen ɗesǝ nǝ nwun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<9/1>	1PE 1:24 Gyet nyam ɓe mo ran nɗǝǝn ɓǝǝt haal nNaan nǝnee: <<<<Gurum mo jir mo a kaa shit ɗe <<nǝ fii sǝ, men fur nǝ a kaa <<pel ɗe nǝ ciir fii kǝlak-kǝlak sǝ, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	(0/1)	1PE 2:2 Ɗang nǝ ret kǝ mwaan fuu nǝ ɗee a kaa mǝ jep ɗe mo làa mo apoo, ɗe moo tang a wur pee nǝǝn fur mo shidaar-shidaar sǝ. Nǝ ret kǝ neen am tu wun mbee wur ɗi nǝ azeen-nzeen. kǝ mǝnǝ, a pwoo Naan ɗe nǝ shin ɓál nwun shidaar-shidaar, mbe parpuus ɗe Naan wur mɓam wun.)	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 2:3 Nǝ ret kǝ nwun sat a tang pwoo Naan shidaar-shidaar, mbǝɗe wun shikáa fuu wu man nǝnee, << Daa fun Jesu Kristi wur wal mmun zam.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	1PE 2:6 Gyet mo kǝ ten ran nɗǝǝn ɓǝǝt haal Naan, ɗe Naan sat nǝnee:<<Wu naa ghan nkaa le mee nhik nɗǝǝn Zayon, <<mbǝkǝ lu fen ɗar ɗi hakyeng. <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	1PE 2:7 Wun nen ɗe wuu shinzeen nɗǝǝn wur, ɓe wur kǝkoop nǝ pee wun ɗi hakyeng. Ɗang nen ɗe baa mo shinzeen wur kas, ɓe nǝnee: <<<<Ngǝk ɗe gyet nen ɗyiklu mo cii, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<7/1>	1PE 2:8 Mo waa baa ran nɗǝǝn ɓǝǝt haal Naan nǝnee, << <<<<Ɗesǝ nǝ a nghǝk ɗe nǝ le gurum <> Mbii ɗe nǝ le ɗang gurum mo canshii kǝ mo pal, nǝ a mbǝɗe mo cii cìn mbii ɗe pwoo Naan sat nǝ mo cìn. Naan wur kǝ ten sat yam-yam nǝ nǝ nɗen aasǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 2:16 Wun a nen ɗe baa wun a shishoot kas, ɗangɓe koo ɗi baa wun a shishoot kas, ɓe taji wu sat nǝnee, << katpee fuu nǝ shínpee nwun mbee cìn shikbish kas. Ɗang nǝ ret kǝ nwun mwaan-mwaan ɗeret mǝ kǝrem nNaan mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 2:19 Ngwe ɗewur gung nɗǝǝn shwaajeel, ɓe ngwe mǝnǝ man nǝnee, << gung nɗǝǝn jeel nǝ ret nNaan nyit. Koo ɗe gwar nǝ shwaa jeel nǝ, katɗang baa a mbee mee mbii ɗebish ɗewur cìn kas. Nǝ ret kǝ a ngwe mǝnǝ kat pǝlang pee gurum mo ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 3:7 Wun mish mo, nǝ ret kǝ nwun tong kǝ mat fuu mo nɗǝǝn ar ɗe nǝ ret, mbǝɗe wu man nǝnee, << baa mat mo kǝ ɓal a kaa mish mo sǝ kas. Mbǝmǝnǝ wu shin ɗeɗes mmo, mbǝɗe wun kǝ mo, wun ashak. Wun nkaa tap seen ɗe Naan wur shin nwun nzuum. Katɗang wu cìn mbii mo a nɗǝǝn ar ɗeret ɗesǝ, ɓe baa mee mbii mmak le kǝ ɗangnaan fuu mo ɗee a buu kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<8/0>	1PE 3:10 Duk kǝ ran nɗǝǝn ɓǝǝt haal Naan nǝnee: <<<<Katɗang mee ngwe kǝ rǝɓet tong shang shang nɗǝǝn seen ɗeret, <<ɓe taji gwar mǝnǝ kuɗi kǝ sat mee pwoo ɗebish kas. <<Taji gwar mǝnǝ cìn ɗung kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<6/0>	1PE 3:11 Nǝ a tǝng, ɓe gwar mǝnǝ yit cìn mbii ɗebish mo jir. <<Ɗang nǝ ret kǝ gwar mǝnǝ cìn a mbii ɗeret mo ɓejee ɗak. <<Nǝ ret kǝ nwur sat a ntang tongryang kǝ nwur kat nǝ zak, <<mbǝkǝ wur kat tongryang ɗe pǝ Naan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	1PE 3:12 Naan wur tap nen ɗe moo cìn mbii ɗeret mo, shidaar-shidaar, <<kǝ Naan wur kǝlǝng ɗangnaan mmo. <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 4:8 Mbii ɗe nǝ koop nǝ met jir nǝ a nǝnee, << wu sat a walnshak shi pǝtuup mǝndong shidaar-shidaar. Mbǝɗe katɗang wuu wal ngurum mo, ɓe baa wun nsat a pan shikbish ɗe mo cìn mo nkaa wun kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	1PE 4:18 Nǝ a rǝran nɗǝǝn ɓǝǝt haal nNaan nǝnee: <<<<Katɗang nǝ nluk, mbǝkǝ nenɗeret mo kat ɓam, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	1PE 5:5 Wun jepzǝlang mo, wu sham kǝ káa fuu mo ndǝr nennan mo. Wun jir, wu shin ɗeɗes nshak, kǝ nwun tong shi ɗak suk mbee cìn ɗak nshak. Mbǝɗe nǝ a rǝran nɗǝǝn ɓǝǝt haal nNaan nǝnee: <<<<Naan wur cii nenroop mo, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 5:6 Nǝ aasǝ ɓe wen kǝn sat nwun nǝnee, << wu sham kǝ káa fuu mo ntoom nNaan ɗewur kǝ ɓal, mbǝkǝ wur ɗiyeep wun ɗi, katɗang wur naapee nǝ wul wur nyit.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 5:9 Wu ɗar ɓalɓal. Taji wu shin pee nwur kas. Wu sekyeen kǝ cìn ɗak nNaan ɓejee ɗak. Taji kǝǝrmuut ya wun kas. Wu man nǝnee, << ɗyemnǝǝn fuu nen Jesu mo koo a nǝ nɗǝǝn nyil ɗesǝ, ɓe mon nkaa shwaajeel kaaɗi wuu shwaajeel nyaksǝ sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 5:12 A Silas ɓam ghan mbee ran rep wasika ɗesǝ nǝ, nwun. Wen kǝn naa wur a kaa ɗyemnǝǝn nɗǝǝn Kristi sǝ, ɗewur koop nǝ hakyeng, ɗe gurum mak gángkáa nkaa wur. Wen kǝn ran pwoo ɗesǝ mo nwun, a mbǝkǝ nghan caa pǝtuup fuu mo ɗi. Wen a nkaa sat zeen nǝ nwun agaak nǝnee, << Naan wur le ɗeret nkaa wun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	1PE 5:14 Wun zak, wu tok kǝ shak nɗǝǝn wal, kǝ nǝ kám ɗi nǝnee, << wuu wal nshak kaa ɗyemnǝǝn ɗe moo dǝm nɗang Jesu ashak sǝ. Wu yit kǝ ryang nDaa Jesu Kristi nǝ tong ashak kǝ wun jir, wun ɗe wun a mǝ Jesu Kristi mo. Amin.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 1:5 Mpeemǝnǝ, ɓe wen kǝn sat nwun nǝnee, << kaaɗi wuu ten wu shinzeen nJesu Kristi, ɓe wu gung, mbǝkǝ shiimwaan fuu mo ɗee ɗi a ɗeret hakyeng, kǝzak, wu gung kǝ nwun man mbii mo ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 1:9 Ɗang nen ɗe baa mo kǝ ɗyen ɗe nǝ a mǝ Naan kas, mo a kaa vum ɗe baa moo naapee kas sǝ. Mo mundǝr nǝnee, << Naan wur kǝ ten fwo ɗi mmo mbee shikbish ɗe moo cìn.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 1:14 Wen man nǝnee, << nɗǝǝn rep pee lee, ɓe yak ghan nyit nan mǝ yil ɗesǝ nǝ ɗi, kaaɗi gyet Daa fun Jesu Kristi wur kám nwen nǝ, an cìn aasǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	2PE 1:17 Kaaɗi, gyet Jesu wur lap ɗeɗes kǝ ɗehai, pǝ Naan ɗi, ɓe mun ɗe gyet mu kǝlǝng, kaaɗi Naan ɗeɗes met jir wur sat mee pwoo nǝnee: <<<<Ɗesǝ a Làa fen, ɗe wen wal wur. <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 1:19 Pwoo kǝ nensatpwoo kǝ Naan mo sǝǝt kám mmun agaak nǝnee, << mbii ɗesǝ mo azeen-nzeen. Nǝ ret kǝ nwun lekáa fuu mo nkaa pwoo kǝ mo nǝ mo, mbǝɗe pwoo mǝnǝ, nǝ a kaa ngyam ɗe nǝ ɓangpee nɗǝǝn kwoo sǝ, wul kus kǝ ɓitmang mǝ puus mǝnǝ. Parpuus mǝnǝ, kaaɗi zar mangɓit nǝ kàa put, ɓe nwun naa mbii mo agaak ndǝre-ndǝre nɗǝǝn pǝtuup fuu mo aasǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 1:20 Mbii ɗe nǝ kǝkoop nǝ met jir, ɓe wen kǝn sat nwun nǝnee, << pwoo ɗe gyet nensatpwoo Naan mo kǝ ten sat nǝ, ɗe mo a rǝran nɗǝǝn ɓǝǝt haal mǝ Naan, baa mo put a nɗǝǝn pan mǝ gurum mo kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 2:1 Ɗang gyet nyam, ɓe nensatpwoo mǝ ɗung mo yol ɗi nɗǝǝn gurum nǝ mo, kaaɗi nensatpwoo mǝ ɗung mon nɗel ɗi nɗǝǝn wun sǝ. Mon ncìn kám ɗebish, ɗe nǝ nwat shinzeen gurum mo, ɓe mon nciipwoo nkaa Daa Jesu Kristi nǝnee, << baa wuɗun man wur kas. Wur ɗe gyet wurang mo nɗǝǝn shikbish fur mo, mbee mbii ɗebish ɗe mon nkaa cìn nǝ. Ɓe nɗǝǝn rep pee lee, ɓe kwat ɗe nǝ a mǝ jeel ɗeɗes nǝ njì taa nkaa mo, kǝ nǝ ntwe mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/0>	2PE 2:9 Mbii ɗe mo kǝ ten ɗel gyet nyam nǝ mo, mo kám mmun nǝnee, << Naan wur man ar ɗewur mɓam nen wur mo ɗi nɗǝǝn jwaan. Mbii ɗesǝ nǝ mo waa kám zak nǝnee, << Naan wur man ar ɗewur nkwat nen cìn shikbish mo, ɗi wur nle mo ndǝr kǝ kar, jiwul parpuus ɗiyeel.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 2:19 Duk nkaa tuwap shi sǝm mo nǝnee, << mo katpee mbee cìn mbii ɗe moo rǝɓet, ɗangɓe mǝ mo nen ɗe mo sat pwoo mǝnǝ, mo a kǝrem mǝ shikbish. Mbǝɗe koo a mbemi ɗe nǝ ɗee a mishkoom nkaa gurum, ɓe ngwe mǝnǝ ɗee a kǝrem mbii nǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 2:20 Katɗang gurum mo kǝ ten put nɗǝǝn mbii ɗebish nyil ɗesǝ, ɗe moo wat, mbǝɗe mo kǝ shinzeen nJesu Kristi, ɗewur a Nguɓam fur. Ɗangɓe katɗang mo waa ciir pǝtuup, ɗang kǝ mbii ɗebish mo waa ya mo, kǝ mo se korong nkaa mo, ɓe nǝ ɗee nǝnee, << nɗǝǝn peekyes nǝ, ɓe mbii nǝ mbish nkaa mo met ɗinshee nǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<5/1>	2PE 2:22 Mbii ɗe nǝ kat mo, ɓe nǝ kám mmun nǝnee, << sǝmpwoo ɗesǝ mo azeen ɗe mo sat nǝnee: <<<>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:2 Wen kǝn ran mbii ɗesǝ nǝ mo, a mbǝkǝ nghan lepan ɗi nwun, kǝ taji wu mundǝr kas pwoo ɗe pǝgyet nensatpwoo Naan ɗeɓang mo kǝ sat nǝ, nǝnee nǝ ncìn. Taji wu mundǝr nWàar ɗe Daa fun Jesu Kristi, ɗewur a Nguɓam fun wur sat nǝnee, << wu cìn mo kas. Gyet a wur nkaa satpwoo nǝ nwun shipo jeplep wur mo, ɗewur lep mo pee wun ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:3 A pwoo ɗinshee ɗe kǝn rǝɓet sat nǝ nwun nɗesǝ. Wu man nǝnee, << kus kǝ kyes mǝ yil nǝ, ɓe gurum mon yool ya cìn mbii ɗe nǝ shang mmo nyit. Nen ɗesǝ nǝ mon nyaa shwar mǝ ɓákpee,	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<13/1>	2PE 3:4 kǝ mon nsat nǝnee: <<<<A me le ɗangɓe baa Jesu Kristi wur jì, <<kaaɗi gyet wur kǝ ten sat sǝ kas sii? <<Puun fun mo kǝ ten murep, <<ɗangɓe mbii mo ɗe a kaa pǝgyet mo ɗi sǝ, <<nciit kǝ shee yil nǝ, baa mee mbii <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:5 Nen ɗe moo satpwoo ɗesǝ, mo fes cii a nyang. Mo man nǝnee, << gyet nyam ɓe Naan wur le ɗeng kǝ yil ɗesǝ a shi pwoo ɗewur sat. Wur ɗak yil nǝ shi am, ɓe nǝ ɗee nǝ, yil nǝ put a nɗǝǝn am.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:7 Naan wur kǝ ten sat nǝnee, << ɗeng kǝ yil ɗeyaksǝ mo, mon ntong ɗi mbe parpuus ɗe wus jì caan mo jir hakyeng. Naan wur yit yil nǝ kǝ mbii ɗe mo ɗi jir, ɗang puus nǝ nwul ɗewur ntokɗyeel ngurum mo jir, kǝ wur ntwe nen ɗebish ɗe mo cii kǝlǝng ɗoo wur jir zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:8 Wun ɗe wen wal nwun mo, mee mbii mǝndong ɗe nǝ kǝkoop nǝ, ɗe baa nǝ ret kǝ nwun mundǝr nnǝ kas. Nǝ a nǝnee, << pee Naan ɗi, ɓe teer mǝndong nǝ a kaa ɓit mo ngal sǝ, kǝzak, ɓit mo ngal, ɓe nǝ a kaa teer mǝndong sǝ. Duk a ɗemǝndong pee Naan ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:9 Pak gurum moo pan nǝnee, << Naan wur cii zam, mbǝɗe baa wur nkaa cìn mbii ɗewur kǝ ten sat nnǝ, mbii mǝnǝ mon ncìn kas. Baa nǝ aasǝ kas, koo dǝɓen, Naan wur gung kǝ wun, a mbǝkǝ wur shínpee ɗe ngurum mo, mbǝkǝ mo katpee tuwap ɗi. Baa nǝ a ɗyen Naan kǝ mee gurum loom ɗi kas. Wur rǝɓet kǝ gurum mo jir, mmo tuwap.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:11 Kaaɗi wun kǝ man nǝnee, << mbii mo jir mon loom aasǝ, ɓe nǝ ret kǝ nwun ɗak tong fuu mo, kǝ nwun tap ɗi kǝ shiimwaan fuu mo. Nǝ ret kǝ seen fuu mo ɗee a ɗeɓang, kǝ nwun lesuk nɗǝǝn sar Naan kǝdǝng-ndǝng. Kǝ nwun kǝlǝng ɗoo wur nɗǝǝn mbii mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:13 Ɗangnaan wur kǝ ten sat mmun nǝnee, << wuɗin mbaa ɗak mee ɗengnaan kǝ yil ɗepoo mo ɗe, a pee ɗe mbii mo jir mon nɗee ɗi ndǝre-ndǝre. A mbii ɗe muu leyit nkaa nǝ mǝnǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:14 Wun ɗe wen wal nwun mo, wen kǝn sat nwun nǝnee, << kaaɗi nwun naa puus mǝnǝ, parɗi Jesu Kristi wur mbaajì, ɓe wu gung kǝ mwaan fuu mo ɗee ɗi a ɗiiret, mbǝkǝ wu tong ɗe ryang nɗǝǝn wur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:15 Wu man nǝnee, << mbii ɗe nǝ le ɗangɓe Daa fun Jesu Kristi wur gung, a mbǝkǝ nwun wu katpee ɗi mbee bar. Ɗyemnǝǝn fun Pool, ɗe mu wal wur, wur cìn ɗak kǝ seen ɗe Naan shin wur, mbǝkǝ wur kám mbii mo ɗi nwun, kaaɗi wur ran wasika wur nwun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	2PE 3:17 Ɗang wun, ɗe wen wal nwun mo, wuu ten wu man mbii ɗesǝ mo. Mbǝmǝnǝ, wen kǝn sat nwun nǝnee, << wu tap kǝ taji nen ɗe mo cii Naan, mo le kǝ nwun táa wu pal nɗǝǝn shikbish mmo kas. Kaji wu shínpee mmo, kǝ mo le kǝ nwun yol wu yit peeɗar fuu ɗeret nǝ kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	JUD 1:14 Enok, wur a ɗang ɗepwoovǝl nɗǝǝn cirem Adam, wur satpwoo nkaa mo nǝnee, <<Wu naa, Daa wur kǝ jì kǝ nenlep wur ɗeɓang mo ngal nkaa ngal mo,	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	JUD 1:15 mɓǝkǝ mo tokdyeel ɗi ko weyii, kǝ mo canɗyeel ɗi mo jir mbǝ ɗak ɗebish ɗe mo kǝ cin, Kǝ jir pwoo ɗǝbuu ɗe nenshikbish desǝ nǝ mo kǝ ten sat nkaa Naan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 1:17 Kaaɗe an naa wur, ɓe an taa nyil nder shii wur kaa an kǝn mumuut sǝ. Ɓe wur le sarse wur nkaa an, ɗangɓe wur sat nǝnee, <<Taji kǝǝrmuut yaa waa kas. A an a ɗinshee, kǝ a an a kyes ne.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 1:19 <<A ran mbǝɗe aa ten a naa mo yaksǝ, kǝ mbǝɗe waa nkaa naa mo, kǝ mbǝɗe mo mbǝ jì.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 1:20 A ɗesǝ nǝ a shii kǝ zar ɗesǝsok ɗe pwoovǝl ɗe mo nsarse fen, kǝ peeɗar mǝ ngyem ɗe pwoovǝl ɗe mo ɗak a shi zinariya. Zar ɗe pwoovǝl nǝ mo, a mo a nenlep kǝ Ekǝlisya ɗe pwoovǝl nǝ mo, kǝ peeɗar kǝ ngyem ɗe pwoovǝl sǝ mo, mo a Ekǝlisya ɗe pwoovǝl nǝ mo zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/0>	REV 2:1 <<A ran shi dǝm lep-Naan ɗe Ekǝlisya ɗi Sarduis wur ɗen Ekǝlisya ɗe nǝn nyil Afisus nǝnee, << Lep ɗesǝ nǝ, a pwoo ɗe nǝ put mpwoo kǝ gwar ɗe wur kǝ zar mo pwoovǝl nsarse wur sǝ, ɗe wur mwaan nnaar kǝ peele ngyem ɗe pwoovǝl sǝ mo, ɗe mo ɗak mo a shi zinariya sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 2:2 Wen man ɗak ɗe wun kǝ ten cin nǝ, kǝ jeel fuu, kǝ gung fuu zak. Baa wuu shaar kǝ nenɗebish mo kas. Wuu cam shiimwaan kǝ nen ɗe mo sat nǝnee, << wuɗun a jeplep Jesu mo, mɓe baa mo a jeplep Kristi kas. Wuu ten wu man ne, moo cin a ɗung.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/0>	REV 2:8 <<A ran lep dǝm pee ngulep Naan ɗe wur ɗǝǝn Ekǝlisya ɗe nǝn nyil nSimena nǝnee, <<Lep ɗesǝ nǝ a pwoo ɗe nǝ put mpwoo kǝ gwar ɗe wur a ɗinshee, kǝ a wur a kyes kǝ mbǝ mo jir, ɗe gyet wur kǝ muut, mɓe yaksǝ wur kǝ seen.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 2:9 Wen man shwa jeel fuu mo kǝ jeel fuu, kǝ zak, nghan man nǝnee, << Jir kǝ sǝ wun a nenlong mo. Wen man pwoo ɗebish mǝ nen ɗe moo lesut a nen Yahudi mo, ɓe baa mo a nen Yahudi mo kas. Mo a nen kǝ ngujwaan mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 2:11 Ngwe ɗe wur kǝ kom, ɓe wur kǝlǝng mbǝɗe Riin wur nkaa sat nǝ (Ekǝlisya) nendǝm ndang Naan mo. Ngwe ɗe wur se koorong, ɓe baa muut ɗe vǝl nǝn ntung wur kas.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 2:12 <<A ran lep dǝm pee ngulep Naan ɗe wur Ekǝlisya ɗe nen nyil Pagamum nǝ, Lep ɗesǝ nǝ put a mpwoo kǝ gwar ɗe wur kǝ kwai ɗe nǝ se koop vǝl sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 2:17 Ngwe ɗe wur kǝ kom, mbǝ kǝlǝngpee, ɓe wur kǝlǝng mbǝɗe Riin Naan wur nkaa sat nǝ Ekǝlisya nendǝm ndang Naan mo.>> Ngwe ɗe wur se koorong, ɓe nghan ncin pak man ɗe nǝ a sǝsok nwur. Kǝ zak, an ncin jwak ɗepiyaa ngwar nǝ, kǝ sǝm ɗepwoo a rǝran ɗi kǝ nkaa jwak nǝ. Gwar ɗe wur nlap jwak nǝ, ɓe a wur man mbǝɗe mo ran nkaa nǝ ɓejee ɗak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 2:18 <<A ran lep dǝm pee ngulep Naan ɗe wur tap kǝ Ekǝlisya ɗe nǝn nyil nTayatǝra nǝ, Lep ɗesǝ nǝ put a mpwoo kǝ Làa kǝ Naan ɗe yit wur moo lapwus kaa mbǝlem kǝ wus sǝ, ɗe shii wur moo mǝlep kaa shool ɗe mo tap ɗak nǝ sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 2:23 Wen nle kǝ jep war mo murep kǝ shwal, mbǝkǝ Ekǝlisya mo jir mo man ɗi nǝnee, << an a ngwe ɗe an kǝn man pan ɗe nǝ nɗǝǝn pǝtuup gurum mo, kǝ zak, an kǝn leng pǝtuup mo mo. Wen nkwat koo a weye nciit kǝ ɗak ɗe ngwe nǝ kǝ ten cin.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 2:29 Ngwe ɗe wur kǝ kom, mbǝ kǝlǝngpee, ɓe wur kǝlǝng mbǝɗe Riin Naan nǝ sat luu Naan nǝ mo>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/0>	REV 3:1 <<A ran lep dǝm shi dǝm ngulep Naan ɗe Ekǝlisya ɗe nǝ nyil nSardis nǝnee, << A lep nǝ nɗesǝ, ɗe nǝ put a mpwoo kǝ gwar ɗe wur kǝ Riin Naan mo pwoovǝl, kǝ zar mo pwoovǝl zak. Wen man ɗak fwa, waa le kǝ gurum mo pan nnee, waa ɗe kǝ seen, mɓe waa a ɗemumuut.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 3:6 Ngwe ɗe wur kǝ kom mbǝ kǝlǝngpee, ɓe wur kǝlǝng mbii ɗe Riin Naan wur nkaa sat nǝ nen lu Naan mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/0>	REV 3:7 <<A ran lep dǝm pee ngulep Naan ɗe wur kǝ tap Ekǝlisya ɗe nǝn nyil nFiladalfiya. <<Lep ɗesǝ nǝ put a mpwoo kǝ gwar ɗe wur a ɗeɓang kǝ wur azeen. A wur kǝ makuli kǝ Devid. Katɗang wur wang pwoolu nǝ, ɓe baa mee gurum mak shoot nǝ kas, kǝ zak, katɗang wur shoot pee nǝ, ɓe baa mee gurum mmak wang nǝ kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 3:8 Wen man ɗak fwa. A naa, an kǝn ten wangpee nwaa, ɗe baa mee ngwe mmak shoot nǝ kas. Wen man nǝnee, << koo ɗe baa ɓal fwa nǝ ɗes kas, ɓe waa aa ɗar ɓalɓal nɗǝǝn pwoo fen, kǝ zak, baa waa ciipwoo nǝnee a nook man an kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 3:9 A kǝleng, an nle nen mǝ ngujwaan ɗe moo le sut a nen Yahudi sǝ mo, mɓe baa mo a nen Yahudi mo kas, moo cin a ɗung. Wen nle kǝ nenɗung ɗesǝ mo jì kurum ntoom fwa, kǝ nder shii fwa, kǝ mo man ɗe zak nǝnee, << an wal nwaa.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 3:13 Ngwe ɗe wur kǝ kom mbǝ kǝlǝngpee, ɓe wur kǝlǝng mbǝɗe Riin Naan wur nkaa sat nen dǝm ndang Naan mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/0>	REV 3:14 Gwar nǝ sat nghan nǝnee, <<A ran lep dǝm pee ngulep kǝ Naan ɗe wur tap kǝ Ekǝlisya ɗe nǝn nyil nLodisiya. <<Lep ɗesǝ nǝ put a mpwoo kǝ gwar ɗe moo pet wur a Amin. Shi kǝ mǝnǝ nǝnee, Wur a ngwe ɗe azeen-nzeen, kǝ wur a langteng ɗe azeen. A wur a kuk kǝ mbǝɗe Naan wur le mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 3:17 Waa sat nǝnee, << waa kǝ long, kǝ waa kat mbii mo jir! Mɓǝ baa aa reɓet mee mbii kas. Ɗangɓe baa waa man nǝ nghaa kǝ mbii kas, nghaa bii yitmwaa, ngu jeel, vuum, kǝ ngum.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 3:22 Ngwe ɗe wur kǝ kom mbǝ kǝlǝngpee, ɓe wu kǝlǝng mbǝɗe Riin nǝ nkaa sat nǝ lunaan mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<7/1>	REV 5:2 Ɗangɓe wen naa mee ngulep kǝ Naan ɗǝɗes, ɗe wur nkaa satpwoo ɓalɓal nǝnee, <<A wii mmak fǝlǝp káa kǝ <<stam ɗe pwoovǝl nǝ mo, <<mbe kǝ wur wang ɓǝǝthaal <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 5:9 Mo mang mee kook ɗepwoo nǝnee, <<A wa a mak mbǝ a mang ɓǝǝt haal nǝ, kǝ a wang lwas nǝ mo, mbǝɗe gyet mo kǝ tu waa, kǝ a shi toom fwa, ɓe a waa seet gurum mo ɗes, kǝ a jì kǝ mo nDaa Naan. Nen ɗe waa seet nǝ mo, mo put a ndǝǝn koo a soon ɗeɗangyii. Kǝ koo a ndǝǝn lespwoo ɗeɗangyii, kǝ koo a nɗǝǝn gurum ɗeɗang mo yii, kǝ koo a nɗǝǝn yil ɗeɗangyii zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	REV 5:14 Ɗangɓe mbǝɗe mo kǝ seen feer sǝ mo sat nǝnee, < ɗang Nennan sǝ mo nkurum furum, kǝ mo seyil ɗe nwur.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<7/1>	REV 6:10 Mo petpee shi ɗoo ɗeɗes <<Daa Naan ɗǝɗes, ɗeɓang, kǝ ɗe waa azeen, <<a pǝrang ɗang wen ntokɗyeel nenyil nǝ mo ye? <<Nen ɗe gyet mo twe mun sǝ mo, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 6:11 Koo aweyi ɗǝǝn mo mo shin lée ɗepiyaa mo jwal. Ɗang mo waa sat mo nǝnee, <<Wu gung ɗelee aku, kǝ ɗuu kǝ shaar ɗak fuu mo, kǝ ɗyemnǝǝn fuu ɗe mo ntwe mo, kaaɗe mo twe wun sǝ,	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 6:16 Mo pǝt Zuul nǝ mo kǝ jwak nǝ mo nǝnee, <<Wu jì wu taa nkaa mun, kǝ wun paa mun yit gwar ɗe wur kǝ tong nkaa mulki nǝ kǝ tuup Laatǝm nǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 6:17 Mɓeeɗe puus tuup mo ɗeɗes nii jì wul. A wii mmak ɗar pwoo nǝ mpuus mǝnǝ yii?>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	REV 7:14 Wen lap nwur nǝnee, <> Ɗangɓe wur sat nǝnee, <<Nen ɗesǝ mo, a nen ɗe mo pwat ndǝǝn nen ɗi mo shin keer mo, mo kǝ vwang lée nmo, kǝ mo ɗee a ɗepiyaa mo, ndǝǝn toom Laatǝm.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 7:17 Laatǝm ɗe wur nnaar peetong mǝ mulki nǝ, wur nɗeen a ngukiyeer mo. Wur dǝm kǝ mo a pee tuɓut ɗe nǝ a mǝ seen. Naan wur mpwes yitmwaan mo jir.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 9:4 Mo sat mo, << taji wu tung shit, koo tǝng, kǝ bii ɗǝ mo kop mo ɗe mo ndǝǝn yil nǝ kas, mɓe wu tung a nen ɗe baa mo kǝ mbii luwas mǝ Naan pǝkyeen mo kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 10:6 Wur tuceerpwoo nɗǝǝn sǝm kǝ Naan ɗe wur ɗe ngaa-ngaa, Wur ɗe wur le ɗengnaan ke mbii ɗe ɗǝǝn mo, kǝ ɓǝm-yil kǝ mbii ɗe ɗǝǝn mo, kǝ baahar kǝ mbii ɗe ɗǝǝn mo. Laalep nNaan nǝ sat nǝ, <<Baa mee pee kuɗi kas!	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 11:1 nLa mee kam, kaa kám kam mbii sǝ, ɗangɓe mo sat nghan nǝnee, <<A dǝm a kám Lu Naan ɗeɗes nǝ, kǝ peewus mbezuum nǝ kǝ, a tang ɗuu nen seyil nǝ mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 11:3 Wen mbe nshin nlangtǝng fen mo vǝl, mbǝkǝ mo sat joom, mbǝ teer mo ngal mǝndong kǝ ɗari vǝl kǝ laarpeemee. Mo njwal leemaap mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 11:17 Mo sat nǝnee, <<Mu pǝlang waa, Daa Naan ɗeɓal met jir, A waa ɗe yaksǝ, kǝ ɗe ɗeyaam, mɓeeɗe aa mang iiko fwa ɗeɗes, kǝ a yaa se mulki.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 11:18 Yil nǝ mo langtuup, dang tuurnung ɗebish ɓish fwaa kǝ ji. Pee nǝ wul ɗe mon tokɗyeel Nen mumuut mo, kǝ shin kwat kerǝm fwaa nen cin joom mo kǝ nen fwaa mo ɗe moo ɗyeep sǝm fwaa, ɗenan, kǝ ɗeɗyeen kǝ mbe tǝkook kǝ nen ɗe mo tǝkook kǝ ɓǝmyil nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 12:10 Ɗangɓe nghan kǝlǝng mee ɗoo ɗeɗes nɗǝǝn ɗengnaan nǝ sat nǝnee, <<Yaksǝ, ɓe ɓam Naan nǝ kǝ njì wul, kǝ iiko kǝ mulki mǝ Naan fun, kǝ iiko mǝ kristi. Ɓe gwar ɗe wur fǝlǝp ɗyemnǝǝn fun mo, ntoom Naan fun puus kǝ par mo vwet shin sham yil.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 13:9 Ngwe ɗe wur kǝ kom mbǝ kǝlǝngpee. <<	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 13:10 Katɗang mee gurum bǝ dǝm pee shoot, ɓe moo dǝm kǝ wur peeshoot. Katɗang mo ntu mee gwe a shi kwai, ɓe nǝ a tǝng mo ntu wur a shi kwai nǝ.>> Ɗesǝ nǝ a petpee mbǝkǝ mo gung, kǝ mo ɗar ɗe ɓalɓal kǝ shinzeen nkwang nen Naan mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 14:9 Mee ngulep Naan ɗekun wur taa dang mo, wur sat shi ɗoo ɗeɓal nǝnee, << Katɗang mee gurum seyil nluwayil sǝ, kǝ muriin wur, mbe kǝ ngwe mǝnǝ lap mbiinaaman mǝ luwayil nǝ nkaa pǝkyeen wur koo sar wur,	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 14:11 Ɗangɓe dyeel mǝ shwaajeel kǝ das mǝnǝ mo, nǝ yool kaa aɗeng mbǝ ngaa-ngaa. Baa mee nookɗi ɗi kas par kǝ puus ɓe nen ɗe mo seyil nluwayil kǝ mǝ riin nǝ, Kǝ koo aweyi ɗe la mbiinaaman mǝ sǝm ne.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<4/2>	REV 14:13 Ɗangɓe wen kǝlǝng mee ɗoo ndǝǝn ɗengnaan, nǝ sat nǝnee, <> Riin nǝ sat nǝ, << Ii, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 15:3 ɗangɓe mo cin kook mǝ Mosis kǝrem Naan, kǝ kook Laatǝm nǝ, mo cin kook nǝ nǝnee, <<Ɗak fwa nǝ mo a ɗǝnan-nan mo, ɗe mo aapwoo, Daa Naan ɗe ɓal met jir. Ar fwa nǝ mo a ɗe ndǝre, kǝ mo azeen-nzeen zak, Mishkoom mǝ gurum ɗe mo ndǝǝn yil nǝ mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 15:4 A wii nkǝǝr waa kas ye, Daa? Kǝzak, a wii nnook kwoop sǝm fwa ye? Daa a waa mmǝsak, a ɗeɓang. Gurum ɗe nɗǝǝn yil mo jir, mo njì seyil nwaa. Mɓeeɗe gurum mo jir, mo kǝ woo ɗak fwa ɗe ndere nǝ mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 16:5 Wen kǝlǝng ngulep ɗe wur tap kǝ am mo, wur sat nǝnee, <<Waa a ɗin ndǝret, mbǝ canɗyeel ɗesǝ mo, Waa a ɗeɓang, waa ɗe gyet yam, ɓǝ waa ɗǝ, waa ɗe waa ɗe yaksǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 17:1 Memee mɓut nenlep Naan ɗe pwoovǝl sǝ mo ɗe mo kǝ ɗaa mo pwoovǝl sǝ wur jì mpee nghan ɗǝ, ɓe wur sat nghan nǝnee, <<A jì, ɓe nghan nkám nwaa, kar ɗe mo can mmat ngaa ɗeɗes nǝ ɗǝ war kǝ tong pǝkom am mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 17:2 Mishkoom ɗe mǝ yil ɗesǝ mo cin ngaa ashak kǝ war, kǝ gurum ɗe nɗǝǝn yil ɗesǝ mo fes yuur kǝ am anab mǝ ngaa war nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 17:7 Ngulep Naan wur tal pǝ nghan nǝnee, <<A mii aapwoo nwaa yii? Wen woo shii mbǝ ɗe baa a manshi nǝ kas kaa mat nǝ kǝ luwayil ɗe war kǝ lang kaa nǝ ɗe nǝ kǝ káa mo pwoovǝl, kǝ soom mo kaapaat sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 17:9 <<Ɗǝsǝ kǝ rǝɓet a pǝtuup ɗe kǝ seen manshi bii mo. Káa ɗe pwoovǝl nǝ mo, mo a zuul mo pwoovǝl, ɗe mat nǝ war tong nkaa mo sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 17:12 <<Soom ɗekaapaat ɗe a naa sǝ mo, mo a mishkoom mo kaapaat, ɗe baa mo kǝcin mulki mo kas aku. Ɓe mbǝ awa mǝndong, ɓe mo ncin iiko mo kaa mishkoom mo sǝ, kǝ mo cin mulki ɗe ashak kǝ luwayil ne.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 17:14 Mo ncìn lek kǝ Laatǝm nǝ, mɓe Laatǝm nǝ wur nse koorong nkaa mo, mbǝɗe a wur a Daa ndaa mo, Mishkoom kǝ mishkoom mo, ashak kǝ wur, ɓe nen ɗe wur kǝ ten pǝrep, kǝ bǝlǝp mo, mo nse koorong zak.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 17:15 Ɗangɓǝ ngulepnaan wur sat nghan nǝnee, <<Am ɗe a naa sǝ, a mpeeɗǝ mat ngaa sǝ war tong ɗǝ, gurum mo, kuur gurum mo shinǝ-shinǝ, kǝ yil mo shinǝ-shinǝ, kǝ liispwoo mo shinǝ-shinǝ zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 17:18 Mat ɗe nwaa a naa nǝ, a yil ɗeɗes ɗe nǝ kǝ cin mulki, nkaa mishkoom mǝ yil nǝ mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 18:2 Shi ɗoo ɗeɗes ɓe wur le or: <<Ɓal fi kǝ kyes! Ɓal fi kǝ kyes! Yil nBabilon ɗeɗes War kǝ ɗee a tulu riin ɗebish mo War ɗee a peetong mǝ koo a riin ɗebish ɗeɗangyii, War ɗee a peetong mǝ koo a mbǝ ɗerap, kǝ nyer ɗebish. Kǝ koo a luwa ɗeɗang ɗe nyakkap.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 18:3 Mɓeeɗe gyet gurum nyil mo shini-shini, gyet mo shwaa a am anab mǝ ngaa ashak kǝ war. Mishkoom mǝ yil ɗǝsǝ mo gyet mo cin ngaa kǝ war Kǝ nennwer ɗe mǝ yil ɗesǝ mo, moo long a shi lǝɓet mbǝ bii kǝ kat war ɗe mǝ yil ɗese, ɗe nǝ met mǝ sat.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 18:4 Ɗangɓe wen kǝlǝng mee ɗoo npoo ɗe nǝ put nɗǝǝn ɗengnaan, nǝ sat nǝnee, <<Wun nen fǝn mo, wu put aku ndǝǝn war, mɓekǝ taji mo cin kwat nwun ashak kǝ war mbǝ shikbish war nǝ mo kas, Mɓekǝ taji wu lap memee nɗǝǝn jeel war nǝ mo kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 18:9 <<Katɗang mishkoom mǝ ɓǝm-yil ɗesǝ mo, ɗe gyet mo cin ngaa ashak kǝ war, ɗe gyet mo se pak long war nǝ mo ashak kǝ war, ɓe mo nnaa ɗyeel ɗe nǝ caan war, ɓe mo nwal kǝ maap mbǝ war.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 18:11 <<Nennwer ɗe mo ɓǝm-yil nǝ mo, mo nwal kǝ maap nkaa war, mbǝɗe baa mee ngwe kuɗi, nseet lée mo mo kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 18:13 kǝ bii ɗe kǝ toos shangshang, kaa sinamon, kǝ le shǝta, meer, kǝ frankisens, kǝ mwoor ɗe gurum kǝ caan, mbǝkǝ wur kǝlǝng toos ɗeshang nǝ ɗe sǝ, kǝ mǝ am anab, kǝ mǝ mwoor paat, kǝ mǝ áas ɗeret mo, mǝ alkama, kǝ mǝ randong mo, kǝ tǝm mo, kǝ mǝ bǝring mo, kǝ mǝ keke bǝring, kǝ gurum mo ɗi mo sǝrep mo kaa kǝrem mo sǝ>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 18:16 Har mo nfwo ruruu nǝnee, <<Jeel fii, jeel fii, wii yil ɗǝɗes, gyet yam, ɓe wii yii jwal a lee mulki ɗi rǝret mo ɗetap piyaa mo, kǝ ɗetap naat juwal mo. Ɗi mo mǝlep shi zinariya, kǝ shi nghǝk ɗekǝrǝm ɗi mo, kǝ lilliu.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/1>	REV 18:17 nƊǝǝn awa mǝndong ɓejee, ɓǝ long fii ɗeɗes sǝ mo ɗee a ɗebuu!> Jir nentung tii am mo, kǝ gurum ɗe moo ghǝr mo ntii nǝ mo, kǝ nen ɗe moo kat mbii teer mo mo a nɗǝǝn baahar mo, das ɗesǝ mo jir, mo nɗar jong-jong, kǝ war.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<1/0>	REV 18:19 Mo kok yil le nkaa káa mo mo, ashak kǝ wal, kǝ maap nǝnee, <	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 18:20 Wii ɗengnaan, yi cin retnyit, mbǝ mbii ɗe nǝ kat yil ɗesǝ war. Wu cin retnyit, wun nen Naan mo, kǝ wun jeplep mo, kǝ nensatpwoo Naan mo, mɓeeɗe Naan wur canɗyeel nwar, mɓee mbii ɗe gyet war kǝcin mo nwun.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 18:21 Ɗangɓe mee ngulep Naan ɗeɓal, wur mang mee nghǝk ɗeɗes kaa fin ɗyees ɗak sǝ, wur vwet nǝ nɗǝǝn am baahar, kǝ wur sat nǝnee, <<Mo mɓwet Babilon yil ɗeɗes sǝ a shiɓal aasǝ zak, baa mo nkuɗi kǝ naa war ɗe zak kas.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 18:24 Gyet a nɗǝǝn Babilon, ɓe mo kat toom nensatpwoo Naan mo, kǝ toom mǝ nen Naan mo, kǝ toom mǝ gurum ɗe gyet mo saa mo jir nɗǝǝn ɓǝm-yil nǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 19:1 Aɓwoon ɗese, ɓe nghan kǝlǝng mee ɗoo ɗe nǝ kaa ɗoo ɗeɗes, mǝ gurum mo ɗeɗes sǝ nɗǝǝn ɗengnaan. Ɗoo nǝ mo sat nǝnee, << kwoop Naan! Mɓeeɗe ɓam, kǝ ram, kǝ iiko mo a mǝ Daa Naan fun.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 19:2 Mɓeeɗe canɗyeel wur nǝ azeen, kǝ nǝ a ndǝret. Wur kǝ canɗyeel ɗebish, mmat ngaa sǝ. Ɗe gyet war tǝkook yil nǝ shi ngaa war sǝ. Wur baa kwat war, nciit kǝ toom kǝ kǝrem wur ɗe gyet war twe mo.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 19:6 Ɗangɓe wen kǝleng mee mbii kaa ɗoo kǝ gurum mo ɗes sǝ, nǝn nciit kǝ wal kǝ am ɗǝɗes, ɗe nii sham ndang, kǝ nǝ wal kaa nluu ɗe nii pet sǝ. Ɗoo nǝ mo sat nǝnee, <<Kwoop Naan! Mɓeeɗe Daa Naan fun ɗeɓal jir, wur se mulki.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 19:8 Mo shin lée ɗepiyaa peng-peng mo nwar, mɓekǝ war lep ɗi.>> (Lée ɗepiyaa peng-peng nǝ mo, moo kám a ɗak ɗeret ɗe nen Naan ɗe pang mo kǝ ten cin.)	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<3/1>	REV 19:10 Wen saam nyil ntoom wur, mbǝkǝ nghan seyil ɗi nwur, mbǝ wur sat nghan nǝnee, <<Taji a cin mǝnǝ kas, nghan a kǝrem Naan kaa waa sǝ, <>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 19:17 Ɓe nghan naa mee ngulep Naan wur ɗar nkaa puus, wur pǝrep nyer ɗe moo yool ncáap shi ɗoo ɗeɗes, nǝnee, <<Wu jì, wu kaat ashak jir, mbǝ gomteer ɗeɗes mǝ Naan.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 19:18 Mɓekǝ wuu se luwa mishkoom mo ɗi, kǝ luwa ɗenan-nan mǝ nenlek mo, kǝ luwa nen ɗǝnan-nan mo, kǝ luwa mǝ bǝring mo, kǝ mǝ nenlang bǝring nǝ mo, kǝ luwa gurum mo jir, mǝ jeplu mo, kǝ mǝ kǝrem mo, ɗeɗyeen, kǝ ɗenan.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 21:3 Ɗangɓǝ nghan kǝlǝng mee ɗoo put a peetong mǝ mulki nǝ, nǝ sat nǝnee, <<Wu naa! Peetong Naan nǝ ashak kǝ gurum mo, wur ntong ashak kǝ mo. Mo mbǝ ɗee a nen wur mo, kǝ Naan wur shikáa fǝn ntong ashak kǝ mo, nwur nɗee a Naan mo zak.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 21:4 Wur mbǝ mpwes koo a yitmwaan ɗeɗangyi nɗǝǝn yit mo mo. Baa mee muut koo maap, koo wal, koo shwal kuɗi kas, mbǝɗe mbǝ deyam mo kǝ ɗel seet.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 21:6 Wur sat nghan nǝnee, <<Nǝ kǝ chin. A an a Alfa nǝ kǝ Omega, ɗinshee nǝ, kǝ kyes nǝ. Ngwe ɗe am tu wur, an bǝ shin am nwur nzuum, nɗǝǝn tuɓut mǝ am seen sǝ.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 21:8 Mbǝ nenkǝrmuut mo, kǝ nencii cinzeen mo, kǝ nenɗebish mo, kǝ nentukáa mo, kǝ nenngaa mo, kǝ soot mo, kǝ nenseyil nkùm mo, kǝ nencìn ɗung mo, mo nfwo mo nɗǝǝn aawus ɗe nii lap wus a shi fwat mǝ bintǝka. Ɗese nǝ a muut ɗevǝl mmǝne.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 22:10 Ngulep nǝ wur sat nghan nǝnee, << Pwoo Naan ɗe mo nɗǝǝn bǝǝthaal ɗesǝ, taji a paa mo kas, mbǝɗe pee nǝ wul, mbǝkǝ mbii ɗesǝ nǝ mo cin ɗi.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 22:11 Wu yit kǝ ngucìn mbii ɗebish mo, ɓe wur sekyeen kǝ cin nǝ. Wu yit kǝ ngucìn mbii ɗerap mo, ɓe wur sekyeen kǝ chin mo. Ngucìn mbii ɗin ndǝre mo, wu yit kǝ wur sekyeen kǝ cin ɗin ndǝre wur. Ngwe ɗe wur a ɗeɓang ɓe wur sekyeen ɗe a ɗeɓang.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<2/0>	REV 22:12 <<Wu naa, nghan pǝ jì kǝlak-kǝlak ashak kǝ kwat fǝn. Wen shin nǝ nkòo a weye, nciit-nciit kǝ mbii ɗe gurum kǝ ten cin mo.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Source	<0/2>	REV 22:16 A nghan a Jesu kǝn lep ngulep fen, mbǝkǝ wur shin langteng ɗesǝ mo nwaa, mbǝ Ekǝlisya mo. A nghan a cirem kǝ dang Devit, kǝ a nghan a Tar mangɓit, ɗe nii ɓangpee sǝ.>>	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Shi shool ɗe Judas lap mbǝ kwat ɗak fin ɗebish, ɓǝ wur dǝm seet mee maar ɗishik. A pee ɗewur sham taa wur muut, wur piin ɓut fin, dǝm kat pinbut wur mo pwat ɓeer.	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Mbii ɗesǝ nǝ ɗee a ɗemǝman ngurum ɗe moo tong nɗǝǝn yil nJerusalem jir, moo pet maar ɗesǝ nǝ shi liispwoo mo a Akeldama. Ɗe shii mǝnǝ a maar toom).	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Aionian	(0/1)	060 1PE 002 002 Ɗang nǝ ret kǝ mwaan fuu nǝ ɗee a kaa mǝ jep ɗe mo làa mo apoo, ɗe moo tang a wur pee nǝǝn fur mo shidaar-shidaar sǝ. Nǝ ret kǝ neen am tu wun mbee wur ɗi nǝ azeen-nzeen. kǝ mǝnǝ, a pwoo Naan ɗe nǝ shin ɓál nwun shidaar-shidaar, mbe parpuus ɗe Naan wur mɓam wun.)	WARN
+Mwaghavul---Mwaghavul-Bible	ENCLOSURES	Summary	lines	501 / 3	WARN
+
+# UNEXPECTED
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	(/)	1/1	WARN
+Mwaghavul---Mwaghavul-Bible	UNEXPECTED	Source/Aionian	Summary	1/1	WARN
+
+# NUMERALS
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Source	0	ACT 27:28 Ɓǝ mo kam lu mǝ am nǝ, ɓǝ mo kat nǝ a shii mo kambil mǝndong kǝ laarvǝl (120). Kaaɗe mu gyes mu dǝm ɗi lee, ɓǝ mo cin shin kam lu mǝ am nǝ ɗe zak, ɓǝ mo kat nǝ wul a shii laarpwoofeer (90).	WARN
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Source	6	ACT 27:37 Mun gurum ɗe mun nɗǝǝn tii nǝ jir, mu wul kambil vǝl kǝ laarpwoovǝl kǝ peemee (276).	WARN
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Source	4	JAM 3:15 Kiyeet kǝ seen ɗe nii cìn mbii ɗesǝ mo, ɓe baa nǝ tong a pee Naan sham ɗe kas, ɗang ɓe nǝ a mǝ yil44 ɗǝsi. Baa Riin Naan ɗe nɗǝǝn nǝ kas, ɗang ɓe nǝ put a pǝ ngujwaan jì ɗe.	WARN
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Source	6	REV 13:18 Ɗese nǝ wal a seen ɓe see a ngwe ɗe wur kǝ seen, yit gwe ɗe wur kǝ ɗyeen wur yakshii luwayil nǝ mo ɗe, Mɓeɗe nǝ a lambaa mǝ gurum ɓe lambaa nǝ a 666.	WARN
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Source	0	REV 14:1 Kaaɗe wen ɗiyeep yit, ɓe wen naa Laatǝm akyeen fen, wur ɗar nkaa jwak nZayon, ashak kǝ nen wur gurum, ɗe mo wul ngal kambil mǝndong kǝ laarfeer baafeer (144,000). Das ɗesǝ nǝ mo kǝ sǝm Laatǝm nǝ, kǝ sǝm kǝ puun wur a rǝran nkaa pǝkyeen mo jir.	WARN
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Source	count	5	WARN
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Kaaɗe Jesu yool mɓít parpuus ɗenshee, ɗe nǝ a puus Láadi ɓe wur shee kámshin fin a mMeeri Makdalin, a war a mat ɗe di Jesu kǝ ceen riin ɗebish mo pwoovǝl pwat nɗǝǝn war sí.	WARN
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Aionian	44	059-JAM-003-015 Kiyeet kǝ seen ɗe nii cìn mbii ɗesǝ mo, ɓe baa nǝ tong a pee Naan sham ɗe kas, ɗang ɓe nǝ a mǝ yil44 ɗǝsi. Baa Riin Naan ɗe nɗǝǝn nǝ kas, ɗang ɓe nǝ put a pǝ ngujwaan jì ɗe.	ERROR
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Aionian	666	066-REV-013-018 Ɗese nǝ wal a seen ɓe see a ngwe ɗe wur kǝ seen, yit gwe ɗe wur kǝ ɗyeen wur yakshii luwayil nǝ mo ɗe, Mɓeɗe nǝ a lambaa mǝ gurum ɓe lambaa nǝ a 666.	WARN
+Mwaghavul---Mwaghavul-Bible	NUMERALS	Aionian	count	3	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

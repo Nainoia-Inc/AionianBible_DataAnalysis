@@ -1,0 +1,456 @@
+# File Name: Holy-Bible---Holy-Bible---Portuguese---Biblia-Livre---Analysis.txt
+# File Size: 45839       
+# File Date: 12/13/2025 05:54:26
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Bíblia Livre Portuguesa
+# Bible Name English: Free Portuguese Bible
+# Bible Language: Língua Portuguesa
+# Bible Language English: Portuguese
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution 3.0, Brazil
+# Bible Source: João Ferreira de Almeida, revised by Diego Renato dos Santos
+# Bible Source Version: 3/2/2019
+# Bible Source Link: https://github.com/blivre/BibliaLivre/releases
+# Bible Source Year: 1819, 2018
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Portuguese---Biblia-Livre	ENCODING	Source	Holy-Bible---Portuguese---Biblia-Livre---Source-Edition.VPL.txt	UTF-8	NOTICE
+Portuguese---Biblia-Livre	ENCODING	Aionian	Holy-Bible---Portuguese---Biblia-Livre---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Portuguese---Biblia-Livre	BYTES	Source	bytes / chars	4217454 / 4120104 (multi-byte)	NOTICE
+Portuguese---Biblia-Livre	BYTES	Aionian	bytes / chars	4400028 / 4302489 (multi-byte)	NOTICE
+Portuguese---Biblia-Livre	BYTES	SourceClean	bytes / chars	4216608 / 4119258 (multi-byte)	NOTICE
+Portuguese---Biblia-Livre	BYTES	AionianClean	bytes / chars	4396433 / 4298926 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Portuguese---Biblia-Livre	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Portuguese---Biblia-Livre	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Portuguese---Biblia-Livre	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Portuguese---Biblia-Livre	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Portuguese---Biblia-Livre	AIONIAN	Aionian	missing-verse	0	NOTICE
+Portuguese---Biblia-Livre	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Portuguese---Biblia-Livre	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Portuguese---Biblia-Livre	UNPRINTABLE	Source	count	0	NOTICE
+Portuguese---Biblia-Livre	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Portuguese---Biblia-Livre	UNICODE	Summary	(-)Orginal	53	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Summary	(+)Aionian	55	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (G)	3404	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : ( )	728348	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (1)	30443	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (:)	42057	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (o)	310719	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (p)	61222	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (r)	187083	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (i)	157063	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (n)	115928	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (c)	73552	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (u)	138456	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (e)	391220	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (s)	266087	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (a)	333390	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (t)	122951	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (.)	27112	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (\r)	31102	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (\n)	31102	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (2)	21665	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (d)	143028	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (,)	65972	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (m)	130804	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (b)	27141	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (g)	25703	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (3)	12261	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (H)	12023	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (l)	77015	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (h)	38259	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (4)	9141	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (q)	37157	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (5)	7041	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (6)	6465	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (7)	5911	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (8)	5769	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (C)	6656	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (9)	5632	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (-)	7201	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (0)	5298	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (T)	5115	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (M)	8146	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (P)	9647	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (S)	18974	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (O)	15967	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (R)	11813	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (A)	15483	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (L)	3760	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (()	336	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : ())	347	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (U)	4211	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (y)	3	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Basic Latin : (K)	2686	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	Latin-1 Supplement: ( )	1	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source(-)	General Punctuation : (—)	15	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (0)	130540	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (1)	42425	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (\t)	124348	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (G)	3416	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (o)	310868	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : ( )	666431	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (p)	61223	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (r)	187094	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (i)	157310	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (n)	116130	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (c)	73554	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (u)	138459	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (e)	391319	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (s)	266201	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (a)	333589	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (t)	122958	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (.)	27108	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (\n)	31086	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (2)	31078	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (d)	143045	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (,)	65977	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (m)	130811	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (b)	27151	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (g)	25916	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (3)	17179	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (:)	10957	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (H)	12034	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (l)	77084	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (h)	38388	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (4)	20007	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (q)	37158	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (5)	10270	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (6)	10726	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (7)	7443	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (8)	7855	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (C)	6652	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (9)	9292	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (-)	7202	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (T)	5110	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (M)	8138	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (P)	9652	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (S)	19038	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (O)	15966	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (R)	11807	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (A)	15480	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (L)	3763	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (()	603	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : ())	613	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (U)	4209	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (y)	17	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (K)	2684	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (G)	3404	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (E)	37715	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (N)	12833	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : ( )	728348	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (1)	30443	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (:)	42057	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (o)	310719	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (p)	61222	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (r)	187083	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (i)	157063	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (n)	115928	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (c)	73552	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (í)	6262	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (u)	138456	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (D)	9388	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (e)	391220	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (s)	266087	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (é)	15687	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (a)	333390	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (t)	122951	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (.)	27112	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (\r)	31102	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (\n)	31102	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (2)	21665	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (v)	46492	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (d)	143028	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (z)	13818	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (,)	65972	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (m)	130804	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (b)	27141	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (f)	31345	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (á)	17501	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (g)	25703	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (3)	12261	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (H)	12023	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (j)	8111	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (l)	77015	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (;)	15319	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (h)	38259	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (4)	9141	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (q)	37157	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (5)	7041	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (à)	2923	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (ã)	28109	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (6)	6465	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (x)	4030	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (7)	5911	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (8)	5769	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (C)	6656	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (9)	5632	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (J)	11166	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (-)	7201	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (ç)	10599	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (0)	5298	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (T)	5115	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (M)	8146	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (P)	9647	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (ê)	2258	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (õ)	1794	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (ô)	1516	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (F)	1273	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (S)	18974	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (O)	15967	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (R)	11813	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (ó)	6164	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (É)	189	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (A)	15483	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (?)	3206	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	General Punctuation : (“)	533	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	General Punctuation : (”)	503	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (Q)	1584	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	General Punctuation : (‘)	34	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	General Punctuation : (’)	33	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (ú)	1318	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (L)	3760	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (I)	6608	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (Z)	2519	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (()	336	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : ())	347	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (V)	2135	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (U)	4211	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (B)	3388	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (À)	30	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (!)	839	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (â)	566	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (y)	3	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : ([)	6042	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (])	6042	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (X)	1288	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (Ó)	122	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (')	17	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (Á)	52	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Basic Latin : (K)	2686	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (Í)	5	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (´)	1	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: ( )	1	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	General Punctuation : (—)	15	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: («)	4	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (»)	4	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (Â)	1	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	General Punctuation : (–)	1	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (Ê)	3	NOTICE
+Portuguese---Biblia-Livre	UNICODE	Source	Latin-1 Supplement: (Ô)	3	NOTICE
+
+# VERSIFICATION
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Summary	missing	15	WARN
+Portuguese---Biblia-Livre	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Portuguese---Biblia-Livre	ENCLOSURES	Source	()	336 / 347	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	[]	6042 / 6042	NOTICE
+Portuguese---Biblia-Livre	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Portuguese---Biblia-Livre	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	()	603 / 613	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	[]	6042 / 6042	NOTICE
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	LEV 8:13 Depois Moisés fez chegar os filhos de Arão, e vestiu-lhes as túnicas, e cingiu-os com cintos, e ajustou-lhes as tiaras), como o SENHOR o havia mandado a Moisés. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	NUM 15:38 Fala aos filhos de Israel, e dize-lhes que se façam franjas) nos arremates de suas roupas, por suas gerações; e ponham em cada franja dos arremates um cordão de azul: 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	NUM 31:43 (A metade para a congregação foi: das ovelhas, trezentas e trinta e sete mil e quinhentas; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	NUM 31:46 E das pessoas, dezesseis mil:) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	DEU 2:10 (Os emins habitaram nela antes, povo grande, e numeroso, e alto como gigantes: 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	DEU 2:12 E em Seir habitaram antes os horeus, aos quais os filhos de Esaú expulsaram; e os destruíram de diante de si, e moraram em lugar deles; como fez Israel na terra de sua possessão que lhes deu o SENHOR.) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	DEU 2:20 (Por terra de gigantes foi também ela tida: habitaram nela gigantes em outro tempo, aos quais os amonitas chamavam zanzumins; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	DEU 2:23 E aos aveus que habitavam em vilas até Gaza, os caftoreus que saíram de Caftor os destruíram, e habitaram em seu lugar.) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	DEU 10:6 (Depois partiram os filhos de Israel de Beerote-Bene-Jacacã a Moserá: ali morreu Arão, e ali foi sepultado; e em lugar seu teve o sacerdócio seu filho Eleazar. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	DEU 10:9 Pelo qual Levi não teve parte nem herança com seus irmãos: o SENHOR é sua herança, como o SENHOR teu Deus lhe disse.) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	JDG 9:17 (Pois que meu pai lutou por vós, e expulsou longe sua vida para livrar-vos da mão de Midiã; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	JDG 9:18 E vós vos levantastes hoje contra a casa de meu pai, e matastes seus filhos, setenta homens, sobre uma pedra; e pusestes por rei sobre os de Siquém a Abimeleque, filho de sua criada, porquanto é vosso irmão); 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	JDG 20:27 E os filhos de Israel perguntaram ao SENHOR, (porque a arca do pacto de Deus estava ali naqueles dias, 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	JDG 20:28 E Fineias, filho de Eleazar, filho de Arão, se apresentava diante dela naqueles dias,) e disseram: Voltarei a sair em batalha contra os filhos de Benjamim meu irmão, ou ficarei quieto? E o SENHOR disse: Subi, que amanhã eu o entregarei em tua mão. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	2SA 4:2 E o filho de Saul tinha dois homens, os quais eram capitães de tropa, o nome de um era Baaná, e o do outro Recabe, filhos de Rimom beerotita, dos filhos de Benjamim (porque Beerote era contada com Benjamim; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	2SA 4:3 esses beerotitas haviam fugido a Gitaim, e eram peregrinos ali até então). 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	1KI 21:25 (À verdade ninguém foi como Acabe, que se vendeu a fazer o mal aos olhos do SENHOR; porque Jezabel sua mulher o incitava. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	1KI 21:26 Ele foi em grande maneira abominável, caminhando após o os ídolos, conforme a tudo o que fizeram os amorreus, aos quais lançou o SENHOR diante dos filhos de Israel.) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	2KI 9:14 Assim conjurou Jeú filho de Josafá filho de Ninsi, contra Jorão. (Estava Jorão guardando a Ramote de Gileade com todo Israel, por causa de Hazael rei da Síria. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	2KI 9:15 Havia-se, porém, voltado o rei Jorão a Jezreel, para curar-se das feridas que os sírios lhe haviam feito, lutando contra Hazael rei da Síria.) E Jeú disse: Se é vossa vontade, ninguém escape da cidade, para ir a dar as novas em Jezreel. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	2KI 13:5 (E deu o SENHOR salvador a Israel, e saíram de sob a mão dos sírios; e habitaram os filhos de Israel em suas moradas, como antes. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	2KI 13:6 Contudo isso não se apartaram dos pecados da casa de Jeroboão, o que fez pecar a Israel: neles andaram; e também o bosque permaneceu em Samaria.) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	1CH 5:1 Quanto aos filhos de Rúben, primogênito de Israel (porque ele era o primogênito, mas como profanou a cama de de seu pai, seu direito de primogenitura foi dado aos filhos de José, filho de Israel; e não foi contado por primogênito. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	1CH 5:2 Pois Judá foi o mais poderoso sobre seus irmãos, e o líder veio dele; mas o direito de primogenitura pertenceu a José). 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	2CH 5:11 E quando os sacerdotes saíram do santuário, (porque todos os sacerdotes que se acharam haviam sido santificados, e não guardavam suas vezes; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	2CH 5:12 E os levitas cantores, todos os de Asafe, os de Hemã, e os de Jedutum, juntamente com seus filhos e seus irmãos, vestidos de linho fino, estavam com címbalos e saltérios e harpas ao oriente do altar; e com eles cento vinte sacerdotes que tocavam trombetas); 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	EST 1:13 Então o rei perguntou aos sábios que entendiam dos tempos (porque assim era o costume do rei para com todos os que sabiam a lei e o direito; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	EST 1:14 E os mais próximos dele eram Carsena, Setar, Adamata, Társis, Meres, Marsena, e Memucã, sete príncipes da Pérsia e da Média, que viam o rosto do rei, e se sentavam nas [posições] principais do reino) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	JOB 15:18 (O que os sábios contaram, o que não foi encoberto por seus pais, 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	JOB 15:19 A somente os quais a terra foi dada, e estranho nenhum passou por meio deles): 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	JER 17:5 Assim diz o SENHOR: Maldito o homem que confia no homem, e põe sua confiança na força humana, ) e seu coração se afasta do SENHOR; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	JER 17:23 Porém eles não deram ouvidos, nem escutaram; ao invés disso, tornaram-se teimosos, ) para não ouvirem, nem receberem correção. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	JER 32:2 (Quando então o exército do rei da Babilônia tinha cercado a Jerusalém; e o profeta Jeremias estava preso no pátio da guarda, que estava na casa do rei de Judá, 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	JER 32:5 E levará Zedequias à Babilônia, e ali ficará até que eu o visite, diz o SENHOR; se lutardes com os Caldeus, não vencereis”?) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	LAM 1:19 Clamei a meus amantes, porém eles me enganaram; meus sacerdotes e meus anciãos pereceram na cidade; pois buscam comida para si tentarem sobreviver. ) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	LAM 3:36 Prejudicar ao homem em sua causa: o Senhor não aprova ) [tais coisas] . 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	EZE 22:10 Descobriram a nudez do pai ) em ti; abusaram da contaminada por menstruação em ti. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	EZE 28:3 (Eis que tu és mais sábio que Daniel; não há segredo algum que possa se esconder de ti; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	EZE 28:5 Com a tua grande sabedoria aumentaste tuas riquezas em teu comércio; e por causa de tuas riquezas teu coração tem se exaltado). 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	MAT 9:20 (Eis, porém, que uma mulher enferma de um fluxo de sangue havia doze anos veio por detrás [dele] , e tocou a borda de sua roupa; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	MAT 9:22 Jesus se virou e a viu. Então disse: Tem bom ânimo, filha, a tua fé te sarou. E desde aquela hora a mulher ficou com saúde.) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	MAT 23:5 E fazem todas as suas obras a fim de serem vistos pelas pessoas: por isso alargam seus filactérios, ) e fazem compridas as franjas. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	MAR 7:3 (Pois os fariseus, e todos os judeus, mantendo a tradição dos antigos, se não lavarem bastante as mãos, não comem. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	MAR 7:4 E, quando voltam da rua, se não se lavarem, não comem; e há muitas outras coisas que se encarregam de guardar, [como] lavar os copos, as vasilhas, e os utensílios de metal). 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	JOH 2:6 E estavam ali postos seis vasos de pedra, conforme à purificação dos judeus, em cada uma cabiam duas ou três metretas. ) 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	ROM 1:3 acerca do seu Filho (que, quanto à carne, nasceu da descendência de Davi, 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	ROM 1:4 e declarado Filho de Deus em poder, segundo o Espírito de santidade, pela ressurreição dos mortos): Jesus Cristo, nosso Senhor. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	EPH 3:3 que por revelação me foi dado a conhecer este mistério (conforme já [vos] escrevi um pouco; 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	EPH 3:4 quando o ledes, podeis entender o meu entendimento deste mistério de Cristo). 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	HEB 7:20 E isso não foi [feito] sem juramento (pois os outros se tornaram sacerdotes sem juramento, 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	HEB 7:21 mas ele [foi estabelecido] com um juramento daquele que lhe disse: O Senhor jurou, e não se arrependerá: Tu és Sacerdote para sempre ). 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	HEB 10:29 de quanto pior castigo vós pensais que será julgado merecedor aquele que pisou o Filho de Deus, menosprezou ) o sangue do Testamento no qual ele foi santificado, e insultou o Espírito da graça? 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(1/0)	HEB 12:20 (pois não podiam suportar o que [lhes] era ordenado: Se até um animal tocar o monte, seja apedrejado. 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	HEB 12:21 E a visão era tão terrível, que Moisés disse: Estou assombrado e tremendo). 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Source	(0/1)	REV 17:14 Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque ele é o Senhor dos senhores, e o Rei dos reis); e os que estão com ele [são] os chamados, escolhidos, e fiéis.” 	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	003 LEV 008 013 Depois Moisés fez chegar os filhos de Arão, e vestiu-lhes as túnicas, e cingiu-os com cintos, e ajustou-lhes as tiaras), como o SENHOR o havia mandado a Moisés.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	004 NUM 015 038 Fala aos filhos de Israel, e dize-lhes que se façam franjas) nos arremates de suas roupas, por suas gerações; e ponham em cada franja dos arremates um cordão de azul:	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (A metade para a congregação foi: das ovelhas, trezentas e trinta e sete mil e quinhentas;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 E das pessoas, dezesseis mil:)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Os emins habitaram nela antes, povo grande, e numeroso, e alto como gigantes:	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 E em Seir habitaram antes os horeus, aos quais os filhos de Esaú expulsaram; e os destruíram de diante de si, e moraram em lugar deles; como fez Israel na terra de sua possessão que lhes deu o SENHOR.)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Por terra de gigantes foi também ela tida: habitaram nela gigantes em outro tempo, aos quais os amonitas chamavam zanzumins;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 E aos aveus que habitavam em vilas até Gaza, os caftoreus que saíram de Caftor os destruíram, e habitaram em seu lugar.)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Depois partiram os filhos de Israel de Beerote-Bene-Jacacã a Moserá: ali morreu Arão, e ali foi sepultado; e em lugar seu teve o sacerdócio seu filho Eleazar.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Pelo qual Levi não teve parte nem herança com seus irmãos: o SENHOR é sua herança, como o SENHOR teu Deus lhe disse.)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (Pois que meu pai lutou por vós, e expulsou longe sua vida para livrar-vos da mão de Midiã;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 E vós vos levantastes hoje contra a casa de meu pai, e matastes seus filhos, setenta homens, sobre uma pedra; e pusestes por rei sobre os de Siquém a Abimeleque, filho de sua criada, porquanto é vosso irmão);	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 E os filhos de Israel perguntaram ao SENHOR, (porque a arca do pacto de Deus estava ali naqueles dias,	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 E Fineias, filho de Eleazar, filho de Arão, se apresentava diante dela naqueles dias,) e disseram: Voltarei a sair em batalha contra os filhos de Benjamim meu irmão, ou ficarei quieto? E o SENHOR disse: Subi, que amanhã eu o entregarei em tua mão.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 E o filho de Saul tinha dois homens, os quais eram capitães de tropa, o nome de um era Baaná, e o do outro Recabe, filhos de Rimom beerotita, dos filhos de Benjamim (porque Beerote era contada com Benjamim;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 esses beerotitas haviam fugido a Gitaim, e eram peregrinos ali até então).	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (À verdade ninguém foi como Acabe, que se vendeu a fazer o mal aos olhos do SENHOR; porque Jezabel sua mulher o incitava.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 Ele foi em grande maneira abominável, caminhando após o os ídolos, conforme a tudo o que fizeram os amorreus, aos quais lançou o SENHOR diante dos filhos de Israel.)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Assim conjurou Jeú filho de Josafá filho de Ninsi, contra Jorão. (Estava Jorão guardando a Ramote de Gileade com todo Israel, por causa de Hazael rei da Síria.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 Havia-se, porém, voltado o rei Jorão a Jezreel, para curar-se das feridas que os sírios lhe haviam feito, lutando contra Hazael rei da Síria.) E Jeú disse: Se é vossa vontade, ninguém escape da cidade, para ir a dar as novas em Jezreel.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	012 2KI 013 005 (E deu o SENHOR salvador a Israel, e saíram de sob a mão dos sírios; e habitaram os filhos de Israel em suas moradas, como antes.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Contudo isso não se apartaram dos pecados da casa de Jeroboão, o que fez pecar a Israel: neles andaram; e também o bosque permaneceu em Samaria.)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Quanto aos filhos de Rúben, primogênito de Israel (porque ele era o primogênito, mas como profanou a cama de de seu pai, seu direito de primogenitura foi dado aos filhos de José, filho de Israel; e não foi contado por primogênito.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Pois Judá foi o mais poderoso sobre seus irmãos, e o líder veio dele; mas o direito de primogenitura pertenceu a José).	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 E quando os sacerdotes saíram do santuário, (porque todos os sacerdotes que se acharam haviam sido santificados, e não guardavam suas vezes;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 E os levitas cantores, todos os de Asafe, os de Hemã, e os de Jedutum, juntamente com seus filhos e seus irmãos, vestidos de linho fino, estavam com címbalos e saltérios e harpas ao oriente do altar; e com eles cento vinte sacerdotes que tocavam trombetas);	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Então o rei perguntou aos sábios que entendiam dos tempos (porque assim era o costume do rei para com todos os que sabiam a lei e o direito;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 E os mais próximos dele eram Carsena, Setar, Adamata, Társis, Meres, Marsena, e Memucã, sete príncipes da Pérsia e da Média, que viam o rosto do rei, e se sentavam nas [posições] principais do reino)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	018 JOB 015 018 (O que os sábios contaram, o que não foi encoberto por seus pais,	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	018 JOB 015 019 A somente os quais a terra foi dada, e estranho nenhum passou por meio deles):	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(2/1)	019 PSA 009 016 O SENHOR foi conhecido [pelo] juízo que fez; o perverso foi enlaçado pelas obras de suas [próprias] mãos. (Higaiom, (Selá)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	024 JER 017 005 Assim diz o SENHOR: Maldito o homem que confia no homem, e põe sua confiança na força humana,) e seu coração se afasta do SENHOR;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	024 JER 017 023 Porém eles não deram ouvidos, nem escutaram; ao invés disso, tornaram-se teimosos,) para não ouvirem, nem receberem correção.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	024 JER 032 002 (Quando então o exército do rei da Babilônia tinha cercado a Jerusalém; e o profeta Jeremias estava preso no pátio da guarda, que estava na casa do rei de Judá,	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	024 JER 032 005 E levará Zedequias à Babilônia, e ali ficará até que eu o visite, diz o SENHOR; se lutardes com os Caldeus, não vencereis”?)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	025 LAM 001 019 Clamei a meus amantes, porém eles me enganaram; meus sacerdotes e meus anciãos pereceram na cidade; pois buscam comida para si tentarem sobreviver.)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	025 LAM 003 036 Prejudicar ao homem em sua causa: o Senhor não aprova) [tais coisas].	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	026 EZE 022 010 Descobriram a nudez do pai) em ti; abusaram da contaminada por menstruação em ti.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	026 EZE 028 003 (Eis que tu és mais sábio que Daniel; não há segredo algum que possa se esconder de ti;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	026 EZE 028 005 Com a tua grande sabedoria aumentaste tuas riquezas em teu comércio; e por causa de tuas riquezas teu coração tem se exaltado).	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	040 MAT 009 020 (Eis, porém, que uma mulher enferma de um fluxo de sangue havia doze anos veio por detrás [dele], e tocou a borda de sua roupa;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	040 MAT 009 022 Jesus se virou e a viu. Então disse: Tem bom ânimo, filha, a tua fé te sarou. E desde aquela hora a mulher ficou com saúde.)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	040 MAT 023 005 E fazem todas as suas obras a fim de serem vistos pelas pessoas: por isso alargam seus filactérios,) e fazem compridas as franjas.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Pois os fariseus, e todos os judeus, mantendo a tradição dos antigos, se não lavarem bastante as mãos, não comem.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 E, quando voltam da rua, se não se lavarem, não comem; e há muitas outras coisas que se encarregam de guardar, [como] lavar os copos, as vasilhas, e os utensílios de metal).	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	043 JOH 002 006 E estavam ali postos seis vasos de pedra, conforme à purificação dos judeus, em cada uma cabiam duas ou três metretas.)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	045 ROM 001 003 acerca do seu Filho (que, quanto à carne, nasceu da descendência de Davi,	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	045 ROM 001 004 e declarado Filho de Deus em poder, segundo o Espírito de santidade, pela ressurreição dos mortos): Jesus Cristo, nosso Senhor.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 que por revelação me foi dado a conhecer este mistério (conforme já [vos] escrevi um pouco;	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 quando o ledes, podeis entender o meu entendimento deste mistério de Cristo).	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 E isso não foi [feito] sem juramento (pois os outros se tornaram sacerdotes sem juramento,	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 mas ele [foi estabelecido] com um juramento daquele que lhe disse: O Senhor jurou, e não se arrependerá: Tu és Sacerdote para sempre). (aiōn g165)	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	058 HEB 010 029 de quanto pior castigo vós pensais que será julgado merecedor aquele que pisou o Filho de Deus, menosprezou) o sangue do Testamento no qual ele foi santificado, e insultou o Espírito da graça?	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(1/0)	058 HEB 012 020 (pois não podiam suportar o que [lhes] era ordenado: Se até um animal tocar o monte, seja apedrejado.	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 E a visão era tão terrível, que Moisés disse: Estou assombrado e tremendo).	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Aionian	(0/1)	066 REV 017 014 Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque ele é o Senhor dos senhores, e o Rei dos reis); e os que estão com ele [são] os chamados, escolhidos, e fiéis.”	WARN
+Portuguese---Biblia-Livre	ENCLOSURES	Summary	lines	55 / 56	WARN
+
+# UNEXPECTED
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Portuguese---Biblia-Livre	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Portuguese---Biblia-Livre	NUMERALS	Source	count	0	NOTICE
+Portuguese---Biblia-Livre	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) «E havendo ressuscitado pela manhã, no primeiro [dia] da semana, [Jesus] apareceu primeiramente a Maria Madalena, da qual havia expulsado sete demônios.	WARN
+Portuguese---Biblia-Livre	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

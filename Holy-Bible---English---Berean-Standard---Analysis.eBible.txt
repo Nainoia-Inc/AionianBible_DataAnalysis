@@ -1,0 +1,1365 @@
+# File Name: Holy-Bible---Holy-Bible---English---Berean-Standard---Analysis.txt
+# File Size: 191450      
+# File Date: 12/13/2025 05:19:31
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Berean Standard Bible
+# Bible Name English: Berean Standard Bible
+# Bible Language: English
+# Bible Language English: English
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: BSB Publishing, LLC
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=engbsb
+# Bible Source Year: 2021
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+English---Berean-Standard	ENCODING	Source	Holy-Bible---English---Berean-Standard---Source-Edition.VPL.txt	UTF-8	NOTICE
+English---Berean-Standard	ENCODING	Aionian	Holy-Bible---English---Berean-Standard---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+English---Berean-Standard	BYTES	Source	bytes / chars	4170791 / 4130485 (multi-byte)	NOTICE
+English---Berean-Standard	BYTES	Aionian	bytes / chars	4384838 / 4344344 (multi-byte)	NOTICE
+English---Berean-Standard	BYTES	SourceClean	bytes / chars	4169994 / 4129688 (multi-byte)	NOTICE
+English---Berean-Standard	BYTES	AionianClean	bytes / chars	4381376 / 4340882 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+English---Berean-Standard	AIONIAN	Aionian	book-not-exist	0	NOTICE
+English---Berean-Standard	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+English---Berean-Standard	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+English---Berean-Standard	AIONIAN	Aionian	missing-chapter	0	NOTICE
+English---Berean-Standard	AIONIAN	Aionian	missing-verse	0	NOTICE
+English---Berean-Standard	AIONIAN	Aionian	aionian-verses	264	NOTICE
+English---Berean-Standard	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+English---Berean-Standard	UNPRINTABLE	Source	count	0	NOTICE
+English---Berean-Standard	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+English---Berean-Standard	UNICODE	Summary	(-)Orginal	45	NOTICE
+English---Berean-Standard	UNICODE	Summary	(+)Aionian	49	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (G)	8508	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : ( )	756133	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (1)	30667	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (:)	33608	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (n)	190987	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (t)	250555	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (h)	203883	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (e)	376343	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (b)	40314	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (g)	49805	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (i)	176782	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (o)	241463	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (d)	132044	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (c)	50910	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (r)	166760	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (a)	227166	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (s)	181371	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (.)	34710	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (\n)	31086	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (2)	21957	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (m)	69871	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (l)	117423	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (,)	50796	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (k)	21089	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (u)	84057	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (p)	41344	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (A)	18629	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (S)	13552	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (3)	12401	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (L)	11945	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (4)	9269	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (H)	14497	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (5)	7211	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (y)	60510	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (6)	6573	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (7)	6014	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (8)	5835	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (9)	5665	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (0)	6347	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (T)	13241	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (-)	1309	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (P)	6210	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (M)	10597	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : (()	239	NOTICE
+English---Berean-Standard	UNICODE	Source(-)	Basic Latin : ())	239	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (0)	131584	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (1)	42663	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (\t)	124344	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (G)	8520	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (n)	191188	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : ( )	694499	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (t)	250561	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (h)	204012	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (e)	376440	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (b)	40324	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (g)	50018	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (i)	177028	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (o)	241611	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (d)	132060	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (c)	50912	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (r)	166771	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (a)	227365	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (s)	181484	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (.)	34709	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (\n)	31085	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (2)	31379	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (m)	69878	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (l)	117492	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (,)	50804	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (k)	21090	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (u)	84059	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (p)	41345	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (A)	18638	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (S)	13616	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (3)	17323	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (L)	11950	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (4)	20141	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (H)	14508	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (5)	10442	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (y)	60524	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (6)	10839	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (7)	7552	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (8)	7925	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (9)	9328	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (T)	13243	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (:)	2524	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (-)	1310	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (P)	6215	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (M)	10598	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : (()	510	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Basic Latin : ())	510	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+English---Berean-Standard	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (G)	8508	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (E)	13773	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (N)	6053	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : ( )	756133	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (1)	30667	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (:)	33608	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (I)	17468	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (n)	190987	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (t)	250555	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (h)	203883	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (e)	376343	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (b)	40314	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (g)	49805	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (i)	176782	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (o)	241463	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (d)	132044	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (c)	50910	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (r)	166760	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (a)	227166	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (v)	30472	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (s)	181371	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (.)	34710	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (\n)	31086	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (2)	21957	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (w)	65014	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (f)	70663	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (m)	69871	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (l)	117423	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (,)	50796	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (k)	21089	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (u)	84057	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (p)	41344	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (A)	18629	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (S)	13552	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (3)	12401	NOTICE
+English---Berean-Standard	UNICODE	Source	General Punctuation : (“)	6753	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (L)	11945	NOTICE
+English---Berean-Standard	UNICODE	Source	General Punctuation : (”)	6689	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (4)	9269	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (H)	14497	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (5)	7211	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (y)	60510	NOTICE
+English---Berean-Standard	UNICODE	Source	General Punctuation : (—)	1672	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (6)	6573	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (x)	2056	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (7)	6014	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (8)	5835	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (9)	5665	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (0)	6347	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (T)	13241	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (-)	1309	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (B)	6376	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (U)	3764	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (O)	15871	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (;)	4959	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (R)	11625	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (D)	11306	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (P)	6210	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (C)	6246	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (Y)	4836	NOTICE
+English---Berean-Standard	UNICODE	Source	General Punctuation : (’)	3598	NOTICE
+English---Berean-Standard	UNICODE	Source	General Punctuation : (‘)	1441	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (F)	2695	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (?)	3200	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (W)	3696	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (z)	2748	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (!)	1817	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (M)	10597	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (j)	2866	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (Z)	2725	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (J)	12068	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (K)	3553	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (q)	1079	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (()	239	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : ())	239	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (V)	1416	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (Q)	32	NOTICE
+English---Berean-Standard	UNICODE	Source	Basic Latin : (X)	1243	NOTICE
+
+# VERSIFICATION
+English---Berean-Standard	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+English---Berean-Standard	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+English---Berean-Standard	VERSIFICATION	Summary	missing	16	WARN
+English---Berean-Standard	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+English---Berean-Standard	ENCLOSURES	Source	()	239 / 239	NOTICE
+English---Berean-Standard	ENCLOSURES	Source	[]	0 / 0	NOTICE
+English---Berean-Standard	ENCLOSURES	Source	{}	0 / 0	NOTICE
+English---Berean-Standard	ENCLOSURES	Source	<>	0 / 0	NOTICE
+English---Berean-Standard	ENCLOSURES	Aionian	()	510 / 510	NOTICE
+English---Berean-Standard	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+English---Berean-Standard	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+English---Berean-Standard	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	EXO 9:31 (Now the flax and barley were destroyed, since the barley was ripe and the flax was in bloom;	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	EXO 9:32 but the wheat and spelt were not destroyed, because they are late crops.)	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	DEU 2:10 (The Emites used to live there, a people great and many, as tall as the Anakites.	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	DEU 2:12 The Horites used to live in Seir, but the descendants of Esau drove them out. They destroyed the Horites from before them and settled in their place, just as Israel did in the land that the LORD gave them as their possession.)	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	DEU 2:20 (That too was regarded as the land of the Rephaim, who used to live there, though the Ammonites called them Zamzummites.	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	DEU 2:23 And the Avvim, who lived in villages as far as Gaza, were destroyed by the Caphtorites, who came out of Caphtor and settled in their place.)	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	DEU 13:6 If your very own brother, or your son or daughter, or the wife you embrace, or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known,	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	DEU 13:7 the gods of the peoples around you, whether near or far, whether from one end of the earth or the other),	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	JOS 12:7 And these are the kings of the land that Joshua and the Israelites conquered beyond the Jordan to the west, from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir (according to the allotments to the tribes of Israel, Joshua gave them as an inheritance	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	JOS 12:8 the hill country, the foothills, the Arabah, the slopes, the wilderness, and the Negev—the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	JDG 20:27 And the Israelites inquired of the LORD. (In those days the ark of the covenant of God was there,	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	JDG 20:28 and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites asked, “Should we again go out to battle against our brothers the Benjamites, or should we stop?” The LORD answered, “Fight, for tomorrow I will deliver them into your hand.”	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	1KI 10:11 (The fleet of Hiram that brought gold from Ophir also brought from Ophir a great cargo of almug wood and precious stones.	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	1KI 10:12 The king made the almug wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had such almug wood been brought in, nor has such been seen to this day.)	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	1KI 18:3 and Ahab summoned Obadiah, who was in charge of the palace. (Now Obadiah greatly feared the LORD,	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	1KI 18:4 for when Jezebel had slaughtered the prophets of the LORD, Obadiah had taken a hundred prophets and hidden them, fifty men per cave, providing them with food and water.)	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	1KI 21:25 (Surely there was never one like Ahab, who sold himself to do evil in the sight of the LORD, incited by his wife Jezebel.	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	1KI 21:26 He committed the most detestable acts by going after idols, just like the Amorites whom the LORD had driven out before the Israelites.)	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	2KI 9:14 Thus Jehu son of Jehoshaphat, the son of Nimshi, conspired against Joram. (Now Joram and all Israel had been defending Ramoth-gilead against Hazael king of Aram,	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	2KI 9:15 but King Joram had returned to Jezreel to recover from the wounds he had suffered at the hands of the Arameans in the battle against Hazael their king.) So Jehu said, “If you commanders wish to make me king, then do not let anyone escape from the city to go and tell it in Jezreel.”	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	1CH 12:1 Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle;	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	1CH 12:2 they were archers using both the right and left hands to sling stones and shoot arrows; and they were Saul’s kinsmen from Benjamin):	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	2CH 9:10 (The servants of Hiram and of Solomon who brought gold from Ophir also brought algum wood and precious stones.	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	2CH 9:11 The king made the algum wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had anything like them been seen in the land of Judah.)	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	NEH 11:3 These are the heads of the provinces who settled in Jerusalem. (In the villages of Judah, however, each lived on his own property in their towns—the Israelites, priests, Levites, temple servants, and descendants of Solomon’s servants—	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	NEH 11:4 while some of the descendants of Judah and Benjamin settled in Jerusalem.) From the descendants of Judah: Athaiah son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez;	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	JOB 31:35 (Oh, that I had one to hear me! Here is my signature. Let the Almighty answer me; let my accuser compose an indictment.	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	JOB 31:37 I would give account of all my steps; I would approach Him like a prince.)—	WARN
+English---Berean-Standard	ENCLOSURES	Source	(1/0)	ACT 1:18 (Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out.	WARN
+English---Berean-Standard	ENCLOSURES	Source	(0/1)	ACT 1:19 This became known to all who lived in Jerusalem, so they called that field in their own language Akeldama, that is, Field of Blood.)	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (Now the flax and barley were destroyed, since the barley was ripe and the flax was in bloom;	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 but the wheat and spelt were not destroyed, because they are late crops.)	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (The Emites used to live there, a people great and many, as tall as the Anakites.	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 The Horites used to live in Seir, but the descendants of Esau drove them out. They destroyed the Horites from before them and settled in their place, just as Israel did in the land that the LORD gave them as their possession.)	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (That too was regarded as the land of the Rephaim, who used to live there, though the Ammonites called them Zamzummites.	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 And the Avvim, who lived in villages as far as Gaza, were destroyed by the Caphtorites, who came out of Caphtor and settled in their place.)	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	005 DEU 013 006 If your very own brother, or your son or daughter, or the wife you embrace, or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known,	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	005 DEU 013 007 the gods of the peoples around you, whether near or far, whether from one end of the earth or the other),	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	006 JOS 012 007 And these are the kings of the land that Joshua and the Israelites conquered beyond the Jordan to the west, from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir (according to the allotments to the tribes of Israel, Joshua gave them as an inheritance	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	006 JOS 012 008 the hill country, the foothills, the Arabah, the slopes, the wilderness, and the Negev—the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 And the Israelites inquired of the LORD. (In those days the ark of the covenant of God was there,	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites asked, “Should we again go out to battle against our brothers the Benjamites, or should we stop?” The LORD answered, “Fight, for tomorrow I will deliver them into your hand.”	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (The fleet of Hiram that brought gold from Ophir also brought from Ophir a great cargo of almug wood and precious stones.	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 The king made the almug wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had such almug wood been brought in, nor has such been seen to this day.)	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 and Ahab summoned Obadiah, who was in charge of the palace. (Now Obadiah greatly feared the LORD,	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 for when Jezebel had slaughtered the prophets of the LORD, Obadiah had taken a hundred prophets and hidden them, fifty men per cave, providing them with food and water.)	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Surely there was never one like Ahab, who sold himself to do evil in the sight of the LORD, incited by his wife Jezebel.	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 He committed the most detestable acts by going after idols, just like the Amorites whom the LORD had driven out before the Israelites.)	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Thus Jehu son of Jehoshaphat, the son of Nimshi, conspired against Joram. (Now Joram and all Israel had been defending Ramoth-gilead against Hazael king of Aram,	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 but King Joram had returned to Jezreel to recover from the wounds he had suffered at the hands of the Arameans in the battle against Hazael their king.) So Jehu said, “If you commanders wish to make me king, then do not let anyone escape from the city to go and tell it in Jezreel.”	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	013 1CH 012 001 Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle;	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	013 1CH 012 002 they were archers using both the right and left hands to sling stones and shoot arrows; and they were Saul’s kinsmen from Benjamin):	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (The servants of Hiram and of Solomon who brought gold from Ophir also brought algum wood and precious stones.	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 The king made the algum wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had anything like them been seen in the land of Judah.)	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	016 NEH 011 003 These are the heads of the provinces who settled in Jerusalem. (In the villages of Judah, however, each lived on his own property in their towns—the Israelites, priests, Levites, temple servants, and descendants of Solomon’s servants—	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	016 NEH 011 004 while some of the descendants of Judah and Benjamin settled in Jerusalem.) From the descendants of Judah: Athaiah son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez;	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	018 JOB 031 035 (Oh, that I had one to hear me! Here is my signature. Let the Almighty answer me; let my accuser compose an indictment.	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	018 JOB 031 037 I would give account of all my steps; I would approach Him like a prince.)—	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out.	WARN
+English---Berean-Standard	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 This became known to all who lived in Jerusalem, so they called that field in their own language Akeldama, that is, Field of Blood.)	WARN
+English---Berean-Standard	ENCLOSURES	Summary	lines	30 / 30	NOTICE
+
+# UNEXPECTED
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+English---Berean-Standard	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:3 When Adam was 130 years old, he had a son in his own likeness, after his own image; and he named him Seth.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:4 And after he had become the father of Seth, Adam lived 800 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:5 So Adam lived a total of 930 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 5:6 When Seth was 105 years old, he became the father of Enosh.	WARN
+English---Berean-Standard	NUMERALS	Source	7	GEN 5:7 And after he had become the father of Enosh, Seth lived 807 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	2	GEN 5:8 So Seth lived a total of 912 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:9 When Enosh was 90 years old, he became the father of Kenan.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 5:10 And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 5:11 So Enosh lived a total of 905 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:12 When Kenan was 70 years old, he became the father of Mahalalel.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:13 And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:14 So Kenan lived a total of 910 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 5:15 When Mahalalel was 65 years old, he became the father of Jared.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:16 And after he had become the father of Jared, Mahalalel lived 830 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 5:17 So Mahalalel lived a total of 895 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	2	GEN 5:18 When Jared was 162 years old, he became the father of Enoch.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:19 And after he had become the father of Enoch, Jared lived 800 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	2	GEN 5:20 So Jared lived a total of 962 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 5:21 When Enoch was 65 years old, he became the father of Methuselah.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:22 And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 5:23 So Enoch lived a total of 365 years.	WARN
+English---Berean-Standard	NUMERALS	Source	7	GEN 5:25 When Methuselah was 187 years old, he became the father of Lamech.	WARN
+English---Berean-Standard	NUMERALS	Source	2	GEN 5:26 And after he had become the father of Lamech, Methuselah lived 782 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	9	GEN 5:27 So Methuselah lived a total of 969 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	2	GEN 5:28 When Lamech was 182 years old, he had a son.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 5:30 And after he had become the father of Noah, Lamech lived 595 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	7	GEN 5:31 So Lamech lived a total of 777 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 5:32 After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 6:3 So the LORD said, “My Spirit will not contend with man forever, for he is mortal; his days shall be 120 years.”	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 6:15 And this is how you are to build it: The ark is to be 300 cubits long, 50 cubits wide, and 30 cubits high.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 7:6 Now Noah was 600 years old when the floodwaters came upon the earth.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 7:24 And the waters prevailed upon the earth for 150 days.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 8:3 The waters receded steadily from the earth, and after 150 days the waters had gone down.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 9:28 After the flood, Noah lived 350 years.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 9:29 So Noah lived a total of 950 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 11:10 This is the account of Shem. Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 11:11 And after he had become the father of Arphaxad, Shem lived 500 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 11:12 When Arphaxad was 35 years old, he became the father of Shelah.	WARN
+English---Berean-Standard	NUMERALS	Source	3	GEN 11:13 And after he had become the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 11:14 When Shelah was 30 years old, he became the father of Eber.	WARN
+English---Berean-Standard	NUMERALS	Source	3	GEN 11:15 And after he had become the father of Eber, Shelah lived 403 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	4	GEN 11:16 When Eber was 34 years old, he became the father of Peleg.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 11:17 And after he had become the father of Peleg, Eber lived 430 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 11:18 When Peleg was 30 years old, he became the father of Reu.	WARN
+English---Berean-Standard	NUMERALS	Source	9	GEN 11:19 And after he had become the father of Reu, Peleg lived 209 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	2	GEN 11:20 When Reu was 32 years old, he became the father of Serug.	WARN
+English---Berean-Standard	NUMERALS	Source	7	GEN 11:21 And after he had become the father of Serug, Reu lived 207 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 11:22 When Serug was 30 years old, he became the father of Nahor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 11:23 And after he had become the father of Nahor, Serug lived 200 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	9	GEN 11:24 When Nahor was 29 years old, he became the father of Terah.	WARN
+English---Berean-Standard	NUMERALS	Source	9	GEN 11:25 And after he had become the father of Terah, Nahor lived 119 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 11:26 When Terah was 70 years old, he became the father of Abram, Nahor, and Haran.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 11:32 Terah lived 205 years, and he died in Haran.	WARN
+English---Berean-Standard	NUMERALS	Source	8	GEN 14:14 And when Abram heard that his relative had been captured, he mobilized the 318 trained men born in his household, and they set out in pursuit as far as Dan.	WARN
+English---Berean-Standard	NUMERALS	Source	7	GEN 23:1 Now Sarah lived to be 127 years old.	WARN
+English---Berean-Standard	NUMERALS	Source	5	GEN 25:7 Abraham lived a total of 175 years.	WARN
+English---Berean-Standard	NUMERALS	Source	7	GEN 25:17 Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 32:14 200 female goats, 20 male goats, 200 ewes, 20 rams,	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 32:15 30 milk camels with their young, 40 cows, 10 bulls, 20 female donkeys, and 10 male donkeys.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 35:28 And Isaac lived 180 years.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 47:9 “My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.”	WARN
+English---Berean-Standard	NUMERALS	Source	7	GEN 47:28 And Jacob lived in the land of Egypt seventeen years, and the length of his life was 147 years.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 50:22 Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GEN 50:26 So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt.	WARN
+English---Berean-Standard	NUMERALS	Source	7	EXO 6:16 These were the names of the sons of Levi according to their records: Gershon, Kohath, and Merari. Levi lived 137 years.	WARN
+English---Berean-Standard	NUMERALS	Source	3	EXO 6:18 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.	WARN
+English---Berean-Standard	NUMERALS	Source	7	EXO 6:20 And Amram married his father’s sister Jochebed, and she bore him Aaron and Moses. Amram lived 137 years.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 12:37 The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot, besides women and children.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 12:40 Now the duration of the Israelites’ stay in Egypt was 430 years.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 12:41 At the end of the 430 years, to the very day, all the LORD’s divisions went out of the land of Egypt.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 14:7 He took 600 of the best chariots, and all the other chariots of Egypt, with officers over all of them.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 30:23 “Take the finest spices: 500 shekels of liquid myrrh, half that amount (250 shekels) of fragrant cinnamon, 250 shekels of fragrant cane,	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 30:24 500 shekels of cassia —all according to the sanctuary shekel—and a hin of olive oil.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 38:24 All the gold from the wave offering used for the work on the sanctuary totaled 29 talents and 730 shekels, according to the sanctuary shekel.	WARN
+English---Berean-Standard	NUMERALS	Source	5	EXO 38:25 The silver from those numbered among the congregation totaled 100 talents and 1,775 shekels, according to the sanctuary shekel—	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 38:26 a beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone twenty years of age or older who had crossed over to be numbered, a total of 603,550 men.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 38:27 The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil—100 bases from the 100 talents, one talent per base.	WARN
+English---Berean-Standard	NUMERALS	Source	5	EXO 38:28 With the 1,775 shekels of silver he made the hooks for the posts, overlaid their tops, and supplied bands for them.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EXO 38:29 The bronze from the wave offering totaled 70 talents and 2,400 shekels.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:21 those registered to the tribe of Reuben numbered 46,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:23 those registered to the tribe of Simeon numbered 59,300.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:25 those registered to the tribe of Gad numbered 45,650.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:27 those registered to the tribe of Judah numbered 74,600.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:29 those registered to the tribe of Issachar numbered 54,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:31 those registered to the tribe of Zebulun numbered 57,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:33 those registered to the tribe of Ephraim numbered 40,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:35 those registered to the tribe of Manasseh numbered 32,200.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:37 those registered to the tribe of Benjamin numbered 35,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:39 those registered to the tribe of Dan numbered 62,700.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:41 those registered to the tribe of Asher numbered 41,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:43 those registered to the tribe of Naphtali numbered 53,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 1:46 And all those counted totaled 603,550.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:4 and his division numbers 74,600.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:6 and his division numbers 54,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:8 and his division numbers 57,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:9 The total number of men in the divisions of the camp of Judah is 186,400; they shall set out first.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:11 and his division numbers 46,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:13 and his division numbers 59,300.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:15 and his division numbers 45,650.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:16 The total number of men in the divisions of the camp of Reuben is 151,450; they shall set out second.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:19 and his division numbers 40,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:21 and his division numbers 32,200.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:23 and his division numbers 35,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:24 The total number of men in the divisions of the camp of Ephraim is 108,100; they shall set out third.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:26 and his division numbers 62,700.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:28 and his division numbers 41,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:30 and his division numbers 53,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:31 The total number of men in the camp of Dan is 157,600; they shall set out last, under their standards.”	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 2:32 These are the Israelites, numbered according to their families. The total of those counted in the camps, by their divisions, was 603,550.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 3:22 The number of all the males a month old or more was 7,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 3:28 The number of all the males a month old or more was 8,600. They were responsible for the duties of the sanctuary.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 3:34 The number of all the males a month old or more was 6,200.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 3:39 The total number of Levites that Moses and Aaron counted by their clans at the LORD’s command, including all the males a month old or more, was 22,000.	WARN
+English---Berean-Standard	NUMERALS	Source	3	NUM 3:43 The total number of the firstborn males a month old or more, listed by name, was 22,273.	WARN
+English---Berean-Standard	NUMERALS	Source	3	NUM 3:46 To redeem the 273 firstborn Israelites who outnumber the Levites,	WARN
+English---Berean-Standard	NUMERALS	Source	5	NUM 3:50 He collected the money from the firstborn of the Israelites: 1,365 shekels, according to the sanctuary shekel.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 4:36 And those numbered by their clans totaled 2,750.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 4:40 And those numbered by their clans and families totaled 2,630.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 4:44 The men registered by their clans numbered 3,200.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 4:48 And the number of men was 8,580.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 11:21 But Moses replied, “Here I am among 600,000 men on foot, yet You say, ‘I will give them meat, and they will eat for a month.’	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 16:2 a rebellion against Moses, along with 250 men of Israel renowned as leaders of the congregation and representatives in the assembly.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 16:17 Each man is to take his censer, place incense in it, and present it before the LORD—250 censers. You and Aaron are to present your censers as well.”	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 16:35 And fire came forth from the LORD and consumed the 250 men who were offering the incense.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 16:49 But those who died from the plague numbered 14,700, in addition to those who had died on account of Korah.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 25:9 but those who died in the plague numbered 24,000.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:7 These were the clans of Reuben, and their registration numbered 43,730.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:10 And the earth opened its mouth and swallowed them along with Korah, whose followers died when the fire consumed 250 men. They serve as a warning sign.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:14 These were the clans of Simeon, and there were 22,200 men.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:18 These were the clans of Gad, and their registration numbered 40,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:22 These were the clans of Judah, and their registration numbered 76,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:25 These were the clans of Issachar, and their registration numbered 64,300.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:27 These were the clans of Zebulun, and their registration numbered 60,500.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:34 These were the clans of Manasseh, and their registration numbered 52,700.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:37 These were the clans of Ephraim, and their registration numbered 32,500. These clans were the descendants of Joseph.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:41 These were the clans of Benjamin, and their registration numbered 45,600.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:43 All of them were Shuhamite clans, and their registration numbered 64,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:47 These were the clans of Asher, and their registration numbered 53,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:50 These were the clans of Naphtali, and their registration numbered 45,400.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:51 These men of Israel numbered 601,730 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 26:62 The registration of the Levites totaled 23,000, every male a month old or more; they were not numbered among the other Israelites, because no inheritance was given to them among the Israelites.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:32 and this plunder remained from the spoils the soldiers had taken: 675,000 sheep,	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:33 72,000 cattle,	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:34 61,000 donkeys,	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:35 and 32,000 women who had not slept with a man.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:36 This was the half portion for those who had gone to war: 337,500 sheep,	WARN
+English---Berean-Standard	NUMERALS	Source	5	NUM 31:37 including a tribute to the LORD of 675,	WARN
+English---Berean-Standard	NUMERALS	Source	2	NUM 31:38 36,000 cattle, including a tribute to the LORD of 72,	WARN
+English---Berean-Standard	NUMERALS	Source	1	NUM 31:39 30,500 donkeys, including a tribute to the LORD of 61,	WARN
+English---Berean-Standard	NUMERALS	Source	2	NUM 31:40 and 16,000 people, including a tribute to the LORD of 32.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:43 this half belonged to the congregation: 337,500 sheep,	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:44 36,000 cattle,	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:45 30,500 donkeys,	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:46 and 16,000 people.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NUM 31:52 All the gold that the commanders of thousands and of hundreds presented as an offering to the LORD weighed 16,750 shekels.	WARN
+English---Berean-Standard	NUMERALS	Source	3	NUM 33:39 Aaron was 123 years old when he died on Mount Hor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JOS 4:13 About 40,000 troops armed for battle crossed over before the LORD into the plains of Jericho.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JOS 8:3 So Joshua and the whole army set out to attack Ai. Joshua chose 30,000 mighty men of valor and sent them out at night	WARN
+English---Berean-Standard	NUMERALS	Source	0	JOS 24:29 Some time later, Joshua son of Nun, the servant of the LORD, died at the age of 110.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 2:8 And Joshua son of Nun, the servant of the LORD, died at the age of 110.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 8:26 The weight of the gold earrings he had requested was 1,700 shekels, in addition to the crescent ornaments, the pendants, the purple garments of the kings of Midian, and the chains from the necks of their camels.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 12:6 they told him, “Please say Shibboleth.” If he said, “Sibboleth,” because he could not pronounce it correctly, they seized him and killed him at the fords of the Jordan. So at that time 42,000 Ephraimites were killed.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:2 The leaders of all the people and all the tribes of Israel presented themselves in the assembly of God’s people: 400,000 men on foot, armed with swords.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:15 On that day the Benjamites mobilized 26,000 swordsmen from their cities, in addition to the 700 select men of Gibeah.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:16 Among all these soldiers there were 700 select left-handers, each of whom could sling a stone at a hair without missing.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:17 The Israelites, apart from Benjamin, mobilized 400,000 swordsmen, each one an experienced warrior.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:21 And the Benjamites came out of Gibeah and cut down 22,000 Israelites on the battlefield that day.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:25 That same day the Benjamites came out against them from Gibeah and cut down another 18,000 Israelites, all of them armed with swords.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:34 Then 10,000 select men from all Israel made a frontal assault against Gibeah, and the battle was fierce. But the Benjamites did not realize that disaster was upon them.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:35 The LORD defeated Benjamin in the presence of Israel, and on that day the Israelites slaughtered 25,100 Benjamites, all armed with swords.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:44 And 18,000 Benjamites fell, all men of valor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:45 Then the Benjamites turned and fled toward the wilderness to the rock of Rimmon, and Israel cut down 5,000 men on the roads. And they overtook them at Gidom and struck down 2,000 more.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:46 That day 25,000 Benjamite swordsmen fell, all men of valor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 20:47 But 600 men turned and fled into the wilderness to the rock of Rimmon, where they stayed four months.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JDG 21:10 So the congregation sent 12,000 of their most valiant men and commanded them: “Go and put to the sword those living in Jabesh-gilead, including women and children.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1SA 11:8 And when Saul numbered them at Bezek, there were 300,000 Israelites and 30,000 men of Judah.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1SA 15:4 So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2SA 2:31 but they had struck down 360 Benjamites who were with Abner.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2SA 24:9 And Joab reported to the king the total number of the troops. In Israel there were 800,000 men of valor who drew the sword, and in Judah there were 500,000.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 4:26 Solomon had 4,000 stalls for his chariot horses and 12,000 horses.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 5:11 and year after year Solomon would provide Hiram with 20,000 cors of wheat as food for his household, as well as 20,000 baths of pure olive oil.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 5:13 Then King Solomon conscripted a labor force of 30,000 men from all Israel.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 5:14 He sent them to Lebanon in monthly shifts of 10,000 men, so that they would spend one month in Lebanon and two months at home. And Adoniram was in charge of the forced labor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 5:15 Solomon had 70,000 porters and 80,000 stonecutters in the mountains,	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 5:16 not including his 3,300 foremen who supervised the workers.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 8:63 And Solomon offered as peace offerings to the LORD 22,000 oxen and 120,000 sheep. So the king and all the Israelites dedicated the house of the LORD.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 9:14 And Hiram had sent the king 120 talents of gold.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 9:23 They were also the chief officers over Solomon’s projects: 550 supervisors over the people who did the work.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 9:28 They sailed to Ophir and imported gold from there—420 talents —and delivered it to Solomon.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 10:10 Then she gave the king 120 talents of gold, a great quantity of spices, and precious stones. Never again was such an abundance of spices brought in as those the queen of Sheba gave to King Solomon.	WARN
+English---Berean-Standard	NUMERALS	Source	6	1KI 10:14 The weight of gold that came to Solomon each year was 666 talents,	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 10:26 Solomon accumulated 1,400 chariots and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 12:21 And when Rehoboam arrived in Jerusalem, he mobilized the whole house of Judah and the tribe of Benjamin—180,000 chosen warriors—to fight against the house of Israel and restore the kingdom to Rehoboam son of Solomon.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1KI 20:15 So Ahab assembled the young officers of the district governors, and there were 232 men. And after them, he assembled the rest of the Israelite troops, 7,000 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	2	1KI 20:16 They marched out at noon while Ben-hadad and the 32 kings allied with him were in their tents getting drunk.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2KI 14:7 Amaziah struck down 10,000 Edomites in the Valley of Salt. He took Sela in battle and called it Joktheel, which is its name to this very day.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2KI 19:35 And that very night the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 5:18 The Reubenites, the Gadites, and the half-tribe of Manasseh had 44,760 warriors—valiant men who carried the shield and sword, drew the bow, and were trained for battle.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 5:21 They seized the livestock of the Hagrites—50,000 camels, 250,000 sheep, and 2,000 donkeys. They also took 100,000 captives,	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 7:2 The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, the heads of their families. In the days of David, 22,600 descendants of Tola were numbered in their genealogies as mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 7:4 In addition to them, according to their genealogy, they had 36,000 troops for battle, for they had many wives and children.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 7:5 Their kinsmen belonging to all the families of Issachar who were mighty men of valor totaled 87,000, as listed in their genealogies.	WARN
+English---Berean-Standard	NUMERALS	Source	4	1CH 7:7 The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, heads of their families—five in all. There were 22,034 mighty men of valor listed in their genealogies.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 7:9 Their genealogies were recorded according to the heads of their families—20,200 mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 7:11 All these sons of Jediael were heads of their families, mighty men of valor; there were 17,200 fit for battle.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 7:40 All these were the descendants of Asher—heads of their families, choice and mighty men of valor, and chiefs among the leaders. The number of men fit for battle, recorded in their genealogies, was 26,000.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 8:40 The sons of Ulam were mighty men of valor, archers, and they had many sons and grandsons—150 in all. All these were the descendants of Benjamin.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 9:6 From the Zerahites: Jeuel and 690 relatives.	WARN
+English---Berean-Standard	NUMERALS	Source	6	1CH 9:9 and 956 of their relatives according to their genealogy. All these men were heads of their families.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 9:13 and 1,760 of their relatives, the heads of their families, able men for the work of the service of the house of God.	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 9:22 The number of those chosen to be gatekeepers at the thresholds was 212. They were registered by genealogy in their villages. David and Samuel the seer had appointed them to their positions of trust.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:24 From Judah: 6,800 armed troops bearing shields and spears.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:25 From Simeon: 7,100 mighty men of valor, ready for battle.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:26 From Levi: 4,600,	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:27 including Jehoiada, leader of the house of Aaron, with 3,700 men,	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 12:28 and Zadok, a mighty young man of valor, with 22 commanders from his own family.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:29 From Benjamin, the kinsmen of Saul: 3,000, most of whom had remained loyal to the house of Saul up to that time.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:30 From Ephraim: 20,800 mighty men of valor, famous among their own clans.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:31 From the half-tribe of Manasseh: 18,000 designated by name to come and make David king.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:32 From Issachar, men who understood the times and knew what Israel should do: 200 chiefs with all their kinsmen at their command.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:33 From Zebulun: 50,000 fit for service, trained for battle with all kinds of weapons of war, who with one purpose were devoted to David.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:34 From Naphtali: 1,000 commanders, accompanied by 37,000 men with shield and spear.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:35 From Dan: 28,600 prepared for battle.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:36 From Asher: 40,000 fit for service, prepared for battle.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 12:37 And from east of the Jordan, from Reuben, Gad, and the half-tribe of Manasseh there: 120,000 armed with every kind of weapon of war.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 15:5 From the Kohathites, Uriel the chief and 120 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 15:6 from the Merarites, Asaiah the chief and 220 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 15:7 from the Gershomites, Joel the chief and 130 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 15:8 from the Elizaphanites, Shemaiah the chief and 200 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 15:9 from the Hebronites, Eliel the chief and 80 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 15:10 and from the Uzzielites, Amminadab the chief and 112 of his relatives.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 21:5 And Joab reported to David the total number of the troops. In all Israel there were 1,100,000 men who drew the sword, including 470,000 in Judah.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 22:14 Now behold, I have taken great pains to provide for the house of the LORD—100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron too great to be weighed. I have also provided timber and stone, and you may add to them.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 23:3 The Levites thirty years of age or older were counted, and the total number of men was 38,000.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 23:4 “Of these,” said David, “24,000 are to oversee the work of the house of the LORD, 6,000 are to be officers and judges,	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 23:5 4,000 are to be gatekeepers, and 4,000 are to praise the LORD with the instruments I have made for giving praise.”	WARN
+English---Berean-Standard	NUMERALS	Source	8	1CH 25:7 Together with their relatives, who were all trained and skillful in the songs of the LORD, they numbered 288.	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:9 The first lot, which was for Asaph, fell to Joseph, his sons, and his brothers—12 in all; the second to Gedaliah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:10 the third to Zaccur, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:11 the fourth to Izri, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:12 the fifth to Nethaniah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:13 the sixth to Bukkiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:14 the seventh to Jesarelah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:15 the eighth to Jeshaiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:16 the ninth to Mattaniah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:17 the tenth to Shimei, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:18 the eleventh to Azarel, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:19 the twelfth to Hashabiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:20 the thirteenth to Shubael, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:21 the fourteenth to Mattithiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:22 the fifteenth to Jeremoth, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:23 the sixteenth to Hananiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:24 the seventeenth to Joshbekashah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:25 the eighteenth to Hanani, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:26 the nineteenth to Mallothi, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:27 the twentieth to Eliathah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:28 the twenty-first to Hothir, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:29 the twenty-second to Giddalti, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:30 the twenty-third to Mahazioth, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 25:31 and the twenty-fourth to Romamti-ezer, his sons, and his brothers—12 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	2	1CH 26:8 All these were descendants of Obed-edom; they and their sons and brothers were capable men with strength to do the work—62 in all from Obed-edom.	WARN
+English---Berean-Standard	NUMERALS	Source	8	1CH 26:9 Meshelemiah also had sons and brothers who were capable men—18 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	3	1CH 26:11 Hilkiah the second, Tebaliah the third, and Zechariah the fourth. The sons and brothers of Hosah numbered 13 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 26:30 From the Hebronites, Hashabiah and his relatives, 1,700 capable men, had charge of the affairs of Israel west of the Jordan for all the work of the LORD and for the service of the king.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 26:32 Among Jerijah’s relatives there were 2,700 capable men who were heads of families. King David appointed them over the Reubenites, the Gadites, and the half-tribe of Manasseh for every matter pertaining to God and to the affairs of the king.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:1 This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division:	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:2 Jashobeam son of Zabdiel was in charge of the first division, which was assigned the first month. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:4 Dodai the Ahohite was in charge of the division for the second month, and Mikloth was the leader. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:5 The third army commander, as chief for the third month, was Benaiah son of Jehoiada the priest. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:7 The fourth, for the fourth month, was Joab’s brother Asahel, and his son Zebadiah was commander after him. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:8 The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:9 The sixth, for the sixth month, was Ira son of Ikkesh the Tekoite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:10 The seventh, for the seventh month, was Helez the Pelonite, an Ephraimite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:11 The eighth, for the eighth month, was Sibbecai the Hushathite, a Zerahite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:12 The ninth, for the ninth month, was Abiezer the Anathothite, a Benjamite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:13 The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:14 The eleventh, for the eleventh month, was Benaiah the Pirathonite, an Ephraimite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 27:15 The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Source	0	1CH 29:7 Toward the service of God’s house they gave 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze, and 100,000 talents of iron.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 1:14 Solomon accumulated 1,400 chariots and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 2:2 So he conscripted 70,000 porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 2:10 I will pay your servants, the woodcutters, 20,000 cors of ground wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of olive oil.”	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 2:17 Solomon numbered all the foreign men in the land of Israel following the census his father David had conducted, and there were found to be 153,600 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 2:18 Solomon made 70,000 of them porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 5:12 all the Levitical singers—Asaph, Heman, Jeduthun, and their sons and relatives—stood on the east side of the altar, dressed in fine linen and playing cymbals, harps, and lyres, accompanied by 120 priests sounding trumpets.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 7:5 And King Solomon offered a sacrifice of 22,000 oxen and 120,000 sheep. So the king and all the people dedicated the house of God.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 8:10 They were also the chief officers for King Solomon: 250 supervisors.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 8:18 So Hiram sent him ships captained by his servants, along with crews of experienced sailors. They went with Solomon’s servants to Ophir and acquired from there 450 talents of gold, which they delivered to King Solomon.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 9:9 Then she gave the king 120 talents of gold, a great quantity of spices, and precious stones. There had never been such spices as those the queen of Sheba gave to King Solomon.	WARN
+English---Berean-Standard	NUMERALS	Source	6	2CH 9:13 The weight of gold that came to Solomon each year was 666 talents,	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 9:25 Solomon had 4,000 stalls for horses and chariots, and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 11:1 When Rehoboam arrived in Jerusalem, he mobilized the house of Judah and Benjamin—180,000 chosen warriors—to fight against Israel and restore the kingdom to Rehoboam.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 12:3 with 1,200 chariots, 60,000 horsemen, and countless troops who came with him out of Egypt—Libyans, Sukkites, and Cushites.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 13:3 Abijah went into battle with an army of 400,000 chosen men, while Jeroboam drew up in formation against him with 800,000 chosen and mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 13:17 Then Abijah and his people struck them with a mighty blow, and 500,000 chosen men of Israel fell slain.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 14:8 Asa had an army of 300,000 men from Judah bearing large shields and spears, and 280,000 men from Benjamin bearing small shields and drawing the bow. All these were mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 14:9 Then Zerah the Cushite came against them with an army of 1,000,000 men and 300 chariots, and they advanced as far as Mareshah.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 17:11 Some Philistines also brought gifts and silver as tribute to Jehoshaphat, and the Arabs brought him 7,700 rams and 7,700 goats from their flocks.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 17:14 These are their numbers according to the houses of their fathers: From Judah, the commanders of thousands: Adnah the commander, and with him 300,000 mighty men of valor;	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 17:15 next to him, Jehohanan the commander, and with him 280,000;	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 17:16 and next to him, Amasiah son of Zichri, the volunteer for the LORD, and with him 200,000 mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 17:17 From Benjamin: Eliada, a mighty man of valor, and with him 200,000 armed with bows and shields;	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 17:18 and next to him, Jehozabad, and with him 180,000 armed for battle.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 24:15 When Jehoiada was old and full of years, he died at the age of 130.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 25:5 Then Amaziah gathered the people of Judah and assigned them according to their families to commanders of thousands and of hundreds. And he numbered those twenty years of age or older throughout Judah and Benjamin and found 300,000 chosen men able to serve in the army, bearing the spear and shield.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 25:6 He also hired 100,000 mighty warriors from Israel for a hundred talents of silver.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 25:11 Amaziah, however, summoned his strength and led his troops to the Valley of Salt, where he struck down 10,000 men of Seir,	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 25:12 and the army of Judah also captured 10,000 men alive. They took them to the top of a cliff and threw them down so that all were dashed to pieces.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 25:13 Meanwhile the troops that Amaziah had dismissed from battle raided the cities of Judah, from Samaria to Beth-horon. They struck down 3,000 people and carried off a great deal of plunder.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 26:12 The total number of family leaders of the mighty men of valor was 2,600.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 26:13 Under their authority was an army of 307,500 trained for war, a powerful force to support the king against his enemies.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 28:6 For in one day Pekah son of Remaliah killed 120,000 valiant men in Judah. This happened because they had forsaken the LORD, the God of their fathers.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 28:8 Then the Israelites took 200,000 captives from their kinsmen—women, sons, and daughters. They also carried off a great deal of plunder and brought it to Samaria.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 35:7 From his own flocks and herds Josiah contributed 30,000 lambs and goats plus 3,000 bulls for the Passover offerings for all the people who were present.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 35:8 His officials also contributed willingly to the people and priests and Levites. Hilkiah, Zechariah, and Jehiel, the administrators of the house of God, gave the priests 2,600 Passover offerings and 300 bulls.	WARN
+English---Berean-Standard	NUMERALS	Source	0	2CH 35:9 Additionally, Conaniah and his brothers Shemaiah and Nethanel, as well as Hashabiah, Jeiel, and Jozabad, officers of the Levites, donated to the Levites 5,000 Passover offerings and 500 bulls.	WARN
+English---Berean-Standard	NUMERALS	Source	9	EZR 1:9 This was the inventory: 30 gold dishes, 1,000 silver dishes, 29 silver utensils,	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 1:10 30 gold bowls, 410 matching silver bowls, and 1,000 other articles.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 1:11 In all, there were 5,400 gold and silver articles. Sheshbazzar brought all these along when the exiles went up from Babylon to Jerusalem.	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:3 the descendants of Parosh, 2,172;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:4 the descendants of Shephatiah, 372;	WARN
+English---Berean-Standard	NUMERALS	Source	5	EZR 2:5 the descendants of Arah, 775;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:6 the descendants of Pahath-moab (through the line of Jeshua and Joab), 2,812;	WARN
+English---Berean-Standard	NUMERALS	Source	4	EZR 2:7 the descendants of Elam, 1,254;	WARN
+English---Berean-Standard	NUMERALS	Source	5	EZR 2:8 the descendants of Zattu, 945;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 2:9 the descendants of Zaccai, 760;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:10 the descendants of Bani, 642;	WARN
+English---Berean-Standard	NUMERALS	Source	3	EZR 2:11 the descendants of Bebai, 623;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:12 the descendants of Azgad, 1,222;	WARN
+English---Berean-Standard	NUMERALS	Source	6	EZR 2:13 the descendants of Adonikam, 666;	WARN
+English---Berean-Standard	NUMERALS	Source	6	EZR 2:14 the descendants of Bigvai, 2,056;	WARN
+English---Berean-Standard	NUMERALS	Source	4	EZR 2:15 the descendants of Adin, 454;	WARN
+English---Berean-Standard	NUMERALS	Source	8	EZR 2:16 the descendants of Ater (through Hezekiah), 98;	WARN
+English---Berean-Standard	NUMERALS	Source	3	EZR 2:17 the descendants of Bezai, 323;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:18 the descendants of Jorah, 112;	WARN
+English---Berean-Standard	NUMERALS	Source	3	EZR 2:19 the descendants of Hashum, 223;	WARN
+English---Berean-Standard	NUMERALS	Source	5	EZR 2:20 the descendants of Gibbar, 95;	WARN
+English---Berean-Standard	NUMERALS	Source	3	EZR 2:21 the men of Bethlehem, 123;	WARN
+English---Berean-Standard	NUMERALS	Source	6	EZR 2:22 the men of Netophah, 56;	WARN
+English---Berean-Standard	NUMERALS	Source	8	EZR 2:23 the men of Anathoth, 128;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:24 the descendants of Azmaveth, 42;	WARN
+English---Berean-Standard	NUMERALS	Source	3	EZR 2:25 the men of Kiriath-jearim, Chephirah, and Beeroth, 743;	WARN
+English---Berean-Standard	NUMERALS	Source	1	EZR 2:26 the men of Ramah and Geba, 621;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:27 the men of Michmash, 122;	WARN
+English---Berean-Standard	NUMERALS	Source	3	EZR 2:28 the men of Bethel and Ai, 223;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:29 the descendants of Nebo, 52;	WARN
+English---Berean-Standard	NUMERALS	Source	6	EZR 2:30 the descendants of Magbish, 156;	WARN
+English---Berean-Standard	NUMERALS	Source	4	EZR 2:31 the descendants of the other Elam, 1,254;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 2:32 the descendants of Harim, 320;	WARN
+English---Berean-Standard	NUMERALS	Source	5	EZR 2:33 the men of Lod, Hadid, and Ono, 725;	WARN
+English---Berean-Standard	NUMERALS	Source	5	EZR 2:34 the men of Jericho, 345;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 2:35 and the descendants of Senaah, 3,630.	WARN
+English---Berean-Standard	NUMERALS	Source	3	EZR 2:36 The priests: The descendants of Jedaiah (through the house of Jeshua), 973;	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:37 the descendants of Immer, 1,052;	WARN
+English---Berean-Standard	NUMERALS	Source	7	EZR 2:38 the descendants of Pashhur, 1,247;	WARN
+English---Berean-Standard	NUMERALS	Source	7	EZR 2:39 and the descendants of Harim, 1,017.	WARN
+English---Berean-Standard	NUMERALS	Source	4	EZR 2:40 The Levites: the descendants of Jeshua and Kadmiel (through the line of Hodaviah ), 74.	WARN
+English---Berean-Standard	NUMERALS	Source	8	EZR 2:41 The singers: the descendants of Asaph, 128.	WARN
+English---Berean-Standard	NUMERALS	Source	9	EZR 2:42 The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 139 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:58 The temple servants and descendants of the servants of Solomon numbered 392 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 2:60 the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 652 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 2:64 The whole assembly numbered 42,360,	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 2:65 in addition to their 7,337 menservants and maidservants, as well as their 200 male and female singers.	WARN
+English---Berean-Standard	NUMERALS	Source	5	EZR 2:66 They had 736 horses, 245 mules,	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 2:67 435 camels, and 6,720 donkeys.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 2:69 According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:3 of the descendants of Shecaniah; from the descendants of Parosh, Zechariah, and with him were registered 150 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:4 from the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 200 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:5 from the descendants of Zattu, Shecaniah son of Jahaziel, and with him 300 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:6 from the descendants of Adin, Ebed son of Jonathan, and with him 50 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:7 from the descendants of Elam, Jeshaiah son of Athaliah, and with him 70 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:8 from the descendants of Shephatiah, Zebadiah son of Michael, and with him 80 men;	WARN
+English---Berean-Standard	NUMERALS	Source	8	EZR 8:9 from the descendants of Joab, Obadiah son of Jehiel, and with him 218 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:10 from the descendants of Bani, Shelomith son of Josiphiah, and with him 160 men;	WARN
+English---Berean-Standard	NUMERALS	Source	8	EZR 8:11 from the descendants of Bebai, Zechariah son of Bebai, and with him 28 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:12 from the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:13 from the later descendants of Adonikam, these were their names: Eliphelet, Jeiel, and Shemaiah, and with them 60 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:14 and from the descendants of Bigvai, both Uthai and Zaccur, and with them 70 men.	WARN
+English---Berean-Standard	NUMERALS	Source	8	EZR 8:18 And since the gracious hand of our God was upon us, they brought us Sherebiah—a man of insight from the descendants of Mahli son of Levi, the son of Israel—along with his sons and brothers, 18 men;	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:19 also Hashabiah, together with Jeshaiah, from the descendants of Merari, and his brothers and their sons, 20 men.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:20 They also brought 220 of the temple servants, all designated by name. David and the officials had appointed them to assist the Levites.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:26 I weighed out into their hands 650 talents of silver, articles of silver weighing 100 talents, 100 talents of gold,	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZR 8:27 20 gold bowls valued at 1,000 darics, and two articles of fine polished bronze, as precious as gold.	WARN
+English---Berean-Standard	NUMERALS	Source	2	EZR 8:35 Then the exiles who had returned from captivity sacrificed burnt offerings to the God of Israel: 12 bulls for all Israel, 96 rams, 77 lambs, and a sin offering of 12 male goats. All this was a burnt offering to the LORD.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NEH 5:17 There were 150 Jews and officials at my table, besides the guests from the surrounding nations.	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:8 the descendants of Parosh, 2,172;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:9 the descendants of Shephatiah, 372;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:10 the descendants of Arah, 652;	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:11 the descendants of Pahath-moab (through the line of Jeshua and Joab), 2,818;	WARN
+English---Berean-Standard	NUMERALS	Source	4	NEH 7:12 the descendants of Elam, 1,254;	WARN
+English---Berean-Standard	NUMERALS	Source	5	NEH 7:13 the descendants of Zattu, 845;	WARN
+English---Berean-Standard	NUMERALS	Source	0	NEH 7:14 the descendants of Zaccai, 760;	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:15 the descendants of Binnui, 648;	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:16 the descendants of Bebai, 628;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:17 the descendants of Azgad, 2,322;	WARN
+English---Berean-Standard	NUMERALS	Source	7	NEH 7:18 the descendants of Adonikam, 667;	WARN
+English---Berean-Standard	NUMERALS	Source	7	NEH 7:19 the descendants of Bigvai, 2,067;	WARN
+English---Berean-Standard	NUMERALS	Source	5	NEH 7:20 the descendants of Adin, 655;	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:21 the descendants of Ater (through Hezekiah), 98;	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:22 the descendants of Hashum, 328;	WARN
+English---Berean-Standard	NUMERALS	Source	4	NEH 7:23 the descendants of Bezai, 324;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:24 the descendants of Hariph, 112;	WARN
+English---Berean-Standard	NUMERALS	Source	5	NEH 7:25 the descendants of Gibeon, 95;	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:26 the men of Bethlehem and Netophah, 188;	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:27 the men of Anathoth, 128;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:28 the men of Beth-azmaveth, 42;	WARN
+English---Berean-Standard	NUMERALS	Source	3	NEH 7:29 the men of Kiriath-jearim, Chephirah, and Beeroth, 743;	WARN
+English---Berean-Standard	NUMERALS	Source	1	NEH 7:30 the men of Ramah and Geba, 621;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:31 the men of Michmash, 122;	WARN
+English---Berean-Standard	NUMERALS	Source	3	NEH 7:32 the men of Bethel and Ai, 123;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:33 the men of the other Nebo, 52;	WARN
+English---Berean-Standard	NUMERALS	Source	4	NEH 7:34 the descendants of the other Elam, 1,254;	WARN
+English---Berean-Standard	NUMERALS	Source	0	NEH 7:35 the descendants of Harim, 320;	WARN
+English---Berean-Standard	NUMERALS	Source	5	NEH 7:36 the men of Jericho, 345;	WARN
+English---Berean-Standard	NUMERALS	Source	1	NEH 7:37 the men of Lod, Hadid, and Ono, 721;	WARN
+English---Berean-Standard	NUMERALS	Source	0	NEH 7:38 and the descendants of Senaah, 3,930.	WARN
+English---Berean-Standard	NUMERALS	Source	3	NEH 7:39 The priests: the descendants of Jedaiah (through the house of Jeshua), 973;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:40 the descendants of Immer, 1,052;	WARN
+English---Berean-Standard	NUMERALS	Source	7	NEH 7:41 the descendants of Pashhur, 1,247;	WARN
+English---Berean-Standard	NUMERALS	Source	7	NEH 7:42 and the descendants of Harim, 1,017.	WARN
+English---Berean-Standard	NUMERALS	Source	4	NEH 7:43 The Levites: the descendants of Jeshua (through Kadmiel, through the line of Hodevah ), 74.	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:44 The singers: the descendants of Asaph, 148.	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 7:45 The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 138 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:60 The temple servants and descendants of the servants of Solomon numbered 392 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 7:62 the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 642 in all.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NEH 7:66 The whole assembly numbered 42,360,	WARN
+English---Berean-Standard	NUMERALS	Source	5	NEH 7:67 in addition to their 7,337 menservants and maidservants, as well as their 245 male and female singers.	WARN
+English---Berean-Standard	NUMERALS	Source	5	NEH 7:68 They had 736 horses, 245 mules,	WARN
+English---Berean-Standard	NUMERALS	Source	0	NEH 7:69 435 camels, and 6,720 donkeys.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NEH 7:70 Some of the heads of the families contributed to the project. The governor gave to the treasury 1,000 darics of gold, 50 bowls, and 530 priestly garments.	WARN
+English---Berean-Standard	NUMERALS	Source	0	NEH 7:71 And some of the heads of the families gave to the treasury for the project 20,000 darics of gold and 2,200 minas of silver.	WARN
+English---Berean-Standard	NUMERALS	Source	7	NEH 7:72 The rest of the people gave a total of 20,000 darics of gold, 2,000 minas of silver, and 67 priestly garments.	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 11:6 The descendants of Perez who settled in Jerusalem totaled 468 men of valor.	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 11:8 and his followers Gabbai and Sallai—928 men.	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 11:12 and their associates who did the work at the temple—822 men; Adaiah son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malchijah;	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 11:13 and his associates, the leaders of families—242 men; Amashai son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer;	WARN
+English---Berean-Standard	NUMERALS	Source	8	NEH 11:14 and his associates —128 mighty men of valor. Zabdiel son of Haggedolim was their overseer.	WARN
+English---Berean-Standard	NUMERALS	Source	4	NEH 11:18 The Levites in the holy city totaled 284.	WARN
+English---Berean-Standard	NUMERALS	Source	2	NEH 11:19 And the gatekeepers: Akkub, Talmon, and their associates, who kept watch at the gates—172 men.	WARN
+English---Berean-Standard	NUMERALS	Source	7	EST 1:1 This is what happened in the days of Xerxes, who reigned over 127 provinces from India to Cush.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EST 1:4 And for a full 180 days he displayed the glorious riches of his kingdom and the magnificent splendor of his greatness.	WARN
+English---Berean-Standard	NUMERALS	Source	7	EST 8:9 At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan ), they recorded all of Mordecai’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush —writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EST 9:16 The rest of the Jews in the royal provinces also assembled to defend themselves and rid themselves of their enemies. They killed 75,000 who hated them, but they did not lay a hand on the plunder.	WARN
+English---Berean-Standard	NUMERALS	Source	7	EST 9:30 And Mordecai sent letters with words of peace and truth to all the Jews in the 127 provinces of the kingdom of Xerxes,	WARN
+English---Berean-Standard	NUMERALS	Source	0	JOB 1:3 and he owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys, and a very large number of servants. Job was the greatest man of all the people of the East.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JOB 42:12 So the LORD blessed Job’s latter days more than his first. He owned 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JOB 42:16 After this, Job lived 140 years and saw his children and their children to the fourth generation.	WARN
+English---Berean-Standard	NUMERALS	Source	0	PSA 60:1 For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam of David for instruction. When he fought Aram-naharaim and Aram-zobah, and Joab returned and struck down 12,000 Edomites in the Valley of Salt. You have rejected us, O God; You have broken us; You have been angry; restore us!	WARN
+English---Berean-Standard	NUMERALS	Source	0	ISA 37:36 Then the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!	WARN
+English---Berean-Standard	NUMERALS	Source	3	JER 52:28 These are the people Nebuchadnezzar carried away: in the seventh year, 3,023 Jews;	WARN
+English---Berean-Standard	NUMERALS	Source	2	JER 52:29 in Nebuchadnezzar’s eighteenth year, 832 people from Jerusalem;	WARN
+English---Berean-Standard	NUMERALS	Source	0	JER 52:30 in Nebuchadnezzar’s twenty-third year, Nebuzaradan captain of the guard carried away 745 Jews. So in all, 4,600 people were taken away.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 4:5 For I have assigned to you 390 days, according to the number of years of their iniquity. So you shall bear the iniquity of the house of Israel.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 4:6 When you have completed these days, lie down again, but on your right side, and bear the iniquity of the house of Judah. I have assigned to you 40 days, a day for each year.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 4:9 But take wheat, barley, beans, lentils, millet, and spelt; put them in a single container and make them into bread for yourself. This is what you are to eat during the 390 days you lie on your side.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 45:1 “When you divide the land by lot as an inheritance, you are to set aside a portion for the LORD, a holy portion of the land 25,000 cubits long and 20,000 cubits wide. This entire tract of land will be holy.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 45:2 Within this area there is to be a section for the sanctuary 500 cubits square, with 50 cubits around it for open land.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 45:3 From this holy portion, you are to measure off a length of 25,000 cubits and a width of 10,000 cubits, and in it will be the sanctuary, the Most Holy Place.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 45:5 An adjacent area 25,000 cubits long and 10,000 cubits wide shall belong to the Levites who minister in the temple; it will be their possession for towns in which to live.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 45:6 As the property of the city, you are to set aside an area 5,000 cubits wide and 25,000 cubits long, adjacent to the holy district. It will belong to the whole house of Israel.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:8 Bordering the territory of Judah, from east to west, will be the portion you are to set apart. It will be 25,000 cubits wide, and the length of a tribal portion from east to west. In the center will be the sanctuary.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:9 The special portion you set apart to the LORD shall be 25,000 cubits long and 10,000 cubits wide.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:10 This will be the holy portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side, and 25,000 cubits long on the south side. In the center will be the sanctuary of the LORD.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:13 Bordering the territory of the priests, the Levites shall have an area 25,000 cubits long and 10,000 cubits wide. The whole length will be 25,000 cubits, and the width 10,000 cubits.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:15 The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for common use by the city, for houses, and for pastureland. The city will be in the center of it	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:16 and will have these measurements: 4,500 cubits on the north side, 4,500 cubits on the south side, 4,500 cubits on the east side, and 4,500 cubits on the west side.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:17 The pastureland of the city will extend 250 cubits to the north, 250 cubits to the south, 250 cubits to the east, and 250 cubits to the west.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:18 The remainder of the length bordering the holy portion and running adjacent to it will be 10,000 cubits on the east side and 10,000 cubits on the west side. Its produce will supply food for the workers of the city.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:20 The entire portion will be a square, 25,000 cubits by 25,000 cubits. You are to set apart the holy portion, along with the city property.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:21 The remaining area on both sides of the holy portion and of the property of the city will belong to the prince. He will own the land adjacent to the tribal portions, extending eastward from the 25,000 cubits of the holy district toward the eastern border, and westward from the 25,000 cubits to the western border. And in the center of them will be the holy portion and the sanctuary of the temple.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:30 “These will be the exits of the city: Beginning on the north side, which will be 4,500 cubits long,	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:32 On the east side, which will be 4,500 cubits long, there will be three gates: the gate of Joseph, the gate of Benjamin, and the gate of Dan.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:33 On the south side, which will be 4,500 cubits long, there will be three gates: the gate of Simeon, the gate of Issachar, and the gate of Zebulun.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:34 And on the west side, which will be 4,500 cubits long, there will be three gates: the gate of Gad, the gate of Asher, and the gate of Naphtali.	WARN
+English---Berean-Standard	NUMERALS	Source	0	EZE 48:35 The perimeter of the city will be 18,000 cubits, and from that day on the name of the city will be: THE LORD IS THERE.”	WARN
+English---Berean-Standard	NUMERALS	Source	0	DAN 6:1 Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom,	WARN
+English---Berean-Standard	NUMERALS	Source	0	DAN 8:14 He said to me, “It will take 2,300 evenings and mornings; then the sanctuary will be properly restored.”	WARN
+English---Berean-Standard	NUMERALS	Source	0	DAN 12:11 And from the time the daily sacrifice is abolished and the abomination of desolation set up, there will be 1,290 days.	WARN
+English---Berean-Standard	NUMERALS	Source	5	DAN 12:12 Blessed is he who waits and reaches the end of the 1,335 days.	WARN
+English---Berean-Standard	NUMERALS	Source	0	JON 4:11 So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”	WARN
+English---Berean-Standard	NUMERALS	Source	3	JOH 21:11 So Simon Peter went aboard and dragged the net ashore. It was full of large fish, 153, but even with so many, the net was not torn.	WARN
+English---Berean-Standard	NUMERALS	Source	0	ACT 13:20 All this took about 450 years. After this, God gave them judges until the time of Samuel the prophet.	WARN
+English---Berean-Standard	NUMERALS	Source	6	ACT 27:37 In all, there were 276 of us on board.	WARN
+English---Berean-Standard	NUMERALS	Source	0	GAL 3:17 What I mean is this: The law that came 430 years later does not revoke the covenant previously established by God, so as to nullify the promise.	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 7:4 And I heard the number of those who were sealed, 144,000 from all the tribes of Israel:	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 7:5 From the tribe of Judah 12,000 were sealed, from the tribe of Reuben 12,000, from the tribe of Gad 12,000,	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 7:6 from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 7:7 from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 7:8 from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, and from the tribe of Benjamin 12,000.	WARN
+English---Berean-Standard	NUMERALS	Source	2	REV 11:2 But exclude the courtyard outside the temple. Do not measure it, because it has been given over to the nations, and they will trample the holy city for 42 months.	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 11:3 And I will empower my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 12:6 And the woman fled into the wilderness, where God had prepared a place for her to be nourished for 1,260 days.	WARN
+English---Berean-Standard	NUMERALS	Source	2	REV 13:5 The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months.	WARN
+English---Berean-Standard	NUMERALS	Source	6	REV 13:18 Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man, and that number is 666.	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 14:1 Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads.	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 14:3 And they sang a new song before the throne and before the four living creatures and the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth.	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 14:20 And the winepress was trodden outside the city, and the blood that flowed from it rose as high as the bridles of the horses for a distance of 1,600 stadia.	WARN
+English---Berean-Standard	NUMERALS	Source	0	REV 21:16 The city lies foursquare, with its width the same as its length. And he measured the city with the rod, and all its dimensions were equal—12,000 stadia in length and width and height.	WARN
+English---Berean-Standard	NUMERALS	Source	4	REV 21:17 And he measured its wall to be 144 cubits, by the human measure the angel was using.	WARN
+English---Berean-Standard	NUMERALS	Source	count	499	WARN
+English---Berean-Standard	NUMERALS	Aionian	130	001-GEN-005-003 When Adam was 130 years old, he had a son in his own likeness, after his own image; and he named him Seth.	WARN
+English---Berean-Standard	NUMERALS	Aionian	800	001-GEN-005-004 And after he had become the father of Seth, Adam lived 800 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	930	001-GEN-005-005 So Adam lived a total of 930 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	105	001-GEN-005-006 When Seth was 105 years old, he became the father of Enosh.	WARN
+English---Berean-Standard	NUMERALS	Aionian	807	001-GEN-005-007 And after he had become the father of Enosh, Seth lived 807 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	912	001-GEN-005-008 So Seth lived a total of 912 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	90	001-GEN-005-009 When Enosh was 90 years old, he became the father of Kenan.	WARN
+English---Berean-Standard	NUMERALS	Aionian	815	001-GEN-005-010 And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	905	001-GEN-005-011 So Enosh lived a total of 905 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	70	001-GEN-005-012 When Kenan was 70 years old, he became the father of Mahalalel.	WARN
+English---Berean-Standard	NUMERALS	Aionian	840	001-GEN-005-013 And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	910	001-GEN-005-014 So Kenan lived a total of 910 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	65	001-GEN-005-015 When Mahalalel was 65 years old, he became the father of Jared.	WARN
+English---Berean-Standard	NUMERALS	Aionian	830	001-GEN-005-016 And after he had become the father of Jared, Mahalalel lived 830 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	895	001-GEN-005-017 So Mahalalel lived a total of 895 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	162	001-GEN-005-018 When Jared was 162 years old, he became the father of Enoch.	WARN
+English---Berean-Standard	NUMERALS	Aionian	800	001-GEN-005-019 And after he had become the father of Enoch, Jared lived 800 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	962	001-GEN-005-020 So Jared lived a total of 962 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	65	001-GEN-005-021 When Enoch was 65 years old, he became the father of Methuselah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	300	001-GEN-005-022 And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	365	001-GEN-005-023 So Enoch lived a total of 365 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	187	001-GEN-005-025 When Methuselah was 187 years old, he became the father of Lamech.	WARN
+English---Berean-Standard	NUMERALS	Aionian	782	001-GEN-005-026 And after he had become the father of Lamech, Methuselah lived 782 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	969	001-GEN-005-027 So Methuselah lived a total of 969 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	182	001-GEN-005-028 When Lamech was 182 years old, he had a son.	WARN
+English---Berean-Standard	NUMERALS	Aionian	595	001-GEN-005-030 And after he had become the father of Noah, Lamech lived 595 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	777	001-GEN-005-031 So Lamech lived a total of 777 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	500	001-GEN-005-032 After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	001-GEN-006-003 So the LORD said, “My Spirit will not contend with man forever, for he is mortal; his days shall be 120 years.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	300	001-GEN-006-015 And this is how you are to build it: The ark is to be 300 cubits long, 50 cubits wide, and 30 cubits high.	WARN
+English---Berean-Standard	NUMERALS	Aionian	600	001-GEN-007-006 Now Noah was 600 years old when the floodwaters came upon the earth.	WARN
+English---Berean-Standard	NUMERALS	Aionian	150	001-GEN-007-024 And the waters prevailed upon the earth for 150 days.	WARN
+English---Berean-Standard	NUMERALS	Aionian	150	001-GEN-008-003 The waters receded steadily from the earth, and after 150 days the waters had gone down.	WARN
+English---Berean-Standard	NUMERALS	Aionian	350	001-GEN-009-028 After the flood, Noah lived 350 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	950	001-GEN-009-029 So Noah lived a total of 950 years, and then he died.	WARN
+English---Berean-Standard	NUMERALS	Aionian	100	001-GEN-011-010 This is the account of Shem. Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.	WARN
+English---Berean-Standard	NUMERALS	Aionian	500	001-GEN-011-011 And after he had become the father of Arphaxad, Shem lived 500 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	35	001-GEN-011-012 When Arphaxad was 35 years old, he became the father of Shelah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	403	001-GEN-011-013 And after he had become the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	001-GEN-011-014 When Shelah was 30 years old, he became the father of Eber.	WARN
+English---Berean-Standard	NUMERALS	Aionian	403	001-GEN-011-015 And after he had become the father of Eber, Shelah lived 403 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	34	001-GEN-011-016 When Eber was 34 years old, he became the father of Peleg.	WARN
+English---Berean-Standard	NUMERALS	Aionian	430	001-GEN-011-017 And after he had become the father of Peleg, Eber lived 430 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	001-GEN-011-018 When Peleg was 30 years old, he became the father of Reu.	WARN
+English---Berean-Standard	NUMERALS	Aionian	209	001-GEN-011-019 And after he had become the father of Reu, Peleg lived 209 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	32	001-GEN-011-020 When Reu was 32 years old, he became the father of Serug.	WARN
+English---Berean-Standard	NUMERALS	Aionian	207	001-GEN-011-021 And after he had become the father of Serug, Reu lived 207 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	001-GEN-011-022 When Serug was 30 years old, he became the father of Nahor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	001-GEN-011-023 And after he had become the father of Nahor, Serug lived 200 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	29	001-GEN-011-024 When Nahor was 29 years old, he became the father of Terah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	119	001-GEN-011-025 And after he had become the father of Terah, Nahor lived 119 years and had other sons and daughters.	WARN
+English---Berean-Standard	NUMERALS	Aionian	70	001-GEN-011-026 When Terah was 70 years old, he became the father of Abram, Nahor, and Haran.	WARN
+English---Berean-Standard	NUMERALS	Aionian	205	001-GEN-011-032 Terah lived 205 years, and he died in Haran.	WARN
+English---Berean-Standard	NUMERALS	Aionian	318	001-GEN-014-014 And when Abram heard that his relative had been captured, he mobilized the 318 trained men born in his household, and they set out in pursuit as far as Dan.	WARN
+English---Berean-Standard	NUMERALS	Aionian	127	001-GEN-023-001 Now Sarah lived to be 127 years old.	WARN
+English---Berean-Standard	NUMERALS	Aionian	175	001-GEN-025-007 Abraham lived a total of 175 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	137	001-GEN-025-017 Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people.	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	001-GEN-032-014 200 female goats, 20 male goats, 200 ewes, 20 rams,	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	001-GEN-032-015 30 milk camels with their young, 40 cows, 10 bulls, 20 female donkeys, and 10 male donkeys.	WARN
+English---Berean-Standard	NUMERALS	Aionian	180	001-GEN-035-028 And Isaac lived 180 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	130	001-GEN-047-009 “My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	147	001-GEN-047-028 And Jacob lived in the land of Egypt seventeen years, and the length of his life was 147 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	110	001-GEN-050-022 Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110.	WARN
+English---Berean-Standard	NUMERALS	Aionian	110	001-GEN-050-026 So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt.	WARN
+English---Berean-Standard	NUMERALS	Aionian	137	002-EXO-006-016 These were the names of the sons of Levi according to their records: Gershon, Kohath, and Merari. Levi lived 137 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	133	002-EXO-006-018 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	137	002-EXO-006-020 And Amram married his father’s sister Jochebed, and she bore him Aaron and Moses. Amram lived 137 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	600	002-EXO-012-037 The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot, besides women and children.	WARN
+English---Berean-Standard	NUMERALS	Aionian	430	002-EXO-012-040 Now the duration of the Israelites’ stay in Egypt was 430 years.	WARN
+English---Berean-Standard	NUMERALS	Aionian	430	002-EXO-012-041 At the end of the 430 years, to the very day, all the LORD’s divisions went out of the land of Egypt.	WARN
+English---Berean-Standard	NUMERALS	Aionian	600	002-EXO-014-007 He took 600 of the best chariots, and all the other chariots of Egypt, with officers over all of them.	WARN
+English---Berean-Standard	NUMERALS	Aionian	500	002-EXO-030-023 “Take the finest spices: 500 shekels of liquid myrrh, half that amount (250 shekels) of fragrant cinnamon, 250 shekels of fragrant cane,	WARN
+English---Berean-Standard	NUMERALS	Aionian	500	002-EXO-030-024 500 shekels of cassia —all according to the sanctuary shekel—and a hin of olive oil.	WARN
+English---Berean-Standard	NUMERALS	Aionian	29	002-EXO-038-024 All the gold from the wave offering used for the work on the sanctuary totaled 29 talents and 730 shekels, according to the sanctuary shekel.	WARN
+English---Berean-Standard	NUMERALS	Aionian	100	002-EXO-038-025 The silver from those numbered among the congregation totaled 100 talents and 1,775 shekels, according to the sanctuary shekel—	WARN
+English---Berean-Standard	NUMERALS	Aionian	603	002-EXO-038-026 a beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone twenty years of age or older who had crossed over to be numbered, a total of 603,550 men.	WARN
+English---Berean-Standard	NUMERALS	Aionian	100	002-EXO-038-027 The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil—100 bases from the 100 talents, one talent per base.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	002-EXO-038-028 With the 1,775 shekels of silver he made the hooks for the posts, overlaid their tops, and supplied bands for them.	WARN
+English---Berean-Standard	NUMERALS	Aionian	70	002-EXO-038-029 The bronze from the wave offering totaled 70 talents and 2,400 shekels.	WARN
+English---Berean-Standard	NUMERALS	Aionian	46	004-NUM-001-021 those registered to the tribe of Reuben numbered 46,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	59	004-NUM-001-023 those registered to the tribe of Simeon numbered 59,300.	WARN
+English---Berean-Standard	NUMERALS	Aionian	45	004-NUM-001-025 those registered to the tribe of Gad numbered 45,650.	WARN
+English---Berean-Standard	NUMERALS	Aionian	74	004-NUM-001-027 those registered to the tribe of Judah numbered 74,600.	WARN
+English---Berean-Standard	NUMERALS	Aionian	54	004-NUM-001-029 those registered to the tribe of Issachar numbered 54,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	57	004-NUM-001-031 those registered to the tribe of Zebulun numbered 57,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	40	004-NUM-001-033 those registered to the tribe of Ephraim numbered 40,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	32	004-NUM-001-035 those registered to the tribe of Manasseh numbered 32,200.	WARN
+English---Berean-Standard	NUMERALS	Aionian	35	004-NUM-001-037 those registered to the tribe of Benjamin numbered 35,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	62	004-NUM-001-039 those registered to the tribe of Dan numbered 62,700.	WARN
+English---Berean-Standard	NUMERALS	Aionian	41	004-NUM-001-041 those registered to the tribe of Asher numbered 41,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	53	004-NUM-001-043 those registered to the tribe of Naphtali numbered 53,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	603	004-NUM-001-046 And all those counted totaled 603,550.	WARN
+English---Berean-Standard	NUMERALS	Aionian	74	004-NUM-002-004 and his division numbers 74,600.	WARN
+English---Berean-Standard	NUMERALS	Aionian	54	004-NUM-002-006 and his division numbers 54,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	57	004-NUM-002-008 and his division numbers 57,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	186	004-NUM-002-009 The total number of men in the divisions of the camp of Judah is 186,400; they shall set out first.	WARN
+English---Berean-Standard	NUMERALS	Aionian	46	004-NUM-002-011 and his division numbers 46,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	59	004-NUM-002-013 and his division numbers 59,300.	WARN
+English---Berean-Standard	NUMERALS	Aionian	45	004-NUM-002-015 and his division numbers 45,650.	WARN
+English---Berean-Standard	NUMERALS	Aionian	151	004-NUM-002-016 The total number of men in the divisions of the camp of Reuben is 151,450; they shall set out second.	WARN
+English---Berean-Standard	NUMERALS	Aionian	40	004-NUM-002-019 and his division numbers 40,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	32	004-NUM-002-021 and his division numbers 32,200.	WARN
+English---Berean-Standard	NUMERALS	Aionian	35	004-NUM-002-023 and his division numbers 35,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	108	004-NUM-002-024 The total number of men in the divisions of the camp of Ephraim is 108,100; they shall set out third.	WARN
+English---Berean-Standard	NUMERALS	Aionian	62	004-NUM-002-026 and his division numbers 62,700.	WARN
+English---Berean-Standard	NUMERALS	Aionian	41	004-NUM-002-028 and his division numbers 41,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	53	004-NUM-002-030 and his division numbers 53,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	157	004-NUM-002-031 The total number of men in the camp of Dan is 157,600; they shall set out last, under their standards.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	603	004-NUM-002-032 These are the Israelites, numbered according to their families. The total of those counted in the camps, by their divisions, was 603,550.	WARN
+English---Berean-Standard	NUMERALS	Aionian	7	004-NUM-003-022 The number of all the males a month old or more was 7,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	8	004-NUM-003-028 The number of all the males a month old or more was 8,600. They were responsible for the duties of the sanctuary.	WARN
+English---Berean-Standard	NUMERALS	Aionian	6	004-NUM-003-034 The number of all the males a month old or more was 6,200.	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	004-NUM-003-039 The total number of Levites that Moses and Aaron counted by their clans at the LORD’s command, including all the males a month old or more, was 22,000.	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	004-NUM-003-043 The total number of the firstborn males a month old or more, listed by name, was 22,273.	WARN
+English---Berean-Standard	NUMERALS	Aionian	273	004-NUM-003-046 To redeem the 273 firstborn Israelites who outnumber the Levites,	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	004-NUM-003-050 He collected the money from the firstborn of the Israelites: 1,365 shekels, according to the sanctuary shekel.	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	004-NUM-004-036 And those numbered by their clans totaled 2,750.	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	004-NUM-004-040 And those numbered by their clans and families totaled 2,630.	WARN
+English---Berean-Standard	NUMERALS	Aionian	3	004-NUM-004-044 The men registered by their clans numbered 3,200.	WARN
+English---Berean-Standard	NUMERALS	Aionian	8	004-NUM-004-048 And the number of men was 8,580.	WARN
+English---Berean-Standard	NUMERALS	Aionian	600	004-NUM-011-021 But Moses replied, “Here I am among 600,000 men on foot, yet You say, ‘I will give them meat, and they will eat for a month.’	WARN
+English---Berean-Standard	NUMERALS	Aionian	250	004-NUM-016-002 a rebellion against Moses, along with 250 men of Israel renowned as leaders of the congregation and representatives in the assembly.	WARN
+English---Berean-Standard	NUMERALS	Aionian	250	004-NUM-016-017 Each man is to take his censer, place incense in it, and present it before the LORD—250 censers. You and Aaron are to present your censers as well.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	250	004-NUM-016-035 And fire came forth from the LORD and consumed the 250 men who were offering the incense.	WARN
+English---Berean-Standard	NUMERALS	Aionian	14	004-NUM-016-049 But those who died from the plague numbered 14,700, in addition to those who had died on account of Korah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	004-NUM-025-009 but those who died in the plague numbered 24,000.	WARN
+English---Berean-Standard	NUMERALS	Aionian	43	004-NUM-026-007 These were the clans of Reuben, and their registration numbered 43,730.	WARN
+English---Berean-Standard	NUMERALS	Aionian	250	004-NUM-026-010 And the earth opened its mouth and swallowed them along with Korah, whose followers died when the fire consumed 250 men. They serve as a warning sign.	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	004-NUM-026-014 These were the clans of Simeon, and there were 22,200 men.	WARN
+English---Berean-Standard	NUMERALS	Aionian	40	004-NUM-026-018 These were the clans of Gad, and their registration numbered 40,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	76	004-NUM-026-022 These were the clans of Judah, and their registration numbered 76,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	64	004-NUM-026-025 These were the clans of Issachar, and their registration numbered 64,300.	WARN
+English---Berean-Standard	NUMERALS	Aionian	60	004-NUM-026-027 These were the clans of Zebulun, and their registration numbered 60,500.	WARN
+English---Berean-Standard	NUMERALS	Aionian	52	004-NUM-026-034 These were the clans of Manasseh, and their registration numbered 52,700.	WARN
+English---Berean-Standard	NUMERALS	Aionian	32	004-NUM-026-037 These were the clans of Ephraim, and their registration numbered 32,500. These clans were the descendants of Joseph.	WARN
+English---Berean-Standard	NUMERALS	Aionian	45	004-NUM-026-041 These were the clans of Benjamin, and their registration numbered 45,600.	WARN
+English---Berean-Standard	NUMERALS	Aionian	64	004-NUM-026-043 All of them were Shuhamite clans, and their registration numbered 64,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	53	004-NUM-026-047 These were the clans of Asher, and their registration numbered 53,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	45	004-NUM-026-050 These were the clans of Naphtali, and their registration numbered 45,400.	WARN
+English---Berean-Standard	NUMERALS	Aionian	601	004-NUM-026-051 These men of Israel numbered 601,730 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	23	004-NUM-026-062 The registration of the Levites totaled 23,000, every male a month old or more; they were not numbered among the other Israelites, because no inheritance was given to them among the Israelites.	WARN
+English---Berean-Standard	NUMERALS	Aionian	675	004-NUM-031-032 and this plunder remained from the spoils the soldiers had taken: 675,000 sheep,	WARN
+English---Berean-Standard	NUMERALS	Aionian	72	004-NUM-031-033 72,000 cattle,	WARN
+English---Berean-Standard	NUMERALS	Aionian	61	004-NUM-031-034 61,000 donkeys,	WARN
+English---Berean-Standard	NUMERALS	Aionian	32	004-NUM-031-035 and 32,000 women who had not slept with a man.	WARN
+English---Berean-Standard	NUMERALS	Aionian	337	004-NUM-031-036 This was the half portion for those who had gone to war: 337,500 sheep,	WARN
+English---Berean-Standard	NUMERALS	Aionian	675	004-NUM-031-037 including a tribute to the LORD of 675,	WARN
+English---Berean-Standard	NUMERALS	Aionian	36	004-NUM-031-038 36,000 cattle, including a tribute to the LORD of 72,	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	004-NUM-031-039 30,500 donkeys, including a tribute to the LORD of 61,	WARN
+English---Berean-Standard	NUMERALS	Aionian	16	004-NUM-031-040 and 16,000 people, including a tribute to the LORD of 32.	WARN
+English---Berean-Standard	NUMERALS	Aionian	337	004-NUM-031-043 this half belonged to the congregation: 337,500 sheep,	WARN
+English---Berean-Standard	NUMERALS	Aionian	36	004-NUM-031-044 36,000 cattle,	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	004-NUM-031-045 30,500 donkeys,	WARN
+English---Berean-Standard	NUMERALS	Aionian	16	004-NUM-031-046 and 16,000 people.	WARN
+English---Berean-Standard	NUMERALS	Aionian	16	004-NUM-031-052 All the gold that the commanders of thousands and of hundreds presented as an offering to the LORD weighed 16,750 shekels.	WARN
+English---Berean-Standard	NUMERALS	Aionian	123	004-NUM-033-039 Aaron was 123 years old when he died on Mount Hor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	40	006-JOS-004-013 About 40,000 troops armed for battle crossed over before the LORD into the plains of Jericho.	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	006-JOS-008-003 So Joshua and the whole army set out to attack Ai. Joshua chose 30,000 mighty men of valor and sent them out at night	WARN
+English---Berean-Standard	NUMERALS	Aionian	110	006-JOS-024-029 Some time later, Joshua son of Nun, the servant of the LORD, died at the age of 110.	WARN
+English---Berean-Standard	NUMERALS	Aionian	110	007-JDG-002-008 And Joshua son of Nun, the servant of the LORD, died at the age of 110.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	007-JDG-008-026 The weight of the gold earrings he had requested was 1,700 shekels, in addition to the crescent ornaments, the pendants, the purple garments of the kings of Midian, and the chains from the necks of their camels.	WARN
+English---Berean-Standard	NUMERALS	Aionian	42	007-JDG-012-006 they told him, “Please say Shibboleth.” If he said, “Sibboleth,” because he could not pronounce it correctly, they seized him and killed him at the fords of the Jordan. So at that time 42,000 Ephraimites were killed.	WARN
+English---Berean-Standard	NUMERALS	Aionian	400	007-JDG-020-002 The leaders of all the people and all the tribes of Israel presented themselves in the assembly of God’s people: 400,000 men on foot, armed with swords.	WARN
+English---Berean-Standard	NUMERALS	Aionian	26	007-JDG-020-015 On that day the Benjamites mobilized 26,000 swordsmen from their cities, in addition to the 700 select men of Gibeah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	700	007-JDG-020-016 Among all these soldiers there were 700 select left-handers, each of whom could sling a stone at a hair without missing.	WARN
+English---Berean-Standard	NUMERALS	Aionian	400	007-JDG-020-017 The Israelites, apart from Benjamin, mobilized 400,000 swordsmen, each one an experienced warrior.	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	007-JDG-020-021 And the Benjamites came out of Gibeah and cut down 22,000 Israelites on the battlefield that day.	WARN
+English---Berean-Standard	NUMERALS	Aionian	18	007-JDG-020-025 That same day the Benjamites came out against them from Gibeah and cut down another 18,000 Israelites, all of them armed with swords.	WARN
+English---Berean-Standard	NUMERALS	Aionian	10	007-JDG-020-034 Then 10,000 select men from all Israel made a frontal assault against Gibeah, and the battle was fierce. But the Benjamites did not realize that disaster was upon them.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	007-JDG-020-035 The LORD defeated Benjamin in the presence of Israel, and on that day the Israelites slaughtered 25,100 Benjamites, all armed with swords.	WARN
+English---Berean-Standard	NUMERALS	Aionian	18	007-JDG-020-044 And 18,000 Benjamites fell, all men of valor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	5	007-JDG-020-045 Then the Benjamites turned and fled toward the wilderness to the rock of Rimmon, and Israel cut down 5,000 men on the roads. And they overtook them at Gidom and struck down 2,000 more.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	007-JDG-020-046 That day 25,000 Benjamite swordsmen fell, all men of valor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	600	007-JDG-020-047 But 600 men turned and fled into the wilderness to the rock of Rimmon, where they stayed four months.	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	007-JDG-021-010 So the congregation sent 12,000 of their most valiant men and commanded them: “Go and put to the sword those living in Jabesh-gilead, including women and children.	WARN
+English---Berean-Standard	NUMERALS	Aionian	300	009-1SA-011-008 And when Saul numbered them at Bezek, there were 300,000 Israelites and 30,000 men of Judah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	009-1SA-015-004 So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	360	010-2SA-002-031 but they had struck down 360 Benjamites who were with Abner.	WARN
+English---Berean-Standard	NUMERALS	Aionian	800	010-2SA-024-009 And Joab reported to the king the total number of the troops. In Israel there were 800,000 men of valor who drew the sword, and in Judah there were 500,000.	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	011-1KI-004-026 Solomon had 4,000 stalls for his chariot horses and 12,000 horses.	WARN
+English---Berean-Standard	NUMERALS	Aionian	20	011-1KI-005-011 and year after year Solomon would provide Hiram with 20,000 cors of wheat as food for his household, as well as 20,000 baths of pure olive oil.	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	011-1KI-005-013 Then King Solomon conscripted a labor force of 30,000 men from all Israel.	WARN
+English---Berean-Standard	NUMERALS	Aionian	10	011-1KI-005-014 He sent them to Lebanon in monthly shifts of 10,000 men, so that they would spend one month in Lebanon and two months at home. And Adoniram was in charge of the forced labor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	70	011-1KI-005-015 Solomon had 70,000 porters and 80,000 stonecutters in the mountains,	WARN
+English---Berean-Standard	NUMERALS	Aionian	3	011-1KI-005-016 not including his 3,300 foremen who supervised the workers.	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	011-1KI-008-063 And Solomon offered as peace offerings to the LORD 22,000 oxen and 120,000 sheep. So the king and all the Israelites dedicated the house of the LORD.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	011-1KI-009-014 And Hiram had sent the king 120 talents of gold.	WARN
+English---Berean-Standard	NUMERALS	Aionian	550	011-1KI-009-023 They were also the chief officers over Solomon’s projects: 550 supervisors over the people who did the work.	WARN
+English---Berean-Standard	NUMERALS	Aionian	420	011-1KI-009-028 They sailed to Ophir and imported gold from there—420 talents —and delivered it to Solomon.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	011-1KI-010-010 Then she gave the king 120 talents of gold, a great quantity of spices, and precious stones. Never again was such an abundance of spices brought in as those the queen of Sheba gave to King Solomon.	WARN
+English---Berean-Standard	NUMERALS	Aionian	666	011-1KI-010-014 The weight of gold that came to Solomon each year was 666 talents,	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	011-1KI-010-026 Solomon accumulated 1,400 chariots and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.	WARN
+English---Berean-Standard	NUMERALS	Aionian	180	011-1KI-012-021 And when Rehoboam arrived in Jerusalem, he mobilized the whole house of Judah and the tribe of Benjamin—180,000 chosen warriors—to fight against the house of Israel and restore the kingdom to Rehoboam son of Solomon.	WARN
+English---Berean-Standard	NUMERALS	Aionian	232	011-1KI-020-015 So Ahab assembled the young officers of the district governors, and there were 232 men. And after them, he assembled the rest of the Israelite troops, 7,000 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	32	011-1KI-020-016 They marched out at noon while Ben-hadad and the 32 kings allied with him were in their tents getting drunk.	WARN
+English---Berean-Standard	NUMERALS	Aionian	10	012-2KI-014-007 Amaziah struck down 10,000 Edomites in the Valley of Salt. He took Sela in battle and called it Joktheel, which is its name to this very day.	WARN
+English---Berean-Standard	NUMERALS	Aionian	185	012-2KI-019-035 And that very night the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!	WARN
+English---Berean-Standard	NUMERALS	Aionian	44	013-1CH-005-018 The Reubenites, the Gadites, and the half-tribe of Manasseh had 44,760 warriors—valiant men who carried the shield and sword, drew the bow, and were trained for battle.	WARN
+English---Berean-Standard	NUMERALS	Aionian	50	013-1CH-005-021 They seized the livestock of the Hagrites—50,000 camels, 250,000 sheep, and 2,000 donkeys. They also took 100,000 captives,	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	013-1CH-007-002 The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, the heads of their families. In the days of David, 22,600 descendants of Tola were numbered in their genealogies as mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	36	013-1CH-007-004 In addition to them, according to their genealogy, they had 36,000 troops for battle, for they had many wives and children.	WARN
+English---Berean-Standard	NUMERALS	Aionian	87	013-1CH-007-005 Their kinsmen belonging to all the families of Issachar who were mighty men of valor totaled 87,000, as listed in their genealogies.	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	013-1CH-007-007 The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, heads of their families—five in all. There were 22,034 mighty men of valor listed in their genealogies.	WARN
+English---Berean-Standard	NUMERALS	Aionian	20	013-1CH-007-009 Their genealogies were recorded according to the heads of their families—20,200 mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	17	013-1CH-007-011 All these sons of Jediael were heads of their families, mighty men of valor; there were 17,200 fit for battle.	WARN
+English---Berean-Standard	NUMERALS	Aionian	26	013-1CH-007-040 All these were the descendants of Asher—heads of their families, choice and mighty men of valor, and chiefs among the leaders. The number of men fit for battle, recorded in their genealogies, was 26,000.	WARN
+English---Berean-Standard	NUMERALS	Aionian	150	013-1CH-008-040 The sons of Ulam were mighty men of valor, archers, and they had many sons and grandsons—150 in all. All these were the descendants of Benjamin.	WARN
+English---Berean-Standard	NUMERALS	Aionian	690	013-1CH-009-006 From the Zerahites: Jeuel and 690 relatives.	WARN
+English---Berean-Standard	NUMERALS	Aionian	956	013-1CH-009-009 and 956 of their relatives according to their genealogy. All these men were heads of their families.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	013-1CH-009-013 and 1,760 of their relatives, the heads of their families, able men for the work of the service of the house of God.	WARN
+English---Berean-Standard	NUMERALS	Aionian	212	013-1CH-009-022 The number of those chosen to be gatekeepers at the thresholds was 212. They were registered by genealogy in their villages. David and Samuel the seer had appointed them to their positions of trust.	WARN
+English---Berean-Standard	NUMERALS	Aionian	6	013-1CH-012-024 From Judah: 6,800 armed troops bearing shields and spears.	WARN
+English---Berean-Standard	NUMERALS	Aionian	7	013-1CH-012-025 From Simeon: 7,100 mighty men of valor, ready for battle.	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	013-1CH-012-026 From Levi: 4,600,	WARN
+English---Berean-Standard	NUMERALS	Aionian	3	013-1CH-012-027 including Jehoiada, leader of the house of Aaron, with 3,700 men,	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	013-1CH-012-028 and Zadok, a mighty young man of valor, with 22 commanders from his own family.	WARN
+English---Berean-Standard	NUMERALS	Aionian	3	013-1CH-012-029 From Benjamin, the kinsmen of Saul: 3,000, most of whom had remained loyal to the house of Saul up to that time.	WARN
+English---Berean-Standard	NUMERALS	Aionian	20	013-1CH-012-030 From Ephraim: 20,800 mighty men of valor, famous among their own clans.	WARN
+English---Berean-Standard	NUMERALS	Aionian	18	013-1CH-012-031 From the half-tribe of Manasseh: 18,000 designated by name to come and make David king.	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	013-1CH-012-032 From Issachar, men who understood the times and knew what Israel should do: 200 chiefs with all their kinsmen at their command.	WARN
+English---Berean-Standard	NUMERALS	Aionian	50	013-1CH-012-033 From Zebulun: 50,000 fit for service, trained for battle with all kinds of weapons of war, who with one purpose were devoted to David.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	013-1CH-012-034 From Naphtali: 1,000 commanders, accompanied by 37,000 men with shield and spear.	WARN
+English---Berean-Standard	NUMERALS	Aionian	28	013-1CH-012-035 From Dan: 28,600 prepared for battle.	WARN
+English---Berean-Standard	NUMERALS	Aionian	40	013-1CH-012-036 From Asher: 40,000 fit for service, prepared for battle.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	013-1CH-012-037 And from east of the Jordan, from Reuben, Gad, and the half-tribe of Manasseh there: 120,000 armed with every kind of weapon of war.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	013-1CH-015-005 From the Kohathites, Uriel the chief and 120 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Aionian	220	013-1CH-015-006 from the Merarites, Asaiah the chief and 220 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Aionian	130	013-1CH-015-007 from the Gershomites, Joel the chief and 130 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	013-1CH-015-008 from the Elizaphanites, Shemaiah the chief and 200 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Aionian	80	013-1CH-015-009 from the Hebronites, Eliel the chief and 80 of his relatives;	WARN
+English---Berean-Standard	NUMERALS	Aionian	112	013-1CH-015-010 and from the Uzzielites, Amminadab the chief and 112 of his relatives.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	013-1CH-021-005 And Joab reported to David the total number of the troops. In all Israel there were 1,100,000 men who drew the sword, including 470,000 in Judah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	100	013-1CH-022-014 Now behold, I have taken great pains to provide for the house of the LORD—100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron too great to be weighed. I have also provided timber and stone, and you may add to them.	WARN
+English---Berean-Standard	NUMERALS	Aionian	38	013-1CH-023-003 The Levites thirty years of age or older were counted, and the total number of men was 38,000.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-023-004 “Of these,” said David, “24,000 are to oversee the work of the house of the LORD, 6,000 are to be officers and judges,	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	013-1CH-023-005 4,000 are to be gatekeepers, and 4,000 are to praise the LORD with the instruments I have made for giving praise.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	288	013-1CH-025-007 Together with their relatives, who were all trained and skillful in the songs of the LORD, they numbered 288.	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-009 The first lot, which was for Asaph, fell to Joseph, his sons, and his brothers—12 in all; the second to Gedaliah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-010 the third to Zaccur, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-011 the fourth to Izri, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-012 the fifth to Nethaniah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-013 the sixth to Bukkiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-014 the seventh to Jesarelah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-015 the eighth to Jeshaiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-016 the ninth to Mattaniah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-017 the tenth to Shimei, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-018 the eleventh to Azarel, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-019 the twelfth to Hashabiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-020 the thirteenth to Shubael, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-021 the fourteenth to Mattithiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-022 the fifteenth to Jeremoth, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-023 the sixteenth to Hananiah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-024 the seventeenth to Joshbekashah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-025 the eighteenth to Hanani, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-026 the nineteenth to Mallothi, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-027 the twentieth to Eliathah, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-028 the twenty-first to Hothir, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-029 the twenty-second to Giddalti, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-030 the twenty-third to Mahazioth, his sons, and his brothers—12 in all;	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	013-1CH-025-031 and the twenty-fourth to Romamti-ezer, his sons, and his brothers—12 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	62	013-1CH-026-008 All these were descendants of Obed-edom; they and their sons and brothers were capable men with strength to do the work—62 in all from Obed-edom.	WARN
+English---Berean-Standard	NUMERALS	Aionian	18	013-1CH-026-009 Meshelemiah also had sons and brothers who were capable men—18 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	13	013-1CH-026-011 Hilkiah the second, Tebaliah the third, and Zechariah the fourth. The sons and brothers of Hosah numbered 13 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	013-1CH-026-030 From the Hebronites, Hashabiah and his relatives, 1,700 capable men, had charge of the affairs of Israel west of the Jordan for all the work of the LORD and for the service of the king.	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	013-1CH-026-032 Among Jerijah’s relatives there were 2,700 capable men who were heads of families. King David appointed them over the Reubenites, the Gadites, and the half-tribe of Manasseh for every matter pertaining to God and to the affairs of the king.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-001 This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division:	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-002 Jashobeam son of Zabdiel was in charge of the first division, which was assigned the first month. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-004 Dodai the Ahohite was in charge of the division for the second month, and Mikloth was the leader. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-005 The third army commander, as chief for the third month, was Benaiah son of Jehoiada the priest. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-007 The fourth, for the fourth month, was Joab’s brother Asahel, and his son Zebadiah was commander after him. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-008 The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-009 The sixth, for the sixth month, was Ira son of Ikkesh the Tekoite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-010 The seventh, for the seventh month, was Helez the Pelonite, an Ephraimite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-011 The eighth, for the eighth month, was Sibbecai the Hushathite, a Zerahite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-012 The ninth, for the ninth month, was Abiezer the Anathothite, a Benjamite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-013 The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-014 The eleventh, for the eleventh month, was Benaiah the Pirathonite, an Ephraimite. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	24	013-1CH-027-015 The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. There were 24,000 men in his division.	WARN
+English---Berean-Standard	NUMERALS	Aionian	5	013-1CH-029-007 Toward the service of God’s house they gave 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze, and 100,000 talents of iron.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	014-2CH-001-014 Solomon accumulated 1,400 chariots and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.	WARN
+English---Berean-Standard	NUMERALS	Aionian	70	014-2CH-002-002 So he conscripted 70,000 porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.	WARN
+English---Berean-Standard	NUMERALS	Aionian	20	014-2CH-002-010 I will pay your servants, the woodcutters, 20,000 cors of ground wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of olive oil.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	153	014-2CH-002-017 Solomon numbered all the foreign men in the land of Israel following the census his father David had conducted, and there were found to be 153,600 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	70	014-2CH-002-018 Solomon made 70,000 of them porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	014-2CH-005-012 all the Levitical singers—Asaph, Heman, Jeduthun, and their sons and relatives—stood on the east side of the altar, dressed in fine linen and playing cymbals, harps, and lyres, accompanied by 120 priests sounding trumpets.	WARN
+English---Berean-Standard	NUMERALS	Aionian	22	014-2CH-007-005 And King Solomon offered a sacrifice of 22,000 oxen and 120,000 sheep. So the king and all the people dedicated the house of God.	WARN
+English---Berean-Standard	NUMERALS	Aionian	250	014-2CH-008-010 They were also the chief officers for King Solomon: 250 supervisors.	WARN
+English---Berean-Standard	NUMERALS	Aionian	450	014-2CH-008-018 So Hiram sent him ships captained by his servants, along with crews of experienced sailors. They went with Solomon’s servants to Ophir and acquired from there 450 talents of gold, which they delivered to King Solomon.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	014-2CH-009-009 Then she gave the king 120 talents of gold, a great quantity of spices, and precious stones. There had never been such spices as those the queen of Sheba gave to King Solomon.	WARN
+English---Berean-Standard	NUMERALS	Aionian	666	014-2CH-009-013 The weight of gold that came to Solomon each year was 666 talents,	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	014-2CH-009-025 Solomon had 4,000 stalls for horses and chariots, and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.	WARN
+English---Berean-Standard	NUMERALS	Aionian	180	014-2CH-011-001 When Rehoboam arrived in Jerusalem, he mobilized the house of Judah and Benjamin—180,000 chosen warriors—to fight against Israel and restore the kingdom to Rehoboam.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	014-2CH-012-003 with 1,200 chariots, 60,000 horsemen, and countless troops who came with him out of Egypt—Libyans, Sukkites, and Cushites.	WARN
+English---Berean-Standard	NUMERALS	Aionian	400	014-2CH-013-003 Abijah went into battle with an army of 400,000 chosen men, while Jeroboam drew up in formation against him with 800,000 chosen and mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	500	014-2CH-013-017 Then Abijah and his people struck them with a mighty blow, and 500,000 chosen men of Israel fell slain.	WARN
+English---Berean-Standard	NUMERALS	Aionian	300	014-2CH-014-008 Asa had an army of 300,000 men from Judah bearing large shields and spears, and 280,000 men from Benjamin bearing small shields and drawing the bow. All these were mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	014-2CH-014-009 Then Zerah the Cushite came against them with an army of 1,000,000 men and 300 chariots, and they advanced as far as Mareshah.	WARN
+English---Berean-Standard	NUMERALS	Aionian	7	014-2CH-017-011 Some Philistines also brought gifts and silver as tribute to Jehoshaphat, and the Arabs brought him 7,700 rams and 7,700 goats from their flocks.	WARN
+English---Berean-Standard	NUMERALS	Aionian	300	014-2CH-017-014 These are their numbers according to the houses of their fathers: From Judah, the commanders of thousands: Adnah the commander, and with him 300,000 mighty men of valor;	WARN
+English---Berean-Standard	NUMERALS	Aionian	280	014-2CH-017-015 next to him, Jehohanan the commander, and with him 280,000;	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	014-2CH-017-016 and next to him, Amasiah son of Zichri, the volunteer for the LORD, and with him 200,000 mighty men of valor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	014-2CH-017-017 From Benjamin: Eliada, a mighty man of valor, and with him 200,000 armed with bows and shields;	WARN
+English---Berean-Standard	NUMERALS	Aionian	180	014-2CH-017-018 and next to him, Jehozabad, and with him 180,000 armed for battle.	WARN
+English---Berean-Standard	NUMERALS	Aionian	130	014-2CH-024-015 When Jehoiada was old and full of years, he died at the age of 130.	WARN
+English---Berean-Standard	NUMERALS	Aionian	300	014-2CH-025-005 Then Amaziah gathered the people of Judah and assigned them according to their families to commanders of thousands and of hundreds. And he numbered those twenty years of age or older throughout Judah and Benjamin and found 300,000 chosen men able to serve in the army, bearing the spear and shield.	WARN
+English---Berean-Standard	NUMERALS	Aionian	100	014-2CH-025-006 He also hired 100,000 mighty warriors from Israel for a hundred talents of silver.	WARN
+English---Berean-Standard	NUMERALS	Aionian	10	014-2CH-025-011 Amaziah, however, summoned his strength and led his troops to the Valley of Salt, where he struck down 10,000 men of Seir,	WARN
+English---Berean-Standard	NUMERALS	Aionian	10	014-2CH-025-012 and the army of Judah also captured 10,000 men alive. They took them to the top of a cliff and threw them down so that all were dashed to pieces.	WARN
+English---Berean-Standard	NUMERALS	Aionian	3	014-2CH-025-013 Meanwhile the troops that Amaziah had dismissed from battle raided the cities of Judah, from Samaria to Beth-horon. They struck down 3,000 people and carried off a great deal of plunder.	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	014-2CH-026-012 The total number of family leaders of the mighty men of valor was 2,600.	WARN
+English---Berean-Standard	NUMERALS	Aionian	307	014-2CH-026-013 Under their authority was an army of 307,500 trained for war, a powerful force to support the king against his enemies.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	014-2CH-028-006 For in one day Pekah son of Remaliah killed 120,000 valiant men in Judah. This happened because they had forsaken the LORD, the God of their fathers.	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	014-2CH-028-008 Then the Israelites took 200,000 captives from their kinsmen—women, sons, and daughters. They also carried off a great deal of plunder and brought it to Samaria.	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	014-2CH-035-007 From his own flocks and herds Josiah contributed 30,000 lambs and goats plus 3,000 bulls for the Passover offerings for all the people who were present.	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	014-2CH-035-008 His officials also contributed willingly to the people and priests and Levites. Hilkiah, Zechariah, and Jehiel, the administrators of the house of God, gave the priests 2,600 Passover offerings and 300 bulls.	WARN
+English---Berean-Standard	NUMERALS	Aionian	5	014-2CH-035-009 Additionally, Conaniah and his brothers Shemaiah and Nethanel, as well as Hashabiah, Jeiel, and Jozabad, officers of the Levites, donated to the Levites 5,000 Passover offerings and 500 bulls.	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	015-EZR-001-009 This was the inventory: 30 gold dishes, 1,000 silver dishes, 29 silver utensils,	WARN
+English---Berean-Standard	NUMERALS	Aionian	30	015-EZR-001-010 30 gold bowls, 410 matching silver bowls, and 1,000 other articles.	WARN
+English---Berean-Standard	NUMERALS	Aionian	5	015-EZR-001-011 In all, there were 5,400 gold and silver articles. Sheshbazzar brought all these along when the exiles went up from Babylon to Jerusalem.	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	015-EZR-002-003 the descendants of Parosh, 2,172;	WARN
+English---Berean-Standard	NUMERALS	Aionian	372	015-EZR-002-004 the descendants of Shephatiah, 372;	WARN
+English---Berean-Standard	NUMERALS	Aionian	775	015-EZR-002-005 the descendants of Arah, 775;	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	015-EZR-002-006 the descendants of Pahath-moab (through the line of Jeshua and Joab), 2,812;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	015-EZR-002-007 the descendants of Elam, 1,254;	WARN
+English---Berean-Standard	NUMERALS	Aionian	945	015-EZR-002-008 the descendants of Zattu, 945;	WARN
+English---Berean-Standard	NUMERALS	Aionian	760	015-EZR-002-009 the descendants of Zaccai, 760;	WARN
+English---Berean-Standard	NUMERALS	Aionian	642	015-EZR-002-010 the descendants of Bani, 642;	WARN
+English---Berean-Standard	NUMERALS	Aionian	623	015-EZR-002-011 the descendants of Bebai, 623;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	015-EZR-002-012 the descendants of Azgad, 1,222;	WARN
+English---Berean-Standard	NUMERALS	Aionian	666	015-EZR-002-013 the descendants of Adonikam, 666;	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	015-EZR-002-014 the descendants of Bigvai, 2,056;	WARN
+English---Berean-Standard	NUMERALS	Aionian	454	015-EZR-002-015 the descendants of Adin, 454;	WARN
+English---Berean-Standard	NUMERALS	Aionian	98	015-EZR-002-016 the descendants of Ater (through Hezekiah), 98;	WARN
+English---Berean-Standard	NUMERALS	Aionian	323	015-EZR-002-017 the descendants of Bezai, 323;	WARN
+English---Berean-Standard	NUMERALS	Aionian	112	015-EZR-002-018 the descendants of Jorah, 112;	WARN
+English---Berean-Standard	NUMERALS	Aionian	223	015-EZR-002-019 the descendants of Hashum, 223;	WARN
+English---Berean-Standard	NUMERALS	Aionian	95	015-EZR-002-020 the descendants of Gibbar, 95;	WARN
+English---Berean-Standard	NUMERALS	Aionian	123	015-EZR-002-021 the men of Bethlehem, 123;	WARN
+English---Berean-Standard	NUMERALS	Aionian	56	015-EZR-002-022 the men of Netophah, 56;	WARN
+English---Berean-Standard	NUMERALS	Aionian	128	015-EZR-002-023 the men of Anathoth, 128;	WARN
+English---Berean-Standard	NUMERALS	Aionian	42	015-EZR-002-024 the descendants of Azmaveth, 42;	WARN
+English---Berean-Standard	NUMERALS	Aionian	743	015-EZR-002-025 the men of Kiriath-jearim, Chephirah, and Beeroth, 743;	WARN
+English---Berean-Standard	NUMERALS	Aionian	621	015-EZR-002-026 the men of Ramah and Geba, 621;	WARN
+English---Berean-Standard	NUMERALS	Aionian	122	015-EZR-002-027 the men of Michmash, 122;	WARN
+English---Berean-Standard	NUMERALS	Aionian	223	015-EZR-002-028 the men of Bethel and Ai, 223;	WARN
+English---Berean-Standard	NUMERALS	Aionian	52	015-EZR-002-029 the descendants of Nebo, 52;	WARN
+English---Berean-Standard	NUMERALS	Aionian	156	015-EZR-002-030 the descendants of Magbish, 156;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	015-EZR-002-031 the descendants of the other Elam, 1,254;	WARN
+English---Berean-Standard	NUMERALS	Aionian	320	015-EZR-002-032 the descendants of Harim, 320;	WARN
+English---Berean-Standard	NUMERALS	Aionian	725	015-EZR-002-033 the men of Lod, Hadid, and Ono, 725;	WARN
+English---Berean-Standard	NUMERALS	Aionian	345	015-EZR-002-034 the men of Jericho, 345;	WARN
+English---Berean-Standard	NUMERALS	Aionian	3	015-EZR-002-035 and the descendants of Senaah, 3,630.	WARN
+English---Berean-Standard	NUMERALS	Aionian	973	015-EZR-002-036 The priests: The descendants of Jedaiah (through the house of Jeshua), 973;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	015-EZR-002-037 the descendants of Immer, 1,052;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	015-EZR-002-038 the descendants of Pashhur, 1,247;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	015-EZR-002-039 and the descendants of Harim, 1,017.	WARN
+English---Berean-Standard	NUMERALS	Aionian	74	015-EZR-002-040 The Levites: the descendants of Jeshua and Kadmiel (through the line of Hodaviah), 74.	WARN
+English---Berean-Standard	NUMERALS	Aionian	128	015-EZR-002-041 The singers: the descendants of Asaph, 128.	WARN
+English---Berean-Standard	NUMERALS	Aionian	139	015-EZR-002-042 The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 139 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	392	015-EZR-002-058 The temple servants and descendants of the servants of Solomon numbered 392 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	652	015-EZR-002-060 the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 652 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	42	015-EZR-002-064 The whole assembly numbered 42,360,	WARN
+English---Berean-Standard	NUMERALS	Aionian	7	015-EZR-002-065 in addition to their 7,337 menservants and maidservants, as well as their 200 male and female singers.	WARN
+English---Berean-Standard	NUMERALS	Aionian	736	015-EZR-002-066 They had 736 horses, 245 mules,	WARN
+English---Berean-Standard	NUMERALS	Aionian	435	015-EZR-002-067 435 camels, and 6,720 donkeys.	WARN
+English---Berean-Standard	NUMERALS	Aionian	61	015-EZR-002-069 According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.	WARN
+English---Berean-Standard	NUMERALS	Aionian	150	015-EZR-008-003 of the descendants of Shecaniah; from the descendants of Parosh, Zechariah, and with him were registered 150 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	200	015-EZR-008-004 from the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 200 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	300	015-EZR-008-005 from the descendants of Zattu, Shecaniah son of Jahaziel, and with him 300 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	50	015-EZR-008-006 from the descendants of Adin, Ebed son of Jonathan, and with him 50 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	70	015-EZR-008-007 from the descendants of Elam, Jeshaiah son of Athaliah, and with him 70 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	80	015-EZR-008-008 from the descendants of Shephatiah, Zebadiah son of Michael, and with him 80 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	218	015-EZR-008-009 from the descendants of Joab, Obadiah son of Jehiel, and with him 218 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	160	015-EZR-008-010 from the descendants of Bani, Shelomith son of Josiphiah, and with him 160 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	28	015-EZR-008-011 from the descendants of Bebai, Zechariah son of Bebai, and with him 28 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	110	015-EZR-008-012 from the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	60	015-EZR-008-013 from the later descendants of Adonikam, these were their names: Eliphelet, Jeiel, and Shemaiah, and with them 60 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	70	015-EZR-008-014 and from the descendants of Bigvai, both Uthai and Zaccur, and with them 70 men.	WARN
+English---Berean-Standard	NUMERALS	Aionian	18	015-EZR-008-018 And since the gracious hand of our God was upon us, they brought us Sherebiah—a man of insight from the descendants of Mahli son of Levi, the son of Israel—along with his sons and brothers, 18 men;	WARN
+English---Berean-Standard	NUMERALS	Aionian	20	015-EZR-008-019 also Hashabiah, together with Jeshaiah, from the descendants of Merari, and his brothers and their sons, 20 men.	WARN
+English---Berean-Standard	NUMERALS	Aionian	220	015-EZR-008-020 They also brought 220 of the temple servants, all designated by name. David and the officials had appointed them to assist the Levites.	WARN
+English---Berean-Standard	NUMERALS	Aionian	650	015-EZR-008-026 I weighed out into their hands 650 talents of silver, articles of silver weighing 100 talents, 100 talents of gold,	WARN
+English---Berean-Standard	NUMERALS	Aionian	20	015-EZR-008-027 20 gold bowls valued at 1,000 darics, and two articles of fine polished bronze, as precious as gold.	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	015-EZR-008-035 Then the exiles who had returned from captivity sacrificed burnt offerings to the God of Israel: 12 bulls for all Israel, 96 rams, 77 lambs, and a sin offering of 12 male goats. All this was a burnt offering to the LORD.	WARN
+English---Berean-Standard	NUMERALS	Aionian	150	016-NEH-005-017 There were 150 Jews and officials at my table, besides the guests from the surrounding nations.	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	016-NEH-007-008 the descendants of Parosh, 2,172;	WARN
+English---Berean-Standard	NUMERALS	Aionian	372	016-NEH-007-009 the descendants of Shephatiah, 372;	WARN
+English---Berean-Standard	NUMERALS	Aionian	652	016-NEH-007-010 the descendants of Arah, 652;	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	016-NEH-007-011 the descendants of Pahath-moab (through the line of Jeshua and Joab), 2,818;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	016-NEH-007-012 the descendants of Elam, 1,254;	WARN
+English---Berean-Standard	NUMERALS	Aionian	845	016-NEH-007-013 the descendants of Zattu, 845;	WARN
+English---Berean-Standard	NUMERALS	Aionian	760	016-NEH-007-014 the descendants of Zaccai, 760;	WARN
+English---Berean-Standard	NUMERALS	Aionian	648	016-NEH-007-015 the descendants of Binnui, 648;	WARN
+English---Berean-Standard	NUMERALS	Aionian	628	016-NEH-007-016 the descendants of Bebai, 628;	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	016-NEH-007-017 the descendants of Azgad, 2,322;	WARN
+English---Berean-Standard	NUMERALS	Aionian	667	016-NEH-007-018 the descendants of Adonikam, 667;	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	016-NEH-007-019 the descendants of Bigvai, 2,067;	WARN
+English---Berean-Standard	NUMERALS	Aionian	655	016-NEH-007-020 the descendants of Adin, 655;	WARN
+English---Berean-Standard	NUMERALS	Aionian	98	016-NEH-007-021 the descendants of Ater (through Hezekiah), 98;	WARN
+English---Berean-Standard	NUMERALS	Aionian	328	016-NEH-007-022 the descendants of Hashum, 328;	WARN
+English---Berean-Standard	NUMERALS	Aionian	324	016-NEH-007-023 the descendants of Bezai, 324;	WARN
+English---Berean-Standard	NUMERALS	Aionian	112	016-NEH-007-024 the descendants of Hariph, 112;	WARN
+English---Berean-Standard	NUMERALS	Aionian	95	016-NEH-007-025 the descendants of Gibeon, 95;	WARN
+English---Berean-Standard	NUMERALS	Aionian	188	016-NEH-007-026 the men of Bethlehem and Netophah, 188;	WARN
+English---Berean-Standard	NUMERALS	Aionian	128	016-NEH-007-027 the men of Anathoth, 128;	WARN
+English---Berean-Standard	NUMERALS	Aionian	42	016-NEH-007-028 the men of Beth-azmaveth, 42;	WARN
+English---Berean-Standard	NUMERALS	Aionian	743	016-NEH-007-029 the men of Kiriath-jearim, Chephirah, and Beeroth, 743;	WARN
+English---Berean-Standard	NUMERALS	Aionian	621	016-NEH-007-030 the men of Ramah and Geba, 621;	WARN
+English---Berean-Standard	NUMERALS	Aionian	122	016-NEH-007-031 the men of Michmash, 122;	WARN
+English---Berean-Standard	NUMERALS	Aionian	123	016-NEH-007-032 the men of Bethel and Ai, 123;	WARN
+English---Berean-Standard	NUMERALS	Aionian	52	016-NEH-007-033 the men of the other Nebo, 52;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	016-NEH-007-034 the descendants of the other Elam, 1,254;	WARN
+English---Berean-Standard	NUMERALS	Aionian	320	016-NEH-007-035 the descendants of Harim, 320;	WARN
+English---Berean-Standard	NUMERALS	Aionian	345	016-NEH-007-036 the men of Jericho, 345;	WARN
+English---Berean-Standard	NUMERALS	Aionian	721	016-NEH-007-037 the men of Lod, Hadid, and Ono, 721;	WARN
+English---Berean-Standard	NUMERALS	Aionian	3	016-NEH-007-038 and the descendants of Senaah, 3,930.	WARN
+English---Berean-Standard	NUMERALS	Aionian	973	016-NEH-007-039 The priests: the descendants of Jedaiah (through the house of Jeshua), 973;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	016-NEH-007-040 the descendants of Immer, 1,052;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	016-NEH-007-041 the descendants of Pashhur, 1,247;	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	016-NEH-007-042 and the descendants of Harim, 1,017.	WARN
+English---Berean-Standard	NUMERALS	Aionian	74	016-NEH-007-043 The Levites: the descendants of Jeshua (through Kadmiel, through the line of Hodevah), 74.	WARN
+English---Berean-Standard	NUMERALS	Aionian	148	016-NEH-007-044 The singers: the descendants of Asaph, 148.	WARN
+English---Berean-Standard	NUMERALS	Aionian	138	016-NEH-007-045 The gatekeepers: the descendants of Shallum, the descendants of Ater, the descendants of Talmon, the descendants of Akkub, the descendants of Hatita, and the descendants of Shobai, 138 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	392	016-NEH-007-060 The temple servants and descendants of the servants of Solomon numbered 392 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	642	016-NEH-007-062 the descendants of Delaiah, the descendants of Tobiah, and the descendants of Nekoda, 642 in all.	WARN
+English---Berean-Standard	NUMERALS	Aionian	42	016-NEH-007-066 The whole assembly numbered 42,360,	WARN
+English---Berean-Standard	NUMERALS	Aionian	7	016-NEH-007-067 in addition to their 7,337 menservants and maidservants, as well as their 245 male and female singers.	WARN
+English---Berean-Standard	NUMERALS	Aionian	736	016-NEH-007-068 They had 736 horses, 245 mules,	WARN
+English---Berean-Standard	NUMERALS	Aionian	435	016-NEH-007-069 435 camels, and 6,720 donkeys.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	016-NEH-007-070 Some of the heads of the families contributed to the project. The governor gave to the treasury 1,000 darics of gold, 50 bowls, and 530 priestly garments.	WARN
+English---Berean-Standard	NUMERALS	Aionian	20	016-NEH-007-071 And some of the heads of the families gave to the treasury for the project 20,000 darics of gold and 2,200 minas of silver.	WARN
+English---Berean-Standard	NUMERALS	Aionian	20	016-NEH-007-072 The rest of the people gave a total of 20,000 darics of gold, 2,000 minas of silver, and 67 priestly garments.	WARN
+English---Berean-Standard	NUMERALS	Aionian	468	016-NEH-011-006 The descendants of Perez who settled in Jerusalem totaled 468 men of valor.	WARN
+English---Berean-Standard	NUMERALS	Aionian	928	016-NEH-011-008 and his followers Gabbai and Sallai—928 men.	WARN
+English---Berean-Standard	NUMERALS	Aionian	822	016-NEH-011-012 and their associates who did the work at the temple—822 men; Adaiah son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malchijah;	WARN
+English---Berean-Standard	NUMERALS	Aionian	242	016-NEH-011-013 and his associates, the leaders of families—242 men; Amashai son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer;	WARN
+English---Berean-Standard	NUMERALS	Aionian	128	016-NEH-011-014 and his associates —128 mighty men of valor. Zabdiel son of Haggedolim was their overseer.	WARN
+English---Berean-Standard	NUMERALS	Aionian	284	016-NEH-011-018 The Levites in the holy city totaled 284.	WARN
+English---Berean-Standard	NUMERALS	Aionian	172	016-NEH-011-019 And the gatekeepers: Akkub, Talmon, and their associates, who kept watch at the gates—172 men.	WARN
+English---Berean-Standard	NUMERALS	Aionian	127	017-EST-001-001 This is what happened in the days of Xerxes, who reigned over 127 provinces from India to Cush.	WARN
+English---Berean-Standard	NUMERALS	Aionian	180	017-EST-001-004 And for a full 180 days he displayed the glorious riches of his kingdom and the magnificent splendor of his greatness.	WARN
+English---Berean-Standard	NUMERALS	Aionian	127	017-EST-008-009 At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan), they recorded all of Mordecai’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush —writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language.	WARN
+English---Berean-Standard	NUMERALS	Aionian	75	017-EST-009-016 The rest of the Jews in the royal provinces also assembled to defend themselves and rid themselves of their enemies. They killed 75,000 who hated them, but they did not lay a hand on the plunder.	WARN
+English---Berean-Standard	NUMERALS	Aionian	127	017-EST-009-030 And Mordecai sent letters with words of peace and truth to all the Jews in the 127 provinces of the kingdom of Xerxes,	WARN
+English---Berean-Standard	NUMERALS	Aionian	7	018-JOB-001-003 and he owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys, and a very large number of servants. Job was the greatest man of all the people of the East.	WARN
+English---Berean-Standard	NUMERALS	Aionian	14	018-JOB-042-012 So the LORD blessed Job’s latter days more than his first. He owned 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys.	WARN
+English---Berean-Standard	NUMERALS	Aionian	140	018-JOB-042-016 After this, Job lived 140 years and saw his children and their children to the fourth generation.	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	019-PSA-060-001 For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam of David for instruction. When he fought Aram-naharaim and Aram-zobah, and Joab returned and struck down 12,000 Edomites in the Valley of Salt. You have rejected us, O God; You have broken us; You have been angry; restore us!	WARN
+English---Berean-Standard	NUMERALS	Aionian	185	023-ISA-037-036 Then the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!	WARN
+English---Berean-Standard	NUMERALS	Aionian	3	024-JER-052-028 These are the people Nebuchadnezzar carried away: in the seventh year, 3,023 Jews;	WARN
+English---Berean-Standard	NUMERALS	Aionian	832	024-JER-052-029 in Nebuchadnezzar’s eighteenth year, 832 people from Jerusalem;	WARN
+English---Berean-Standard	NUMERALS	Aionian	745	024-JER-052-030 in Nebuchadnezzar’s twenty-third year, Nebuzaradan captain of the guard carried away 745 Jews. So in all, 4,600 people were taken away.	WARN
+English---Berean-Standard	NUMERALS	Aionian	390	026-EZE-004-005 For I have assigned to you 390 days, according to the number of years of their iniquity. So you shall bear the iniquity of the house of Israel.	WARN
+English---Berean-Standard	NUMERALS	Aionian	40	026-EZE-004-006 When you have completed these days, lie down again, but on your right side, and bear the iniquity of the house of Judah. I have assigned to you 40 days, a day for each year.	WARN
+English---Berean-Standard	NUMERALS	Aionian	390	026-EZE-004-009 But take wheat, barley, beans, lentils, millet, and spelt; put them in a single container and make them into bread for yourself. This is what you are to eat during the 390 days you lie on your side.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-045-001 “When you divide the land by lot as an inheritance, you are to set aside a portion for the LORD, a holy portion of the land 25,000 cubits long and 20,000 cubits wide. This entire tract of land will be holy.	WARN
+English---Berean-Standard	NUMERALS	Aionian	500	026-EZE-045-002 Within this area there is to be a section for the sanctuary 500 cubits square, with 50 cubits around it for open land.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-045-003 From this holy portion, you are to measure off a length of 25,000 cubits and a width of 10,000 cubits, and in it will be the sanctuary, the Most Holy Place.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-045-005 An adjacent area 25,000 cubits long and 10,000 cubits wide shall belong to the Levites who minister in the temple; it will be their possession for towns in which to live.	WARN
+English---Berean-Standard	NUMERALS	Aionian	5	026-EZE-045-006 As the property of the city, you are to set aside an area 5,000 cubits wide and 25,000 cubits long, adjacent to the holy district. It will belong to the whole house of Israel.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-048-008 Bordering the territory of Judah, from east to west, will be the portion you are to set apart. It will be 25,000 cubits wide, and the length of a tribal portion from east to west. In the center will be the sanctuary.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-048-009 The special portion you set apart to the LORD shall be 25,000 cubits long and 10,000 cubits wide.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-048-010 This will be the holy portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side, and 25,000 cubits long on the south side. In the center will be the sanctuary of the LORD.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-048-013 Bordering the territory of the priests, the Levites shall have an area 25,000 cubits long and 10,000 cubits wide. The whole length will be 25,000 cubits, and the width 10,000 cubits.	WARN
+English---Berean-Standard	NUMERALS	Aionian	5	026-EZE-048-015 The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for common use by the city, for houses, and for pastureland. The city will be in the center of it	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	026-EZE-048-016 and will have these measurements: 4,500 cubits on the north side, 4,500 cubits on the south side, 4,500 cubits on the east side, and 4,500 cubits on the west side.	WARN
+English---Berean-Standard	NUMERALS	Aionian	250	026-EZE-048-017 The pastureland of the city will extend 250 cubits to the north, 250 cubits to the south, 250 cubits to the east, and 250 cubits to the west.	WARN
+English---Berean-Standard	NUMERALS	Aionian	10	026-EZE-048-018 The remainder of the length bordering the holy portion and running adjacent to it will be 10,000 cubits on the east side and 10,000 cubits on the west side. Its produce will supply food for the workers of the city.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-048-020 The entire portion will be a square, 25,000 cubits by 25,000 cubits. You are to set apart the holy portion, along with the city property.	WARN
+English---Berean-Standard	NUMERALS	Aionian	25	026-EZE-048-021 The remaining area on both sides of the holy portion and of the property of the city will belong to the prince. He will own the land adjacent to the tribal portions, extending eastward from the 25,000 cubits of the holy district toward the eastern border, and westward from the 25,000 cubits to the western border. And in the center of them will be the holy portion and the sanctuary of the temple.	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	026-EZE-048-030 “These will be the exits of the city: Beginning on the north side, which will be 4,500 cubits long,	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	026-EZE-048-032 On the east side, which will be 4,500 cubits long, there will be three gates: the gate of Joseph, the gate of Benjamin, and the gate of Dan.	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	026-EZE-048-033 On the south side, which will be 4,500 cubits long, there will be three gates: the gate of Simeon, the gate of Issachar, and the gate of Zebulun.	WARN
+English---Berean-Standard	NUMERALS	Aionian	4	026-EZE-048-034 And on the west side, which will be 4,500 cubits long, there will be three gates: the gate of Gad, the gate of Asher, and the gate of Naphtali.	WARN
+English---Berean-Standard	NUMERALS	Aionian	18	026-EZE-048-035 The perimeter of the city will be 18,000 cubits, and from that day on the name of the city will be: THE LORD IS THERE.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	027-DAN-006-001 Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom,	WARN
+English---Berean-Standard	NUMERALS	Aionian	2	027-DAN-008-014 He said to me, “It will take 2,300 evenings and mornings; then the sanctuary will be properly restored.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	027-DAN-012-011 And from the time the daily sacrifice is abolished and the abomination of desolation set up, there will be 1,290 days.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	027-DAN-012-012 Blessed is he who waits and reaches the end of the 1,335 days.	WARN
+English---Berean-Standard	NUMERALS	Aionian	120	032-JON-004-011 So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”	WARN
+English---Berean-Standard	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Early on the first day of the week, after Jesus had risen, He appeared first to Mary Magdalene, from whom He had driven out seven demons.	WARN
+English---Berean-Standard	NUMERALS	Aionian	153	043-JOH-021-011 So Simon Peter went aboard and dragged the net ashore. It was full of large fish, 153, but even with so many, the net was not torn.	WARN
+English---Berean-Standard	NUMERALS	Aionian	450	044-ACT-013-020 All this took about 450 years. After this, God gave them judges until the time of Samuel the prophet.	WARN
+English---Berean-Standard	NUMERALS	Aionian	276	044-ACT-027-037 In all, there were 276 of us on board.	WARN
+English---Berean-Standard	NUMERALS	Aionian	430	048-GAL-003-017 What I mean is this: The law that came 430 years later does not revoke the covenant previously established by God, so as to nullify the promise.	WARN
+English---Berean-Standard	NUMERALS	Aionian	144	066-REV-007-004 And I heard the number of those who were sealed, 144,000 from all the tribes of Israel:	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	066-REV-007-005 From the tribe of Judah 12,000 were sealed, from the tribe of Reuben 12,000, from the tribe of Gad 12,000,	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	066-REV-007-006 from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	066-REV-007-007 from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	066-REV-007-008 from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, and from the tribe of Benjamin 12,000.	WARN
+English---Berean-Standard	NUMERALS	Aionian	42	066-REV-011-002 But exclude the courtyard outside the temple. Do not measure it, because it has been given over to the nations, and they will trample the holy city for 42 months.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	066-REV-011-003 And I will empower my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	066-REV-012-006 And the woman fled into the wilderness, where God had prepared a place for her to be nourished for 1,260 days.	WARN
+English---Berean-Standard	NUMERALS	Aionian	42	066-REV-013-005 The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months.	WARN
+English---Berean-Standard	NUMERALS	Aionian	666	066-REV-013-018 Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man, and that number is 666.	WARN
+English---Berean-Standard	NUMERALS	Aionian	144	066-REV-014-001 Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads.	WARN
+English---Berean-Standard	NUMERALS	Aionian	144	066-REV-014-003 And they sang a new song before the throne and before the four living creatures and the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth.	WARN
+English---Berean-Standard	NUMERALS	Aionian	1	066-REV-014-020 And the winepress was trodden outside the city, and the blood that flowed from it rose as high as the bridles of the horses for a distance of 1,600 stadia.	WARN
+English---Berean-Standard	NUMERALS	Aionian	12	066-REV-021-016 The city lies foursquare, with its width the same as its length. And he measured the city with the rod, and all its dimensions were equal—12,000 stadia in length and width and height.	WARN
+English---Berean-Standard	NUMERALS	Aionian	144	066-REV-021-017 And he measured its wall to be 144 cubits, by the human measure the angel was using.	WARN
+English---Berean-Standard	NUMERALS	Aionian	count	500	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

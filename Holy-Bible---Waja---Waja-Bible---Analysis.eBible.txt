@@ -1,0 +1,624 @@
+# File Name: Holy-Bible---Holy-Bible---Waja---Waja-Bible---Analysis.txt
+# File Size: 80357       
+# File Date: 12/13/2025 06:08:01
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Wɪyáà Bible
+# Bible Name English: Waja Bible
+# Bible Language: Wɪyáà
+# Bible Language English: Waja
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: The Seed Company
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=wja
+# Bible Source Year: 2024
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Waja---Waja-Bible	ENCODING	Source	Holy-Bible---Waja---Waja-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Waja---Waja-Bible	ENCODING	Aionian	Holy-Bible---Waja---Waja-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Waja---Waja-Bible	BYTES	Source	bytes / chars	281589 / 249933 (multi-byte)	NOTICE
+Waja---Waja-Bible	BYTES	Aionian	bytes / chars	296338 / 262682 (multi-byte)	NOTICE
+Waja---Waja-Bible	BYTES	SourceClean	bytes / chars	254928 / 226453 (multi-byte)	NOTICE
+Waja---Waja-Bible	BYTES	AionianClean	bytes / chars	294719 / 261069 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Waja---Waja-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Waja---Waja-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Waja---Waja-Bible	AIONIAN	Aionian	book-defined-not-exist	220	NOTICE
+Waja---Waja-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Waja---Waja-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Waja---Waja-Bible	AIONIAN	Aionian	aionian-verses	44	NOTICE
+Waja---Waja-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Waja---Waja-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Waja---Waja-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Waja---Waja-Bible	UNICODE	Summary	(-)Orginal	65	NOTICE
+Waja---Waja-Bible	UNICODE	Summary	(+)Aionian	68	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (M)	1706	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (A)	1586	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (T)	1520	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : ( )	38438	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (1)	1729	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (:)	1778	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (2)	1372	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (i)	18279	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Combining Diacritical Marks : (̱)	28425	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (n)	11838	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (a)	21998	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (k)	4372	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (u)	12026	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (c)	1621	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (Y)	1174	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (e)	6779	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (s)	2546	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (y)	6238	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (w)	7230	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (,)	2635	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (t)	2546	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (D)	191	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (d)	3260	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (o)	6558	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (g)	7285	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (I)	246	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (b)	5916	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (r)	5300	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (h)	66	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (m)	6058	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (.)	1792	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (\n)	1764	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (3)	612	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (P)	344	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (S)	78	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (j)	741	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (p)	2334	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (E)	11	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (4)	496	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (N)	295	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (l)	1953	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (5)	444	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (B)	513	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (R)	13	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (O)	246	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (J)	265	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (6)	351	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (7)	295	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (8)	250	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (9)	219	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (H)	183	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (0)	222	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (G)	156	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (C)	159	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (W)	177	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (<)	650	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (>)	435	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (!)	69	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (L)	139	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (K)	346	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (?)	123	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : (()	2	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	Basic Latin : ())	2	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	General Punctuation : (“)	21	NOTICE
+Waja---Waja-Bible	UNICODE	Source(-)	General Punctuation : (”)	4	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	8122	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	1694	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	7052	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	1793	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	1611	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	1548	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	1864	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	1566	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	20324	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Combining Diacritical Marks : (̱)	31606	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	13144	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	24325	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	38580	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	4737	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	13274	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	1776	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (Y)	1274	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	7573	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	2771	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	6877	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	8015	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	2896	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	2798	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	217	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	3599	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	7285	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	8052	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	259	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	6492	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	5839	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	73	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	6737	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	2003	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	1762	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	671	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	356	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	90	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	844	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	2500	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	13	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	367	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	2178	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	1101	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	609	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	17	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	253	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	266	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	546	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	328	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	252	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	327	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	187	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	197	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	161	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	231	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	General Punctuation : (“)	455	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	General Punctuation : (”)	330	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	200	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	383	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	130	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	144	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	General Punctuation : (‘)	109	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	General Punctuation : (’)	110	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	15	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : (()	46	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Basic Latin : ())	46	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	2	NOTICE
+Waja---Waja-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	34	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (M)	1706	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (A)	1586	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (T)	1520	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : ( )	38438	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (1)	1729	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (:)	1778	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (2)	1372	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (i)	18279	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Combining Diacritical Marks : (̱)	28425	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (n)	11838	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (a)	21998	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (k)	4372	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (u)	12026	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (c)	1621	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (Y)	1174	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (e)	6779	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (s)	2546	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (y)	6238	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (w)	7230	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (,)	2635	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (t)	2546	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (D)	191	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (d)	3260	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (o)	6558	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (g)	7285	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (I)	246	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (b)	5916	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (r)	5300	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (h)	66	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (m)	6058	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (.)	1792	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (\n)	1764	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (3)	612	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (P)	344	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (S)	78	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (j)	741	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (p)	2334	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (E)	11	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (4)	496	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (N)	295	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (l)	1953	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (5)	444	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (B)	513	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (R)	13	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (O)	246	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (J)	265	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (6)	351	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (U)	16	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (7)	295	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (8)	250	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (9)	219	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (H)	183	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (0)	222	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (G)	156	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (C)	159	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (W)	177	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (<)	650	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (>)	435	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (!)	69	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (L)	139	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (K)	346	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (?)	123	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (()	2	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : ())	2	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : ([)	3	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (])	3	NOTICE
+Waja---Waja-Bible	UNICODE	Source	General Punctuation : (“)	21	NOTICE
+Waja---Waja-Bible	UNICODE	Source	General Punctuation : (”)	4	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (;)	8	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (-)	1	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (/)	1	NOTICE
+Waja---Waja-Bible	UNICODE	Source	Basic Latin : (q)	1	NOTICE
+
+# VERSIFICATION
+Waja---Waja-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Waja---Waja-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Waja---Waja-Bible	ENCLOSURES	Source	()	2 / 2	NOTICE
+Waja---Waja-Bible	ENCLOSURES	Source	[]	3 / 3	NOTICE
+Waja---Waja-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Waja---Waja-Bible	ENCLOSURES	Source	<>	650 / 435	WARN
+Waja---Waja-Bible	ENCLOSURES	Aionian	()	46 / 46	NOTICE
+Waja---Waja-Bible	ENCLOSURES	Aionian	[]	3 / 3	NOTICE
+Waja---Waja-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Waja---Waja-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 1:20 Anda pu wo̱o̱ danggu̱ yi̱to̱, bacama Mbaa Wu Gi̱ra a bammanu̱we̱ yo̱ a mi̱ri̱nggi̱ dweendi ki̱n, <<Yusupu bo̱l Dawud, nu̱u̱ yaa gwasi̱ de̱gu̱ Maryam ba yo̱o̱ nu̱re̱ mo̱, di̱ngi̱n tu mi̱ri̱nggi̱ pwii ye̱i̱ to̱o̱ a baa bo̱nggo̱ Bawei du Walwal.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 1:21 Yo̱ biru we̱i̱ bwi̱ya, ma je̱e̱ ru we̱i̱ din mi̱n Yesu, di̱ngi̱n yo̱ mi̱ru̱ we̱i̱ nu̱wa ya bo̱nggo̱ we̱le̱mdi̱ pmai.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 3:11 <<N ni̱ngambi̱ri̱ bati̱si̱ma yi̱ gundu ba ju̱ku̱ya ki̱n bu ni̱nga bwiiwa, anda wu kangge̱ wo̱o̱ baa go̱ro̱ mu ni̱nga mbi̱ru̱ we̱i̱ bati̱si̱ma yi̱ Bawei du Walwal yi̱ bwalau. Yo̱ gwalangge̱ yi̱ gi̱ru̱, n yinnibu kana paari̱ ye̱i̱ n de̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 3:12 Yo̱ tagi̱ kaa te̱na yo̱ ye̱tu̱ we̱i̱ jama ya, pero ba ku̱ranga go̱ma ya, ba te̱na bindou yo̱u̱, anda taaru we̱i̱ pudi ye̱i̱ yi̱ bwalau ku̱ yaa dumdu.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 4:15 <<Si̱ma Sabulun yi̱ si̱ma Naptali, a nyinou wu aari kali̱nggu̱, ku yero you Urdun, yi̱ Galili, si̱ma nu̱wa bu yaa yo̱o̱gi̱ nu̱wa bu Yudaya wa!	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 4:16 Nu̱wa bu pi̱si̱ndi̱ pu ri̱m wa kwe̱e̱ we̱i̱ rangu̱ wu gi̱ra̱u̱. Pma bu pi̱si̱ndi̱ si̱ma bu yi̱ ku̱mji̱la bo̱o̱ru̱ wa, Rang swi̱i̱ pma.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:3 <<Wuure bo̱nggo̱ pma bu so̱m dwal pmai du bawei, lau̱ ku diyou kwii ko̱pi̱nau̱!	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:11 <<Wuure bo̱nggo̱ mbi̱ru̱ ka nu̱wa rwe̱e̱mbi̱ri̱, turo mbi̱ri̱ pero ci̱ye̱i̱ kana ko̱no̱ duu yi̱ri̱ tu bwi̱i̱ a dwii mbi̱ri̱ ki̱n di̱ngi̱n bu po̱nggu̱ mu.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:13 <<Bu yo̱o̱gi̱ bi̱makwanaa nu̱wa mwa mwa. Anda ka bi̱makwanaa cwaani bu̱ri̱ yi̱ teng yo̱u̱, nu̱wa puunu we̱i̱ teng yo̱u̱ kwii nye̱? Yo̱ ni̱nga kwe̱ce̱kwe̱ce̱, bur nu̱wa ba par si̱yau̱ si̱ma ba pe̱e̱nga.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:14 <<Bu yo̱o̱gi̱ rangu̱ wu si̱ma mwa mwa. Gwe̱i̱ du mo̱gi̱ dwii ci̱ngu̱ yaa tukuri.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:17 <<Bu dangani̱ ya mi̱n n baa palaka n wo̱o̱ si̱ye̱i̱ Te̱e̱re̱ Musa yi̱ yi̱ri̱ng tu banabi̱ndi̱ balai. N baa bu n wo̱o̱ si̱ye̱i̱, anda n twanga.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:21 <<Bu nu̱u̱ tu Yamba sa kakaa yiwa nang ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:25 <<Ka bace̱n mo̱ de̱r kwaram mo̱ a gi̱re̱ng balu, kasa bu nu̱wanga jo̱r du bu bo̱o̱ nyinou, pu bo̱ bu laman bu laa balu. Ka yi̱to̱ ne̱ de̱mi̱nu̱ we̱i̱ bo̱nggo̱ ne̱re̱ wu ni̱ng bali̱, wii yo̱ wu de̱mi̱nu̱ we̱i̱ bo̱nggo̱ bagi̱raa, pero nu̱wa manmi̱nu̱ we̱i̱ jaru̱m.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:27 <<Bu nu̱u̱ tu Yamba ce̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:31 <<Ce̱gi̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:33 <<Pero bu nu̱u̱ tu Yamba sa kakaa yiwa nang ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/2>	MAT 5:37 Yama mbi̱re̱ ba yo̱o̱ pero <> mbi̱r ba yo̱o̱ Ang Ang.> Kana ca tu bu ce̱ ka gwal yi̱to̱ a baa bo̱nggo̱ wu bwi̱i̱ye̱ wii.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:38 <<Bu nu̱wa ce̱gi̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 5:43 <<Bu nu̱wa ce̱gi̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:1 <<Bu ruun tu̱we̱, bu ni̱ngi̱ ya wu̱rangi̱ tu nyaayi mi̱n palaka nu̱wa ba ko̱. Ka bu ni̱ng yi̱to̱ yaa ku bu nyi̱ngu̱ we̱i̱ wo̱ri̱ri̱ bo̱nggo̱ Mbaa mbi̱re̱ wu diyou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:2 <<Di̱ngi̱n yi̱to̱ ka bu nyi̱i̱ yi̱ri̱ ne̱re̱ wu yaa to̱no̱ bu te̱e̱ri̱ ya, ci̱ka ku nu̱wa bu yi̱ batal wa ni̱ngu̱ a mi̱ri̱nggu̱ gi̱ri̱ndi̱ ku̱ri̱ yi̱ nyindi. Pma ni̱ngi̱ yi̱to̱ palaka nu̱wa ba wandi̱ pma. N wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱ pma nyi̱ngga wo̱ri̱ri̱ pmai.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:5 <<Ka bu wuni ce̱gu̱ ku̱ru̱ bu ni̱ngi̱ yaa ci̱ka nu̱wa bu yi̱ batal wa! Pma kasi̱ ba ce̱ ku̱ru̱ a pi̱ti̱ndi̱ a gi̱ri̱ndi̱ ku̱ru̱ yi̱ ge̱nge̱lte̱ nyindi, palaka kana we̱ ba ko̱ pma. N wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱, pma gi̱ci̱la nyi̱ngga wo̱ri̱ri̱ pmai mwa mwa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:7 <<Ka bu wunni ce̱gu̱ ku̱ru̱ bu ni̱ngi̱ ya pu perenggu, ci̱ka ku nu̱wa bu so̱m bu Yamba wa ni̱ngu̱, pma nu̱u̱ ci̱ka Yamba nu̱u̱ we̱i̱ pma di̱ngi̱n ce̱wi̱ pmai tu co̱ku̱ro̱k.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:9 Ti̱na nyinou wu bu ce̱ we̱i̱ ku̱ru̱: <<Mbaa yire wu wo̱o̱ diyou, nu̱wa ba nyi̱i̱ gi̱ru̱ din mai.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:14 <<Ka bu par sukom pma bu ni̱nga mbi̱r we̱le̱m wa, Mbaa mbi̱re̱ wu diyou yika mwaasi̱ para mbi̱r we̱i̱ sukom we̱le̱m mbi̱ru̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:16 <<Anda ka bu de̱r cooji, bu bwiyani ya gaanggu̱ ci̱ka nu̱wa bu yi̱ batal wa. Pma caari̱ kau palaka kana we̱ ba ko̱ ki̱n pmai de̱gi̱ cooji. N wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱ pma gi̱ci̱la nyi̱ngga wo̱ri̱ri̱ pmai mwa mwa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:22 <<Nundi twii ke̱ndabwala bu̱ru̱. Ka nundi mai kundi wang, mwa mwa bu̱ri̱ mai twanggi yi̱ rangu̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:24 <<Yaa ne̱re̱ wu ku̱ramanu̱ we̱i̱ si̱ma nu̱wa bu gi̱rawa ro̱p, ma kangmanu we̱i̱ wiino, ma kwaa wu kangge̱. Ma ce̱do̱ wu wiino, ma po̱ng wu kangge̱. Yaa ku ma ku̱ramanu̱ we̱i̱ si̱ma Yamba bambang ma ku̱raman si̱ma ke̱ne̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:28 <<Anda di̱ngi̱n ca bu miyani bu̱ru̱ di̱ngi̱n se̱e̱? Bu su̱wa pundi tu gu̱lai̱ gi̱ri̱, yaa pu ni̱nggu̱ kana ca di̱ngi̱n bu̱ri̱ pmai, yaa pu ba ni̱nga waandi di̱ngi̱n bu̱ri̱ pmai.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 6:31 <<Di̱ngi̱n to̱no̱, bu miyani ya bu̱ri̱, bu ce̱gu̱ mi̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 7:1 <<Bu ni̱ngamani̱ ya bali̱ nu̱wa, palaka Yamba ba ni̱nga mbi̱r ya bali̱,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 7:2 di̱ngi̱n Yamba ni̱ng mbi̱r we̱i̱ bali̱ yi̱to̱ ci̱ka ku bu ni̱ngaman bali̱ nu̱wa. Yi̱ bo̱so̱ro̱ wu bu cu̱u̱man nu̱wa yi̱ to̱no̱, Yamba cu̱u̱ mbi̱ri̱ we̱i̱ yi̱ to̱no̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 7:6 <<Bu nyi̱i̱ ya baindi yi̱ri̱ tu walwal. Ma mandi̱ ya si̱ye̱i̱ gi̱si̱ tu yi̱ pi̱rcu̱ a gawu̱r bakambi̱ su lai̱, pma pe̱nu̱ we̱i̱ yi̱ mwari pmai! Anda ba waata bo̱nggo̱ mo̱u̱ ba pwara mi̱na.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 7:13 <<Bu tembiro nyinou wu gu̱rci̱k. Di̱ngi̱n nyinou wu le̱pe̱k de̱r ne̱re̱ par bwalau, pero nu̱wa tum teendi.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 7:15 <<Bu ruun tu̱we̱ bo̱nggo̱ banabi̱ndi̱ leendi wa. Pma baanga we̱i̱ bo̱nggo̱ mbi̱ru̱ a mi̱ri̱nggi̱ biyau ci̱ka puuri, anda a mi̱ri̱nggi̱ pmai twii geppindi.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 7:21 <<Yaa kana we̱ wu yi̱nggi̱ ki̱n, diiru we̱i̱ lau̱ ku diyou, anda bu̱ri̱ ne̱re̱ wu tu̱m dangandi̱ Mbaa mi wu diyou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 7:24 <<Di̱ngi̱n to̱no̱ kana we̱ wu nu̱u̱ ci̱ye̱i̱ mi pero ni̱ngi̱ wu̱rai̱ yi̱ to̱no̱ ci̱ka ne̱re̱ wu pwi̱yagi̱ wu mo̱nni̱ laa yo̱u̱ dwii swe̱li̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 7:27 Pu gundu toso yarugu, youri twanganga, pero wuture ni̱nga, a buu laa wii, a yara, yaranggu̱ yo̱u̱ a ni̱nga wang.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/3>	MAT 8:3 Yesu a yaku wai a ce̱rman yo̱, a se̱e̱ ki̱n, <> Yo̱ko̱ yo̱ko̱ butangi twii a du ne̱re̱ wii.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 8:8 Bagi̱ra kacaraa wii ce̱ ki̱n, <<Ang ang yaa yi̱to̱ Mbaa Wu Gi̱ra, mi yinnibu ma baa laa mu, anda mo̱ ce̱ ci̱ye̱i̱ ti̱bak, ke̱we̱ mi yi̱l we̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 8:9 Di̱ngi̱n mi mwa n wo̱o̱ ku̱u̱ ne̱re̱ wu kangge̱, pero do̱ng n wo̱o̱ yi̱ kacara ku̱u̱ mu̱, ka n sar wuna mi̱n, yo̱ ba aara, wu kangge̱ do̱ng n se̱e̱ mi̱n, bur ba baa, pero ka n sar ke̱we̱ mi mi̱n, Bur ba ni̱nga.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 8:10 Pu Yesu nu̱wa yi̱to̱, a riyanga bu̱ri̱, a sa nu̱wa bu po̱nggu̱ yo̱ wa ki̱n, <<N wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱i̱ yaa ku n nyi̱ngga ne̱re̱ wu le̱e̱gu̱ ji̱re̱ ku yi̱ di̱mbi̱re̱ ci̱ka ki̱naa a Israila.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 8:12 Anda pma bu daaya ba teendo lau̱ ku diyou nu̱wa parnu we̱i̱ pma ku̱mji̱la, pu pma jii we̱i̱ wiindi yi̱ dumonggu nyi̱yau̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/1>	MAT 8:26 <<Yesu sa pma ki̱n, <> Bur a wuni a ye̱ra wuture yi̱ gwe̱re̱ gundu dwii, bur a si̱n si̱ye̱i̱ to̱k.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 8:31 Wuturindi swii senggo Yesu ki̱n, <<Ka ma yiki yire ma su̱ka yiro yi teendo mi̱ri̱nggi̱ bakambi̱ su lai̱ swii.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 9:4 Yesu ku̱ranga tu pma danganggi̱ a ce̱ ki̱n, <<Di̱ngi̱n ca bu danganggu̱ yi̱ri̱ngi̱ tu bwi̱i̱ a gaanggi̱ri̱ mbi̱ri̱ yi̱to̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/3>	MAT 9:6 Anda n kasi̱ bu so̱ma mi̱n, Bo̱l Ne̱re̱ wo̱o̱ yi̱ di̱mbi̱re̱ a si̱ma ba para sukom we̱le̱m.>> Anda a sa ne̱re̱ wu bu̱ri̱ bo̱ri̱gi̱ wii ki̱n, <>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 9:12 Pu Yesu nu̱wa, a sa pma ki̱n, <<Nu̱wa bu cingcing wa yaa kasi̱ ku̱lu̱me̱, bu̱r nu̱wa bu yaa cingcing wa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 9:13 Ambi̱ra bu ye̱sa tu lakargar Yamba ce̱i̱, N baa bu di̱ngi̱n nu̱wa bu ni̱ngi̱ pi̱su̱ wu nyaau a gawu̱ri̱ Yambai̱ anda n baa di̱ngi̱n nu̱wa bu yi̱ we̱le̱m wa.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 9:16 <<Yaa wu cwaki̱nu̱ we̱i̱ se̱e̱ wu pu̱ce̱ a dwii wu mi̱lga, ka ni̱ndi̱ yi̱to̱ wu nu̱wa cwaki̱na wii kwaci̱ranu̱ we̱i̱ se̱e̱ wii ba diina ba pwarwa wang.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 9:37 A sa kwati̱mba ya ki̱n, <<Jama bu biya wa a ni̱nga tum, anda nu̱wa bu kaci̱ wa ni̱nga banyi̱na.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 9:38 Di̱ngi̱n to̱no̱, bu senggo Ne̱re̱ wu ko̱ndo̱ wa yau̱ ba tu̱mu̱we̱ nu̱wa wu̱ra wa a ko̱ndo̱ yo̱u̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 10:5 Nu̱wa bu kwap su̱r ro̱p bu Yesu tu̱ma bwii a nyi̱i̱ pma di̱kace̱ne̱ ki̱n, <<Bu ambi̱r ya bo̱nggo̱ nu̱wa bu yaa yo̱o̱gi̱ nu̱wa bu Yudaya wa, yi̱ go̱ro̱ndi̱ nu̱wa bu Samariya wa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 10:11 <<Ka bu tembiro gwe̱i̱ du gi̱rai̱ yi̱ du banyi̱nai̱ bu kasa ne̱re̱ wu yi̱ mbi̱r we̱i̱ bu si̱ndi̱ si̱ye̱i̱ a pwii ko̱po̱ nyanggu̱ ku bu duru we̱i̱ po̱o̱ wii.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 10:24 <<Ne̱re̱ wu ti̱langgu̱ yi̱ru̱ yaa gwali̱ ku̱lu̱m yo̱, ke̱we̱ yaa gwali̱ ne̱re̱ wu gi̱ra yo̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 10:26 <<Bu nu̱u̱ ya gwasi̱ nu̱wai̱. Yaa yi̱ri̱ tu sumgi tu nu̱wa na wumdi, pero yaa yi̱ri̱ tu tukugi tu nu̱wa na so̱ni̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 10:32 <<Di̱ngi̱n kana we̱ wu ce̱ cu̱du̱ nu̱wa ki̱n yo̱ wongge, mi mwa n ni̱ngi̱ we̱i̱ yi̱to̱ a gawu̱r Mbaa mi wu diyou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/0>	MAT 10:35 N baa n din ce̱re̱ <Cu̱du̱ ne̱re̱ yi̱ mbaa yo̱, bwe̱e̱canga yi̱ njaa yo̱, siite wu nu̱re̱, ni̱ng we̱i̱ ce̱re̱ yi̱ sii yo̱ wu nu̱re̱	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 10:36 bace̱n mo̱ wu bwi̱i̱ye̱ yo̱ we̱i̱ a mi̱ri̱nggi̱ laa mau.>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 10:37 <<Kana we̱ wu kangman mbaa yo̱ yi̱ njaa yo̱ gwalanggi̱ yaa ku yinno yo̱o̱gu̱ kwaa mi, ka kangman bo̱l yo̱ wu nambare̱ yi̱ wu nu̱re̱ gwalanggi̱ yaa ku yinno ba yo̱o̱ kwaa mi.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 10:40 <<Kana we̱ wu yi̱mbi̱ra a yi̱ngge̱, kana we̱ wu yi̱ngge̱ a yi̱ wu tu̱mgu̱we̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 10:42 Kana we̱ wu puu gundu naagu wu wiino wu banyi̱na a mi̱ri̱nggi̱ bu yo̱o̱gi̱ kwati̱mba muwa, n wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱, yi̱ru̱ we̱i̱ wo̱ri̱ri̱ ye̱i̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 11:4 Yesu sa pma ki̱n, <<Bu waatanga bu sa Yohanna yi̱ri̱ngi̱ tu bu nu̱u̱ wai yi̱ yi̱ri̱ngi̱ tu bu ko̱i̱,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 11:6 Yamba diiman wuure pma bu waatan bu yi̱ go̱ro̱u̱ di̱ngi̱n mi wa.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 11:7 Pu kwati̱mba Yohanna wa mwatanga, Yesu toso sagu̱ ci̱ye̱i̱ nu̱wa bu ku̱ranggi̱ bu̱ri̱ wa a dwii Yohanna, <<Bu ambi̱ra su̱gu̱ ca a gu̱lai̱? Bu ambi̱ra su̱gu̱ si̱yang tu co̱ku̱ro̱k tu wutur mwangu ru?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 11:16 Anda Yesu je̱ gawu̱re̱ yi̱ ci̱ye̱i̱ ki̱n, <<N ci̱pi̱ranu̱ we̱i̱ nu̱wa bu si̱na daandi yi̱ ca? Pma ci̱ka bakwara pi̱si̱ndi̱ nyan lummou. A yi̱yanggu̱ bu̱ri̱ pmai a ce̱gu̱ ki̱n,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 11:21 <<Ai mba! Nu̱wa bu Korasin. Ai mba! Nu̱wa bu Betsaida! Di̱ngi̱n wu̱rang ri̱yandi̱ bu̱ri̱ tu nu̱wa ni̱nga a mi̱ri̱nggi̱ mbi̱ri̱, ka nu̱wa na ni̱nga a Taya yi̱ Sidon we̱i̱, pma na ni̱nga bwiiwa ki̱lang, na te̱e̱ gusuringi pero na parni̱ buro dwii pmai!	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 11:25 A dwii jo̱re̱ Yesu ce̱ ku̱ru̱ ki̱n, <<Mbaa, mo̱ Mbaa Wu Gi̱ra wu yi̱ diyou yi̱ si̱ma, n wanami̱na, di̱ngi̱n mo̱ tuko ti̱na yi̱ri̱ngi̱ a bo̱nggo̱ pma bu pwi̱yanggi̱ wa yi̱ bu yi̱ so̱mandi̱, anda mo̱ ju̱ku̱ bakwara bu nyi̱ti̱ti̱ wa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 11:28 <<Bambe̱ bo̱nggo̱ mu, mba bu janganga pero de̱e̱gi̱ se̱e̱ ko̱mbu̱ro̱m wa, n nyi̱i̱ mbi̱r we̱i̱ yo̱ro̱nggu̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 11:30 Di̱ngi̱n sou garama mu yaa ko̱mbu̱ro̱m, se̱e̱ wu n ce̱ri̱ mbi̱ri̱ we̱i̱ saki̱rak.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:3 A le̱e̱man pma ki̱n, <<Celeke bu tii bu ce̱gu̱ yi̱ri̱ tu Dawud ni̱nga pu yo̱ nu̱u̱ ju̱ne̱ yi̱ basi̱nba so̱ngma ya wa ru?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 12:8 Di̱ngi̱n Bo̱l Ne̱re̱ twii Mbaa Wu Gi̱ra nyanggu̱ sabadu.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:11 Anda a le̱e̱ man pma ki̱n, <<Yikwii wii we̱ a cu̱du̱ mbi̱ri̱ ka puuri yo̱ yanni̱ bo̱u̱ nyanggu̱ sabadu na taa ba yiki we̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 12:12 Anda ne̱re̱ gwala bu puure kwaara ru? O̱ng te̱e̱re̱ le̱e̱ ne̱re̱ ba ni̱nga yi̱ri̱ngi̱ tu nyaayi nyanggu̱ sabadu.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:18 <<Su̱wa ke̱we̱ mi wu n se̱ka. Wii yo̱ wu n kangman yo̱, wu di̱rangi̱n gaanggu̱. N diinu we̱i̱ Bawei mi a mi̱ri̱nggi̱ ye̱i̱, anda yo̱ sar we̱i̱ ji̱re̱ nu̱wa bu si̱ma wa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:25 Anda Yesu ku̱ranga dangandi̱ pmai, yo̱ sa pma ki̱n, <<Kana ko̱no̱ lau̱ ku̱ cwaanga bu̱ri̱ ro̱p bagu̱ ce̱re̱ yi̱ bu̱ri̱ pmai, ko̱ lau̱ bwi̱i̱ru̱ we̱i̱, yi̱to̱ mwa yi̱ kana do̱no̱ gwe̱i̱ kana laa ka cwaani bu̱ri̱ bagu̱ ce̱re̱ yi̱ bu̱ri̱ pmai wo̱ laa na ti̱n ti̱ye̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:31 <<Di̱ngi̱n to̱no̱ n sagu̱mbi̱ru̱, Yamba paramanu we̱i̱ sukom we̱le̱mdi̱ nu̱wa yi̱ kana ca tu bwi̱i̱ tu pma ce̱ we̱i̱, anda kana we̱ wu ce̱ ci̱ye̱i̱ du bwi̱i̱ a dwii Bawei du Walwal, Yamba na paraman yo̱ sukom we̱le̱m yo̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:33 <<Nu̱wa ku̱ran sou bo̱nggo̱ tutwiyari ye̱i̱. Ka sou kundi tutwiyari ye̱i̱ ni̱ngu̱ we̱i̱ kundi. Ka sou yaa kundi ne̱, tutwiyari ye̱i̱ na ni̱ngi̱ kundi.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 12:37 Di̱ngi̱n go̱n ci̱ye̱i̱ du bu ce̱i̱ pe̱ra mbi̱r we̱i̱ bo̱nggo̱ bali̱ pero twala mbi̱r we̱i̱ bo̱nggo̱ balu.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:39 Yesu nyi̱i̱ pma le̱e̱ ki̱n, <<Mba nu̱wa bu bwi̱i̱ wa bu si̱naa daandi wa, bu yaa gwasi̱ Yamba wa, bu kasi̱ yi̱ri̱ somdi ri̱yandi̱ bu̱ri̱, yaa ku n ni̱ngambi̱ri̱ somdi ri̱yandi̱ bu̱ri̱ ka gwal tu banabi̱ Yunana.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:43 <<Ka wutur twii bu̱ri̱ ne̱ri̱, mwatir pu yaa gundu a kasanggu̱ pu yo̱ro̱nu̱. Ka yo̱ ki̱ngga bu ne̱,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 12:45 bur yo̱ ba waata ba de̱ kapi̱na wuturindi a nibiyo su gwala yo̱ yi̱ tu̱we̱ baa ba si̱ndi̱ si̱yau̱ a pwii. Cwata go̱ro̱ yo̱u̱, pi̱su̱ ne̱re̱ wii gwalu we̱i̱ pi̱su̱ yo̱u̱ wu gawu̱ri̱yo̱ yi̱ bwi̱i̱ge̱. Ti̱naa kanda ku ni̱ndi̱ we̱i̱ yi̱ pma nu̱wa bu bwi̱i̱wa bu si̱na daandi wa.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:48 Yesu pi̱ra ki̱n, <<Njaa mi wii we̱? Ci̱yamba muwa bwii bu we̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 12:49 Bur a juka kwati̱mba ya a ce̱ ki̱n, <<Bu su̱wa ti̱na njaa mi yi̱ ci̱yamba muwa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 12:50 Kana we̱ wu tu̱m dangandi̱ Mbaa mi wu diyou twii ci̱ya mi wu nu̱re̱ yi̱ wu nambare̱ yi̱ njaa mi!>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:3 A sa pma yi̱ri̱ngi̱ tum yi̱ balanggu̱ ci̱ye̱u̱ ki̱n, <<Bu ka twiyau! Ne̱re̱ wu kangge̱ a de̱ duu aara waci̱gu̱ ko̱ndo̱ yo̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 13:9 Yama ne̱re̱ wii twendi di̱ngi̱n nu̱u̱gu̱, ba ka twiyau.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:11 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Mba, Yamba le̱e̱mbi̱ra, bu so̱m tu tukugi tu lau̱ ku diyou, anda bu kangga yaa yi̱to̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 13:15 Di̱ngi̱n nu̱wa bo̱o̱ gaanggi̱ri̱ pmai cingcing pero twendi pmai yaa nu̱u̱ si̱ma, pma lakanga nundu pmai. Ka yi̱to̱ ne̱ pma kwe̱e̱ we̱i̱ si̱ma yi̱ nundi pmai, pero nu̱u̱ we̱i̱ si̱ma yi̱ twendi pmai, ba ku̱ranga yi̱ gaanggi̱ri̱ pmai, ba waatanga bo̱nggo̱ mu palaka n mi̱ra pma.>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:16 <<Anda wuure bo̱nggo̱ nundi mbi̱ri̱ di̱ngi̱n bu kwe̱e̱yi̱ pero twendi mbi̱ri̱ nu̱u̱wi̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:18 <<Yo̱ko̱ bu ka twiyau pi̱ti̱ndi̱ ci̱ye̱i̱ du balanggai̱ dwii bajo̱o̱me̱ a pi̱gu̱ yi̱ru̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 13:23 Go̱ma bu yaramana swai du nyaayi twii nu̱wa bu nu̱u̱ ci̱ye̱i̱ Yambai̱ a ku̱ranga. Wii wu bi go̱ma kuno kunong yi̱ kun no̱ko̱no̱, yi̱ wo̱o̱ndi̱ a gwala ku nu̱wa pi̱yau̱!>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:24 Yesu nyi̱i̱ balanggu̱ ci̱ye̱u̱ ku kanggu̱ ki̱n, <<Lau̱ ku diyou ci̱ka bajo̱me̱ wu pi̱i̱ duu ku nyaau a ko̱ndo̱u̱ yo̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:28 <<Bajo̱me̱ wii ce̱ ki̱n, Pma ce̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/0>	MAT 13:29 A sa pma ki̱n, <Ka bu ni̱ngi̱ yi̱to̱, bu podo we̱i̱ alkama.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/3>	MAT 13:30 Bu du pma ba gi̱ranga kem ko̱po̱ nyanggu̱ kaci̱gi̱. N saru we̱i̱ nu̱wa wu̱rai̱ wa a jo̱r kaci̱gi̱ dwii pma ba se̱ka ku̱le̱ wii, ba bwe̱e̱nga gwe̱le̱ndi̱ gwe̱le̱ndi̱ ba taa, ba te̱e̱ni̱ alkama mi a bindou.>>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:31 Pero Yesu sa pma balanggu̱ ce̱u̱ du kanggu̱ ki̱n, <<Lau̱ ku diyou ci̱ka go̱n mustad du ne̱re̱ wu kangge̱ de̱ aara pi̱ya a ko̱ndo̱u̱ yo̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 13:32 Kana ku to̱o̱ go̱n duu du banyi̱nai̱ a mi̱ri̱nggi̱ duu mwa mwa, anda ka gi̱ri̱ gwali̱ kana ko̱no̱ duu wandi̱ ali̱, pero ba yo̱o̱ sou. Yidi baangai̱ ba cwaani cwaaringi pmai a be̱ti̱ndi̱ ye̱i̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:35 A twanga tu banabi̱ ci̱ye̱i̱ ki̱n: <<N sa mbi̱ru̱ we̱i̱ ci̱ye̱i̱ yi̱ ci̱ye̱i̱ du balanggai̱. N ye̱sa mbi̱ru̱ we̱i̱ yi̱ri̱ngi̱ tu tukugai yake̱ toson taa ruugu si̱mau̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:37 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Bo̱l Ne̱re̱ twii bajo̱me̱, wu pi̱i̱ duu ku nyaa kwii.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:40 <<Ci̱ka ku nu̱wa yikiri ku̱le̱ ba taa, ni̱ndu̱ we̱i̱ yi̱to̱ nyanggu̱ ku cwata go̱ro̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:44 <<Lau̱ ku diyou ci̱ka gi̱na wu tukugi a ko̱ndo̱u̱. Pu ne̱re̱ wu kanggi̱ ki̱nggau̱ a pero tukugu, a ni̱nga bu̱ri̱ de̱gde̱g a aara cuu kana ca tu wo̱o̱ yi̱ to̱no̱i̱ a te̱n kodou wii.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:45 <<Lau̱ ku diyou ci̱ka, ne̱re̱ wu kasanggu̱ gi̱si̱ tu nyaai,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:47 <<Mwaasi̱, lau̱ ku diyou ci̱ka, le̱mdi̱ su nu̱wa parna you re̱e̱ kana ko̱no̱ du jindu.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 13:54 A waata bu̱ri̱ gwe̱i̱ ye̱i̱. A toso ju̱ku̱gu̱ yi̱ri̱ngi̱ nu̱wa a gi̱re̱ng ku̱ru̱, nu̱wa bu nu̱u̱gu̱ yo̱ wa pma riyanga bu̱ri̱. Pma ni̱nga pi̱ra ki̱n, <<Ne̱re̱ wo̱o̱ nyi̱ngga to̱o̱ so̱mandi̱ yi̱ yi̱ri̱ngi̱ ri̱yandi̱ bu̱ri̱ to̱o̱ pi̱yau̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 13:56 Ci̱yamba ya bu nu̱ru̱mba wa yaa pi̱si̱ndi̱ pi̱na mwa mwa kem yi̱ yo ru? Ne̱re̱ wo̱o̱ nyi̱ngga to̱o̱ yi̱ri̱ngi̱ pi̱yau̱?>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 14:16 Yesu nyi̱i̱ pma le̱e̱ ki̱n, >	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 15:3 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Di̱ngi̱n ca mba bu par te̱e̱ri̱ Yambai̱ di̱ngi̱n pu po̱ng ni̱ngandi̱ mbi̱ri̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/0>	MAT 15:8 <Nu̱wa bo̱o̱ nyi̱i̱nggi̱ gi̱ru̱ yi̱ nyandi pmai ti̱bak anda gaanggi̱ri̱ pmai kwaara yi̱ mi.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/3>	MAT 15:9 Pma ku̱rangi̱n si̱ma nyo, yi̱ri̱ngi̱ tu pma ju̱ku̱gu̱, twii te̱e̱ri̱ngi̱ nu̱wa ti̱bak!>>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 15:10 Yesu yi̱we̱ nu̱wa bu ku̱ranggi̱ bu̱ri̱ wa bwii ba baanga bo̱nggo̱ yo̱u̱, a sa pma ki̱n, <<Bu ka twiyau bu ku̱ranga!	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 15:11 Yi̱ri̱ngi̱ tu diiri nyan ne̱ru̱ twii tu diini ne̱re̱ ba ni̱nga yaa walwal ne̱ anda yi̱ri̱ngi̱ tu twiiwei nyi̱yau̱ ne̱ru̱ bwiyani ne̱re̱ ba ni̱nga yaa walwal.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 15:13 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Kana ca tu Mbaa mi wu diyou pi̱ bu, nu̱wa podu we̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 15:14 Bu du pma, to̱o̱ nu̱wa bu taman jwalu kermo wa, anda kermo yaa taman jwalu kermo, di̱ngi̱n mwa pmau yaraman we̱i̱ bo̱o̱wu̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 15:16 Yesu sa pma ki̱n, <<Karai kwii bu ku̱ran bu ru?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 15:20 To̱o̱ yi̱ri̱ngi̱ diin ne̱re̱ ni̱ng yaa walwal. Anda je̱gu̱ je̱e̱ndi̱ wari̱ yaa cargi, yaa diini ne̱re̱ ba ni̱nga yaa walwal.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 16:2 Anda Yesu nyi̱i̱ pma le̱e̱ ki̱n, <<Ka nyambi̱ranggu̱ ni̱ngi̱, bu ce̱ mi̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 16:4 Mba nu̱wa bu bwi̱i̱ wa bu si̱naa daandi wa, bu yaa gwasi̱ Yamba wa, bu kasi̱ yi̱ri̱ somdi ri̱yandi̱ bu̱ri̱, yaa ku n ni̱ngambi̱ri̱ somdi ri̱yandi̱ bu̱ri̱ ka gwal tu banabi̱ Yunana.>> Bur Yesu a du pma mwati̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 16:8 Yesu so̱m tu pma ce̱gi̱, di̱ngi̱n to̱no̱ a pi̱ra pma ki̱n, <<Di̱ngi̱n ca bu ni̱nggu̱ gwe̱la yi̱ bu̱ri̱ mbi̱ri̱ mi̱n bu yaa ku̱maa? Le̱e̱gu̱ ji̱rau̱ mbi̱ru̱ banyi̱na!	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 16:10 Ku̱maa nibiyo wu n je̱e̱ nu̱wa tedu ni̱i̱ wo̱o̱ do̱ng de̱i̱? Bu twanga taci̱ngi̱ so̱no̱?>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 16:11 Di̱ngi̱n ca bu yaa ku̱rani̱ mi̱n n yaa ce̱gu̱ ku̱maa? Bu swe̱ra bu̱ri̱ mbi̱ri̱ bo̱nggo̱ yisti Parisayo yi̱ Sadukayo.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 16:17 Yesu le̱e̱man yo̱ ki̱n, <<Ma yo̱o̱gi̱ wu yi̱ wuure Simon bo̱l Yunana, di̱ngi̱n wo̱o̱ ji̱re̱ yaa ku baa bo̱nggo̱ ne̱ru̱. Mbaa mi wu diyou a ju̱ku̱ mi̱na.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 16:19 N nyi̱i̱mi̱nu̱ we̱i̱ tu wundi nyinoi lau̱ ku diyou, kana ca tu ma kwe̱e̱ a si̱ma, a kwauwa a diyou, tu ma pe̱ra a si̱ma, a pe̱rwa a diyou.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 16:24 Yesu sa kwati̱mba ya ki̱n, <<Kana we̱ ka kasi̱ ba po̱ngge̱, tagi̱ ba kwaa bu̱ri̱ ye̱i̱, ba de̱ ye̱u̱ yo̱u̱ ba po̱ngge̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 17:11 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Manggu Iliya baa we̱i̱, pero waata we̱i̱ kana ca mwa mwa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 17:12 Anda n wo̱o̱ sagu̱mbi̱ru̱ Iliya gi̱ci̱la baa, nu̱wa yaa ku ku̱ranga yo̱, pma ni̱ngaman yo̱ kana ca tu pma kasai̱. Yi̱to̱ mwaa Bo̱l Ne̱re̱ aari ti̱i̱gu̱ ku̱u̱lu̱ a wari̱ pmai.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 17:16 N de̱mu̱we̱ kwati̱mba ma anda pma jaanga mi̱rgu̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 17:20 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Di̱ngi̱n le̱e̱gu̱ ji̱re̱ mbi̱ru̱ banyi̱na, n sagu̱mbi̱ru̱ ji̱re̱ ka bu bo̱o̱ yi̱ le̱e̱gu̱ ji̱re̱ banyi̱na ci̱ka go̱n mustad, bu saru we̱i̱ ci̱ngu̱ ki̱na mi̱n, Mwati̱r we̱i̱. Yaa tu bu puu ni̱nggi̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 17:21 Ko̱o̱ duu wutur yaa twii ko̱po̱ yi̱ ku̱ru̱ yi̱ cooji.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 17:22 Pu mwa mwa kwati̱mba ya ku̱ranga bu̱ri̱ Galili, Yesu sa pma ki̱n, <<Nu̱wa curu we̱i̱ Bo̱l Ne̱re̱ a war nu̱wai̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 17:23 Nu̱wa jiru we̱i̱, anda go̱ro̱ daa kunong wunu we̱i̱ bo̱o̱re̱.>> Anda kwati̱mba bwiyanga gaanggu̱ wang.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/1>	MAT 17:26 Bitrus nyi̱i̱ le̱e̱ ki̱n, <> Yesu le̱e̱ ki̱n, <<Kundi, ma ce̱gu̱ mi̱n nu̱wa bu si̱ma bo̱o̱ pma yaa yari.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 17:27 Anda n yaa kasi̱ yi we̱laman nu̱wa bo̱o̱. Di̱ngi̱n to̱no̱ mwati̱ you ma manni̱ godim. Ma wu̱we̱, jinde wu ma taa, a nyi̱yau̱ yau̱ ma nyi̱nggu̱ we̱i̱ ke̱ne̱ du yinno yagu janggal, ma de̱e̱, ma ya pma janggal yire.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:3 a ce̱ ki̱n, <<N wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱ ko̱po̱ ka bu waka bu̱ri̱ bu yo̱o̱ ci̱ka babwiya wu banyi̱na, ka yi̱to̱ ne̱, yaa wu diru we̱i̱ lau̱ ku diyou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:6 <<Anda kana we̱ wu diini wu wiino mi̱ri̱nggi̱ bu nyi̱ti̱ti̱, bu puu ji̱re̱ yi̱ mi wa ba yaranga a we̱le̱m, kujang nu̱wa ba kwangman yo̱ ni̱i̱ du duuyi a kwii ba manna mi̱ri̱nggi̱ kali̱nggu̱ ba bwaa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:8 <<Ka wai mau yi̱ naa mau diiminu we̱i̱ we̱le̱m wai, ma mwar ya, ma man si̱ye̱i̱! Kujang ma nyi̱ngga pi̱i̱ma bu yaa mati̱gu̱ wa, yaa wari yi̱ mwari yi̱ ku nu̱wa manu we̱i̱ mwa mwa wari mai yi̱ mwar mai mi̱ri̱nggu̱ bwalau ku yaa dumdu.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:10 <<Su̱wa kii, bu cedi ya kana we̱ cu̱du̱ bu nyi̱ti̱ti̱ bo̱o̱. N wo̱o̱ sagu̱mbi̱ru̱ bacamandi pmai su diyou kana pe̱ne̱ pe̱ne̱ bo̱o̱ gawu̱ri̱ Mbaa mi wu diyou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:18 <<Pero n wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱ kana ca tu bu kwe̱e̱ a si̱ma a kwauwa a diyou tu bu pe̱ra a si̱ma a pe̱rwa a diyou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:19 <<Bambang n cwatugu sagu̱mbi̱ru̱, kana pe̱ne̱ pe̱ne̱ ka nu̱wa ro̱p cu̱du̱ mbi̱ri̱ ne̱ci̱ dwii a pi̱naa si̱ma, ce̱ ku̱ru̱ a dwii kana ca Mbaa mi wu diyou ni̱nga mbi̱ru̱ we̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 18:20 Di̱ngi̱n pu nu̱wa ro̱p kana kunong ku̱ranga bu̱ri̱ yi̱ din mi, n wo̱o̱ kem yi̱ pma.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:21 Bur Bitrus baa bo̱nggo̱ Yesu a pi̱ra ki̱n, <<Mbaa Wu gi̱ra, n paramanu we̱i̱ bago̱n mi sukom daa so̱no̱, ka ni̱nga ngin we̱le̱m? Daa nibiyo ru?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:22 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Yaa yi̱to̱, yaa daa nibiyo, anda kun nibiyo daa nibiyo.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/0>	MAT 18:32 Ne̱re̱ wu gi̱ra wii yi̱we̱ ke̱we̱ wii a se̱e̱ ki̱n, <Ma ke̱we̱ wu yi̱ tu̱we̱, n yapa mi̱n cine mai̱ mwa mwa, di̱ngi̱n ma sengangge.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 18:33 Daabu na ma nu̱u̱ bunam bago̱n mo̱ ke̱we̱ ci̱ka ku n nu̱u̱ bunam mau ru?>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 18:34 Ne̱re̱ wu gi̱ra yo̱ wii suko wang, a manni̱ ke̱we̱ wii jaru̱m, nu̱wa ba turongo ko̱po̱ ka yar ci̱ne̱ dwii mwa mwa.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 18:35 <<To̱o̱ tu n Mbaa mi wu diyou ni̱nga manu we̱i̱ kana wo̱no̱ mbi̱re̱ ko̱po̱ ka bu paraman sukom kambaa yi̱ gaanggu̱ kiino.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 19:4 A nyi̱i̱ le̱e̱ ki̱n, <<Bu ce̱ bu tu balgi̱ ru? 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 19:6 Pma yaa ro̱p me̱re̱ anda bu̱ri̱ wiino. Di̱ngi̱n to̱no̱ tu Yamba ne̱ca ne̱re̱ ba cwaani ya.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 19:8 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Musa le̱e̱mbi̱ra bu ji laabwiya nu̱ru̱mba mba di̱ngi̱n gaanggi̱r mbi̱ri̱ cingcing. Anda gwak yaa yi̱to̱ yake̱ taa yo̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 19:9 N wo̱o̱ sagu̱mbi̱ru̱ mi̱n, kana we̱ wu man nu̱re̱ yo̱ ka yaa dwii taari̱ ne̱, ka yikir nu̱re̱ wu kangge̱ a ni̱nggu̱ taari̱ yi̱ yo̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 19:11 Yesu sa pma ki̱n, <<Yaa kana we̱ wu le̱e̱ we̱i̱ yi̱ do̱o̱ ci̱ye̱i̱, ko̱po̱ pma bu Yamba kalanga pma wa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 19:12 Bu kangga ni̱nga bu laabwiya di̱ngi̱n twii po̱le̱, nu̱wa bi pma yi twii, bu kangga nu̱wa diin pma, pero bu kangga di̱ngi̱n lau̱ ku diyou. Anda kana we̱ wu le̱e̱ we̱i̱ yi̱ do̱ ci̱ye̱i̱, ba le̱e̱ yi̱ to̱no̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/1>	MAT 19:18 Ne̱re̱ wii pi̱ra ki̱n, <> Yesu nyi̱i̱ le̱e̱ ki̱n, <<Ma ji̱ri̱ ya ne̱re̱, ma ni̱ngi̱ ya taari̱, ma ni̱ngi̱ ya kuwii, ma nyi̱i̱ ya se̱e̱daki̱ leendi,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 19:19 ma nyi̱i̱ gi̱ru̱ mbaa mo̱ yi̱ njaa mo̱, pero ma kangman bapun mo̱ ci̱ka bu̱ri̱ mai.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 19:23 Yesu sa kwati̱mba ya ki̱n, <<N sagu̱mbu̱ru̱ ji̱re̱, ni̱ng we̱i̱ bu̱u̱ wang ne̱re̱ wu yi̱ gi̱na ba diiro lau̱ ku diyou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 19:24 Pero n sagu̱mbu̱ru̱, ni̱ng we̱i̱ le̱e̱le̱e̱ nggela ba diiro bo̱u̱ li̱ppi̱rau̱, yi̱ ku̱ bagi̱na ba diiro lau̱ Yambau̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 19:28 Yesu sa pma ki̱n, <<N sagu̱mbu̱ru̱ ji̱re̱i̱, jo̱r du kana ca waatu̱ we̱i̱ bu̱ri̱ pu̱ci̱, pero pu Bo̱l Ne̱re̱ si̱i̱nu̱ we̱i̱ candu̱ lau̱ yo̱u̱ ku yi̱ yi̱lau̱, mba bu po̱nggu̱ wa bu si̱i̱nu̱ we̱i̱ canni̱ndi̱ lau̱ri̱ kwap su̱r ro̱p bu ni̱ngamanu̱ we̱i̱ bali̱ duuri kwap su̱r ro̱p tu Israila.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 20:1 <<Lau̱ ku diyou ci̱ka ne̱re̱ wu yi̱ ko̱ndo̱u̱ wu twiyo yi̱ pinu ki̱lang a nyi̱i̱ nu̱wa wu̱rai̱ a ko̱ndo̱u̱ yo̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 20:3 <<Ku jo̱r du to̱ro̱ ni̱nga a twiyo a ko̱ bu kangga pi̱si̱ndi̱ lummo yaa tu ni̱nggi̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 20:5 Di̱ngi̱n to̱no̱ pma aanda ba ni̱nga wu̱rai̱ a ko̱ndo̱u̱ wii. <<Yo̱ pero mwati̱ yi̱ cu̱di̱ nyanggu̱ yi̱ jo̱r du kunong do̱ng, a ni̱nga ci̱ka ku co̱nggo̱ nu̱wanga.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<4/0>	MAT 20:7 <<Pma nyi̱i̱ le̱e̱ ki̱n, <<A sa pma ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/0>	MAT 20:8 <	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 20:9 <<Nu̱wa bu toso wu̱rai̱ jo̱r du nu̱wo̱ wu nyambi̱ranggu̱ pma baanga nu̱wa nyi̱i̱ pma dinari.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 20:12 Pma ce̱ ki̱n, nu̱wa bu baa yi̱ go̱ro̱ bo̱o̱ pma ni̱nga wu̱rai̱ nyan jo̱r du wiino anda bu ya yiro kiino yi̱ pma yo bu yar nyanggu̱ wu̱rai̱ wa.>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/0>	MAT 20:13 <<A sa wu kanggi̱ pma ki̱n, <Basi̱n mi, yaa ku n ni̱nga dwal ji̱re̱. Ma le̱e̱ bu mi̱n ma ni̱nggu̱ we̱i̱ wu̱rai̱ nyan dinari ru?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 20:18 <<Yi mwatangu Wurcalima anda nu̱wa cuuru we̱i̱ Bo̱l Ne̱re̱ bo̱nggo̱ bagi̱raa kuruwa yi̱ ku̱lu̱mba te̱e̱ri̱ngi̱ wa. Pma mwarmanu̱ we̱i̱ yo̱ bal bo̱o̱ri̱,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 20:19 ba nyi̱i̱ yo̱ war nu̱wa bu yaa yo̱o̱gi̱ nu̱wa bu Yudaya wa, pma ni̱ngamanu̱ we̱i̱ yo̱ nyasi̱, waci̱ru̱ we̱i̱ pero pi̱i̱ni̱ we̱i̱ ye̱u̱. Nyanggu̱ ku kunong wuni we̱i̱ yi̱ pi̱i̱ma.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 20:31 Nu̱wa bu ku̱ranggi̱ bu̱ri̱ bwii a ye̱ra pma ba si̱n si̱ye̱ndi̱ to̱k, anda pma cwata duwai ki̱n, <<Mbaa Wu Gi̱ra, Bo̱l Dawud nu̱u̱ bunam mu.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:2 a sa pma ki̱n, <<Bu ambi̱ra gwe̱i̱ du gawu̱ri̱ mbi̱ri̱, ka bu tengma bu kwe̱e̱ we̱i̱ bako̱ro̱ twalgi pwii, yi̱ twiyaa yo̱ bo̱nggo̱ yo̱u̱. Bu pe̱ra bu de̱nggu̱we̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:20 Pu kwati̱mba ya ko̱ yi̱to̱ pma ri̱yanga bu̱ri̱. Pma ni̱nga pi̱ra ki̱n, <<A ni̱ngwa nye̱ sou pwalgu̱ ko̱o̱ ku̱su̱wa ki̱ne̱ngu̱ yi̱to̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:21 Yesu nyi̱i̱ pma le̱e̱ ki̱n, <<N wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱i̱, ka bu le̱e̱ ji̱re̱, bu ni̱nga bu gaanggi̱r ro̱p ne̱, bu ni̱ng we̱i̱ tu ni̱ngwa yi̱ sou pwalgu̱ ko̱o̱, anda bu̱ri̱ to̱o̱ yi̱ wundu ne̱, bu saru we̱i̱ ci̱ngu̱ ki̱na mi̱n, ni̱ngdu̱ we̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:23 Yesu diiro laa Yambau̱, pu wo̱o̱ ju̱ku̱gu̱ yi̱ri̱ngi̱ nu̱wa, bagi̱raa kuruwa wa yi̱ bagi̱raa nu̱wa wa a baanga bo̱nggo̱ yo̱u̱, pma pi̱ra ki̱n, <<Ma ni̱nggu̱ to̱o̱ yi̱ri̱ngi̱ yi̱ di̱mbi̱re̱ we̱? Pero wu nyi̱i̱mi̱n wo̱o̱ di̱mbi̱re̱ we̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:24 Yesu nyi̱i̱ pma le̱e̱ ki̱n, <<Mi mwa n pi̱rambi̱ri̱ we̱i̱ pi̱ra wiino, ka bu nyi̱i̱nggi̱ le̱e̱ n sambi̱ri̱ we̱i̱, ka ni̱nggu̱ ti̱na yi̱ri̱ngi̱ yi̱ di̱mbi̱re̱ we̱ we̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 21:26 Anda ka yi ce̱ mi̱n, yi nu̱gu̱ gwasi̱ nu̱wa di̱ngi̱n pma mwa mwa le̱e̱ ki̱n Yohanna twii banabi̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:28 <<Bu danggu̱ we̱i̱ mi̱n ca, a dwii ci̱ye̱i̱ di̱na? Wo̱o̱ yi̱ ne̱re̱ wu yi̱ ba kwaraa ro̱p. A aara bo̱nggo̱ wu gawu̱ri̱yo̱ a se̱e̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:30 <<Mbaate̱ wii aara bo̱nggo̱ wu kanggi̱ wii a se̱e̱ ci̱ka ku co̱nggo̱ ce̱u̱, a le̱e̱ man yo̱ ki̱n, anda yaa ku aarau.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<4/2>	MAT 21:31 <> Pma nyi̱i̱ le̱e̱ ki̱n, <> Yesu sa pma ki̱n, <<N wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱ nu̱wa bu yi̱ri̱ janggal yi̱ karmaji̱ndi̱ gi̱ci̱la mbi̱r we̱i̱ tengma lau̱ Yambau̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:33 <<Bu ka twiyau ci̱ye̱i̱ du balanggai̱ du kanggi̱. Wo̱o̱ yi̱ ne̱re̱ wu kangge̱ wu yi̱ ko̱ndo̱u̱, a ruu souri inabi. A wo̱ra yi̱ garu. A wul bo̱u̱ dudu a swe̱li̱ du karkar pu nu̱wa yamnu we̱i̱ gundu inabi pero a mo̱o̱ cire. Bur a du̱u̱ bajo̱mba bu kangga a ni̱nga so̱ngma.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:38 <<Pu bajo̱mba bwii ko̱ bwi̱ya wii bagu̱, sa bu̱ri̱ pmai ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 21:40 Di̱ngi̱n yi̱to̱ ka ne̱re̱ wu ko̱ndo̱u̱ wayau̱ baayi, ni̱ngu̱ we̱i̱ nye̱ yi̱ bajo̱mba bwii?>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 21:42 Yesu sa pma ki̱n, <<Bu ce̱ bu mi̱ri̱nggu̱ Lakargar Yamba ru? 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 21:44 Kana we̱ wu yaramana swe̱le̱ dwii re̱pu̱ru̱ we̱i̱ cuk cuk, pero ka swe̱le̱ dwii yarman kana we̱, ko̱o̱ we̱i̱ pwangge̱ li̱ngli̱ng ci̱ka miima.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:2 <<Lau̱ ku diyou ci̱ka balaa wu ni̱nga waandi laabwiya bo̱l yo̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/0>	MAT 22:4 <	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:5 <<Anda pma yaa ku ka twiyau, pma mwatanga, bu kangga aanda ko̱ndo̱u̱, bu kangga aanda lummo.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/0>	MAT 22:8 <<Pero a sa ke̱waa ya bu tu̱ma bwii ki̱n, <Waandi laabwiya si̱na ci̱pi̱gi̱ anda nu̱wa bu n gi̱ci̱la n tu̱m man pma wa pma yinnibu ba baanga.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 22:9 Ambi̱ra nyindi su mi̱ri̱nggi̱ gwe̱i̱ bu sa ci̱ye̱i̱ kana we̱ wu bu nyi̱ngga ba baa waandi si̱na.>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:11 <<Pu balaa diiro ba ko̱ ru̱nggu̱wa, a ko̱ ne̱re̱ wu kangge̱ wu yaa se̱e̱ laabwiya.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:13 <<Balaa wii sa ke̱waa ya bu su̱gu̱ pma bwii ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 22:17 Yo̱ko̱ sa yiro, a ko̱gu̱ mo̱u̱ ci̱maci̱ma yi ya janggal Balaa Kaisar ru, ba yari̱ ya ru?>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:18 Yesu so̱m dangandi̱ pmai tu bwi̱i̱, a ce̱ ki̱n, <<Mba nu̱wa bu yi̱ batal wa, di̱ngi̱n ca bu kasi̱ bu ciingin mu tandau?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 22:19 Bu ju̱ku̱nggi̱ ke̱n du nu̱wa yari̱ janggal dwii.>> Pma de̱ nyi̱i̱ya,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:20 a ce̱ ki̱n, <<Wekilei yi̱ din di̱naa du we̱i̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:24 Pma ce̱ ki̱n, <<Ku̱lu̱me̱, Musa sa yiro ki̱n ka ne̱re̱ bo̱o̱ri̱ yaa kwaraa ne̱, tagi̱ ci̱ya yo̱ ba yiki wu̱tu̱ko̱lo̱ wii palaka ba bi̱man kwaraa ci̱ya yo̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 22:28 Yo̱ko̱ sa yiro, yake̱ ku ni̱ng pma mwa mwa pmau nibiyo ko̱, a nyanggu̱ wunggu bo̱o̱re̱, yo̱o̱ we̱i̱ nu̱re̱ we̱?>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:29 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Bu li̱yanga di̱ngi̱n bu so̱m bu tu De̱mte̱e̱re̱ ci̱ye̱i̱, pero bu so̱m bu di̱mbi̱r Yamba.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 22:32 Yo̱ yaa yo̱o̱gi̱ Yamba wu nu̱wa bu bwaanggi̱ wa, yo̱ yo̱o̱gi̱ Yamba nu̱wa bu yi̱ pi̱i̱ma wa.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:37 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Ma kangman Mbaa Wu Gi̱ra Yamba mo̱ yi̱ gaanggu̱ mo̱u̱ mwa mwa, yi̱ bawei mai mwa mwa yi̱ dangandi̱ mai mwa mwa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/0>	MAT 22:39 Du ro̱p ye̱i̱ ci̱ka do̱o̱ mwaasi̱, <Ma kangman bapun mo̱ ci̱ka bu̱ri̱ mai.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 22:43 A sa pma ki̱n, <<Di̱ngi̱n ca ki̱, Dawud ce̱ ci̱ye̱i̱ yi̱ di̱mbi̱re̱ Bawei du Walwal, a yi̱gu̱ Masiya ki̱n Mbaa Wu Gi̱ra? Di̱ngi̱n a ce̱ ki̱n,	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:2 <<Ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo bwii pma bu ju̱ku̱ri̱ pi̱ti̱ndi̱ te̱e̱ri̱ngi̱ Musa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:8 <<Anda mba, bu le̱e̱ ya nu̱wa ba yi̱ mbi̱ra ki̱n, di̱ngi̱n bu bo̱o̱ ku̱lu̱m wiino ti̱bak pero bu yo̱o̱gi̱ ci̱yamba bu̱ri̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/0>	MAT 23:9 Pero bu yi̱rya kana we̱ a si̱ma mi̱n, < di̱ngi̱n bu bo̱o̱ yi̱ Mbaate̱ wiino ti̱bak a diyou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 <<Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo, mba bu yi̱ batal wa! Bu laka nyinou lau̱ ku diyou a bo̱nggo̱ nu̱wau̱, mba yir mbi̱ri̱ do̱ng bu teembiri bu pero bu du pma bu teendu we̱i̱ wa ba teendo. [	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:13 <<Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo, mba bu yi̱ batal wa! Bu laka nyinou lau̱ ku diyou a bo̱nggo̱ nu̱wau̱, mba yir mbi̱ri̱ do̱ng bu teembiri bu pero bu du pma bu teendu we̱i̱ wa ba teendo. [	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo, mba bu yi̱ batal wa! Bu ni̱ngaman wu̱tu̱ko̱la lelu, ba yi̱ se̱e̱ wu laandi pmai, pero ce̱ ku̱ru̱ co̱ku̱ro̱k ci̱ka nu̱wa bu nyaa wa. Bo̱o̱ nu̱wa tii we̱i̱ ku̱u̱lu̱ wang.]	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:15 <<Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo mba bu batal wa, bu ke̱re̱ni̱ kana pi̱yau̱ a si̱ma yi̱ you ku piu palaka bu wuu ne̱re̱ wiino ba po̱ng mbi̱ra, pero ka baayi, bu di̱na ba yo̱ bo̱l bwalau gwala mbi̱ra daa ro̱p.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:16 <<Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba kerma bu taagu̱ nu̱wa wa! Bu ce̱ mi̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:23 <<Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo mba bu batal wa. Bu nyi̱i̱ tiino mi̱ri̱nggi̱ kwap wu se̱e̱ ali̱ mbi̱re̱, baabu, dauri, yi̱ waasa yi̱ bunggul, anda bu kwaa tu gwala yi̱ kundi yo̱u̱, bu tu̱mgu̱ ji̱re̱i̱ yi̱ bunam yi̱ ni̱nggu̱ yi̱ri̱ngi̱ ci̱maci̱ma. To̱o̱ tu daa ye̱i̱ na bu ni̱nga, bu du̱r ya tu co̱nggo̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:25 <<Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo, mba bu batal wa. Bu cardi go̱ro̱ kaagu̱ yi̱ go̱ro̱u̱ panane̱ anda mi̱ri̱nggi̱ ye̱i̱ twangi yi̱ yawo yi̱ ni̱nggu̱ tu gaanggu̱ mo̱u̱ kasi̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:27 <<Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo mba bu batal wa! Bu ci̱ka purongi tu nu̱wa banni to̱ne̱ du po̱pu̱lo̱k, ko̱gu̱ yo̱u̱ kundi a twalange̱ anda mi̱ri̱nggi̱ ye̱i̱ twanggi yi̱ kuri nu̱wa bu bwaanga wa, pero kana ca yaa walwal.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:29 <<Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo mba bu batal wa, bu mwe̱e̱n dwiiyongi puringi banabi̱ndi̱, pero bu ye̱ki̱ri̱ purongi nu̱wa bu nyaa wa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:33 <<Mba co̱o̱gi̱ndi̱, mba kwaraa bage̱ci̱ wa! Ni̱ndu̱ we̱i̱ nye̱ bu ce̱ mbi̱r bali̱ par bwalai?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 23:37 <<Aing! Wurcalima! Mba bu laci banabi̱ndi̱ wa, pero bu bacanga nu̱wa bu Yamba tu̱mu̱we̱ bo̱nggo̱ mbi̱ru̱ wa! Daa so̱no̱ n kasi̱ n ku̱ra mbi̱ra ci̱ka ku̱ cwiyo ku̱ran kwaraa ya mi̱ri̱nggi̱ ko̱ngo̱ndi̱ ye̱i̱, anda bu kwaanga!	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 23:39 N wo̱o̱ sagu̱mbi̱ru̱, bu peri ko̱gu̱ mu̱, ko̱po̱ nyanggu̱ ku̱ bu ce̱ mi̱n, >>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:4 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Bu ruun tu̱we̱ kana we̱ ba ciye mbi̱ri̱ ya.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:9 <<Nu̱wa diinu we̱i̱ nu̱wa ba pumbiri ku̱u̱le̱, pero ba lacambi̱ra, bambam nu̱wa bu si̱ma mwa mwa kwaambi̱ri̱ we̱i̱ di̱ngi̱n mi.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:15 <<Ka bu kwe̱yi̱ yi̱ri̱ngi̱ pu̱si̱ twii tu de̱e̱ se̱ntanggi̱, pi̱ti̱ndi̱ pu walwal a Laa Yambau̱ ci̱ka tu banabi̱ Daniel bala ki̱n, yama kana we̱ wu ce̱gu̱ di̱naa ci̱ye̱i̱ ba ku̱ranga to̱o̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:26 <<Di̱ngi̱n to̱no̱ kana we̱ wu sambi̱ra ki̱n, bu twiyoni ya, kana ce̱ ki̱n, bu le̱e̱ ya ji̱re̱ yi̱ to̱no̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:29 <<Go̱ro̱ ku̱u̱li̱ wu daandi swii, a ki̱nangu̱, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:30 <<A dwii jo̱re̱ somdi Bo̱l Ne̱re̱ twii we̱i̱ a diyou, pero mwa mwa duuri tu si̱ma bwi̱yanu̱ we̱i̱ gaanggu̱, ka pma kwe̱e̱ we̱i̱ Bo̱l Ne̱re̱ bagu̱ mi̱ri̱nggu̱ tinendi a diyou yi̱ di̱mbi̱re̱ yi̱ yi̱lau̱ wang.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:32 <<Yo̱ko̱ n kasi̱ bu ti̱langa to̱o̱ yi̱ri̱ bo̱nggo̱ sou pwalgu̱. Ka bu kwe̱e̱ tosi bulugu, wandi̱ ye̱i̱ to̱ri̱ bu so̱ma mi̱n jundu ni̱nga ne̱m.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:36 <<Yaa wu so̱m nyanggu̱ kwii kana jo̱r ye̱i̱, kana bacamandi su diyou, kana Bwi̱ya, bu̱ri̱ Mbaate̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:42 <<Di̱ngi̱n to̱no̱, bu ni̱nga pu swe̱ri̱gu̱ di̱ngi̱n bu so̱m bu nyanggu̱ ku Mbaa Wu Gi̱ra mbi̱ri̱ baa we̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 24:45 <<Wii ke̱we̱ yo̱ we̱ wu yi̱ ji̱re̱ yi̱ pwi̱i̱, wu ne̱re̱ wu gi̱ra yo̱ diin yo̱ ba su̱wa ke̱waa bu laa yo̱u̱ wa, ba nyi̱i̱ pma je̱e̱ndi̱ pmai ci̱maci̱ma a jo̱r du daa ye̱i̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:1 <<A dwii jo̱re̱, lau̱ diyou ni̱ngi̱ we̱i̱ ci̱ka bako̱rcanga kwap bu de̱e̱ pi̱ti̱lari̱ pmai aanda di̱ngi̱n ba te̱re̱nga bwiyakaa wu laabwiya wa yo̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:6 <<Yi̱ cu̱du̱ kumdi, nu̱wa nu̱u̱ duwai ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:7 <<Bu̱ri̱ bako̱rcanga bwii wunongo, a me̱ne̱nga pi̱ti̱lari̱ pmai.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:9 <<Pma nyi̱i̱ le̱e̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:10 <<Anda pu pma mwatanga te̱nggu̱ nunggu, bwiyakaa laabwiya lamuwe. Bako̱rcanga bu ci̱pi̱gi̱ bu̱ri̱ wa bwii de̱ rau kem yi̱ yo̱ a waandi laabwiya. Pero nu̱wa laka nyinou.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:12 <<A nyi̱i̱ le̱e̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:13 <<Di̱ngi̱n to̱no̱ bu ci̱pa bu̱ri̱, di̱ngi̱n bu so̱m bu nyanggi̱ ye̱i̱ kana jo̱r ye̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:14 <<Bambang, ci̱ka ne̱re̱ wu kangge̱ wu ni̱nggu̱ so̱ngmau̱, a yi̱we̱ ke̱waa ya nyi̱i̱ pma gi̱na yo̱ ba su̱wa yi̱ to̱no̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:19 <<Go̱ro̱ daandi tum ne̱re̱ wu gi̱ra ke̱waa bwii waata bu̱ri̱ so̱ngma ya a kasa ba su̱wa gi̱na yo̱ wu bo̱nggo̱ ke̱waa ya.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:21 <<Ne̱re̱ wu gi̱ra yo̱ se̱e̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:22 <<Ne̱re̱ wu tale̱nti̱ ro̱p wii mwaasi̱ a baa a ce̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:23 <<Ne̱re̱ wu gi̱ra yo̱ nyi̱i̱ le̱e̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:24 <<Bur ne̱re̱ wu yi̱ tale̱nti̱ wiino wii baa, a ce̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 25:25 Di̱ngi̱n to̱no̱ n nu̱u̱ gwasi̱, n mwati̱ngge̱, n tuko tale̱nti̱ mo̱ mi̱ri̱nggi̱ si̱ma. Ko̱! Yi̱ri̱ mai yo̱ ti̱na.>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/0>	MAT 25:26 <<Ne̱re̱ wu gi̱ra yo̱ nyi̱i̱ le̱e̱ ki̱n, <Mo̱, ke̱we̱ wu yi̱ tu̱we̱ yi̱ ku̱u̱le̱! Ma so̱ma mi̱n n kaci pu n pi̱ bu pero n ku̱rani̱ pu n wasi̱ bu go̱ma?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 25:30 Bu manni̱ wo̱o̱ ke̱we̱ wu bwi̱i̱ wo̱o̱ twalange̱, mi̱ri̱nggi̱ ku̱me̱, pu ni̱ngu̱ we̱i̱ pu windi yi̱ dumonggu nyi̱yau̱.>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:31 <<A jo̱r du Bo̱l Ne̱re̱ baa we̱i̱ yi̱ yi̱lau̱ yo̱u̱, kem yi̱ bacamandi ye̱i̱ mwa mwa, yo̱ si̱nu̱ we̱i̱ candu̱ lau̱ yo̱u̱ wu yi̱ yi̱lau̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/0>	MAT 25:34 <<A dwii jo̱re̱ Balaa wii sar we̱i̱ pma bu wai yo̱u̱ wu je̱u̱ ki̱n, <Bambe̱, mba bu yi̱ wuuri wa bo̱nggo̱ Mbaa mi, bu je̱ lau̱ ku nu̱wa ruwo di̱ngi̱n mba yake̱ taawu̱ si̱ma.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 25:36 n yaa se̱e̱ bu pari̱ngi̱n se̱e̱, n yaa cingcing bu su̱wangge̱, n wo̱o̱ jaru̱m bu kacanggu̱we̱.>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/0>	MAT 25:37 <<Nu̱wa bu ni̱ng pi̱su̱ wu nyaa wa bwii le̱e̱ we̱i̱ ki̱n, <Mbaa Wu Gi̱ra, yi ko̱ mi̱na pe̱ne̱ yi̱ ju̱ne̱ yi̱ je̱e̱ mi̱na, yi̱ jii yi pu̱u̱ mi̱n gundu ma naa?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 25:39 Yi ko̱ mi̱na pe̱ne̱ yaa cingcing kana a jaru̱m yi kaca mi̱na?>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:40 <<Balaa wii nyi̱i̱ we̱i̱ le̱e̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/0>	MAT 25:41 <<Pero sa ru we̱i̱ pma bu wai yo̱u̱ wu miu ki̱n, <Bu lamanga po̱o̱ bo̱nggo̱ mu, mba bu se̱ntanggi̱ wa, bu tembiro bwalau ku yaa dumdu, ku nu̱wa me̱ne̱nga di̱ngi̱n balaa buwai wa kem yi̱ bacamandi ye̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 25:43 N ru̱ngge̱ yaa ku bu julungge, n yaa se̱e̱ yaa ku bu pari̱ngi̱n se̱e̱, n yaa cingcing pero n wo̱o̱ jaru̱m yaa ku bu su̱wangge̱.>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:44 <<Pma mwaasi̱ nyi̱i̱ we̱i̱ le̱e̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 25:45 <<Yo̱ nyi̱i̱ we̱i̱ le̱e̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:8 Pu kwati̱mba ya ko̱ to̱o̱ yi̱to̱, pma bwiyanga gaanggu̱, pma ce̱ ki̱n, <<Wo̱o̱ kwala yo̱ ca?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:9 Nunggu ko̱o̱ nu̱wa na cuu yo̱ yi̱ ke̱n tum ba nyi̱i̱ baku̱u̱lu̱wa.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:10 Yesu so̱m tu pma ce̱gu̱, a sa pma ki̱n, <<Di̱ngi̱n ca bu do̱ma yi̱ nu̱re̱ wo̱o̱ a dwii yi̱ri̱ tu nyaayi tu ni̱ngangi̱nai̱?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:13 N wo̱o̱ sagu̱mbi̱ru̱ ji̱re̱, kana pi̱yau̱ pu nu̱wa wasi̱ru̱ we̱i̱ ci̱ye̱i̱ du teng di̱na a si̱ma mwa mwa, nu̱wa ce̱ we̱i̱ tu ni̱ngai̱ di̱ngi̱n danggi̱gu̱ yi̱ yo̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/1>	MAT 26:18 A nyi̱i̱ le̱e̱ ki̱n, <<Bu ambi̱ra gwe̱i̱ bo̱nggo̱ ne̱re̱ wu kangge̱ bu se̱e̱ mi̱n, >	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:23 Yesu nyi̱i̱ le̱e̱ ki̱n, <<Wu diini wai yo̱u̱ mi̱ri̱nggi̱ panane̱ kem yi̱ mi cuunggu we̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:24 Bo̱l Ne̱re̱ bwaaru̱ we̱i̱ ci̱ka ku balgi̱ a dwii ye̱i̱, anda to̱o̱ yi̱ri̱ bunam bo̱nggo̱ ne̱re̱ wu cuu Bo̱l Ne̱re̱, kujang ku nu̱wa na bi bu yo̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:27 Pero a de̱e̱ bo̱so̱ro̱ gundu inabi, a wananga Yamba, a nyi̱i̱ pma, a ce̱ ki̱n, <<Mwa mwa bu naa mi̱ri̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:29 N wo̱o̱ sagu̱mbi̱ru̱, yaa ku n peru we̱i̱ naagu gundu inabi ko̱po̱ kwii nyanggu̱ ku n naa we̱i̱ ku pu̱cu̱ kem yi̱ mba a Lau̱ Mbaa mu.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/0>	MAT 26:31 Go̱ro̱ yi̱to̱ Yesu sa pma ki̱n, <<Yi̱ kum wunaa mwa mwa mbi̱ru̱ bu nyi̱nggu̱ we̱i̱ go̱ro̱u̱, di̱ngi̱n balgi̱ mi̱ri̱nggi̱ lakargar Yamba ki̱n, <N buu we̱i̱ taage̱, n jiyo, kan puuri we̱e̱nu̱ we̱i̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:32 Anda go̱ro̱ pu n wuni n cwii we̱i̱ gawu̱r mbi̱ri̱ n anggi̱ Galili.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:40 A waata bo̱nggo̱ kwati̱mba ya baa nyi̱ngga pma diimandi, a pi̱ra Bitrus ki̱n, <<Yaa ku bu puu we̱i̱ bu si̱ya ci̱pi̱gi̱ bu̱ri̱ kem yi̱ mi nyan jo̱r banyi̱na ru?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:41 Bu si̱ya ci̱pi̱gi̱ bu̱ri̱, bu ce̱ ku̱ru̱ daakal bu yanna miyam. Bawei kasi̱gu̱ anda bu̱ri̱ yaa di̱mbi̱re̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:45 Pero a waata bu̱ri̱ bo̱nggo̱ kwati̱mba ya a sa pma ki̱n, <<Bo̱o̱ bu bo̱o̱ diimandi ru? Bu yo̱ro̱nggu̱ ru? Su̱wa jo̱r ni̱nga nu̱wa cuu Bo̱l Ne̱re̱ a war nu̱wa bu yi̱ we̱le̱mdi̱ wa.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:46 Bu wunongo yi mwatanga! Ne̱re̱ wu cuugu mu wii wo̱o̱ bagu̱!>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:52 Yesu se̱ ki̱n, <<Pu̱n do̱mpo̱u̱ mo̱u̱ mi̱ri̱nggi̱ laa yo̱u̱, di̱ngi̱n wu podo do̱mpo̱u̱ bo̱o̱ri̱ do̱mpo̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:54 Anda ka n ni̱ng yi̱to̱, ci̱ye̱i̱ De̱mte̱e̱re̱ du ce̱ ki̱n, tagi̱ ba ni̱ngwa yi̱to̱, ni̱ndu̱ we̱i̱ nye̱ ba twangwa?>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:55 A dwii jo̱re̱ Yesu sa nu̱wa bu tum bwii ki̱n, <<Di̱ngi̱n ca bu baanga yi̱ do̱mpo̱u̱ri̱ yi̱ gu̱mo̱ngi̱ bu tangge̱ ci̱ka n kuwe? Kana ko̱no̱ nyanggu̱ n si̱i̱ laa Yambau̱ n pi̱rgu̱ yi̱ri̱ nu̱wa anda bu tanggu̱ bu.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 26:56 Anda to̱o̱ mwa mwa a ni̱ngwa palaka ba twanga tu banabi̱ndi̱ bala ki̱n ni̱ndu̱ we̱i̱.>> Kwati̱mba ya mwa mwa du yo̱ a ceendo.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 26:65 Bagi̱ra kuruwa wii pwaranga se̱e̱ yo̱ di̱ngi̱n ba ju̱ku̱ bwiyan gaanggu̱ yo̱u̱, a ce̱ ki̱n, <<A ce̱ ce̱wi̱ bwiyangi din Yambai̱! Di̱ngi̱n ca yi kasi̱gu̱ se̱e̱daki̱ wu kangge̱ do̱ng? Su̱wa, yo̱ko̱ bu nu̱u̱ ko̱o̱ bwiyangu din Yambau̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<1/3>	MAT 27:4 A ce̱ ki̱n, <> Pma ce̱ ki̱n, Do̱ yiri do̱no̱, to̱o̱ biiki mo̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/1>	MAT 27:6 Bagi̱raa kuruwa wa wii de̱e̱ ke̱n dwii a ce̱ ki̱n, >	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 27:9 To̱o̱ twang tu banabi̱ Irmiya ce̱i̱, <<Pma de̱e̱ asurpa kuna kunong, to̱o̱ duu wu nu̱wa bu Israila wa ru woo ki̱n nu̱wa ba cuu yo̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 27:10 Pma de̱e̱ te̱n si̱ma ne̱re̱ wu mwe̱e̱ni̱ dinendi ci̱ka ku Mbaa Wu Gi̱ra sangge̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<3/1>	MAT 27:21 Gomna pi̱ra ki̱n, <<Cu̱du̱ pmai bu ro̱p, n man mbu̱we̱ we̱? Pma nyi̱i̱ le̱e̱ ki̱n, <>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 27:42 Pma ce̱gu̱ ki̱n, <<Yo̱ mi̱ra bu kangga anda jaanga mi̱ri̱gu̱ bu̱ri̱ ye̱i̱! Balaa wu Israila! Yama ba julo dwii ye̱u̱ wo̱o̱, yo mwa yi̱ le̱e̱ we̱i̱ ji̱re̱ yi̱ yo̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 27:43 Yo̱ le̱e̱ ji̱re̱ yi̱ Yamba. Yama Yamba ba mi̱ra yo̱ ka kasi̱ yo̱ we̱i̱, di̱ngi̱n a ce̱ ki̱n, >>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 27:63 Pma ce̱ ki̱n, <<Ne̱re̱ wu gi̱ra, yi dangga tu ne̱re̱ wu ciyeni nu̱wa wo̱o̱ ce̱i̱ pu bo̱o̱ wo̱o̱ yo̱ pi̱i̱mau̱ ki̱n, 	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 27:64 Di̱ngi̱n to̱no̱ diin nu̱wa ba swe̱ra puri dwii nyan daa kunong, dakali, kwati̱mba ya ba ji̱nda bu̱ri̱ ye̱i̱, ba sa nu̱wa ki̱n a wuni bo̱nggo̱ bo̱o̱re̱. Ka ni̱ngdi̱ yi̱to̱ ciyeni tu go̱ro̱ yo̱ gwalu we̱i̱ tu gawu̱ri̱yo̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 28:5 Bacama wii sa nu̱ru̱mba wii ki̱n, <<Bu nu̱u̱ ya gwasi̱, di̱ngi̱n n so̱ma bu kasi̱gu̱ Yesu wu nu̱wa pi̱i̱na ye̱u̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 28:7 Bu ambi̱ra ki̱lang ki̱lang bu sa kwati̱mba ya, Yo̱ko̱ n sambi̱ra.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 28:14 Ka do̱o̱ ci̱ye̱i̱ lam bo̱nggo̱ gomna, yo nyan dwii yiri yi di̱ramanu̱ we̱i̱ yo̱ gaanggu̱ pero yi yiki mbi̱ri̱ we̱i̱ a ku̱u̱le̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<2/0>	MAT 28:18 Yesu baa bo̱nggo̱ pmau a ce̱ ki̱n, <<Mwa mwa di̱mbi̱re̱ wu diyou yi̱ si̱ma nu̱wa nyi̱ngge̱	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	MAT 28:20 Bu pi̱r pma ba ni̱nga po̱ngo̱ndi̱ yi̱ kana ca tu n sa mbi̱rai̱. Ji̱re̱, n wo̱o̱ kem yi̱ mba kana pe̱ne̱ pe̱ne̱, ko̱po̱ nyanggu̱ gwatu̱gu̱ si̱mai̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	1TI 3:1 Ti̱na ce̱du̱ ji̱re̱i̱: “Ka ne̱re̱ kasi̱ ba yo̱o̱ ne̱re̱ wu gi̱ra wu ikkilisiya, a kasa wu̱rai̱ du nyaau.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/4>	1TI 5:18 Di̱ngi̱n De̱mte̱e̱re̱ ce̱ ki̱n, “Ma diini ya balantang a nyan go̱nto̱le̱ jo̱r du baci̱gu̱ jamau.>> Pero a bo̱nggo̱ wukange ki̱n, “Pma bu ni̱nga wu̱rai̱ wa a yinno nu̱wa ba ya pma.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/4>	2TI 2:19 Anda ji̱re̱i̱ Yamba ti̱ndi̱ ti̱yau̱ ci̱ka swe̱li̱ du taa mwe̱e̱ndi̱, balinggi wuna bala: “MBA WU GI̱RA so̱m bo̱o̱ ya,>> pero “Mwa mwa bu yo̱o̱gi̱ bu MBA WU GI̱RA wa tagi̱ ba kwaa tu bwi̱i̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/4>	JAM 2:3 Ka ma nyi̱i̱ bagina gi̱ru̱ ma sar mi̱n, “Si̱i̱na pi̱su̱ wu nyaau.>> Anda ma sar ba ku̱u̱lu̱ wii mi̱n, “Mo̱ ti̱n ti̱ye̱i̱ po̱o̱, ka yi̱to̱ ne̱, ma si̱na si̱ma a mwar mi.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	JAM 2:8 O̱ng ji̱re̱, kundi ka bu ni̱ngi̱ po̱ngo̱ndi̱ yi̱ te̱e̱ri̱ Balaa Yamba, du yi ki̱nggai̱ a De̱mte̱e̱re̱: “Ma kangman bapun mo̱ ci̱ka bu̱ri̱ mai.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/4>	JAM 2:11 Di̱ngi̱n Yamba wu ce̱ ki̱n, “Ma ni̱ngi̱ ya taari̱.>> Pero wii yo̱ ce̱ ki̱n, “Ma jiriya ne̱re̱.>> Di̱ngi̱n to̱no̱ ka ma jir ne̱re̱ anda ma ni̱nga bu taari̱ ne̱, ma pa te̱e̱re̱ mwaasi̱.	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	JAM 2:16 anda ma se̱ mi̱n “Ma ci̱ laamau. Yama ma cii bu̱ri̱ mai wulok yi̱ se̱e̱, ma je̱ je̱e̱ndi̱ wang.>> Anda ma nyi̱i̱ bu ne̱re̱ wii je̱e̱ndi̱ kana ba nyina kana se̱e̱. To̱o̱ yi̱ri̱ kundi yau̱ ca?	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/4>	JAM 2:18 Ne̱re̱ wu kanggi̱ ce̱ we̱i̱ ki̱n, “Ma wo̱o̱ yi̱ le̱e̱gu̱ ji̱rau̱; Mi n ko̱ n wo̱o̱ yi̱ wu̱rangi̱.>> Anda n ce̱gu̱ mi̱n, “Ma ju̱ku̱nggi̱ le̱e̱gu̱ ji̱rau̱ yaa Kem yi̱ wu̱rangi̱. N ju̱ku̱ manu we̱i̱ le̱e̱gu̱ ji̱rau̱ mu bo̱nggo̱ wu̱rangi̱ mi.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	JAM 2:23 Di̱ngi̱n to̱no̱ a ni̱ngwa ci̱ka ku De̱mci̱yei̱ Yamba ce̱u̱: “Ibrahim le̱e̱ ji̱re̱i̱ yi̱ Yamba, anda di̱ngi̱n le̱e̱gu̱ ji̱re̱ yo̱u̱ Yamba ko̱ yo̱ ci̱maci̱ma.. Nu̱wa yi yo̱ ki̱n, basi̱n Yamba.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	JAM 4:6 Anda Yamba nyi̱i̱ yiru we̱i̱ bo̱ni̱i̱u̱ yo̱u̱ ku tum. Ci̱ka ku De̱mte̱e̱re̱ ce̱ ki̱n, “Yamba kwaa nu̱wa bu yi̱ le̱e̱gu̱ dwii wa anda ni̱ng tu nyaai bo̱nggo̱ pma bu cinggi dwii wa.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	JAM 4:13 Bu nu̱wa mbaa bu ce̱ mi̱n, “Kana reni kana punge yi aandu we̱i̱ gwe̱i̱ du kanggi̱ yi si̱ndi̱ si̱ye̱i̱ pwii nyan Mi̱la. Wii ni̱nga lummo yi̱ nyi̱ngga ke̱ne̱.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Source	<0/2>	JAM 4:15 A daaya ma ce̱ mi̱n, “Ka Mbaa Wu Gi̱ra le̱e̱yi̱, n ni̱ng we̱i̱ ti̱naa yi̱ twii.>>	WARN
+Waja---Waja-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 “Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo, mba bu yi̱ batal wa! Bu laka nyinou lau̱ ku diyou a bo̱nggo̱ nu̱wau̱, mba yir mbi̱ri̱ do̱ng bu teembiri bu pero bu du pma bu teendu we̱i̱ wa ba teendo. [	WARN
+Waja---Waja-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 023 014 Bu yo̱o̱gi̱ yi̱ri̱ bunam, mba ku̱lu̱mba te̱e̱ri̱ngi̱ wa yi̱ Parisayo, mba bu yi̱ batal wa! Bu ni̱ngaman wu̱tu̱ko̱la lelu, ba yi̱ se̱e̱ wu laandi pmai, pero ce̱ ku̱ru̱ co̱ku̱ro̱k ci̱ka nu̱wa bu nyaa wa. Bo̱o̱ nu̱wa tii we̱i̱ ku̱u̱lu̱ wang.]	WARN
+Waja---Waja-Bible	ENCLOSURES	Summary	lines	297 / 2	WARN
+
+# UNEXPECTED
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	(/)	1/1	WARN
+Waja---Waja-Bible	UNEXPECTED	Source/Aionian	Summary	1/1	WARN
+
+# NUMERALS
+Waja---Waja-Bible	NUMERALS	Source	1	MAT 1:1 21Ti̱na ku̱ci̱ kakaa Yesu Masiya wa, wu twii kaka Dawud, wu yo̱o̱gi̱ kaka Ibrahim.	WARN
+Waja---Waja-Bible	NUMERALS	Source	count	1	WARN
+Waja---Waja-Bible	NUMERALS	Aionian	21	040-MAT-001-001 21Ti̱na ku̱ci̱ kakaa Yesu Masiya wa, wu twii kaka Dawud, wu yo̱o̱gi̱ kaka Ibrahim.	ERROR
+Waja---Waja-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

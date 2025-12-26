@@ -1,0 +1,1814 @@
+# File Name: Holy-Bible---Holy-Bible---Japanese---New-Japanese-New-Testament---Analysis.txt
+# File Size: 164082      
+# File Date: 12/13/2025 05:41:30
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: 新改訳新約聖書
+# Bible Name English: Japanese New Testament 1965
+# Bible Language: 日本語
+# Bible Language English: Japanese
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Shinkaiyaku Seisho Kankokai
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=jpn1965
+# Bible Source Year: 1963, 1965
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Japanese---New-Japanese-New-Testament	ENCODING	Source	Holy-Bible---Japanese---New-Japanese-New-Testament---Source-Edition.VPL.txt	UTF-8	NOTICE
+Japanese---New-Japanese-New-Testament	ENCODING	Aionian	Holy-Bible---Japanese---New-Japanese-New-Testament---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Japanese---New-Japanese-New-Testament	BYTES	Source	bytes / chars	1455933 / 540053 (multi-byte)	NOTICE
+Japanese---New-Japanese-New-Testament	BYTES	Aionian	bytes / chars	1514984 / 598458 (multi-byte)	NOTICE
+Japanese---New-Japanese-New-Testament	BYTES	SourceClean	bytes / chars	1455110 / 539230 (multi-byte)	NOTICE
+Japanese---New-Japanese-New-Testament	BYTES	AionianClean	bytes / chars	1512353 / 596285 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Japanese---New-Japanese-New-Testament	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Japanese---New-Japanese-New-Testament	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Japanese---New-Japanese-New-Testament	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Japanese---New-Japanese-New-Testament	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Japanese---New-Japanese-New-Testament	AIONIAN	Aionian	missing-verse	0	NOTICE
+Japanese---New-Japanese-New-Testament	AIONIAN	Aionian	aionian-verses	200	NOTICE
+Japanese---New-Japanese-New-Testament	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Japanese---New-Japanese-New-Testament	UNPRINTABLE	Source	count	0	NOTICE
+Japanese---New-Japanese-New-Testament	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Japanese---New-Japanese-New-Testament	UNICODE	Summary	(-)Orginal	25	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Summary	(+)Aionian	53	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (M)	2307	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (A)	3004	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (T)	2498	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : ( )	16361	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (1)	8036	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (:)	7939	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (\n)	7939	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (2)	5133	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (3)	2728	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (4)	2195	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (5)	1810	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (6)	1557	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (7)	1383	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (8)	1282	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (9)	1239	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (0)	1195	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (L)	1389	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (J)	1144	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (O)	2229	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (H)	1601	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (C)	1791	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (G)	149	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (E)	1029	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (P)	450	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source(-)	Basic Latin : (V)	405	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (0)	32833	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (4)	9543	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (\t)	31756	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (M)	2309	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (A)	3013	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (T)	2500	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (1)	9061	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (\n)	7938	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (2)	6491	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (3)	3672	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (5)	3464	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (6)	3434	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : ( )	923	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (7)	1678	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (8)	1744	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (9)	1503	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (()	201	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (G)	161	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (e)	33	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (n)	201	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : ())	201	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (H)	1612	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (d)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (s)	113	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (i)	246	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (o)	84	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (,)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (t)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (:)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (h)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (l)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (u)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (.)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (L)	1394	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (J)	1143	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (O)	2230	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (C)	1792	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (E)	1028	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (P)	455	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Aionian(+)	Basic Latin : (V)	404	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (M)	2307	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (A)	3004	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (T)	2498	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : ( )	16361	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (1)	8036	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (:)	7939	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ア)	402	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ブ)	211	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ラ)	536	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ハ)	274	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ム)	322	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (の)	20404	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (子)	1211	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (孫)	48	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Symbols and Punctuation : (、)	22643	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ダ)	476	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ビ)	113	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (デ)	248	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (イ)	2442	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (エ)	2454	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ス)	3196	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (・)	274	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (キ)	781	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (リ)	1310	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ト)	929	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (系)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (図)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Symbols and Punctuation : (。)	14821	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (\n)	7939	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (2)	5133	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (に)	14668	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (サ)	484	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ク)	100	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (が)	9330	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (生)	460	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ま)	6903	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (れ)	8313	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ヤ)	858	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (コ)	166	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ユ)	322	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (と)	11460	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (そ)	4820	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (兄)	356	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (弟)	698	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (た)	22402	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ち)	4470	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (3)	2728	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (タ)	164	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (マ)	365	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ル)	581	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (よ)	3548	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (っ)	7513	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (て)	12301	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (パ)	606	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (レ)	295	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ザ)	142	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ロ)	710	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ン)	538	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (4)	2195	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ミ)	43	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ナ)	218	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ソ)	70	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (モ)	242	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (5)	1810	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ボ)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ズ)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ツ)	46	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (オ)	166	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ベ)	106	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ッ)	55	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (6)	1557	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (王)	170	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ウ)	304	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (妻)	106	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (7)	1383	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (8)	1282	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ヨ)	265	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (テ)	531	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ジ)	55	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (9)	1239	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ヒ)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ゼ)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (0)	1195	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (セ)	147	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (シ)	201	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (バ)	233	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (移)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (住)	92	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (こ)	7406	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ろ)	1122	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ニ)	115	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (後)	173	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ゾ)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ド)	90	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (夫)	89	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (フ)	91	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (呼)	203	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ば)	1510	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (る)	8462	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (は)	11680	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (か)	7230	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ら)	8107	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (お)	1698	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (な)	11777	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (で)	9926	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (代)	84	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (全)	275	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (部)	125	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (十)	319	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (四)	100	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (誕)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (次)	96	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (う)	5606	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (あ)	6979	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (母)	90	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (決)	118	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (い)	13625	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ふ)	313	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (り)	4344	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (だ)	2533	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (し)	11758	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ょ)	850	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (聖)	308	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (霊)	502	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (身)	265	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (重)	36	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (わ)	3840	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (正)	164	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (人)	3733	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (彼)	2345	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (女)	396	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (を)	10373	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (さ)	4199	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (者)	2137	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (く)	2846	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (内)	39	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (密)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (去)	107	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (せ)	1937	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (め)	2521	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (思)	359	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (巡)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (き)	2887	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (主)	906	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (使)	343	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (夢)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (現)	174	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (言)	2638	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Symbols and Punctuation : (「)	1807	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (恐)	152	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (迎)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (え)	2471	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (胎)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (宿)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (も)	5166	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (す)	8098	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (男)	105	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (産)	56	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (み)	1603	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (名)	212	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (つ)	1557	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (け)	2209	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (方)	585	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ご)	410	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (自)	1013	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (分)	947	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (民)	202	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (罪)	357	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (救)	190	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Symbols and Punctuation : (」)	1805	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (べ)	1112	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (出)	737	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (来)	1064	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (事)	263	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (預)	224	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (通)	126	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (成)	88	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (就)	31	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (見)	929	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (処)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (む)	371	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ヌ)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Halfwidth and Fullwidth Forms : (（)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (訳)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (神)	1673	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (私)	2562	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (意)	139	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (味)	45	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Halfwidth and Fullwidth Forms : (）)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (眠)	44	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (命)	161	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (じ)	786	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (入)	246	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ど)	1223	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (知)	764	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ヘ)	99	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (時)	269	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (東)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (博)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (士)	36	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (や)	784	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ほ)	483	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (星)	31	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (拝)	86	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (聞)	468	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (惑)	58	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (中)	608	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (同)	286	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (様)	53	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (祭)	229	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (司)	167	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (長)	256	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (学)	92	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (集)	135	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (問)	45	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (書)	317	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Symbols and Punctuation : (『)	384	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (地)	369	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (治)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (一)	538	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (番)	47	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (小)	121	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (支)	76	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (配)	113	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Symbols and Punctuation : (』)	384	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ひ)	485	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ん)	2054	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (間)	407	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (突)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (止)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (送)	112	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (行)	1194	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (幼)	40	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (詳)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (調)	34	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (先)	193	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (導)	58	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (所)	222	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (進)	50	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (上)	635	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (喜)	214	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (家)	288	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (伏)	43	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (宝)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (箱)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (黄)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (金)	131	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (乳)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (香)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (没)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (薬)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (贈)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (物)	472	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (げ)	561	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (へ)	232	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (戻)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (戒)	73	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (受)	527	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (別)	122	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (道)	113	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (国)	276	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (帰)	125	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (立)	420	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (連)	149	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (プ)	156	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (逃)	26	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (捜)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (殺)	156	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (夜)	82	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (死)	430	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぬ)	83	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (び)	533	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (非)	66	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (常)	57	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (近)	137	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (辺)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (二)	214	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (歳)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (以)	90	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (下)	218	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (残)	75	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ず)	630	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (年)	101	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (令)	51	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (割)	83	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (声)	154	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (泣)	48	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (嘆)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (叫)	88	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぶ)	235	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ケ)	83	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (慰)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (拒)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ね)	181	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (父)	390	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ガ)	116	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (町)	127	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ネ)	215	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (荒)	60	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (野)	54	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (教)	358	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (宣)	125	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (悔)	62	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (改)	66	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (天)	306	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (御)	797	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (づ)	132	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (用)	106	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぐ)	208	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (毛)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (着)	294	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (腰)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (皮)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (帯)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (締)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (食)	336	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (蜜)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (土)	45	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (川)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (沿)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (域)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Symbols and Punctuation : (々)	717	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (告)	188	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (白)	51	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (カ)	160	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (大)	466	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぜ)	297	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (必)	78	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (怒)	60	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (実)	304	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (結)	104	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (祖)	60	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (心)	482	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (考)	73	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (石)	99	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (起)	195	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (斧)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (木)	71	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (根)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (元)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (置)	94	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (良)	186	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (切)	100	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (倒)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (火)	74	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (投)	85	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (込)	93	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (水)	121	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (授)	45	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (力)	209	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (脱)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (値)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (手)	321	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (箕)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (持)	328	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (穀)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (場)	70	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (麦)	31	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (倉)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (納)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (殻)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (消)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (焼)	39	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (尽)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (答)	230	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (今)	240	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (承)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (開)	66	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鳩)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (覧)	52	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (愛)	375	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (悪)	327	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (魔)	53	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (試)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (日)	446	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (断)	44	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (空)	38	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (腹)	40	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (覚)	36	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (口)	137	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (都)	72	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (殿)	39	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (頂)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (足)	154	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (打)	112	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (当)	79	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (度)	140	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (高)	90	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (山)	71	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (世)	282	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (栄)	199	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (華)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (差)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (引)	188	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (仕)	144	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (離)	123	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (捕)	65	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ペ)	249	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (境)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (湖)	46	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (向)	153	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (岸)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (異)	139	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (邦)	100	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (暗)	44	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (偉)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (光)	260	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (陰)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (始)	110	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (歩)	126	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (網)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (漁)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (師)	38	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (捨)	99	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (従)	227	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (舟)	69	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (繕)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (会)	335	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (堂)	71	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (福)	185	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (音)	144	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (伝)	153	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ゆ)	220	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (病)	91	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (気)	152	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (直)	73	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (体)	98	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (広)	48	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ざ)	200	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (痛)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (苦)	188	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (風)	58	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ポ)	83	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (群)	184	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (衆)	187	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (登)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (貧)	43	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (幸)	52	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (悲)	69	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (柔)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (和)	81	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (相)	54	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (続)	101	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (義)	206	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (飢)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (渇)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (満)	127	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (深)	59	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (平)	103	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (迫)	50	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (害)	82	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雑)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (報)	85	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (前)	359	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (塩)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (何)	422	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (役)	45	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (外)	101	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (踏)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (界)	57	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (隠)	48	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (枡)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (燭)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (台)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (照)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (輝)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (律)	284	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (法)	311	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (廃)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (棄)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (滅)	115	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (限)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (点)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (画)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (最)	72	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (破)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (守)	109	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (昔)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (能)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (議)	83	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (渡)	121	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (燃)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ゲ)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (壇)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (供)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (恨)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (仲)	59	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (訴)	63	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (途)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (早)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (裁)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (判)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (官)	50	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (牢)	43	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (払)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (姦)	33	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (淫)	40	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (情)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (欲)	54	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (犯)	72	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (右)	57	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (目)	268	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (失)	50	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (落)	97	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (婚)	39	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (状)	26	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (与)	345	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (不)	230	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (貞)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (理)	175	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (由)	51	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (偽)	75	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (誓)	52	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (果)	56	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (座)	94	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (頭)	62	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (本)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (髪)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (黒)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (歯)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (頬)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (左)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (取)	318	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (強)	99	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (求)	129	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (借)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (隣)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (敵)	55	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (憎)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (祈)	160	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (太)	25	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (陽)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雨)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (降)	59	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (税)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (完)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (善)	69	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (施)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (吹)	38	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (角)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (好)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (奥)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (屋)	51	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (戸)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (返)	81	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (数)	70	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (多)	206	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (願)	155	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (要)	66	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (糧)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (負)	48	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (赦)	87	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Halfwidth and Fullwidth Forms : (［)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ー)	175	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (メ)	79	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Halfwidth and Fullwidth Forms : (］)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (顔)	50	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (油)	38	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (塗)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (洗)	38	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (虫)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (盗)	48	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (穴)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (健)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (明)	145	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (他)	58	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (軽)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (富)	48	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (飲)	107	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鳥)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (種)	87	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (蒔)	56	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (刈)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (養)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (少)	71	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (延)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (育)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (働)	96	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (紡)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぎ)	141	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (窮)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (花)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (飾)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (炉)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (草)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (装)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (信)	615	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (仰)	280	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (薄)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (第)	86	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (加)	40	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (無)	69	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (労)	47	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (量)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (梁)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (除)	36	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (犬)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (豚)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (真)	223	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (珠)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (裂)	51	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (魚)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (蛇)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (狭)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (門)	56	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (至)	52	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (羊)	116	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (貪)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (狼)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (追)	87	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (奇)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (蹟)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (然)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (岩)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (建)	58	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (賢)	26	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (比)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (洪)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (押)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (寄)	77	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (砂)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (愚)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (語)	169	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (終)	90	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (驚)	89	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (権)	124	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (威)	88	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (伸)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (話)	358	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (百)	62	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (隊)	63	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (懇)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (寝)	25	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (資)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (格)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (申)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (兵)	55	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (西)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (卓)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (放)	68	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ゅ)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (熱)	75	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (床)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (夕)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (背)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (回)	69	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (狐)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (巣)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (枕)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (葬)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (許)	50	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (乗)	71	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (暴)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (波)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (助)	52	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぼ)	89	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (墓)	58	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (狂)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (飼)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (駆)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (運)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (収)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (席)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (医)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (丈)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (招)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (婿)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (添)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (友)	34	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (新)	72	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (布)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (古)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (継)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (酒)	59	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (袋)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (流)	26	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (両)	53	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (保)	51	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (管)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (娘)	53	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (血)	106	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (振)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (笛)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (騒)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (笑)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (盲)	48	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (村)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (弱)	52	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (穫)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (汚)	86	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (制)	25	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (徒)	171	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ピ)	131	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (党)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (員)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (裏)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (遣)	136	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (胴)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (巻)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (貨)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (銀)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (銅)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (旅)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (枚)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (杖)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (適)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (安)	141	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (耳)	74	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (傾)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ゴ)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (罰)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (総)	31	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (督)	40	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (及)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (示)	110	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (親)	78	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (逆)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (耐)	71	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (忍)	66	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (確)	101	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (族)	84	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (済)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (羽)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雀)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (売)	46	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (認)	92	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (剣)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (嫁)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (息)	127	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (字)	100	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (架)	87	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (杯)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (漏)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (注)	54	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (獄)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (託)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (待)	62	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (揺)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (葦)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (宮)	85	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (備)	40	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (激)	51	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (攻)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (奪)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (市)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (君)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (踊)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (弔)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (歌)	25	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (恵)	212	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (証)	131	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (責)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (灰)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (定)	105	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (疲)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (荷)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (休)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (優)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (畑)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (穂)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (摘)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (読)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (冒)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (片)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (質)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (匹)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (談)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぞ)	64	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (選)	66	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (争)	39	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (路)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (折)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (燈)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (勝)	46	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (利)	60	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (望)	147	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (輪)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (財)	34	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (縛)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (初)	121	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (略)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (散)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (涜)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (三)	160	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (晩)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (説)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (南)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (掃)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (七)	108	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (態)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (邪)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (姉)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (妹)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (浜)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (芽)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (枯)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (倍)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (六)	31	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (豊)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (悟)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鈍)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (遠)	127	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (困)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (難)	75	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (毒)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (抜)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (期)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (束)	83	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (菜)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (枝)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (作)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (粉)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (買)	38	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (商)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (海)	68	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (類)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぱ)	56	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (器)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (郷)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (里)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (得)	108	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (工)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (尊)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (敬)	87	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (侍)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (張)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (祝)	68	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (堅)	47	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (約)	118	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (首)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (盆)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (載)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (列)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (寂)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (刻)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (解)	111	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (五)	65	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (余)	25	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (千)	74	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (陸)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (悩)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (幽)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (沈)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (疑)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (付)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (刑)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (存)	39	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (植)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (品)	51	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (具)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (動)	71	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぴ)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (面)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (感)	89	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (謝)	70	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (頼)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (晴)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (朝)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (模)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (忘)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (論)	58	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (合)	143	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (幾)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (尋)	74	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (老)	67	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (損)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (応)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (姿)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (変)	33	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (衣)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (幕)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (造)	101	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雲)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (包)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (触)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (幻)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (対)	251	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (曲)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (貢)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (務)	47	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (釣)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (低)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (臼)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (忌)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (避)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (永)	93	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (迷)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (九)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (扱)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (清)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (算)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (万)	75	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (猶)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (予)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (免)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (絞)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (吏)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (創)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (独)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (青)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (欠)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (積)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (針)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (園)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雇)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (監)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (順)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (賃)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (文)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (句)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (暑)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (辛)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (抱)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (贖)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (価)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (黙)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (掛)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (敷)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ホ)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (替)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (賛)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (美)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (泊)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (翌)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (葉)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (互)	112	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (遊)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (垣)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (掘)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (農)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (貸)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (容)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (季)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (節)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (違)	46	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (礎)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (砕)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (飛)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (披)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (露)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (宴)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (設)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (客)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雄)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (牛)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (畜)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (整)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (恥)	39	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (礼)	124	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (服)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (基)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (色)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (肖)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (像)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (銘)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (復)	52	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (活)	70	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (際)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (専)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (占)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (肩)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (指)	39	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (経)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (札)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (幅)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (宗)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (誠)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (皿)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (側)	33	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (縦)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (骨)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (記)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (念)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (碑)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (盛)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (翼)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (兆)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (戦)	46	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (震)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (冷)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (惨)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (冬)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ゃ)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (月)	33	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (象)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (響)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (夏)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (過)	81	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ノ)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (任)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (忠)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (慮)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (遅)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (店)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (伴)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (位)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (裸)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (舞)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (越)	40	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (庭)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (膏)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (憤)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (慨)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (乏)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (埋)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (機)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鉢)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (浸)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (契)	36	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鶏)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鳴)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (誘)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (陥)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (肉)	142	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (棒)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (撃)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (軍)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (団)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (毎)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (拠)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (協)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (末)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (庫)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (陶)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (段)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (囚)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (釈)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (邸)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (緋)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (冠)	26	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (編)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (混)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (掲)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (走)	31	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (綿)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (酸)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (含)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (グ)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (亜)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (麻)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (閣)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (封)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (印)	34	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (週)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雪)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (急)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (額)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (R)	1508	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (織)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (獣)	58	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (評)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (表)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (屈)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (派)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (退)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雷)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (暇)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (囲)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	General Punctuation : (―)	198	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (増)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (苗)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (熟)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (静)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (怖)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鎖)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (昼)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (傷)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ギ)	44	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (険)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (紛)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (源)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (嬢)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (煩)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (乱)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (軒)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (護)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (訪)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (臣)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (半)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (衛)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (遺)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (組)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (固)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (漕)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (閉)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (端)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (再)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (欺)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ェ)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (舌)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (絶)	37	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (眼)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (到)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (特)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (留)	24	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (腕)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (唱)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (反)	64	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (暮)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (題)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (曇)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (裕)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (原)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (茂)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (擬)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (柴)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (個)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (唯)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (性)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (献)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (費)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (案)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (純)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (粋)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (階)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (素)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (努)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (致)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (例)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (扇)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (宅)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (紫)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (嘲)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (弄)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (午)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (有)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (料)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (転)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (朽)	27	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (届)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (L)	1389	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (U)	1170	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (K)	1145	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (序)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (妊)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (職)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (習)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (慣)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (襲)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (楽)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (臨)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (可)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (卑)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (八)	20	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (板)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (顧)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (涯)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (識)	40	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (公)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (録)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (勅)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (皇)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (帝)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (筋)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (勢)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (犠)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (牲)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (虔)	41	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (啓)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (刺)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (貫)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (谷)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (丘)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (給)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (形)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ュ)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (朗)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (係)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (歓)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ャ)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (諸)	45	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (瓦)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (飽)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (哀)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (侮)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (辱)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (恩)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (訓)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (練)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (似)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (据)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Hiragana : (ぺ)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (伺)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (棺)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (涙)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (執)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (快)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (秘)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (危)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (看)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (視)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (底)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (遂)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (準)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鋤)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (酬)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (介)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (卵)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (武)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (吸)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (房)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (妨)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (計)	31	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (弁)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (停)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (警)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (烏)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (酔)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (抗)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (災)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (塔)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (肥)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (北)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (腫)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (井)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (譲)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (催)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (街)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (築)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (交)	22	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (講)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (蕩)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (湯)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (豆)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (我)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (債)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (細)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (炎)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (淵)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (桑)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (耕)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (硫)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (胸)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (塁)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (隔)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (否)	21	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (勇)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (詩)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (篇)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (奉)	30	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (疫)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (亡)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (刃)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (虜)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (想)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (若)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (汗)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (浴)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (接)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (禁)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (懲)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (景)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (的)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (召)	61	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (J)	1144	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (O)	2229	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (H)	1601	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (関)	29	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (縁)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (滞)	28	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (在)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (衰)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (属)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (賜)	44	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (泉)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (故)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (室)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (池)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (廊)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (等)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (怪)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (誉)	32	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (畔)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (隻)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (益)	46	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (仮)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (庵)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (規)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (発)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (婦)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (奴)	59	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (隷)	59	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (泥)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (牧)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (居)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (臭)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (策)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (餐)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (粒)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (範)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (孤)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (児)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (誤)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (患)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (敢)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (寒)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (炭)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (暖)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (称)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (縫)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (了)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (槍)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (速)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (釘)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (跡)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (距)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (C)	1791	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (興)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (旬)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (甘)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (煙)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (勧)	49	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (共)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (皆)	19	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (胆)	25	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (普)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (著)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (脅)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (携)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (影)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (舎)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (チ)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ゥ)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (局)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (査)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (励)	38	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (提)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (虐)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (胞)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (拾)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (紅)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (偶)	35	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (領)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (煮)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (術)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (汁)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (宦)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (馬)	23	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (車)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (紙)	43	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (謀)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (城)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (壁)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (隅)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (援)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鉄)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (構)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (演)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (船)	42	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (島)	15	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (奨)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (貴)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (企)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (検)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (討)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (墟)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (化)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (趣)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (旨)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (航)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (即)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (採)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (厳)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (詔)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (哲)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (珍)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (探)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (技)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (業)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (吐)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (廷)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (件)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (帆)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (祷)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ワ)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (型)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (繁)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (劇)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (州)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (促)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (式)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (擾)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (窓)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (沖)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (達)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (港)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (謙)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (遜)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (程)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (惜)	12	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (未)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (率)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (営)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (粛)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (衝)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (諾)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (騎)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (革)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (短)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (寛)	16	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (審)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (拘)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (陪)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (被)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (儀)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (脳)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (条)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (述)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (精)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (希)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (硬)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (票)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (委)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (各)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (穏)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (錨)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (綱)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (浅)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (瀬)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (翻)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (昨)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (漂)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (測)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (礁)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (江)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (潮)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (泳)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (厚)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (痢)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (壮)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (慈)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (誇)	69	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (壊)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (効)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (為)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (潔)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (極)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (将)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (虚)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (志)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (圧)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (敏)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (区)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (獲)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (敗)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (栽)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (培)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (慎)	17	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (勤)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (勉)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (怠)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (讐)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (酩)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (酊)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (徳)	18	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (醵)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ィ)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (推)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (薦)	13	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (朴)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (筆)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (浮)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (瞭)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (慢)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (娼)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (縮)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (秩)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (競)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (賞)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (闘)	9	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (拳)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (崇)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (吟)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (較)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (劣)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鏡)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (映)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (琴)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (単)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (瞬)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (補)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (墨)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (巧)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (標)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (徹)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (慕)	11	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (奮)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (塞)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (己)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (担)	6	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (賊)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (凍)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (控)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (G)	149	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (輩)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (柱)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (験)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (稚)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (蔑)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (喩)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (酵)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (E)	1029	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (P)	450	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (簡)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (冗)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (盾)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (矢)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (I)	346	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (握)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (籍)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (遇)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (訣)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (償)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (凱)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (旋)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (批)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (号)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (挙)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (如)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (俗)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (拐)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (温)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (銭)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (謹)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (痺)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鍛)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (按)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (堕)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (簿)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (偏)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (胃)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (腐)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (徴)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (募)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (癌)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (粗)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (詐)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (矯)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (更)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (久)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (請)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (B)	303	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (套)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (因)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (鋭)	8	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (髄)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (写)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (机)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (垂)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (蓋)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (課)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雌)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (赤)	7	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (周)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (偵)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (察)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (征)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (陣)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (拷)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (抵)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (森)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (操)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (憂)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (霧)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (秋)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (春)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (横)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (干)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (渉)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (憶)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (溶)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (康)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (D)	25	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Basic Latin : (V)	405	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	Katakana : (ァ)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (碧)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (玉)	10	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (緑)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (虹)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (晶)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (央)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (弓)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (雹)	4	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (馳)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (尾)	5	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (億)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (巨)	3	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (竜)	14	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (熊)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (傲)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (童)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (絹)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (牙)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (桂)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (姻)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (染)	1	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (透)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (尺)	2	NOTICE
+Japanese---New-Japanese-New-Testament	UNICODE	Source	CJK Unified Ideographs : (縞)	1	NOTICE
+
+# VERSIFICATION
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	041-MAR-007-017	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	041-MAR-011-027	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	041-MAR-015-029	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	042-LUK-001-002	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	042-LUK-001-075	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	042-LUK-011-052	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	042-LUK-017-037	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	042-LUK-023-018	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	042-LUK-024-041	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	043-JOH-005-005	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	044-ACT-008-038	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	044-ACT-015-035	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	044-ACT-024-008	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	044-ACT-028-030	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	045-ROM-002-020	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Summary	missing	18	WARN
+Japanese---New-Japanese-New-Testament	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Source	()	0 / 0	NOTICE
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Aionian	()	201 / 201	NOTICE
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Japanese---New-Japanese-New-Testament	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Japanese---New-Japanese-New-Testament	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Japanese---New-Japanese-New-Testament	NUMERALS	Source	count	0	NOTICE
+Japanese---New-Japanese-New-Testament	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) ［さて、週の初めの日の朝早くによみがえったイエスは、まずマグダラのマリヤにご自分を現わされた。イエスは、以前に、この女から七つの悪霊を追い出されたのであった。	WARN
+Japanese---New-Japanese-New-Testament	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

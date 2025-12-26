@@ -1,0 +1,511 @@
+# File Name: Holy-Bible---Holy-Bible---Shi---Mashi-Bible---Analysis.txt
+# File Size: 41484       
+# File Date: 12/13/2025 05:58:38
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Bibliya Ntagatifu Omu Mashi
+# Bible Name English: Shi Mashi Bible
+# Bible Language: Mashi
+# Bible Language English: Shi
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution 4.0
+# Bible Source: BUKAVU Mashi and other Kivu Languages Bible
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=shr
+# Bible Source Year: 2024
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Shi---Mashi-Bible	ENCODING	Source	Holy-Bible---Shi---Mashi-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Shi---Mashi-Bible	ENCODING	Aionian	Holy-Bible---Shi---Mashi-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Shi---Mashi-Bible	BYTES	Source	bytes / chars	5221536 / 4897543 (multi-byte)	NOTICE
+Shi---Mashi-Bible	BYTES	Aionian	bytes / chars	4793329 / 4508571 (multi-byte)	NOTICE
+Shi---Mashi-Bible	BYTES	SourceClean	bytes / chars	5220742 / 4896749 (multi-byte)	NOTICE
+Shi---Mashi-Bible	BYTES	AionianClean	bytes / chars	4789846 / 4505103 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Shi---Mashi-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Shi---Mashi-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Shi---Mashi-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Shi---Mashi-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Shi---Mashi-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Shi---Mashi-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Shi---Mashi-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Shi---Mashi-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Shi---Mashi-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Shi---Mashi-Bible	UNICODE	Summary	(-)Orginal	94	NOTICE
+Shi---Mashi-Bible	UNICODE	Summary	(+)Aionian	95	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (G)	3727	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (E)	17583	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (N)	25388	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : ( )	625262	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (1)	35214	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (:)	45385	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (A)	22806	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (h)	178881	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (a)	576051	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (m)	185536	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (u)	256493	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (r)	174759	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (o)	190978	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (n)	254565	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (d)	45902	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ê)	21317	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (â)	63915	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (g)	120216	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (l)	138013	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (e)	222344	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	General Punctuation : (’)	56673	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (i)	298903	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (.)	36709	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (\n)	35453	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (2)	24407	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (I)	8911	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (y)	122117	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (à)	18576	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (c)	38358	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (,)	70283	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (v)	5212	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (p)	10268	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (w)	120540	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (k)	142732	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ô)	14294	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (s)	82335	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (b)	201827	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (M)	14156	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (û)	16223	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (î)	42045	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (3)	14030	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: («)	6041	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (O)	15813	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (è)	4762	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (»)	6041	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (4)	10625	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (j)	20617	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (z)	56372	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (5)	8125	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (f)	8925	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (B)	9538	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (6)	7397	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (7)	6720	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (t)	28623	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (8)	6498	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (9)	6326	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (0)	6021	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (;)	5250	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (R)	7006	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (L)	4946	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (Y)	8065	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (-)	4602	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ù)	2712	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (K)	7599	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (()	139	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : ())	139	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (P)	4726	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (H)	6061	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (T)	4036	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (W)	1278	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ò)	949	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (C)	7091	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (?)	3202	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (!)	3130	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (Z)	2303	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	General Punctuation : (“)	2828	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	General Punctuation : (”)	2828	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (S)	12265	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (J)	5347	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (D)	4211	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (U)	3688	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (F)	409	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (Î)	98	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (')	169	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : ([)	16	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (])	16	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (X)	1213	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	General Punctuation : (…)	23	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (V)	1267	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (­)	2035	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Spacing Modifier Letters : (ʿ)	109	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	General Punctuation : (‘)	26	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Basic Latin : (_)	1	NOTICE
+Shi---Mashi-Bible	UNICODE	Source(-)	Latin-1 Supplement: (Â)	1	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130542	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42407	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124340	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3639	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	16959	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	23438	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	19578	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	157308	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	503565	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	488147	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	163120	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	223751	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	153804	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	166047	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	221558	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	40578	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ê)	18802	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (â)	56259	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	104822	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	120922	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	196063	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	General Punctuation : (’)	49265	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	263163	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	32209	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31084	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31090	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	6815	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	106909	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (à)	16263	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	33479	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	62318	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	4607	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	8957	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	106387	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	124281	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ô)	12216	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	72366	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	173972	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	12076	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (û)	14385	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (î)	36626	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17189	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	9394	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: («)	5758	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	14317	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (è)	4254	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (»)	5758	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20036	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	17691	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	49803	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	7719	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	8250	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10722	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7448	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	25083	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7842	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9286	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (;)	4779	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	5248	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	4790	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (Y)	7349	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	4127	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ù)	2400	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	7248	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (()	387	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : ())	387	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	4594	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	5891	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	3291	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	785	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ò)	859	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	6828	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	3114	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	2971	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	2286	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	General Punctuation : (“)	2578	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	General Punctuation : (”)	2578	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	10109	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	5001	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	3553	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3673	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (F)	381	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (Î)	94	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (')	161	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1212	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	General Punctuation : (…)	21	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1265	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (­)	1830	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	General Punctuation : (‘)	24	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	14	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Basic Latin : (])	13	NOTICE
+Shi---Mashi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (G)	3727	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (E)	17583	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (N)	25388	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : ( )	625262	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (1)	35214	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (:)	45385	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (A)	22806	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (h)	178881	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (a)	576051	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (m)	185536	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (u)	256493	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (r)	174759	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (o)	190978	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (n)	254565	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (d)	45902	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (ê)	21317	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (â)	63915	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (g)	120216	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (l)	138013	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (e)	222344	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	General Punctuation : (’)	56673	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (i)	298903	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (.)	36709	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (\n)	35453	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (2)	24407	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (I)	8911	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (y)	122117	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (à)	18576	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (c)	38358	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (,)	70283	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (v)	5212	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (p)	10268	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (w)	120540	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (k)	142732	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (ô)	14294	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (s)	82335	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (b)	201827	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (M)	14156	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (û)	16223	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (î)	42045	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (3)	14030	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: («)	6041	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (O)	15813	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (è)	4762	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (»)	6041	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (4)	10625	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (j)	20617	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (z)	56372	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (5)	8125	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (f)	8925	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (B)	9538	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (6)	7397	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (7)	6720	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (t)	28623	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (8)	6498	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (9)	6326	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (0)	6021	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (;)	5250	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (R)	7006	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (L)	4946	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (Y)	8065	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	General Punctuation : (–)	1	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (-)	4602	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (ù)	2712	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (K)	7599	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (()	139	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : ())	139	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (P)	4726	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (H)	6061	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (T)	4036	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (W)	1278	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (ò)	949	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (C)	7091	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (?)	3202	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (!)	3130	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (Z)	2303	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	General Punctuation : (“)	2828	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	General Punctuation : (”)	2828	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (S)	12265	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (J)	5347	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (ì)	96	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (/)	3	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (D)	4211	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (U)	3688	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (F)	409	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (Î)	98	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (')	169	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (")	13	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (é)	5	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : ([)	16	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (])	16	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (À)	6	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	General Punctuation : (…)	23	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (Ô)	8	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (V)	1267	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (­)	2035	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Spacing Modifier Letters : (ʿ)	109	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	General Punctuation : (‘)	26	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (Ê)	2	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Basic Latin : (_)	1	NOTICE
+Shi---Mashi-Bible	UNICODE	Source	Latin-1 Supplement: (Â)	1	NOTICE
+
+# VERSIFICATION
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	002-EXO-020-026	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-073	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-081-016	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-010	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-011	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-012	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-013	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-014	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-015	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-016	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-017	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-018	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-019	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	023-ISA-064-012	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	028-HOS-008-008	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	028-HOS-008-009	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	028-HOS-008-010	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	028-HOS-008-011	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	028-HOS-008-012	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	028-HOS-008-013	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	028-HOS-008-014	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	extra	026-EZE-021-033	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	extra	026-EZE-021-034	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	extra	026-EZE-021-035	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	extra	026-EZE-021-036	WARN
+Shi---Mashi-Bible	VERSIFICATION	Aionian	extra	026-EZE-021-037	WARN
+Shi---Mashi-Bible	VERSIFICATION	Summary	missing	22	WARN
+Shi---Mashi-Bible	VERSIFICATION	Summary	extra	5	WARN
+
+# ENCLOSURES
+Shi---Mashi-Bible	ENCLOSURES	Source	()	139 / 139	NOTICE
+Shi---Mashi-Bible	ENCLOSURES	Source	[]	16 / 16	NOTICE
+Shi---Mashi-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Shi---Mashi-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Shi---Mashi-Bible	ENCLOSURES	Aionian	()	387 / 387	NOTICE
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[]	14 / 13	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Shi---Mashi-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Shi---Mashi-Bible	ENCLOSURES	Source	(1/0)	NUM 26:10 Obudaka bwanaciyashama bwabamirangusa (na Korè, galya mango omurhwe gwâge gwafaga, go mango omuliro gwamiragusagya bantu magana abirhi na makumi arhanu. Babà lwîganyo oku bandi.	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	(0/1)	NUM 26:11 Ci kwône bene Korè barhafaga).	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	(1/0)	DEU 3:13 Bene Menashè baguma n’abahà olundi luhande lwa Galadi na Bashani yêshi, bwo bwàli bwâmi bwa Ogu. (Argobu yêshi haguma na Bashani yêshi, kwo bamuderha mpu cihugo ca Barefayimi.	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	(0/1)	DEU 3:14 Yayiri mwene Menashè, erhi àmayanka omurhundu gw’Argobu gwoshi kuhika oku lubibi lw’Abanya-Geshuri n’Abanya-Makà, ebyo bishagala babiyîrika izîno lyâge, byakaziderhwa mpu «bishagala bya Yayiri» kwo binaciderhwa kuhika ene.)	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	(1/0)	1KI 9:16 (Faraoni mwâmi w’e Mîsiri naye anasôka mpu agend’inyaga olugo lw’e Gezeri. Erhi abà amaludûlika muliro n’okunigûza abanya-Kanâni bayûbakagamwo boshi, aluhâna nshololo oku buhya bw’omwâli, mukà Salomoni.	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	(0/1)	1KI 9:17 Salomoni ayûbaka Gezeri buhyâhya) na Beti-Horoni wali olunda lw’idako.	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	MAT 17:20 Yezu anacibabwîra, erhi: «Kubula bwêmêre kwinyu kwarhumire. “Mmubwîre okuli, nka mugwêrhe obwêmêre buli nka mogomogo ya sinapi”, “mwanabwîra eyi ntondo, erhi”: “Rheng’aha”, “ojè hala”; “enagende, na ntâco cankammuyabira”». [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	MAT 17:21 Shetani wa bênè oyu arhahulusibwa n’ezirhali nsengero n’okucîshalisa.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	MAT 18:10 “Mumanye murhagayaguzagya ciru n’omuguma muli abà bâna barhôrhô: mmubwîzire ntyo bulya Bamalahika bâbo omu mpingu barhahusa okubona obusù bwa Larha oli omu mpingu”». [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	MAT 18:11 Bulya Mwene-omuntu ayishir’iciza ebyàli bihezire.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	MAT 21:43 Co cirhumire mmubwîra nti: «Mwanyagwa Obwâmi bwa Nyamuzinda, buhâbwe abantu bâbukolera». [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	MAT 21:44 Owâkulumbe kuli eryo ibuye, kuvunika anavunike n’oyu lyâkulumbekwo, kushanguka anashanguke.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 «Yajowe mweki, bashamuka b’ihano ninyu, ezi ndyâlya zikayigalira abantu Obwâmi bw’empingu! Mumanyire oku murhakabubalala­mwo n’abalonza okubujamwo mudwîrhe mwabahanza. [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 “Muli bahanya, Bashamuka b’ihano ninyu Bafarizeyi, ezi ndyâlya zikaja zalya eby’abakana zanaderha amasala malîmalî. Okwo kwârhume mwayagîrizibwa omu lubanja.]”	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	MAR 9:43 Akabà okuboko kwâwe kunarhume wahirima omu câha, onakutwe: kuli kwinjà kulusha okujà omu Buzîne oli kabokwè, ahâli h’okuhêka maboko abiri omu cîna c’omuliro gurhazima, [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	MAR 9:44 omu omuvunyu gwâbyo gurhafà n’omuliro gurhazima.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	MAR 9:45 N’akabà okugulu kwâwe kunarhume wahirima omu câha, okutwe: kuli kwinjà kulusha okujà omu Buzîne oli kagulu, ahâli h’okuhêka amagulu gombi omu nyenga y’omuliro, [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	MAR 9:46 omu omuvunyu gwâbyo gurhafà n’omuliro gurhazima.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	MAR 11:25 Na nka muyimanzire, mudwîrhe mwashenga, akabà hali oyu mubikîre akarhinda emurhima, mûmu­babalire, lyo Sho w’empingu naye ammubabalira amabî ginyu». [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	MAR 11:26 N’akabà murhababalîri abinyu bantu, naye Sho w’empingu arhamubabalire ebyâha binyu.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	LUK 17:35 “bakazi babiri bâbè badwîrhe bashwera haguma, muguma ahêkwe n’owâbo alekwe”; [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	LUK 17:36 “bantu babiri banâbè bali omu ishwa, muguma ahêkwe n’owâbo alekwe]”».	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	ACT 15:33 Erhi bayûsayo nsiku, abemêzi babalika mpu bashubire n’omurhûla emwa balya bâli babarhumire. [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	ACT 15:34 ]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[1/0]	ROM 16:23 Gâyo ompandîsa, nie n’Ekleziya yoshi, mpu asingi. Erasto, ye mubîsi w’ebirugu by’ecishagala, bona mwene wîrhu Kwarto, mpu mmulamuse. [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Source	[0/1]	ROM 16:27 Kuli oyo Nyamuzinda, ôbà yêne Mushinganyanya, irenge emyâka n’emyâka, Yezu Kristu orhumire! Amen!]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 026 010 Obudaka bwanaciyashama bwabamirangusa (na Korè, galya mango omurhwe gwâge gwafaga, go mango omuliro gwamiragusagya bantu magana abirhi na makumi arhanu. Babà lwîganyo oku bandi.	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 026 011 Ci kwône bene Korè barhafaga).	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 Bene Menashè baguma n’abahà olundi luhande lwa Galadi na Bashani yêshi, bwo bwàli bwâmi bwa Ogu. (Argobu yêshi haguma na Bashani yêshi, kwo bamuderha mpu cihugo ca Barefayimi.	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 Yayiri mwene Menashè, erhi àmayanka omurhundu gw’Argobu gwoshi kuhika oku lubibi lw’Abanya-Geshuri n’Abanya-Makà, ebyo bishagala babiyîrika izîno lyâge, byakaziderhwa mpu «bishagala bya Yayiri» kwo binaciderhwa kuhika ene.)	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 009 016 (Faraoni mwâmi w’e Mîsiri naye anasôka mpu agend’inyaga olugo lw’e Gezeri. Erhi abà amaludûlika muliro n’okunigûza abanya-Kanâni bayûbakagamwo boshi, aluhâna nshololo oku buhya bw’omwâli, mukà Salomoni.	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 009 017 Salomoni ayûbaka Gezeri buhyâhya) na Beti-Horoni wali olunda lw’idako.	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 017 020 Yezu anacibabwîra, erhi: «Kubula bwêmêre kwinyu kwarhumire. “Mmubwîre okuli, nka mugwêrhe obwêmêre buli nka mogomogo ya sinapi”, “mwanabwîra eyi ntondo, erhi”: “Rheng’aha”, “ojè hala”; “enagende, na ntâco cankammuyabira”». [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 017 021 Shetani wa bênè oyu arhahulusibwa n’ezirhali nsengero n’okucîshalisa.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 018 010 “Mumanye murhagayaguzagya ciru n’omuguma muli abà bâna barhôrhô: mmubwîzire ntyo bulya Bamalahika bâbo omu mpingu barhahusa okubona obusù bwa Larha oli omu mpingu”». [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 018 011 Bulya Mwene-omuntu ayishir’iciza ebyàli bihezire.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 021 043 Co cirhumire mmubwîra nti: «Mwanyagwa Obwâmi bwa Nyamuzinda, buhâbwe abantu bâbukolera». [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 021 044 Owâkulumbe kuli eryo ibuye, kuvunika anavunike n’oyu lyâkulumbekwo, kushanguka anashanguke.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 «Yajowe mweki, bashamuka b’ihano ninyu, ezi ndyâlya zikayigalira abantu Obwâmi bw’empingu! Mumanyire oku murhakabubalala­mwo n’abalonza okubujamwo mudwîrhe mwabahanza. [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 023 014 “Muli bahanya, Bashamuka b’ihano ninyu Bafarizeyi, ezi ndyâlya zikaja zalya eby’abakana zanaderha amasala malîmalî. Okwo kwârhume mwayagîrizibwa omu lubanja.]”	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 043 Akabà okuboko kwâwe kunarhume wahirima omu câha, onakutwe: kuli kwinjà kulusha okujà omu Buzîne oli kabokwè, ahâli h’okuhêka maboko abiri omu cîna c’omuliro gurhazima, [ (Geenna g1067)	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 044 omu omuvunyu gwâbyo gurhafà n’omuliro gurhazima.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 045 N’akabà okugulu kwâwe kunarhume wahirima omu câha, okutwe: kuli kwinjà kulusha okujà omu Buzîne oli kagulu, ahâli h’okuhêka amagulu gombi omu nyenga y’omuliro, [ (Geenna g1067)	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 046 omu omuvunyu gwâbyo gurhafà n’omuliro gurhazima.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 011 025 Na nka muyimanzire, mudwîrhe mwashenga, akabà hali oyu mubikîre akarhinda emurhima, mûmu­babalire, lyo Sho w’empingu naye ammubabalira amabî ginyu». [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 011 026 N’akabà murhababalîri abinyu bantu, naye Sho w’empingu arhamubabalire ebyâha binyu.]	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 017 035 “bakazi babiri bâbè badwîrhe bashwera haguma, muguma ahêkwe n’owâbo alekwe”; [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 017 036 “bantu babiri banâbè bali omu ishwa, muguma ahêkwe n’owâbo alekwe]”».	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 015 033 Erhi bayûsayo nsiku, abemêzi babalika mpu bashubire n’omurhûla emwa balya bâli babarhumire. [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[1/0]	045 ROM 016 023 Gâyo ompandîsa, nie n’Ekleziya yoshi, mpu asingi. Erasto, ye mubîsi w’ebirugu by’ecishagala, bona mwene wîrhu Kwarto, mpu mmulamuse. [	WARN
+Shi---Mashi-Bible	ENCLOSURES	Aionian	[0/1]	045 ROM 016 027 Kuli oyo Nyamuzinda, ôbà yêne Mushinganyanya, irenge emyâka n’emyâka, Yezu Kristu orhumire! Amen!] (aiōn g165)	WARN
+Shi---Mashi-Bible	ENCLOSURES	Summary	lines	26 / 25	WARN
+
+# UNEXPECTED
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(_)	1/0	WARN
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	(/)	3/3	WARN
+Shi---Mashi-Bible	UNEXPECTED	Source/Aionian	Summary	4/3	WARN
+
+# NUMERALS
+Shi---Mashi-Bible	NUMERALS	Source	3	GEN 22:13 13 Abrahamu, alangira engandabuzi ehangarhine amahembe omu ishaka; Abrahamu aj’irhôla erya ngandabuzi ayirherekêra nterekêro ya kusingonoka ahâli h’omugala.	WARN
+Shi---Mashi-Bible	NUMERALS	Source	4	GEN 24:46 Ho na halya, akûla akabindi kâge oku cirhugo, ederha, erhi: «Nywaga nagend’idômera n’engamiya zâwe». Nanywire, agal’inywêsa n’engamiya zâni. 4	WARN
+Shi---Mashi-Bible	NUMERALS	Source	5	GEN 44:35 [Ntabonaga mulongo gwa 35 aha, bulya WLC aguhesire omu cigabi cikulikire.]	WARN
+Shi---Mashi-Bible	NUMERALS	Source	1	EXO 36:10 Bâkaz’ilungira birhebo birhanu haguma, na bindi birhanu haguma. 1	WARN
+Shi---Mashi-Bible	NUMERALS	Source	0	NUM 30:1 Mûsa anacibwîra bene Israheli nk’oku Nyamubâho anali amurhegesire koshi (cfr 29, 40).	WARN
+Shi---Mashi-Bible	NUMERALS	Source	0	DEU 23:1 Omuntu arhakayanka omukazi w’îshe, arhakanalengeza ecikwi c’ecirondo c’îshe (hali abajira ogu mulongo 22, 30 omu cihebraniya).	WARN
+Shi---Mashi-Bible	NUMERALS	Source	1	JOB 11:1 Oburhimanya bwa Nyamuzinda bwayâgîriza Ayubu 11 1 Sofari w’e Nâmati aj’eluhya, aderha, erhi:	WARN
+Shi---Mashi-Bible	NUMERALS	Source	0	ECC 9:13 Mbwîne okundi kubî hanôla igulu, nabwîne nka kurhalusire olugero. 9, 10: Kuli kwinjà ensiku z’akalamo kâwe hano igulu ozigeze omu kukazijira aminjà. Bulya amango wâbà wafîre ntâco ciru n’eciguma wakacijira.	WARN
+Shi---Mashi-Bible	NUMERALS	Source	1	JER 49:6 (Cikwône buzinda nayishikûla empira za bene Abaamoniti omu bujà-Kanwa ka Nyakasane). 49, 1: Milkomu, ali nyamuzinda w’obwîhambi w’omu ishanja lya Abahamoniti.	WARN
+Shi---Mashi-Bible	NUMERALS	Source	3	EZE 17:8 Omu ishwa ly’okuyêra, oku burhambi bw’amîshi manene kwo gwàli guhinzirwe, lyo gujakwo amashami gunaleheke, gubè muzâbîbu mwinjinjà. 17, 3: Eyo nyunda nnene ye Nabukondonozori.	WARN
+Shi---Mashi-Bible	NUMERALS	Source	3	DAN 4:13 Omurhima gwago gurhacibaga murhima gwa muntu, guhâbwe omurhima gw’ensimba na byanda nda bigere erhi eyôsire ntyôla. 4, 10: Omulanzi: ye malahika. 2. 13: Byanda nda: kwo kuderha myâka nda.	WARN
+Shi---Mashi-Bible	NUMERALS	Source	6	SIR 8:12 Orhahâga omuntu okulenzire misî akantu mpu wamuhoza, n’okamuhoza oderhe oku wanahezirwe. 7. 36: Wayâka ebyâha: oyôrhe oli mwinjà ngasi lusiku ly’ôbà n’iragi ly’okuhà mwinjà olusiku luzinda.	WARN
+Shi---Mashi-Bible	NUMERALS	Source	count	12	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	13	001-GEN-022-013 13 Abrahamu, alangira engandabuzi ehangarhine amahembe omu ishaka; Abrahamu aj’irhôla erya ngandabuzi ayirherekêra nterekêro ya kusingonoka ahâli h’omugala.	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	4	001-GEN-024-046 Ho na halya, akûla akabindi kâge oku cirhugo, ederha, erhi: «Nywaga nagend’idômera n’engamiya zâwe». Nanywire, agal’inywêsa n’engamiya zâni. 4	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	1	002-EXO-036-010 Bâkaz’ilungira birhebo birhanu haguma, na bindi birhanu haguma. 1	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	29	004-NUM-029-040 Mûsa anacibwîra bene Israheli nk’oku Nyamubâho anali amurhegesire koshi (cfr 29, 40).	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	22	005-DEU-022-030 Omuntu arhakayanka omukazi w’îshe, arhakanalengeza ecikwi c’ecirondo c’îshe (hali abajira ogu mulongo 22, 30 omu cihebraniya).	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	11	018-JOB-011-001 Oburhimanya bwa Nyamuzinda bwayâgîriza Ayubu 11 1 Sofari w’e Nâmati aj’eluhya, aderha, erhi:	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	9	021-ECC-009-013 Mbwîne okundi kubî hanôla igulu, nabwîne nka kurhalusire olugero. 9, 10: Kuli kwinjà ensiku z’akalamo kâwe hano igulu ozigeze omu kukazijira aminjà. Bulya amango wâbà wafîre ntâco ciru n’eciguma wakacijira.	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	49	024-JER-049-006 (Cikwône buzinda nayishikûla empira za bene Abaamoniti omu bujà-Kanwa ka Nyakasane). 49, 1: Milkomu, ali nyamuzinda w’obwîhambi w’omu ishanja lya Abahamoniti.	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	17	026-EZE-017-008 Omu ishwa ly’okuyêra, oku burhambi bw’amîshi manene kwo gwàli guhinzirwe, lyo gujakwo amashami gunaleheke, gubè muzâbîbu mwinjinjà. 17, 3: Eyo nyunda nnene ye Nabukondonozori.	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	44	026-EZE-021-001 Akanwa ka Nyamubâho kanacintindakwo muli ebi binwa: BHS agwerhe milongo 44 yône; kurhenga 45 kuhika 49 o, u WLC yo milongo mirhanzi ya cigabi 21 ou BHS.	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	4	027-DAN-004-016 Omurhima gwago gurhacibaga murhima gwa muntu, guhâbwe omurhima gw’ensimba na byanda nda bigere erhi eyôsire ntyôla. 4, 10: Omulanzi: ye malahika. 2. 13: Byanda nda: kwo kuderha myâka nda.	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Yezu erhi afûka sêzi, olusiku lurhanzi lw’omugobe, arhang’ibonekera Mariya Magadalena, olya ahulusagyamwo bashetani nda.	WARN
+Shi---Mashi-Bible	NUMERALS	Aionian	count	12	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

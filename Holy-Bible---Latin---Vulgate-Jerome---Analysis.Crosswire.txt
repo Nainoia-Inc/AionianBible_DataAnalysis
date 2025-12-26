@@ -1,0 +1,359 @@
+# File Name: Holy-Bible---Holy-Bible---Latin---Vulgate-Jerome---Analysis.txt
+# File Size: 22794       
+# File Date: 12/13/2025 05:44:47
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Bibbia Vulgata Jerome
+# Bible Name English: Jerome Vulgate Bible
+# Bible Language: Latine
+# Bible Language English: Latin
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Saint Jerome's A.D. 405 Biblia Sacra Vulgata Latina
+# Bible Source Version: 2/16/2021
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=Vulgate
+# Bible Source Year: 405
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Latin---Vulgate-Jerome	ENCODING	Source	Holy-Bible---Latin---Vulgate-Jerome---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Latin---Vulgate-Jerome	ENCODING	Aionian	Holy-Bible---Latin---Vulgate-Jerome---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Latin---Vulgate-Jerome	BYTES	Source	bytes / chars	4882762 / 4882753 (multi-byte)	NOTICE
+Latin---Vulgate-Jerome	BYTES	Aionian	bytes / chars	3899010 / 3898811 (multi-byte)	NOTICE
+Latin---Vulgate-Jerome	BYTES	SourceClean	bytes / chars	4576688 / 4576687 (multi-byte)	NOTICE
+Latin---Vulgate-Jerome	BYTES	AionianClean	bytes / chars	3895280 / 3895092 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Latin---Vulgate-Jerome	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Latin---Vulgate-Jerome	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Latin---Vulgate-Jerome	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Latin---Vulgate-Jerome	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Latin---Vulgate-Jerome	AIONIAN	Aionian	missing-verse	0	NOTICE
+Latin---Vulgate-Jerome	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Latin---Vulgate-Jerome	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Latin---Vulgate-Jerome	UNPRINTABLE	Source	count	0	NOTICE
+Latin---Vulgate-Jerome	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Latin---Vulgate-Jerome	UNICODE	Summary	(-)Orginal	75	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Summary	(+)Aionian	73	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : ([)	29	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : ( )	689777	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (T)	1438	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (e)	452738	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (s)	282578	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (t)	312868	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (a)	291292	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (m)	198388	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (n)	229253	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (1)	32818	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (H)	3255	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (d)	104801	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (i)	409891	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (g)	36617	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (])	29	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (\n)	38690	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (G)	2801	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (0)	7908	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (:)	38934	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (p)	76802	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (r)	210081	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (c)	127708	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (o)	194923	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (v)	51999	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (D)	16221	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (u)	285550	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (l)	100659	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (2)	22210	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (b)	57110	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (f)	32514	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (y)	4097	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (q)	46807	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (3)	15127	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (x)	16820	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (4)	11465	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (5)	8770	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (6)	8000	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (7)	7315	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (h)	43409	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (8)	7132	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (9)	6508	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (P)	5724	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (E)	6663	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (A)	6448	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (z)	3267	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (C)	4474	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (I)	23602	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (M)	5972	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (L)	3047	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (S)	7384	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (N)	2744	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (R)	1675	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (F)	495	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (B)	2065	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (U)	118	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (O)	509	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (Z)	664	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (V)	71	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (k)	3399	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (J)	5958	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (K)	1585	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (Q)	37	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (*)	40	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (;)	124	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (W)	459	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (,)	2141	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (.)	1152	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (X)	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Latin-1 Supplement: ( )	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (()	2	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : ())	2	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (w)	1416	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (?)	107	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (!)	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source(-)	Basic Latin : (-)	8	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (0)	130529	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (1)	42432	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (\t)	124344	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (G)	3315	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (E)	12388	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (N)	4476	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (i)	327778	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (n)	180738	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : ( )	502916	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (p)	63618	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (r)	165293	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (c)	98759	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (o)	152428	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (e)	356800	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (a)	225878	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (v)	42388	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (t)	253052	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (D)	15146	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (u)	234139	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (s)	213149	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (l)	76143	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (m)	158406	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (\n)	31085	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (2)	31075	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (b)	43553	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (f)	27107	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (y)	2425	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (q)	40365	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (3)	17175	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (d)	85784	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (x)	12863	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (4)	20008	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (5)	10269	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (6)	10726	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (7)	7446	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (h)	26158	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (8)	7854	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (9)	9292	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (g)	28786	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (P)	5504	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (A)	13752	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (T)	3317	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (z)	1467	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (H)	6422	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (C)	5967	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (I)	10808	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (M)	6303	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (L)	3282	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (S)	10040	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (R)	4763	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (F)	419	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (B)	3061	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (U)	3617	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (O)	7112	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (Z)	2157	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (V)	1326	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (()	269	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : ())	269	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (X)	1212	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (k)	23	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (J)	4972	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : ([)	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (])	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (K)	2686	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (Q)	15	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (;)	40	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (,)	9	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (:)	2	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Basic Latin : (.)	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : ([)	29	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : ( )	689777	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (T)	1438	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (e)	452738	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (s)	282578	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (t)	312868	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (a)	291292	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (m)	198388	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (n)	229253	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (1)	32818	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (H)	3255	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (d)	104801	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (i)	409891	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (g)	36617	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (])	29	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (\n)	38690	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (G)	2801	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (0)	7908	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (:)	38934	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (p)	76802	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (r)	210081	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (c)	127708	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (o)	194923	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (v)	51999	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (D)	16221	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (u)	285550	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (l)	100659	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (2)	22210	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (b)	57110	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (f)	32514	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (y)	4097	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (q)	46807	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (3)	15127	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (x)	16820	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (4)	11465	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (5)	8770	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (6)	8000	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (7)	7315	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (h)	43409	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (8)	7132	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (9)	6508	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (P)	5724	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (E)	6663	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (A)	6448	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (z)	3267	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (C)	4474	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (I)	23602	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (M)	5972	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (L)	3047	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (S)	7384	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (N)	2744	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (R)	1675	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (F)	495	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (B)	2065	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (U)	118	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (O)	509	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (Z)	664	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (V)	71	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (k)	3399	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (J)	5958	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (K)	1585	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (Q)	37	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (*)	40	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (;)	124	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (W)	459	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (,)	2141	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (.)	1152	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (X)	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Latin-1 Supplement: ( )	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (()	2	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : ())	2	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (w)	1416	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (?)	107	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (!)	1	NOTICE
+Latin---Vulgate-Jerome	UNICODE	Source	Basic Latin : (-)	8	NOTICE
+
+# VERSIFICATION
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	001-GEN-049-032	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	002-EXO-040-013	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	002-EXO-040-014	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	006-JOS-021-038	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	006-JOS-021-039	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	044-ACT-018-004	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	044-ACT-023-025	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Summary	missing	16	WARN
+Latin---Vulgate-Jerome	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Latin---Vulgate-Jerome	ENCLOSURES	Source	()	2 / 2	NOTICE
+Latin---Vulgate-Jerome	ENCLOSURES	Source	[]	29 / 29	NOTICE
+Latin---Vulgate-Jerome	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Latin---Vulgate-Jerome	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Latin---Vulgate-Jerome	ENCLOSURES	Aionian	()	269 / 269	NOTICE
+Latin---Vulgate-Jerome	ENCLOSURES	Aionian	[]	1 / 1	NOTICE
+Latin---Vulgate-Jerome	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Latin---Vulgate-Jerome	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Latin---Vulgate-Jerome	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(*)	40/0	WARN
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Latin---Vulgate-Jerome	UNEXPECTED	Source/Aionian	Summary	40/0	WARN
+
+# NUMERALS
+Latin---Vulgate-Jerome	NUMERALS	Source	3	Daniel 12:13 Tu autem vade ad praefinitum et requiesces et stabis in sorte tua in finem dierum Cap 13 	WARN
+Latin---Vulgate-Jerome	NUMERALS	Source	count	1	WARN
+Latin---Vulgate-Jerome	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) surgens autem mane prima sabbati apparuit primo Mariae Magdalenae de qua eiecerat septem daemonia	WARN
+Latin---Vulgate-Jerome	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

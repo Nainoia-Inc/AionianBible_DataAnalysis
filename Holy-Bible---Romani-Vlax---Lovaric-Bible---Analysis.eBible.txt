@@ -1,0 +1,349 @@
+# File Name: Holy-Bible---Holy-Bible---Romani-Vlax---Lovaric-Bible---Analysis.txt
+# File Size: 34976       
+# File Date: 12/13/2025 05:55:29
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Библия пэ ловарицко романы щиб
+# Bible Name English: Romani Lovari Bible
+# Bible Language: Lovari Romani
+# Bible Language English: Romani Vlax, Lovari
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Pioneers.org
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=rmylovari
+# Bible Source Year: 2021
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Romani-Vlax---Lovaric-Bible	ENCODING	Source	Holy-Bible---Romani-Vlax---Lovaric-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCODING	Aionian	Holy-Bible---Romani-Vlax---Lovaric-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Romani-Vlax---Lovaric-Bible	BYTES	Source	bytes / chars	356313 / 206858 (multi-byte)	NOTICE
+Romani-Vlax---Lovaric-Bible	BYTES	Aionian	bytes / chars	367833 / 218338 (multi-byte)	NOTICE
+Romani-Vlax---Lovaric-Bible	BYTES	SourceClean	bytes / chars	355476 / 206021 (multi-byte)	NOTICE
+Romani-Vlax---Lovaric-Bible	BYTES	AionianClean	bytes / chars	366430 / 216975 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Romani-Vlax---Lovaric-Bible	AIONIAN	Aionian	book-not-exist	259	NOTICE
+Romani-Vlax---Lovaric-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Romani-Vlax---Lovaric-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Romani-Vlax---Lovaric-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Romani-Vlax---Lovaric-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Romani-Vlax---Lovaric-Bible	AIONIAN	Aionian	aionian-verses	5	NOTICE
+Romani-Vlax---Lovaric-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Romani-Vlax---Lovaric-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Romani-Vlax---Lovaric-Bible	UNICODE	Summary	(-)Orginal	13	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Summary	(+)Aionian	19	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : ( )	36139	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (1)	1266	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (:)	2373	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (.)	2180	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (\n)	1666	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (2)	1088	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (3)	831	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (5)	374	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (7)	328	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (8)	291	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (0)	337	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : (()	23	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source(-)	Basic Latin : ())	23	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	7843	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	2799	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	6664	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	32817	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	2179	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	1665	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	1135	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	879	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	707	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	384	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	334	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	381	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (()	28	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : ())	28	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	5	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	10	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	5	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	5	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	5	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (G)	1533	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (E)	1533	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (N)	1581	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : ( )	36139	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (1)	1266	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (:)	2373	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (А)	1065	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (н)	8400	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (г)	1612	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (л)	6728	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (у)	3781	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ы)	1547	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (м)	4142	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (а)	24182	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (с)	9165	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (т)	5096	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (р)	8008	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (о)	8617	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Д)	318	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (э)	13892	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (к)	7195	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (д)	6229	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (в)	5319	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ч)	906	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (е)	1414	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (и)	5539	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (й)	3443	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (п)	4234	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (х)	3028	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (.)	2180	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (\n)	1666	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (2)	1088	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Э)	146	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (б)	1540	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (щ)	1175	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ю)	329	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (,)	3292	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ф)	573	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (я)	2009	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (3)	831	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (О)	166	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	General Punctuation : (—)	750	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (М)	457	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (4)	776	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ё)	461	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (5)	374	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Latin-1 Supplement: («)	128	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Latin-1 Supplement: (»)	128	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (С)	295	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (з)	425	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (6)	325	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Т)	247	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ш)	1445	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (7)	328	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (8)	291	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (9)	317	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (-)	357	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (0)	337	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ь)	161	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ц)	430	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (В)	367	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ғ)	105	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (ж)	463	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (К)	532	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (;)	54	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (П)	199	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Ж)	35	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Л)	229	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Я)	428	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Ф)	23	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Х)	123	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Г)	57	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Е)	113	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Ш)	88	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Н)	185	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Ч)	25	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (?)	160	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (!)	100	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Р)	313	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (И)	320	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Ц)	28	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Ю)	1	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Щ)	13	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (У)	9	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Б)	123	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (()	23	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : ())	23	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Ё)	179	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Ғ)	1	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (")	18	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (Й)	2	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Cyrillic : (З)	19	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (R)	85	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (U)	85	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (T)	85	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (J)	48	NOTICE
+Romani-Vlax---Lovaric-Bible	UNICODE	Source	Basic Latin : (O)	48	NOTICE
+
+# VERSIFICATION
+Romani-Vlax---Lovaric-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Romani-Vlax---Lovaric-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Source	()	23 / 23	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Aionian	()	28 / 28	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Romani-Vlax---Lovaric-Bible	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Romani-Vlax---Lovaric-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:3 Кана о Адам траисардас 130 бэрш, лэстэ аракхадилас щяво, саво мэзыяс пэ лэстэ ай сас лэски мусура, ай вов дас лэс анав Сиф.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:4 Пала кодо сар аракхадилас Сиф, Адам траисардас инкэ 800 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:5 Адам траисардас 930 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 5:6 Кана Сиф траисардас 105 бэрш, лэстэ аракхадилас Энош.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	7	GEN 5:7 Пала кодо сар аракхадилас Энош, Сиф траисардас инкэ 807 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	2	GEN 5:8 Сиф траисардас 912 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:9 Кана Энош траисардас 90 бэрш, лэстэ аракхадилас Кенан.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 5:10 Пала кодо сар аракхадилас Кенан, Энош инкэ траисардас 815 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 5:11 Энош траисардас 905 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:12 Кана Кенан траисардас 70 бэрш, лэстэ аракхадилас Махалалэл.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:13 Пала кодо сар аракхадилас Махалалэл, Кенан инкэ траисардас 840 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:14 Кенан траисардас 910 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 5:15 Кана Махалалэл траисардас 65 бэрш, лэстэ аракхадилас Яред.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:16 Пала кадо, сар аракхадилас Яред, Махалалэл траисардас инкэ 830 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 5:17 Махалалэл траисардас 895 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	2	GEN 5:18 Кана Яред траисардас 162 бэрш, лэстэ аракхадилас Ханох.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:19 Пала кодо, сар аракхадилас Ханох, Яред траисардас инкэ 800 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	2	GEN 5:20 Яред траисардас 962 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 5:21 Кана Ханох траисардас 65 бэрш, лэстэ аракхадилас Мафусаэл.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:22 Пала кодо, сар аракхадилас Мафусаэл, Ханох пхирлас англа Дэл 300 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 5:23 Ханох траисардас жи кай 365 бэрш.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	7	GEN 5:25 Кана Мафусаэл траисардас 187 бэрш, лэстэ аракхадилас Ламех.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	2	GEN 5:26 Пала кодо, сар аракхадилас Ламех, Мафусаэл траисардас инкэ 782 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	9	GEN 5:27 Мафусаэл траисардас 969 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	2	GEN 5:28 Кана Ламех траисардас 182 бэрш, лэстэ аракхадилас щяво.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 5:30 Пала кодо сар аракхадилас Ной, Ламех траисардас 595 бэрш, ай лэстэ инкэ сас щявэ ай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	7	GEN 5:31 Ламех траисардас 777 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 5:32 Кана Ноескэ пхэрдилас 500 бэрш, лэстэ аракхадилэ Сим, Хам ай Яфет.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 6:15 Акэ сар трубуй тэ кэравэс о ковчего: вов трубуй тэ авэл 150 метры андо лунжипэ, 25 метры андо булғипэ ай 15 метры андо учипэ.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:10 Кадо сы панасы па вица лэ Симоски. Симоскэ сас екх 100 бэрш, кана лэстэ аракхадилас Арпахшад, па дуй бэрш, сар накхлэ лэ барэ пая.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:11 Пала кодо, сар аракхадилас Арпахшад, Сим траисардас 500 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	5	GEN 11:12 Кана Арпахшад траисардас 35 бэрш, лэстэ аракхадилас Шэлах.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	3	GEN 11:13 Пала кодо, сар аракхадилас Шэлах, Арпахшад траисардас 403 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:14 Кана Шэлах траисардас 30 бэрш, лэстэ аракхадилас Эвер.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	3	GEN 11:15 Пала кодо, сар аракхадилас Эвер, Шэлах траисардас 403 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	4	GEN 11:16 Кана Эвер траисардас 34 бэрш, лэстэ аракхадилас Пелег.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:17 Пала кодо, сар аракхадилас Пелег, Эвер траисардас 430 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:18 Кана Пелег траисардас 30 бэрш, лэстэ аракхадилас Реу.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	9	GEN 11:19 Пала кодо, сар аракхадилас Реу, Пелег траисардас 209 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	2	GEN 11:20 Кана Реу траисардас 32 бэрш, лэстэ аракхадилас Серуг.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	7	GEN 11:21 Пала кодо, сар аракхадилас Серуг, Реу траисардас 207 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:22 Кана Серуг траисардас 30 бэрш, лэстэ аракхадилас Нахор.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:23 Пала кодо, сар аракхадилас Нахор, Серуг траисардас 200 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	9	GEN 11:24 Кана Нахор траисардас 29 бэрш, лэстэ аракхадилас Терах.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	9	GEN 11:25 Пала кодо, сар аракхадилас Терах, Нахор траисардас 119 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:26 Пала кодо, сар Терах траисардас 70 бэрш, лэстэ аракхадилэ Аврам, Нахор ай Харан.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 11:32 Терах траисардас 200 бэрш ай мулас андо Харан.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 32:6 Кана э бищядэ мануш болдэ-пэ палпалэ, вон пхэндэ Яковоскэ: — Амэ самас кай тиро прал Исав, ай аканак вов коркоро авэл тэ арэсадёл туса, ай лэса жян 400 мануш.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 32:14 200 буснян ай 20 бузнэн, 200 бакрян ай 20 бакрэн,	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 32:15 30 верблюдицэн бурнювонца, 40 гурувнян ай 10 гурувэн, 20 самарэн жювлян ай 10 самарэн муршэн.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	0	GEN 33:1 Яков щюдас лэ якха ай дыкхлас, кэ авэл Исав ай лэса 400 мануш. Вов уладас щяворэн машкар Лия, Рахиль ай дуй бутяркини.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Source	count	51	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Кана о Адам траисардас 130 бэрш, лэстэ аракхадилас щяво, саво мэзыяс пэ лэстэ ай сас лэски мусура, ай вов дас лэс анав Сиф.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	800	001-GEN-005-004 Пала кодо сар аракхадилас Сиф, Адам траисардас инкэ 800 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	930	001-GEN-005-005 Адам траисардас 930 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	105	001-GEN-005-006 Кана Сиф траисардас 105 бэрш, лэстэ аракхадилас Энош.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	807	001-GEN-005-007 Пала кодо сар аракхадилас Энош, Сиф траисардас инкэ 807 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	912	001-GEN-005-008 Сиф траисардас 912 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Кана Энош траисардас 90 бэрш, лэстэ аракхадилас Кенан.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	815	001-GEN-005-010 Пала кодо сар аракхадилас Кенан, Энош инкэ траисардас 815 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Энош траисардас 905 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Кана Кенан траисардас 70 бэрш, лэстэ аракхадилас Махалалэл.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Пала кодо сар аракхадилас Махалалэл, Кенан инкэ траисардас 840 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Кенан траисардас 910 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Кана Махалалэл траисардас 65 бэрш, лэстэ аракхадилас Яред.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	830	001-GEN-005-016 Пала кадо, сар аракхадилас Яред, Махалалэл траисардас инкэ 830 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Махалалэл траисардас 895 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Кана Яред траисардас 162 бэрш, лэстэ аракхадилас Ханох.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	800	001-GEN-005-019 Пала кодо, сар аракхадилас Ханох, Яред траисардас инкэ 800 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Яред траисардас 962 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Кана Ханох траисардас 65 бэрш, лэстэ аракхадилас Мафусаэл.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	300	001-GEN-005-022 Пала кодо, сар аракхадилас Мафусаэл, Ханох пхирлас англа Дэл 300 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Ханох траисардас жи кай 365 бэрш.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Кана Мафусаэл траисардас 187 бэрш, лэстэ аракхадилас Ламех.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	782	001-GEN-005-026 Пала кодо, сар аракхадилас Ламех, Мафусаэл траисардас инкэ 782 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Мафусаэл траисардас 969 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Кана Ламех траисардас 182 бэрш, лэстэ аракхадилас щяво.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Пала кодо сар аракхадилас Ной, Ламех траисардас 595 бэрш, ай лэстэ инкэ сас щявэ ай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Ламех траисардас 777 бэрш ай мулас.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	500	001-GEN-005-032 Кана Ноескэ пхэрдилас 500 бэрш, лэстэ аракхадилэ Сим, Хам ай Яфет.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	150	001-GEN-006-015 Акэ сар трубуй тэ кэравэс о ковчего: вов трубуй тэ авэл 150 метры андо лунжипэ, 25 метры андо булғипэ ай 15 метры андо учипэ.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	100	001-GEN-011-010 Кадо сы панасы па вица лэ Симоски. Симоскэ сас екх 100 бэрш, кана лэстэ аракхадилас Арпахшад, па дуй бэрш, сар накхлэ лэ барэ пая.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	500	001-GEN-011-011 Пала кодо, сар аракхадилас Арпахшад, Сим траисардас 500 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	35	001-GEN-011-012 Кана Арпахшад траисардас 35 бэрш, лэстэ аракхадилас Шэлах.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	403	001-GEN-011-013 Пала кодо, сар аракхадилас Шэлах, Арпахшад траисардас 403 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	30	001-GEN-011-014 Кана Шэлах траисардас 30 бэрш, лэстэ аракхадилас Эвер.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	403	001-GEN-011-015 Пала кодо, сар аракхадилас Эвер, Шэлах траисардас 403 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Кана Эвер траисардас 34 бэрш, лэстэ аракхадилас Пелег.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	430	001-GEN-011-017 Пала кодо, сар аракхадилас Пелег, Эвер траисардас 430 бэрш, ай лэстэ инкэ сас щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Кана Пелег траисардас 30 бэрш, лэстэ аракхадилас Реу.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	209	001-GEN-011-019 Пала кодо, сар аракхадилас Реу, Пелег траисардас 209 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Кана Реу траисардас 32 бэрш, лэстэ аракхадилас Серуг.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	207	001-GEN-011-021 Пала кодо, сар аракхадилас Серуг, Реу траисардас 207 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	30	001-GEN-011-022 Кана Серуг траисардас 30 бэрш, лэстэ аракхадилас Нахор.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	200	001-GEN-011-023 Пала кодо, сар аракхадилас Нахор, Серуг траисардас 200 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Кана Нахор траисардас 29 бэрш, лэстэ аракхадилас Терах.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	119	001-GEN-011-025 Пала кодо, сар аракхадилас Терах, Нахор траисардас 119 бэрш, ай лэстэ сас инкэ щявэ тай щея.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	70	001-GEN-011-026 Пала кодо, сар Терах траисардас 70 бэрш, лэстэ аракхадилэ Аврам, Нахор ай Харан.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	200	001-GEN-011-032 Терах траисардас 200 бэрш ай мулас андо Харан.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	400	001-GEN-032-006 Кана э бищядэ мануш болдэ-пэ палпалэ, вон пхэндэ Яковоскэ: — Амэ самас кай тиро прал Исав, ай аканак вов коркоро авэл тэ арэсадёл туса, ай лэса жян 400 мануш.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	200	001-GEN-032-014 200 буснян ай 20 бузнэн, 200 бакрян ай 20 бакрэн,	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	30	001-GEN-032-015 30 верблюдицэн бурнювонца, 40 гурувнян ай 10 гурувэн, 20 самарэн жювлян ай 10 самарэн муршэн.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	400	001-GEN-033-001 Яков щюдас лэ якха ай дыкхлас, кэ авэл Исав ай лэса 400 мануш. Вов уладас щяворэн машкар Лия, Рахиль ай дуй бутяркини.	WARN
+Romani-Vlax---Lovaric-Bible	NUMERALS	Aionian	count	51	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,358 @@
+# File Name: Holy-Bible---Holy-Bible---Greek---Greek-TR-Stephanus-Scrivener---Analysis.txt
+# File Size: 34617       
+# File Date: 12/13/2025 05:34:43
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: H Καινή Διαθήκη
+# Bible Name English: Greek NT Textus Receptus Scrivener
+# Bible Language: Ελληνική
+# Bible Language English: Greek, Koine
+# Bible Copyright Format: Creative Commons Attribution NonCommercial ShareAlike 4.0, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution NonCommercial ShareAlike 4.0
+# Bible Source: Stephens, Scrivener
+# Bible Source Version: 11/5/2023
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=TR
+# Bible Source Year: 1550, 1894
+# Bible Description: Accent and breathing marks are omitted
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Greek---Greek-TR-Stephanus-Scrivener	ENCODING	Source	Holy-Bible---Greek---Greek-TR-Stephanus-Scrivener---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCODING	Aionian	Holy-Bible---Greek---Greek-TR-Stephanus-Scrivener---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Greek---Greek-TR-Stephanus-Scrivener	BYTES	Source	bytes / chars	5748713 / 5055471 (multi-byte)	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	BYTES	Aionian	bytes / chars	1660465 / 966697 (multi-byte)	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	BYTES	SourceClean	bytes / chars	1637975 / 944733 (multi-byte)	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	BYTES	AionianClean	bytes / chars	1657679 / 964249 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Greek---Greek-TR-Stephanus-Scrivener	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	AIONIAN	Aionian	missing-verse	0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	AIONIAN	Aionian	aionian-verses	200	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Greek---Greek-TR-Stephanus-Scrivener	UNPRINTABLE	Source	count	0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Summary	(-)Orginal	56	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Summary	(+)Aionian	62	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : ([)	15	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : ( )	153203	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (T)	405	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (e)	4595	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (s)	4020	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (t)	4980	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (a)	4644	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (m)	800	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (n)	4645	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (2)	4770	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (H)	318	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (d)	28	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (i)	3054	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (g)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (])	15	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (\n)	8245	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (M)	1797	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (h)	3947	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (w)	1417	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (0)	1537	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (:)	8265	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (1)	7349	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (3)	2769	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (4)	2242	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (5)	1852	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (6)	1591	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (7)	1412	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (8)	1310	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (9)	1260	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (()	21	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : ())	21	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (r)	1913	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (k)	1871	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (L)	1176	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (u)	1253	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (J)	1611	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (o)	4080	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : ({)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (P)	313	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (-)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (G)	158	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (S)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (})	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (A)	1036	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (c)	1036	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (R)	877	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (I)	1919	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (C)	825	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (l)	965	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (E)	162	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (p)	380	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (N)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (y)	208	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (b)	317	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (v)	427	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source(-)	Basic Latin : (f)	427	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (0)	32907	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (4)	9576	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (\t)	31824	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (M)	2316	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (A)	3022	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (T)	2504	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (1)	9084	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : ( )	133217	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (\n)	7955	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (2)	6512	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (3)	3679	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (5)	3477	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (6)	3438	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (7)	1685	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (8)	1751	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (9)	1506	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (()	202	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (G)	161	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (e)	35	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (n)	202	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : ())	202	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (H)	1613	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (d)	17	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (s)	114	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (i)	247	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (o)	85	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (R)	1515	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (,)	8	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (t)	7	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (:)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (h)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (l)	5	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (u)	3	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (.)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (L)	1399	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (U)	1175	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (K)	1150	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (J)	1144	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (O)	2233	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (C)	1796	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : ([)	14	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (])	14	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (E)	1028	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (P)	455	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (I)	346	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (B)	303	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (D)	25	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Aionian(+)	Basic Latin : (V)	404	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : ([)	15	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : ( )	153203	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (T)	405	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (e)	4595	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (s)	4020	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (t)	4980	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (a)	4644	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (m)	800	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (n)	4645	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (2)	4770	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (H)	318	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (d)	28	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (i)	3054	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (g)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (])	15	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (\n)	8245	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (M)	1797	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (h)	3947	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (w)	1417	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (0)	1537	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (:)	8265	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (1)	7349	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (β)	3667	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ι)	66075	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (λ)	18595	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ο)	67953	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ς)	27576	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (γ)	11331	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ε)	68389	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ν)	57472	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (σ)	25009	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ω)	21875	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (η)	27460	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (υ)	40403	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (χ)	5330	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ρ)	23592	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (τ)	52241	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (δ)	12948	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (α)	77187	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (μ)	20009	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (κ)	24407	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (φ)	4072	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (3)	2769	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ζ)	1589	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (θ)	10908	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (4)	2242	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (5)	1852	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (6)	1591	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (7)	1412	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (8)	1310	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (9)	1260	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (π)	21946	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ξ)	2248	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Greek and Coptic : (ψ)	960	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (()	21	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : ())	21	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (r)	1913	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (k)	1871	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (L)	1176	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (u)	1253	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (J)	1611	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (o)	4080	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : ({)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (P)	313	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (-)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (G)	158	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (S)	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (})	2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (A)	1036	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (c)	1036	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (R)	877	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (I)	1919	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (C)	825	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (l)	965	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (E)	162	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (p)	380	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (N)	1	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (y)	208	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (b)	317	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (v)	427	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNICODE	Source	Basic Latin : (f)	427	NOTICE
+
+# VERSIFICATION
+Greek---Greek-TR-Stephanus-Scrivener	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Greek---Greek-TR-Stephanus-Scrivener	VERSIFICATION	Summary	missing	1	WARN
+Greek---Greek-TR-Stephanus-Scrivener	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Source	()	21 / 21	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Source	[]	15 / 15	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Source	{}	2 / 2	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Aionian	()	202 / 202	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Aionian	[]	14 / 14	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Greek---Greek-TR-Stephanus-Scrivener	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	6	Matthew 15:6 και ου μη τιμηση τον πατερα αυτου η την μητερα αυτου (15:6) και ηκυρωσατε την εντολην του θεου δια την παραδοσιν υμων	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	5	Matthew 17:14 και ελθοντων αυτων προς τον οχλον προσηλθεν αυτω ανθρωπος γονυπετων αυτω (17:15) και λεγων	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	5	Matthew 20:4 κακεινοις ειπεν υπαγετε και υμεις εις τον αμπελωνα και ο εαν η δικαιον δωσω υμιν (20:5) οι δε απηλθον	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	4	Matthew 23:13 (23:14) ουαι υμιν γραμματεις και φαρισαιοι υποκριται οτι κλειετε την βασιλειαν των ουρανων εμπροσθεν των ανθρωπων υμεις γαρ ουκ εισερχεσθε ουδε τους εισερχομενους αφιετε εισελθειν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	3	Matthew 23:14 (23:13) ουαι δε υμιν γραμματεις και φαρισαιοι υποκριται οτι κατεσθιετε τας οικιας των χηρων και προφασει μακρα προσευχομενοι δια τουτο ληψεσθε περισσοτερον κριμα	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	1	Matthew 26:60 και ουχ ευρον και πολλων ψευδομαρτυρων προσελθοντων ουχ ευρον (26:61) υστερον δε προσελθοντες δυο ψευδομαρτυρες	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	8	Mark 6:27 και ευθεως αποστειλας ο βασιλευς σπεκουλατωρα επεταξεν ενεχθηναι την κεφαλην αυτου (6:28) ο δε απελθων απεκεφαλισεν αυτον εν τη φυλακη	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	4	Mark 6:45 και ευθεως ηναγκασεν τους μαθητας αυτου εμβηναι 1684 εις το πλοιον και προαγειν εις το περαν προς βηθσαιδαν εως αυτος απολυση τον οχλον	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	4	Mark 6:53 και διαπερασαντες ηλθον 2064 επι την γην γενησαρετ και προσωρμισθησαν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	4	Luke 1:74 του δουναι ημιν (1:74) αφοβως εκ χειρος των εχθρων ημων ρυσθεντας λατρευειν αυτω	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	4	Luke 2:4 ανεβη δε και ιωσηφ απο της γαλιλαιας εκ πολεως ναζαρετ εις την ιουδαιαν εις πολιν δαβιδ ητις καλειται 2564 βηθλεεμ δια το ειναι αυτον εξ οικου και πατριας δαβιδ	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	8	Luke 9:36 και εν τω γενεσθαι την φωνην ευρεθη ο ιησους μονος και αυτοι εσιγησαν και ουδενι απηγγειλαν εν εκειναις ταις ημεραις ουδεν ων εωρακασιν 3708	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	8	John 9:21 πως δε νυν βλεπει ουκ οιδαμεν η τις ηνοιξεν αυτου τους οφθαλμους ημεις ουκ οιδαμεν αυτος ηλικιαν εχει αυτον ερωτησατε αυτος περι αυτου 848 {P-GSM} λαλησει	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	6	Acts 4:6 εις ιερουσαλημ (4:6) και ανναν τον αρχιερεα και καιαφαν και ιωαννην και αλεξανδρον και οσοι ησαν εκ γενους αρχιερατικου	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	0	Acts 4:32 του δε πληθους των πιστευσαντων ην η καρδια και η ψυχη μια και ουδε εις τι των υπαρχοντων αυτω ελεγεν ιδιον ειναι αλλ ην 1510 αυτοις απαντα κοινα	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	9	Acts 9:29 και παρρησιαζομενος εν τω ονοματι του κυριου ιησου (9:29) ελαλει τε και συνεζητει προς τους ελληνιστας οι δε επεχειρουν αυτον ανελειν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	3	Acts 13:33 οτι ταυτην ο θεος εκπεπληρωκεν τοις τεκνοις αυτων ημιν αναστησας ιησουν (13:33) ως και εν τω ψαλμω τω δευτερω γεγραπται υιος μου ει συ εγω σημερον γεγεννηκα σε	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	3	Acts 24:2 κληθεντος δε αυτου ηρξατο κατηγορειν ο τερτυλλος λεγων (24:3) πολλης ειρηνης τυγχανοντες δια σου και κατορθωματων γινομενων τω εθνει τουτω δια της σης προνοιας	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	8	Ephesians 3:17 κατοικησαι τον χριστον δια της πιστεως εν ταις καρδιαις υμων (3:18) εν αγαπη ερριζωμενοι και τεθεμελιωμενοι	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	1	Colossians 4:10 ασπαζεται υμας αρισταρχος ο συναιχμαλωτος μου και μαρκος ο ανεψιος βαρναβα 921 {N-GSM} περι ου ελαβετε εντολας εαν ελθη προς υμας δεξασθε αυτον	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	2	Philemon 1:12 ον ανεπεμψα (1:12) συ δε αυτον τουτ εστιν τα εμα σπλαγχνα προσλαβου	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	2	Hebrews 1:2 επ εσχατων των ημερων τουτων ελαλησεν ημιν εν υιω (1:2) ον εθηκεν κληρονομον παντων δι ου και τους αιωνας εποιησεν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	0	Hebrews 3:6 χριστος δε ως υιος επι τον οικον αυτου ου οικος εσμεν ημεις εανπερ 0 την παρρησιαν και το καυχημα της ελπιδος μεχρι τελους βεβαιαν κατασχωμεν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	0	Hebrews 3:14 μετοχοι γαρ γεγοναμεν του χριστου εανπερ 0 την αρχην της υποστασεως μεχρι τελους βεβαιαν κατασχωμεν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	0	Hebrews 6:3 και τουτο ποιησομεν εανπερ 0 επιτρεπη ο θεος	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	1	Hebrews 7:21 οι μεν γαρ χωρις ορκωμοσιας εισιν ιερεις γεγονοτες (7:21) ο δε μετα ορκωμοσιας δια του λεγοντος προς αυτον ωμοσεν κυριος και ου μεταμεληθησεται συ ιερευς εις τον αιωνα κατα την ταξιν μελχισεδεκ	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Source	count	26	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	1684	041-MAR-006-045 και ευθεως ηναγκασεν τους μαθητας αυτου εμβηναι 1684 εις το πλοιον και προαγειν εις το περαν προς βηθσαιδαν εως αυτος απολυση τον οχλον	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	2064	041-MAR-006-053 και διαπερασαντες ηλθον 2064 επι την γην γενησαρετ και προσωρμισθησαν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) αναστας δε πρωι πρωτη σαββατου εφανη πρωτον μαρια τη μαγδαληνη αφ ης εκβεβληκει επτα δαιμονια	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	2564	042-LUK-002-004 ανεβη δε και ιωσηφ απο της γαλιλαιας εκ πολεως ναζαρετ εις την ιουδαιαν εις πολιν δαβιδ ητις καλειται 2564 βηθλεεμ δια το ειναι αυτον εξ οικου και πατριας δαβιδ	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	3708	042-LUK-009-036 και εν τω γενεσθαι την φωνην ευρεθη ο ιησους μονος και αυτοι εσιγησαν και ουδενι απηγγειλαν εν εκειναις ταις ημεραις ουδεν ων εωρακασιν 3708	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	1510	044-ACT-004-032 του δε πληθους των πιστευσαντων ην η καρδια και η ψυχη μια και ουδε εις τι των υπαρχοντων αυτω ελεγεν ιδιον ειναι αλλ ην 1510 αυτοις απαντα κοινα	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	1510	046-1CO-005-007 εκκαθαρατε ουν την παλαιαν ζυμην ινα ητε 1510 νεον φυραμα καθως εστε αζυμοι και γαρ το πασχα ημων υπερ ημων ετυθη χριστος	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	4203	046-1CO-010-008 μηδε πορνευωμεν καθως τινες αυτων επορνευσαν 4203 και επεσον εν μια ημερα εικοσιτρεις χιλιαδες	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	2720	053-2TH-003-005 ο δε κυριος κατευθυναι 2720 υμων τας καρδιας εις την αγαπην του θεου και εις υπομονην του χριστου	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	0	058-HEB-003-006 χριστος δε ως υιος επι τον οικον αυτου ου οικος εσμεν ημεις εανπερ 0 την παρρησιαν και το καυχημα της ελπιδος μεχρι τελους βεβαιαν κατασχωμεν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	0	058-HEB-003-014 μετοχοι γαρ γεγοναμεν του χριστου εανπερ 0 την αρχην της υποστασεως μεχρι τελους βεβαιαν κατασχωμεν	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	0	058-HEB-006-003 και τουτο ποιησομεν εανπερ 0 επιτρεπη ο θεος	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	1540	066-REV-007-004 και ηκουσα τον αριθμον των εσφραγισμενων ρμδ 1540 χιλιαδες εσφραγισμενοι εκ πασης φυλης υιων ισραηλ	WARN
+Greek---Greek-TR-Stephanus-Scrivener	NUMERALS	Aionian	count	13	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,613 @@
+# File Name: Holy-Bible---Holy-Bible---Slovene---Slovene-Savli-Bible---Analysis.txt
+# File Size: 113254      
+# File Date: 12/13/2025 05:59:15
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Slovenščina Sveto pismo Kralja Jakoba
+# Bible Name English: Slovene King James Bible 1769
+# Bible Language: Slovenščina
+# Bible Language English: Slovene
+# Bible Copyright Format: Creative Commons Attribution NoDerivatives NonCommercial 4.0, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution NoDerivatives Noncommercial 4.0
+# Bible Source: Marjan Šavli and Barbara Hojkar Šavli, marjan.savli@gmail.com
+# Bible Source Version: 10/28/2025
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=SloKJV
+# Bible Source Year: 1769
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Slovene---Slovene-Savli-Bible	ENCODING	Source	Holy-Bible---Slovene---Slovene-Savli-Bible---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Slovene---Slovene-Savli-Bible	ENCODING	Aionian	Holy-Bible---Slovene---Slovene-Savli-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Slovene---Slovene-Savli-Bible	BYTES	Source	bytes / chars	5888747 / 5760852 (multi-byte)	NOTICE
+Slovene---Slovene-Savli-Bible	BYTES	Aionian	bytes / chars	4409870 / 4289493 (multi-byte)	NOTICE
+Slovene---Slovene-Savli-Bible	BYTES	SourceClean	bytes / chars	4435722 / 4311685 (multi-byte)	NOTICE
+Slovene---Slovene-Savli-Bible	BYTES	AionianClean	bytes / chars	4406237 / 4285876 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Slovene---Slovene-Savli-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Slovene---Slovene-Savli-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Slovene---Slovene-Savli-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Slovene---Slovene-Savli-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Slovene---Slovene-Savli-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Slovene---Slovene-Savli-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Slovene---Slovene-Savli-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Slovene---Slovene-Savli-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Slovene---Slovene-Savli-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Slovene---Slovene-Savli-Bible	UNICODE	Summary	(-)Orginal	115	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Summary	(+)Aionian	92	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : ([)	1059	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : ( )	718929	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (M)	5851	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (o)	324440	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (d)	116489	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (u)	63451	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (l)	156355	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (e)	341564	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (H)	2230	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (a)	283531	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (i)	301514	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (n)	190342	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (g)	54749	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (])	1059	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (\n)	32360	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (T)	7110	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (s)	170214	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (t)	131150	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (m)	100973	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (1)	27988	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (G)	11825	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (0)	6784	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (:)	40442	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (z)	60107	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (j)	150477	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (p)	81110	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (r)	150947	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (v)	136772	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (P)	9712	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (k)	97287	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin Extended-A : (ž)	19361	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (()	588	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (h)	48251	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (b)	67752	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (.)	33836	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : ())	588	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (,)	67910	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (B)	6828	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin Extended-A : (č)	32732	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (I)	17822	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin Extended-A : (š)	29930	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (N)	6030	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (D)	4398	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (A)	5352	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (c)	18566	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (J)	12730	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (f)	2666	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	General Punctuation : (›)	2805	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	General Punctuation : (‹)	2617	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (Z)	2862	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (K)	8328	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (U)	478	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (-)	343	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (2)	19590	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (3)	12660	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (E)	5660	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (4)	9458	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (6)	6670	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (5)	7271	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (8)	5945	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (9)	5792	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (R)	2470	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (S)	6216	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (7)	6095	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (V)	2556	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin-1 Supplement: (á)	6849	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin-1 Supplement: (§)	1189	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (;)	3838	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ô)	289	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ó)	3553	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (O)	2440	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin Extended-A : (Ž)	135	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (?)	3279	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin-1 Supplement: (é)	3075	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin Extended-A : (Č)	1032	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (L)	3273	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (C)	3121	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin-1 Supplement: (í)	1614	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin Extended-A : (Š)	846	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ú)	706	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (F)	429	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (!)	335	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	General Punctuation : (–)	92	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (x)	1258	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (W)	3	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (')	9	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ì)	42	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (y)	1223	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (q)	6	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (Y)	9	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (Q)	2	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (א)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ב)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ג)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ד)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ה)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ו)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ז)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ח)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ט)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (י)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (כ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ל)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (מ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (נ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ס)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ע)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (פ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (צ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ק)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ר)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ש)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Hebrew : (ת)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	General Punctuation : (…)	11	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source(-)	Basic Latin : (w)	1417	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	12358	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	13044	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	7809	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	3732	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	628088	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	57120	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	261370	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin Extended-A : (č)	32149	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	310628	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	121308	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	92114	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	53207	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	147510	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	8063	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	305836	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	51353	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	143277	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	131633	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	138052	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	281122	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	144993	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	174984	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	62961	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	89831	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	32580	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	4342	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	79033	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	4884	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	36495	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ž)	18948	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	112662	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (á)	6829	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	8039	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	10424	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	66755	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	7857	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin Extended-A : (š)	29500	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (;)	3811	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ô)	288	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	9328	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	969	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (])	969	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	13719	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	9481	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ó)	3527	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	5670	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	13249	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	2073	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	9045	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	139	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin Extended-A : (Ž)	125	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	General Punctuation : (›)	2563	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	3274	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	General Punctuation : (‹)	2376	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	9259	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	10676	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	5628	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (é)	3054	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin Extended-A : (Č)	1010	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	3574	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4772	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	11855	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3974	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (í)	1605	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin Extended-A : (Š)	841	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ú)	704	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (()	563	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (F)	414	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : ())	563	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	328	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	General Punctuation : (–)	30	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ì)	41	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	2	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (')	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Aionian(+)	General Punctuation : (…)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : ([)	1059	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : ( )	718929	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (M)	5851	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (o)	324440	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (d)	116489	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (u)	63451	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (l)	156355	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (e)	341564	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (H)	2230	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (a)	283531	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (i)	301514	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (n)	190342	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (g)	54749	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (])	1059	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (\n)	32360	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (T)	7110	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (s)	170214	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (t)	131150	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (m)	100973	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (1)	27988	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (G)	11825	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (0)	6784	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (:)	40442	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (z)	60107	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (j)	150477	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (p)	81110	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (r)	150947	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (v)	136772	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (P)	9712	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (k)	97287	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin Extended-A : (ž)	19361	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (()	588	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (h)	48251	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (b)	67752	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (.)	33836	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : ())	588	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (,)	67910	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (B)	6828	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin Extended-A : (č)	32732	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (I)	17822	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin Extended-A : (š)	29930	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (N)	6030	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (D)	4398	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (A)	5352	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (c)	18566	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (J)	12730	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (f)	2666	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	General Punctuation : (›)	2805	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	General Punctuation : (‹)	2617	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (Z)	2862	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (K)	8328	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (U)	478	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (-)	343	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (2)	19590	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (3)	12660	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (E)	5660	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (4)	9458	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (6)	6670	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (5)	7271	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (8)	5945	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (9)	5792	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (R)	2470	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (S)	6216	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (7)	6095	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (V)	2556	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (à)	65	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (á)	6849	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (»)	5566	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: («)	5532	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (è)	142	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (§)	1189	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (;)	3838	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (ô)	289	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	3553	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (O)	2440	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin Extended-A : (Ž)	135	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (?)	3279	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (é)	3075	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin Extended-A : (Č)	1032	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (L)	3273	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (C)	3121	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (í)	1614	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin Extended-A : (Š)	846	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	706	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (F)	429	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (ê)	253	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (!)	335	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	General Punctuation : (–)	92	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (x)	1258	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (W)	3	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (')	9	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (ì)	42	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	General Punctuation : (―)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (y)	1223	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (q)	6	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (Y)	9	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (É)	38	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (Q)	2	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (Ú)	7	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (א)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ב)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ג)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ד)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ה)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ו)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ז)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ח)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ט)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (י)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (כ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ל)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (מ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (נ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ס)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ע)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (פ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (צ)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ק)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ר)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ש)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Hebrew : (ת)	1	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	General Punctuation : (…)	11	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Basic Latin : (w)	1417	NOTICE
+Slovene---Slovene-Savli-Bible	UNICODE	Source	Latin-1 Supplement: (Á)	7	NOTICE
+
+# VERSIFICATION
+Slovene---Slovene-Savli-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Slovene---Slovene-Savli-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	()	588 / 588	NOTICE
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	[]	1059 / 1059	NOTICE
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	()	563 / 563	NOTICE
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	[]	969 / 969	NOTICE
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Numbers 31:43 (torej polovice, ki je pripadala skupnosti, je bilo tristo sedemintrideset tisoč petsto ovac,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Numbers 31:46 in šestnajst tisoč oseb),	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 2:20 (Tudi ta je bila šteta [za] deželo velikanov. Tam so v starih časih prebivali velikani. Amónci so jih imenovali Zamzuméjce,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 2:23 § Avéjce, ki so prebivali v Haserimu, celó do Gaze, so Kaftorejci, ki so izšli iz Kaftorja, uničili in prebivali namesto njih.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 29:16 (kajti veste, kako smo prebivali v egiptovski deželi in kako smo prišli skozi narode, mimo katerih ste šli	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 29:17 in ste videli njihove ogabnosti in njihove malike, les in kamen, srebro in zlato, ki so bili med njimi)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Judges 9:17 (kajti moj oče se je bojeval za vas in v ospredju tvegal svoje življenje in vas osvobodil iz roke Midjáncev	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Judges 9:18 in ste ta dan vstali zoper hišo mojega očeta in umorili njegove sinove, sedemdeset oseb na enem kamnu in postavili Abiméleha, sina njegove dekle, za kralja nad sihemskimi gospodarji, ker je vaš brat).	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Judges 20:27 Izraelovi otroci so poizvedeli od Gospoda (kajti skrinja Božje zaveze je bila v tistih dneh tam	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Judges 20:28 in Pinhás, sin Eleazarja, sinú Arona, je v tistih dneh stal pred njo), rekoč: »Ali naj grem ponovno ven v bitko zoper otroke Benjamina, svojega brata ali naj odneham?« Gospod je rekel: »Pojdi gor, kajti jutri ti jih bom izročil v roko.«	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	II Samuel 4:2 Savlov sin je imel dva moža, ki sta bila poveljnika čet. Ime enega je bilo Baaná in ime drugega Reháb, sinova Rimóna, Beeróčana, izmed Benjaminovih otrók (kajti tudi Beerót je bil štet k Benjaminu	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	II Samuel 4:3 in Beeróčani so pobegnili v Gitájim in bili tam začasni prebivalci do tega dne.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	I Kings 18:3 Aháb je poklical Obadjá, ki je bil voditelj njegove hiše. (Torej Obadjá se je silno bal Gospoda.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	I Kings 18:4 Kajti to je bilo tako, ko je Jezabela iztrebila Gospodove preroke, da je Obadjá vzel sto prerokov in jih po petdeset skril v votlino in jih hranil s kruhom in vodo.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	II Kings 9:14 Tako je Jehú, Józafatov sin, Nimšíjev sin, koval zaroto zoper Joráma. (Torej Jorám se je zadrževal v Ramót Gileádu, on in ves Izrael, zaradi sirskega kralja Hazaéla.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	II Kings 9:15 Toda kralj Jorám se je vrnil, da bi bil v Jezreélu ozdravljen ran, ki so mu jih zadali Sirci, ko se je bojeval s sirskim kraljem Hazaélom.) Jehú je rekel: »Če tako mislite, potem naj nihče ne gre naprej niti naj ne zbeži iz mesta, da bi šel to povedat v Jezreél.«	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	II Kings 13:5 (In Gospod je dal Izraelu rešitelja, tako da so odšli izpod roke Sircev in Izraelovi otroci so prebivali v svojih šotorih kakor poprej.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	II Kings 13:6 Vendar se niso odvrnili od grehov Jerobeámove hiše, ki je Izraela primoral grešiti, temveč so hodili v njih in tudi ašere so ostale v Samariji.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	I Chronicles 5:1 Torej sinovi Izraelovega prvorojenca Rubena, (kajti on je bil prvorojenec; toda, ker je omadeževal posteljo svojega očeta, je bila njegova pravica prvorojenstva dana sinovoma Izraelovega sina Jožefa; in rodovnik ni štet po pravici prvorojenstva.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	I Chronicles 5:2 Kajti Juda je prevladal nad svojimi brati in od njega je prišel glavni vladar; toda pravica prvorojenstva je bila Jožefova.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	I Chronicles 7:14 Manásejevi sinovi: Asriél, katerega je rodila (toda njegova arámska priležnica je rodila Mahírja, Gileádovega očeta;	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	I Chronicles 7:15 in Mahír je vzel za ženo sestro Hupíma in Šupíma, čigar sestri je bilo ime Maáha) in ime drugemu je bilo Celofhád; in Celofhád je imel hčere.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	II Chronicles 5:11 In pripetilo se je, ko so duhovniki prišli iz svetega kraja (kajti vsi duhovniki, ki so bili prisotni, so bili posvečeni in tako niso čakali na skupino.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	II Chronicles 5:12 Tudi Lévijevci, ki so bili pevci, vsi izmed njih od Asáfa, Hemána in Jedutúna, z njihovimi sinovi in njihovimi brati, ki so bili oblečeni v belo platno ter imeli cimbale, plunke in harfe, so stali na vzhodnem koncu oltarja in z njimi sto dvajset duhovnikov, ki so trobili s trobentami.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Esther 1:13 Potem je kralj rekel modrim možem, ki so poznali čase (Kajti tak je bil kraljev običaj do vseh teh, ki so poznali postavo in sodbo	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Esther 1:14 in takoj poleg njega so bili Karšenáj, Šetár, Admát, Taršíš, Meres, Marsenáj in Memuhán, sedem princev iz Perzije in Medije, ki so videli kraljevo obličje in ki so prvi sedeli v kraljestvu.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Proverbs 7:11 (Ona je glasna in trmoglava, njena stopala ne ostanejo v njeni hiši,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Proverbs 7:12 sedaj je zunaj, sedaj na trgih in preži na vsakem vogalu.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Acts 5:12 Po rokah apostolov pa se je med ljudmi zgodilo mnogo znamenj in čudežev; (in vsi so bili soglasno v Salomonovem preddverju.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Acts 5:14 In še več vernikov je bilo dodanih h Gospodu, množice tako moških kakor žensk.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Romans 2:13 (Kajti pred Bogom niso pravični poslušalci postave, temveč bodo opravičeni uresničevalci postave.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Romans 2:15 ki kažejo delo postave, zapisano v njihovih srcih in tudi njihova vest pričuje in njihove misli se medtem obtožujejo ali pa opravičujejo druga drugo),	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Romans 5:13 (kajti do postave je bil na svetu greh, toda greh ni pripisan v času, ko ni postave.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Romans 5:17 Kajti če je po prestopku enega človeka zakraljevala smrt, bodo toliko bolj tisti, ki prejemajo obilje milosti in od daru pravičnosti, v življenju kraljevali po enem, Jezusu Kristusu.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	II Corinthians 9:9 (kakor je pisano: ›Razdelil je povsod, dal je revnim. Njegova pravičnost ostaja na veke.‹	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	II Corinthians 9:10 Torej kdor daje seme sejalcu, daje tako kruh za vašo hrano, kakor množi vaše posejano seme in povečuje sadove vaše pravičnosti)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Ephesians 3:3 kako, da mi je po razodetju dal spoznati skrivnost (kakor sem prej napisal z nekaj besedami,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Ephesians 3:4 s čimer, ko berete, lahko razumete moj vpogled v Kristusovo skrivnost);	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Ephesians 4:9 (Torej, da se je povzpel, kaj je to razen, da se je tudi najprej spustil v nižje dele zemlje?	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Ephesians 4:10 § On, ki se je spustil, je tudi isti, ki se je povzpel daleč nad vsa nebesa, da bi lahko izvršil vse stvari.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Philippians 3:18 (Kajti mnogi živijo, o katerih sem vam pogosto povedal in vam sedaj govorim jokaje, da so sovražniki Kristusovega križa;	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Philippians 3:19 katerih konec je uničenje, katerih Bog je njihov trebuh in katerih slava je v njihovi sramoti, ki mislijo zemeljske stvari.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Colossians 2:21 (ne dotikaj, ne okušaj, ne prijemaj,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Colossians 2:22 ki bodo z uporabo vsi odmrli) po človeških zapovedih in naukih?	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Hebrews 3:7 Zatorej (kakor govori Sveti Duh: »Če boste danes zaslišali njegov glas,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Hebrews 3:11 Tako sem prisegel v svojem besu: »Ne bodo vstopili v moj počitek.«)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(1/0)	Hebrews 12:20 § (Kajti niso mogli prenesti tega, kar je bilo ukazano: »In če se žival komaj dotakne gore, naj bo kamnana ali prebodena s puščico.«	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Source	(0/1)	Hebrews 12:21 In prizor je bil tako strašen, da je Mojzes rekel: »Silno se bojim in tresem.«)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (torej polovice, ki je pripadala skupnosti, je bilo tristo sedemintrideset tisoč petsto ovac,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 in šestnajst tisoč oseb),	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Tudi ta je bila šteta [za] deželo velikanov. Tam so v starih časih prebivali velikani. Amónci so jih imenovali Zamzuméjce,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Avéjce, ki so prebivali v Haserimu, celó do Gaze, so Kaftorejci, ki so izšli iz Kaftorja, uničili in prebivali namesto njih.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (kajti veste, kako smo prebivali v egiptovski deželi in kako smo prišli skozi narode, mimo katerih ste šli	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 in ste videli njihove ogabnosti in njihove malike, les in kamen, srebro in zlato, ki so bili med njimi)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (kajti moj oče se je bojeval za vas in v ospredju tvegal svoje življenje in vas osvobodil iz roke Midjáncev	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 in ste ta dan vstali zoper hišo mojega očeta in umorili njegove sinove, sedemdeset oseb na enem kamnu in postavili Abiméleha, sina njegove dekle, za kralja nad sihemskimi gospodarji, ker je vaš brat).	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Izraelovi otroci so poizvedeli od Gospoda (kajti skrinja Božje zaveze je bila v tistih dneh tam	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 in Pinhás, sin Eleazarja, sinú Arona, je v tistih dneh stal pred njo), rekoč: »Ali naj grem ponovno ven v bitko zoper otroke Benjamina, svojega brata ali naj odneham?« Gospod je rekel: »Pojdi gor, kajti jutri ti jih bom izročil v roko.«	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 Savlov sin je imel dva moža, ki sta bila poveljnika čet. Ime enega je bilo Baaná in ime drugega Reháb, sinova Rimóna, Beeróčana, izmed Benjaminovih otrók (kajti tudi Beerót je bil štet k Benjaminu	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 in Beeróčani so pobegnili v Gitájim in bili tam začasni prebivalci do tega dne.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Aháb je poklical Obadjá, ki je bil voditelj njegove hiše. (Torej Obadjá se je silno bal Gospoda.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Kajti to je bilo tako, ko je Jezabela iztrebila Gospodove preroke, da je Obadjá vzel sto prerokov in jih po petdeset skril v votlino in jih hranil s kruhom in vodo.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Tako je Jehú, Józafatov sin, Nimšíjev sin, koval zaroto zoper Joráma. (Torej Jorám se je zadrževal v Ramót Gileádu, on in ves Izrael, zaradi sirskega kralja Hazaéla.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 Toda kralj Jorám se je vrnil, da bi bil v Jezreélu ozdravljen ran, ki so mu jih zadali Sirci, ko se je bojeval s sirskim kraljem Hazaélom.) Jehú je rekel: »Če tako mislite, potem naj nihče ne gre naprej niti naj ne zbeži iz mesta, da bi šel to povedat v Jezreél.«	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 013 005 (In Gospod je dal Izraelu rešitelja, tako da so odšli izpod roke Sircev in Izraelovi otroci so prebivali v svojih šotorih kakor poprej.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Vendar se niso odvrnili od grehov Jerobeámove hiše, ki je Izraela primoral grešiti, temveč so hodili v njih in tudi ašere so ostale v Samariji.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Torej sinovi Izraelovega prvorojenca Rubena, (kajti on je bil prvorojenec; toda, ker je omadeževal posteljo svojega očeta, je bila njegova pravica prvorojenstva dana sinovoma Izraelovega sina Jožefa; in rodovnik ni štet po pravici prvorojenstva.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Kajti Juda je prevladal nad svojimi brati in od njega je prišel glavni vladar; toda pravica prvorojenstva je bila Jožefova.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 007 014 Manásejevi sinovi: Asriél, katerega je rodila (toda njegova arámska priležnica je rodila Mahírja, Gileádovega očeta;	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 007 015 in Mahír je vzel za ženo sestro Hupíma in Šupíma, čigar sestri je bilo ime Maáha) in ime drugemu je bilo Celofhád; in Celofhád je imel hčere.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 In pripetilo se je, ko so duhovniki prišli iz svetega kraja (kajti vsi duhovniki, ki so bili prisotni, so bili posvečeni in tako niso čakali na skupino.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 Tudi Lévijevci, ki so bili pevci, vsi izmed njih od Asáfa, Hemána in Jedutúna, z njihovimi sinovi in njihovimi brati, ki so bili oblečeni v belo platno ter imeli cimbale, plunke in harfe, so stali na vzhodnem koncu oltarja in z njimi sto dvajset duhovnikov, ki so trobili s trobentami.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Potem je kralj rekel modrim možem, ki so poznali čase (Kajti tak je bil kraljev običaj do vseh teh, ki so poznali postavo in sodbo	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 in takoj poleg njega so bili Karšenáj, Šetár, Admát, Taršíš, Meres, Marsenáj in Memuhán, sedem princev iz Perzije in Medije, ki so videli kraljevo obličje in ki so prvi sedeli v kraljestvu.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (Ona je glasna in trmoglava, njena stopala ne ostanejo v njeni hiši,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 sedaj je zunaj, sedaj na trgih in preži na vsakem vogalu.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 005 012 Po rokah apostolov pa se je med ljudmi zgodilo mnogo znamenj in čudežev; (in vsi so bili soglasno v Salomonovem preddverju.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 005 014 In še več vernikov je bilo dodanih h Gospodu, množice tako moških kakor žensk.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (Kajti pred Bogom niso pravični poslušalci postave, temveč bodo opravičeni uresničevalci postave.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 ki kažejo delo postave, zapisano v njihovih srcih in tudi njihova vest pričuje in njihove misli se medtem obtožujejo ali pa opravičujejo druga drugo),	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 005 013 (kajti do postave je bil na svetu greh, toda greh ni pripisan v času, ko ni postave.	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 005 017 Kajti če je po prestopku enega človeka zakraljevala smrt, bodo toliko bolj tisti, ki prejemajo obilje milosti in od daru pravičnosti, v življenju kraljevali po enem, Jezusu Kristusu.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(2/1)	047 2CO 009 009 (kakor je pisano: ›Razdelil je povsod, dal je revnim. Njegova pravičnost ostaja na veke.‹ (aiōn g165)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	047 2CO 009 010 Torej kdor daje seme sejalcu, daje tako kruh za vašo hrano, kakor množi vaše posejano seme in povečuje sadove vaše pravičnosti)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 kako, da mi je po razodetju dal spoznati skrivnost (kakor sem prej napisal z nekaj besedami,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 s čimer, ko berete, lahko razumete moj vpogled v Kristusovo skrivnost);	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Torej, da se je povzpel, kaj je to razen, da se je tudi najprej spustil v nižje dele zemlje?	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 On, ki se je spustil, je tudi isti, ki se je povzpel daleč nad vsa nebesa, da bi lahko izvršil vse stvari.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	050 PHI 003 018 (Kajti mnogi živijo, o katerih sem vam pogosto povedal in vam sedaj govorim jokaje, da so sovražniki Kristusovega križa;	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	050 PHI 003 019 katerih konec je uničenje, katerih Bog je njihov trebuh in katerih slava je v njihovi sramoti, ki mislijo zemeljske stvari.)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	051 COL 002 021 (ne dotikaj, ne okušaj, ne prijemaj,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	051 COL 002 022 ki bodo z uporabo vsi odmrli) po človeških zapovedih in naukih?	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 003 007 Zatorej (kakor govori Sveti Duh: »Če boste danes zaslišali njegov glas,	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 003 011 Tako sem prisegel v svojem besu: »Ne bodo vstopili v moj počitek.«)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 012 020 (Kajti niso mogli prenesti tega, kar je bilo ukazano: »In če se žival komaj dotakne gore, naj bo kamnana ali prebodena s puščico.«	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 In prizor je bil tako strašen, da je Mojzes rekel: »Silno se bojim in tresem.«)	WARN
+Slovene---Slovene-Savli-Bible	ENCLOSURES	Summary	lines	48 / 48	NOTICE
+
+# UNEXPECTED
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Slovene---Slovene-Savli-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	6	Genesis 0:0 [Geneza je prvi del Peteroknjižja (hebr. Tora), petih knjig, ki jih je po Božjem naročilu zapisal Mojzes in vsebujejo zakone in predpise in določajo razmerje med Bogom in Izraelom. Prvi del Geneze opisuje začetek in širjenje greha z uničujočim potopom v Noetovih dneh. Drugi del opisuje Abrahama, po katerem je Bog obljubil, da bo svetu prinesel rešitev in blagoslov. Abraham in njegovi potomci spoznajo, da je ne glede na okoliščine vedno varno zaupati Gospodu. Tako Abraham, Izak, Jakob in Jožef vidijo, kako se Božje obljube uresničujejo v narodu, ki ima v lasti veliko deželo. Geneza v grščini pomeni ›izvor‹, ›vir‹, ›rodovi‹ ali ›začetek‹. Izvirni hebrejski naslov Bereshith pomeni ›Na začetku‹. Zgrajena je iz enajstih delov, izmed katerih vsak vključuje besedno zvezo: ›To so rodovi‹ ali ›Knjiga rodov‹. 1. Uvod v rodovnike, stvarjenje (1,1-2,3). 2. Nebo in zemlja, Adam in Eva ter prvi greh v raju, zgodba o Kajnu in Abelu (2,4-4,26). 3. Adamovi rodovi in naraščajoča zlobnost (5,1-6,8). 4. Noe, potop, Noetov blagoslov in prekletstvo (6,9-9,29). 5. Rodovnik narodov (10,1-11,9). 6. Sem (11,10-11,26). 7. Terah (11,27-25,11). 8. Izmael (25,12-25,18). 9. Izak (25,19-35,29). 10. Ezav (36,1-37,1). 11. Jožef (37,2-50,26).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	0	Exodus 0:0 [Eksodus je zapis o rojstvu Izraela kot naroda. V zaščitni ›maternici‹ Egipta se sedemdesetčlanska judovska družina hitro razmnožuje. Ob pravem času, ki ga spremljajo hude ›porodne bolečine‹, je otroški narod, ki šteje nekaj milijonov ljudi, pripeljan v divjino, kjer je božansko zaščiten, hranjen in negovan. Hebrejski naslov We'elleh Shemoth, ›To so imena‹, izhaja iz prvega stavka v 1,1. Eksodus se začne s ›Torej‹, da bi pokazal, da je nadaljevanje Geneze. Grški naslov Exodus pomeni ›izhod‹, ›odhod‹ ali ›oditi ven‹. Septuaginta uporablja to besedo, da bi knjigo opisala po ključnem dogodku (glej 19,1, ›odšli iz‹). V Lk 9,31 in v 2 Pt 1,15 beseda eksodus govori o fizični smrti (Jezusa in Petra). To uteleša temo rešitve duše v Drugi Mojzesovi knjigi, saj se rešitev duše uresniči le s smrtjo. Latinski naslov je Liber Exodus, ›Knjiga izhoda‹, ki je vzet iz grškega naslova. 1. Priprava na izhod iz Egipta, zatiranje Izraelcev, Mojzesova mladost, poklic (1,7-7,7). 2. Izhod iz Egipta, deset nadlog, pomor prvorojencev, jagnje, izhod, prehod skozi Rdeče morje – današnji Akabski zaliv, prepevanje Gospodu (7,8-15). 3. Pot do Sinaja, mana in prepelice, voda iz skale, postavitev sodnikov (16-18). 4. Postava, deset zapovedi (19,1-24,11). 5. Določbe za šotorsko svetišče (24,12-31,18). 6. Čaščenje zlatega teleta (32-34). 7. Dovršitev svetišča (35-40).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	1	Exodus 20:2 [1] »Jaz sem Gospod, tvoj Bog, ki sem te privedel iz egiptovske dežele, iz hiše sužnosti.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	2	Exodus 20:3 [2] Pred menoj ne boš imel nobenih drugih bogov.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	3	Exodus 20:7 [3] Ne boš v prazno vzel imena Gospoda, svojega Boga; kajti Gospod ne bo držal brez krivde tistega, ki v prazno jemlje njegovo ime.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Exodus 20:8 [4] Spominjaj se šabatnega dne, da ga ohraniš svétega.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	5	Exodus 20:12 [5] Spoštuj svojega očeta in svojo mater, da bodo tvoji dnevi lahko dolgi na zemlji, ki ti jo daje Gospod, tvoj Bog.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	6	Exodus 20:13 [6] Ne boš ubil.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	7	Exodus 20:14 [7] Ne boš zagrešil zakonolomstva.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	8	Exodus 20:15 [8] Ne boš kradel.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	9	Exodus 20:16 [9] Ne boš prinašal krivega pričevanja zoper svojega bližnjega.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	0	Exodus 20:17 [10] Ne boš hlepel [po] hiši svojega bližnjega, ne boš hlepel [po] ženi svojega bližnjega, niti [po] njegovem slugi, niti [po] njegovi dekli, niti [po] njegovem volu, niti [po] njegovem oslu, niti [po] katerikoli stvari, ki je od tvojega bližnjega!«	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	7	Leviticus 0:0 [Levitik je Božja knjiga navodil za njegovo na novo odkupljeno ljudstvo, ki mu kaže, kako častiti svetega Boga, mu služiti in ga ubogati. Druženje z Bogom prek darovanja in poslušnosti kaže na osupljivo svetost Izraelovega Boga. ›Bodite svéti, kajti jaz, Gospod, vaš Bog, sem svét‹ (19,2). Levitik se osredotoča na bogoslužje in hojo Božjega naroda. V Eksodusu je bil Izrael odkupljen in vzpostavljen kot kraljestvo duhovnikov in svét narod. Levitik pa dodaja nadaljnje določbe za Božjo službo in duhovništvo in kako naj Božje ljudstvo izpolni svoj duhovniški poklic. Hebrejski naslov je Wayyiqra, ›In poklical je‹. Talmud imenuje Levitik ›Zakon o duhovnikih‹ in ›Zakon o daritvah‹. Grški naslov v Septuaginti je Leuitikon, ›To, kar se nanaša na levite‹. Iz te besede je latinska Vulgata izpeljala svoje ime Leviticus, ki je bilo sprejeto kot angleški naslov. Ta naslov je nekoliko zavajajoč, saj knjiga ne obravnava levitov kot celote, temveč bolj duhovnike, del levitov. 1. O daritvah (1-7). 2. O duhovnikih (8-10). 3. O očiščevanju (11-15) 4. O spravnem dnevu (16). 5. O svetosti (17-22). 6. O praznikih (23). 7. O raznih drugih rečeh (24-27).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	6	Numbers 0:0 [Numeri je knjiga popotovanj. Ime izhaja iz dveh preštevanj Izraelcev – prvega na gori Sinaj in drugega na Moábskih planinah. Večina knjige opisuje izkušnje Izraela med njihovim tavanjem po puščavi. Nauk iz Numeri je jasen. Čeprav je morda treba iti skozi izkušnje puščave, ni treba živeti v njej. Za Izrael je enajstdnevno potovanje postalo štiridesetletno trpljenje. Naslov Numeri izhaja iz prve besede v hebrejskem besedilu, Wayyedabber, ›In rekel je‹. Vendar jo judovski spisi običajno imenujejo s peto hebrejsko besedo v 1,1, Bemidbar, ›V divjini‹, ki bolj natančno označuje vsebino knjige. Grški naslov v Septuaginti je Arithmoi, ›Numeri‹. Latinska Vulgata je sledila temu naslovu in jo prevedla kot Liber Numeri, ›Knjiga številk‹. Ti naslovi temeljijo na dveh oštevilčenjih: rod izhoda (4 Mz 1) in rod, ki je zrasel v puščavi in osvojil Kánaan (4 Mz 26). Numeri so imenovali tudi ›Knjiga potovanj‹, ›Knjiga godrnjanja‹ in ›Numeri‹. 1. Štetje, posvetitev svetišča in levitov (1-9). 2. Od Sinaja v Arabiji do Kadeša (10-19). 3. Preskoči se 38 let, od Kadeša do Hora in do Jordana (20-21). 4. Bileám, ponovno štetje, razdelitev dežele vzhodno od Jordana in naročila za razdelitev dežele zahodno od Jordana (22-36).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	3	Deuteronomy 0:0 [Devteronomij, Mojzesova ›razprava v zgornji divjini‹, je sestavljena iz niza poslovilnih sporočil 120-letnega izraelskega voditelja za nov rod, ki bo posedoval obljubljeno deželo – tistim, ki so preživeli štirideset let popotovanja po divjini. Tako kot Levitik tudi Devteronomij vsebuje veliko pravnih podrobnosti, vendar je poudarek na laikih in ne na duhovnikih. Mojzes nov rod opozarja na pomen poslušnosti, če se želijo učiti iz žalostnega zgleda svojih staršev. Hebrejski naslov Devteronomija je Haddebharim, ›Besede‹, in izhaja iz uvodnega stavka v 1,1: ›To so besede‹. Mojzesove besede novemu rodu so podane v ustni in pisni obliki, tako da se bodo ohranile za vse rodove. Devteronomij so poimenovali ›Pet petin postave‹, saj zaključuje pet Mojzesovih knjig. Judje so jo imenovali tudi Mishneh Hatorah, ›Ponovitev postave‹, kar je v Septuaginti prevedeno kot To Deuteronomion Touto, ›Druga postava‹. Vendar Devteronomij ni druga postava, temveč prilagoditev in razširitev velikega dela prvotne postave, dane na gori Sinaj. Angleški naslov izvira iz grškega naslova Deuteronomion, ›Druga postava‹. Devteronomij je bil ustrezno imenovan tudi ›Knjiga spomina‹. 1. Mojzesova govora, ponovitev desetih Božjih zapovedi, obnovitev postave (1-30). 2. Mojzesova zadnja določila in smrt (31-43).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	1	Deuteronomy 5:6 [1] ›Jaz sem Gospod, tvoj Bog, ki te je privedel iz egiptovske dežele, iz hiše sužnosti.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	2	Deuteronomy 5:7 [2] Pred menoj ne boš imel nobenih drugih bogov.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	3	Deuteronomy 5:11 [3] Ne boš v prazno vzel imena Gospoda, svojega Boga, kajti Gospod ne bo brez krivde držal tistega, ki v prazno jemlje njegovo ime.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Deuteronomy 5:12 [4] Varuj šabatni dan, da ga posvečuješ, kakor ti je zapovedal Gospod, tvoj Bog.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	5	Deuteronomy 5:16 [5] Spoštuj svojega očeta in svojo mater, kakor ti je zapovedal Gospod, tvoj Bog, da bodo tvoji dnevi lahko podaljšani in da ti bo dobro šlo v deželi, ki ti jo daje Gospod, tvoj Bog.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	6	Deuteronomy 5:17 [6] Ne boš ubil.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	7	Deuteronomy 5:18 [7] Niti ne boš zagrešil zakonolomstva.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	8	Deuteronomy 5:19 [8] Niti ne boš kradel.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	9	Deuteronomy 5:20 [9] Niti ne boš pričal po krivem zoper svojega bližnjega.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	0	Deuteronomy 5:21 [10] Niti si ne boš želel žene svojega bližnjega, niti ne boš hlepel [po] hiši svojega bližnjega, [po] njegovem polju ali [po] njegovem slugi ali [po] njegovi dekli, [po] njegovem volu ali [po] njegovem oslu ali [po] katerikoli stvari, ki je [od] tvojega bližnjega.‹	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Joshua 0:0 [Józue, prva od dvanajstih zgodovinskih knjig (Józue-Estera), vzpostavlja povezavo med Peteroknjižjem in preostalo zgodovino Izraela. V treh velikih vojaških pohodih, v katerih je sodelovalo več kot trideset sovražnih vojsk, se izraelsko ljudstvo pod Józuetovim sposobnim vodstvom nauči ključne lekcije: zmaga prihaja z vero v Boga in poslušnostjo njegovi besedi, ne pa z vojaško močjo ali številčno premočjo. Naslov te knjige je primerno poimenovan po osrednji osebnosti, Józuetu. Njegovo prvotno ime je Hoshea, ›Osvoboditelj‹ (4 Mz 13,8), vendar ga Mojzes očitno spremeni v Yehoshua, ›Jahve je osvoboditev‹ (4 Mz 13,16). Imenuje se tudi Yeshua, kar je skrajšana oblika imena Yehoshua. To je hebrejski ekvivalent grškega imena Iesous (Jezus). Tako je grški naslov, ki ga je knjiga dobila v Septuaginti, Iesous Naus, ›Józue, Nunov sin‹. Latinski naslov pa je Liber Josue, ›Józuetova knjiga‹. Józuetovo ime simbolizira dejstvo, da je kljub temu, da je med osvajanjem vodja izraelskega naroda, Gospod Zmagovalec. Knjiga opisuje osvojitev in razdelitev Kánaana. 1. Józuetov govor (1). 2. Osvojitev Kánaana (2-12). 3. Józuetov govor in razdelitev dežele med Izraelove rodove, zavetna mesta in mesta Lévijevcev (13-22). 4. Józuetov poslovilni govor, shod in obnova zaveze v Sihemu, Józuetova smrt (23-24).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	1	Judges 0:0 [Knjiga Sodnikov je v popolnem nasprotju z Józuetovo knjigo. V Józuetovi knjigi je poslušno ljudstvo osvojilo deželo zaradi zaupanja v Božjo moč. V Sodnikih pa je neposlušno in malikovalsko ljudstvo vedno znova poraženo zaradi svojega upora zoper Boga. V sedmih različnih ciklih, od greha do rešitve, Sodniki pokažejo, kako je Izrael zavrgel Božjo postavo in jo nadomestil s tem, ›kar je bilo pravilno v njegovih očeh.‹ (21,25). Ponavljajoča se posledica opustitve Božje postave je pokvarjenost od znotraj in zatiranje od zunaj. V skoraj štirih stoletjih, ki jih zajema ta knjiga, Bog dvigne vojaške prvake, da bi odvrgli jarem suženjstva in narod vrnili k čistemu bogoslužju. Vendar se ›krog greha‹ vse prehitro spet začne, saj se duhovna temperatura naroda vedno bolj ohlaja. Hebrejski naslov je Shophetim, kar pomeni ›sodniki‹, ›vladarji‹, ›osvoboditelji‹ ali ›rešitelji‹. Shophet ne nosi le ideje o ohranjanju pravice in reševanju sporov, ampak se uporablja tudi v pomenu ›osvoboditi‹ in ›rešiti‹. Sodniki najprej osvobodijo ljudi, nato vladajo in izvajajo sodbo. Septuaginta je za to besedo uporabila grško ustreznico Kritai (›sodniki‹). Latinska Vulgata pa jo je imenovala Liber Judicum, ›Knjiga sodnikov‹. Ta knjiga bi se lahko ustrezno imenovala tudi ›Knjiga neuspeha‹. 1. Uspehi in neuspehi pri osvajanju dežele, Gospodov angel (1,1-3,6). 2. Zgodovina nekaterih sodnikov, Samson (3,7-16,31). 3. Malikovanje Danovega rodu (17-18). 4. Vojna z Benjaminovim rodom (19-21).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Ruth 0:0 [Rutina knjiga je kratek opis, ki lepo povzema zgodbo o ljubezni, predanosti in rešitvi, ki je postavljena v temačno okolje dni sodnikov. To je zgodba o Moábki, ki se odpove svoji poganski dediščini, da bi se oklenila izraelskega ljudstva in izraelskega Boga. Zaradi njene zvestobe v času narodove nevere jo Bog nagradi tako, da ji da novega moža (Boaza), sina (Obéda) in privilegiran položaj v Davidovi in Kristusovi liniji (je Davidova prababica). Hebrejski pomeni imen oseb v Rutini knjigi pomenljivo pričujejo o njihovih osebnostih. Ruta je hebrejski naslov te knjige. To ime je morda moábska modifikacija hebrejske besede reuit, ki pomeni ›prijateljstvo‹ ali ›združenje‹. V Septuaginti je knjiga naslovljena Routh, kar je grški ekvivalent hebrejskega imena. Latinski naslov je Ruth, prečrkovanje besede Routh. 1. Uvod Naomí in Ruta (1). 2. Ruta sreča Boaza (2). 3. Ruth prosi Boaza, da jo omoži (3). 4. Zaključek in vloga Boga v zgodbi (4).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	0	Ezra 0:0 [Ezrova knjiga kaže, kako Bog izpolni svojo obljubo, da bo po sedemdesetih letih izgnanstva vrnil svoje ljudstvo v obljubljeno deželo. Izraelov ›drugi eksodus‹, tokratni iz Babilona, je manj impresiven kot vrnitev iz Egipta, saj se za odhod iz Babilona odloči le preostanek. To je knjiga o dveh vrnitvah iz Babilona – o prvi, pod Zerubabélom, da obnovi tempelj (1-6), in o drugi pod Ezrovim vodstvom, da obnovi duhovno stanje ljudstva (7-10). Med tema dvema poročiloma je skoraj šest desetletij razmika, v katerem Estera živi in vlada kot kraljica v Perziji. Ezra je aramejska oblika hebrejske besede ezer, ›pomoč‹, in morda pomeni ›Jahve pomaga‹. Ezra in Nehemija sta bila prvotno povezana v eno knjigo, ker sta kot Kroniški knjigi, Ezra in Nehemija veljali za eno neprekinjeno zgodovino. Septuaginta, grška jezikovna različica Stare zaveze, prevedena v tretjem stoletju pred našim štetjem, Ezra-Nehemija imenuje Esdras Deuteron, ›Druga Ezra‹. Prva Ezra je ime apokrifne knjige Esdras. Latinski naslov je Liber Primus Esdrae, ›Prva Ezrova knjiga‹. V latinskem Svetem pismu se Ezra imenuje Prva Ezra, Nehemija pa Druga Ezra. 1. Vrnitev iz Babilona v Jeruzalem (1-2). 2. Zerubabél vódi obnovo templja in nasprotovanje sovražnikov (3-6). 3. Ezra skrbi za obnovo, prihod druge skupine v Jeruzalem, odslovitev tujih žensk (7-10).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	1	Nehemiah 0:0 [Nehemija, Ezrov sodobnik in kraljevi dvorni točaj v perzijski palači, vódi tretjo in zadnjo vrnitev v Jeruzalem po babilonskem izgnanstvu. Njegova skrb za dobrobit Jeruzalema in njegovih prebivalcev ga spodbudi k pogumnemu ukrepanju. Z dovoljenjem za vrnitev v domovino, spodbudi rojake, naj vstanejo in obnovijo porušeno jeruzalemsko obzidje. Kljub nasprotovanju od zunaj in od znotraj je naloga opravljena v le dvainpetdesetih dneh, kar morajo celo sovražniki Izraela pripisati Božji pomoči. Nasprotno pa naloga oživljanja in preoblikovanja Božjega ljudstva znotraj obnovljenega obzidja zahteva leta Nehemijevega bogaboječega življenja in vodenja. Nehemija se v hebrejščini imenuje Nehemyah, ›Jahvejeva tolažba‹. Knjiga je poimenovana po svojem glavnem junaku, čigar ime je zapisano v uvodni vrstici. Združena knjiga Ezra-Nehemija je v Septuaginti, grškem prevodu hebrejske Stare zaveze iz tretjega stoletja pred našim štetjem, dobila grški naslov Esdras Deuteron, ›Druga Ezra‹. Latinski naslov Nehemijeve knjige je Liber Secundus Esdrae, ›Druga Ezrova knjiga‹ (Ezra je bila prva). Na tej točki velja za ločeno knjigo od Ezre in se pozneje imenuje Liber Nehemiae, ›Nehemijeva knjiga‹. 1. Nehemija pride v Jeruzalem (1-2). 2. Obnova obzidja (3-7). 3. Branje postave, šotorski praznik (8-10). 4. Posvetitev obzidja (11-12). 5. Nehemija se vrne v Babilon (13-13,3). 6. Nehemija pride iz Babilona in reforme v Jeruzalemu (13,4-31).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	0	Esther 0:0 [Božja previdnost in zaščita je očitna v vsej Esterini knjigi, čeprav se njegovo ime ne pojavi niti enkrat. Hamánova zarota preti Judom, toda pogum lepe Estere in nasvet njenega bratranca Mordohaja privede do velike rešitve. Praznik žrebov, to je praznik Purim, postane vsakoletni opomin na to Božjo rešitev. Esterino hebrejsko ime je bilo Hadassah, ›mirta‹ (2,7), njeno perzijsko ime Ester pa izhaja iz perzijske besede za ›zvezdo‹. Grški naslov te knjige je Esther, latinski pa Hester. 1. Estera postane kraljica (1-2). 2. Hamánova zarota in Mordohajev vzpon na oblast (3-6). 3. Hamanov konec in rešitev judovskega ljudstva (7-8). 4. Zmagoslavje judovskega ljudstva (9-10).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	2	Job 0:0 [Jobova knjiga je morda ena izmed prvih knjig Svetega pisma. Sega v obdobje Abrahama, Izaka, Jakoba in Jožefa. V njej je zgodba o človeku, ki izgubi vse – bogastvo, sinove in hčere, zdravje in se sprašuje čemu se mu je to pripetilo. Satan pred Bogom opravlja Joba in Job posledično izgubi imetje, družino in zgodba se nadaljuje s tremi nizi pogovorov med Jobom in njegovimi tremi prijatelji, ki mu pripisujejo krivičnost. Toda Jobu ne morejo dokazati nepravičnosti. Job prizna, da Bog dela vse po svojem načrtu in dobi nazaj več, kot je imel pred preizkušnjami. Iyyob je hebrejski naslov te knjige, ime pa ima dva možna pomena. Če izhaja iz hebrejske besede za ›preganjanje‹, pomeni ›preganjani‹. Bolj verjetno je, da izhaja iz arabske besede, ki pomeni ›vrniti se‹ ali ›pokesati se‹. Če je tako, se lahko opredeli kot ›Skesanec‹. Oba pomena se nanašata na knjigo. Grški naslov je Iob, latinski naslov je Iob. 1. Satan dvakrat pred Bogom (1-2,10). 2. Obisk treh prijateljev in trije krogi pogovorov (2,11-31). 3. Elihú spregovori (32-37). 4. Pogovor med Bogom in Jobom (38-41). 5. Prijatelji opravijo daritev, Job moli zanje in Bog Jobu podvoji vse, kar je imel prej (42).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	0	Psalms 0:0 [Knjiga psalmov je največja in morda najbolj poznana knjiga v Svetem pismu. Na zelo oseben in praktičen način raziskuje celoten razpon človeških izkušenj. Obsega 150 ›pesmi‹ iz vseh Izraelskih obdobij in z različnimi temami. Napisane so bile ob spremljavi godal in služile so kot pesmi v templju. Knjiga psalmov je bila postopoma zbrana in sprva ni imela imena, morda zaradi velike raznolikosti gradiva. Postala je znana kot Sefer Tehillim – ›Knjiga hvalnic‹ – saj skoraj vsak psalm vsebuje nekaj hvalnic Bogu. Septuaginta za to knjigo uporablja grško besedo Psalmoi, kar pomeni ›pesmi, ki se pojejo ob spremljavi glasbil‹. Imenuje jo tudi Psalterium (›Zbirka pesmi‹) in ta beseda je osnova za izraz Psalter. Latinski naslov je Liber Psalmorum, ›Knjiga psalmov‹. 1. Prva knjiga (1-41). 2. Druga knjiga (42-72). 3. Tretja knjiga (73-89). 4. Četrta knjiga (90-106). 5. Peta knjiga (107-150).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	1	Proverbs 0:0 [Ključna beseda v Pregovorih je modrost, bistvo knjiga pa je zaobseženo v stavku: ›Začetek modrosti je strah Gospodov‹. Toda življenje z Bogom v brezbožnem svetu ni preprosta naloga. Pregovori vsebujejo navodila za njegovo ljudstvo, kako uspešno reševati praktične zadeve vsakdanjega življenja: kako ravnati z Bogom, starši, otroki, sosedi in vlado. Glavni avtor Salomon uporablja kombinacijo poezije, prilik, pikrih vprašanj, kratkih zgodb in modrih izrekov, da Bog vse vidi, vlada nad vsem, sovraži hudo in hoče dobro in da edini lahko osreči človeka, da bi s Psalmi, v presenetljivo zapomnljivi obliki, podal zdravo pamet in božanski pogled, ki sta potrebna za reševanje življenjskih vprašanj. Ker je bil Salomon, vrh izraelskih modrecev, glavni avtor, je naslov te knjige v hebrejščini Mishle Shelomoh, Salomonovi pregovori (1,1) in pomeni rek, priliko in tudi pregovor. Grški naslov je Paroimiai Salomontos, ›Salomonovi pregovori‹. Latinski naslov Liber Proverbiorum, ›Knjiga pregovorov‹, združuje besedi pro ›za‹ in verba ›besede‹ in opisuje način, kako pregovori zgoščajo veliko besed v nekaj. Rabinski spisi so pregovore imenovali Sepher Hokhmah, ›Knjiga modrosti‹. 1. Predgovor, namen knjige (1-1,7). 2. Razprava o modrosti (1,8-9,18). 3. Salomonovi pregovori (10-22,16). 4. Besede modrih (22,17-24,22). 5. Tudi to je od modrih (24,23-24,34). 6. Tudi to so Salomonovi pregovori (25-29). 7. Besede Jakéjevega sina Agúrja (30). 8. Besede kralja Lemuéla (31,1-9). 9. Hvala vrli ženi (31,10-31).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Ecclesiastes 0:0 [Ključna beseda v knjigi Pridigar je nečimrnost, ›jalova praznina poskusa biti srečen brez Boga‹. Pridigar (običajno Salomon – (1,1 in 1,12) – najmodrejši, najbogatejši in najvplivnejši kralj v zgodovini Izraela) gleda na življenje in vidi, da ›pod soncem ni nobene nove stvari‹ (1,9) in s človeške perspektive vse to razglasi za prazno. Oblast, priljubljenost, prestiž, užitek – nič ne more zapolniti praznine v človekovem življenju, ki jo oblikuje Bog, razen Boga samega! Ko pa je življenje videno z Božje perspektive, dobi smisel in namen, zaradi česar Salomon vzklikne: ›Jejte … pijte … veselite se … delajte dobro … živite z veseljem … bojte se Boga, upoštevajte njegove zapovedi!‹ Skepticizem in obup se razblinita, ko na življenje gledamo kot na vsakodnevni Božji dar. Hebrejski naziv Qoheleth je redek izraz; najdemo ga le v Pridigarju (1,1-2; 1,12; 7,27; 12,8-10). Izhaja iz besede qahal, ›sklicati zbor, zbrati se‹. Tako pomeni ›tisti, ki nagovarja zbrane‹, ›pridigar‹. Septuaginta je za naslov te knjige uporabila grško besedo Ekklesiastes. Izhaja iz besede ekklesia, ›zbor‹, ›občestvo‹, ›cerkev‹, in pomeni preprosto ›pridigar‹. Latinska beseda Ekleziastes pomeni ›govornik pred zborom‹. 1. Življenje brez Boga (1,3–12,7). 2. Modri zaključek avtorja (12,9–14).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	6	Isaiah 0:0 [Izaija je kot Sveto pismo v malem. Prvih devetintrideset poglavij (tako kot devetintrideset knjig Stare zaveze) je napolnjenih s sodbo nad nemoralnimi in malikovalskimi ljudmi. Juda je grešil, okoliški narodi so grešili, vsa zemlja je grešila. Sodba mora priti, saj Bog ne more dovoliti, da bi tako očiten greh ostal nekaznovan za vedno. Toda zadnjih sedemindvajset poglavij (tako kot sedemindvajset knjig Nove zaveze) prinaša sporočilo upanja. Mesija prihaja kot Odrešenik in Vladar, ki bo nosil križ in krono. Izaijevo preroško služenje, ki je zajelo obdobje vladavine štirih Judovih kraljev, traja vsaj štirideset let. Jesha'yahu in njegova skrajšana oblika Yeshaiah pomenita ›Jahve je rešitev duše‹. To ime je odličen povzetek vsebine knjige. Grška oblika v Septuaginti je Hesaias, latinska oblika pa Esaias ali Isaias. 1. Knjiga sodbe (1-39). 2. Knjiga tolažbe (40-66).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	2	Jeremiah 0:0 [Jeremijeva knjiga je prerokba moža, ki ga je Bog v mladosti poklical iz duhovniškega mesta Anatóta. Jeremija je prerok z zlomljenim srcem in s presunljivim sporočilom, ki več kot štirideset let trdovratnemu judovskemu ljudstvu razglaša sporočilo o pogubi. Jeremija, ki ga njegovi rojaki prezirajo in preganjajo, svoje stroge prerokbe kopa v solzah sočutja. Zaradi svojega zlomljenega srca napiše zlomljeno knjigo, ki jo je težko kronološko ali tematsko urediti. Toda s svojimi pridigami in znamenji zvesto razglaša, da je predaja Božji volji edini način, da se izognemo nesreči. Yirmeyahu ali Yirmeyah dobesedno pomeni ›Jahve meče‹, morda v smislu postavljanja temeljev. Dejansko lahko pomeni ›Jahve postavlja, imenuje ali pošilja‹. Grška oblika hebrejskega imena v Septuaginti je Hieremias, latinska oblika pa Jeremias. 1. Bog pokliče Jeremija za preroka in prvi dve videnji (1). 2. Prerokbe in dejanja proti Judu in Jeruzalemu (2-25,14). 3. Prerokbe proti tujim narodom (25,15-25,38). 4. Prerokbe proti Izraelu in Judu (26-29,32). 5. Obnova Izraela (30-35). 6. Pripoved o Jeremijevi preroški službi (36-45). 7. Prerokbe proti tujim narodom (46-51). 8. Zgodovinski dodatek (52).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	5	Lamentations 0:0 [Žalostinke opisujejo pogreb mesta Jeruzalem ob njegovem zavzetju in porušenje templja leta 587 pr. Kr. To je s solzami obarvan portret nekdaj ponosnega Jeruzalema, ki so ga babilonske horde, ki so vdirale, spremenile v ruševine. Jeremija v petih pesmih razkriva svoja čustva. Zgodila se je smrt; Jeruzalem je neploden. Jeremija svojo žalostinko zapiše v akrostih ali po abecedi. Vsako poglavje začne s prvo črko A (alef) in tako po verzih napreduje po hebrejski abecedi, dobesedno joka od A do Ž, kar olajša pomnjenje. Potem pa sredi tega strašnega holokavsta Jeremija zmagoslavno vzklikne: ›Velika je tvoja zvestoba‹ (3,23). Spričo smrti in uničenja, ko se zdi, da življenje razpada, Jeremija tragedijo spremeni v zmagoslavje vere. Bog ga v preteklosti še nikoli ni pustil na cedilu. Bog je obljubil, da bo ostal zvest tudi v prihodnosti. V luči Boga, ki ga pozna in ljubi, Jeremija najde upanje in tolažbo. Hebrejski naslov te knjige izhaja iz prve besede 1., 2. in 4. poglavja: Ekah, ›Ah, kako!‹ Za naslov je bila uporabljena tudi druga hebrejska beseda Ginoth (›Elegije‹ ali ›Žalostinke‹), ker bolje predstavlja vsebino knjige. Grški naslov Threnoi pomeni ›Objokovanje‹ ali ›Žalostinke‹, iz te besede je bil izpeljan latinski naslov Threni (›Solze‹ ali ›Žalostinke‹). Podnaslov v Hieronimovi Vulgati se glasi: ›Id est lamentationes Jeremiae prophetae‹, kar je postala podlaga za angleški naslov ›The Lamentations of Jeremiah‹. 1. Opustošenje Jeruzalema (1). 2. Lakota (2). 3. Obup in upanje (3). 4. Konec Jeruzalema (4). 5. Trpljenje starejših (5).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	8	Ezekiel 0:0 [Ezekiel, duhovnik in prerok, služi v najtemnejših dneh judovske zgodovine, v sedemdesetletnem obdobju babilonskega ujetništva. Ezekiel, ki je bil pred zadnjim napadom na Jeruzalem prepeljan v Babilon, uporablja prerokbe, prilike, znamenja in simbole, da bi dramatiziral Božje sporočilo izgnanemu ljudstvu. Čeprav so kot suhe kosti na soncu, jih bo Bog ponovno sestavil in narodu znova vdihnil življenje. Sedanji sodbi bo sledila prihodnja slava, tako da ›boste spoznali, da sem jaz Gospod‹ (6,7). Hebrejsko ime Yehezke'l pomeni ›Bog krepi‹ ali ›okrepljen od Boga‹. Ezekiela Bog res okrepi za preroško službo, h kateri je poklican (3,8-9). To ime se v tej knjigi pojavi dvakrat in nikjer drugje v Stari zavezi. Grška oblika v Septuaginti je Iezekiel, latinska oblika v Vulgati pa Ezechiel. 1. Bog pokliče Ezekiela za preroka (1,1-3,21). 2. Prerokbe o sodbi pred obleganjem Jeruzalema (3,22-24,27). 3. Prerokbe zoper sedem tujih narodov (25-32). 4. Upanje za prihodnost, oživitev Jeruzalema (33-37). 5. Prerokba zoper Gog in Magog (38-39). 6. Pravila za bogoslužje v templju in novi Izrael (40-48).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	2	Daniel 0:0 [Danielovo življenje in služenje prežemata celotno sedemdesetletno obdobje babilonskega ujetništva. Daniel, ki je bil pri šestnajstih letih izgnan v Babilon in izbran za vladno službo, postane Božji preroški glasnik, ki poganskemu in judovskemu svetu razglaša sedanji in večni Božji namen. Devet od dvanajstih poglavij njegove knjige se vrti okoli sanj, vključno z videnji, ki jih je dal Bog in vključujejo drevesa, živali, zveri in podobe. Tako v svojih osebnih dogodivščinah kot v preroških videnjih Daniel prikazuje Božje vodstvo, posredovanje in moč v človeških zadevah. Ime Daniye'l ali Dani'el pomeni ›Bog je moj sodnik‹, knjiga pa je seveda poimenovana po avtorju in glavnem junaku. Grška oblika Daniel v Septuaginti je osnova za latinski in angleški naslov. 1. Pripovedi o Danielu in njegovih tovariših (1-6). 2. Danielova videnja (7-12).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Hosea 0:0 [Ozej, čigar ime pomeni ›osvoboditelj‹, služi severnemu izraelskemu kraljestvu (imenovanemu tudi Efrájim, po njegovem največjem rodu). Navzven narod doživlja čas blaginje in rasti, znotraj pa ga prežemata moralna pokvarjenost in duhovno prešuštvovanje. Ozej, ki mu je Bog naročil, naj se poroči z žensko po imenu Gómera, ugotovi, da je njegovo domače življenje natančna in tragična dramatizacija nezvestobe Božjega ljudstva. V pol stoletja preroške službe Ozej večkrat ponovi svoje trojno sporočilo: Bog sovraži grehe svojega ljudstva; sodba je gotova; toda Božja zvesta ljubezen je trdna. Imena Ozej, Józue in Jezus izhajajo iz istega hebrejskega korena. Beseda hoshea pomeni ›odrešitev‹, vendar ›Józue‹ in ›Jezus‹ vključujeta dodatno idejo: ›Jahve je odrešitev‹. Ozej kot Božji poslanec ponuja možnost odrešitve, če se bo le narod od malikovanja obrnil nazaj k Bogu. Zadnji izraelski kralj Hošéa ima enako ime kot prerok, čeprav ju Sveto pismo piše drugače. Ozej je v grščini in latinščini Osee. 1. Ozejev zakon z Gómero (1-2). 2. Pojdi že, ljubi žensko … (3). 3. Sodba Izraela, zlasti Efrájima, ker ni živel v skladu z zavezo (4-14).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Joel 0:0 [Južno judovsko kraljestvo brez opozorila prizadene katastrofa kobilic. V nekaj urah pojedo vse, kar je zelenega. Joél, Božji govornik v času Joáševe vladavine (835-796 pr. Kr.), izkoristi to priložnost in razglasi Božje sporočilo. Čeprav je bila kuga kobilic strašna obsodba za greh, bodo prihodnje Božje sodbe na Gospodov dan v primerjavi s to kugo zbledele. Na tisti dan bo Bog uničil svoje sovražnike, tistim, ki ga zvesto ubogajo, pa bo prinesel blagoslov brez primere. Hebrejsko ime Yo'el pomeni ›Jahve je Bog‹. To ime je primerno za temo knjige, ki poudarja Božje suvereno delovanje v zgodovini. V njegovih rokah so tokovi narave in narodov. Grški ekvivalent je Ioel, latinski pa Joel. 1. Kobilice (1,1-2,11). 2. Klic k spreobrnjenju (2,12-2,17). 3. Obljuba prihodnjega blagoslova (2,18-3,5). 4. Prihajajoča sodba za sovražnike Judovega kraljestva (4).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	9	Amos 0:0 [Amos prerokuje v obdobju nacionalnega optimizma v Izraelu. Poslovanje je v razcvetu, meje se širijo, hkrati pa se povečujejo družbene razlike. Toda pod površjem gnijeta pohlep, nepravičnost in krivične sodbe nekaterih sodišč. Pravo slavljenje so nadomestila hinavska verska gibanja, kar ustvarja lažen občutek varnosti in vse večjo brezčutnost do Božje kaznovalne roke. Lakota, suša, kuge, smrt, uničenje – nič ne more prisiliti ljudi, da bi pokleknili. Pastir Amos, ki je postal prerok, se neusmiljeno spravi na greh in poskuša prikazati bližino Božje sodbe ter narod spodbuditi k spreobrnjenju. Narod je zaradi hinavščine in duhovne brezbrižnosti kot košara gnijočega sadja, zrel za sodbo. Ime Amos izhaja iz hebrejskega korena amas, ›dvigniti breme, nositi‹. Tako njegovo ime pomeni ›breme‹ ali ›nosilec bremena‹. Amos živi v skladu s pomenom svojega imena tako, da nosi svoje od Boga dano breme, da razglaša sodbo upornemu Izraelu. Grški in latinski naslov sta v angleščino prevedena kot Amos. 1. Prerokbe zoper sedem sosednjih narodov in zoper Izrael (1-2). 2. Utemeljitev napovedi sodbe nad Izraelom (3-6). 3. Pet videnj Božje sodbe nad Izraelom, prerokov izgon in beseda upanja (7-9).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	1	Obadiah 0:0 [Boj, ki se je začel v maternici med bratoma dvojčkoma Ezavom in Jakobom, se konča z bojem med njunimi potomci, Edómci in Izraelci. Zaradi trmastega zavračanja pomoči Izraelu s strani Edómcev, najprej v času tavanja po divjini (4 Mz 20,14-21) in pozneje v času invazije, jih Abdíja ostro obsodi. Ta malo znani prerok opiše njihove zločine, jim sodi in izreče sodbo: popolno uničenje, ki se je zgodilo dobrih petdeset let kasneje. Hebrejsko ime Obadyah pomeni ›Jahvov častilec‹ ali ›Jahvov služabnik‹. Grški naslov v Septuaginti je Obdiou, latinski naslov v Vulgati pa Abdias. 1. Opis videnja (v. 1-18). 2. Razlaga videnja (v. 19-21).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Jonah 0:0 [Ninive so na severovzhodu; Taršíš je na zahodu. Ko Bog pokliče Jona, da brezbožnim Ninivljanom oznani kesanje, se prerok zaveda, da bo morda sledilo Božje usmiljenje. Zato nalogo zavrne in se namesto tega odpravi v Taršíš. Toda ko mu Bog omoči duha (tako da ga vrže iz čolna v vodo) in pokaže svoje varstvo (tako da ga premakne iz vode v ribo), Jona spozna, da Bog resno misli s svojo zapovedjo. Ninive morajo slišati Gospodovo besedo, zato Jona odide. Čeprav je pridiga uspešna, pridigar odide jezen in obupan. Iz prve roke mora spoznati Božje usmiljenje do grešnih ljudi. Yonah je hebrejska beseda za ›goloba‹. Septuaginta je to besedo helenizirala v Ionas, latinska Vulgata pa je uporabila naslov Jonas. 1. Jonova neposlušnost in beg (1). 2. Jonova molitev (2). 3. Jonova poslušnost in kesanje Ninivljanov (3). 4. Jonova jeza in Božja graja (4).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	7	Micah 0:0 [Mihej, iz svojega kmečkega doma, poklican za preroka, zapusti znano okolje, da bi jeruzalemskim knezom in ljudem izročil strogo sporočilo o sodbi. Ker so bogati in vplivni ljudje zlorabljali revne, se prerok z besednim grajanjem obrne na vse, ki bi svojo družbeno ali politično moč izkoristili za osebno korist. Tretjina Mihejeve knjige razkriva grehe njegovih rojakov; druga tretjina prikazuje kazen, ki jo bo Bog poslal; zadnja tretjina pa prinaša upanje na obnovo, ko se bo kaznovanje končalo. Pri vsem tem so Božje pravične zahteve do njegovega ljudstva jasne: ›da ravnaš pravično, da ljubiš usmiljenje in da ponižno hodiš s svojim Bogom?‹ (6,8). Ime Michayahu (›Kdo je kakor Jahve?‹) je skrajšano na Michaia. V 7,18 Mihej namiguje na svoje ime z besedami: ›Kdo je Bog, podoben tebi?‹. Grška in latinska naslova te knjige sta Michaias in Micha. 1. Sodba proti narodom in njihovim voditeljem (1-3). 2. Obnova Siona in prerokba, da bo Jezus izšel iz Betlehema (4-5). 3. Božja tožba proti Izraelu in izraz upanja (6-7).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	3	Nahum 0:0 [›Kajti komurkoli je mnogo dano, se bo od njega mnogo zahtevalo,‹ (Lk 12,48). Ninivam je bil dan privilegij, da so spoznali edinega pravega Boga. Pod Jonovim pridiganjem se je to veliko pogansko mesto pokesalo in Bog je milostno zadržal svojo sodbo. Vendar pa sto let pozneje Nahum oznani propad tega istega mesta. Asirci so pozabili na svoje prebujenje in se vrnili k svojim navadam nasilja, malikovanja in arogance. Zato bo Babilon tako uničil mesto, da od njega ne bo ostalo niti sledu – prerokba, ki se je izpolnila v bolečih podrobnostih. Hebrejska beseda nahum (›tolažba‹, ›uteha‹) je skrajšana oblika besede Nehemija (›Jahvejeva tolažba‹). Uničenje asirske prestolnice je sporočilo tolažbe in utehe Judom in vsem, ki živijo v strahu pred krutostjo Asircev. Naslov te knjige v grški in latinski Bibliji je Naoum in Nahum. 1. Bog je strašen in usmiljen (1,1-1,8). 2. Padec Niniv in Sirije (1,9-2,13).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	3	Habakkuk 0:0 [Habakuk služi v času ›smrtnih krčev‹ judovskega naroda. Čeprav je narod večkrat pozvan k spreobrnjenju, trmasto noče spremeniti svojih grešnih poti. Habakuk, ki pozna trdosrčnost svojih rojakov, sprašuje Boga, kako dolgo lahko traja to nevzdržno stanje. Bog odgovori, da bodo Babilonci njegova kaznovalna palica za narod – napoved, ki preroka spravi na kolena. Priznava, da bo pravični v vsaki generaciji živel po svoji veri (2,4) in ne po videnju. Habakuk na koncu hvali Božjo modrost, čeprav Božjih poti ne razume popolnoma. Habaqquq je nenavadno hebrejsko ime, ki izhaja iz glagola habaq, ›objemati‹. Tako njegovo ime verjetno pomeni ›tisti, ki objema‹ ali ›se oklepa‹. Na koncu njegove knjige to ime postane primerno, saj se Habakuk odloči, da se bo trdno oklepal Boga ne glede na to, kaj se bo zgodilo njegovemu narodu (3,16-19). Grški naslov v Septuaginti je Ambakouk, latinski naslov v Hieronimovi Vulgati pa Habacuc. 1. Razprava med Bogom in Habakukom (1). 2. Prerokovanje gorja (2). 3. Habakukova pesem (3).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	0	Zephaniah 0:0 [V razgibani politični in verski zgodovini Juda od časa do časa pride do reforme. Sofonijeva močna prerokba je morda dejavnik reforme, ki se zgodi v času Jošíjeve vladavine – ›preporoda‹, ki povzroči zunanje spremembe, vendar ne odpravi v celoti notranje srčne pokvarjenosti, ki je značilna za narod. Sofonija večkrat vtisne v spomin svoje sporočilo, da prihaja Gospodov dan, sodni dan, ko se bo treba spopasti z malignostjo greha. Izrael in njegovi sosedje pogani bodo kmalu izkusili uničujočo roko Božje jeze. Toda po končanem procesu kaznovanja bo prišel blagoslov v osebi Mesije, ki bo razlog za hvalo in petje. Tsephan-yah pomeni ›Jahve skriva‹ ali ›Jahve je skril‹. Sofonija se je očitno rodil v drugem delu vladavine kralja Manáseja. Njegovo ime lahko pomeni, da je bil ›skrit‹ pred Manásejevimi grozodejstvi. Grški in latinski naslov je Sophonias. 1. Božja sodba nad Judom in Jeruzalemom (1,1-2,3). 2. Božja sodba nad drugimi narodi in Jeruzalemom (2,4-3,8). 3. Upanje za narode in Jeruzalem po sodbi (3,9–3,20).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	9	Haggai 0:0 [Z babilonskim izgnanstvom v preteklosti in z novo skupino Judov, ki se je vrnila v deželo, se lahko začne delo obnove templja. Vendar šestnajst let po začetku procesa ljudje še niso dokončali projekta, saj so se njihove osebne zadeve vmešavale v Božje zadeve. Agej pridiga ognjevito serijo pridig, katerih namen je spodbuditi narod, da bi dokončali tempelj. Graditelje poziva k obnovljenemu pogumu v Gospodu, obnovljeni svetosti življenja in obnovljeni veri v Boga, ki nadzoruje prihodnost. Etimologija in pomen besede Haggay sta negotovi, vendar verjetno izhajata iz hebrejske besede hag, ›praznik‹. Lahko je tudi skrajšana oblika besede haggiah, ›praznik Jahveja‹. Tako Agejevo ime pomeni ›praznični‹. Morda zato, ker se je rodil na dan velikega praznika, kot je šotorski praznik (Agejevo drugo sporočilo se zgodi med tem praznikom, 2,1). Naslov v Septuaginti je Aggaios, v Vulgati pa Aggaeus. 1. Spodbuda na obnovo templja (1). 2. Vizija in upanje za obnovljeni tempelj (2,1-9). 3. Poziv k zvestobi in poslušnosti (2,10-19).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Zechariah 0:0 [Že ducat let ali več je bila naloga obnove templja napol končana. Zaharija dobi od Boga naročilo, naj ljudstvo spodbudi glede odgovornosti pri nedokončani obnovi templja. Namesto da bi jih k dejanjem spodbudil z močnimi besedami graje, jih Zaharija želi spodbuditi k dejanjem tako, da jih spomni na prihodnji pomen templja. Tempelj je treba zgraditi, saj ga bo nekega dne naselila Mesijeva slava. Toda prihodnji blagoslov je odvisen od sedanje poslušnosti. Ljudje ne gradijo le stavbe, ampak gradijo prihodnost. S tem kot motivacijo se lahko z vso vnemo lotijo gradnje, saj prihaja njihov Mesija. Zekar-jah pomeni ›Jahve se spominja‹ ali ›Jahve se je spomnil‹. Ta tema prevladuje v celotni knjigi: Izrael bo blagoslovljen, ker se Jahve spominja zaveze, ki jo je sklenil z očeti. Grška in latinska različica njegovega imena je Zacharias. 1. Niz videnj, ki skicirajo prihodnost Božjega ljudstva (1-8). 2. Prerokbe o Mesiju in dogodkih pred njegovim drugim prihodom (9-14).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Malachi 0:0 [Malahija, prerok v Nehemijevih dneh, svoje sporočilo o sodbi nameni ljudstvu, ki so ga pestili pokvarjeni duhovniki, zlobne prakse in lažen občutek varnosti v privilegiranem odnosu z Bogom. Z metodo vprašanj in odgovorov Malahija poglobljeno raziskuje njihove težave, kot so hinavščina, nezvestoba, mešani zakoni, ločitve, lažno čaščenje in aroganca. Narod je postal tako grešen, da Božje besede ljudem nimajo več učinka. Štiristo let po Malahijevih glasnih obsodbah Bog molči. Šele s prihodom Janeza Krstnika (prerokovanega v 3,1) Bog svojemu ljudstvu ponovno spregovori s preroškim glasom. Pomen imena Mal'aki (›Moj poslanec‹) je verjetno skrajšana oblika imena Mal'akya, ›Jahvejev poslanec‹, in je primeren za knjigo, ki govori o prihodu ›poslanca zaveze‹ (›poslanec‹ je trikrat omenjen v 2,7; 3,1). Septuaginta je uporabljala naslov Malachias, čeprav ga je prevajala tudi kot ›z roko svojega glasnika‹. Latinski naslov je Maleachi. 1. Pokvarjenost Izraela (1-2). 2. Upor Izraela (3). 3. Gospodov dan (4).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	8	Matthew 0:0 [Evangelij po Mateju je evangelij, ki ga je napisal Jud Judom o Judih. Matej je pisec, njegovi rojaki so bralci, Jezus Kristus pa je tema. Matejev namen je predstaviti Jezusa kot judovskega kralja, dolgo pričakovanega Mesijo. S skrbno izbranimi citati iz Stare zaveze Matej dokumentira trditev Jezusa Kristusa, da je Mesija. Njegov rodovnik, krst, sporočila in čudeži kažejo na isti neizogiben sklep: Kristus je kralj. Tudi v njegovi smrti se navidezni poraz z vstajenjem spremeni v zmago in ponovno odmeva sporočilo: Kraj Judov živi. Ta evangelij je zgodaj dobil naslov Kata Matthaion, ›Po Mateju‹. Kot je razvidno iz tega naslova, so bili v tistem času znani tudi drugi evangeliji (beseda ›evangelij‹ je bila dodana pozneje). Matej (›Gospodov dar‹) je bil imenovan tudi Levi (Mr 2,14; Lk 5,27). 1. Jezus kot Mesija in Emanuel (Bog z nami) (1-3). 2. Prihod Božjega kraljestva in govor na gori (4-7). 3. Moč kraljestva in povabilo k učenstvu (8-10). 4. Različni odzivi na Jezusa (11-13). 5. Kaj za Jezusa pomeni biti Mesija (14–20). 6. Jezus se sooči z izraelskimi voditelji (21–25). 7. Jezusovo sojenje, križanje in vstajenje (26-28).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	0	Mark 0:0 [Sporočilo Markovega evangelija je zajeto v eni sami vrstici: ›Kajti tudi Sin človekov ni prišel, da bi mu služili, ampak da bi služil in dal svoje življenje v odkupnino za mnoge.‹ (10,45). Knjiga po poglavjih razkriva dvojno usmeritev Kristusovega življenja: služenje in žrtvovanje. Marko prikazuje Jezusa kot služabnika v gibanju, ki se takoj odziva na Očetovo voljo. S pridiganjem, poučevanjem in zdravljenjem služi potrebam drugih vse do smrti. Po vstajenju svojim sledilcem naroči, naj v njegovi môči nadaljujejo njegovo delo – služabniki, ki sledijo stopinjam popolnega Služabnika. Starodavni naslov tega evangelija je bil Kata Markon, ›Po Marku‹. Avtor je najbolj znan po svojem latinskem imenu Marcus, v judovskih krogih pa so ga imenovali s hebrejskim imenom Janez. V Dejanjih apostolov 12,12 in 12,25 je omenjen kot ›Janez, katerega vzdevek je bil Marko‹. 1. Mešane reakcije na prihod Božjega kraljestva v Jezusu (1,1-8,26). 2. Kaj pomeni, da je Jezus, Mesija (8,27-10). 3. Spopad, križanje in vstajenje (11-16,8). 4. Daljši konec (16,9-20).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Luke 0:0 [Luka, zdravnik, piše s sočutjem in toplino družinskega zdravnika, ko skrbno dokumentira popolno človeškost Sina človekovega, Jezusa Kristusa. Luka poudarja Jezusovo poreklo, rojstvo in zgodnje življenje, nato pa previdno in kronološko preide skozi njegovo zemeljsko službo. Rastoča vera in naraščajoče nasprotovanje se razvijata vzporedno. Tisti, ki verjamejo, so pozvani, da preštejejo ceno učenstva. Tisti, ki nasprotujejo, ne bodo zadovoljni, dokler Sin človekov ne bo brez življenja visel na križu. Toda vstajenje zagotavlja, da bo njegov namen izpolnjen: ›da poišče in da reši to, kar je bilo izgubljeno.‹ (19,10). Kata Loukan, ›Po Luku‹, je starodavni naslov, ki je bil temu evangeliju dodan zelo zgodaj. 1. Uvod (1,1–4). 2. Pripoved o otroštvu Janeza Krstnika in Jezusa (1,5–2,52). 3. Priprava na javno delovanje (3,1–4,13). 4. Služenje v Galileji (4,14–9,50). 5. Jezus na poti v Jeruzalem (9,51–19,27). 6. Jezusovo učiteljsko služenje v Jeruzalemu (19,28–21,38). 7. Trpljenje in smrt (22–23). 8. Jezusovo vstajenje (24).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	1	John 0:0 [Tako kot ima kovanec dve strani, ki sta obe veljavni, ima tudi Jezus Kristus dve naravi, ki sta obe veljavni. Luka predstavlja Kristusa v njegovi človeškosti kot Sina človekovega, Janez pa v njegovi božanskosti kot Božjega Sina. Janezov namen je popolnoma jasen: predstaviti Kristusa v njegovem božanstvu, da bi v svojih bralcih vzbudil vero. Janezov evangelij je aktualen in ne povsem kronološki ter se vrti okoli sedmih čudežev in sedmih Kristusovih izjav ›Jaz sem‹. Po obsežnem opisu obroka in pogovora v zgornji sobi, ki so ga opravili očividci, Janez opisuje dogodke, ki so vodili do vstajenja, zadnjega vrhunskega dokaza, da je Jezus tisti, za katerega trdi, da je Božji Sin. Naslov četrtega evangelija ima enak format kot naslovi ostalih treh evangelijev: Kata Ioannen, ›Po Janezu‹. Tako kot pri drugih je bila beseda ›evangelij‹ dodana pozneje. Ioannes izhaja iz hebrejskega imena Johanan, ›Jahve je bil usmiljen‹. 1. Jezus kot Beseda in prvi učenci (1). 2. Jezus dela čudeže (2-12). 3. Jezusova zadnja noč s svojimi učenci (13-17). 4. Prijetje, sojenje, križanje in vstajenje (18-20). 5. Jezus se prikaže pri Galilejskem jezeru (21).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	8	Acts 0:0 [Jezusove zadnje zapisane besede so postale znane kot Veliko naročilo: › … vi mi boste priče, tako v Jeruzalemu kakor po vsej Judeji in v Samariji ter do skrajnega dela zemlje.‹ (1,8). Dejanja apostolov, ki jih je napisal Luka, so zgodba o moških in ženskah, ki so to naročilo vzeli resno in začeli širiti novico o vstalem Odrešeniku v najbolj oddaljene kotičke znanega svetá. Vsak del knjige (1-7; 8-12; 13-28) se osredotoča na določeno občinstvo, ključno osebnost in pomembno fazo širjenja evangelijskega sporočila. Ker gre za drugi del Lukovega dvodelnega dela, ta knjiga verjetno ni imela posebnega naslova. Toda vsi razpoložljivi grški rokopisi jo označujejo z naslovom Praxeis, ›Dejanja‹, ali z razširjenim naslovom, kot so ›Dejanja apostolov‹. Praxeis se je v grški literaturi pogosto uporabljal za povzemanje dosežkov izjemnih ljudi. Čeprav so apostoli na več mestih omenjeni skupaj, so v tej knjigi v resnici zapisana dejanja Petra (1-12) in Pavla (13-28). 1. Jezus pooblasti svoje učence in vnebovzetje (1). 2. Prihod Svetega Duha v Jeruzalemu in rojstvo Cerkve (2-7). 3. Oznanjevanje v Judeji in Samariji (8-9). 4. Oznanjevanje tudi poganom (10-15). 5. Pavlova potovanja, aretiran v Jeruzalemu in zaprt v Rimu (16-28).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	7	Romans 0:0 [Pismo Rimljanom, Pavlovo največje delo, je med njegovimi trinajstimi pismi v Novi zavezi uvrščeno na prvo mesto. Medtem ko štirje evangeliji predstavljajo besede in dela Jezusa Kristusa, Pismo Rimljanom raziskuje pomen njegove žrtvene smrti. V obliki vprašanj in odgovorov Pavel zapiše najbolj sistematično predstavitev nauka v Svetem pismu. Pismo Rimljanom je več kot le knjiga teologije; je tudi knjiga praktičnih napotkov. Dobra novica o Jezusu Kristusu je več kot le dejstva, ki jih je treba verjeti, ampak je tudi življenje, ki ga je treba živeti, življenje v pravičnosti, ki ustreza človeku: ›opravičeni pa so zastonj, po njegovi [Božji] milosti prek odkupitve, ki je v Kristusu Jezusu;‹ (3,24). Čeprav nekateri rokopisi izpuščajo ›v Rimu‹ v 1,7 in 1,15, je bil naslov Pros Romaious, ›Rimljanom‹, povezan s pismom skoraj od začetka. 1. Pozdrav (1,1–15). 2. Človeštvo izgubljeno brez evangelija (1,16–3,20). 3. Opravičenje skozi vero v Kristusa (3,21–5,21). 4. Opravičenje in krščansko življenje (6–8). 5. Božja obljuba za Jude in pogane (9–11). 6. Napotki za krščansko življenje (12,1–15,13). 7. Zaključek (15,14–16,27).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	6	Galatians 0:0 [Zdi se, da so Galačani, ki so svojo krščansko izkušnjo začeli z vero, zadovoljni, da so zapustili potovanje vere in si začrtali novo pot, ki temelji na delih – pot, ki se Pavlu zdi moteča. Njegovo pismo Galačanom je odločen napad na evangelij del in obramba evangelija vere. Pavel najprej predstavi svoje poverilnice kot apostol z Božjim sporočilom: blagoslov prihaja od Boga na podlagi vere in ne postave. Postava razglasi človeka za krivega in ga zapre v zapor, vera pa ga osvobodi in mu omogoči uživanje svobode v Kristusu. Toda svoboda ni dovoljenje za greh. Svoboda v Kristusu pomeni svobodo, da z življenjskim slogom, ki ga vódi Duh, rodimo sadove pravičnosti. Knjiga se imenuje Pros Galatas, ›Galačanom‹, in je edino Pavlovo pismo, ki je izrecno naslovljeno na več cerkva (›cerkvam v Galatiji‹, 1,2). Ime Galačani je to keltsko ljudstvo dobilo zato, ker je pred selitvijo v Malo Azijo prvotno živelo v Galiji. 1. Novo-zavezna družina skozi Jezusa (1-2). 2. Življenje iz vere in po postavi (3-4). 3. Življenje po Duhu in novo stvarjenje (5-6).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	6	Ephesians 0:0 [Pismo Efežanom je naslovljeno na skupino vernikov, ki so v Jezusu Kristusu neznansko bogati, a živijo kot berači, in to samo zato, ker se svojega bogastva ne zavedajo. Pavel v poglavjih 1-3 najprej opiše vsebino nebeškega ›bančnega računa‹ kristjanov: posvojitev, sprejetje, odkup, odpuščanje, modrost, dediščina, pečat Svetega Duha, življenje, milost, državljanstvo – skratka vsak duhovni blagoslov. V poglavjih 4-6 se kristjan nauči duhovne hoje, ki temelji na njegovem duhovnem bogastvu. ›Kajti mi smo njegova izdelava, ustvarjeni v Kristusu Jezusu (1-3) za dobra dela, ki jih je Bog poprej odredil, da bi v njih hodili. (4-6)‹ (2,10). Tradicionalni naslov tega pisma je Pros Ephesious, ›Efežanom‹. Mnogi stari rokopisi pa v 1,1 izpuščajo en Epheso, ›v Efezu‹. Zaradi tega so številni učenjaki oporekali tradicionalnemu mnenju, da je bilo to sporočilo namenjeno posebej Efežanom. Lahko gre tudi za okrožno pismo, ki ga je Pavel poslal cerkvam v Aziji. Trdi, da je pismo Efežanom v resnici krščanski traktat, namenjen splošni uporabi; ne vključuje nobenih polemik in ne obravnava posebnih problemov v posamezni cerkvi. Nekateri učenjaki sprejemajo starodavno izročilo, da je pismo Efežanom Pavlovo pismo Laodikejcem (Kol 4,16), vendar tega ne moremo z gotovostjo trditi. Če se je pismo Efežanom začelo kot okrožno pismo, se je sčasoma povezalo z Efezom, najpomembnejšo azijsko cerkvijo. Druga verjetna možnost je, da je bilo to pismo neposredno naslovljeno na Efežane, vendar je bilo napisano tako, da je bilo v pomoč vsem cerkvam v Aziji. 1. Duhovni blagoslovi spreobrnjenih kristjanov (1-3). 2. Vsakdanje vedenje (4-6).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	3	Philippians 0:0 [Pavel napiše zahvalno pismo vernikom v Filipih za njihovo pomoč v stiski in ob tej priložnosti pošlje nekaj navodil o krščanski edinosti. Njegova osrednja misel je preprosta: samo v Kristusu sta mogoča resnična edinost in veselje. S Kristusom, kot zgledom ponižnosti in služenja, lahko uživate v enotnosti namena, odnosa, cilja in dela. To je resnica, ki jo Pavel ponazarja s svojim življenjem in ki jo Filipljani nujno morajo slišati. V lastnih vrstah so sodelavci v cerkve v Filipih sprti in ovirajo delo pri oznanjevanju novega življenja v Kristusu. Zaradi tega Pavel spodbuja cerkev, da ›stojte trdno … istega mišljenja … nenehno se veselite v Gospodu … naj bodo v vsaki stvari vaše želje razglašene Bogu z molitvijo in ponižno prošnjo, z zahvaljevanjem. In Božji mir, ki presega vse razumevanje, bo varoval vaša srca in mišljenja po Kristusu Jezusu.‹ (Fil 4,1-2; Fil 4,4; Fil 4,6-7). To pismo se imenuje Pros Philippesious, ›Filipljanom‹. Cerkev v Filipih je bila prva cerkev, ki jo je Pavel ustanovil v Makedoniji. 1. Pavlova hvaležnost za Filipljane (1,1-26). 2. Posnemanje Jezusa v miselnosti in dejanjih (1,27–2,18). 3. Načrti potovanj Pavla in njegovih sodelavcev (2,19–30). 4. Pavlov življenjepis, ki posnema Jezusa (3,1–4,1). 5. Ponižno življenje in upanje (4,2–23).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	4	Colossians 0:0 [Če lahko pismo Efežanom označimo kot pismo, ki prikazuje ›Kristusovo cerkev‹, potem mora biti pismo Kološanom zagotovo ›Kristus cerkve‹. Pismo Efežanom se osredotoča na telo, Pismo Kološanom pa na Glavo. Podobno kot Pismo Efežanom se tudi kratka knjiga Kološanom lepo razdeli na polovici: prvi del je doktrinarni (1 in 2), drugi pa praktični (3 in 4). Pavlov namen je pokazati, da je Kristus prvi in najpomembnejši v vsem, in življenje kristjana mora to odražati. Ker so verniki v njem ukoreninjeni, v njem živijo, v njem skriti in v njem popolni, je popolnoma nezdružljivo, da bi živeli življenje brez njega. Oblečeni v Njegovo ljubezen in z Njegovim mirom, ki vlada v njihovih srcih, so opremljeni, da Kristusa postavijo na prvo mesto na vseh področjih življenja. To pismo je zaradi 1,2 postalo znano kot Pros Kolossaeis. Pavel je želel, da bi ga brali tudi v sosednji cerkvi v Laodikeji (4,16). 1. Jezus kot kralj nad vsem stvarstvom (1,1-23). 2. Pavlovo trpljenje (1,24–2,5). 3. Opozorila pred lažnimi učitelji (2,6-23). 4. Zgledi Jezusove nesebične ljubezni (3–4).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	3	Titus 0:0 [Tita, mladega pastirja, čaka nezavidljiva naloga, da uredi cerkev na Kreti. Pavel mu v pismu svetuje, naj imenuje starešine, može, ki so se v svojih domovih in podjetjih izkazali z duhovnim značajem, da bodo nadzorovali delo cerkve. Toda starešine niso edini posamezniki v cerkvi, od katerih se zahteva, da so duhovno odlični. Moški in ženske, mladi in stari, imajo v cerkvi vsak svojo pomembno nalogo, ki jo morajo opravljati, če želijo biti živi zgled nauka, ki ga izpovedujejo. Pavel v celotnem pismu Titu poudarja nujno, praktično uresničevanje odrešenja v vsakdanjem življenju starešin in zbora. Dobra dela so zaželena in koristna za vse vernike. To tretje pastirsko pismo je preprosto naslovljeno Pros Titon, ›Titu‹. Ironično, to je tudi ime rimskega generala, ki je leta 70 po Kristusu uničil Jeruzalem in nasledil svojega očeta Vespazijana kot cesarja. 1. Navodila za cerkveno vodstvo (1). 2. Navodila za krščanske družine in javno življenje (2). 3. Nova stvaritev v Jezusu (3).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	5	Philemon 0:0 [Ali krščanska bratska ljubezen res deluje, tudi v razmerah izredne napetosti in težav? Ali bo na primer delovala med uglednim lastnikom sužnjev in enim od njegovih pobeglih sužnjev? Pavel o tem ne dvomi! Filemonu, svojemu ljubljenemu bratu in sodelavcu, napiše ›razglednico‹ v imenu Onézima – dezerterja, tatiča in nekdaj ničvrednega sužnja, zdaj pa Filemonovega brata v Kristusu. Z veliko taktnosti in nežnosti Pavel prosi Filemona, naj sprejme Onézima nazaj z enako nežnostjo, s kakršno bi sprejel samega Pavla. Pavel obljubi, da bo poravnal vsak Onézimov dolg. Ker pozna Filemona, je Pavel prepričan, da bosta bratska ljubezen in odpuščanje zmagala. Ker je to pismo v 1. vrstici naslovljeno na Filemona, postane znano kot Pros Philemona, ›Filemonu‹. Podobno je Prvo in Drugo pismo Timoteju in Titu naslovljeno na posameznika, vendar je v nasprotju s pastoralnimi pismi naslovljeno tudi na družino in cerkev (v. 2). 1. Zahvalna molitev (1-7). 2. Prošnja za odpuščanje in obnovo (8-20). 3. Zaključek (21-25).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	3	Hebrews 0:0 [Mnogi judovski verniki, ki so iz judovstva prestopili v krščanstvo, želijo obrniti svojo pot, da bi se izognili preganjanju s strani svojih rojakov. Pisec Pisma Hebrejcem jih spodbuja, naj ›gredo naprej do popolnosti‹ (6,1). Njegov poziv temelji na Kristusovi superiornosti nad judovskim sistemom. Kristus je boljši od angelov, saj ga ti častijo. On je boljši od Mojzesa, saj ga je ustvaril. On je boljši od Aronovega duhovništva, saj je bila njegova žrtev enkrat za vse čase. On je boljši od zakona, ker posreduje boljšo zavezo. Skratka, v Kristusu je mogoče več pridobiti kot izgubiti v juadizmu. Vztrajanje v Kristusu ustvarja preizkušeno vero, samodisciplino in vidno ljubezen, ki se kaže v dobrih delih. Čeprav se včasih navaja naslov ›Pismo apostola Pavla Hebrejcem‹, za to ni nobenih zgodnjih rokopisnih dokazov. Najstarejši in najzanesljivejši naslov je preprosto Pros Ebraious, ›Hebrejcem‹. 1. Jezus v primerjavi z angeli in postavo (1-2). 2. Jezus v primerjavi z Mojzesom in obljubljeno deželo (3-4). 3. Jezus v primerjavi s véliki duhovniki in Melkízedekom (5-7). 4. Jezus v primerjavi z žrtvami in zavezo (8-10). 5. Pobuda k zvestobi Jezusu (11-13).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	5	James 0:0 [Vera brez del se ne more imenovati vera. ›Vera brez del je mrtva‹ (2,26), mrtva vera pa je hujša od nobene vere. Vera mora delovati; mora proizvajati; mora biti vidna. Besedna vera ni dovolj; miselna vera je nezadostna. Vera mora obstajati, vendar mora biti več. Spodbujati mora dejanja. Jakob v svojem pismu judovskim vernikom povezuje pravo vero in vsakodnevne praktične izkušnje tako, da poudarja, da se mora prava vera kazati v dejanjih vere. Vera prenaša preizkušnje. Preizkušnje prihajajo in odhajajo, vendar se močna vera z njimi sooči in razvije vzdržljivost. Vera razume skušnjave. Ne dovoli nam, da bi privolili v svoje poželenje in zdrsnili v greh. Vera uboga Besedo. Ne bo samo slišala, ne pa tudi delala. Vera ustvarja izvrševalce. Vera ne skriva predsodkov. Za Jakoba vera in koristoljubje ne moreta sobivati. Vera se kaže v delih. Vera je več kot le besede, je več kot le znanje, se kaže s poslušnostjo in se odkrito odziva na Božje obljube. Vera nadzoruje jezik. Ta majhen, a izjemno močan del telesa je treba držati v šahu. Vera to lahko stori. Vera deluje modro. Daje nam sposobnost, da izberemo modrost, ki je nebeška, in se izognemo modrosti, ki je zemeljska. Vera ustvarja ločitev od svetá in pokorščino Bogu. Zagotavlja nam sposobnost, da se upremo hudiču in se ponižno približamo Bogu. Nazadnje vera potrpežljivo čaka na Gospodov prihod. V težavah in preizkušnjah duši pritoževanje. Ime Jakobos (Jakob) v 1,1 je osnova za zgodnji naslov Jakobou Epistole, ›Jakobovo pismo‹. Iakobos je grška oblika hebrejskega imena Jakob, judovskega imena, ki je bilo v prvem stoletju pogosto. 1. Modrost, ki jo Jezus ponuja (1). 2. Dvanajst naukov o predanosti Jezusu (2–5).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	5	Jude 0:0 [Borite se! Prepirajte se! Bojujte se! Ko se pojavi odpadništvo, ko se pojavijo lažni učitelji, ko je Božja resnica napadena, je čas za boj za vero. Samo verniki, ki so duhovno ›v kondiciji‹, se lahko odzovejo pozivu. Na začetku svojega pisma se Juda osredotoča na skupno odrešenje vernikov, nato pa se čuti dolžnega, da jih izzove, naj se borijo za vero. Nevarnost je resnična. V Cerkev so se prikradli lažni učitelji, ki Božjo milost spreminjajo v neomejeno dovoljenje, da delajo, kar se jim zljubi. Juda take ljudi spomni na Božje ravnanje z nevernim Izraelom, neposlušnimi angeli ter zlobnima Sódomo in Gomoro. Spričo takšne nevarnosti se kristjani ne smejo pustiti presenetiti. Izziv je velik, vendar je velik tudi Bog, ki jih lahko obvaruje pred spotikanjem. Grški naslov Iouda, ›od Juda‹, izhaja iz imena Ioudas, ki se pojavi v prvi vrstici. To ime, ki ga lahko prevedemo kot Juda ali Judas, je bilo v prvem stoletju priljubljeno zaradi Juda Makabejca (umrl leta 160 pr. Kr.), vodje judovskega upora proti Siriji med Makabejskim uporom. 1. Potegujte se za resnično vero (1,1–4). 2. Pazite se lažnih učiteljev (1,5–19). 3. Kako se boriti za vero (1,20–25).] 	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Source	count	67	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Ko je torej Jezus zgodaj, na prvo šabat, vstal, se je najprej prikazal Mariji Magdaleni, iz katere je izgnal sedem demonov.	WARN
+Slovene---Slovene-Savli-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

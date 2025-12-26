@@ -1,0 +1,405 @@
+# File Name: Holy-Bible---Holy-Bible---Hebrew---Hebrew-Aleppo-Codex---Analysis.txt
+# File Size: 28593       
+# File Date: 12/13/2025 05:36:44
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: כתבי הקודש
+# Bible Name English: Hebrew Aleppo Codex
+# Bible Language: עברית
+# Bible Language English: Hebrew
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Hebrew scholars from Tiberias, Israel
+# Bible Source Version: 2/7/2021
+# Bible Source Link: https://unbound.biola.edu
+# Bible Source Year: 950
+# Bible Description: Vowels and the Masorah are omitted
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Hebrew---Hebrew-Aleppo-Codex	ENCODING	Source	Holy-Bible---Hebrew---Hebrew-Aleppo-Codex---Source-Edition.UNBOUND.txt	UTF-8	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	ENCODING	Aionian	Holy-Bible---Hebrew---Hebrew-Aleppo-Codex---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Hebrew---Hebrew-Aleppo-Codex	BYTES	Source	bytes / chars	3292772 / 1998156 (multi-byte)	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	BYTES	Aionian	bytes / chars	3094791 / 1892771 (multi-byte)	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	BYTES	SourceClean	bytes / chars	3291752 / 1997136 (multi-byte)	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	BYTES	AionianClean	bytes / chars	3092075 / 1890275 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Hebrew---Hebrew-Aleppo-Codex	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	AIONIAN	Aionian	book-defined-not-exist	200	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	AIONIAN	Aionian	missing-verse	0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	AIONIAN	Aionian	aionian-verses	64	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Hebrew---Hebrew-Aleppo-Codex	UNPRINTABLE	Source	count	0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Summary	(-)Orginal	87	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Summary	(+)Aionian	70	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (0)	16401	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (1)	38980	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (O)	23145	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (\t)	93306	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (א)	101054	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : ( )	315821	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ב)	69462	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ר)	70231	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ש)	59746	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (י)	147413	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ת)	64838	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ל)	92047	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ה)	106065	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ם)	42427	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (מ)	59582	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ו)	135162	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ץ)	3476	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (\r)	31102	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (\n)	31102	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (2)	28522	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ח)	30371	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ך)	14312	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ע)	45840	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (פ)	17354	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (נ)	41096	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (3)	17289	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ג)	12949	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (4)	20100	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ד)	35687	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (כ)	38865	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ט)	9946	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ן)	15593	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (5)	10118	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ק)	16688	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Latin-1 Supplement: ( )	27427	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : ({)	4067	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (})	4067	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (6)	10503	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (7)	7421	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ז)	12204	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (8)	7820	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (9)	9329	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (צ)	11952	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (-)	20778	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ף)	2602	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Hebrew : (ס)	10227	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (()	1264	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : ())	1264	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : ([)	231	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (G)	1	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (e)	93	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (n)	45	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (s)	204	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (i)	110	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (:)	231	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (])	240	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (E)	11	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (x)	5	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (o)	47	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (d)	5	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (u)	34	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (L)	7	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (v)	7	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (t)	11	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (c)	68	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (N)	7981	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (m)	98	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (b)	24	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (r)	43	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (D)	7	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (y)	3	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (I)	41	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (S)	4	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (a)	171	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (l)	133	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (K)	16	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (g)	17	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (C)	18	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (h)	82	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (J)	11	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (P)	66	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (f)	1	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (z)	5	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (k)	5	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (H)	4	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (M)	37	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source(-)	Basic Latin : (Z)	4	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (0)	97595	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (1)	33339	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (\t)	92484	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (G)	2189	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (E)	9877	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (N)	3678	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ב)	65587	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ר)	68330	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (א)	96023	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ש)	58435	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (י)	138466	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ת)	63532	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : ( )	272066	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ל)	88596	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ה)	102196	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ם)	41406	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (מ)	57832	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ו)	130198	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ץ)	3314	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (\n)	23120	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (2)	24552	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ח)	27662	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ך)	14065	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ע)	44988	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (פ)	15757	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (נ)	40007	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (3)	13497	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (4)	10443	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (כ)	33621	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ט)	6335	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ד)	32583	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ן)	15310	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (5)	6789	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ק)	16317	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (6)	7288	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (7)	5761	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (8)	6097	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (9)	7788	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ז)	9121	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (צ)	11748	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ג)	10145	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (-)	20486	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ף)	2556	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Hebrew : (ס)	7670	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (()	1109	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : ())	1109	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (S)	6458	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (h)	128	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (e)	64	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (o)	64	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (l)	64	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (X)	1209	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (O)	4440	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (L)	1185	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (V)	859	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (U)	2328	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (M)	1748	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (])	9	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (D)	1930	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (J)	3817	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (R)	2644	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (T)	252	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (A)	6131	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (K)	1535	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (I)	2931	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (C)	2524	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (H)	2507	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (B)	1135	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Aionian(+)	Basic Latin : (P)	3429	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (0)	16401	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (1)	38980	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (O)	23145	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (\t)	93306	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (א)	101054	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : ( )	315821	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ב)	69462	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ר)	70231	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ש)	59746	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (י)	147413	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ת)	64838	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ל)	92047	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ה)	106065	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ם)	42427	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (מ)	59582	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ו)	135162	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ץ)	3476	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (\r)	31102	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (\n)	31102	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (2)	28522	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ח)	30371	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ך)	14312	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ע)	45840	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (פ)	17354	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (נ)	41096	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (3)	17289	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ג)	12949	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (4)	20100	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ד)	35687	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (כ)	38865	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ט)	9946	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ן)	15593	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (5)	10118	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ק)	16688	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Latin-1 Supplement: ( )	27427	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : ({)	4067	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (})	4067	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (6)	10503	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (7)	7421	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ז)	12204	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (8)	7820	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (9)	9329	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (צ)	11952	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (-)	20778	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ף)	2602	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Hebrew : (ס)	10227	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (()	1264	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : ())	1264	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : ([)	231	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (G)	1	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (e)	93	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (n)	45	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (s)	204	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (i)	110	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (:)	231	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (])	240	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (E)	11	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (x)	5	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (o)	47	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (d)	5	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (u)	34	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (L)	7	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (v)	7	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (t)	11	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (c)	68	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (N)	7981	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (m)	98	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (b)	24	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (r)	43	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (D)	7	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (y)	3	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (I)	41	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (S)	4	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (a)	171	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (l)	133	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (K)	16	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (g)	17	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (C)	18	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (h)	82	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (J)	11	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (P)	66	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (f)	1	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (z)	5	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (k)	5	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (H)	4	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (M)	37	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNICODE	Source	Basic Latin : (Z)	4	NOTICE
+
+# VERSIFICATION
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	002-EXO-020-023	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	002-EXO-020-024	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	002-EXO-020-025	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	002-EXO-020-026	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	005-DEU-005-030	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	005-DEU-005-031	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	005-DEU-005-032	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	005-DEU-005-033	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	006-JOS-021-044	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	006-JOS-021-045	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	016-NEH-007-073	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-006	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-007	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-008	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-009	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-010	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-011	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-012	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-013	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-014	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-015	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-016	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	018-JOB-042-017	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Aionian	missing	023-ISA-064-001	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Summary	missing	24	WARN
+Hebrew---Hebrew-Aleppo-Codex	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	()	1264 / 1264	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[]	231 / 240	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	{}	4067 / 4067	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	()	1109 / 1109	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[]	0 / 9	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	04O 10 34 לד וענן יהוה עליהם יומם בנסעם מן המחנה {ס} ] {ס} 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	04O 10 36 לו ובנחה יאמר שובה יהוה רבבות אלפי ישראל {ס} ] {פ} 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	19O 107 23 כג ] יורדי הים באניות עשי מלאכה במים רבים 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	19O 107 24 כד ] המה ראו מעשי יהוה ונפלאותיו במצולה 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	19O 107 25 כה ] ויאמר--ויעמד רוח סערה ותרומם גליו 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	19O 107 26 כו ] יעלו שמים ירדו תהומות נפשם ברעה תתמוגג 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	19O 107 27 כז ] יחוגו וינועו כשכור וכל-חכמתם תתבלע 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	19O 107 28 כח ] ויצעקו אל-יהוה בצר להם וממצוקתיהם יוציאם 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Source	[0/1]	19O 107 40 מ ] שפך בוז על-נדיבים ויתעם בתהו לא-דרך 	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	004 NUM 010 034 וענן יהוה עליהם יומם בנסעם מן המחנה]	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	004 NUM 010 036 ובנחה יאמר שובה יהוה רבבות אלפי ישראל]	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	019 PSA 107 023 ] יורדי הים באניות עשי מלאכה במים רבים	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	019 PSA 107 024 ] המה ראו מעשי יהוה ונפלאותיו במצולה	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	019 PSA 107 025 ] ויאמר--ויעמד רוח סערה ותרומם גליו	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	019 PSA 107 026 ] יעלו שמים ירדו תהומות נפשם ברעה תתמוגג	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	019 PSA 107 027 ] יחוגו וינועו כשכור וכל-חכמתם תתבלע	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	019 PSA 107 028 ] ויצעקו אל-יהוה בצר להם וממצוקתיהם יוציאם	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Aionian	[0/1]	019 PSA 107 040 ] שפך בוז על-נדיבים ויתעם בתהו לא-דרך	WARN
+Hebrew---Hebrew-Aleppo-Codex	ENCLOSURES	Summary	lines	9 / 9	NOTICE
+
+# UNEXPECTED
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Hebrew---Hebrew-Aleppo-Codex	NUMERALS	Source	count	0	NOTICE
+Hebrew---Hebrew-Aleppo-Codex	NUMERALS	Aionian	count	0	NOTICE
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,914 @@
+# File Name: Holy-Bible---Holy-Bible---Naga-Tutsa---Tutsa-Naga-Bible---Analysis.txt
+# File Size: 138477      
+# File Date: 12/13/2025 05:49:51
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Esa Leedap Ena Banlam
+# Bible Name English: Tutsa Naga Bible
+# Bible Language: Totcha
+# Bible Language English: Naga, Tutsa
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution 4.0
+# Bible Source: The Word for the World International
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=tvt
+# Bible Source Year: 2018
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Naga-Tutsa---Tutsa-Naga-Bible	ENCODING	Source	Holy-Bible---Naga-Tutsa---Tutsa-Naga-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	ENCODING	Aionian	Holy-Bible---Naga-Tutsa---Tutsa-Naga-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Naga-Tutsa---Tutsa-Naga-Bible	BYTES	Source	bytes / chars	1242651 / 1233507 (multi-byte)	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	BYTES	Aionian	bytes / chars	1300248 / 1290918 (multi-byte)	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	BYTES	SourceClean	bytes / chars	1224902 / 1215768 (multi-byte)	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	BYTES	AionianClean	bytes / chars	1298065 / 1288735 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Naga-Tutsa---Tutsa-Naga-Bible	AIONIAN	Aionian	missing-verse	058-HEB-013-021	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	AIONIAN	Aionian	book-not-exist	64	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	AIONIAN	Aionian	missing-verse	1	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	AIONIAN	Aionian	aionian-verses	199	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Naga-Tutsa---Tutsa-Naga-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Summary	(-)Orginal	67	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Summary	(+)Aionian	69	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (M)	3346	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (A)	4193	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (T)	3640	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : ( )	213718	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (1)	8014	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (:)	8336	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (J)	4404	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (i)	64249	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (s)	24041	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (u)	30833	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (K)	2194	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (r)	26013	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (t)	59288	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (o)	67822	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (e)	55600	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (a)	157600	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (w)	8800	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (h)	113453	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (d)	14101	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (m)	28053	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (l)	21846	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (n)	95684	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (g)	48264	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (,)	10817	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (b)	7975	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (.)	8459	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (\n)	7916	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (2)	5128	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (k)	28637	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (I)	550	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (y)	3985	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (p)	12133	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (;)	1249	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (P)	1488	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (j)	11739	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (()	111	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (N)	1770	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : ())	111	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (H)	2951	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (R)	4737	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (S)	1937	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (B)	554	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (O)	2475	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (6)	1562	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (c)	5309	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (E)	5004	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (7)	1381	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (8)	1280	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (C)	2239	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (9)	1237	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (0)	1205	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (3)	2717	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (4)	2196	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (5)	1810	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (?)	818	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (!)	1155	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (G)	285	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	General Punctuation : (—)	242	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (L)	1686	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (W)	266	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : ([)	3	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (])	4	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Latin Extended-B : (ǃ)	2	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (<)	612	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (>)	430	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (-)	4	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source(-)	Basic Latin : (V)	400	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	32719	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	9527	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	31656	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	3359	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	4256	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	3680	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	9037	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4431	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	65390	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	24447	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	31277	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	201206	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2208	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	26279	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	60079	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	68747	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	56440	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	160195	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	8941	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	115272	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	14313	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	28473	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	22140	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	97199	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	49189	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	10943	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	8132	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	8597	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	7913	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	6486	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	29039	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	424	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	553	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	4029	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	12313	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (;)	1272	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	1501	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	11943	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (()	312	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	1836	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : ())	312	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	2986	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4766	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	1995	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	557	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	2485	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	3425	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	5369	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	5029	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	1672	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	1741	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	2245	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1500	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	3659	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	3459	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	928	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	1226	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	299	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	General Punctuation : (—)	247	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	1707	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	279	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	424	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (])	372	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	5	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	399	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (M)	3346	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (A)	4193	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (T)	3640	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : ( )	213718	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (1)	8014	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (:)	8336	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (J)	4404	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (i)	64249	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (s)	24041	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (u)	30833	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (K)	2194	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (r)	26013	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (t)	59288	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (o)	67822	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (e)	55600	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (a)	157600	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (w)	8800	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (h)	113453	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (D)	203	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (d)	14101	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (m)	28053	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (l)	21846	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (n)	95684	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (g)	48264	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (,)	10817	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (b)	7975	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (.)	8459	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (\n)	7916	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (2)	5128	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (k)	28637	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (I)	550	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (y)	3985	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (p)	12133	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (;)	1249	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (P)	1488	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (j)	11739	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (()	111	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (N)	1770	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : ())	111	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (H)	2951	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (R)	4737	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (S)	1937	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (B)	554	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (O)	2475	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (6)	1562	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (U)	1179	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (c)	5309	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (E)	5004	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (7)	1381	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (8)	1280	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (C)	2239	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (9)	1237	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (0)	1205	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	General Punctuation : (“)	1912	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	General Punctuation : (”)	1686	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (3)	2717	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (4)	2196	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (5)	1810	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (?)	818	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	General Punctuation : (‘)	366	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	General Punctuation : (’)	360	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (!)	1155	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (G)	285	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	General Punctuation : (—)	242	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (L)	1686	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (W)	266	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : ([)	3	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (])	4	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (z)	1	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Latin Extended-B : (ǃ)	2	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (<)	612	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (>)	430	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (-)	4	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNICODE	Source	Basic Latin : (V)	400	NOTICE
+
+# VERSIFICATION
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-003	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-004	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-005	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-007	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-008	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-009	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-010	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-011	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-013	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-014	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-015	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-016	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	040-MAT-002-010	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	041-MAR-008-009	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-043	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	041-MAR-016-004	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-074	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-037	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-045	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-053	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	043-JOH-010-015	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-028	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-033	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-039	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	045-ROM-003-026	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-004	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-013	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	047-2CO-008-014	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	047-2CO-012-004	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	047-2CO-013-014	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	049-EPH-002-009	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	051-COL-001-012	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	056-TIT-001-013	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	058-HEB-013-021	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	066-REV-002-027	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	066-REV-002-028	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	066-REV-007-006	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	066-REV-007-007	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Aionian	missing	066-REV-007-008	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Summary	missing	43	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	()	111 / 111	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	[]	3 / 4	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<>	612 / 430	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	()	312 / 312	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[]	424 / 372	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	MAR 3:29 Enoothong o ih Esa Chiiala asuh ethih jengkhaap jeng abah, babah uh biin anaan tachoka, tumeah heh ih mabah uh lathoonjih rangdah ah mola.” (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	MAR 3:30 Jisu ih arah baatta ah langla, mararah mih ih amet li rumta, “Heh sak ni chiithih laakhah pan eah.”)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	MAR 5:7 erongwah ih riinghuungta, “Jisu, Echoong thoon ni tongte Rangte Sah! An ih tumjih ette ang halang? “Rangte mendoh, ngah nak thet haat weehang, ngah ih an lasih johala!” (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	MAR 5:8 Heh ih arah jengkhaap ah Jisu ih “Chiithih laakhah dokkhoom ho ih li kano jengta!”)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	MAR 7:2 Pharisi loong ih Jisu liphante loong mararah ih neng lak enyaan ih phaksah arah jatjoh rumta erah langla neng laktiimuh ih phaksah rumta eno erah ah Pharisi loong ih kah nyoot rumta jun ih tah angta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 adoleh thaangsang theng nawa tumjaat thok huiha bah uh jaakhoh saachot muh doh tajen phaksata. Erah damdi uh neng ih ephoop teewah banlam loong ah phan rumta, Jengthaak ih lookkep khaplang, khuung akhaak nyia juptheng loong ah uh saachot muh ih tamaak rumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	[1/0]	MAR 16:9 [Naangtongsa rangkhano di Jisu ngaaksaat lini, jaakhothoon ah Meeri Megdalen jiinni dongta, erah nuh sak dowa jaakhoni Jisu ih laathih sinet dokphanta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	[0/1]	MAR 16:20 Heliphante loong ah noongrep ni karum ano Ruurang Ese ah tumbaat kaat rumta, eno Teesu ah neng damdi roong mokah no Rangte tiit baat rumta, neng ih epaatjaajih loong re rumta jun ih amiisak ah dongjat thuk rumta.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 1:22 “Eno bah an ah o anglu baat he,” neng loong ah ih cheng rumta. “Seng daap kaatte loong asuh an o anglu erah tiit ah ngaakbaat wantheng. An teewah suh an ih tiimjih li hu?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 1:26 Joon ih ngaakbaat rumta, <<Ngah ih ju nawa ih juutem rumhala, enoothong sengdung ni wasiit chapla ah sen ih tajatkan.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 1:27 Erah mih ah nga lih ni ra hala, enoothong ngah bah heh lakhoop adoleh heh lasong khook haattha uh taluikang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 1:29 Erah saalih adi Jisu heh taang ni wangha rah Joon ih japtup ano, liita, <<Rangte Saapsah ah arah, arah mongrep dowa rangdah saasiitte ah erah wang hala!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 1:31 Ngah ih heh o ang ah ngeh ih tah jattang, enoothong, heh ah Ijirel noksong ih toomjat rum ah ngeh ih juutem ra tahang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 1:32 Eno Joon ih heteewah tiitkhaap tiit baat rumta: <<Ngah ih Chiiala ah wotuupi likhiik rang nawa ra haano heh sakkhoh ni dangra ha rah tuptang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<6/2>	JOH 1:38 Jisu lekchap ih adi, nengnyi helilih ih kah arah japtup nyu ano cheng nyuuta, <> Nengnyi ih ngaakbaat nyuuta, <> (Rabbi ah Hebrew lam ih <<Nyootte<< suh liiha)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 1:39 <<Sok raathaak hansih ba,” heh ih ngaakbaat nyuuta. (Erah tokdi rangsa lup nanah angta.) Erah thoidi heh damdi roong kah nyu ano heh mani songtongta rah japtup kanyuuta eno erah sa adi heh damdi naangjam nyuuta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 1:41 Erah damdam heh phoh Simon ah japtup ano baatta, <> (Misia ah <<Kristo<< suh liiha)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 1:42 Eno heh ih Simon ah Jisu taang ni siitwanta. Jisu heh taangko sok ano liita, <> (Erah langla Pitar suh <<jong<< ngeh ih liita likhiik)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 1:43 Erah saalih adi Jisu Galili ni kaat chungta. Heh ih Philip ah japtup ano baatta, <> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 1:44 Philip ah Pitar nyia Andriu tongla hah, Betsaida nawa angta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 1:46 <> Nathanel ih chengta. <<Raaho no sok uh,” Philip ih ngaak baatta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<1/3>	JOH 1:48 Nathanel ih heh suh chengta, An ih ngah mamah ih jat halang?>> Jisu ih ngaak baatta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 1:49 <<Nyootte<< Nathanel ih ngaak baatta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 1:51 Eno neng suh li rumta, <<Ngah ih amiisak tiit ah baat rumhala: Rangmong ah laangdaap adoh Rangsah loong ah Mina Sah reenah chookwang datkah ih lengkhoom arah japtup an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 3:2 Pheesiit Jisu reeni wang ano li wangta, <<Chuupha, seng ih jat ehi an Rangte ih kaat thuk ho rah nyootte warah ah. Rangte heh damdoh lah angka bah an reelu paatjaajih loong ah o uh tajen reeka.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 3:23 Aenon ni ju ah hantek ang kano, Joon ih uh erah hah ni juutem rumta, erah hah ah Salim dowa ih haloh tah angta. Miloong ah heh reeni karumta, eno Joon ih ju ah tem ih rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 3:24 Erah langla Joon phaatak ni maangsak kaadi.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 3:27 Joon ih ngaakbaat rumta, <<O suh uh Rangte ih lakoka bah tiim uh tachoka.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 3:30 Jisu ah nga nang ih elong jaatjaat ang ah ngah ehin.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 4:1 Joon liphante loong nang ih Jisu ih juutem ehan japtem rum arah Pharisi loong ih japchaat rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 4:2 Amimiidi bah, Jisu heteewah ih wasiit taan uh tatem rumta; heliphante loong ih luulu juutem rumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 4:7 Samariate minuh nusiit ju khoot wang kohaano, Jisu ih baatta, <> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 4:8 Heliphante loong ah erah pootdi samnuh ni phaksat jamriik karumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 4:10 Jisu ih liita, “Rangte ih tiimjaat koha erah ah jat ubah nyia an jiin nawa joong sukjokte warah jattu bah, an ih suk ih thengtu, eno heh ih an suh roidong ju ah kottheng taho.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/0>	JOH 4:11 Minuh ah ih liita, <<Chuupha,” <<an jiinni joongpi theng uh amuh, eno naatbeng ah uh echoong dook. An ih erah roidong ju ah manawa ma choh uh?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 4:12 Arah naatbeng ah sengte sengwah Jaakob ih kohe rah; helui hemaan, heh sah loong nyia heteewah ih arah jok dowa. Jaakob nang ih elong ngeh nakmok thun uh, emah nih mokthun hu?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 4:13 Jisu ih erah nuh asuh liita, <<O ih arah ju ah jok ah heh joongle ih we le e ah,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 4:14 enoothong ngah ih koh angrah ju ah jok abah mabah uh joongle ih takah we leeka . Ngah ih koh angrah ju abah heh roidong juumik eh hoon ah eno erah juumik rah ih roidong ju ah koh ano lathoon roidong ah koh ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 4:15 <<Chuupha<< minuh rah ih liita, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 4:16 Jisu ih baatta, <<An miwah poonkah uh,” eno <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/0>	JOH 4:17 <<Nga miwah tajeeka,” erah nuh rah ih ngaak baatta. Jisu ih ngaak liita, <<An miwah amuh liihu ah an punjeng elu.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 4:18 Amadi tuk ih wabangnga suh nooklu, eno amadi o damdi tonglu erah uh amiisak di an miwah tah angka. An ih amiitiit ah ju baat halang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 4:19 <<Chuupha ngah ih jat ih hala, an khowah,” minuh ah ih ngaak liita.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 4:20 Sengwih sengte Samaria nok hah loong ah ih arah kong adi Rangte kah soomtu rumta, enoothong Jehudi sen loong ah ih seng subah Jerusalem hah nah soomtu theng ngeh liihan.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 4:21 Jisu ih erah nuh asuh baatta, <<An ih nga jeng ah hanpi hang, saapoot jaasiit thok eha mina loong ah ih Jerusalem nah adoleh arah kong adoh Hewah rang lasoom thang ih tong rum arah ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 4:38 Sen loong marah phek adi tamoh katan erah dowa khan kaat thuk rumhala; erah di wahoh mokata, eno neng mokata dowa sen ih dakchoh an.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/0>	JOH 4:53 Eno hewah ah ih erah saapoot adi Jesu ih <<An sah ah ething<< ngeh ih baatta rah dokthunta. Erah thoidi neng jaatang changtom ih hanpi rumta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 5:19 Erah thoidi Jisu ih ngaakbaat rumta, <<Ngah ih amiisak baat rumhala; Hesah ah heh thungthung ih tiim uh tami reeka; Hewah tiim mokala erah sok ano reela. Hewah tiim reela, Hesah uh erah re ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 5:24 <<Ngah ih amiisak baat rumhala; o mina ih nga jeng boichaat ano nga daapkaatte ah hanpi ha erah mina taang ni lathoonka roidong ah je ah. Heh abah tadande ka ang ah, heh tek lam dowa roidong ko jen nopwang eta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 5:30 <<Nga chaan nawa ih ngah ih tiim uh tajen reekang; Rangte ih baat halang jun ih ba dande hang, erah raangtaan ih ngah ih dande hang ah epun ang ah, tiimnge liidi nga tenthun nawa ih tareekang, enoothong nga daapkaatte warah ih tiim thun ha erah mootkaatte .	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 5:31 <<Mih suh nga teewah tiit ah mokbaat angbah, ngah ih marah baat hang erah elang ekah ngeh ih mih ih takapka ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 5:41 <<Ngah ih mina ih phoongpha tajamkang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 5:47 Enoothong heh ih tiim raangta erah lahanpi phiino, Ngah ih liihang ah batang ah mamah ma ih hanpi an?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 6:5 Jisu ih miloong ah jamsok adi hantek heh reeni wang arah japtupta, erah thoidi Philip suh chengta, <> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 6:6 Heh ih Philip suh thamtham ih thaak chengta; amiidi baleh heh ih tiim etheng erah jat eta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:7 Philip ih ngaakbaatta, “Baanlo ah loongtang ih cheeru phak raangtaan ih botseh, chaanyi nang ih ehan ngunkholok ih ba lui reh ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:10 <<Miloong ah tongthuk an,” Jisu ih baat rumta. (Erah di naam nang angta.) Erah thoidi miloong ah tong rumta; erah di miwah rooproop ih haajaat bangnga ang rumta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:14 Jisu ih epaatjaajih reeta ah tuprum ano, miloong ah ih liita, “Mongrep ni kaatte Khowah abah amiisak di heh ju!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 6:20 <<Nakcho an,” Jisu ih baat rumta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:26 Jisu ih ngaakbaat rumta, <<Ngah ih sen loong asuh amiisak ih baat rumhala; ngah ih jat ehang sen loong ah ih baanlo ah sen wok laanphoot roh ih phak anno jam hali, paatjaajih reelang ah jat anno tah angka.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:27 Ethet ela phaksat raangtaan ih nak mokah an; erah nang ebah, lathoonka roidong phaksat raang ih mokah an, eno erah langla Mina Sah rah ih kohan, tiimnge liidi, Rangte Hewah ih heh mendi sin hoon thiinta.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:29 Jisu ih ngaakbaat rumta, <<Rangte ih sen suh tiimre thukjih ah langla heh ih wasiit kaat thuk hala ah hanpi an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:30 Neng loong ah ih ngaakbaatta, <<Seng ih hanpi suh an ih paatjaajih tiimjih noisok he? An tiimjih re uh?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:32 “Ngah ih amiisak baat rumhala,” Jisu ih baat rumta, <<Moses ih tiimjih koh tahan erah rangmong nawa baanlo tah angta; rangmong nawa amiisak baanlo kottte abah seng Wah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:33 Rangte ih koha baanlo ah langla o rangmong nawa ra hala erah, eno mongrep mina suh roidong koha.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:40 Tiimnge liidi seng Wah ih jamha langla o ih Hesah ah japtup ano heh hanpi ha erah loong ah ih lathoonka roidong ah choh ah. Eno ngah ih neng loong ah rangthoon doh roidong chosuh ngaak saatsiit ang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:43 Jisu ih ngaakbaat rumta, <<Sen jaachi ni jengmui ah toihaat ih an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:51 Rangmong nawa ra taha ething baanlo ah ngah. Erah baanlo ah o ih phak ah, erah mih ah roitang tong ah. Heh suh baanlo kohang ah nga si, erah ngah ih mongrep nah thingtong suh kohang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:53 Jisu ih ngaakbaat rumta, <<Ngah ih amiitiit ah baat rumhala; sen loong ah ih Mina Sah si ah laphak kanbah nyia heh sih ah lajok kanbah, sen jiinnah roidong tajeeka ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:58 Arah thoidi, rangmong nawa ra hala baanlo ah; sente senwah ih phakta baanlo ah likhiik tah angka, neng loong ah bah tek eta. O mina ih arah baanlo ah phak ah erabah roitang thingtong ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:61 Labaat rumka bah uh, Jisu ih jat eta erah thoidi daanmui rumla ngeh ah, erah thoidi Jisu ih li rumta, <<Arah nyootsoot rumhala ah sen raang ih lanook chaat theng tam ah?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:64 Erabah sen loong dung dowa mararah ih tahanpi kan.>> (Jaakhoh dowa ih dook Jisu ih jat eta o mina ih tahanpi ka nyia o ih heh mokwaan ah.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 6:68 Simon Pitar ih liita, <<Teesu, seng loong ah o jinnah maakah kah ih? An jengkhaap ni ba lathoonka roidong tiit ah jeela.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 6:69 Eno amadi seng ih hanpi ehi nyia jat ehi an luulu juuba Rangte taangnawa raaho rah Esa warah ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:3 erah raangtaan ih heh no loong ah ih Jisu suh baat rumta, <<An reeraang ah an liphante loong ah ih toomjat asuh arah dowa Judia hah nah kah uh.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 7:4 Mih ih toom khomjat hang ngeh ih li abah o uh hotsu ih tareeka. An emah ih reelu bah, mongrep nah warep ih toom khomjat ho!>> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:4 Mih ih toom khomjat hang ngeh ih li abah o uh hotsu ih tareeka. An emah ih reelu bah, mongrep nah warep ih toom khomjat ho!>> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 7:5 Heh no loong ih taan uh tahanpi rumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:6 Jisu ih li rumta, <<Nga reeraang saapoot tok ah nga raang ih maang thokra. Sen suh ba tiim saapoot ang abah uh punroh ih ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:16 Jisu ih ngaakbaat rumta, <<Ngah ih tiim nyootsoot hang erah nga thung ih tanyoot kang, erah langla nga daapkaatte, Rangte taangnawa ra hala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:19 Moses ih Hootthe tanih koh tahan? Enoothong sen loong ah ih wasiittaan ih uh takap kan. Nga tek haat suh sen ih tiim esuh setlak taatchung hali.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:21 Jisu ih ngaakbaat rumta, <<Paatjaatheng esiit re kangno, sen loong ah paatja etan.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:24 Rangkhoh ni sok an ih dande han ah toi ih an, erah nang ebah amiisak doh dande theng.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:25 Jerusalem noksong mararah ih liita, <<ngoong awang loong ih tek haat chungha ah aa mih ah tam ah?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:27 Enoothong Kristo raaha doh bah o ih uh manawa ra hala ngeh ih tajatka ang ah. Eno seng loongtang ih jat ehi arah mih ah manawa ra hala.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:28 Jisu ih Rangteenook ni nyootsootta adoh erongrongwah ih jengta, <<Amiimi ngah manawa ra halang sen ih jat tam ih hali? Nga chaan nawa ih tara rang. O ih ngah daapkaat halang, erah juuba ami ah. Sen ih heh ah tajatkan,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:29 enoothong ngah ih bah jat ehang, tiimnge liidi ngah heh taangnawa nyia heh ih daapjah halang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:33 Jisu ih liita, <<Sen damdoh chomroe saapoot ba boot roong tongthiin hang, eno nga daapkaatte ah jiinnah wang ang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:34 Sen ih ngah jamsok ehe, enoothong tajap tupri ang ah, tiimnge liidi ngah wanglang adoh sen tami wangran.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:35 Jehudi ngoong awang loong ah neng jaachi ni roongwaan rumta, <<Seng ih lajaptup theng heh maako maakah ah? Seng mina songtong rumla Grik samnuthung adoh kah ano, Grik mina suh nyootsoot kaat suh tam liiha?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:36 Heh ih liiha seng ih jam bah jamsok eh ih enoothong tachoh jamke ang ah, eno heh wangla adoh seng tajen wangke. Erah tiimjih suh liiha?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:37 Thoontang nang eh hoondak rangwuuja ah kumatja saakaan ah angta, eno Jisu ah toonchap ano erongrongwah ih baattaan rumta, <<O mina joongle ih tiila nga taangnah wang han, eno	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 7:41 Wahoh loong ah ih liita, <> Enoothong rukho ah ih liita, <<Kristo ah Galili nawa taraara!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:42 Rangteele ni liiha Kristo ah Dewid Luuwang sutoom dowa ang ah eno Dewid songtongta hadaang adoh Betlehem nah tup ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 7:48 <<Ngoong awang nyia Pharisite loong dowa wasiit taan heh hanpiite tup tam etan?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 7:49 Erah miloong ah ih Moses hootthe ah tajat rumta, erah raangtaan ih neng loong ah Rangte tenkhat khui ni!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 7:52 <<Ese<< neng loong ah ih ngaak liita, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<6/0>	JOH 8:4 <<Nyootte<< neng loong ah ih Jisu suh baat rumta, <<arah nuh ah mih damdi roomjup arah japjoot dowa.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:5 Seng Hootthe ni Moses ih baatta erah likhiik minuh ah jong ih tekpat theng. Emah ang abah, an ih mamah li uh?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 <<Wasiit uh amuh, chuupha,” minuh ah ih ngaakbaatta. “Ese, emah ang abah ah,” Jisu ih ngaak liita, “Ngah ih uh tah dut haatra. Kah uh, enoothong nak kah dah uh.”]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:11 <<Wasiit uh amuh, chuupha,” minuh ah ih ngaakbaatta. “Ese, emah ang abah ah,” Jisu ih ngaak liita, “Ngah ih uh tah dut haatra. Kah uh, enoothong nak kah dah uh.”]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 8:12 Pharisi loong ah damdi Jisu we roongwaanta. <<Mongrep raang ih ngah ah weephaak,” Jisu ih liita. <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:14 “Emah tah angka” Jisu ih ngaakli rumta, <<ngah ih nga teewah tiit baat ang bah uh, ngah ih tiimjih baat hang erah amiisak tiit, tiimnge liidi ngah ih jat ehang ngah manawa ra halang nyia manah wang ang. Sen loong ih tajatkan ngah manawa ra halang nyia manah wang ang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:18 Ngah ih nga teewah tiit ah baat hang, eno nga daapkaatte seng Wah ih uh nga tiit baat ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:23 Jisu ih ngaakbaat rumta, <<Sen loong ah arah mongrep khui nawa, eno ngah ah rangkhoh nawa raahang rah. Sen loong arah mongrep nawa, enoothong ngah arah mongrep nawa tah angkang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 8:25 <> Neng ih Jisu suh cheng rumta. Jisu ih ngaakbaat rumta, <<Phangbaat tang dowa ih tiim baat rumhala erah ju.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:26 Sen suh ngah ih li theng rapne je ah, dut haat etheng uh eje. Enoothong ngah o ih daapkaat halang, heh juuba ami ah, eno heh jiin nawa tiim chaat hang erah juuba mongrep dowa mina loong asuh baat hang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:29 Eno ngah o ih daapkaat halang heh ah nga damdi; nga luulu heh ih tathiinhaat rang, tiimnge liidi ngah ih saarookwet heh tenroon theng reelang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:31 Eno Jisu ih heh suh hanpiite loong asuh baat rumta, <<Nga ih nyoot rumhala ah kap anbah, sen loong ah amiisak nga liphante ang an;	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:32 sen loong ah ih ami tiit ah ejat ete, eno amiisak rah ih sen loong ah doksiit ehan.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 8:33 <<Seng loong abah Abraham sutom,” neng loong ah ih ngaakbaat rumta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:34 Jisu ih neng loong asuh baat rumta, <<ngah ih sen loong asuh amiisak ih baat rumhala: O mina rangdah reeraangla erah mih ah rangdah suh heh dah ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:38 Seng Wah ih tiim noisok halang erah baat rumhala, enoothong sen suh sen wah ih marah baat halan ah re lan.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 8:39 Neng ih ngaakbaat rumta, <> Jisu ih ngaakli rumta, <<Sen loong ah Abraham suh asah angtan bah,” <<sen loong ah heh reeta likhiik ih reetheng; tan.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:42 Jisu ih baat rumta, <<Rangte ah sen loong Wah angta bah ngah enook etheng tahe, tiimnge liidi ngah Rangte taangnawa ra halang. Nga chaan nawa ih ngah tara tahang, ngah bah heh ih daapkaat tahang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/0>	JOH 8:49 <<Ngah jiinni chiithih laakhah tajeeka, Jisu ih ngaakbaat rumta, <<Ngah ih seng Wah choomjoh hang, enoothong sen ih ngah tachoom jori.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:51 Ngah ih ami baat rumhala; ngah ih nyootsoot hang ah o minah ih kap ah erabah mabah uh tatiika.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:52 Jehudi loong ah ih Jisu suh li rumta, <<Seng ih jat ehi an chiithih laakhah pan! Abraham tek eta, Khowah loong uh tek eta, erabah uh an ih liihu an ih nyootsoot hu boichaatte ah mabah uh tatiika.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:53 Seng loong wah Abraham bah tek eta; ngah Abraham nang ih elong ngeh ih nih li hu, emah tam thun hu? Eno khowah loong uh tek eta. Anteewah suh tiimjih samthun hu?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:54 Jisu ih ngaakbaat rumta, <<Ngah ih nga teewah mok choomjotang bah, erah choomchotang ah thaangmuh ang thengta. Nga choomjootte wasiit abah seng Wah—sen ih Rangte ngeh li han rah ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 8:56 Sen loong wah Abraham bah nga kaat saapoot ah japtup suh eroon eta; eno heh ih japtup eta nyia eroon eta.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 8:57 Neng ih Jisu suh li rumta, <<an amadi paangrook bangnga bot maang ang ko—eno Abraham japtup eto oh?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 9:3 Jisu ih ngaakbaat rumta, <<Heh mikdook ah heteewah rangdah nyia heh nuwah rangdah thoidi tah angka. Heh mikdookla abah Rangte chaan ah heh jun ih noisok suh ba angta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 9:5 Ngah mongrep nah tong pootdoh, mongrep raang ih ngah weephaak.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 9:7 eno Jisu ih baatta, <> (Siloom ah <<ekaatthuk<< suh liita.) Dookwah rah ih heh the ah metkaat kano heh mih ah dongsingta eno ngaakwangta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/2>	JOH 9:9 Mararah ih liita, <<Erah mih ah ju,” rukho loong ah ih liita, <> Erah thoidi heteewah ih baat rumta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 9:12 <> Miloong ah ih cheng rumta. <<Tajatkang,” edook ah ih ngaakbaat rumta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 9:20 Heh nuwah ih ngaakbaat rumta, <<Seng ih jat ih hi arah seng sah, nyia edook eh dongtup arah ngeh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 9:21 Enoothong seng ih tajatke amadi heh ih mamah mi tup ha, nyia edook ang arah o ih deesiitta. Heheh suh cheng anba; heh mihak tanih angka, heh teewah ih miibaat laang ejan!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 9:27 <<Ngah ih jaakhoni dook jen baat ih rum taha,” heh ih ngaakli rumta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 9:28 Neng ih thaangju kaanse lam ih li rumta, <<an baalek heliphante angkoju; seng bah Moses liphante.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 9:29 Seng ih bah Rangte ih Moses suh baatta ah ba jat ih, enoothong, Jisu ah manawa ra taha erah botseh tajatke!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 9:30 Eno edook angta deeta warah ih li rumta, <<Erabah epaatja etheng laang angla nih! Nga mikdook botseh deesiit tahang ah, heh manawa ra taha ah tawe jatkan nih!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 9:33 Erah mih ah Rangte jiin nawa lara taha bah, tiim uh tala jenre thengtaaja.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 10:1 Jisu ih liita, <<Ngah ih amiisak baat rumhala; o mina saap paakaawan lam ih lanop thang eh, lamhoh lam ih duuwangla abah, ehuh nyia meh putte ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 10:5 Saap loong ah ih wahoh lih taphan joka, erah nang ebah heh root ah lajatjoh rum kaano, erah mih reedowa moong soon erum ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 10:7 Erah thoidi Jisu ih we liita, <<Ngah ih amiisak baatrum hala; saap raangtaan ih paakaawan ah ngah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 10:11 <<Saapriimte ese ah ngah, o ih saap loong raang ih roidong jen kotte warah ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 10:17 <<Seng Wah ih ngah enook ih halang, tiimnge liidi nga roidong kot suh tacho kang, ngah ih roidong we ngaak chosuh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 10:18 Nga roidong ah nga jiin nawa o ih uh tajen ngeerang. Erah Nga thunghoon ih kohang. Ngah ih jen kot ih ang, adoleh jen ngaak thaang ih ang. Seng Wah ih erah reetheng ngeh ih baat halang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 10:25 Jisu ih ngaakbaat rumta, <<Ngah ih sen suh jen baat ih rum taha, erabah uh sen ih tahanpi ri. Seng Wah chaan nawa ih tiimjaat reelang erah ih jat ih thuk halan Ngah o ah;	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 10:30 Sek Soowah ah esiit.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 10:34 Jisu ih ngaakbaat rumta, <<Sen hootthe ni Rangte ih emah liiha, ‘sen loong ah rangte.’	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 10:38 Ngah lahanpi ri bah uh, ngah reelang loong ah baalah hanpi an, jaasiitdoh sen loong ah ih jat toom ih an suh ah, seng Wah ah nga damdi adoleh ngah seng Wah damdi ngeh ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 10:41 Miloong ah heh reeni hantek thok rum taha. Neng loong ah ih liita, <<Joon ih bah paatjaajih tareeta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 11:1 Lajaras ngeh ih mih wasiit angta ah sat eta. Heh Bithani ni tongte angta, Bithani ah Meeri nyia heh no Martha tongta samthung angta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 11:2 Teesu lah ni phontum ih lok ano heh khoroon ih hut haatte ah Meeri angta; eno khoisatte Lajaras ah heh no angta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 11:9 Jisu ih ngaakbaat rumta, <<Rangwuusiit di asih koonta nyi tanih angka? Erah raang ih rangwu di khoomte ah tabanbotka, tiimnge liidi heh ih mongrep dowa weephaak ah tup eha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 11:10 Enoothong, rangphe doh weephaak mudoh khoom abah banbot ih ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 11:15 enoothong ngah mudi emah angla thoidi sen loong raang ih eroon elang, erah thoidoh ba sen ih kok hanpi an. Heh jiinnah wang ih.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 11:21 Martha ih Jisu suh liita, <<Teesu, an aanah angtu bah, nga no ah tatek thengta!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 11:22 Enoothong ngah ih jat ehang, an ih amadoh Rangte jiin nawa tiim suh uh erah kot eho.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 11:24 Martha we ngaakjengta, <<Ngah ih jaat ehang<< saathoon doh <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 11:25 Jisu ih heh suh baatta, <<Ngah tek nawa ngaaksaattte nyia roidong, o ih ngah hanpi halang, erah mih ah etek ih abah uh ething ang ah;	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 11:26 eno o ih ngah hanpi hangno thing tongla erah mabah uh tatiika. Arah tiit ah hanpi tam ih hu?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 11:28 Maratha ih erah baat lih ni, heh nah Meeri jiinni hotsu ih ngaakwang ano poonwangta, <<Nyootte ah bah ani,” eno heh ih <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<5/1>	JOH 11:32 Meeri ah Jisu reeni thok ano, heh laan japtup roh eta, eno heh lakuh ni chooktong kata. Meeri ih liita, <<Teesu<< <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 11:41 Neng loong ah ih jong ah dokloong rumta. Jisu rangko ih toonsokwan ano jengta, <<Ewah, nga rangsoom ah chaat raangtaan ih lakookmi li hala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 11:42 Ngah ih jaat ehang an ih saarookwet ih boichaat halang, enoothong arah liihang abah, aradi lomkhoon hala miloong ah ih, an ih daapkaat tahang ngeh ih toom hanpi rumhang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 11:44 Eno dokkhoom taha, helak helah mang loop nyuh ih dekchoi nyia hethe hekhoh nyuh ih dek arah, dokkhoom taha. Jisu ih baat rumta, <<Nyuh ah jaahaat an,” eno <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 11:48 Seng ih emah jaatjaat ih reeraang thuk ebah, warep ih hanpiite angrumla, eno Room nok hah ngoong awang loong ih li ih baat he, eno seng Rangteenook nyia seng deek sengkaan uh thet haat ete ang hali!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 11:49 Neng changdi wasiit, heh men ah Kaiphas angta, erah paang adi heh Romwah Phokhothoon angta, eno heh ih li rumta, <<Sen mamah jen ngakthak lan!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 11:50 Sen ih tatam samthun kan deek akaan pan ih matnang ih noksong raangtaan ih wasiit rooptiila ah ese ang ah ngeh ah!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<1/3>	JOH 11:56 Neng ih Jisu jamsok rumta, eno neng loong ah Rangteenook ni thutthe rum adi, neng neng chengmui rumta, <> Jisu ah kuwaang adoh tajaatjaat tam wangra?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 12:7 Eno Jisu ih liita, <<Meeri ah nak paklak an heh luulu thiinhaat an! Phontum ah nga mangbeng raang ih toomthiin ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 12:8 Changthih abah saarookwet ih sen damdoh ang ha, enoothong ngah ah saarookwet sen damdoh tatongrang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 12:23 Eno Jisu ih nengnyi suh ngaakbaat nyuuta, <<Mina Sah rangka saapoot ah amadi thok ehala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 12:27 <<Amadi ngah mong rapne saamlang—eno ngah ih tiimjih li ang? Ngah ih emah tamli ang, ‘Ewah, nga chamchoh saapoot ah nakthok thukwe ho? Enoothong ngah erah raangtaan ih ra tahang—chamnaang saapoot ah chosuh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<1/3>	JOH 12:28 Ewah, an men rangkajih ju toom ang ah!>> Eno rang ni jeng arah chaatta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 12:30 Enoothong Jisu ih baat rumta, <<Erah jengla ah nga raang ih tah angka, erah sen loong raang ih jengla.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 12:32 Eno, arah hah dowa ngah toonjoh hangdoh loongtang nga reenah thoksiit rumhang.>> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 12:32 Eno, arah hah dowa ngah toonjoh hangdoh loongtang nga reenah thoksiit rumhang.>> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 12:33 Jisu erah jengta ah heh mamah ih ti ah erah tiit ah baatta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 12:35 Jisu ih ngaakbaat rumta, <<Weephaak ah sen loong damdoh chomroe ba boot waktong ha. Erah raangtaan ih, weephaakla tok adoh sen khoom roh ih an laamang nah phokhoom an; tiimnge liidi laamang ni khoomte ih tajatka heh maani kala ngeh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 12:36 Erah raangtaan ih, weephaak ah hanpi ih an, weephaak mina toom ang an.>> Erah baat rumta lidi, Jisu ah neng loong reenawa doksoon kah ano hutong kata.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 12:44 Jisu ih erongwah ih riibaat rumta, <<O mina ih ngah hanpi rum halang, erah loong ah ih nga luulu tahanpi rumrang enoothong nga daapkaatte rah uh hanpi ih rumha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 12:50 Ngah ih jat ehang heh jengdang ah ih lathoon roidong koh ah. Erah raangtaan ih ngah ih tiim liihang, erah seng Wah ih baat halang jeng ah baat hang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/2>	JOH 13:8 Pitar ih liita, <> Jisu ih ngaak liita, <<Ngah ih an lah ah latiihaat raabah,” <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 13:10 Jisu ih liita, <> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 13:11 Jisu ih heh jootkotte ah jen jat eta; erah thoidi jengta, <>)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 13:13 <<Sen ih ngasuh nyootte nyia Teesu li hali, punjeng elan, tiimnge liidi ngah emah ju.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 13:17 Amadi sen ih ami tiit ah jat ehan, emamah ih banreeraang anbah, sen tiimthan tenroon ang an!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 13:18 <<Sen loongtang tiit ngah ih tabaat kang; o danje hang ah ngah ih jat ehang. Enoothong rangteele ni liiha ah thok jaatjaat eha, erah di emah liiha, o mina nga damdoh roong phaksah ha erah mih ah nga siikhaamte ih hoon ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 13:20 Ngah ih amiisak tiit ah baat rumhala; ngah ih daapkaat lang mih ah o ih lambanchoh ah erah nga lambanchoh halang, adoleh o ih nga lam bantho halang erah nga daapkaatte wah lam bantho ha.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 13:27 Baanlo thaang damdam Soitaan ah Judas sak ni noptongta. Eno Jisu ih Judas suh baatta, an tiim reetheng ah kharok ih re uh!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 13:31 Judas ah doksoon kaat kano Jisu ih liita, <<Amadi Mina Sah rangka ah dongjat thuk ha, Rangte rangka ah heh jun ih dongjat thuk ha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 13:35 Sen jaachi nah minchanmui ih anbah warep ih erah doh jat ah, sen loong ah nga liphante ngeh ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/4>	JOH 13:36 <> Simon Pitar ih chengta. Jisu ih ngaakbaatta, <> enoothong liwang nah nga lih jen phan ehang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 13:38 Jisu ih ngaak liita, <<Amiisak nga raang ih teksuh banban tam tonglu? Ngah ih amiisak tiit baat hala; woh maang weeka doh an jaajom leek uh tajatkang ngeh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/0>	JOH 14:1 Heliphante loong asuh Jisu ih baat rumta, <<Nak thungthih an nyia naksootsaam an,<<Rangte nyia ngah ba hanpi he.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 14:4 Sen ih jat ehan ngah wanglang lam ah maako wangla ih ah.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 14:6 Jisu ih ngaakbaat rumta, <<Ngah juuba lampo, amiisak nyia roidong; seng Wah jiinnah o uh tajen wangka, nga jun ih luulu jen wang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<1/3>	JOH 14:7 Jisu ih li rumta, Amadi sen ih ngah jat ih hali,>> <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 14:10 Philip, an ih tanih hanpiiko ngah seng Wah damdi eno seng Wah ah nga damdi ngeh ah? Ngah jenglang jengkhaap ah nga jeng tah angka.>> Jisu ih heliphante loong asuh baat rumta, Nga damdi waktong hala seng Wah ah ih heh mootkaat ah kala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 14:15 <<Sen ih nga minchan ih heebah, nga jengdang ah kap an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 14:18 <<Ngah wang ih angdoh, sen luulu tathiinhaat rumra; ngah sen jiinnah weengaak kaat ehang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 14:23 Jisu ih ngaakbaat rumta, <<O mina ih ngah minchan hang erah ih ngah ih nyootsoot hang ah kap ih ah. Seng Wah ih uh erah mih ah minchan ih ah eno sek Soowah raahe tiino neng damdoh waktong raahe tih.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 14:25 <<Arah sen damdi tongpoot diiba baat rumhala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 14:27 <<Nga jiin dowa semroongroong ih tongjih ah sen suh thiinhaat koh rumhala. Mongrep mina ih koha likhiik takoh rumra. Sen naksootsaam an; cho uh nakcho an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 14:31 enoothong seng Wah ah nga mongnook ngeh ih mongrep mina warep ih jat jaatjaat etheng; erah raangtaan ih heh ih tiim baat halang erah jun ih reelang. <<Raahan, arah dowa dokkhoom eh ih.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 15:1 <<Ngah juuba amiisak anggut, eno seng Wah ah paachangte.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 15:5 <<Ngah juuba anggut ruh, sen loong ah hephaak. O mina nga damdoh angha nyia ngah hedamdoh angtang nooba, hetiik ah ehan ih dong tiik ah; ngah laje kangbah an ih tiim uh tami ih ko.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 15:11 <<A baat rumhala ah langla, nga tonglang ah likhiik sen uh tenroon ih toomtong an ngeh ih baat rumhala, sen loong ah rapne ih eroon toom ih an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 15:18 <<Arah mongrep ah ih miksuk ih hanbah, sen ih samthun ih an ngah phang miksuk rum tahang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 15:26 <<Chosokte ah kaat eha—erah langla Chiiala, Rangte tiit ami ah wuubaat suh seng Wah reenawa raaha. Ngah ih seng Wah reenawa daapkaat hang, eno heh ih nga tiit ah baat han.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:1 <<Ngah ih arah jengkhaap ah baat rumhala, sen laalom ah naktoom toihaat an ngeh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:4 Amadi sen loong asuh baat rumhala langla, emah ih siiwi handoh sen loong ah ih toom samthun an. <<Jaakhodi, ngah sen damdi ang thoidi arah tiit ah tabaat rum taha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:12 <<Ngah ih sen suh baattheng ene tah angka, erabah uh amadoh baat rumha bah tajen naanchaat kan ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:17 Mararah heliphante loong ah nengneng chengmui rumta, <<Heh ih tiim asuh liiha, chomroe doh sen ih takah boot japtupri eno chomroe lidoh ngah we japtup ehe ngeh ah; eno heh ih emah uh eli eha, ‘tiimnge liidi ngah seng Wah jiinni wanglang.’	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 16:18 Chomroe ah tiim asuh liiha? Tiimjih suh li koja, erah seng ih tajatke!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:19 Jisu ih jat eta, heliphante loong ih heh suh cheng ah ngeh ah, erah raangtaan ih Jisu ih baat rumta, <<Ngah ih liihang, ‘Chomroe sen ih takah boot japtupri, eno chomroe lidoh pootsiit we tup ehe.’ Erah li kangno tanih kah chengmui lan?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:23 <<Sen loong asuh ami tiit ah baat rumhala, saapoot thok haadoh sen ih tiim uh tasuh ri ang ah. Sen suh amiisak tiit baat rumhala; nga mendoh seng Wah jiin nawa tiimsuh an, erah heh ih kot ih han.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:25 <<Ngah ih arah jengkhaap loong ah tiitthaak toobaat damdi baat rumhala. Enoothong saapoot ah thok eha ngah ih tiitthaak lam ih takah baat rumra, enoothong seng Wah tiit ah saasa ih baat rumha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 16:28 Ngah arah mongrep adi seng Wah reenawa ra tahang, eno arah mongrep ah thiinhaat angno seng Wah jiinni ngaakwang lang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:29 Eno heliphante loong ah ih Jisu suh baatta, <<Amadi bah an ih saasa ih jenglu, tiitthaak lam ih labaat ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 16:30 Amadi kokjat ehi an ih jirep ah jat ehu ngeh ah; an suh mih ih miicheng jih tajeeka. Erah thoidi Rangte reenawa raahalu ngeh ih seng ih jat ehi.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 16:31 Jisu ih ngaakcheng rumta, <<Amadi hanpi tam ih han?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 16:33 Ngah ih arah tiit ah nga damdi anghanno semroongroong ih toomtong rum ah ngeh ih baat rumhala. Sen loong ah mongrep mih ih chamnaang ih thuk han. Enoothong sen lacho theng! Ngah ih mongrep ah jen etang!>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 17:1 Erah jeng ano Jisu rangko toonsokwan ano liita, <<Ewah, saapoot ah thok ehala, an Sah rangka thuk uh, heh ih an toom we choomjoot thuk ho.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 17:6 <<Arah mongrep dowa mina kotahang loong asuh an ejat ih thuk taha. Erah koh halang mina loong ah an mina angta. Neng ih an jeng ah kap eta,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 17:9 <<Ngah ih neng raang ih soomhang. Arah mongrep raangtaan ih tah soomkang, enoothong an ih kotahang loong raang ih soomhang, tiimnge liidi neng loong an mina.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 17:20 <<Neng raang ih luulu tasoomkang, neng ih tiitkhaap baatkaat rum adoh nga hanpiite loong raang ih nep soomhang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 17:24 <<Ewah! Neng loong ah an ih ngasuh kohalang, eno ngah manah angang neng uh nga damdam toom ang rumha, enooba neng ih nga rangka ah chotup rum ah, marah mongrep maanghoon di nga rangka tu nyia minchan ih tahang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 17:26 Neng suh an jen jat ih thukrum taha, eno erah jatroh ih thukrum ang, enooba an ih nga minchan halang ah neng ih uh choh toom ih rum ah, eno ngah uh neng damdoh eje toom ang ang.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/0>	JOH 18:6 Jisu ih <<Erah liihan abah ngah ngeh ih liikano<< neng liko ih ngaakchap rum ano hah ni loongjup rumta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 18:8 <> Jisu ih baat rumta, <<Ngah jam hali bah wahoh loong ah ngaakkaat ih thuk an.’’ Jisu ih emah ih li rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 18:8 <> Jisu ih baat rumta, <<Ngah jam hali bah wahoh loong ah ngaakkaat ih thuk an.’’ Jisu ih emah ih li rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 18:9 Heh ih maangdi ban baatta ah amiisak ih angsuh neng loong asuh emah li rumta, Jisu ih Hewah rang ah emah ih soomta: <>)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 18:21 An ih emah tiim esuh cheng halang? Nga jeng boichaatte loong asuh cheng uh. Ngah ih tiimjih baat rumtang neng ih chaat eta.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 18:23 Jisu ih heh suh ngaak liitta, “Ngah tiim bah uh mokjeng etang bah, mirep suh adoh baat uh. Enoothong ngah tiim jengtang erah punjeng etang baleh tiim esuh buh halang?>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 18:31 <> Pilat ih baat rumta. Jehudi loong ah ih ngaakli rumta, <> (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 18:32 Erah langla Jisu ih heh mamah ih tektheng ah erah tiit ban baatta ah wuusa nah amiimi dong angsuh jeng rumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 18:37 Eno Pilat ih Jisu suh chengta, <> Jisu ih ngaakbaatta, <<An ih liitu ngah luuwang ngeh ah. Ngabah dongtup hangno arah mongrep adi jisiit raangtaan ih ra tahang, erah langla amiitiit ah baat suh. O mina amiisak mih ang ah erah ih nga jeng ah boichaat hang .	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	JOH 18:38 “Enoobah amiitiit ah tiimah?” Pilat ih chengta. Eno Pilat ah weengaak dokkhoom kah ano miloong asuh liikah rumta, <<Heh tiim thoilam doh thet haat theng ah ngah ebah tah jatjoh kang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 19:11 Jisu ih ngaak liita, An ih ngah tiim ehang bah uh erah chaan ah Rangte ih koh halu. Erah raangtaan ih an suh nga jootkotte ah rapne ih moong reela.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<4/0>	JOH 19:13 Pilat ih erah jeng ah chaat ano, mat hoonkotte “Jongtongtheng” ngeh ih menrumta adi Jisu ah doksiit kaat ano tong kata (erah suh Hebrew nok hah ih <<Gabbatha<< ngeh menta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<8/0>	JOH 19:17 Jisu ih bangphak ah pi ano <<Mikhoraang hah<< adi kata. (Jehudi loong ih <<Golgotha<< ngeh menha.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<10/0>	JOH 19:21 Romwah phokhoh loong ah Pilat reeni wang ano liita, <<Jehudi Luuwang<< ngeh ih nak raang uh<< erah nang ih bah <<Arah mih ah ih liita, Ngah Jehudi Luuwang<< emah ih raang uh.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 19:34 Enoothong, sipaahi wasiit ih heh saam ni Pah ih sot kano joong nyi sih loong ah dokjanta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 19:35 Erah angta rah mih ih heh mikmik ih japtup arah baat ha, erah raangtaan ih sen ih uh hanpi ih an. Erah baatte ah ih amiitiit ah jat eha, ngah ih amiitiit ah baat hang ngeh ah.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	JOH 20:8 Eno heliphante wasiit jaakhoh thokte warah uh roong nop ih wangta eno nyuh ah japtup ano heh ih hanpi eta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	JOH 20:9 Erah pootdi neng ih Rangteele ni raangthiinta ah tajat rumta, tek nawa we ngaaksaat jaatjaat ih ah liiha rah ah.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 20:13 Nengnyi ih cheng nyuuta, <<Minuh, tiimnge hu lu? Meeri ih baat nyuuta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<6/2>	JOH 20:16 Jisu ih liita, <> Meeri ah Jisu taangko lekchap ano Jehudi jenglam ih liita, <> (Erah langla Jehudi jenglam ih <<Leenyootte<< suh liiha)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 20:17 Jisu ih liita, <<Ngah nak taajoh hang<>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<1/3>	JOH 20:21 Eno Jisu ih we liita, <> Seng Wah ih ngah kaat thuk halang ah likhiik, sen uh emamah ih kaat thukrum hala.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 20:23 Sen ih wahoh rangdah ah biin anaan hoon anbah, neng rangdah ah biin anaan hoon ih ah; sen ih biin anaan lahoon kanbah, neng rangdah ah uh biin anaan tahoonka.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<3/1>	JOH 21:5 Eno Jisu ih cheng rumta, <> <<Tiim uh takapke,” Jaaro loong ih baat rumta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 21:6 Eno Jisu ih baat rumta, khoonkhu chap thuk lan dakmiiko adoh chaak ah haat an, nyah erah doh kap ih an.>> Erah raangtaan ih neng chaak ah haat rum ano tajen ngaak hom rumta, chaak adi nyah hantek nyaanta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<7/3>	JOH 21:15 Jen phaksah rum ano, Jisu ih Simon Pitar suh liita, <> <> Pitar ih ngaak liita, <<an ih jat ih hu ngah ih an minchan ih hala<< ngeh ah. Jisu ih Pitar suh baatta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<6/2>	JOH 21:16 Jisu ih Pitar suh taknyi chengta, <<Joon sah Simon, <> “Em Teesu,” “an ih jat ih hu ngah ih an minchan ih hala<< ngeh ah. Jisu ih baatta, <>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<6/2>	JOH 21:17 Jisu ih takjom chengta, <> Jisu ih takjom cheng kano Pitar ah thungjoong eta, <> ngeh ih cheng kano ah. Erah raangtaan ih Pitar ih Jisu suh liita, <<Teesu an ih jirep ah jat ih hu; an ih jat ih hu ngah ih an minchan ih hala ngeh ah!” Jisu ih Pitar suh baatta, <<Nga saap ah sokboi uh.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<0/2>	JOH 21:18 Ngah ih amiitiit baat hala; an jaaro tokdi mani kaat thung ah erah di katu; enoothong teekaang ang udoh, an lak jaanghaat kuno wahoh ih an thung lahaan ko adoh siitkaat ho.>>	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	ACT 1:17 Judaas ah sengdung dowa wasiit heh mootkaatte taat danjeeta.” (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 Jerusalem ni songtongte loong ah ih erah japchaat rum ano, neng jenglam ih erah phek asuh Akeldama ngeh ih men rumta, erah langla “Sih Phek ngeh ah”)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	ACT 7:24 Heh mina wasiit Ijip mih ih siiwi ah japtup ano, Moses ih erah mih ah etek haat eta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	ACT 7:25 Moses ih thunta, heh mina loong ah ih baata jatrum hangnih, ngah Rangte ih neng doksiit suh daapkaat halang ngeh ah, eno heh mina loong ah ih tajat rumta).	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	ACT 23:7 Erah lih adi, Pharisi nyia Sadusis loong ah neng jaachi ni phang rookmui rum ano, dungnyi eh hoon rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	ACT 23:8 Sadusis loong ah ih liita mina tek nawa tangaak saatka, eno chiiala nyia heh kaamwah uh tajeeka; enoothong, Pharisi loong ah eh arah ejomjom hanpiiha.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	1CO 1:15 Erah raangtaan ih o ih uh tajen liika sen loong ah nga liphante raang ih juutem tan. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	1CO 1:16 Em elang ih ah, Stephenas nyia heh jaatang uh ngah ih juutem rumtang; enoothong wahoh juutem bah ngah ih tasamthun kang.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	1CO 1:21 Rangte mongtham ah mina neng niija mongtham nawa ih heh lajen jatthuk thang ih ang thukla. Erah nang ebah, seng ih nyootsootti asuh <<thaangmuh” liiha jun ih heh suh laalomte loong ah Rangte ih puipang esuh liiha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	1CO 3:19 Tiimnge liidi arah mongrep mina ih ejat ngeh ih liiha ah Rangte miksok di thaangmuh. Rangteele ni liiha, <<Rangte ih jatwah ah heh mongwah maakwah ah ih phoong ni pat thukla”;	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	<2/0>	1CO 4:6 Joon awaan loong, sen loong raangtaan ih, Apollo seknyi ih, nyootsok theng toom ang ah ngeh ih reeli tih, eno sen ih arah tiitthaak, <<Banlam ah naririh ih kap theng” erah tiimsuh liiha erah toomjat an suh ah. Sen loong ah o damdoh uh lakhuupook theng nyia o uh lakaanju theng.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	1CO 11:18 Jaakhothoon ah, ngasuh chobaat rum halang, sen loong ah khoontongleh daanmui eh lantih, eno erah ami ju ang ah ngeh ih hanpi hang. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	1CO 11:19 Tiim tah angka sen jaachi nah uh daanmui ejih, emah ang ano juuba o mina epun ah erah mina ah wuusa nah dongjat ah.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	EPH 3:3 Rangte ih husah ni kaankoongta ah ngasuh jat ih thuk halang. (Arah tiit ah amasah raangkoh rumhala,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	EPH 3:4 eno erah raanghang ah weh anno, Kristo husah tiit ngah ih jat hang ah sen ih jen jat ih an.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	EPH 5:11 Mina loong ah lalang lajang reeraang rumla adoh sen roong reeraangjih tah angka, erah nang ebah neng loong ah rangwu nah doksiit an. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	EPH 5:12 Amiimiidi husah ni erah reeraang rumla ah rakmu riike jih.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(1/0)	EPH 5:28 Miwah ih neng sanuh ah neng sakpuh minchanha ah likhiik minchan theng. O miwah ih heh sanuh minchanha erah ih heh teeteewah minchanha. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Source	(0/1)	EPH 5:30 tiimnge liidi seng loong ah sakpuh esiit ni roopli.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(2/1)	041 MAR 003 029 Enoothong o ih Esa Chiiala asuh ethih jengkhaap jeng abah, babah uh biin anaan tachoka, tumeah heh ih mabah uh lathoonjih rangdah ah mola.” ( (aiōn g165, aiōnios g166)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 003 030 Jisu ih arah baatta ah langla, mararah mih ih amet li rumta, “Heh sak ni chiithih laakhah pan eah.”)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 005 007 erongwah ih riinghuungta, “Jisu, Echoong thoon ni tongte Rangte Sah! An ih tumjih ette ang halang? “Rangte mendoh, ngah nak thet haat weehang, ngah ih an lasih johala!” (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 005 008 Heh ih arah jengkhaap ah Jisu ih “Chiithih laakhah dokkhoom ho ih li kano jengta!”)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 002 Pharisi loong ih Jisu liphante loong mararah ih neng lak enyaan ih phaksah arah jatjoh rumta erah langla neng laktiimuh ih phaksah rumta eno erah ah Pharisi loong ih kah nyoot rumta jun ih tah angta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 adoleh thaangsang theng nawa tumjaat thok huiha bah uh jaakhoh saachot muh doh tajen phaksata. Erah damdi uh neng ih ephoop teewah banlam loong ah phan rumta, Jengthaak ih lookkep khaplang, khuung akhaak nyia juptheng loong ah uh saachot muh ih tamaak rumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Naangtongsa rangkhano di Jisu ngaaksaat lini, jaakhothoon ah Meeri Megdalen jiinni dongta, erah nuh sak dowa jaakhoni Jisu ih laathih sinet dokphanta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 Heliphante loong ah noongrep ni karum ano Ruurang Ese ah tumbaat kaat rumta, eno Teesu ah neng damdi roong mokah no Rangte tiit baat rumta, neng ih epaatjaajih loong re rumta jun ih amiisak ah dongjat thuk rumta.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 001 022 “Eno bah an ah o anglu baat he,” neng loong ah ih cheng rumta. “Seng daap kaatte loong asuh an o anglu erah tiit ah ngaakbaat wantheng. An teewah suh an ih tiimjih li hu?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 001 026 Joon ih ngaakbaat rumta, [Ngah ih ju nawa ih juutem rumhala, enoothong sengdung ni wasiit chapla ah sen ih tajatkan.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 001 027 Erah mih ah nga lih ni ra hala, enoothong ngah bah heh lakhoop adoleh heh lasong khook haattha uh taluikang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 001 029 Erah saalih adi Jisu heh taang ni wangha rah Joon ih japtup ano, liita, [Rangte Saapsah ah arah, arah mongrep dowa rangdah saasiitte ah erah wang hala!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 001 031 Ngah ih heh o ang ah ngeh ih tah jattang, enoothong, heh ah Ijirel noksong ih toomjat rum ah ngeh ih juutem ra tahang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 001 032 Eno Joon ih heteewah tiitkhaap tiit baat rumta: [Ngah ih Chiiala ah wotuupi likhiik rang nawa ra haano heh sakkhoh ni dangra ha rah tuptang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 001 039 [Sok raathaak hansih ba,” heh ih ngaakbaat nyuuta. (Erah tokdi rangsa lup nanah angta.) Erah thoidi heh damdi roong kah nyu ano heh mani songtongta rah japtup kanyuuta eno erah sa adi heh damdi naangjam nyuuta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 001 043 Erah saalih adi Jisu Galili ni kaat chungta. Heh ih Philip ah japtup ano baatta, [Nga damdoh roongra ho!] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 001 044 Philip ah Pitar nyia Andriu tongla hah, Betsaida nawa angta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 001 046 [Najaret nawa tiim bah uh ese thok nih eha?] Nathanel ih chengta. [Raaho no sok uh,” Philip ih ngaak baatta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/2]	043 JOH 001 048 Nathanel ih heh suh chengta, An ih ngah mamah ih jat halang?] Jisu ih ngaak baatta, [Philip ih maang poon ruudi phuksak bang lathong ni ang uh rah jap tup taha.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 001 051 Eno neng suh li rumta, [Ngah ih amiisak tiit ah baat rumhala: Rangmong ah laangdaap adoh Rangsah loong ah Mina Sah reenah chookwang datkah ih lengkhoom arah japtup an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 003 002 Pheesiit Jisu reeni wang ano li wangta, [Chuupha, seng ih jat ehi an Rangte ih kaat thuk ho rah nyootte warah ah. Rangte heh damdoh lah angka bah an reelu paatjaajih loong ah o uh tajen reeka.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 003 023 Aenon ni ju ah hantek ang kano, Joon ih uh erah hah ni juutem rumta, erah hah ah Salim dowa ih haloh tah angta. Miloong ah heh reeni karumta, eno Joon ih ju ah tem ih rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 003 024 Erah langla Joon phaatak ni maangsak kaadi.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 003 027 Joon ih ngaakbaat rumta, [O suh uh Rangte ih lakoka bah tiim uh tachoka.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 003 030 Jisu ah nga nang ih elong jaatjaat ang ah ngah ehin.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 004 001 Joon liphante loong nang ih Jisu ih juutem ehan japtem rum arah Pharisi loong ih japchaat rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 004 002 Amimiidi bah, Jisu heteewah ih wasiit taan uh tatem rumta; heliphante loong ih luulu juutem rumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 004 007 Samariate minuh nusiit ju khoot wang kohaano, Jisu ih baatta, [Ngah suh ju ah jok thuk weehang.] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 004 008 Heliphante loong ah erah pootdi samnuh ni phaksat jamriik karumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 004 010 Jisu ih liita, “Rangte ih tiimjaat koha erah ah jat ubah nyia an jiin nawa joong sukjokte warah jattu bah, an ih suk ih thengtu, eno heh ih an suh roidong ju ah kottheng taho.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/0]	043 JOH 004 011 Minuh ah ih liita, [Chuupha,” [an jiinni joongpi theng uh amuh, eno naatbeng ah uh echoong dook. An ih erah roidong ju ah manawa ma choh uh?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 004 012 Arah naatbeng ah sengte sengwah Jaakob ih kohe rah; helui hemaan, heh sah loong nyia heteewah ih arah jok dowa. Jaakob nang ih elong ngeh nakmok thun uh, emah nih mokthun hu?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 004 013 Jisu ih erah nuh asuh liita, [O ih arah ju ah jok ah heh joongle ih we le e ah,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 004 014 enoothong ngah ih koh angrah ju ah jok abah mabah uh joongle ih takah we leeka. Ngah ih koh angrah ju abah heh roidong juumik eh hoon ah eno erah juumik rah ih roidong ju ah koh ano lathoon roidong ah koh ah.] (aiōn g165, aiōnios g166)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 004 016 Jisu ih baatta, [An miwah poonkah uh,” eno [ngaakwang ho.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/0]	043 JOH 004 017 [Nga miwah tajeeka,” erah nuh rah ih ngaak baatta. Jisu ih ngaak liita, [An miwah amuh liihu ah an punjeng elu.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 004 018 Amadi tuk ih wabangnga suh nooklu, eno amadi o damdi tonglu erah uh amiisak di an miwah tah angka. An ih amiitiit ah ju baat halang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 004 019 [Chuupha ngah ih jat ih hala, an khowah,” minuh ah ih ngaak liita.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 004 020 Sengwih sengte Samaria nok hah loong ah ih arah kong adi Rangte kah soomtu rumta, enoothong Jehudi sen loong ah ih seng subah Jerusalem hah nah soomtu theng ngeh liihan.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 004 021 Jisu ih erah nuh asuh baatta, [An ih nga jeng ah hanpi hang, saapoot jaasiit thok eha mina loong ah ih Jerusalem nah adoleh arah kong adoh Hewah rang lasoom thang ih tong rum arah ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 004 038 Sen loong marah phek adi tamoh katan erah dowa khan kaat thuk rumhala; erah di wahoh mokata, eno neng mokata dowa sen ih dakchoh an.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 019 Erah thoidi Jisu ih ngaakbaat rumta, [Ngah ih amiisak baat rumhala; Hesah ah heh thungthung ih tiim uh tami reeka; Hewah tiim mokala erah sok ano reela. Hewah tiim reela, Hesah uh erah re ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 024 [Ngah ih amiisak baat rumhala; o mina ih nga jeng boichaat ano nga daapkaatte ah hanpi ha erah mina taang ni lathoonka roidong ah je ah. Heh abah tadande ka ang ah, heh tek lam dowa roidong ko jen nopwang eta. (aiōnios g166)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 030 [Nga chaan nawa ih ngah ih tiim uh tajen reekang; Rangte ih baat halang jun ih ba dande hang, erah raangtaan ih ngah ih dande hang ah epun ang ah, tiimnge liidi nga tenthun nawa ih tareekang, enoothong nga daapkaatte warah ih tiim thun ha erah mootkaatte.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 031 [Mih suh nga teewah tiit ah mokbaat angbah, ngah ih marah baat hang erah elang ekah ngeh ih mih ih takapka ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 041 [Ngah ih mina ih phoongpha tajamkang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 005 047 Enoothong heh ih tiim raangta erah lahanpi phiino, Ngah ih liihang ah batang ah mamah ma ih hanpi an?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 006 005 Jisu ih miloong ah jamsok adi hantek heh reeni wang arah japtupta, erah thoidi Philip suh chengta, [Aathan mina suh kotsuh manawa phaksat choh reh ih?] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 006 006 Heh ih Philip suh thamtham ih thaak chengta; amiidi baleh heh ih tiim etheng erah jat eta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 007 Philip ih ngaakbaatta, “Baanlo ah loongtang ih cheeru phak raangtaan ih botseh, chaanyi nang ih ehan ngunkholok ih ba lui reh ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 010 [Miloong ah tongthuk an,” Jisu ih baat rumta. (Erah di naam nang angta.) Erah thoidi miloong ah tong rumta; erah di miwah rooproop ih haajaat bangnga ang rumta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 014 Jisu ih epaatjaajih reeta ah tuprum ano, miloong ah ih liita, “Mongrep ni kaatte Khowah abah amiisak di heh ju!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 006 020 [Nakcho an,” Jisu ih baat rumta, [Ngah hanih!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 026 Jisu ih ngaakbaat rumta, [Ngah ih sen loong asuh amiisak ih baat rumhala; ngah ih jat ehang sen loong ah ih baanlo ah sen wok laanphoot roh ih phak anno jam hali, paatjaajih reelang ah jat anno tah angka.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 027 Ethet ela phaksat raangtaan ih nak mokah an; erah nang ebah, lathoonka roidong phaksat raang ih mokah an, eno erah langla Mina Sah rah ih kohan, tiimnge liidi, Rangte Hewah ih heh mendi sin hoon thiinta.] (aiōnios g166)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 029 Jisu ih ngaakbaat rumta, [Rangte ih sen suh tiimre thukjih ah langla heh ih wasiit kaat thuk hala ah hanpi an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 030 Neng loong ah ih ngaakbaatta, [Seng ih hanpi suh an ih paatjaajih tiimjih noisok he? An tiimjih re uh?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 032 “Ngah ih amiisak baat rumhala,” Jisu ih baat rumta, [Moses ih tiimjih koh tahan erah rangmong nawa baanlo tah angta; rangmong nawa amiisak baanlo kottte abah seng Wah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 033 Rangte ih koha baanlo ah langla o rangmong nawa ra hala erah, eno mongrep mina suh roidong koha.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 040 Tiimnge liidi seng Wah ih jamha langla o ih Hesah ah japtup ano heh hanpi ha erah loong ah ih lathoonka roidong ah choh ah. Eno ngah ih neng loong ah rangthoon doh roidong chosuh ngaak saatsiit ang.] (aiōnios g166)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 043 Jisu ih ngaakbaat rumta, [Sen jaachi ni jengmui ah toihaat ih an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 051 Rangmong nawa ra taha ething baanlo ah ngah. Erah baanlo ah o ih phak ah, erah mih ah roitang tong ah. Heh suh baanlo kohang ah nga si, erah ngah ih mongrep nah thingtong suh kohang.] (aiōn g165)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 053 Jisu ih ngaakbaat rumta, [Ngah ih amiitiit ah baat rumhala; sen loong ah ih Mina Sah si ah laphak kanbah nyia heh sih ah lajok kanbah, sen jiinnah roidong tajeeka ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 058 Arah thoidi, rangmong nawa ra hala baanlo ah; sente senwah ih phakta baanlo ah likhiik tah angka, neng loong ah bah tek eta. O mina ih arah baanlo ah phak ah erabah roitang thingtong ah.] (aiōn g165)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 061 Labaat rumka bah uh, Jisu ih jat eta erah thoidi daanmui rumla ngeh ah, erah thoidi Jisu ih li rumta, [Arah nyootsoot rumhala ah sen raang ih lanook chaat theng tam ah?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 064 Erabah sen loong dung dowa mararah ih tahanpi kan.] (Jaakhoh dowa ih dook Jisu ih jat eta o mina ih tahanpi ka nyia o ih heh mokwaan ah.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 006 068 Simon Pitar ih liita, [Teesu, seng loong ah o jinnah maakah kah ih? An jengkhaap ni ba lathoonka roidong tiit ah jeela. (aiōnios g166)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 006 069 Eno amadi seng ih hanpi ehi nyia jat ehi an luulu juuba Rangte taangnawa raaho rah Esa warah ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 003 erah raangtaan ih heh no loong ah ih Jisu suh baat rumta, [An reeraang ah an liphante loong ah ih toomjat asuh arah dowa Judia hah nah kah uh.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 007 004 Mih ih toom khomjat hang ngeh ih li abah o uh hotsu ih tareeka. An emah ih reelu bah, mongrep nah warep ih toom khomjat ho!] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 004 Mih ih toom khomjat hang ngeh ih li abah o uh hotsu ih tareeka. An emah ih reelu bah, mongrep nah warep ih toom khomjat ho!] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 007 005 Heh no loong ih taan uh tahanpi rumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 006 Jisu ih li rumta, [Nga reeraang saapoot tok ah nga raang ih maang thokra. Sen suh ba tiim saapoot ang abah uh punroh ih ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 016 Jisu ih ngaakbaat rumta, [Ngah ih tiim nyootsoot hang erah nga thung ih tanyoot kang, erah langla nga daapkaatte, Rangte taangnawa ra hala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 019 Moses ih Hootthe tanih koh tahan? Enoothong sen loong ah ih wasiittaan ih uh takap kan. Nga tek haat suh sen ih tiim esuh setlak taatchung hali.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 021 Jisu ih ngaakbaat rumta, [Paatjaatheng esiit re kangno, sen loong ah paatja etan.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 024 Rangkhoh ni sok an ih dande han ah toi ih an, erah nang ebah amiisak doh dande theng.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 025 Jerusalem noksong mararah ih liita, [ngoong awang loong ih tek haat chungha ah aa mih ah tam ah?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 027 Enoothong Kristo raaha doh bah o ih uh manawa ra hala ngeh ih tajatka ang ah. Eno seng loongtang ih jat ehi arah mih ah manawa ra hala.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 028 Jisu ih Rangteenook ni nyootsootta adoh erongrongwah ih jengta, [Amiimi ngah manawa ra halang sen ih jat tam ih hali? Nga chaan nawa ih tara rang. O ih ngah daapkaat halang, erah juuba ami ah. Sen ih heh ah tajatkan,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 029 enoothong ngah ih bah jat ehang, tiimnge liidi ngah heh taangnawa nyia heh ih daapjah halang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 033 Jisu ih liita, [Sen damdoh chomroe saapoot ba boot roong tongthiin hang, eno nga daapkaatte ah jiinnah wang ang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 034 Sen ih ngah jamsok ehe, enoothong tajap tupri ang ah, tiimnge liidi ngah wanglang adoh sen tami wangran.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 035 Jehudi ngoong awang loong ah neng jaachi ni roongwaan rumta, [Seng ih lajaptup theng heh maako maakah ah? Seng mina songtong rumla Grik samnuthung adoh kah ano, Grik mina suh nyootsoot kaat suh tam liiha?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 036 Heh ih liiha seng ih jam bah jamsok eh ih enoothong tachoh jamke ang ah, eno heh wangla adoh seng tajen wangke. Erah tiimjih suh liiha?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 037 Thoontang nang eh hoondak rangwuuja ah kumatja saakaan ah angta, eno Jisu ah toonchap ano erongrongwah ih baattaan rumta, [O mina joongle ih tiila nga taangnah wang han, eno	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 007 041 Wahoh loong ah ih liita, [Kristo ah heh!] Enoothong rukho ah ih liita, [Kristo ah Galili nawa taraara!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 042 Rangteele ni liiha Kristo ah Dewid Luuwang sutoom dowa ang ah eno Dewid songtongta hadaang adoh Betlehem nah tup ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 048 [Ngoong awang nyia Pharisite loong dowa wasiit taan heh hanpiite tup tam etan?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 007 049 Erah miloong ah ih Moses hootthe ah tajat rumta, erah raangtaan ih neng loong ah Rangte tenkhat khui ni!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 008 004 [Nyootte] neng loong ah ih Jisu suh baat rumta, [arah nuh ah mih damdi roomjup arah japjoot dowa.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 005 Seng Hootthe ni Moses ih baatta erah likhiik minuh ah jong ih tekpat theng. Emah ang abah, an ih mamah li uh?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 008 012 Pharisi loong ah damdi Jisu we roongwaanta. [Mongrep raang ih ngah ah weephaak,” Jisu ih liita. [O mina ih nga lih phanhang heh jiinnah roidong weephaak ah je ah eno heh mabah uh laamang nah takhoomka.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 008 014 “Emah tah angka” Jisu ih ngaakli rumta, [ngah ih nga teewah tiit baat ang bah uh, ngah ih tiimjih baat hang erah amiisak tiit, tiimnge liidi ngah ih jat ehang ngah manawa ra halang nyia manah wang ang. Sen loong ih tajatkan ngah manawa ra halang nyia manah wang ang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 018 Ngah ih nga teewah tiit ah baat hang, eno nga daapkaatte seng Wah ih uh nga tiit baat ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 008 023 Jisu ih ngaakbaat rumta, [Sen loong ah arah mongrep khui nawa, eno ngah ah rangkhoh nawa raahang rah. Sen loong arah mongrep nawa, enoothong ngah arah mongrep nawa tah angkang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 008 025 [An o ah?] Neng ih Jisu suh cheng rumta. Jisu ih ngaakbaat rumta, [Phangbaat tang dowa ih tiim baat rumhala erah ju.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 026 Sen suh ngah ih li theng rapne je ah, dut haat etheng uh eje. Enoothong ngah o ih daapkaat halang, heh juuba ami ah, eno heh jiin nawa tiim chaat hang erah juuba mongrep dowa mina loong asuh baat hang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 029 Eno ngah o ih daapkaat halang heh ah nga damdi; nga luulu heh ih tathiinhaat rang, tiimnge liidi ngah ih saarookwet heh tenroon theng reelang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 008 031 Eno Jisu ih heh suh hanpiite loong asuh baat rumta, [Nga ih nyoot rumhala ah kap anbah, sen loong ah amiisak nga liphante ang an;	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 032 sen loong ah ih ami tiit ah ejat ete, eno amiisak rah ih sen loong ah doksiit ehan.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 008 033 [Seng loong abah Abraham sutom,” neng loong ah ih ngaakbaat rumta, [eno seng loong ah mabah uh o dah uh tataat angke. Eno sen loong ah doksiit ehan ngeh ih jenglu ah tiimjih suh liihu?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 008 034 Jisu ih neng loong asuh baat rumta, [ngah ih sen loong asuh amiisak ih baat rumhala: O mina rangdah reeraangla erah mih ah rangdah suh heh dah ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 038 Seng Wah ih tiim noisok halang erah baat rumhala, enoothong sen suh sen wah ih marah baat halan ah re lan.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[3/1]	043 JOH 008 039 Neng ih ngaakbaat rumta, [Seng loong wah ah bah Abraham.] Jisu ih ngaakli rumta, [Sen loong ah Abraham suh asah angtan bah,” [sen loong ah heh reeta likhiik ih reetheng; tan.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 008 042 Jisu ih baat rumta, [Rangte ah sen loong Wah angta bah ngah enook etheng tahe, tiimnge liidi ngah Rangte taangnawa ra halang. Nga chaan nawa ih ngah tara tahang, ngah bah heh ih daapkaat tahang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/0]	043 JOH 008 049 [Ngah jiinni chiithih laakhah tajeeka, Jisu ih ngaakbaat rumta, [Ngah ih seng Wah choomjoh hang, enoothong sen ih ngah tachoom jori.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 051 Ngah ih ami baat rumhala; ngah ih nyootsoot hang ah o minah ih kap ah erabah mabah uh tatiika.] (aiōn g165)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 008 052 Jehudi loong ah ih Jisu suh li rumta, [Seng ih jat ehi an chiithih laakhah pan! Abraham tek eta, Khowah loong uh tek eta, erabah uh an ih liihu an ih nyootsoot hu boichaatte ah mabah uh tatiika. (aiōn g165)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 053 Seng loong wah Abraham bah tek eta; ngah Abraham nang ih elong ngeh ih nih li hu, emah tam thun hu? Eno khowah loong uh tek eta. Anteewah suh tiimjih samthun hu?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 008 054 Jisu ih ngaakbaat rumta, [Ngah ih nga teewah mok choomjotang bah, erah choomchotang ah thaangmuh ang thengta. Nga choomjootte wasiit abah seng Wah—sen ih Rangte ngeh li han rah ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 056 Sen loong wah Abraham bah nga kaat saapoot ah japtup suh eroon eta; eno heh ih japtup eta nyia eroon eta.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 008 057 Neng ih Jisu suh li rumta, [an amadi paangrook bangnga bot maang ang ko—eno Abraham japtup eto oh?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 009 003 Jisu ih ngaakbaat rumta, [Heh mikdook ah heteewah rangdah nyia heh nuwah rangdah thoidi tah angka. Heh mikdookla abah Rangte chaan ah heh jun ih noisok suh ba angta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 009 005 Ngah mongrep nah tong pootdoh, mongrep raang ih ngah weephaak.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[3/2]	043 JOH 009 009 Mararah ih liita, [Erah mih ah ju,” rukho loong ah ih liita, [Heh tah angka; heh likhiik.] Erah thoidi heteewah ih baat rumta, [Ngah laangbo aleh.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 009 012 [Heh mani ah leh?] Miloong ah ih cheng rumta. [Tajatkang,” edook ah ih ngaakbaat rumta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 009 020 Heh nuwah ih ngaakbaat rumta, [Seng ih jat ih hi arah seng sah, nyia edook eh dongtup arah ngeh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 009 021 Enoothong seng ih tajatke amadi heh ih mamah mi tup ha, nyia edook ang arah o ih deesiitta. Heheh suh cheng anba; heh mihak tanih angka, heh teewah ih miibaat laang ejan!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 009 027 [Ngah ih jaakhoni dook jen baat ih rum taha,” heh ih ngaakli rumta, [eno sen ih tah boichaat tan. Sen ih tiim esuh we bootchaat suh li han? Sen uh, heliphante angsuh enook nih lan?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 009 028 Neng ih thaangju kaanse lam ih li rumta, [an baalek heliphante angkoju; seng bah Moses liphante.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 009 029 Seng ih bah Rangte ih Moses suh baatta ah ba jat ih, enoothong, Jisu ah manawa ra taha erah botseh tajatke!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 009 030 Eno edook angta deeta warah ih li rumta, [Erabah epaatja etheng laang angla nih! Nga mikdook botseh deesiit tahang ah, heh manawa ra taha ah tawe jatkan nih!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 009 033 Erah mih ah Rangte jiin nawa lara taha bah, tiim uh tala jenre thengtaaja.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 010 001 Jisu ih liita, [Ngah ih amiisak baat rumhala; o mina saap paakaawan lam ih lanop thang eh, lamhoh lam ih duuwangla abah, ehuh nyia meh putte ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 010 005 Saap loong ah ih wahoh lih taphan joka, erah nang ebah heh root ah lajatjoh rum kaano, erah mih reedowa moong soon erum ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 010 007 Erah thoidi Jisu ih we liita, [Ngah ih amiisak baatrum hala; saap raangtaan ih paakaawan ah ngah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 010 011 [Saapriimte ese ah ngah, o ih saap loong raang ih roidong jen kotte warah ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 010 017 [Seng Wah ih ngah enook ih halang, tiimnge liidi nga roidong kot suh tacho kang, ngah ih roidong we ngaak chosuh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 010 018 Nga roidong ah nga jiin nawa o ih uh tajen ngeerang. Erah Nga thunghoon ih kohang. Ngah ih jen kot ih ang, adoleh jen ngaak thaang ih ang. Seng Wah ih erah reetheng ngeh ih baat halang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 010 025 Jisu ih ngaakbaat rumta, [Ngah ih sen suh jen baat ih rum taha, erabah uh sen ih tahanpi ri. Seng Wah chaan nawa ih tiimjaat reelang erah ih jat ih thuk halan Ngah o ah;	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 010 030 Sek Soowah ah esiit.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 010 034 Jisu ih ngaakbaat rumta, [Sen hootthe ni Rangte ih emah liiha, ‘sen loong ah rangte.’	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 010 038 Ngah lahanpi ri bah uh, ngah reelang loong ah baalah hanpi an, jaasiitdoh sen loong ah ih jat toom ih an suh ah, seng Wah ah nga damdi adoleh ngah seng Wah damdi ngeh ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 010 041 Miloong ah heh reeni hantek thok rum taha. Neng loong ah ih liita, [Joon ih bah paatjaajih tareeta, [enoothong heh ih a mih tiit baatta ah amiisak ih baatta.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 011 001 Lajaras ngeh ih mih wasiit angta ah sat eta. Heh Bithani ni tongte angta, Bithani ah Meeri nyia heh no Martha tongta samthung angta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 011 002 Teesu lah ni phontum ih lok ano heh khoroon ih hut haatte ah Meeri angta; eno khoisatte Lajaras ah heh no angta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 011 009 Jisu ih ngaakbaat rumta, [Rangwuusiit di asih koonta nyi tanih angka? Erah raang ih rangwu di khoomte ah tabanbotka, tiimnge liidi heh ih mongrep dowa weephaak ah tup eha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 011 010 Enoothong, rangphe doh weephaak mudoh khoom abah banbot ih ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 011 015 enoothong ngah mudi emah angla thoidi sen loong raang ih eroon elang, erah thoidoh ba sen ih kok hanpi an. Heh jiinnah wang ih.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 011 021 Martha ih Jisu suh liita, [Teesu, an aanah angtu bah, nga no ah tatek thengta!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 011 022 Enoothong ngah ih jat ehang, an ih amadoh Rangte jiin nawa tiim suh uh erah kot eho.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 011 025 Jisu ih heh suh baatta, [Ngah tek nawa ngaaksaattte nyia roidong, o ih ngah hanpi halang, erah mih ah etek ih abah uh ething ang ah;	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 011 026 eno o ih ngah hanpi hangno thing tongla erah mabah uh tatiika. Arah tiit ah hanpi tam ih hu?] (aiōn g165)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 011 028 Maratha ih erah baat lih ni, heh nah Meeri jiinni hotsu ih ngaakwang ano poonwangta, [Nyootte ah bah ani,” eno heh ih [an jam halu.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 011 041 Neng loong ah ih jong ah dokloong rumta. Jisu rangko ih toonsokwan ano jengta, [Ewah, nga rangsoom ah chaat raangtaan ih lakookmi li hala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 011 042 Ngah ih jaat ehang an ih saarookwet ih boichaat halang, enoothong arah liihang abah, aradi lomkhoon hala miloong ah ih, an ih daapkaat tahang ngeh ih toom hanpi rumhang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 011 044 Eno dokkhoom taha, helak helah mang loop nyuh ih dekchoi nyia hethe hekhoh nyuh ih dek arah, dokkhoom taha. Jisu ih baat rumta, [Nyuh ah jaahaat an,” eno [Toomwang ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 011 048 Seng ih emah jaatjaat ih reeraang thuk ebah, warep ih hanpiite angrumla, eno Room nok hah ngoong awang loong ih li ih baat he, eno seng Rangteenook nyia seng deek sengkaan uh thet haat ete ang hali!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 011 049 Neng changdi wasiit, heh men ah Kaiphas angta, erah paang adi heh Romwah Phokhothoon angta, eno heh ih li rumta, [Sen mamah jen ngakthak lan!	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 011 050 Sen ih tatam samthun kan deek akaan pan ih matnang ih noksong raangtaan ih wasiit rooptiila ah ese ang ah ngeh ah!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/2]	043 JOH 011 056 Neng ih Jisu jamsok rumta, eno neng loong ah Rangteenook ni thutthe rum adi, neng neng chengmui rumta, [Sen ih tiimjih thun han?] Jisu ah kuwaang adoh tajaatjaat tam wangra?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 012 007 Eno Jisu ih liita, [Meeri ah nak paklak an heh luulu thiinhaat an! Phontum ah nga mangbeng raang ih toomthiin ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 012 008 Changthih abah saarookwet ih sen damdoh ang ha, enoothong ngah ah saarookwet sen damdoh tatongrang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 012 023 Eno Jisu ih nengnyi suh ngaakbaat nyuuta, [Mina Sah rangka saapoot ah amadi thok ehala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 012 027 [Amadi ngah mong rapne saamlang—eno ngah ih tiimjih li ang? Ngah ih emah tamli ang, ‘Ewah, nga chamchoh saapoot ah nakthok thukwe ho? Enoothong ngah erah raangtaan ih ra tahang—chamnaang saapoot ah chosuh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/2]	043 JOH 012 028 Ewah, an men rangkajih ju toom ang ah!] Eno rang ni jeng arah chaatta, [Ngah ih heh rangka ah thoksiit halang, eno bolam uh emamah ih boot rangka thuk ang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 012 030 Enoothong Jisu ih baat rumta, [Erah jengla ah nga raang ih tah angka, erah sen loong raang ih jengla.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 012 032 Eno, arah hah dowa ngah toonjoh hangdoh loongtang nga reenah thoksiit rumhang.] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 012 032 Eno, arah hah dowa ngah toonjoh hangdoh loongtang nga reenah thoksiit rumhang.] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 012 033 Jisu erah jengta ah heh mamah ih ti ah erah tiit ah baatta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 012 035 Jisu ih ngaakbaat rumta, [Weephaak ah sen loong damdoh chomroe ba boot waktong ha. Erah raangtaan ih, weephaakla tok adoh sen khoom roh ih an laamang nah phokhoom an; tiimnge liidi laamang ni khoomte ih tajatka heh maani kala ngeh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 012 036 Erah raangtaan ih, weephaak ah hanpi ih an, weephaak mina toom ang an.] Erah baat rumta lidi, Jisu ah neng loong reenawa doksoon kah ano hutong kata.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 012 044 Jisu ih erongwah ih riibaat rumta, [O mina ih ngah hanpi rum halang, erah loong ah ih nga luulu tahanpi rumrang enoothong nga daapkaatte rah uh hanpi ih rumha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 012 050 Ngah ih jat ehang heh jengdang ah ih lathoon roidong koh ah. Erah raangtaan ih ngah ih tiim liihang, erah seng Wah ih baat halang jeng ah baat hang.] (aiōnios g166)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[3/2]	043 JOH 013 008 Pitar ih liita, [Tiimtok doh uh nga lah bah nak tiihaat hang!] Jisu ih ngaak liita, [Ngah ih an lah ah latiihaat raabah,” [an nga liphante takah angko.] (aiōn g165)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 013 010 Jisu ih liita, [O mina ih heh sak saachot choi abah esa lakah chot theng, heh lah luulu ba tiihaat theng. Sen thoontang esa—wasiit ah ba.] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 013 011 Jisu ih heh jootkotte ah jen jat eta; erah thoidi jengta, [Sen loongtang esa, wasiit ah ba.])	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 013 013 [Sen ih ngasuh nyootte nyia Teesu li hali, punjeng elan, tiimnge liidi ngah emah ju.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 013 017 Amadi sen ih ami tiit ah jat ehan, emamah ih banreeraang anbah, sen tiimthan tenroon ang an!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 013 018 [Sen loongtang tiit ngah ih tabaat kang; o danje hang ah ngah ih jat ehang. Enoothong rangteele ni liiha ah thok jaatjaat eha, erah di emah liiha, o mina nga damdoh roong phaksah ha erah mih ah nga siikhaamte ih hoon ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 013 020 Ngah ih amiisak tiit ah baat rumhala; ngah ih daapkaat lang mih ah o ih lambanchoh ah erah nga lambanchoh halang, adoleh o ih nga lam bantho halang erah nga daapkaatte wah lam bantho ha.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 013 027 Baanlo thaang damdam Soitaan ah Judas sak ni noptongta. Eno Jisu ih Judas suh baatta, an tiim reetheng ah kharok ih re uh!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 013 031 Judas ah doksoon kaat kano Jisu ih liita, [Amadi Mina Sah rangka ah dongjat thuk ha, Rangte rangka ah heh jun ih dongjat thuk ha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 013 035 Sen jaachi nah minchanmui ih anbah warep ih erah doh jat ah, sen loong ah nga liphante ngeh ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/3]	043 JOH 013 036 [An manah wang uh, Teesu?] Simon Pitar ih chengta. Jisu ih ngaakbaatta, [Amadoh an ih nga lih tajen phanrang,] enoothong liwang nah nga lih jen phan ehang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 013 038 Jisu ih ngaak liita, [Amiisak nga raang ih teksuh banban tam tonglu? Ngah ih amiisak tiit baat hala; woh maang weeka doh an jaajom leek uh tajatkang ngeh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/0]	043 JOH 014 001 Heliphante loong asuh Jisu ih baat rumta, [Nak thungthih an nyia naksootsaam an, [Rangte nyia ngah ba hanpi he.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 014 004 Sen ih jat ehan ngah wanglang lam ah maako wangla ih ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 014 006 Jisu ih ngaakbaat rumta, [Ngah juuba lampo, amiisak nyia roidong; seng Wah jiinnah o uh tajen wangka, nga jun ih luulu jen wang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/2]	043 JOH 014 007 Jisu ih li rumta, Amadi sen ih ngah jat ih hali,] [seng Wah uh jat ih an, eno amah dowa ih heh uh jat ih han tup uh tup ih han.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 014 010 Philip, an ih tanih hanpiiko ngah seng Wah damdi eno seng Wah ah nga damdi ngeh ah? Ngah jenglang jengkhaap ah nga jeng tah angka.] Jisu ih heliphante loong asuh baat rumta, Nga damdi waktong hala seng Wah ah ih heh mootkaat ah kala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 014 015 [Sen ih nga minchan ih heebah, nga jengdang ah kap an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 014 018 [Ngah wang ih angdoh, sen luulu tathiinhaat rumra; ngah sen jiinnah weengaak kaat ehang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 014 023 Jisu ih ngaakbaat rumta, [O mina ih ngah minchan hang erah ih ngah ih nyootsoot hang ah kap ih ah. Seng Wah ih uh erah mih ah minchan ih ah eno sek Soowah raahe tiino neng damdoh waktong raahe tih.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 014 025 [Arah sen damdi tongpoot diiba baat rumhala.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 014 027 [Nga jiin dowa semroongroong ih tongjih ah sen suh thiinhaat koh rumhala. Mongrep mina ih koha likhiik takoh rumra. Sen naksootsaam an; cho uh nakcho an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 014 031 enoothong seng Wah ah nga mongnook ngeh ih mongrep mina warep ih jat jaatjaat etheng; erah raangtaan ih heh ih tiim baat halang erah jun ih reelang. [Raahan, arah dowa dokkhoom eh ih.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 015 001 [Ngah juuba amiisak anggut, eno seng Wah ah paachangte.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 015 005 [Ngah juuba anggut ruh, sen loong ah hephaak. O mina nga damdoh angha nyia ngah hedamdoh angtang nooba, hetiik ah ehan ih dong tiik ah; ngah laje kangbah an ih tiim uh tami ih ko.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 015 011 [A baat rumhala ah langla, nga tonglang ah likhiik sen uh tenroon ih toomtong an ngeh ih baat rumhala, sen loong ah rapne ih eroon toom ih an.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 015 018 [Arah mongrep ah ih miksuk ih hanbah, sen ih samthun ih an ngah phang miksuk rum tahang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 015 026 [Chosokte ah kaat eha—erah langla Chiiala, Rangte tiit ami ah wuubaat suh seng Wah reenawa raaha. Ngah ih seng Wah reenawa daapkaat hang, eno heh ih nga tiit ah baat han.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 001 [Ngah ih arah jengkhaap ah baat rumhala, sen laalom ah naktoom toihaat an ngeh ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 004 Amadi sen loong asuh baat rumhala langla, emah ih siiwi handoh sen loong ah ih toom samthun an. [Jaakhodi, ngah sen damdi ang thoidi arah tiit ah tabaat rum taha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 012 [Ngah ih sen suh baattheng ene tah angka, erabah uh amadoh baat rumha bah tajen naanchaat kan ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 017 Mararah heliphante loong ah nengneng chengmui rumta, [Heh ih tiim asuh liiha, chomroe doh sen ih takah boot japtupri eno chomroe lidoh ngah we japtup ehe ngeh ah; eno heh ih emah uh eli eha, ‘tiimnge liidi ngah seng Wah jiinni wanglang.’	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 016 018 Chomroe ah tiim asuh liiha? Tiimjih suh li koja, erah seng ih tajatke!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 019 Jisu ih jat eta, heliphante loong ih heh suh cheng ah ngeh ah, erah raangtaan ih Jisu ih baat rumta, [Ngah ih liihang, ‘Chomroe sen ih takah boot japtupri, eno chomroe lidoh pootsiit we tup ehe.’ Erah li kangno tanih kah chengmui lan?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 023 [Sen loong asuh ami tiit ah baat rumhala, saapoot thok haadoh sen ih tiim uh tasuh ri ang ah. Sen suh amiisak tiit baat rumhala; nga mendoh seng Wah jiin nawa tiimsuh an, erah heh ih kot ih han.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 025 [Ngah ih arah jengkhaap loong ah tiitthaak toobaat damdi baat rumhala. Enoothong saapoot ah thok eha ngah ih tiitthaak lam ih takah baat rumra, enoothong seng Wah tiit ah saasa ih baat rumha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 016 028 Ngah arah mongrep adi seng Wah reenawa ra tahang, eno arah mongrep ah thiinhaat angno seng Wah jiinni ngaakwang lang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 029 Eno heliphante loong ah ih Jisu suh baatta, [Amadi bah an ih saasa ih jenglu, tiitthaak lam ih labaat ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 016 030 Amadi kokjat ehi an ih jirep ah jat ehu ngeh ah; an suh mih ih miicheng jih tajeeka. Erah thoidi Rangte reenawa raahalu ngeh ih seng ih jat ehi.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 016 031 Jisu ih ngaakcheng rumta, [Amadi hanpi tam ih han?	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 016 033 Ngah ih arah tiit ah nga damdi anghanno semroongroong ih toomtong rum ah ngeh ih baat rumhala. Sen loong ah mongrep mih ih chamnaang ih thuk han. Enoothong sen lacho theng! Ngah ih mongrep ah jen etang!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 017 001 Erah jeng ano Jisu rangko toonsokwan ano liita, [Ewah, saapoot ah thok ehala, an Sah rangka thuk uh, heh ih an toom we choomjoot thuk ho.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 017 006 [Arah mongrep dowa mina kotahang loong asuh an ejat ih thuk taha. Erah koh halang mina loong ah an mina angta. Neng ih an jeng ah kap eta,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 017 009 [Ngah ih neng raang ih soomhang. Arah mongrep raangtaan ih tah soomkang, enoothong an ih kotahang loong raang ih soomhang, tiimnge liidi neng loong an mina.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 017 020 [Neng raang ih luulu tasoomkang, neng ih tiitkhaap baatkaat rum adoh nga hanpiite loong raang ih nep soomhang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 017 024 [Ewah! Neng loong ah an ih ngasuh kohalang, eno ngah manah angang neng uh nga damdam toom ang rumha, enooba neng ih nga rangka ah chotup rum ah, marah mongrep maanghoon di nga rangka tu nyia minchan ih tahang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 017 026 Neng suh an jen jat ih thukrum taha, eno erah jatroh ih thukrum ang, enooba an ih nga minchan halang ah neng ih uh choh toom ih rum ah, eno ngah uh neng damdoh eje toom ang ang.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 018 008 [Ngah ih jen baat ih rum taha erabah ngah ngeh ah.] Jisu ih baat rumta, [Ngah jam hali bah wahoh loong ah ngaakkaat ih thuk an.’’ Jisu ih emah ih li rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 018 008 [Ngah ih jen baat ih rum taha erabah ngah ngeh ah.] Jisu ih baat rumta, [Ngah jam hali bah wahoh loong ah ngaakkaat ih thuk an.’’ Jisu ih emah ih li rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 018 009 Heh ih maangdi ban baatta ah amiisak ih angsuh neng loong asuh emah li rumta, Jisu ih Hewah rang ah emah ih soomta: [Ewah! An ih kotahang miloong ah wasiit taan uh ngah ih mat haatmuh.])	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 018 021 An ih emah tiim esuh cheng halang? Nga jeng boichaatte loong asuh cheng uh. Ngah ih tiimjih baat rumtang neng ih chaat eta.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 018 023 Jisu ih heh suh ngaak liitta, “Ngah tiim bah uh mokjeng etang bah, mirep suh adoh baat uh. Enoothong ngah tiim jengtang erah punjeng etang baleh tiim esuh buh halang?]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 018 031 [Emah ang abah sen hootthe jun ih mat ah taat hoonkaat thaak an.] Pilat ih baat rumta. Jehudi loong ah ih ngaakli rumta, [Seng ih mih tami tek haatke.] (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 018 032 Erah langla Jisu ih heh mamah ih tektheng ah erah tiit ban baatta ah wuusa nah amiimi dong angsuh jeng rumta.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 018 037 Eno Pilat ih Jisu suh chengta, [Enoobah, an luuwang tam ah?] Jisu ih ngaakbaatta, [An ih liitu ngah luuwang ngeh ah. Ngabah dongtup hangno arah mongrep adi jisiit raangtaan ih ra tahang, erah langla amiitiit ah baat suh. O mina amiisak mih ang ah erah ih nga jeng ah boichaat hang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 018 038 “Enoobah amiitiit ah tiimah?” Pilat ih chengta. Eno Pilat ah weengaak dokkhoom kah ano miloong asuh liikah rumta, [Heh tiim thoilam doh thet haat theng ah ngah ebah tah jatjoh kang.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 019 011 Jisu ih ngaak liita, An ih ngah tiim ehang bah uh erah chaan ah Rangte ih koh halu. Erah raangtaan ih an suh nga jootkotte ah rapne ih moong reela.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[4/1]	043 JOH 019 021 Romwah phokhoh loong ah Pilat reeni wang ano liita, [Jehudi Luuwang] ngeh ih nak raang uh[erah nang ih bah [Arah mih ah ih liita, Ngah Jehudi Luuwang[emah ih raang uh.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 019 034 Enoothong, sipaahi wasiit ih heh saam ni Pah ih sot kano joong nyi sih loong ah dokjanta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 019 035 Erah angta rah mih ih heh mikmik ih japtup arah baat ha, erah raangtaan ih sen ih uh hanpi ih an. Erah baatte ah ih amiitiit ah jat eha, ngah ih amiitiit ah baat hang ngeh ah.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 020 008 Eno heliphante wasiit jaakhoh thokte warah uh roong nop ih wangta eno nyuh ah japtup ano heh ih hanpi eta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 020 009 Erah pootdi neng ih Rangteele ni raangthiinta ah tajat rumta, tek nawa we ngaaksaat jaatjaat ih ah liiha rah ah.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 020 013 Nengnyi ih cheng nyuuta, [Minuh, tiimnge hu lu? Meeri ih baat nyuuta, [Nga Teesu ah soonpi ih rumha, mani thiinkaat rum koja tajatkang!]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/2]	043 JOH 020 017 Jisu ih liita, [Ngah nak taajoh hang] Ngah seng Wah jiinni maang ngaakwang kang. Ngaaphoh ngaano loong suh baatkaat uh, seng Wah nyia neng loong Wah, nga Rangte nyia neng loong Rangte jiinni ngaakwangla ngeh ah.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/2]	043 JOH 020 021 Eno Jisu ih we liita, [Semroongroong ih tong an.] Seng Wah ih ngah kaat thuk halang ah likhiik, sen uh emamah ih kaat thukrum hala.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 020 023 Sen ih wahoh rangdah ah biin anaan hoon anbah, neng rangdah ah biin anaan hoon ih ah; sen ih biin anaan lahoon kanbah, neng rangdah ah uh biin anaan tahoonka.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[2/1]	043 JOH 021 005 Eno Jisu ih cheng rumta, [Jaaro loong, tiim uh tanih kap kan?] [Tiim uh takapke,” Jaaro loong ih baat rumta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 021 006 Eno Jisu ih baat rumta, khoonkhu chap thuk lan dakmiiko adoh chaak ah haat an, nyah erah doh kap ih an.] Erah raangtaan ih neng chaak ah haat rum ano tajen ngaak hom rumta, chaak adi nyah hantek nyaanta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[4/2]	043 JOH 021 016 Jisu ih Pitar suh taknyi chengta, [Joon sah Simon, [ngah an ih minchan nih ehalang?] “Em Teesu,” “an ih jat ih hu ngah ih an minchan ih hala[ngeh ah. Jisu ih baatta, [Nga saapsah loong ah sokboi uh.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[4/2]	043 JOH 021 017 Jisu ih takjom chengta, [Joon sah Simon, an ih ngah minchan nih ih halang?] Jisu ih takjom cheng kano Pitar ah thungjoong eta, [ngah an ih minchan nih ih halang?] ngeh ih cheng kano ah. Erah raangtaan ih Pitar ih Jisu suh liita, [Teesu an ih jirep ah jat ih hu; an ih jat ih hu ngah ih an minchan ih hala ngeh ah!” Jisu ih Pitar suh baatta, [Nga saap ah sokboi uh.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 021 018 Ngah ih amiitiit baat hala; an jaaro tokdi mani kaat thung ah erah di katu; enoothong teekaang ang udoh, an lak jaanghaat kuno wahoh ih an thung lahaan ko adoh siitkaat ho.]	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 017 Judaas ah sengdung dowa wasiit heh mootkaatte taat danjeeta.” (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Jerusalem ni songtongte loong ah ih erah japchaat rum ano, neng jenglam ih erah phek asuh Akeldama ngeh ih men rumta, erah langla “Sih Phek ngeh ah”)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 007 024 Heh mina wasiit Ijip mih ih siiwi ah japtup ano, Moses ih erah mih ah etek haat eta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 007 025 Moses ih thunta, heh mina loong ah ih baata jatrum hangnih, ngah Rangte ih neng doksiit suh daapkaat halang ngeh ah, eno heh mina loong ah ih tajat rumta).	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 023 007 Erah lih adi, Pharisi nyia Sadusis loong ah neng jaachi ni phang rookmui rum ano, dungnyi eh hoon rumta. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 023 008 Sadusis loong ah ih liita mina tek nawa tangaak saatka, eno chiiala nyia heh kaamwah uh tajeeka; enoothong, Pharisi loong ah eh arah ejomjom hanpiiha.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	046 1CO 001 015 Erah raangtaan ih o ih uh tajen liika sen loong ah nga liphante raang ih juutem tan. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	046 1CO 001 016 Em elang ih ah, Stephenas nyia heh jaatang uh ngah ih juutem rumtang; enoothong wahoh juutem bah ngah ih tasamthun kang.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	046 1CO 001 021 Rangte mongtham ah mina neng niija mongtham nawa ih heh lajen jatthuk thang ih ang thukla. Erah nang ebah, seng ih nyootsootti asuh [thaangmuh” liiha jun ih heh suh laalomte loong ah Rangte ih puipang esuh liiha.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	046 1CO 003 019 Tiimnge liidi arah mongrep mina ih ejat ngeh ih liiha ah Rangte miksok di thaangmuh. Rangteele ni liiha, [Rangte ih jatwah ah heh mongwah maakwah ah ih phoong ni pat thukla”;	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	[1/0]	046 1CO 004 006 Joon awaan loong, sen loong raangtaan ih, Apollo seknyi ih, nyootsok theng toom ang ah ngeh ih reeli tih, eno sen ih arah tiitthaak, [Banlam ah naririh ih kap theng” erah tiimsuh liiha erah toomjat an suh ah. Sen loong ah o damdoh uh lakhuupook theng nyia o uh lakaanju theng.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	046 1CO 011 018 Jaakhothoon ah, ngasuh chobaat rum halang, sen loong ah khoontongleh daanmui eh lantih, eno erah ami ju ang ah ngeh ih hanpi hang. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	046 1CO 011 019 Tiim tah angka sen jaachi nah uh daanmui ejih, emah ang ano juuba o mina epun ah erah mina ah wuusa nah dongjat ah.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 Rangte ih husah ni kaankoongta ah ngasuh jat ih thuk halang. (Arah tiit ah amasah raangkoh rumhala,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 eno erah raanghang ah weh anno, Kristo husah tiit ngah ih jat hang ah sen ih jen jat ih an.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 005 011 Mina loong ah lalang lajang reeraang rumla adoh sen roong reeraangjih tah angka, erah nang ebah neng loong ah rangwu nah doksiit an. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 005 012 Amiimiidi husah ni erah reeraang rumla ah rakmu riike jih.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 005 028 Miwah ih neng sanuh ah neng sakpuh minchanha ah likhiik minchan theng. O miwah ih heh sanuh minchanha erah ih heh teeteewah minchanha. (	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 005 030 tiimnge liidi seng loong ah sakpuh esiit ni roopli.)	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	ENCLOSURES	Summary	lines	272 / 255	WARN
+
+# UNEXPECTED
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Naga-Tutsa---Tutsa-Naga-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Source	6	ACT 27:37 Seng loong ah roop roop ih 276 mina tongti.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Source	0	REV 7:4 Eno ngasuh baat tahang neng khang ni Rangte sin hoon choichoi ah 144,000 angta . Neng loong ah Ijirel jaat apaat asih jaatnyi dowa ang rumta,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Source	0	REV 11:3 Ngah ih nga haaki wanyi ah khoipoi ah kap thuk nyu angno kaat thuknyu ang, eno nengnyi ih 1,260 saakaan mongdoh Rangte tiitkhaap ah baattaan nyu ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Source	0	REV 12:6 Eno Rangte ih ban khookhamta phisang hah adi, minuh ah soonkata, erah di 1,260 saakaan riikoi sokboi kaatta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Source	6	REV 13:18 Arah jat suh mongtham eje ang theng. O jatwah jeewah ang ah, erah tiim suh liiha nyia marah siithinyakhah ah erah jat ih an, heh nomboot ah 666 ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Source	0	REV 14:1 Erah lih adi toonsok angdi, Jaion Kong ni Saapsah chap arah japtuptang; heh damdi 144,000 mina angta eno heh men nyia heh Wah men ah neng khang ni raang arah angta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Source	0	REV 14:3 Luuwang tongtheng ngathong adi 144,000 mina, ething jih ajaat baji, erah damdi mihak phokhoh ang rumta; neng loong ah ih neng luulu ih jat arah seehoon ena esiit se rumta. Eno mina mathan ah erah dung dowa neng luulu juuba hethaang koh ano rangdah nawa pang arah angta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Source	count	7	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Naangtongsa rangkhano di Jisu ngaaksaat lini, jaakhothoon ah Meeri Megdalen jiinni dongta, erah nuh sak dowa jaakhoni Jisu ih laathih sinet dokphanta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	276	044-ACT-027-037 Seng loong ah roop roop ih 276 mina tongti.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	144	066-REV-007-004 Eno ngasuh baat tahang neng khang ni Rangte sin hoon choichoi ah 144,000 angta. Neng loong ah Ijirel jaat apaat asih jaatnyi dowa ang rumta,	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	1	066-REV-011-003 Ngah ih nga haaki wanyi ah khoipoi ah kap thuk nyu angno kaat thuknyu ang, eno nengnyi ih 1,260 saakaan mongdoh Rangte tiitkhaap ah baattaan nyu ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	1	066-REV-012-006 Eno Rangte ih ban khookhamta phisang hah adi, minuh ah soonkata, erah di 1,260 saakaan riikoi sokboi kaatta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	666	066-REV-013-018 Arah jat suh mongtham eje ang theng. O jatwah jeewah ang ah, erah tiim suh liiha nyia marah siithinyakhah ah erah jat ih an, heh nomboot ah 666 ang ah.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	144	066-REV-014-001 Erah lih adi toonsok angdi, Jaion Kong ni Saapsah chap arah japtuptang; heh damdi 144,000 mina angta eno heh men nyia heh Wah men ah neng khang ni raang arah angta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	144	066-REV-014-003 Luuwang tongtheng ngathong adi 144,000 mina, ething jih ajaat baji, erah damdi mihak phokhoh ang rumta; neng loong ah ih neng luulu ih jat arah seehoon ena esiit se rumta. Eno mina mathan ah erah dung dowa neng luulu juuba hethaang koh ano rangdah nawa pang arah angta.	WARN
+Naga-Tutsa---Tutsa-Naga-Bible	NUMERALS	Aionian	count	8	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,894 @@
+# File Name: Holy-Bible---Holy-Bible---Czech---Living-Bible---Analysis.txt
+# File Size: 62635       
+# File Date: 12/13/2025 05:17:02
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Open Slovo Na Cestu
+# Bible Name English: Czech Living New Testament
+# Bible Language: Čeština
+# Bible Language English: Czech
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0, International
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=ceslb
+# Bible Source Year: 1988, 2000, 2012
+# Bible Description: Original work available for free at www.biblica.com and open.bible
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Czech---Living-Bible	ENCODING	Source	Holy-Bible---Czech---Living-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Czech---Living-Bible	ENCODING	Aionian	Holy-Bible---Czech---Living-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Czech---Living-Bible	BYTES	Source	bytes / chars	975697 / 873594 (multi-byte)	NOTICE
+Czech---Living-Bible	BYTES	Aionian	bytes / chars	1031609 / 929352 (multi-byte)	NOTICE
+Czech---Living-Bible	BYTES	SourceClean	bytes / chars	974867 / 872764 (multi-byte)	NOTICE
+Czech---Living-Bible	BYTES	AionianClean	bytes / chars	1029265 / 927036 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Czech---Living-Bible	AIONIAN	Aionian	missing-verse	040-MAT-005-030	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	missing-verse	040-MAT-012-032	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	missing-verse	045-ROM-001-025	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	missing-verse	3	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	aionian-verses	197	NOTICE
+Czech---Living-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Czech---Living-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Czech---Living-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Czech---Living-Bible	UNICODE	Summary	(-)Orginal	56	NOTICE
+Czech---Living-Bible	UNICODE	Summary	(+)Aionian	60	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (M)	3029	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (A)	4020	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (T)	3616	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : ( )	144730	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (1)	7343	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (:)	9138	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (J)	4019	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (e)	53992	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (r)	16631	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (o)	50498	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (d)	24586	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (k)	18997	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (m)	23011	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (n)	33067	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (s)	29793	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (a)	40498	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (h)	15731	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (p)	16927	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (D)	707	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (i)	29627	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (b)	9747	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (.)	9227	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (\n)	7301	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (2)	4760	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (I)	545	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (3)	2509	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (u)	18868	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (()	33	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (t)	33188	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : ())	33	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (P)	2724	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (c)	11925	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (C)	1949	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (R)	1506	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (4)	2043	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (l)	30148	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (5)	1668	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (B)	2862	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (O)	2669	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (6)	1422	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (7)	1267	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (8)	1185	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (U)	1364	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (9)	1137	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (0)	1123	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (y)	11533	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (E)	1054	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (K)	2882	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (,)	12900	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (g)	285	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	General Punctuation : ( )	30	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (H)	1588	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (V)	1480	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (G)	229	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (-)	179	NOTICE
+Czech---Living-Bible	UNICODE	Source(-)	Basic Latin : (L)	1481	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	30595	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	8926	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	29636	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	3042	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	4040	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	3625	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	8507	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4041	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	54025	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	130454	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	16642	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	50583	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	24603	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	18998	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	23018	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	33265	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	29907	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	40694	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	15732	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	16928	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	708	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	29872	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	9757	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	9228	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	7408	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	6135	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	547	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	3405	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	18871	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (()	232	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	33195	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : ())	232	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	2744	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	11927	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	1990	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	1521	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	30153	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	3201	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	2864	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	1839	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	2733	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	3203	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	1542	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	1611	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	1373	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1399	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	11547	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	1074	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2890	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	12908	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	495	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	1625	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1483	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	241	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	180	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	1495	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	166	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Czech---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (M)	3029	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (A)	4020	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (T)	3616	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : ( )	144730	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (1)	7343	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (:)	9138	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (J)	4019	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (e)	53992	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (ž)	10956	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (í)	18489	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (š)	8088	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (ů)	3366	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (v)	28075	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (r)	16631	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (o)	50498	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (d)	24586	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (k)	18997	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (m)	23011	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (n)	33067	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (s)	29793	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (a)	40498	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (h)	15731	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (á)	14493	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (p)	16927	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (ř)	9140	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (D)	707	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (i)	29627	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (b)	9747	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (.)	9227	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (\n)	7301	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (2)	4760	NOTICE
+Czech---Living-Bible	UNICODE	Source	General Punctuation : (–)	386	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (I)	545	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (z)	12512	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (3)	2509	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (u)	18868	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (()	33	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (t)	33188	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : ())	33	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (P)	2724	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (Z)	459	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (c)	11925	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (C)	1949	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	69	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (R)	1506	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (4)	2043	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (N)	1129	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (S)	777	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (l)	30148	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (5)	1668	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (B)	2862	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (O)	2669	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (é)	5904	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	425	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (j)	14914	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (6)	1422	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (Š)	138	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (7)	1267	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (Á)	14	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (8)	1185	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (f)	345	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (U)	1364	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (9)	1137	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (0)	1123	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (y)	11533	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (E)	1054	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (Ž)	149	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (Í)	1	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (K)	2882	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (,)	12900	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (č)	4347	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (g)	285	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (ě)	11742	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (ý)	4224	NOTICE
+Czech---Living-Bible	UNICODE	Source	General Punctuation : („)	1748	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (ď)	469	NOTICE
+Czech---Living-Bible	UNICODE	Source	General Punctuation : (‚)	215	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (!)	729	NOTICE
+Czech---Living-Bible	UNICODE	Source	General Punctuation : (‘)	215	NOTICE
+Czech---Living-Bible	UNICODE	Source	General Punctuation : ( )	30	NOTICE
+Czech---Living-Bible	UNICODE	Source	General Punctuation : (“)	1748	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (H)	1588	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (V)	1480	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (?)	857	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (;)	287	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (ň)	340	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (ť)	858	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (G)	229	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (-)	179	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (Č)	62	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (L)	1481	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (Ř)	125	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (F)	106	NOTICE
+Czech---Living-Bible	UNICODE	Source	General Punctuation : (’)	1	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin-1 Supplement: (Ú)	11	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (x)	42	NOTICE
+Czech---Living-Bible	UNICODE	Source	Basic Latin : (Q)	1	NOTICE
+Czech---Living-Bible	UNICODE	Source	General Punctuation : (…)	3	NOTICE
+Czech---Living-Bible	UNICODE	Source	Latin Extended-A : (Ď)	1	NOTICE
+
+# VERSIFICATION
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-004-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-005-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-005-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-005-030	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-005-045	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-006-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-007-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-009-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-009-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-009-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-010-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-010-030	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-011-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-011-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-011-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-011-030	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-032	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-044	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-045	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-013-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-013-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-013-046	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-013-054	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-013-058	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-014-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-015-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-015-038	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-016-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-019-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-019-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-020-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-020-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-020-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-021-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-021-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-021-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-021-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-022-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-034	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-024-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-024-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-024-051	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-033	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-038	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-039	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-043	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-066	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-068	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-027-042	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-027-053	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-028-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-033	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-044	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-002-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-004-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-004-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-028	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-037	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-039	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-046	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-008-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-008-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-048	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-012-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-058	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-067	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-037	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-041	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-049	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-074	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-075	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-076	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-077	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-078	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-037	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-028	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-029	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-030	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-031	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-032	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-033	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-034	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-035	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-037	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-038	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-005-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-005-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-006-048	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-007-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-008-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-009-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-009-031	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-010-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-038	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-048	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-049	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-051	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-013-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-014-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-014-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-016-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-019-030	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-020-047	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-021-035	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-033	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-034	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-002-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-003-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-003-030	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-041	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-045	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-006-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-006-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-006-033	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-038	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-045	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-008-037	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-008-038	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-008-046	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-009-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-009-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-010-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-010-030	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-010-035	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-010-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-011-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-012-033	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-032	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-013-033	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-014-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-014-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-014-031	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-015-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-016-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-016-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-016-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-017-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-017-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-019-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-020-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-020-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-020-031	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-021-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-002-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-002-035	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-003-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-003-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-004-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-004-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-004-037	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-005-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-007-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-011-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-012-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-034	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-041	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-014-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-035	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-016-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-016-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-033	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-019-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-019-029	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-019-037	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-020-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-020-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-020-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-022-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-023-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-023-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-023-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-023-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-025-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-025-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-025-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-025-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-026-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-026-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-027-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-027-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-027-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-027-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-027	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-031	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-002-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-002-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-003-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-003-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-003-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-004-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-004-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-004-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-004-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-004-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-005-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-006-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-006-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-006-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-006-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-007-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-007-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-007-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-007-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-007-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-007-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-007-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-029	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-039	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-011-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-011-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-013-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-014-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-014-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-014-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-014-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-014-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-015-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-001-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-001-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-001-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-002-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-002-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-003-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-003-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-003-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-003-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-006-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-006-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-006-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-007-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-007-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-007-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-007-036	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-007-038	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-008-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-008-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-009-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-009-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-009-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-009-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-009-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-010-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-010-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-010-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-010-029	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-011-029	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-012-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-012-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-012-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-014-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-014-031	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-025	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-048	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-049	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-016-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-002-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-002-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-002-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-003-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-005-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-006-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-008-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-008-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-008-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-009-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-009-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-010-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-010-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-010-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-010-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-012-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-013-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-002-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-002-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-002-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-003-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-003-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-003-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-003-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-003-026	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-004-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-005-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-005-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-002-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-002-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-002-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-004-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-004-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-005-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-005-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-005-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-005-030	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-006-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-006-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-002-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-002-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	051-COL-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	051-COL-002-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	051-COL-003-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	051-COL-003-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	051-COL-004-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-003-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-003-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-004-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-004-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-004-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-005-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	053-2TH-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	053-2TH-001-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	053-2TH-001-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	053-2TH-001-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	053-2TH-002-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-001-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-001-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-001-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-002-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-002-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-002-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-003-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-003-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-003-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-003-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-004-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-005-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-005-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-005-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-005-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-005-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-006-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	055-2TI-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	055-2TI-001-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	055-2TI-001-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	055-2TI-003-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	055-2TI-003-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-003-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-003-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-004-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-004-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-004-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-005-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-006-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-013	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-008-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-008-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-008-005	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-009-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-009-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-009-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-010-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-010-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-011-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-011-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-011-037	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-011-038	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-012-017	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-013-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-024	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-003-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-003-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-005-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-001-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-001-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-002-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-003-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-003-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-003-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-002-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-002-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-003-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-010	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-021	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-022	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	064-3JO-001-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-002-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-002-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-002-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-002-023	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-004-003	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-005-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-007-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-007-007	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-007-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-008-011	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-009-004	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-009-006	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-009-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-012-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-015-002	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-015-008	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-016-009	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-016-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-016-015	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-016-016	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-018-012	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-018-019	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-019-014	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-019-018	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-021-020	WARN
+Czech---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-021-027	WARN
+Czech---Living-Bible	VERSIFICATION	Summary	missing	548	WARN
+Czech---Living-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Czech---Living-Bible	ENCLOSURES	Source	()	33 / 33	NOTICE
+Czech---Living-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Czech---Living-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Czech---Living-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Czech---Living-Bible	ENCLOSURES	Aionian	()	232 / 232	NOTICE
+Czech---Living-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Czech---Living-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Czech---Living-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Czech---Living-Bible	ENCLOSURES	Source	(1/0)	JOH 12:15 „Neboj se, Jeruzaléme. Tvůj král se blíží, přijíždí na oslátku.“ (Ježíšovi učedníci si tehdy tuto souvislost neuvědomili.	WARN
+Czech---Living-Bible	ENCLOSURES	Source	(0/1)	JOH 12:16 Teprve po Ježíšově vzkříšení pochopili, že se tenkrát naplnilo proroctví.)	WARN
+Czech---Living-Bible	ENCLOSURES	Source	(1/0)	ACT 7:1 Předsedající kněz ho vyzval: „Můžeš popřít tuto obžalobu?“ (Před židovskou veleradou měl obžalovaný právo obhajoby	WARN
+Czech---Living-Bible	ENCLOSURES	Source	(0/1)	ACT 7:2 a Štěpán toho využil. Chtěl dokázat, jak zvěst o Ježíši zřetelně navazuje na Boží činy v izraelských dějinách.) „Bratři a otcové,“ oslovil je, „sám jediný Bůh se kdysi zjevil našemu předku Abrahamovi, který pocházel z Mezopotámie a později bydlil v Cháranu.	WARN
+Czech---Living-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 012 015 „Neboj se, Jeruzaléme. Tvůj král se blíží, přijíždí na oslátku.“ (Ježíšovi učedníci si tehdy tuto souvislost neuvědomili.	WARN
+Czech---Living-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 012 016 Teprve po Ježíšově vzkříšení pochopili, že se tenkrát naplnilo proroctví.)	WARN
+Czech---Living-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 007 001 Předsedající kněz ho vyzval: „Můžeš popřít tuto obžalobu?“ (Před židovskou veleradou měl obžalovaný právo obhajoby	WARN
+Czech---Living-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 007 002 a Štěpán toho využil. Chtěl dokázat, jak zvěst o Ježíši zřetelně navazuje na Boží činy v izraelských dějinách.) „Bratři a otcové,“ oslovil je, „sám jediný Bůh se kdysi zjevil našemu předku Abrahamovi, který pocházel z Mezopotámie a později bydlil v Cháranu.	WARN
+Czech---Living-Bible	ENCLOSURES	Summary	lines	4 / 4	NOTICE
+
+# UNEXPECTED
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Czech---Living-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Czech---Living-Bible	NUMERALS	Source	count	0	NOTICE
+Czech---Living-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Ježíš Kristus vstal z mrtvých časně ráno v neděli. Nejprve se ukázal Marii Magdaléně, ženě, ze které kdysi vyhnal sedm démonů.	WARN
+Czech---Living-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

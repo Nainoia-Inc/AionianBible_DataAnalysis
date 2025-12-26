@@ -1,0 +1,750 @@
+# File Name: Holy-Bible---Holy-Bible---Twi---Akuapem-Twi-Bible---Analysis.txt
+# File Size: 86650       
+# File Date: 12/13/2025 06:04:54
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Akuapem Twi Nkwa Asɛm
+# Bible Name English: Akuapem Twi Bible
+# Bible Language: Akuapem Twi
+# Bible Language English: Twi
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0, International
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=twi
+# Bible Source Year: 1996, 2020
+# Bible Description: Original work available for free at www.biblica.com and open.bible
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Twi---Akuapem-Twi-Bible	ENCODING	Source	Holy-Bible---Twi---Akuapem-Twi-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Twi---Akuapem-Twi-Bible	ENCODING	Aionian	Holy-Bible---Twi---Akuapem-Twi-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Twi---Akuapem-Twi-Bible	BYTES	Source	bytes / chars	4027800 / 3759688 (multi-byte)	NOTICE
+Twi---Akuapem-Twi-Bible	BYTES	Aionian	bytes / chars	4237544 / 3970894 (multi-byte)	NOTICE
+Twi---Akuapem-Twi-Bible	BYTES	SourceClean	bytes / chars	4026968 / 3758856 (multi-byte)	NOTICE
+Twi---Akuapem-Twi-Bible	BYTES	AionianClean	bytes / chars	4233977 / 3967337 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Twi---Akuapem-Twi-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Twi---Akuapem-Twi-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Twi---Akuapem-Twi-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Twi---Akuapem-Twi-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Twi---Akuapem-Twi-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Twi---Akuapem-Twi-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Twi---Akuapem-Twi-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Twi---Akuapem-Twi-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Twi---Akuapem-Twi-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Twi---Akuapem-Twi-Bible	UNICODE	Summary	(-)Orginal	53	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Summary	(+)Aionian	55	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (G)	3547	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (E)	16015	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : ( )	722866	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (1)	30596	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (:)	32507	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (M)	15184	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (i)	129116	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (a)	422694	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (s)	121972	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (e)	218842	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (n)	308278	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (o)	218616	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (O)	12348	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (y)	81364	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (k)	74093	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (p)	25291	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (b)	71923	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (r)	83282	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (.)	39143	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31100	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (2)	21849	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (d)	62442	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (m)	147080	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (,)	47340	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (u)	88550	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (t)	48727	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (H)	6858	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (h)	46965	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (3)	12366	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (4)	9250	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (5)	7161	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (A)	27301	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (6)	6542	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (7)	5999	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (8)	5807	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (9)	5648	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (0)	5763	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (g)	13391	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (P)	5086	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (l)	10044	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (T)	3728	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (S)	13735	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	General Punctuation : ( )	827	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (L)	3421	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (-)	661	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (R)	4852	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (()	440	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : ())	440	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (V)	1264	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (J)	4976	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Latin-1 Supplement: ( )	6	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : ([)	12	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source(-)	Basic Latin : (])	12	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130606	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42483	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124392	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3559	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	16014	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	15185	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	129365	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	422893	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	122088	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	218945	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	660985	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	308482	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	218767	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	12347	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	81378	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	74094	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	25292	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	71933	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	83293	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	39144	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31097	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31150	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	62461	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	147087	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	47187	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	88555	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	48736	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	6869	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	47094	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17221	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20058	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10296	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	27310	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10757	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7472	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7876	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9306	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	13604	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	5091	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	10113	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	3730	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	13799	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	3426	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	662	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	1409	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4851	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (()	454	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : ())	454	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1263	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4975	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	3	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (G)	3547	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (E)	16015	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (N)	15754	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : ( )	722866	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (1)	30596	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (:)	32507	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (M)	15184	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (f)	51743	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (i)	129116	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (a)	422694	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (s)	121972	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (e)	218842	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (n)	308278	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (o)	218616	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (O)	12348	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (y)	81364	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (k)	74093	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (p)	25291	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	IPA Extensions : (ɔ)	108132	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (b)	71923	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (r)	83282	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (.)	39143	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (\n)	31100	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (2)	21849	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	IPA Extensions : (ɛ)	110146	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (d)	62442	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (m)	147080	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (,)	47340	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (u)	88550	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (t)	48727	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (H)	6858	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (h)	46965	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (w)	108122	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (3)	12366	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	General Punctuation : (“)	7991	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Latin Extended-B : (Ɛ)	2320	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	General Punctuation : (”)	6092	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (4)	9250	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (5)	7161	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (A)	27301	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (6)	6542	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (7)	5999	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (8)	5807	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (;)	4513	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (9)	5648	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (0)	5763	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Spacing Modifier Letters : (ʼ)	8250	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Latin Extended-B : (Ɔ)	3646	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (D)	4393	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (g)	13391	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (B)	5041	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (W)	4968	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (P)	5086	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (l)	10044	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (K)	5445	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (T)	3728	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (S)	13735	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	General Punctuation : (‘)	1611	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (?)	3082	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	General Punctuation : (’)	1242	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	General Punctuation : ( )	827	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (Y)	8605	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (!)	1930	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (I)	6316	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (L)	3421	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (-)	661	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (F)	1100	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (R)	4852	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (U)	3678	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Latin-1 Supplement: (õ)	33	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (()	440	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : ())	440	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	General Punctuation : (—)	24	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (V)	1264	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Latin-1 Supplement: (ã)	3	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	General Punctuation : (–)	1	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (J)	4976	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (C)	4320	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (Z)	1818	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Latin-1 Supplement: ( )	6	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (v)	4	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : ([)	12	NOTICE
+Twi---Akuapem-Twi-Bible	UNICODE	Source	Basic Latin : (])	12	NOTICE
+
+# VERSIFICATION
+Twi---Akuapem-Twi-Bible	VERSIFICATION	Aionian	missing	004-NUM-005-020	WARN
+Twi---Akuapem-Twi-Bible	VERSIFICATION	Aionian	missing	004-NUM-005-021	WARN
+Twi---Akuapem-Twi-Bible	VERSIFICATION	Aionian	missing	004-NUM-005-022	WARN
+Twi---Akuapem-Twi-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-023	WARN
+Twi---Akuapem-Twi-Bible	VERSIFICATION	Summary	missing	4	WARN
+Twi---Akuapem-Twi-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	()	440 / 440	NOTICE
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	[]	12 / 12	NOTICE
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	()	454 / 454	NOTICE
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	JOS 12:7 Saa ahemfo a wɔn din didi so yi na Yosua ne Israel nsraadɔm dii wɔn so wɔ Yordan atɔe fam fi Baal-Gad wɔ Lebanon bon mu de kosi Halak bepɔw a ekosi Seir no. (Na Yosua de asase no maa Israel mmusuakuw no sɛ wɔn agyapade,	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	JOS 12:8 a ɛne, bepɔw so man, atɔe fam nkoko, Yordan Bon, mmepɔw mmepɔw nsian, Yudean sare so ne Negeb. Nnipa a na wɔte saa beae hɔ no yɛ Hetifo, Amorifo, Kanaanfo, Perisifo, Hewifo ne Yebusifo.) Eyinom ne ahemfo a Israel dii wɔn so nkonim:	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 Na Israelfo kɔɔ Awurade anim kɔpɛɛ akwankyerɛ. (Saa bere no na Onyankopɔn apam adaka no wɔ Bet-El,	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 na Eleasar babarima Pinehas a ɔyɛ Aaron nena no na na ɔyɛ ɔsɔfo). Israelfo no bisaa Awurade se, “Ɛsɛ sɛ yɛko tia yɛn ara yɛn abusuafo Benyamin bio anaasɛ yennyae?” Awurade buae se, “Monkɔ! Ɔkyena mɛma moadi wɔn so nkonim.”	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	1KI 21:25 (Obiara nni hɔ a ɔtɔn ne ho maa bɔne wɔ Awurade ani so, sɛnea Ahab yɛe no, efisɛ ne yere Isebel tuu no fo bɔne.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	1KI 21:26 Ɔyɛɛ bɔne ara, kosii sɛ ɔkɔɔ ahoni so, te sɛ Amorifo a Awurade pam wɔn wɔ Israelfo anim no).	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	1CH 26:31 Bio, Hebron abusua mu na Yeria fi. Sɛnea awo ntoatoaso nkrataa kyerɛ no, ɔno na na ɔyɛ Hebronfo no ntuanoni. (Dawid dii hene no, ne mfe aduanan so, wɔhwehwɛɛ nkrataa mu na wohuu mmarima a wɔbɔ wɔn ho mmɔden wɔ Hebron abusua no mu din wɔ kurow Yaser a ɛwɔ Gilead mu.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	1CH 26:32 Na mmarima a wɔbɔ wɔn ho mmɔden mpem abien ne ahanson na na wɔwɔ Yeria abusua mu. Ɔhene Dawid ma wɔkɔɔ Asubɔnten Yordan apuei fam, maa wɔkɔhwɛɛ Ruben ne Gad mmusuakuw ne Manase abusuakuw fa no so. Nsɛm a ɛfa Onyankopɔn ho, ne ɔhene som ho nyinaa yɛ wɔn asɛde.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	JOB 31:35 (“Ao, sɛ anka mewɔ obi a obetie me. Mede me din ahyɛ mʼanoyi ase, ma Otumfo no mmua me; ma nea ɔbɔ me kwaadu no nkyerɛw ne sobobɔ.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	JOB 31:37 Mebu mʼanammɔntu biara ho akontaa akyerɛ no; mɛkɔ nʼanim sɛ ɔheneba.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	PRO 7:11 (Ɔyɛ hyirenn na hwee mfa ne ho, ɔntena fie koraa;	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	PRO 7:12 nnɛ wohu no mmɔnten so, ɔkyena na ɔte aguabɔbea, ɔtetɛw wɔ mmantwea mmantwea.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	JER 26:20 (Semaia babarima Uria a, ofi Kiriat-Yearim no nso yɛ ɔbarima foforo a ɔhyɛɛ nkɔm wɔ Awurade din mu; ɔhyɛɛ nkɔm koro yi ara tiaa saa kuropɔn yi ne saa asase yi, sɛnea Yeremia yɛe no.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	JER 26:23 Wɔde Uria fii Misraim bae, na wɔde no kɔmaa ɔhene Yehoiakim. Ɔma wɔde afoa kum no na wɔtow ne funu kyenee kwasafo asiei.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	DAN 10:21 nanso, medi kan aka nea wɔakyerɛw wɔ Nokware Nhoma no mu no akyerɛ wo. (Obiara nni mʼafa a ɔko tia wɔn, gye sɛ Mikael a ɔyɛ wo hene babarima no.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	DAN 11:1 Na Mediani Dario ahenni afe a edi kan no, misii gyinae sɛ megyina nʼakyi na mabɔ ne ho ban.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(1/0)	ACT 1:18 (Sika a Yuda nya fii ade bɔne a ɔyɛe no mu no, wɔde tɔɔ asase wɔ faako a owui hɔ. Ɔtew bɛhwee fam ma ne mu pae maa ne nsono tu guu so.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 Nnipa a na wɔte Yerusalem nyinaa tee saa asɛm no, wɔtoo asase no din wɔ wɔn ankasa kasa mu se Hekeldama a nkyerɛase ne, Mogya Asase.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	006 JOS 012 007 Saa ahemfo a wɔn din didi so yi na Yosua ne Israel nsraadɔm dii wɔn so wɔ Yordan atɔe fam fi Baal-Gad wɔ Lebanon bon mu de kosi Halak bepɔw a ekosi Seir no. (Na Yosua de asase no maa Israel mmusuakuw no sɛ wɔn agyapade,	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	006 JOS 012 008 a ɛne, bepɔw so man, atɔe fam nkoko, Yordan Bon, mmepɔw mmepɔw nsian, Yudean sare so ne Negeb. Nnipa a na wɔte saa beae hɔ no yɛ Hetifo, Amorifo, Kanaanfo, Perisifo, Hewifo ne Yebusifo.) Eyinom ne ahemfo a Israel dii wɔn so nkonim:	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Na Israelfo kɔɔ Awurade anim kɔpɛɛ akwankyerɛ. (Saa bere no na Onyankopɔn apam adaka no wɔ Bet-El,	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 na Eleasar babarima Pinehas a ɔyɛ Aaron nena no na na ɔyɛ ɔsɔfo). Israelfo no bisaa Awurade se, “Ɛsɛ sɛ yɛko tia yɛn ara yɛn abusuafo Benyamin bio anaasɛ yennyae?” Awurade buae se, “Monkɔ! Ɔkyena mɛma moadi wɔn so nkonim.”	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Obiara nni hɔ a ɔtɔn ne ho maa bɔne wɔ Awurade ani so, sɛnea Ahab yɛe no, efisɛ ne yere Isebel tuu no fo bɔne.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 Ɔyɛɛ bɔne ara, kosii sɛ ɔkɔɔ ahoni so, te sɛ Amorifo a Awurade pam wɔn wɔ Israelfo anim no).	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 026 031 Bio, Hebron abusua mu na Yeria fi. Sɛnea awo ntoatoaso nkrataa kyerɛ no, ɔno na na ɔyɛ Hebronfo no ntuanoni. (Dawid dii hene no, ne mfe aduanan so, wɔhwehwɛɛ nkrataa mu na wohuu mmarima a wɔbɔ wɔn ho mmɔden wɔ Hebron abusua no mu din wɔ kurow Yaser a ɛwɔ Gilead mu.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 026 032 Na mmarima a wɔbɔ wɔn ho mmɔden mpem abien ne ahanson na na wɔwɔ Yeria abusua mu. Ɔhene Dawid ma wɔkɔɔ Asubɔnten Yordan apuei fam, maa wɔkɔhwɛɛ Ruben ne Gad mmusuakuw ne Manase abusuakuw fa no so. Nsɛm a ɛfa Onyankopɔn ho, ne ɔhene som ho nyinaa yɛ wɔn asɛde.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	018 JOB 031 035 (“Ao, sɛ anka mewɔ obi a obetie me. Mede me din ahyɛ mʼanoyi ase, ma Otumfo no mmua me; ma nea ɔbɔ me kwaadu no nkyerɛw ne sobobɔ.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	018 JOB 031 037 Mebu mʼanammɔntu biara ho akontaa akyerɛ no; mɛkɔ nʼanim sɛ ɔheneba.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (Ɔyɛ hyirenn na hwee mfa ne ho, ɔntena fie koraa;	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 nnɛ wohu no mmɔnten so, ɔkyena na ɔte aguabɔbea, ɔtetɛw wɔ mmantwea mmantwea.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 026 020 (Semaia babarima Uria a, ofi Kiriat-Yearim no nso yɛ ɔbarima foforo a ɔhyɛɛ nkɔm wɔ Awurade din mu; ɔhyɛɛ nkɔm koro yi ara tiaa saa kuropɔn yi ne saa asase yi, sɛnea Yeremia yɛe no.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 026 023 Wɔde Uria fii Misraim bae, na wɔde no kɔmaa ɔhene Yehoiakim. Ɔma wɔde afoa kum no na wɔtow ne funu kyenee kwasafo asiei.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	027 DAN 010 021 nanso, medi kan aka nea wɔakyerɛw wɔ Nokware Nhoma no mu no akyerɛ wo. (Obiara nni mʼafa a ɔko tia wɔn, gye sɛ Mikael a ɔyɛ wo hene babarima no.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	027 DAN 011 001 Na Mediani Dario ahenni afe a edi kan no, misii gyinae sɛ megyina nʼakyi na mabɔ ne ho ban.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Sika a Yuda nya fii ade bɔne a ɔyɛe no mu no, wɔde tɔɔ asase wɔ faako a owui hɔ. Ɔtew bɛhwee fam ma ne mu pae maa ne nsono tu guu so.	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Nnipa a na wɔte Yerusalem nyinaa tee saa asɛm no, wɔtoo asase no din wɔ wɔn ankasa kasa mu se Hekeldama a nkyerɛase ne, Mogya Asase.)	WARN
+Twi---Akuapem-Twi-Bible	ENCLOSURES	Summary	lines	18 / 18	NOTICE
+
+# UNEXPECTED
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Twi---Akuapem-Twi-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	GEN 37:28 Bere a Midian aguadifo no beduu hɔ no, Yosef nuanom no yii no fii amoa no mu, tɔn no maa Ismaelfo no gyee dwetɛ gram ahannu aduonu awotwe (228) ma wɔde no kɔɔ Misraim.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EXO 21:32 Na sɛ nantwi no si akoa anaa afenaa a, wɔbɛma akoa anaa afenaa no wura dwetɛ gram ahaasa ne aduanan (342) abien, na wɔasiw nantwi no abo.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EXO 38:25 Dwetɛ a asafo no mu nnipa no de bae yɛ kilogram mpem abiɛsa ne ahannan (3,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EXO 38:29 Kɔbere mfrafrae a wɔde bae no nso, na ɛyɛ kilogram mpem abien ne ahannan (2,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	LEV 27:3 obetua dwetɛ gram ahannum ne aduoson (570) ama ɔbarima a wadi mfe aduonu kosi mfe aduosia,	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	LEV 27:4 sɛ ɔyɛ ɔbea a wadi mfe aduonu kosi aduosia a, wobetua dwetɛ gram ahaasa ne aduanan (340),	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	LEV 27:5 abarimaa a wadi mfe anum kosi aduonu no nso wobetua dwetɛ gram ahannu ne aduasa (230). Sɛ ɔyɛ ɔbea a, wobetua dwetɛ gram ɔha ne dunum (115).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	LEV 27:6 Abarimaa a wadi ɔsram kosi mfe anum no wobetua dwetɛ gram 60; na ɔbabea nso wɔatua dwetɛ gram 35.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	LEV 27:7 Ɔbarima a wadi boro mfe aduosia no wobetua dwetɛ gram ɔha aduoson (170); na ɔbea nso wɔatua dwetɛ gram ɔha ne dunum (115).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	LEV 27:16 “ ‘Sɛ ɔbarima bi pɛ sɛ ɔde nʼabusua asase fa bi bɔ afɔre ma Awurade a, wobegyina aba kɛntɛnma dodow a ebehia sɛ wobedua wɔ so no so atwa asase no bo; aba kɛntɛnma biara bo yɛ dwetɛ gram ahannum ne aduoson (570).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:21 Nnipa dodow a wofi Ruben abusuakuw no mu no yɛ mpem aduanan asia ne ahannum (46,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:23 Nnipa dodow a wofi Simeon abusuakuw no mu no yɛ mpem aduonum akron ne ahaasa (59,300).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:25 Nnipa dodow a wofi Gad abusuakuw no mu no yɛ mpem aduanan anum ahansia ne aduonum (45,650).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:27 Nnipa dodow a wofi Yuda abusuakuw no mu no yɛ mpem aduɔson anan ne ahansia (74,600).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:29 Nnipa dodow a wofi Isakar abusuakuw no mu no yɛ mpem aduonum anan ne ahannan (54,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:31 Nnipa dodow a wofi Sebulon abusuakuw no mu no yɛ mpem aduonum ason ne ahannan (57,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:33 Nnipa dodow a wofi Efraim abusuakuw no mu no yɛ mpem aduanan ne ahannum (40,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:35 Nnipa dodow a wofi Manase abusuakuw no mu no yɛ mpem aduasa abien ne ahannu (32,200).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:37 Nnipa dodow a wofi Benyamin abusuakuw no mu no yɛ mpem aduasa anum ne ahannan (35,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:39 Nnipa dodow a wofi Dan abusuakuw no mu no yɛ mpem aduosia abien ne ahanson (62,700).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:41 Nnipa dodow a wofi Aser abusuakuw no mu no yɛ mpem aduanan baako ne ahannum (41,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:43 Nnipa dodow a wofi Naftali abusuakuw no mu no yɛ mpem aduonum abiɛsa ne ahannan (53,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 1:46 Na wɔn nyinaa dodow yɛ mpem ahansia ne abiɛsa ne ahannum aduonum (603,550).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:4 Na ne dɔm no ano si mpem aduɔson anan ne ahansia (74,600).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:6 Na ne dɔm no ano si mpem aduonum anan ne ahannan (54,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:8 Na ne dɔm no ano si mpem aduonum ason ne ahannan (57,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:9 Enti na nnipa dodow a wɔwɔ Yuda atenae no nyinaa sɛnea wɔn nkyekyɛmu te no ano si mpem ɔha aduɔwɔtwe asia ne ahannan (186,400). Sɛ Israelfo no tu a, saa mmusuakuw abiɛsa yi na edi kan.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:11 Ne dɔm ano si mpem aduanan asia ne ahannum (46,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:13 Ne dɔm ano si mpem aduonum akron ne ahaasa (59,300).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:15 Na ne dɔm ano si mpem aduanan anum ahansia ne aduonum (45,650).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:16 Na mmarima a wɔwɔ Ruben atenae ne sɛnea wɔn nkyekyɛmu te no ano si mpem ɔha aduonum baako ahannan ne aduonum (151,450). Na sɛ Israelfo tu a, wɔn na wɔto so abien.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:19 Ne dɔm ano si mpem aduanan ne ahannum (40,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:21 Ne dɔm ano si mpem aduasa abien ne ahannu (32,200).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:23 Ne dɔm ano si mpem aduasa anum ne ahannan (35,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:24 Na mmarima a wɔwɔ Efraim atenae ne sɛnea wɔn nkyekyɛmu te no ano si mpem ɔha ne awotwe ne ɔha baako (108,100). Na sɛ Israelfo tu a, wɔn na wɔto so abiɛsa.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:26 Ne dɔm ano si mpem aduosia abien ne ahanson (62,700).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:28 Ne dɔm ano si mpem aduanan baako ne ahannum (41,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:30 Ne dɔm ano si mpem aduonum abiɛsa ne ahannan (53,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:31 Mmarima a wɔwɔ Dan atenae no ano si mpem ɔha aduonum ason ne ahansia (157,600).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 2:32 Sɛɛ na Israelfo a wɔkan wɔn mmusuakuw mmusuakuw no te. Wɔn a wɔwɔ atenae hɔ nyinaa, sɛnea wɔn nkyekyɛmu te no ano si mpem ahansia ne abiɛsa ahannum ne aduonum (603,550).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 3:22 Na Gersonfo mmarima a wɔadi ɔsram ne nea ɛboro saa a wofi Gerson mmusua mu no dodow yɛ mpem ahanson ne ahannum (7,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 3:28 Na Kehat mmusua no mu mmarima a wɔadi ɔsram ne nea ɛboro saa no dodow yɛ mpem awotwe ne ahansia (8,600). Wɔn na na wɔhwɛ kronkronbea no so.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 3:34 Merarifo mmusua no mu na mmarima a wɔadi ɔsram ne nea ɛboro saa no dodow yɛ mpem asia ne ahannu (6,200).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 3:39 Lewifo a Awurade hyɛɛ Mose ne Aaron sɛ wɔnkan wɔn sɛnea wɔn mmusua te a ɔbarima biara a wɔadi ɔsram ne nea ɛboro saa ka ho no dodow yɛ mpem aduonu abien (22,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	NUM 3:43 Mmakan mmarima a wɔadi ɔsram ne nea ɛboro saa no a ɔkyerɛw wɔn din no ano si mpem aduonu abien ahannu ne aduɔson abiɛsa (22,273).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:14 sikakɔkɔɔ adaka baako a ɛkari gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:20 Sikakɔkɔɔ nnwetɛbona baako a ɛkari gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:26 sikakɔkɔɔ akorade a emu duru yɛ gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:32 Sikakɔkɔɔ akorade a emu duru yɛ gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:38 sikakɔkɔɔ akorade a emu duru yɛ gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:44 sikakɔkɔɔ akorade bi a ɛkari gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:50 sikakɔkɔɔ akorade a ɛkari gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:62 sikakɔkɔɔ akorade a ɛkari gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:68 sikakɔkɔɔ akorade a ɛkari gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:74 sikakɔkɔɔ akorade a ɛkari gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NUM 7:80 sikakɔkɔɔ akorade a ɛkari gram ɔha ne dunan (114) a wɔde aduhuam ahyɛ no ma;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 25:9 nanso saa bere no, na nnipa mpem aduonu anan (24,000) awuwu dedaw.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:7 Mmarima a na wɔwɔ Ruben mmusua nyinaa mu no dodow yɛ mpem aduanan abiɛsa ahanson aduasa (43,730).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:14 Mmarima a na wɔwɔ Simeon mmusua mu nyinaa dodow yɛ mpem aduonu abien ne ahannu (22,200).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:18 Mmarima a na wɔwɔ Gad mmusua mu no dodow yɛ mpem aduanan ne ahannum (40,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:22 Mmarima a na wɔwɔ Yuda mmusua mu no nyinaa dodow yɛ mpem aduɔson asia ne ahannum (76,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:25 Mmarima a na wɔwɔ Isakar mmusua no mu no nyinaa dodow yɛ mpem aduosia anan ne ahaasa (64,300).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:27 Mmarima a na wɔwɔ Sebulon mmusua no mu no nyinaa dodow yɛ mpem aduosia ne ahannum (60,500).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:34 Mmarima a na wɔwɔ Manase mmusua no nyinaa mu dodow yɛ mpem aduonum abien ne ahanson (52,700).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:37 Eyinom Efraim mmusua; wɔn dodow yɛ mpem aduasa abien ne ahannum (32,500). Eyinom ne mmusua a wɔyɛ Yosef asefo.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:41 Na mmarima a na wɔwɔ Benyamin mmusua no mu nyinaa dodow yɛ mpem aduanan anum ne ahansia (45,600).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:43 Mmarima a na wɔwɔ saa mu no nyinaa dodow yɛ mpem aduosia anan ne ahannan (64,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:47 Mmarima a na wɔyɛ Aser asefo no nyinaa dodow yɛ mpem aduonum abiɛsa ne ahannan (53,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:50 Mmarima a na wɔwɔ Naftali mmusua nyinaa mu no dodow yɛ mpem aduanan anum ne ahannan (45,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:51 Nnipa dodow a wɔkan wɔn no ano si mpem ahansia ne baako ahanson aduasa (601,730).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 26:62 Nnipakan no mu no, na Lewifo nyinaa dodow yɛ mpem aduonu abiɛsa (23,000). Wɔkan mmarima a wɔadi fi ɔsram kosi mpanyimfo so. Nanso, wɔammu Lewifo no ano anka Israel nnipakan no ho, efisɛ wɔrekyɛ nsase no ama mmusuakuw no, wɔamma Lewifo no bi.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:32 Asade a ɛkae a akofo no fae no dodow yɛ nguan mpem ahansia ne aduɔson anum (675,000);	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:33 anantwi mpem aduɔson abien (72,000);	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:34 mfurum mpem aduosia baako (61,000);	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:35 ne mmeawa mpem aduasa abien (32,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:36 Nneɛma no fa a wɔde maa asraafo no dodow ni: Nguan mpem ahaasa aduasa ason ne ahannum (337,500)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	NUM 31:37 a wɔde mu ahansia aduɔson anum (675) som Awurade;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NUM 31:38 Anantwi mpem aduasa asia (36,000) a wɔde mu aduɔson abien (72) som Awurade;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	1	NUM 31:39 mfurum mpem aduasa ne ahannum (30,500) a wɔde emu aduosia baako (61) som Awurade;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NUM 31:40 mmeawa mpem dunsia (16,000); wɔde wɔn mu aduasa abien (32) som Awurade.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:43 nguan mpem ahaasa aduasa ason ne ahannum (337,500),	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:44 anantwi mpem aduasa asia (36,000),	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:45 mfurum Mpem aduasa ne ahannum (30,500) ne	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NUM 31:46 mmeawa mpem dunsia (16,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	JOS 7:21 Mihuu atade nguguso fɛfɛ bi a wɔkra fii Babilonia, dwetɛ kilogram abien ne fa ne sikakɔkɔɔ pema baako a ano si gram ahannum ne aduoson (570). Mʼani beree, enti mefae. Mede asie fam wɔ me ntamadan mu, na dwetɛ no de, ɛhyɛ fam kyɛn nkae no.”	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	2SA 18:11 Yoab bisae se, “Asɛm pa ara? Wuhuu no na woankum no? Anka mɛma wo dwetɛ gram ɔha ne dunan (114) ne akokoduru nkyekyeremu sɛ siade.”	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	2SA 24:24 Na ɔhene no buaa Arauna se, “Dabi da, mepɛ sɛ mɛtɔ, na merentumi mmɔ ɔhyew afɔre mma Awurade, me Nyankopɔn, a mammɔ ho ka biara.” Enti Dawid tuaa dwetɛ bɛyɛ gram ahannum aduoson anum (575) de tɔɔ awiporowbea ne nantwi no.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1KI 5:11 na Salomo maa Huram fifo atoko tɔn 3,600 ne ngo kronkron galɔn 120,000.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	6	1KI 9:28 Wɔyɛɛ adwuma kɔɔ Ofir, na wɔsan de sikakɔkɔɔ nsania ani nkaribo tɔn 16 brɛɛ Salomo.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2KI 5:5 Ɔhene no ka kyerɛɛ no se, “Kɔ, na kɔsra odiyifo no. Mɛkyerɛw krataa aka wo ho, na wode akɔma Israelhene.” Enti Naaman faa dwetɛ akyɛde kilogram ahaasa aduanan (340), sikakɔkɔɔ kilogram aduosia nkron ne ntade mmɔho du, na osii mu kɔe.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2KI 15:20 Menahem nam apoobɔ so gyigyee Israel asikafo no mu biara nkyɛn dwetɛ a ɛkari gram ahannum aduoson (570) de maa Asiriahene. Ɛno nti, Asiriahene ankɔtow anhyɛ Israel so, na wantena asase no so nso.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 7:2 Tola mmabarima no ne: Usi, Refaia, Yeriel, Yahmai, Yibsam ne Samuel. Na wɔn mu biara yɛ wɔn agyanom mmusua ntuanofo. Ɔhene Dawid bere so no, na mmarima dodow a wɔwɔ saa mmusua yi mu a wɔyɛ asraafo no dodow yɛ mpem aduonu abien ne ahansia (22,600).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 7:5 Mmarima a na wɔwɔ hɔ a wofi Isakar mmusua no nyinaa mu a wɔyɛ asraafo no dodow yɛ mpem aduɔwɔtwe ason (87,000). Wɔkyerɛw wɔn nyinaa din nnidiso nnidiso guu wɔn anato krataa mu.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	1CH 7:7 Na Bela mmabarima yɛ: Esbon, Usi, Usiel, Yerimot ne Iri. Na saa akofo baanum yi yɛ mmusua ntuanofo. Nnipa a wofi wɔn asefo mu yɛɛ asraafo no dodow yɛ mpem aduonu abien ne aduasa anan (22,034). Wɔkyerɛw wɔn nyinaa din guu wɔn anato krataa mu.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 7:9 Sɛnea na wɔn anato kyerɛ no, na wɔn abusua ntuanofo akyi no, wɔn asefo mpem aduonu ne ahannu (20,200) wɔ hɔ a wotumi yɛ asraafo.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 7:11 Na wɔyɛ Yediael mmusua no mu ntuanofo a wɔn asefo a na wɔka wɔn ho a wotumi yɛ asraafo no dodow yɛ mpem dunson ne ahannu (17,200).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 7:40 Na Aser asefo no mu biara yɛ wɔn agyanom abusua panyin. Na wɔn nyinaa yɛ akofo pa ne ntuanofo a wodi mu. Na mmarima mpem aduonu asia (26,000) na wɔwɔ hɔ a wɔakyerɛw wɔn din agu wɔn anato nhoma mu a wotumi yɛ asraafo.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 9:6 Serah abusua mu no: Yeuel ne nʼabusuafo na wɔsan bae. Yuda abusuakuw no mu mmusua ahansia aduɔkron (960) na wɔsan bae.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 9:22 Ne nyinaa mu, saa bere no, na apon ano ahwɛfo no dodow yɛ ahannu ne dumien (212) a na wɔakyerɛw wɔn din wɔ wɔn anato nkrataa mu wɔ wɔn nkuraa. Dawid ne Samuel a na ɔyɛ ɔdehufo no ama wɔn dibea a ɛsom bo.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 12:29 Akofo akɛse a wofi Benyamin abusuakuw mu a wɔyɛ Saulo abusuafo no, na wɔn dodow yɛ mpem abiɛsa (3,000). Na Benyaminfo no mu fa kɛse no taa Saulo akyi ara.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 12:30 Akofo akɛse a wofi Efraim abusuakuw mu no, na wɔn dodow yɛ mpem aduonu ne ahanwɔtwe (20,800) a wɔn mu biara agye din wɔ nʼabusua mu.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 12:31 Manase abusuakuw fa a na ɛwɔ Yordan atɔe fam no nso, wotuu mmarima mpem dunwɔtwe (18,000) a wɔn botae ara ne sɛ wɔbɛboaa Dawid ma wadi hene.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 12:33 Akofo a wɔakwadaw akodi mu a wofi Sebulon abusuakuw mu no, na wɔn dodow yɛ mpem aduonum (50,000). Na wɔakɔ amia mu ayɛ krado ama akodi, na na wɔtaa Dawid akyi pintinn.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 12:34 Wɔn a wofi Naftali abusuakuw mu no yɛ asraafo mpanyimfo apem (1,000) ne akofo akɛse mpem aduasa ason (37,000) a wokurakura nkatabo ne mpeaw.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 12:35 Akofo a wofi Dan abusuakuw mu no, na wɔn dodow yɛ mpem aduonu awotwe ne ahansia (28,600) a wɔasiesie wɔn ho ama ɔko.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 12:36 Akofo akɛse a wɔatetew wɔn yiye a wofi Aser abusuakuw mu no, na wɔn dodow yɛ mpem aduanan (40,000) a wɔn nyinaa ayɛ krado ama ɔko.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 12:37 Ruben, Gad mmusuakuw ne Manase abusuakuw fa a na wɔtete Asubɔnten Yordan apuei fam no maa asraafo mpem ɔha ne aduonu (120,000) a wɔwɔ akode ahorow nyinaa.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 15:6 Wɔn a wofi Merari abusua mu no, na wɔn dodow yɛ ahannu aduonu (220), a Asaia da wɔn ano.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 15:7 Wɔn a wofi Gersom abusua mu no, na wɔn dodow yɛ ɔha aduasa (130), a Yoel da wɔn ano.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 15:8 Na Elisafan asefo yɛ ahannu (200) a Semaia da wɔn ano.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 15:9 Na Hebron asefo yɛ aduɔwɔtwe (80) a Eliel tua wɔn ano.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 15:10 Na Usiel asefo yɛ ɔha ne dumien (112) a Aminadab tua wɔn ano.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 22:14 “Mayɛ adwumaden apɛ Awurade Asɔredan no si ho nneɛma, sikakɔkɔɔ bɛyɛ tɔn mpem anan (4,000), dwetɛ bɛyɛ tɔn mpem aduanan (40,000) ne nnade ne kɔbere mfrafrae pii a wontumi nkari mpo. Maboaboa nnua ne abo a wɔde bɛyɛ afasu no, nanso ebia ɛsɛ sɛ wopɛ bi ka ho.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:9 Ntonto a edi kan no bɔɔ Yosef a ofi Asaf abusua mu, ne ne mmabarima ne nʼabusuafo (12) Ntonto a ɛto so abien no bɔɔ Gedalia, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:10 Ntonto a ɛto so abiɛsa no bɔɔ Sakur, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:11 Ntonto a ɛto so anan no bɔɔ Yisri, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:12 Ntonto a ɛto so anum no bɔɔ Netania, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:13 Ntonto a ɛto so asia no bɔɔ Bukia, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:14 Ntonto a ɛto so ason no bɔɔ Yesarela, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:15 Ntonto a ɛto so awotwe no bɔɔ Yesaia, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:16 Ntonto a ɛto so akron no bɔɔ Matania, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:17 Ntonto a ɛto so du no bɔɔ Simei, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:18 Ntonto a ɛto so dubaako no bɔɔ Asarel, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:19 Ntonto a ɛto so dumien no bɔɔ Hasabia, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:20 Ntonto a ɛto so dumiɛnsa no bɔɔ Subael, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:21 Ntonto a ɛto so dunan no bɔɔ Matitia, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:22 Ntonto a ɛto so dunum no bɔɔ Yeremot, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:23 Ntonto a ɛto so dunsia no bɔɔ Hanania, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:24 Ntonto a ɛto so dunson no bɔɔ Yosbekasa, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:25 Ntonto a ɛto so dunwɔtwe no bɔɔ Hanani, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:26 Ntonto a ɛto so dunkron no bɔɔ Maloti, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:27 Ntonto a ɛto so aduonu no bɔɔ Eliata, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:28 Ntonto a ɛto so aduonu baako no bɔɔ Hotir, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:29 Ntonto a ɛto so aduonu abien no bɔɔ Gidalti, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:30 Ntonto a ɛto so aduonu abiɛsa no bɔɔ Mahasiot, ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 25:31 Ntonto a ɛto so aduonu anan no bɔɔ Romamti-Eser ne ne mmabarima ne nʼabusuafo (12)	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	1CH 26:8 Obed-Edom asefo yi nyinaa a wɔn mmabarima ne wɔn nenanom a na wɔn nyinaa dodow yɛ aduosia abien (62) no yɛ nnipa a na wɔbɔ wɔn ho mmɔden yiye na wɔn nnwuma fata wɔn.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	1CH 26:9 Saa ara nso na na Meselemia mmabarima dunwɔtwe (18) no ne wɔn abusuafo nso bɔ wɔn ho mmɔden yiye.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	1CH 26:11 Na ne mmabarima no bi ne: Hilkia a na ɔto so abien. Tebalia na ɔto so abiɛsa na Sakaria to so anan. Na Hosa mmabarima ne nʼabusuafo a wɔsom sɛ apon ano ahwɛfo no nyinaa dodow yɛ dumiɛnsa (13).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:1 Israelfo akuw ahorow no ni—mmusua mpanyimfo, asahene ne asraafo mpanyimfo a na wɔhwɛ asraafo akuw ahorow so de som ɔhene, a kuw biara kɔ adwuma ɔsram baako wɔ afe mu. Na dɔm a wɔwɔ kuw biara mu nso dodow yɛ mpem aduonu anan (24,000). Wɔn din na edidi so yi.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:2 Sabdiel babarima Yasobeam na na ɔyɛ kuw a edi kan no sahene, a na wɔkɔ adwuma ɔsram a edi kan wɔ afe no mu. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:4 Dodai a na ɔyɛ Ahoa aseni na na ɔyɛ kuw a ɛto so abien a na wɔkɔ adwuma ɔsram a ɛto so abien mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000), a na Miklot yɛ nʼabediakyiri.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:5 Ɔsɔfo Yehoiada babarima Benaia na na ɔyɛ kuw a ɛto so abiɛsa a na wɔkɔ adwuma ɔsram a ɛto so abiɛsa mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:7 Yoab nuabarima Asahel na na ɔyɛ kuw a ɛto so anan, a na wɔkɔ adwuma ɔsram a ɛto so anan mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000). Asahel babarima Sebadia na odii nʼade.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:8 Samhut a ɔyɛ Yisrahini na na ɔyɛ kuw a ɛto so anum, a na wɔkɔ adwuma ɔsram a ɛto so anum mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:9 Ikes babarima Ira a ofi Tekoa no na na ɔyɛ kuw a ɛto so asia, a na wɔkɔ adwuma ɔsram a ɛto so asia mu no sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:10 Heles a na ɔyɛ Efraim aseni a ofi Pelon no na na ɔyɛ kuw a ɛto so ason, a na wɔkɔ adwuma ɔsram a ɛto so ason mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:11 Sibekai a na ɔyɛ Sera aseni a ofi Husa no na na ɔyɛ kuw a ɛto so awotwe, a na wɔkɔ adwuma ɔsram a ɛto so awotwe mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:12 Abieser a na ofi Anatot a ɛda Benyamin asase so no na na ɔyɛ kuw a ɛto so akron, a na wɔkɔ adwuma ɔsram a ɛto so akron mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:13 Maharai a ɔyɛ Serah aseni a ofi Netofa no na na ɔyɛ kuw a ɛto so du, a na wɔkɔ adwuma ɔsram a ɛto so du mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:14 Benaia a ofi Piraton a ɛwɔ Efraim no na na ɔyɛ kuw a ɛto so dubaako, a na wɔkɔ adwuma ɔsram a ɛto so dubaako mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	1CH 27:15 Heldai a ɔyɛ Otniel a ofi Netofa aseni no na na ɔyɛ kuw a ɛto so dumien, a na wɔkɔ adwuma ɔsram a ɛto so dumien mu no so sahene. Na ne kuw no asraafodɔm dodow yɛ mpem aduonu anan (24,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2CH 2:17 Salomo kan ahɔho dodow a wɔwɔ Israel asase so, te sɛ nea nʼagya kenkan nnipa no. Onyaa nnipa mpem ɔha aduonum abiɛsa ne ahansia (153,600).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2CH 2:18 Ɔmaa wɔn mu mpem aduɔson (70,000) yɛɛ apaafo. Wɔn mu mpem aduɔwɔtwe (80,000) yɛɛ abotwafo wɔ wɔn mmepɔw nkurow no so, na wɔn mu mpem abiɛsa ne ahansia (3,600) yɛɛ wɔn a wodi nnwuma no anim.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	2CH 3:9 Sikakɔkɔɔ nnadewa a biara kari bɛyɛ gram ahannum ne aduoson anum (575) na wɔde dii ɔdan no ho dwuma. Sikakɔkɔɔ ankasa na wɔde guu soro adan no afasu ani.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	2CH 9:9 Afei, ɔmaa ɔhene no sikakɔkɔɔ akyɛde a ɛkari tɔn 4 ne nnuhuam pii ne aboɔden mpempranne. Seba hemmea nnuhuam a ɔde maa Salomo no so bi mmaa da.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2CH 17:14 Wogyinaa agyanom mmusuakuw so gyee asraafo. Yuda abusua mu, na asraafodɔm no dodow yɛ mpem ahaasa (300,000) a wɔakyekyɛ wɔn mu akuwakuw apem (1,000). Adna na na ɔyɛ wɔn so sahene.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2CH 17:15 Onipa a na odi ne so ne Yehohanan a na odi asraafodɔm mpem ahannu aduɔwɔtwe (280,000) so.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2CH 17:16 Nea odi hɔ ne Sikri babarima Amasia, a ɔde ne ho bɔɔ afɔre maa Awurade adwuma a na odi asraafodɔm mpem ahannu (200,000) so sahene.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2CH 17:17 Benyamin abusua asraafodɔm no, na wɔn dodow yɛ mpem ahannu (200,000) a wɔwɔ agyan ne nkatabo. Na wɔn sahene ne Eliada, ɔsraani a wadi ako akyɛ.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	2CH 17:18 Nea odi hɔ ne Yehosabad a otua asraafo mpem ɔha aduɔwɔtwe (180,000) a wɔada wɔn ho so ama akodi no ano.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	2CH 25:6 Ɔsan tuaa dwetɛ tɔn 3.4 sɛ apaade maa Israel mmarima mpem ɔha a wonim akodi yiye.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	2CH 27:5 Yotam tuu Amonfo so sa, dii wɔn so nkonim. Mfe abiɛsa a edi kan no de, ogyee wɔn sonkahiri a ɛyɛ dwetɛ tɔn 3.4, awi susukoraa mpem aduonum ne atoko susukoraa mpem aduonum.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	9	EZR 1:9 Eyinom ne nneɛma a Kores de bɛkyɛe: sikakɔkɔɔ nsiase 30 dwetɛ nsiase 1,000 dwetɛ ɔhyewsɛn 29	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 1:10 sikakɔkɔɔ hweaseammɔ 30 dwetɛ hweaseammɔ 410 nneɛma a ɛkeka ho 1,000	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 1:11 Ne nyinaa mu no, sikakɔkɔɔ ne dwetɛ nneɛma a wɔde maa Sesbasar sɛ ɔmfa nkɔ Yerusalem bere a wɔn a wotwaa wɔn asu fi Babilonia baa hɔ no dodow yɛ sikakɔkɔɔ ne dwetɛ mpem anum ne ahannan (5,400).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:3 Dodow a wɔyɛ Paros asefo 2,172	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:4 Sefatia asefo 372	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	EZR 2:5 Arah asefo 775	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:6 Pahat-Moab asefo (Yesua ne Yoab asefo) 2,812	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	EZR 2:7 Elam asefo 1,254	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	EZR 2:8 Satu asefo 945	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 2:9 Sakai asefo dodow yɛ 760	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:10 Bani asefo dodow yɛ 642	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	EZR 2:11 Bebai asefo dodow yɛ 623	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:12 Asgad asefo dodow yɛ 1,222	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	6	EZR 2:13 Adonikam asefo dodow yɛ 666	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	6	EZR 2:14 Bigwai asefo dodow yɛ 2,056	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	EZR 2:15 Adin asefo dodow yɛ 454	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	EZR 2:16 Ater asefo (Hesekia asefo) dodow yɛ 98	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	EZR 2:17 Besai asefo dodow yɛ 323	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:18 Yora asefo dodow yɛ 112	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	EZR 2:19 Hasum asefo dodow yɛ 223	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	EZR 2:20 Gibar asefo dodow yɛ 95	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	EZR 2:21 Betlehemfo dodow yɛ 123	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	6	EZR 2:22 Netofafo dodow yɛ 56	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	EZR 2:23 Anatotfo dodow yɛ 128	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:24 Asmawetfo dodow yɛ 42	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	EZR 2:25 Kiriat-Yearimfo, Kefirafo ne Beerotfo dodow yɛ 743	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	1	EZR 2:26 Ramafo ne Gebafo dodow yɛ 621	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:27 Mikmasfo dodow yɛ 122	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	EZR 2:28 Bet-Elfo ne Aifo dodow yɛ 223	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:29 Nebo ɔmanmma dodow yɛ 52	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	6	EZR 2:30 Magbis ɔman dodow yɛ 156	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	EZR 2:31 Elam ɔmanmma dodow yɛ 1,254	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 2:32 Harim ɔmanmma dodow yɛ 320	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	EZR 2:33 Lod, Hadid ne Ono manmma dodow yɛ 725	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	EZR 2:34 Yeriko ɔmanmma dodow yɛ 345	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 2:35 Senaa ɔmanmma dodow yɛ 3,630	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	EZR 2:36 Eyinom ne asɔfo dodow a wofi nnommum mu bae: Yedaia asefo (a wɔnam Yesua fi so) dodow yɛ 973	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:37 Imer asefo dodow yɛ 1,052	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	7	EZR 2:38 Pashur asefo dodow yɛ 1,247	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	7	EZR 2:39 Harim asefo dodow yɛ 1,017	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	EZR 2:40 Eyinom ne Lewifo a wofi nnommum mu bae: Yesua ne Kadmiel asefo (Hodawia asefo) dodow yɛ 74	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	EZR 2:41 Nnwontofo: Asaf asefo mu nnwontofo dodow yɛ 128	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	9	EZR 2:42 Aponanohwɛfo: Salum, Ater, Talmon asefo Akub, Hatita ne Sobai asefo 139	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:58 Na asɔredan mu asomfo ne Salomo asomfo asefo no dodow yɛ 362	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZR 2:60 Delaia, Tobia ne Nekoda mmusua a wɔn dodow yɛ 652	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 2:64 Enti nnipa a wɔsan baa Yuda no nyinaa dodow yɛ mpem aduanan abien, ahaasa ne aduosia (42,360),	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 2:65 a asomfo mpem ason ahaasa aduasa ason (7,337) nka ho, ne nnwontofo ahannu (200) a wɔyɛ mmarima ne mmea.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	EZR 2:66 Wɔde apɔnkɔ ahanson aduasa asia (736), mfurum ahannu aduanan anum (245),	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 2:67 yoma ahannan aduasa anum (435) ne mfurumpɔnkɔ mpem asia ne ahanson aduonu (6,720) kaa wɔn ho kɔe.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZR 2:69 Na ntuanoni biara maa nea obetumi. Akyɛde a wɔde mae no nyinaa ano sii sikakɔkɔɔ sika nnwetɛbona mpem aduosia baako (61,000), dwetɛ nkaribo pɔn mpem ahansia ahannu aduonum (600,250) na asɔfotade ɔha (100) a wɔde bɛma asɔfo.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NEH 5:15 Eyi ne nsonoe kɛse a ɛda yɛne amradofo a wodii kan no ntam, efisɛ wɔde asodi kɛse too ɔmanfo no so. Na daa wogye nnuan ne nsa ka dwetɛ a ɛkari gram ahannan ne aduosia (460) ho fi nnipa no hɔ. Mpo, wɔn aboafo faa ho didii ɔmanfo no ho. Nanso esiane suro a na misuro Onyankopɔn no nti, mamfa saa kwan no so.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:8 Abusuafo dodow ni: Paros asefo 2,172	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:9 Sefatia asefo 372	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:10 Arah asefo 652	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:11 Pahat-Moab (Yesua ne Yoab) asefo 2,818	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NEH 7:12 Elam asefo 1,254	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	NEH 7:13 Satu asefo 845	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NEH 7:14 Sakai asefo 760	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:15 Binui asefo 648	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:16 Bebai asefo 628	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:17 Asgad asefo 2,322	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	7	NEH 7:18 Adonikam asefo 667	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	7	NEH 7:19 Bigwai asefo 2,067	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	NEH 7:20 Adin asefo 655	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:21 Ater (Hesekia) asefo 98	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:22 Hasum asefo 328	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NEH 7:23 Besai asefo 324	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:24 Harif asefo 112	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	NEH 7:25 Gibeon asefo 95	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:26 Mmarima dodow a wofi Betlehem ne Netofa 188	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:27 Anatot 128	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:28 Bet-Asmawet 42	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	NEH 7:29 Kiriat-Yearim, Kefira ne Beerot 743	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	1	NEH 7:30 Rama ne Geba 621	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:31 Mikmas 122	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	NEH 7:32 Bet-El ne Ai 123	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:33 Nebo 52	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NEH 7:34 Elam 1,254	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NEH 7:35 Harim 320	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	NEH 7:36 Yeriko 345	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	1	NEH 7:37 Lod, Hadid ne Ono 721	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NEH 7:38 Senaa 3,930	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	NEH 7:39 Eyinom ne asɔfo dodow a wofi nnommum mu bae: Yedaia asefo (Yesua fifo mu no) 973	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:40 Imer asefo 1,052	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	7	NEH 7:41 Pashur asefo 1,247	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	7	NEH 7:42 Harim asefo 1,017	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NEH 7:43 Eyinom ne Lewifo a wofi nnommum mu bae: Yesua (Kadmiel ne Hodewa fifo) asefo 74	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:44 Nnwontofo: Asaf asefo 148	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 7:45 Asɔredan Aponanohwɛfo: Salum, Ater, Talmon asefo, Akub, Hatita ne Sobai asefo 138	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:60 Asɔredan mu asomfo ne Salomo asomfo asefo no nyinaa, na wɔn dodow yɛ 392	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 7:62 Delaia, Tobia ne Nekoda mmusua no ka saa kuw yi ho, na wɔn dodow yɛ 642	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NEH 7:66 Enti nnipa a wɔsan baa Yuda no nyinaa dodow yɛ mpem aduanan abien, ahaasa ne aduosia (42,360),	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	NEH 7:67 a ɛno akyi, asomfo mpem ason ahaasa aduasa ason (7,337) ne nnwontofo mmarima ne mmea ahannu aduanan anum (245) ka ho.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	NEH 7:68 Wɔde apɔnkɔ ahanson ne aduasa asia (736), funumpɔnkɔ ahannu ne aduanan anum (245).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NEH 7:69 Yoma ahannan ne aduasa anum (435) ne mfurum mpem asia ahanson ne aduonu (6,720) kaa wɔn ho.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NEH 7:70 Abusua no bi ntuanofo maa dwumadi no ho akyɛde. Amrado no too sikakorabea no mu sikakɔkɔɔ nnwetɛbona apem (1,000), sikakɔkɔɔ hweaseammɔ aduonum (50) ne asɔfotade ahannum ne aduasa (530).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	NEH 7:71 Ntuanofo no bi ka bɔɔ mu, too sikakorabea no mu sikakɔkɔɔ nnwetɛbona mpem aduonu (20,000), na ebinom nso maa dwetɛ nsania pɔn mpem abien ne ahanson aduonum de boaa adwuma no.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	7	NEH 7:72 Nnipa a wɔaka no nso maa sikakɔkɔɔ nnwetɛbona mpem aduonu ne dwetɛ bɛyɛ pɔn mpenu ne ahannum ne asɔfotade aduosia ason (67).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 11:6 Afei, na Peres asefo ahannan ne aduosia awotwe (468) a wodi mu no na na wɔte Yerusalem.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 11:8 na nʼakyi no na Gabai ne Salai, ne abusuafo ahankron aduonu awotwe (928) ba.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 11:12 ne wɔn mfɛfo ahanwɔtwe aduonu abien (822) a, na wɔyɛ adwuma wɔ Asɔredan no mu, ne Yeroham babarima Adaia, Pelalia babarima, Amsi babarima, Sakaria babarima, Pashur babarima, Malkia babarima	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 11:13 ne ne mfɛfo ahannu aduanan abien (242) a wɔyɛ wɔn mmusua ntuanofo. Wɔn a na wɔka ho nso ne Asarel babarima Amasai, Ahsai babarima, Mesilemot babarima, Imer babarima	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	8	NEH 11:14 ne ne mfɛfo atitiriw ɔha aduonu awotwe (128). Wɔn panyin pa ara a otua wɔn ano no ne Hagedolim babarima Sabdiel.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	NEH 11:18 Na Lewifo a wɔwɔ kuropɔn kronkron no mu no nyinaa dodow si ahannu aduɔwɔtwe anan (284).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	NEH 11:19 Aponanohwɛfo no ni: Akub, Talmon ne wɔn mfɛfo ɔha aduɔson abien a (172) na wɔwɛn wɔ apon no ano.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	4	JER 32:9 Enti metɔɔ asase a na ɛwɔ Anatot no fii me wɔfa ba Hanamel nkyɛn na mituaa dwetɛ gram ɔha ne aduɔkron anan (194) maa no.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	3	JER 52:28 Nnipa dodow a Nebukadnessar de wɔn kɔɔ nkoasom mu ni: nʼahenni afe a ɛto so ason mu, Yudafo 3,023;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	JER 52:29 Nebukadnessar ahenni afe a ɛto so dunwɔtwe mu, nnipa a wofi Yerusalem, 832;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	JER 52:30 nʼahenni afe a ɛto so aduonu abiɛsa mu, ɔsahene Nebusaradan, a otua ɔhene awɛmfo ano no de Yudafo 745 kɔɔ nnommum mu. Nnipa no nyinaa dodow yɛ 4,600.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 4:10 Kari aduan gram ahannu ne aduasa (230) aduonu a wubedi no da koro biara wɔ bere ano, bere ano.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 45:1 “ ‘Sɛ mokyekyɛ asase no mu sɛ agyapade a, ɛsɛ sɛ mode fa bi ma Awurade sɛ ɔmantam kronkron a ne tenten yɛ anammɔn mpem aduasa ason ne ahanum (37,500), na ne trɛw nso yɛ anammɔn mpem aduasa (30,000); saa beae no nyinaa bɛyɛ kronkron.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	EZE 45:2 Wobegyaw asase yi mu bi a ɛyɛ ahinanan a ne fa biara yɛ anammɔn ahanson ne aduonum (750) ama kronkronbea, na mfikyisase a atwa ho ahyia no trɛw yɛ anammɔn aduɔson anum (75).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 45:3 Munsusuw ɔmantam kronkron asase no mu bi a ne tenten yɛ anammɔn mpem aduasa ason ne ahannum (37,500) na ne trɛw nso yɛ anammɔn mpem dunum (15,000). Ɛhɔ na wobesi kronkronbea, Kronkron Mu Kronkron no.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 45:5 Asase a ne tenten yɛ anammɔn mpem aduasa ason ne ahannum (37,500) na ne trɛw nso yɛ anammɔn mpem dunum (15,000) bɛyɛ beae a wɔbɛkyekye nkurow ama Lewifo a wɔsom wɔ asɔredan mu no atena mu sɛ wɔn agyapade.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 45:6 “ ‘Wobegyaw asase a ne trɛw yɛ anammɔn mpem ason ne ahannum (7,500) na ne tenten nso yɛ anammɔn mpem aduasa ason ne ahannum (37,500) a ɛtoa beae kronkron no so no ama kuropɔn no; ɛbɛyɛ Israelfi nyinaa de.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	EZE 45:11 Kɛntɛn baako, a ɛyɛ lita ɔha aduɔwɔtwe abien (182), na mode besusuw ade biara dodow; ɛfah ne bat bɛyɛ kɛntɛn baako mu nkyemu du.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 45:12 Dwetɛ mpɔw na mode besusuw ade mu duru. Dwetɛ mpɔw baako bɛyɛ gram du abien, na dwetɛ mpɔw aduosia ayɛ gram ahanson aduonu (720).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 47:3 Bere a ɔbarima no rekɔ apuei fam a okura susuhama no, osusuw anammɔn apem ahannum (500,000), na afei ɔde me faa nsu a ɛdeda nan ase mu.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 47:4 Osusuw anammɔn apem ahannum (500,000) bio na ɔde me faa nsu a ɛdeda kotodwe mu. Osusuw anammɔn apem ahannum (500,000) bio na ɔde me faa nsu a ɛdeda sisi mu.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 47:5 Osusuw anammɔn apem ahannum (500,000) bio na afei na asu no ayɛ asubɔnten a merentumi ntwa, efisɛ na mu dɔ nti, ɛsɛ sɛ woguare asubɔnten a obiara ntumi ntwa.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:9 “Kyɛfa sononko a wode bɛma Awurade no tenten bɛyɛ anammɔn mpem aduasa ason ne ahannum (37,500). Na ne trɛw ayɛ anammɔn mpem dunum (15,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:10 Eyi bɛyɛ kyɛfa kronkron ama asɔfo no. Ɛbɛyɛ anammɔn mpem aduasa ason ne ahannum (37,500) ne tenten mu wɔ atifi fam, na ayɛ anammɔn mpem dunum (15,000) wɔ atɔe fam. Ɛbɛyɛ anammɔn mpem dunum (15,000) wɔ apuei fam, na anafo fam nso ɛbɛyɛ anammɔn mpem aduasa ason ne ahannum (37,500). Ne mfimfini bɛyɛ Awurade kronkronbea.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:13 “Asɔfo no asase nkyɛn mu no, Lewifo no benya kyɛfa a ne tenten yɛ anammɔn mpem aduasa ason ne ahannum (37,500), na ne trɛw yɛ anammɔn mpem dunum (15,000). Ne tenten nyinaa bɛyɛ anammɔn mpem aduasa ason ne ahannum (37,500), na ne trɛw nyinaa nso asi anammɔn mpem dunum (15,000).	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:15 “Asase a aka a ne trɛw yɛ anammɔn mpem ason ne ahannum (7,500) na ne tenten nso yɛ anammɔn mpem aduasa ason ne ahannum (37,500) no bɛda hɔ ama kuropɔn no mufo. Wobesisi adan wɔ so na wɔde bi nso ayɛ mmoa adidibea. Kuropɔn no bɛda ne mfimfini	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:16 na ne kɛse bɛyɛ anammɔn mpem asia ahanson aduonum (6,750) wɔ atifi fam, anafo fam, apuei fam ne atɔe fam.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	5	EZE 48:17 Kuropɔn yi mmoa adidibea no kɛse bɛyɛ anammɔn ahaasa aduɔson anum (375) wɔ nʼafanan biara.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:18 Asase a aka a ɛda kyɛfa kronkron no ho wɔ ne tenten mu no bɛyɛ anammɔn mpem dunum (15,000) wɔ nʼapuei fam ne nʼatɔe fam. So nnɔbae no na kuropɔn no mu adwumayɛfo bedi.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:20 Asase no nyinaa bɛyɛ ahinanan a ne fa biara susuw anammɔn mpem aduasa ason ne ahannum (37,500). Wubeyi kyɛfa kronkron no ne kuropɔn no asase asi nkyɛn sɛ akyɛde sononko.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:21 “Asase a aka a ɛdeda kyɛfa kronkron ne kuropɔn no asase ho no bɛyɛ ɔhene no dea. Efi apuei fam a esusuw anammɔn mpem aduasa ason ne ahannum (37,500) no, asase no bɛtrɛw akosi apuei fam hye so, na atɔe fam nso, ɛbɛtrɛw akosi atɔe fam hye so. Nsase abien a ɛne mmusuakuw asase no sa so no bɛyɛ ɔhene no dea, na kyɛfa kronkron a asɔredan no kronkronbea ka ho no bɛwɔ wɔn mfimfini.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:30 “Eyinom ne apon a wɔbɛfa mu apue afi kuropɔn no mu: “Efi ase wɔ atifi fam fasu a ne tenten yɛ anammɔn mpem asia ahanson ne aduonum (6,750) no,	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:32 Apuei fam fasu a ne tenten yɛ anammɔn mpem asia ahanson ne aduonum (6,750) no, wɔde apon abiɛsa bɛtoto Yosef, Benyamin ne Dan.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:33 Anafo fam fasu a ne tenten yɛ anammɔn mpem asia ahanson aduonum (6,750) no, wɔde apon abiɛsa no bɛtoto Simeon, Isakar ne Sebulon.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:34 Atɔe fam fasu a ne tenten yɛ anammɔn mpem asia ahanson aduonum (6,750) no, wɔde apon abiɛsa no bɛtoto Gad, Aser ne Naftali.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	EZE 48:35 “Ɔkwan a etwa kuropɔn no nyinaa ho hyia no tenten yɛ anammɔn mpem aduonu ason (27,000). “Na efi saa da no, wɔbɛfrɛ kuropɔn no se, ‘Awurade Wɔ Hɔ.’ ”	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	DAN 8:14 Obuaa no se, “Ebedi anwummere ne anɔpa ahorow 2,300, ansa na wɔasan atew kronkron tenabea no ho.”	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	2	HOS 3:2 Enti mede gram ɔha aduoson baako (171) ne atoko lita ɔha aduɔwɔtwe abien (182) ne atoko lita aduɔkron baako kɔpataa no.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	REV 7:5 Yuda abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)]. Ruben abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)]. Gad abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)].	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	REV 7:6 Aser abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)]. Naftali abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)]. Manase abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)].	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	REV 7:7 Simeon abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)]. Lewi abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)]. Isakar abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)].	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	REV 7:8 Sebulon abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)]. Yosef abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)]. Benyamin abusuakuw mu nnipa a wɔsɔw wɔn ano si mpem dumien [(12,000)].	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	0	REV 21:16 Na kurow no yɛ ahinanan a ne tenten ne ne trɛw yɛ pɛ. Ɔbɔfo no de ne susudua no susuw kurow no. Na ne tenten yɛ kilomita mpem abien ne ahannan (2,400), na ne trɛw, ne sorokɔ ne ne tenten nyinaa yɛ pɛ.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Source	count	304	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	60	003-LEV-027-006 Abarimaa a wadi ɔsram kosi mfe anum no wobetua dwetɛ gram 60; na ɔbabea nso wɔatua dwetɛ gram 35.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	3	011-1KI-005-011 na Salomo maa Huram fifo atoko tɔn 3,600 ne ngo kronkron galɔn 120,000.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	16	011-1KI-009-028 Wɔyɛɛ adwuma kɔɔ Ofir, na wɔsan de sikakɔkɔɔ nsania ani nkaribo tɔn 16 brɛɛ Salomo.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	4	014-2CH-009-009 Afei, ɔmaa ɔhene no sikakɔkɔɔ akyɛde a ɛkari tɔn 4 ne nnuhuam pii ne aboɔden mpempranne. Seba hemmea nnuhuam a ɔde maa Salomo no so bi mmaa da.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	3	014-2CH-025-006 Ɔsan tuaa dwetɛ tɔn 3.4 sɛ apaade maa Israel mmarima mpem ɔha a wonim akodi yiye.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	3	014-2CH-027-005 Yotam tuu Amonfo so sa, dii wɔn so nkonim. Mfe abiɛsa a edi kan no de, ogyee wɔn sonkahiri a ɛyɛ dwetɛ tɔn 3.4, awi susukoraa mpem aduonum ne atoko susukoraa mpem aduonum.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	30	015-EZR-001-009 Eyinom ne nneɛma a Kores de bɛkyɛe: sikakɔkɔɔ nsiase 30 dwetɛ nsiase 1,000 dwetɛ ɔhyewsɛn 29	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	30	015-EZR-001-010 sikakɔkɔɔ hweaseammɔ 30 dwetɛ hweaseammɔ 410 nneɛma a ɛkeka ho 1,000	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	2	015-EZR-002-003 Dodow a wɔyɛ Paros asefo 2,172	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	372	015-EZR-002-004 Sefatia asefo 372	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	775	015-EZR-002-005 Arah asefo 775	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	2	015-EZR-002-006 Pahat-Moab asefo (Yesua ne Yoab asefo) 2,812	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	015-EZR-002-007 Elam asefo 1,254	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	945	015-EZR-002-008 Satu asefo 945	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	760	015-EZR-002-009 Sakai asefo dodow yɛ 760	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	642	015-EZR-002-010 Bani asefo dodow yɛ 642	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	623	015-EZR-002-011 Bebai asefo dodow yɛ 623	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	015-EZR-002-012 Asgad asefo dodow yɛ 1,222	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	666	015-EZR-002-013 Adonikam asefo dodow yɛ 666	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	2	015-EZR-002-014 Bigwai asefo dodow yɛ 2,056	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	454	015-EZR-002-015 Adin asefo dodow yɛ 454	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	98	015-EZR-002-016 Ater asefo (Hesekia asefo) dodow yɛ 98	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	323	015-EZR-002-017 Besai asefo dodow yɛ 323	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	112	015-EZR-002-018 Yora asefo dodow yɛ 112	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	223	015-EZR-002-019 Hasum asefo dodow yɛ 223	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	95	015-EZR-002-020 Gibar asefo dodow yɛ 95	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	123	015-EZR-002-021 Betlehemfo dodow yɛ 123	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	56	015-EZR-002-022 Netofafo dodow yɛ 56	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	128	015-EZR-002-023 Anatotfo dodow yɛ 128	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	42	015-EZR-002-024 Asmawetfo dodow yɛ 42	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	743	015-EZR-002-025 Kiriat-Yearimfo, Kefirafo ne Beerotfo dodow yɛ 743	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	621	015-EZR-002-026 Ramafo ne Gebafo dodow yɛ 621	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	122	015-EZR-002-027 Mikmasfo dodow yɛ 122	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	223	015-EZR-002-028 Bet-Elfo ne Aifo dodow yɛ 223	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	52	015-EZR-002-029 Nebo ɔmanmma dodow yɛ 52	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	156	015-EZR-002-030 Magbis ɔman dodow yɛ 156	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	015-EZR-002-031 Elam ɔmanmma dodow yɛ 1,254	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	320	015-EZR-002-032 Harim ɔmanmma dodow yɛ 320	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	725	015-EZR-002-033 Lod, Hadid ne Ono manmma dodow yɛ 725	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	345	015-EZR-002-034 Yeriko ɔmanmma dodow yɛ 345	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	3	015-EZR-002-035 Senaa ɔmanmma dodow yɛ 3,630	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	973	015-EZR-002-036 Eyinom ne asɔfo dodow a wofi nnommum mu bae: Yedaia asefo (a wɔnam Yesua fi so) dodow yɛ 973	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	015-EZR-002-037 Imer asefo dodow yɛ 1,052	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	015-EZR-002-038 Pashur asefo dodow yɛ 1,247	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	015-EZR-002-039 Harim asefo dodow yɛ 1,017	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	74	015-EZR-002-040 Eyinom ne Lewifo a wofi nnommum mu bae: Yesua ne Kadmiel asefo (Hodawia asefo) dodow yɛ 74	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	128	015-EZR-002-041 Nnwontofo: Asaf asefo mu nnwontofo dodow yɛ 128	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	139	015-EZR-002-042 Aponanohwɛfo: Salum, Ater, Talmon asefo Akub, Hatita ne Sobai asefo 139	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	362	015-EZR-002-058 Na asɔredan mu asomfo ne Salomo asomfo asefo no dodow yɛ 362	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	652	015-EZR-002-060 Delaia, Tobia ne Nekoda mmusua a wɔn dodow yɛ 652	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	2	016-NEH-007-008 Abusuafo dodow ni: Paros asefo 2,172	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	372	016-NEH-007-009 Sefatia asefo 372	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	652	016-NEH-007-010 Arah asefo 652	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	2	016-NEH-007-011 Pahat-Moab (Yesua ne Yoab) asefo 2,818	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	016-NEH-007-012 Elam asefo 1,254	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	845	016-NEH-007-013 Satu asefo 845	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	760	016-NEH-007-014 Sakai asefo 760	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	648	016-NEH-007-015 Binui asefo 648	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	628	016-NEH-007-016 Bebai asefo 628	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	2	016-NEH-007-017 Asgad asefo 2,322	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	667	016-NEH-007-018 Adonikam asefo 667	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	2	016-NEH-007-019 Bigwai asefo 2,067	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	655	016-NEH-007-020 Adin asefo 655	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	98	016-NEH-007-021 Ater (Hesekia) asefo 98	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	328	016-NEH-007-022 Hasum asefo 328	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	324	016-NEH-007-023 Besai asefo 324	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	112	016-NEH-007-024 Harif asefo 112	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	95	016-NEH-007-025 Gibeon asefo 95	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	188	016-NEH-007-026 Mmarima dodow a wofi Betlehem ne Netofa 188	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	128	016-NEH-007-027 Anatot 128	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	42	016-NEH-007-028 Bet-Asmawet 42	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	743	016-NEH-007-029 Kiriat-Yearim, Kefira ne Beerot 743	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	621	016-NEH-007-030 Rama ne Geba 621	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	122	016-NEH-007-031 Mikmas 122	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	123	016-NEH-007-032 Bet-El ne Ai 123	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	52	016-NEH-007-033 Nebo 52	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	016-NEH-007-034 Elam 1,254	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	320	016-NEH-007-035 Harim 320	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	345	016-NEH-007-036 Yeriko 345	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	721	016-NEH-007-037 Lod, Hadid ne Ono 721	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	3	016-NEH-007-038 Senaa 3,930	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	973	016-NEH-007-039 Eyinom ne asɔfo dodow a wofi nnommum mu bae: Yedaia asefo (Yesua fifo mu no) 973	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	016-NEH-007-040 Imer asefo 1,052	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	016-NEH-007-041 Pashur asefo 1,247	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	1	016-NEH-007-042 Harim asefo 1,017	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	74	016-NEH-007-043 Eyinom ne Lewifo a wofi nnommum mu bae: Yesua (Kadmiel ne Hodewa fifo) asefo 74	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	148	016-NEH-007-044 Nnwontofo: Asaf asefo 148	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	138	016-NEH-007-045 Asɔredan Aponanohwɛfo: Salum, Ater, Talmon asefo, Akub, Hatita ne Sobai asefo 138	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	392	016-NEH-007-060 Asɔredan mu asomfo ne Salomo asomfo asefo no nyinaa, na wɔn dodow yɛ 392	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	642	016-NEH-007-062 Delaia, Tobia ne Nekoda mmusua no ka saa kuw yi ho, na wɔn dodow yɛ 642	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	3	024-JER-052-028 Nnipa dodow a Nebukadnessar de wɔn kɔɔ nkoasom mu ni: nʼahenni afe a ɛto so ason mu, Yudafo 3,023;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	832	024-JER-052-029 Nebukadnessar ahenni afe a ɛto so dunwɔtwe mu, nnipa a wofi Yerusalem, 832;	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	745	024-JER-052-030 nʼahenni afe a ɛto so aduonu abiɛsa mu, ɔsahene Nebusaradan, a otua ɔhene awɛmfo ano no de Yudafo 745 kɔɔ nnommum mu. Nnipa no nyinaa dodow yɛ 4,600.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	2	027-DAN-008-014 Obuaa no se, “Ebedi anwummere ne anɔpa ahorow 2,300, ansa na wɔasan atew kronkron tenabea no ho.”	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Kwasida anɔpa na Yesu sɔre fii awufo mu. Onipa a oyii ne ho adi kyerɛɛ no kan ne Maria Magdalene, ɔbea a otuu ahonhommɔne ason fii ne mu no.	WARN
+Twi---Akuapem-Twi-Bible	NUMERALS	Aionian	count	95	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

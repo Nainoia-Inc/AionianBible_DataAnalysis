@@ -1,0 +1,403 @@
+# File Name: Holy-Bible---Holy-Bible---French---French-Khan-Bible---Analysis.txt
+# File Size: 34315       
+# File Date: 12/13/2025 05:28:34
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: La Bible de Zadoc Khan
+# Bible Name English: Zadoc Khan Bible
+# Bible Language: Français
+# Bible Language English: French
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: French translation under the leadership of Grand Rabbi Zadoc Kahn
+# Bible Source Version: 1/15/2014
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=FreKhan
+# Bible Source Year: 1899
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+French---French-Khan-Bible	ENCODING	Source	Holy-Bible---French---French-Khan-Bible---Source-Edition.SWORD.txt	UTF-8	NOTICE
+French---French-Khan-Bible	ENCODING	Aionian	Holy-Bible---French---French-Khan-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+French---French-Khan-Bible	BYTES	Source	bytes / chars	3777685 / 3615267 (multi-byte)	NOTICE
+French---French-Khan-Bible	BYTES	Aionian	bytes / chars	3713134 / 3550701 (multi-byte)	NOTICE
+French---French-Khan-Bible	BYTES	SourceClean	bytes / chars	3675816 / 3513398 (multi-byte)	NOTICE
+French---French-Khan-Bible	BYTES	AionianClean	bytes / chars	3710544 / 3548128 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+French---French-Khan-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+French---French-Khan-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+French---French-Khan-Bible	AIONIAN	Aionian	book-defined-not-exist	200	NOTICE
+French---French-Khan-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+French---French-Khan-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+French---French-Khan-Bible	AIONIAN	Aionian	aionian-verses	64	NOTICE
+French---French-Khan-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+French---French-Khan-Bible	UNPRINTABLE	Source	count	0	NOTICE
+French---French-Khan-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+French---French-Khan-Bible	UNICODE	Summary	(-)Orginal	66	NOTICE
+French---French-Khan-Bible	UNICODE	Summary	(+)Aionian	63	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : ([)	1	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : ( )	580714	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (T)	2284	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (e)	385462	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (s)	224870	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (t)	176448	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (a)	198121	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (m)	73528	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (n)	170797	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (1)	20269	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (H)	1806	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (d)	93180	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (i)	178043	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (g)	23484	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (])	1	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (\n)	24169	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (G)	2570	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (0)	5208	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (:)	31368	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (A)	5918	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (u)	157744	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (c)	68688	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (o)	139942	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (D)	6930	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (r)	178703	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (l)	150201	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (.)	19802	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (2)	14602	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (O)	1767	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (h)	31685	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (b)	23814	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (v)	41137	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (f)	26866	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (p)	63431	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (x)	12358	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (3)	9757	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (!)	3782	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (E)	12378	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (4)	7116	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (5)	5389	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (N)	3464	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (I)	14194	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (6)	4990	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (7)	4641	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (8)	4591	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (C)	6021	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (L)	5481	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (9)	4491	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (M)	3777	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (y)	8219	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (z)	7095	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (R)	1028	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (U)	283	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (P)	6304	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (K)	2055	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (k)	2801	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (V)	1074	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (J)	9294	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (S)	7119	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (B)	1707	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (()	112	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : ())	111	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (Z)	588	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (X)	3	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	Basic Latin : (_)	2	NOTICE
+French---French-Khan-Bible	UNICODE	Source(-)	General Punctuation : („)	1	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	97681	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	33362	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	92568	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3175	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	18987	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	5347	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	11894	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	150208	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	525443	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	65101	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	130914	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	64644	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	365117	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	163752	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	173746	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	7504	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	165468	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	170551	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	186070	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	142003	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	19789	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	23141	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	24579	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	6200	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	204429	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	91266	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	24555	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	20346	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	39303	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	26740	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	63374	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (x)	11108	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	13504	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	7200	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	3711	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	10461	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	6800	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	8451	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	7291	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	5764	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	6108	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	6713	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	5619	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	7788	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2535	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	21050	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	5353	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	7229	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	5482	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	3582	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	2615	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	6108	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	3999	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2005	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	1299	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1928	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	9142	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	11764	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	2854	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (()	227	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : ())	226	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	2122	NOTICE
+French---French-Khan-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1214	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : ([)	1	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : ( )	580714	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (T)	2284	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (e)	385462	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (s)	224870	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (t)	176448	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (a)	198121	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (m)	73528	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (n)	170797	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (1)	20269	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (H)	1806	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (d)	93180	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (i)	178043	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (g)	23484	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (])	1	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (\n)	24169	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (G)	2570	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (0)	5208	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (:)	31368	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (A)	5918	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (u)	157744	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (c)	68688	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (o)	139942	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (,)	52716	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (D)	6930	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (r)	178703	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (é)	45281	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (l)	150201	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (.)	19802	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (2)	14602	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (O)	1767	NOTICE
+French---French-Khan-Bible	UNICODE	Source	General Punctuation : (’)	36636	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (q)	22289	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (h)	31685	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (;)	7272	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (è)	9715	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (b)	23814	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (v)	41137	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (f)	26866	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (î)	1359	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (p)	63431	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (à)	13199	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (x)	12358	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (3)	9757	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (")	8158	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (Q)	1555	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (!)	3782	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (E)	12378	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (4)	7116	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (5)	5389	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (j)	11827	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (N)	3464	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (I)	14194	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (6)	4990	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (7)	4641	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (-)	7309	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (8)	4591	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (C)	6021	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (L)	5481	NOTICE
+French---French-Khan-Bible	UNICODE	Source	General Punctuation : (—)	40	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (9)	4491	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (ê)	4531	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (M)	3777	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (y)	8219	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (ç)	1106	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (ù)	892	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (z)	7095	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (F)	341	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (â)	2209	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (R)	1028	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin Extended-A : (œ)	1093	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (É)	1839	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (U)	283	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (P)	6304	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (ô)	1692	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (K)	2055	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (k)	2801	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (û)	507	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (?)	1937	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (V)	1074	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (J)	9294	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (È)	4	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (ï)	2014	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (S)	7119	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (Y)	639	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (B)	1707	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (()	112	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : ())	111	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (Ç)	155	NOTICE
+French---French-Khan-Bible	UNICODE	Source	General Punctuation : (‘)	99	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (Z)	588	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (ë)	2525	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (ü)	481	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (')	34	NOTICE
+French---French-Khan-Bible	UNICODE	Source	General Punctuation : (…)	107	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (Ê)	9	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (Ï)	1	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (X)	3	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (Â)	8	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (_)	2	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (Ô)	2	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (w)	6	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (À)	22	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin Extended-A : (Œ)	5	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Latin-1 Supplement: (´)	1	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (`)	2	NOTICE
+French---French-Khan-Bible	UNICODE	Source	General Punctuation : („)	1	NOTICE
+French---French-Khan-Bible	UNICODE	Source	Basic Latin : (W)	1	NOTICE
+French---French-Khan-Bible	UNICODE	Source	General Punctuation : (•)	1	NOTICE
+
+# VERSIFICATION
+French---French-Khan-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-038	WARN
+French---French-Khan-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-039	WARN
+French---French-Khan-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+French---French-Khan-Bible	VERSIFICATION	Summary	missing	3	WARN
+French---French-Khan-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+French---French-Khan-Bible	ENCLOSURES	Source	()	112 / 111	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	[]	1 / 1	NOTICE
+French---French-Khan-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+French---French-Khan-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+French---French-Khan-Bible	ENCLOSURES	Aionian	()	227 / 226	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+French---French-Khan-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+French---French-Khan-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	Numbers 11:7 (Or, la manne était comme de la graine de coriandre, et son aspect comme l’aspect du bdellium.	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	Numbers 11:9 Lorsque la rosée descendait sur le camp, la nuit, la manne y tombait avec elle).	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 2:10 (Les Emîm y demeuraient primitivement, nation grande, nombreuse et de haute stature, comme les Anakéens,	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 2:12 De même, dans le Séir habitaient autrefois les Horéens; mais les enfants d’Esaü les dépossédèrent, les exterminèrent et s’établirent à leur place, comme l’a fait Israël pour le pays de sa possession, que l’Éternel lui a donné).	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 2:20 (Celui-là aussi est considéré comme pays de Rephaïtes: des Rephaïtes l’occupaient d’abord, les Ammonites les appellent Zamzoummîm,	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 2:23 De même, les Avvéens, qui habitaient des bourgades jusqu’à Gaza, des Kaftorîm sortis de Kaftor les ont détruits et se sont établis à leur place).	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 10:6 (Or, les enfants d’Israël partirent de Beéroth-Benê-Yaakân pour aller à Mocêra: là est mort Aaron, là il a été enseveli, et son fils Eléazar l’a remplacé dans le sacerdoce.	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 10:9 C’Est pourquoi Lévi n’a reçu part ni héritage avec ses frères: c’est Dieu qui est son héritage, ainsi que l’Éternel, ton Dieu, le lui a déclaré).	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	Judges 20:27 et les Israélites consultèrent l’Eternel (car l’arche d’alliance du Seigneur était là à cette époque,	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	Judges 20:28 et Phinéas, fils d’Eléazar fils d’Aaron, fonctionnait devant lui en ce même temps), et ils dirent: "Dois-je encore aller en guerre contre mon frère Benjamin, ou cesser les hostilités?" Et l’Eternel répondit: "Marchez! car demain je le mettrai en votre puissance."	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	II Samuel 12:21 "Que signifie cette conduite? lui dirent ses serviteurs. Pour l’enfant vivant tu as jeûné et pleuré, et maintenant qu’il est mort tu te relèves et tu prends de la nourriture!),	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	I Kings 10:11 (En outre, la flotte de Hiram, qui rapportait de l’or d’Ofir, en rapporta aussi du bois d’almougghim en quantité énorme, et des pierres précieuses.	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	I Kings 10:12 De ce bois d’almougghim, le roi fit des rampes pour la maison de Dieu et pour la maison royale, des harpes et des luths pour les chantres. On n’a apporté ni vu de semblable bois d’almougghim jusqu’à ce jour.)	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	Ezekiel 18:10 Que (s’il engendre un fils violent, sanguinaire, et qui fasse à son frère une de ces choses,	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	Ezekiel 21:27 Dans sa main droite se trouvait le sort "Jérusalem" pour y dresser des béliers, y proclamer la tuerie, pour y proférer des cris de guerre, pour dresser des béliers contre (es portes, pour y jeter une chaussée et bâtir des ouvrages de siège.	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	I Chronicles 5:1 Voici les descendants de Ruben, le premier-né d’Israël. (C’Était, en effet, le premier-né, mais comme il avait profané la couche de son père, son droit d’aînesse fut attribué aux fils de Joseph, fils d’Israël, sans que ce dernier portât, dans les généalogies, le titre d’aîné.	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	I Chronicles 5:2 Si Juda l’emporta sur ses frères et donna le jour à un prince, c’est à Joseph que fut dévolue l’aînesse.)	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(1/0)	II Chronicles 9:10 (En outre, les serviteurs de Houram et ceux de Salomon, qui rapportaient de l’or d’Ophir, en rapportaient aussi du bois de sandal et des pierres précieuses.	WARN
+French---French-Khan-Bible	ENCLOSURES	Source	(0/1)	II Chronicles 9:11 De ce bois de sandal le roi fit des parquets pour la maison du Seigneur et la maison royale, des harpes et des luths pour les chantres. On n’a pas vu auparavant de bois semblable dans le pays de Juda.)	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 011 007 (Or, la manne était comme de la graine de coriandre, et son aspect comme l’aspect du bdellium.	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 011 009 Lorsque la rosée descendait sur le camp, la nuit, la manne y tombait avec elle).	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Les Emîm y demeuraient primitivement, nation grande, nombreuse et de haute stature, comme les Anakéens,	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 De même, dans le Séir habitaient autrefois les Horéens; mais les enfants d’Esaü les dépossédèrent, les exterminèrent et s’établirent à leur place, comme l’a fait Israël pour le pays de sa possession, que l’Éternel lui a donné).	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Celui-là aussi est considéré comme pays de Rephaïtes: des Rephaïtes l’occupaient d’abord, les Ammonites les appellent Zamzoummîm,	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 De même, les Avvéens, qui habitaient des bourgades jusqu’à Gaza, des Kaftorîm sortis de Kaftor les ont détruits et se sont établis à leur place).	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Or, les enfants d’Israël partirent de Beéroth-Benê-Yaakân pour aller à Mocêra: là est mort Aaron, là il a été enseveli, et son fils Eléazar l’a remplacé dans le sacerdoce.	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 C’Est pourquoi Lévi n’a reçu part ni héritage avec ses frères: c’est Dieu qui est son héritage, ainsi que l’Éternel, ton Dieu, le lui a déclaré).	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 et les Israélites consultèrent l’Eternel (car l’arche d’alliance du Seigneur était là à cette époque,	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 et Phinéas, fils d’Eléazar fils d’Aaron, fonctionnait devant lui en ce même temps), et ils dirent: "Dois-je encore aller en guerre contre mon frère Benjamin, ou cesser les hostilités?" Et l’Eternel répondit: "Marchez! car demain je le mettrai en votre puissance."	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 012 021 "Que signifie cette conduite? lui dirent ses serviteurs. Pour l’enfant vivant tu as jeûné et pleuré, et maintenant qu’il est mort tu te relèves et tu prends de la nourriture!),	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (En outre, la flotte de Hiram, qui rapportait de l’or d’Ofir, en rapporta aussi du bois d’almougghim en quantité énorme, et des pierres précieuses.	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 De ce bois d’almougghim, le roi fit des rampes pour la maison de Dieu et pour la maison royale, des harpes et des luths pour les chantres. On n’a apporté ni vu de semblable bois d’almougghim jusqu’à ce jour.)	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Voici les descendants de Ruben, le premier-né d’Israël. (C’Était, en effet, le premier-né, mais comme il avait profané la couche de son père, son droit d’aînesse fut attribué aux fils de Joseph, fils d’Israël, sans que ce dernier portât, dans les généalogies, le titre d’aîné.	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Si Juda l’emporta sur ses frères et donna le jour à un prince, c’est à Joseph que fut dévolue l’aînesse.)	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (En outre, les serviteurs de Houram et ceux de Salomon, qui rapportaient de l’or d’Ophir, en rapportaient aussi du bois de sandal et des pierres précieuses.	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 De ce bois de sandal le roi fit des parquets pour la maison du Seigneur et la maison royale, des harpes et des luths pour les chantres. On n’a pas vu auparavant de bois semblable dans le pays de Juda.)	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	026 EZE 018 010 Que (s’il engendre un fils violent, sanguinaire, et qui fasse à son frère une de ces choses,	WARN
+French---French-Khan-Bible	ENCLOSURES	Aionian	(1/0)	026 EZE 021 022 Dans sa main droite se trouvait le sort "Jérusalem" pour y dresser des béliers, y proclamer la tuerie, pour y proférer des cris de guerre, pour dresser des béliers contre (es portes, pour y jeter une chaussée et bâtir des ouvrages de siège.	WARN
+French---French-Khan-Bible	ENCLOSURES	Summary	lines	19 / 19	NOTICE
+
+# UNEXPECTED
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(`)	2/2	WARN
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(_)	2/0	WARN
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+French---French-Khan-Bible	UNEXPECTED	Source/Aionian	Summary	4/2	WARN
+
+# NUMERALS
+French---French-Khan-Bible	NUMERALS	Source	2	Exodus 20:2 (1) "Je suis l’Éternel, ton Dieu, qui t’ai fait sortir du pays d’Égypte, d’une maison d’esclavage. (2) "Tu n’auras point d’autre dieu que moi.	WARN
+French---French-Khan-Bible	NUMERALS	Source	3	Exodus 20:6 (3) "Tu n’invoqueras point le nom de l’Éternel ton Dieu à l’appui du mensonge; car l’Éternel ne laisse pas impuni celui qui invoque son nom pour le mensonge.	WARN
+French---French-Khan-Bible	NUMERALS	Source	4	Exodus 20:7 (4)"Pense au jour du Sabbat pour le sanctifier.	WARN
+French---French-Khan-Bible	NUMERALS	Source	5	Exodus 20:11 (5)"Honore ton père et ta mère, afin que tes jours se prolongent sur la terre que l’Éternel ton Dieu t’accordera.	WARN
+French---French-Khan-Bible	NUMERALS	Source	9	Exodus 20:12 (6) "Ne commets point d’homicide. (7) "Ne commets point d’adultère. (8) "Ne commets point de larcin. (9) "Ne rends point contre ton prochain un faux témoignage.	WARN
+French---French-Khan-Bible	NUMERALS	Source	0	Exodus 20:13 (10)"Ne convoite pas la maison de ton prochain; Ne convoite pas la femme de ton prochain, son esclave ni sa servante, son bœuf ni son âne, ni rien de ce qui est à ton prochain."	WARN
+French---French-Khan-Bible	NUMERALS	Source	count	6	WARN
+French---French-Khan-Bible	NUMERALS	Aionian	count	0	NOTICE
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

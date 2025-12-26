@@ -1,0 +1,536 @@
+# File Name: Holy-Bible---Holy-Bible---SlavonicChurch---Church-Slavonic-Elizabeth---Analysis.txt
+# File Size: 45930       
+# File Date: 12/13/2025 05:59:02
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Библия церковно-славянском языке
+# Bible Name English: Church Slavonic Elizabeth Bible
+# Bible Language: церковно-славянском
+# Bible Language English: Slavonic, Church
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: RusBible.ru with modern spelling
+# Bible Source Version: 8/10/2022
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=CSlElizabeth
+# Bible Source Year: 1757
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCODING	Source	Holy-Bible---SlavonicChurch---Church-Slavonic-Elizabeth---Source-Edition.SWORD.txt	UTF-8	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCODING	Aionian	Holy-Bible---SlavonicChurch---Church-Slavonic-Elizabeth---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+SlavonicChurch---Church-Slavonic-Elizabeth	BYTES	Source	bytes / chars	7237897 / 4321555 (multi-byte)	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	BYTES	Aionian	bytes / chars	6226390 / 3701554 (multi-byte)	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	BYTES	SourceClean	bytes / chars	7118658 / 4202316 (multi-byte)	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	BYTES	AionianClean	bytes / chars	6220818 / 3697199 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+SlavonicChurch---Church-Slavonic-Elizabeth	AIONIAN	Aionian	book-not-exist	0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	AIONIAN	Aionian	missing-chapter	0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	AIONIAN	Aionian	missing-verse	0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	AIONIAN	Aionian	aionian-verses	264	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNPRINTABLE	Source	count	0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Summary	(-)Orginal	125	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Summary	(+)Aionian	124	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : ([)	2	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : ( )	688962	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (T)	665	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (e)	28463	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (s)	27426	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (t)	8370	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (a)	22191	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (m)	10226	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (n)	11872	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (1)	31772	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (H)	631	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (d)	3182	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (i)	18595	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (g)	2428	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (])	2	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (\n)	37417	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (G)	1740	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (0)	7690	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (:)	63789	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Б)	5545	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ы)	49197	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (т)	146122	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (и)	275982	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (е)	306489	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (В)	4095	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (н)	138403	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (а)	210072	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ч)	23786	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (л)	94003	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (с)	169205	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (о)	278449	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (в)	147747	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (р)	116987	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (г)	56234	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (б)	45138	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (з)	46994	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (м)	92263	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ю)	24592	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (.)	24017	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (2)	21689	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (З)	601	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (я)	81588	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ж)	46269	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (д)	108314	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (у)	81280	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (,)	73822	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (х)	35726	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Д)	2640	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (й)	21107	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ш)	31674	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (3)	14586	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (И)	23335	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ь)	27610	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (4)	11059	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (к)	57069	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (5)	8404	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (щ)	19151	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (6)	7593	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (п)	70660	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (7)	7026	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (8)	6928	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (9)	6291	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ц)	17752	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Н)	2905	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (()	1616	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : ())	1618	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (С)	7494	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Г)	10403	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Е)	5693	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Р)	1342	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Ф)	817	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ф)	5041	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Т)	3967	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (А)	6989	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (?)	3401	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Ж)	128	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Х)	1559	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (К)	1245	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (У)	476	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (М)	5788	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Л)	685	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (П)	2291	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (О)	2041	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Ч)	376	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Ю)	19	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Я)	533	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Ш)	26	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (ъ)	75	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (E)	3934	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (x)	1222	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (o)	13953	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (u)	9273	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (L)	2222	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (v)	2264	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (c)	9367	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (N)	1796	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (b)	5560	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (r)	12348	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Ц)	364	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (-)	60	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (D)	1539	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (y)	1215	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (J)	6027	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (h)	13364	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (R)	967	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (I)	13114	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (S)	3386	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (l)	9476	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (K)	1583	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (C)	2654	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (P)	3957	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (f)	638	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (M)	3494	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (z)	1613	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (!)	67	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (|)	3	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Cyrillic : (Щ)	5	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (W)	460	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (p)	511	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (B)	147	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (k)	3373	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (A)	1191	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (O)	23	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (Z)	283	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source(-)	Basic Latin : (w)	1417	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (0)	130441	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (1)	42432	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (\t)	124260	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (G)	2350	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (E)	10881	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (N)	3679	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (В)	3529	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : ( )	526581	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (н)	118199	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (а)	181572	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ч)	20704	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (л)	81954	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (е)	266470	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (с)	146448	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (о)	240960	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (т)	126378	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (в)	127686	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (р)	100474	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (и)	237092	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Б)	4968	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (г)	49382	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (б)	38199	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (з)	40687	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (м)	79963	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ю)	21258	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (.)	20932	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (\n)	31064	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (2)	31034	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (З)	537	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (я)	70443	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ж)	40049	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (д)	94345	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (у)	70293	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (,)	64708	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (х)	30535	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ы)	42608	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Д)	2390	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (й)	18164	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ш)	26949	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (3)	17135	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (И)	20772	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (:)	24016	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ь)	24297	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (4)	20026	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (к)	49403	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (5)	10270	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (щ)	16240	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (6)	10727	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (п)	60660	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (7)	7436	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (8)	7850	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (9)	9266	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ц)	15490	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Н)	2476	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (()	1703	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : ())	1705	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (С)	6791	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Г)	9630	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Е)	5157	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Р)	1222	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Ф)	726	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ф)	4471	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Т)	3363	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (А)	6420	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (?)	3171	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Ж)	112	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Х)	1477	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (К)	1049	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (У)	426	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (М)	5478	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Л)	590	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (П)	1931	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (О)	1789	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Ч)	326	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Ю)	18	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Я)	466	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Ш)	24	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (ъ)	59	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (S)	6456	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (h)	129	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (e)	107	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (o)	153	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (l)	69	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (X)	1181	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (O)	6658	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (L)	2584	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (V)	1263	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (U)	3508	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (M)	4064	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Ц)	328	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (-)	58	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (D)	1959	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (J)	4975	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (R)	4159	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (T)	2755	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (A)	9151	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (K)	2686	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (I)	3278	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (C)	4320	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (H)	4121	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (B)	1450	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (!)	54	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (q)	5	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (u)	7	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (s)	118	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (t)	11	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (i)	251	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (n)	206	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (d)	21	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (P)	3881	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Cyrillic : (Щ)	3	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : ( )	688962	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (T)	665	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (e)	28463	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (s)	27426	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (t)	8370	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (a)	22191	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (m)	10226	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (n)	11872	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (1)	31772	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (H)	631	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (d)	3182	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (i)	18595	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (g)	2428	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (])	2	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (\n)	37417	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (G)	1740	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (0)	7690	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (:)	63789	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Б)	5545	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ы)	49197	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (т)	146122	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (и)	275982	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (е)	306489	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (В)	4095	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (н)	138403	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (а)	210072	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ч)	23786	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (л)	94003	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (с)	169205	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (о)	278449	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (в)	147747	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (р)	116987	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (г)	56234	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (б)	45138	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (з)	46994	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (м)	92263	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ю)	24592	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (.)	24017	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (2)	21689	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (З)	601	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (я)	81588	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ж)	46269	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (д)	108314	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (у)	81280	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (,)	73822	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (х)	35726	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Д)	2640	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (й)	21107	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ш)	31674	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (3)	14586	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (И)	23335	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ь)	27610	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (4)	11059	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (к)	57069	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (5)	8404	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (щ)	19151	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (6)	7593	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (п)	70660	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (7)	7026	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (8)	6928	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (9)	6291	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ц)	17752	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Н)	2905	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (()	1616	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : ())	1618	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (С)	7494	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Г)	10403	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Е)	5693	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Р)	1342	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Ф)	817	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ф)	5041	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Т)	3967	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (А)	6989	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (?)	3401	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Ж)	128	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Х)	1559	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (К)	1245	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (У)	476	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (М)	5788	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Л)	685	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (П)	2291	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (О)	2041	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Ч)	376	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Ю)	19	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Я)	533	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Ш)	26	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (ъ)	75	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (E)	3934	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (x)	1222	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (o)	13953	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (u)	9273	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (L)	2222	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (v)	2264	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (c)	9367	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Ї)	1	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (N)	1796	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (b)	5560	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (r)	12348	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Ц)	364	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (-)	60	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (D)	1539	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (y)	1215	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (J)	6027	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (h)	13364	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (R)	967	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (I)	13114	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (S)	3386	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (l)	9476	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (K)	1583	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (C)	2654	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (P)	3957	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (f)	638	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (M)	3494	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (z)	1613	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (!)	67	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (|)	3	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Cyrillic : (Щ)	5	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (W)	460	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (p)	511	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (B)	147	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (k)	3373	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (A)	1191	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (O)	23	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (Z)	283	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNICODE	Source	Basic Latin : (w)	1417	NOTICE
+
+# VERSIFICATION
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-037-022	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-037-023	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-037-024	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-037-025	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-037-026	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-037-027	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-037-028	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-037-029	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-038-028	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-038-029	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-038-030	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-038-031	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-024	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-025	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-026	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-027	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-028	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-029	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-030	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-031	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-032	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-033	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-034	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-035	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-036	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-037	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-038	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-039	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-040	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-041	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-042	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	002-EXO-039-043	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	017-EST-009-030	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	019-PSA-072-020	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	019-PSA-116-009	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	019-PSA-130-008	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Summary	missing	37	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Source	()	1616 / 1618	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Source	[]	2 / 2	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Source	{}	0 / 0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Source	<>	0 / 0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Aionian	()	1703 / 1705	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Source	(2/3)	I Chronicles 27:34 и по (нем) Ахитофеле бысть (близ)) Иодай сын Ванеин и Авиафар: и Иоав началный воевода царев. 	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Source	(0/1)	II Chronicles 25:16 И бысть егда той глаголаше к нему, и отвеща ему: еда советника царева поставих тя? Внемли, да не биен будеши. И умолча пророк и рече: вем, яко восхоте Господь потребити тя, занеже сотворил еси сие зло) и не послушал еси совета моего.	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Aionian	(2/3)	013 1CH 027 034 и по (нем) Ахитофеле бысть (близ)) Иодай сын Ванеин и Авиафар: и Иоав началный воевода царев.	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Aionian	(0/1)	014 2CH 025 016 И бысть егда той глаголаше к нему, и отвеща ему: еда советника царева поставих тя? Внемли, да не биен будеши. И умолча пророк и рече: вем, яко восхоте Господь потребити тя, занеже сотворил еси сие зло) и не послушал еси совета моего.	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	ENCLOSURES	Summary	lines	2 / 2	NOTICE
+
+# UNEXPECTED
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(|)	3/0	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+SlavonicChurch---Church-Slavonic-Elizabeth	UNEXPECTED	Source/Aionian	Summary	3/0	WARN
+
+# NUMERALS
+SlavonicChurch---Church-Slavonic-Elizabeth	NUMERALS	Source	0	Psalms 150:6 Всякое дыхание да хвалит Господа. Псалом особь писан, Давидов, и вне числа 150 псалмов, внегда единоборствоваше на Голиафа.	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	NUMERALS	Source	count	1	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Воскрес же (Иисус) заутра в первую субботу, явися прежде Марии Магдалини, из неяже изгна седмь бесов.	WARN
+SlavonicChurch---Church-Slavonic-Elizabeth	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

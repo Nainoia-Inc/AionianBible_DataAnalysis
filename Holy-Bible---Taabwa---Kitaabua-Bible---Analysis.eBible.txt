@@ -1,0 +1,927 @@
+# File Name: Holy-Bible---Holy-Bible---Taabwa---Kitaabua-Bible---Analysis.txt
+# File Size: 126008      
+# File Date: 12/13/2025 06:02:19
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Ichitaabwa Bible
+# Bible Name English: Kitaabua Taabwa Bible
+# Bible Language: Ichitaabwa
+# Bible Language English: Taabwa
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: The Word for the World International
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=tap
+# Bible Source Year: 2023
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Taabwa---Kitaabua-Bible	ENCODING	Source	Holy-Bible---Taabwa---Kitaabua-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Taabwa---Kitaabua-Bible	ENCODING	Aionian	Holy-Bible---Taabwa---Kitaabua-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Taabwa---Kitaabua-Bible	BYTES	Source	bytes / chars	703737 / 698721 (multi-byte)	NOTICE
+Taabwa---Kitaabua-Bible	BYTES	Aionian	bytes / chars	738699 / 733683 (multi-byte)	NOTICE
+Taabwa---Kitaabua-Bible	BYTES	SourceClean	bytes / chars	702920 / 697904 (multi-byte)	NOTICE
+Taabwa---Kitaabua-Bible	BYTES	AionianClean	bytes / chars	737075 / 732059 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Taabwa---Kitaabua-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Taabwa---Kitaabua-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Taabwa---Kitaabua-Bible	AIONIAN	Aionian	book-defined-not-exist	248	NOTICE
+Taabwa---Kitaabua-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Taabwa---Kitaabua-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Taabwa---Kitaabua-Bible	AIONIAN	Aionian	aionian-verses	16	NOTICE
+Taabwa---Kitaabua-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Taabwa---Kitaabua-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Taabwa---Kitaabua-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Taabwa---Kitaabua-Bible	UNICODE	Summary	(-)Orginal	19	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Summary	(+)Aionian	20	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : ( )	102640	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (1)	4086	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (:)	5184	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (e)	40032	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (l)	32713	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (o)	22069	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (\n)	5061	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (2)	3440	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (3)	2299	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (5)	1152	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (6)	1033	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (7)	1041	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (8)	947	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (9)	965	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (h)	1742	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (0)	1223	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (S)	930	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : (()	17	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source(-)	Basic Latin : ())	18	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	23844	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	6492	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	20244	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	92550	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	40048	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	32729	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	22085	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	5060	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	5868	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	2514	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	1464	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	1439	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	1224	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	1239	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1037	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	1774	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	946	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	123	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : (()	33	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Aionian(+)	Basic Latin : ())	34	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (G)	1648	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (E)	4396	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (N)	3453	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : ( )	102640	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (1)	4086	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (:)	5184	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (P)	1416	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (a)	95742	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (k)	36650	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (u)	46926	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (t)	12817	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (e)	40032	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (n)	39552	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (d)	4372	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (L)	1281	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (z)	8455	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (w)	18683	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (l)	32713	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (g)	5703	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (m)	24608	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (y)	10644	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (i)	59660	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (o)	22069	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (.)	6675	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (\n)	5061	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (2)	3440	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (O)	2869	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (s)	9289	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (,)	9322	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (b)	28333	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (f)	2375	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (p)	9573	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (I)	632	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (M)	2097	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (3)	2299	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (v)	2551	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	General Punctuation : (“)	1240	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (K)	1423	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (!)	144	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	General Punctuation : (”)	1052	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (-)	1038	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (4)	1613	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (W)	478	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (5)	1152	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (B)	2124	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (6)	1033	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (7)	1041	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (8)	947	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (9)	965	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (h)	1742	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (0)	1223	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (A)	1135	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (Y)	1874	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (H)	1078	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (r)	3103	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (T)	710	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (?)	356	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	General Punctuation : (‘)	108	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	General Punctuation : (’)	108	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (U)	254	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (')	213	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (Z)	383	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (S)	930	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (F)	262	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (V)	3	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (R)	1481	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (D)	92	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (()	17	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : ())	18	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (X)	1198	NOTICE
+Taabwa---Kitaabua-Bible	UNICODE	Source	Basic Latin : (J)	120	NOTICE
+
+# VERSIFICATION
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	001-GEN-007-018	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-001-014	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-001-021	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-002-016	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-004-026	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-007-004	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-019-002	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-021-019	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-022-003	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-022-004	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-024-017	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-027-015	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-028-034	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-038-015	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-025	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-026	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-019	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-020	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-021	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-022	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	028-HOS-002-005	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	028-HOS-002-022	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Aionian	missing	029-JOE-003-021	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Summary	missing	23	WARN
+Taabwa---Kitaabua-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Taabwa---Kitaabua-Bible	ENCLOSURES	Source	()	17 / 18	WARN
+Taabwa---Kitaabua-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Taabwa---Kitaabua-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Taabwa---Kitaabua-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Taabwa---Kitaabua-Bible	ENCLOSURES	Aionian	()	33 / 34	WARN
+Taabwa---Kitaabua-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Taabwa---Kitaabua-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Taabwa---Kitaabua-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Taabwa---Kitaabua-Bible	ENCLOSURES	Source	(1/0)	EXO 9:31 (Kitani ni nghano ya shairi byainoonenue pantu shairi yaali yasyakosele, ni kitani kyasyatootele buluba.	WARN
+Taabwa---Kitaabua-Bible	ENCLOSURES	Source	(0/1)	EXO 9:32 Inzi nghano ni binge tebyainoonenue pantu byaali tebinakule.)	WARN
+Taabwa---Kitaabua-Bible	ENCLOSURES	Source	(0/1)	EXO 18:4 Wa bubili waali wainikilue liina lya Eliezeri, pantu Musa waalandile evi, “Leza wakua tawe wakiba wali mukwasi wane wakin'mpususia mu lufu kuli Farao.”)	WARN
+Taabwa---Kitaabua-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (Kitani ni nghano ya shairi byainoonenue pantu shairi yaali yasyakosele, ni kitani kyasyatootele buluba.	WARN
+Taabwa---Kitaabua-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 Inzi nghano ni binge tebyainoonenue pantu byaali tebinakule.)	WARN
+Taabwa---Kitaabua-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 018 004 Wa bubili waali wainikilue liina lya Eliezeri, pantu Musa waalandile evi, “Leza wakua tawe wakiba wali mukwasi wane wakin'mpususia mu lufu kuli Farao.”)	WARN
+Taabwa---Kitaabua-Bible	ENCLOSURES	Summary	lines	3 / 3	NOTICE
+
+# UNEXPECTED
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Taabwa---Kitaabua-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 4:24 Kaini kine waakalandwilua nghendo kilooba, Lameki waakalandwilua nghendo 77.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:3 Adamu lu-aakumaniizie myaka 130, waavyele mwana mwalalume mu lukebu lwakue, wapaleene nakue ni kumwinika Seti.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:4 Pa kyamba kya kuvyala Seti, Adamu waikeele pa kyalo myaka 800 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:5 Adamu waafwile wali na myaka 930.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 5:6 Seti lu-aakumaniizie myaka 105, waavyele mwana mwalalume ni kumwinika Enoshi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 5:7 Pa kyamba kya kuvyala Enoshi, Seti waikeele pa kyalo myaka 807 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	GEN 5:8 Seti waafwile wali na myaka 912.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:9 Enoshi lu-aakumaniizie myaka 90, waavyele mwana mwalalume ni kumwinika Kenani,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 5:10 pa kyamba kya kuvyala Kenani, Enoshi waikeele pa kyalo myaka 815 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 5:11 Enoshi waafwile wali na myaka 905.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:12 Kenani lu-aakumaniizie myaka 70, waavyele mwana mwalalume ni kumwinika Mahalaleli.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:13 Pa kyamba kya kuvyala Mahalaleli, Kenani waikeele pa kyalo myaka 840 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:14 Kenani waafwile wali na myaka 910.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 5:15 Mahalaleli lu-aakumaniizie myaka 65, waavyele mwana mwalalume ni kumwinika Yaredi,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:16 pa kyamba kya kuvyala Yaredi, Mahalaleli waikeele pa kyalo myaka 830 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 5:17 Mahalaleli waafwile wali na myaka 895.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	GEN 5:18 Yaredi lu-aakumaniizie myaka 162, waavyele mwana mwalalume ni kumwinika Enoki,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:19 pa kyamba kya kuvyala Enoki, Yaredi waikeele pa kyalo myaka 800 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	GEN 5:20 Yaredi waafwile wali na myaka 962.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 5:21 Enoki lu-aakumaniizie myaka 65, waavyele mwana mwalalume ni kumwinika Metusela.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:22 Pa kyamba kya kuvyala Metusela, Enoki waendele pamo ni Leza myaka 300, kabili waavyele ni bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 5:23 Enoki waafwile wali na myaka 365.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 5:25 Metusela lu-aakumaniizie myaka 187, waavyele mwana mwalalume ni kumwinika Lameki,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	GEN 5:26 pa kyamba kya kuvyala Lameki, Metusela waikeele pa kyalo myaka 782 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	9	GEN 5:27 Metusela waafwile wali na myaka 969.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	GEN 5:28 Lameki lu-aakumaniizie myaka 182, waavyele mwana mwalalume	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 5:30 Pa kyamba kya kuvyala Noa, Lameki waikeele pa kyalo myaka 595 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 5:31 Lameki waafwile wali na myaka 777.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 5:32 Noa lu-aakumaniizie myaka 500, waavyele Shemu, ni Hamu, ni Yafeti.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 6:3 Yawe waalandile evi, “Mweo wane teukikanzyania na muntu muyayaya pantu wene ni wa kufua. Kutula lelo, myaka yakue teikikaba yakila pa myaka 120.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	GEN 6:15 Ukabe kukita safina ileepele metre 133, ni mu bukata metre 22, ni mu kutuuluka metre lyanondo ni itatu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	GEN 6:16 Ukabe kukitako mutenge ni kusiako mando ali ni santimetre 44. Ukabe kukitamo mpungu itatu yateekaleene yali ni mulyango mumbali,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 7:4 pantu kwasyala nsiku kilooba nkabe kunokia nvula pa kyalo. Ezio nvula yakaba kunoka nsiku 40 busiku ni koba. Nakaba kwinoona bilengua byonse bikose binaalengele pa kyalo.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 7:6 Kyalo lukyaabundile, Noa waali wali na myaka 600.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 7:11 Noa lu-aali na myaka 600, mu mwezi wa bubili pa nsiku lyanondo ni kilooba, menda aabambile kusula na maka mu tusulo. Mu muulu ni mo mwaabambile kwituluka menda.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 7:12 Ezio nvula yaanokele pa kyalo nsiku 40 busiku ni koba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 7:17 Nvula yaatwaliliile kunoka mpaka nsiku 40 busiku ni koba. Menda aizwile pa kyalo mpaka ni safina yabamba kweleela.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 7:24 Menda aasyele aizwile pa kyalo nsiku 150.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 8:3 menda aatwaliliile kuya akama buke buke mpaka nsiku 150.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 8:6 Lupaapitile nsiku 40, Noa waizwile nzota	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	1	GEN 8:13 Noa lu-aakumaniizie myaka 601, mu mwezi wa mambo pa busiku bwa mambo, menda aakamine pa kyalo. Noa waatupukwile ntupiko ya safina, ni kiine wamwene menda akamine.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 8:14 Mu mwezi wa bubili pa nsiku 27, Musili waumine.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 9:28 Pa kyamba kya kibunda, Noa waikeele pa kyalo myaka 350.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 9:29 Noa waafwile wali na myaka 950.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 11:10 Ezi i nvyalo yakua Shemu. Pa kyamba kya kibunda lupaali pasyapitile myaka ibili, Shemu lu-aakumaniizie myaka 100, waavyele mwana mwalalume ni kumwinika Arpakisadi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 11:11 Pa kyamba kya kuvyala Arpakisadi, Shemu waikeele pa kyalo myaka 500 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 11:12 Arpakisadi lu-aakumaniizie myaka 35, waavyele Sela.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	GEN 11:13 Pa kyamba kya kuvyala Sela, Aripakisadi waikeele pa kyalo myaka 403 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 11:14 Sela lu-aakumaniizie myaka 30, waavyele mwana mwalalume ni kumwinika Eberi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	GEN 11:15 Pa kyamba kya kuvyala Eberi, Sela waikeele pa kyalo myaka 403 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	GEN 11:16 Eberi lu-aakumaniizie myaka 34, waavyele Pelegi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 11:17 Pa kyamba kya kuvyala Pelegi, Eberi waikeele pa kyalo myaka 430 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 11:18 Pelegi lu-aakumaniizie myaka 30, waavyele Reu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	9	GEN 11:19 Pa kyamba kya kuvyala Reu, Pelegi waikeele pa kyalo myaka 209 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	GEN 11:20 Reu lu-aakumaniizie myaka 32, waavyele Serugi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 11:21 Pa kyamba kya kuvyala Serugi, Reu waikeele pa kyalo myaka 207 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 11:22 Serugi lu-aakumaniizie myaka 30, waavyele Nahori.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 11:23 Pa kyamba kya kuvyala Nahori, Serugi waikeele pa kyalo myaka 200 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	9	GEN 11:24 Nahori lu-aakumaniizie myaka 29, waavyele Tera.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	9	GEN 11:25 Pa kyamba kya kuvyala Tera, Nahori waikeele pa kyalo myaka 119 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 11:26 Tera lu-aakumaniizie myaka 70, waavyele Abramu, ni Nahori pamo ni Harani.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 11:32 Tera waafwiliile ku Harani wali na myaka 205.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 12:4 Abramu waafumine mu Harani nga mwaalandiile Yawe. Pa ozo musita, Abramu waali wasyali na myaka 75. Loti ni ye waile pamo nakue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	GEN 14:14 Abramu lu-aunvwile nangue mwana mwina mwalawakue akwetue, waakolonghaniizie balalume 318 ba mu nghanda yakue, bantu baali basambiliziiziwe bului. Baile babakonkele mpaka ku Dani.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 15:13 Yawe waamwanine evi, “Nvyalo yobe yaakaba yeni mu kyalo nghwana, kabili baakaba bazia ba bene kyalo, ni bo baakeemiwa na bene kyalo myaka 400.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	6	GEN 16:16 Abramu waali na myaka 86 lu-aavyaliilue Isimaeli na Hagari.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	9	GEN 17:1 Abramu lu-aakumaniizie myaka 99, Yawe waamumonekeele ni kumwana nangue, “Nene ndi Leza wa Maka onse, enda ku ntanzi yane ni kuba wapwililikile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 17:17 Abrahamu waaponene kyuba, waasekele ni kulandila mu mutima nangue, “Ati emwe! Ni kiine muntu wasyali na myaka 100 kuti wavyala ni mwana? Ni Sara ozu asyali na myaka 90 kuti wavyala?”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	9	GEN 17:24 Abrahamu waateetelue yando wasyali na myaka 99.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	GEN 17:25 Mwana wakue Isimaeli ni ye waateetelue yando wasyali na myaka 13.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 18:6 Kupwako, Abrahamu waya lubilo lubilo mu liema ni kumwana Sara nangue, “Ewe, lenga uye uleete kilo 25 ya bunga buwamiisie ulenge ukite mikate.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 18:24 Kine mu muzi muli balunghami 50, wakaba kulovia muzi onse? Teukaba kubeeleela pa mulandu wa babo balunghami 50?	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 18:26 Yawe wa-asukile evi, “Kine naya kusangamo balunghami 50 mu Sodoma, nakaba kweleela muzi onse pa mulandu wabo.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 18:28 Ale kine pabula basaano pa balia balunghami 50, wakaba kulovia muzi onse pantu papusa bantu basaano?” Mulopue wa-asukile evi, “Kine naya kusangamo balunghami 45 nene nsikaba kulovia muzi.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 18:29 Kabili Abrahamu waipuziizie evi, “Ale kine bali sie 40?” Waamwasukile, “Kine bakabe 40, nsikakita kantu pa mulandu wa baba bantu 40.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 18:30 Abrahamu waalandile evi, “We Mulopue, tekufiitua. Ntonene nandepo kabili. Ale kine bali sie balunghami 30?” Waamwasukile, “Nsikakita kantu pa mulandu wa baba bantu 30.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 18:31 Abrahamu waalandile evi, “Natwalilila kulanda na Yawe, ale kine bali sie 20?” Waamwasukile, “Kine bali 20 nene nsikaba kubalovia.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 20:16 Kabili Abimeleki waamwanine Sara nangue, “Mona namupeela ndumezo nfolanga 1,000 kuti iye yali nfuto pa menso a bonse bauli nabo. Ni pakako, teuli na mulandu.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 21:5 Izaaki lu-aavyelue, Abrahamu waali wasyali na myaka 100.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 21:16 ni kuya kwikala pa nkendo imo paleepele mu pepi metre 100 ni kulanda nangue, “Nsitonene kumona kufua kwa mwana wane.” Hagari lu-aali waikeele papo, waatendekele kulila wa-angwile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 23:1 Sara waikeele pa kyalo myaka 127	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 23:15 “We mwinzio, unvua, bobu bukaba kine bwasitua na shekeli 400, kuti byatukitaki nene ni wewe? Ni pakako, ziika sie mukazi obe.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 23:16 Abrahamu waamwitabiizie Efuroni, Abrahamu waamupendeele Efuroni nfolanga i-aalandile ntanzi ya baana bakua Heti shekeli 400 ya mutofue mu kipendo kya basulu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 24:22 Nghamia luyaapwile kumina, ozo mubombi waabuulile kazele ka oro kaali kafinine shekeli mutanda ni bikano bya oro bibili bya ku maboko byaali byafinine shekeli 120.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	GEN 25:7 Myaka yaikeele Abrahamu yaali 175.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 25:17 Myaka yaikeele Isimaeli pa kyalo yaali 137. Waafwile ni kuya kwikala pamo ni babikolue bakue baamutangiliile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 25:20 Izaaki waali na myaka 40 lu-aupile Rebeka mwina Betueli Muamea wa ku Padani-Aramu. Ndumeze kwa Rebeka waali wakuutua Labani.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 25:26 Pa kyamba, wa kwakue waavyelue wakwete ku kasinghino kakua Esau, ni pakako, wainikilue Yakobo. Rebeka lu-aavyele babo bampundu, Izaaki waali wasyali na myaka 60.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 26:12 Izaaki waabyele mbezu mu kekio kyalo, ni ozo mwaka, waazombwele mbezu ingi nghendo 100 kukila elia i-aabyele, pantu Yawe waamupaalile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 26:34 Esau lu-aakumaniizie myaka 40, waupile Bahiti babili, Yuditi mwana mwanakazi mwina Beri, ni Basemati mwana mwanakazi mwina Eloni.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 31:38 Nakiikala nobe myaka 20. Mikooko yobe ao mbuzi yobe teyaapulumwine ata livumo, kabili nsyaaliilepo mpanga wa pa bisepe byobe.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 31:41 Evi i vinaemene myaka yonse 20 naali mu nghanda yobe. Pakuti ungufie baana bobe babili, naakubombeele myaka lyanondo ni ina. Kabili naakubombeele myaka mutanda pakuti un'mpeele bisepe bya nama anzia kine waali wa-alulula alulula sie nsazio yane nghendo yonse lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 32:6 Mikenzi yaizile kubwezia kapingu kuli Yakobo nangue, “Twayanga kuli mukuluubo Esau, ni ye alimukwiza kukupokelela wali ni bantu 400.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 32:14 Waabuulile makota a mbuzi 200 ni tupwata 20 ni mikooko ikota 200 ni mpanga 20,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 32:15 nghamia 30 yaali yaonsia pamo ni twana twabo, nghombe ikota 40 ni nghombe ndume lyanondo, punda ikota 20, ni punda ndume lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 33:1 Yakobo lu-aamumwene Esau walimukwiza pamo ni bantu 400, waalekenkaniizie baana bakue: Lea ni baana bakue, Rakeli ni baana bakue, ni babombi babili banakazi ni baana babo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 33:19 Ezi nkendo i aimikilepo liema, waasitile ku luvyalo lwakua Hamori se kwa Sekemu na shekeli 100 ya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 35:28 Izaaki waikeele pa kyalo myaka 180.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 37:28 Basulu ba Bamidiani lubaali balimukupita lya papo, bakuluube baamufumiizie mu kiina ni kumusisia ku Baisimaeli na nfolanga 20. Babo bantu baamutweme ni kuya nakue ku Misri.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 41:46 Yusufu waali na myaka 30 lu-aabiikilue pa mwilo na Farao, likolo wa ku Misri. Yusufu waafumine kuli Farao ni kuya kwenda mu kyalo kyonse kya Misri.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 45:22 Kubalua muntu waapeelue ngubo ya lenu, inzi Benyamina wene waapeelue ngubo isaano ya lenu ni nfolanga ya mutofue 300.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	GEN 46:15 Babo i bena Lea ba-aamuvyaliile Yakobo ku Padani-Aramu pamo ni Dina mwana mwanakazi. Baana bakue bonse, balalume ni banakazi, baali 33.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	6	GEN 46:26 Bantu baile na Yakobo mu Misri, bantu ba mu luvyalo lwakue pasili kupendako bamuka baana bakue, baali bantu 66.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 46:27 Yusufu lu-aali ku Misri waavyele baana babili balalume. Bantu bonse ba mu luvyalo lwakua Yakobo baile ku Misri baali bantu 70.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 47:9 Yakobo wa-asukile evi, “Ndi sie na myaka 130, kabili naali nakuukakuuka sie. Babikolue bane ni bo baali bakuukakuuka sie. Inzi bene baikeele myaka ingi, kabili ni bwikazi bwabo tebwaali bwabiipile nga bwane.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	GEN 47:28 Yakobo waikeele mu Misri myaka lyanondo ni kilooba. Myaka yonse yaikeele Yakobo pa kyalo yaali 147.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 50:3 Baapwile nsiku 40 bamusuba mafuta akusibola. Bamisri baamulilile nsiku 70.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 50:22 Yusufu waatwaliliile kwikala mu Misri pamo ni lupua lwakua se. Yusufu waafwile wali na myaka 110.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	GEN 50:26 Yusufu waafwile wali na myaka 110. Mubili wakue waasubilue mafuta tekuti ubole, ni pa kyamba, waabiikilue mu lisanduku.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 1:5 Bantu bonse ba mu luvyalo lwakua Yakobo baali 70. Yusufu umo wa pa baana bena Yakobo waali wasyatangiile mu Misri.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EXO 6:16 Bena Lawi ni baba: Gershoni, ni Kohati pamo ni Merari. Lawi waikeele pa kyalo myaka 137.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EXO 6:18 Bena Kohati meena abo ni aza: Amramu, ni Izihari, ni Hebroni pamo ni Uzieli. Kohati waikeele pa kyalo myaka 133.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EXO 6:20 Amramu waupile nghina senge Yokebedi, ozo waamuvyaliile Haruni ni Musa. Amramu waikeele pa kyalo myaka 137.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EXO 7:7 Pa ozo musita ubaalandile ni Farao, Musa waali na myaka 80, ni Haruni waali na myaka 83.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	1	EXO 12:18 Pa busiku bwa lyanondo ni ina ya mwezi wa mambo musita wa kyungulo, i pamwaakaba mwatendekela kulia mikate isiliko ntutumusi mpaka kyungulo kya nsiku 21 ya ozo wenka mwezi wa mambo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 12:37 Baizraeli baafumine paakili ku Ramese ni kuya lwa pansi mpaka ku Sukoti. Mpendua yabo yaali mupepi bantu 600,000 pasili kupendako banakazi ni baana.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 12:40 Baizraeli baikeele mu kyalo kya Misri myaka 430.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 12:41 Ku mpeleezio ya mwaka wa 430, mu bobo bwenka busiku, mabumba a mikowa yonse ya bantu bakua Yawe aafumine mu kyalo kya Misri.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 14:7 Waatweme matyakala 600 awamiisie mu Misri. Kubalua tyakala mwaali mwali mukulu ni balukale besapiile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 15:27 Pa kyamba kya kufuma pa Mara, Baizraeli baile kufika ku Elimu, koko kwaali tusulo lyanondo ni tubili twa menda ni bimuti 70 bya bikoma. Koko i kubaakuulile mitanda yabo pepi ni menda.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 16:35 Ni pakako, Baizraeli baaliile maana mu myaka 40, mpaka musita ubaile kufika mu kyalo kibaile kwikalamo. Baaliile maana mpaka kuya kufika ku mipaka ya kyalo kya Kanaani.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 18:21 Inzi saakulapo bantu ba maano, bantu ba kisinka, bantu balibamukindika Leza pamo ni basuulile bituulilo. Usaakulepo banombozi ba mabumba a bantu 1,000, ni a bantu 100, ni a bantu 50, pamo ni a bantu lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 18:25 Musa waasaakwile bantu ba maano mu Baizraeli bonse ni kubabiika kuba banombozi ba bantu. Waababiikile kuba banombozi ba mabumba a bantu 1,000, ni a bantu 100, ni a bantu 50, pamo ni a bantu lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 21:32 Kine nghombe ndume waipaya muzia mwalalume ao mwanakazi na masengo, mwine wa nghombe amufute mwine wa muzia na shekeli 30 ya mutofue, nghombe ndume ni ye alikwipawa na kutootua mabue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 24:1 Pa kyamba, Yawe waamwanine Musa nangue, “Mutwame Haruni, ni Nadabu, ni Abihu pamo ni masiiko 70 a Baizraeli usele nabo kono ku lupili, evi mwize mun'mpupe mwaliko lwa kule.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 24:9 Kabili Musa ni Haruni, ni Nadabu, ni Abihu pamo ni masiiko 70 a Baizraeli, baaselele ku lupili.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 24:18 Ni pakako, Musa waingiile mu lilezi ni kutwalilila kusela peulu lupili. Musa waikeele ku lupili nsiku 40 busiku ni koba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 25:10 “Baane bakakite lisanduku lya mbao ya kimuti kya kasiiya. Likabe lyaleepele metre imo ni santimetre 25, mu bukata likabe lyatanine santimetre 75, ni mu kutuuluka likabe lyatuulukile santimetre 75,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 25:17 “Bakakite ntupiko ya oro isambikile. Ezio ntupiko ikabe yaleepele metre imo ni santimetre 25, ni mu bukata santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 25:23 “Bakakite meza ya kimuti kya kasiiya ileepele metre imo ni mu bukata yatanine santimetre 50, ni mu kutuuluka ikabe yatuulukile santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 25:39 Bakakite kya kuteekapo matala pamo ni bibombelo byonse na kilo 35 ya oro isambikile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:5 Bakakite mikobelo 50 ku kipempe kimo, ni inge mikobelo 50 ku kipempe kinge. Ezio mikobelo ikabe yakenteene.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:6 Bakabiike bikobo 50 bya oro bya kulundania kumo bipempe bibili pakuti Tabernakulo ikabe kintu kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:10 Bakakite mikobelo 50 lya ku mpeleezio ya kipempe kimo, ni inge mikobelo 50 lya ku mpeleezio ya kipempe kinge.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:11 Kabili bakakite bikobo 50 bya mukuba ni kwingiziamo mikobelo pakuti bipempe bikabe byalundeene, evi Tabernakulo ikabe kintu kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:13 Kiputu kya kipempe kyaakasyalako mu kuleepa, kelia kyaakaba kyali santimetre 50 ku bwala bumo, ni ku bunge bwala santimetre 50, i kyaakaba kyakupiliile Tabernakulo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 26:16 Kubalua lubao lukabe lwaleepele metre isaano, kabili lukabe lwatanine santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:18 Bakakite mbao 20 lya ku nkungulua ya Tabernakulo,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:19 ni kukita bintu 40 bya mutofue bya kwimikuamo mbao 20. Mu bintu bibili mukabe mwaimikua matui abili a lubao lumo, ni mu binge bibili ni mo evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:20 Ni ku bunge bwala bwa Tabernakulo, lya ku nkungua ni ko kukabe mbao 20,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 26:21 ni bintu 40 bya mutofue bya kwimikuamo. Bya kwimikuamo bibili ni byo mukengiziiwe matui abili a lubao lumo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 27:9 “Kabili bakakite musolo wa Tabernakulo. Ku lubali lwa ku nkungulua bakakite luuba lwa kipempe kya kitani kiweme kipyatilue. Kekio kipempe kikabe kyaleepele metre 50 bwala bumo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 27:10 Bakakite mapumpu 20 ni bintu bya kwimikuamo 20 bya mukuba, bikobo bya ku mapumpu ni mikobelo yakue bikabe bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 27:11 Ku lubali lwa ku nkungua ni ko bakakiteko evio vyenka. Kukabe kipempe kya kitani kileepele metre 50, ni mapumpu akue 20, ni bintu bya kwimikuamo 20 bya mukuba. Bikobo bya ku mapumpu ni mikobelo yakue bikabe bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 27:12 Lya ku mboosi kukabe luuba lwa kipempe kileepele metre 25, kukabe mapumpu lyanondo ni bya kwimikuamo lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 27:13 Bukata bwa musolo lya ku kabanga kukabe metre 25 mu bukata.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 27:18 Ozo musolo ukabe waleepele metre 50, ni mu bukata ukabe watanine metre 25 kubalua lubali. Luuba lwa musolo lukabe lwaatuulukile metre ibili ni kitika. Lukabe lwali lwa kitani kiweme kipyatilue, ni bya kwimikuamo bikabe bya mukuba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 28:16 Ozo mufuko ukapimpuemo limo walingheene monse monse. Mu kuleepa ni mu bukata ukabe wali na santimetre 25.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 30:2 Ukakite kyalingheene monse monse, kikabe kyali na santimetre 50 mu kuleepa ni mu bukata. Mu kutuuluka kikabe kyali metre imo. Bintu bituulukile nga masengo bikabe byalundeene na kitale.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 30:14 Kubalua muntu wa mu balia baakaba bapendua ali na myaka 20 ni kukilapo, i waakaba wafumia bobo bupe bwakua Yawe.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 32:28 Balawi baakitile muba-aniinue na Musa. Bobo busiku baipaile bantu mu pepi 3,000.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 34:28 Musa waikeele ku Lupili lwa Sinai pamo ni Yawe nsiku 40 busiku ni koba pasili kulia bilio ao kumina menda. Ni Yawe waalembele milao lyanondo pa bebio bibazu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:11 Waabiikile mikobelo 50 ya nyunzi ya mukumino wa lyulu kupela lya kunze ya kipempe, ni ku kinge kipempe waakitile evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:12 Mikobelo 50 ya ku kipempe kimo yaali yakenteene na mikobelo 50 ya ku kipempe kinge.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:13 Kabili waakitile tukobo 50 twa oro twa kulundaniiziako bebio bipempe bibili pakuti Tabernakulo ibe kintu kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:17 Waabiikile mikobelo 50 kupela lya kunze ya kipempe, ni ku kinge kipempe waakitile evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:18 Waakitile tukobo 50 twa kulundaniiziako bipempe bibili pakuti kiye kyali kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 36:21 Lubao lumo lwaali lwaleepele metre isaano, ni mu bukata lwaali lwatanine santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:23 Waakitile mbao 20 ya ku Tabernakulo lya ku nkungulua,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:24 Kabili waakitile bintu 40 bya mutofue bya kwimikuamo mbao 20. Mu bintu bibili bya kwimikuamo, mwaimikilue lubao lumo lwa matui abili, ni mu binge bibili ni mo evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:25 Ku bunge bwala bwa liema lya ku nkungua, waakitileko mbao 20,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 36:26 ni bintu 40 bya mutofue bya kwimikuamo. Mu bintu bibili bya kwimikuamo, mwaimikilue lubao lumo, ni mu binge bibili ni mo evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 37:1 Besaleli waakitile Lisanduku lya Kipingo lya mbao ya kimuti kya kasiiya. Lyaali lyaleepele metre imo ni santimetre 25, mu bukata lyaali lyatanine santimetre 75, ni mu kutuuluka lyaali lyatuulukile santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 37:6 Waakitile ntupiko ya oro isambikile. Ezio ntupiko yaali yaleepele metre imo ni santimetre 25, ni mu bukata santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 37:10 Waakitile meza ya kimuti kya kasiiya yaali yaleepele metre imo ni mu bukata yatanine santimetre 50, ni mu kutuuluka yaali yatuulukile santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 37:24 Waakitile kya kuteekapo matala pamo ni bibombelo byonse na kilo 35 ya oro isambikile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 37:25 Waakitile kitale kya kimuti kya kasiiya kya kufunkiiziapo bubaani. Waakitile kyalingheene monse monse, kyaali kyali na santimetre 50 mu kuleepa ni mu bukata. Mu kutuuluka kyaali metre imo. Bintu bituulukile nga masengo byaali byalundeene na kitale.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 38:9 Besaleli waakitile musolo wa Tabernakulo. Ku lubali lwa ku nkungulua waakitile luuba lwa kipempe kya kitani kiweme kipyatilue. Kekio kipempe kyaali kyaleepele metre 50.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 38:10 Waakitile mapumpu 20 ni bintu bya kwimikuamo 20 bya mukuba, bikobo bya ku mapumpu ni mikobelo yakue byaali bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 38:11 Ku lubali lwa ku nkungua ni ko kwaali kipempe kyaali kyaleepele metre 50, ni mapumpu akue 20, ni bintu bya kwimikuamo 20 bya mukuba. Bikobo bya ku mapumpu ni mikobelo yakue byaali bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 38:12 Lya ku mboosi kwaali luuba lwa kipempe kyaali kyaleepele metre 25, ni mapumpu akue lyanondo, ni bya kwimikuamo lyanondo. Bikobo byakue ni mikobelo yakue byaali bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 38:13 Lya ku kabanga mu bukata kwaali metre 25.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 38:24 Oro yonse yaabombiiziwe ku mwilo wa ku kifuka kizuuke, yaali kilemo kya kilo 877 ni grama 300 kukonkana ni kalingo ka mu kifuka kizuuke.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 38:25 Mutofue waaleetelue na libumba waali kilemo kya kilo 3,017 ni grama 750 kukonkana ni kalingo ka mu kifuka kizuuke.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 38:26 Kubalua mwalalume waali na myaka kubambila pa 20 ni kukilapo, waali wafumia nfolanga grama isaano yaali yalombua. Mpendua ya balalume baapendelue yaali 603,550.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 38:27 Mutofue waali wafinine kilo 3,000 waasungulwilue kuti ikituemo bya kwimikuamo 100 bya ku kifuka kizuuke, ni bya ku kekio kipempe. I kulanda nangue kilo 30 ku kya kwimikuamo kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EXO 38:28 Waakitile bikobo bya ku mapumpu ni bya kukupa peulu mapumpu pamo ni mikobelo. Bebio bintu byaali na kilemo kya kilo 17 ni grama 750 yaasyelepo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	EXO 38:29 Bupe bonse bwa mukuba bwaafumiizie Baizareli bwaali bwafinine kilo 2,124.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EXO 39:9 Ozo mufuko waali wapimpiluemo limo walingheene monse monse. Mu kuleepa ni mu bukata waali wali na santimetre 25.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	RUT 2:17 Ni pakako, Rutu waasolwele nghano mu bukaba mpaka kyungulo. Lu-aapuulile, wauluziizie mupepi kilo 22 ya nghano.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	RUT 3:15 Boazi waamwanine evi, “Leeta ngubo i-uvwele u-ipanzike papa.” Ni ye waapanzikile. Boazi waamupongweleelepo nghano kukila pa kilo 20 ni kumutwika. Kupwako, Rutu waya ku muzi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	9	EZR 1:9 Mpendua ya bintu ni ezi: Masaani 30 akata a oro, masaani 1,000 akata a mutofue, myele 29,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 1:10 bibakuli 30 bya oro, bibakuli bya mutofue bikonkelepo pa bukindami 410, ni bintu binge 1,000.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 1:11 Bintu byonse bya oro ni bya mutofue pamo ni binge bintu, byaali 5,400. Bebi byonse Sesebasari waabitwele lolia lwaabweziiziwe balia baali bafuma ku Babeli balimukuya ku Yeruzalemu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:3 Baana balalume bena Parosi baali 2,172.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:4 Baana balalume bena Sefatia baali 372.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EZR 2:5 Baana balalume bena Ara baali 775.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:6 Baana balalume bena Phati-Moabu, benzikulu bakua Yeshua ni Yoabu, baali 2,812.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	EZR 2:7 Baana balalume bena Elamu baali 1,254.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EZR 2:8 Baana balalume bena Zatu baali 945.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 2:9 Baana balalume bena Zakai baali 760.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:10 Baana balalume bena Bani baali 642.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EZR 2:11 Baana balalume bena Bebai baali 623.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:12 Baana balalume bena Agzadi baali 1,222.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	6	EZR 2:13 Baana balalume bena Adonikamu baali 666.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	6	EZR 2:14 Baana balalume ba mu luvyalo lwakua Bigwai baali 2,056.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	EZR 2:15 Baana balalume bena Adini baali 454.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	EZR 2:16 Baana balalume bena Ateri, benzikulu bakua Hezekia, baali 98.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EZR 2:17 Baana balalume bena Besai baali 323.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:18 Baana balalume bena Yora baali 112.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EZR 2:19 Baana balalume bena Hasumu baali 223.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EZR 2:20 Baana balalume bena Gibari baali 95.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EZR 2:21 Baana balalume ba ku Betlehemu baali 123.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	6	EZR 2:22 Baana balalume ba ku Netofa baali 56.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	EZR 2:23 Baana balalume ba ku Anatoti baali 128.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:24 Baana balalume ba ku Azimaweti baali 42.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EZR 2:25 Baana balalume ba ku Kiriati-Arimu, Kefira, ni Beroti, baali 743.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	1	EZR 2:26 Baana balalume ba ku Rama ni Geba baali 621.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:27 Baana balalume ba ku Mikimasi baali 122.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EZR 2:28 Baana balalume ba ku Beteli ni ku Ai baali 223.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:29 Baana balalume ba ku Nebo baali 52.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	6	EZR 2:30 Baana balalume ba ku Magibisi baali 156.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	EZR 2:31 Baana balalume ba ku Eleamu unge baali 1,254.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 2:32 Baana balalume ba ku Harimu baali 320.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EZR 2:33 Baana balalume ba ku Lodi, ni ku Adidi, ni ku Ono, baali 725.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EZR 2:34 Baana balalume ba ku Yeriko baali 345.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 2:35 Baana balalume ba ku Sena baali 3,630.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	EZR 2:36 Nvyalo ya babitambua bena Yedaia, wa mu nghanda yakua Yeshua, baali 973.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:37 Baana balalume bena Imeri baali 1,052.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EZR 2:38 Baana balalume bena Pashuri baali 1,247.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EZR 2:39 Baana balalume bena Harimu baali 1,017.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	EZR 2:40 Nvyalo ya Balawi baabwelele kufuma mu buzia ni ezi: Baana balalume bena Yeshua ni Kadimieli, benzikulu bakua Hodavia, baali 74.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	EZR 2:41 Nvyalo ya bakemba, baana balalume bena Asafu, baali 128.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	9	EZR 2:42 Nvyalo ya baana balalume bena bakalinda ba pa mulyango wa Nghanda yakua Leza, bena Salumu, ni bena Ateri, ni bena Talumoni, ni bena Akubu, ni bena Hatita, ni bena Sobai, bonse pamo baali 139.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:58 Nvyalo ya babombi ba mu Nghanda yakua Leza, ni baana balalume bena babombi bakua Solomoni, baali 392.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	EZR 2:60 Nvyalo ya baana balalume bena Delaia, ni bena Tobia, ni bena Nekoda, baali 652.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 2:64 Bantu bonse baabwelele kufuma mu buzia baali 42,360	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 2:65 pasili kupendako babombi babo balalume ni banakazi baali 7,337, momo mwaali ni bakemba balalume ni banakazi 200.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EZR 2:66 Bafarasi babo baali 736 ni nyumbu twaali 245.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 2:67 Nghamia yabo yaali 435 bapunda baali 6,720.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 2:69 Baapeele mwaali mwabeeleele buvinde bwabo, ni mu kipao baabiikilemo kilo 500 ya oro, ni kilo 2,800 ya mutofue, pamo ni nkanzu 100 ya babitambua.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 3:8 Kupwako, mu mwezi wa bubili wa mu mwaka wa bubili lubaabweleele ku Nghanda yakua Leza ya mu Yeruzalemu, Zerubabeli mwina Shealtieli, ni Yoshua mwina Yozadaki, baabambile kubomba pamo ni ba kwabo, ni babitambua, ni Balawi babaafumine nabo mu buzia ni kubwelela ku Yeruzalemu. Baasaakwile Balawi baali bali na myaka kutendekela pa 20 ni mpuzio kuti baye bali bemanizi ba mwilo wa Nghanda yakua Yawe.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EZR 6:3 Likolo Kiro mu kuteeka kwakue kwa mwaka wa mambo, waapeene nsambu palua Nganda yakua Leza ya mu Yeruzalemu kuti ikuulue paakale pa nkendo payaali yakuulilue kuti ibe nkendo ya kwelelapo ngelelo ya kuzizia. Mu kutuuluka iye yali metre 27, ni mu kutana iye yali metre 27.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 6:17 Pa kuzuukia Nghanda yakua Leza, baafumiizie bupe bwa nghombe 100, ni mpanga 200, ni mpanga misoka 400, ni palua ngelelo ya bibalo bya Baizraeli, baafumiizie bupe bwa tupwata lyanondo ni tubili, nga mubeeleele mikowa lyanondo ni ibili ya Baizraeli.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 7:22 mu kalingo ka talanta kilo 3,400 ya mutofue, ni kilo 10,000 ya nghano, ni litre 22,000 ya divai, ni litre 22,000 ya mafuta a mizeituni, pamo ni mukele wingi nga vi-ali waakalomba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:3 Bantu ba mu luvyalo lwakua Sekania, ni Parosi pamo ni Zakaria, mpendua yabo baali balalume 150.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:4 Bantu ba mu luvyalo lwakua Pahati-Moabu: Elioenai mwina Zerahia, waali wali pamo ni balalume 200.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:5 Bantu ba mu luvyalo lwakua Zatu, ni Sekania mwina Yahasieli, mpendua yabo baali balalume 300.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:6 Bantu ba mu luvyalo lwakua Adini, ni Ebedi mwina Yonatana, mpendua yabo baali balalume 50.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:7 Bantu ba mu luvyalo lwakua Elamu, ni Yesaia mwina Atalia, mpendua yabo baali balalume 70.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:8 Bantu ba mu luvyalo lwakua Sefatia, ni Zebadia mwina Mikaeli, mpendua yabo baali balalume 80.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	EZR 8:9 Bantu ba mu luvyalo lwakua Yoabu, ni Obadia mwina Yehieli, mpendua yabo baali balalume 218.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:10 Bantu ba mu luvyalo lwakua Selomiti mwina Yosifia ni wa mu luvyalo lwakua Bani, mpendua yabo baali balalume 160.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	EZR 8:11 Bantu ba mu luvyalo lwakua Bebai ni Zakaria mwina Bebai, mpendua yabo baali balalume 28.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:12 Bantu ba mu luvyalo lwakua Azgadi, ni Yohana mwina Hakatani, mpendua yabo baali balalume 110.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:13 Bantu ba mu luvyalo lwakua Adonikamu, lwaali lwa mpeleezio, meena abo ni aza: Elifeleti, Yueli, ni Semaia, mpendua yabo baali balalume 60.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:14 Bantu ba mu luvyalo lwakua Bigwai, ni Utai mwina Zakuri, mpendua yabo baali balalume 70.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:19 Kabili baatutumiine ni linge libumba lyaali lyalombwelue na Hasabia ni Yesaia ba mu luvyalo lwakua Merari, ni lupua lwabo pamo ni baana babo. Bonse pamo baali 20.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:20 Baizile pamo ni babombi 220 baasaakwilue na Daudi ni masiiko kuti bakwasie miilo ya mu Nghanda yakua Leza. Ni meena abo amanikile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 8:26 Naabapiimiine talanta kilo 22,000 ya mutofue, ni bibombelo bya mutofue talanta 3,400, ni bya oro talanta 3,400,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EZR 8:27 ni bibakuli bya oro 20 byaali byafinine diriki kilo 8.5, ni bibombelo bibili bya mukuba bikindeeme byaali byabeeka nga oro.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EZR 8:35 Bonse baabwelele kufuma mu buzia, baamweleele Leza wa Baizraeli ngelelo ya kuziziiwa, nghombe ndume lyanondo ni ibili mubeleele mikowa ya Baizraeli, mpanga 96, twina mikooko 77, tupwata lyanondo ni tubili twa ngelelo ya bibalo. Bebi bintu byonse, byaali ngelelo ya kuziziiwa yakua Yawe.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EZR 10:9 Bantu bonse ba mu mukowa wakua Yuda ni wakua Benyamina, baakolongheene mu Yeruzalemu mu ezio nsiku itatu, ozo waali mwezi wa fundi pa nsiku 20 ya mwezi, ni bantu bonse baikeele pa kifuka kya pa musolo wa Nghanda yakua Leza balimukututuma na mwezo wa ezi milandu, kabili pantu kwaali ni nvula ikata.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 1:1 Totu i twebo twakua Nehemia mwina Hakalia. Lunaali mu Susani muzi ukata wa kyalo, mu mwezi wa Kisileu mu mwaka wa 20 mu kuteeka kwakua Artasasta,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 2:1 Mu mwezi wa Nisani, mu mwaka wa 20 mu kuteeka kwakua likolo Artasasta lu-aaleeteelue divai, naipokeleele ni kumutwalila likolo. Pa ozo musita naali nsinamonekepo wa bulanda ku menso akue, inga sie bobo bwenka busiku.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 3:13 Hanuni, pamo ni bekazi ba mu Zanoa, i baakuulile paakale mulyango wa lulambe. Baukuulile ni kubiikamo mulyango, ni byela pamo ni minkolonto, ni kulundako metre 450 mu kuleepa kwa kibumba mpaka pa mulyango wa kizyalala.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 5:14 Kabili kutula sie lunaabiikilue kuba mulombozi wa mu kyalo kyakua Yuda, kutendeka mu mwaka wa 20 mpaka mu mwaka wa 32 mu kuteeka kwakua likolo Artasasta, nene ni lupua lwane twaapwile myaka lyanondo ni ibili, pasili kulia bilio bya bandabukizi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 5:15 Inzi bandabukizi bantangiliile, baali babiibikizia bantu ni kubapoka bilio ni bya kumina, kukila shekeli 40 ya nfolanga ya bityele, ku mpeleezio, babombi babo ni bo baatendekele kubiibikizia bantu, inzi nene nsyakikita evio pantu ndinatiina Leza.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 5:17 Ku meza yane kwaali kwaiza kulia bantu 150, Bayuda ni bakateeka, kubiikapo ni balia baafumine ku byalo byaali byatuzyungulukiile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	NEH 6:15 Kibumba kyaakuulilue nsiku 52, ni kyo kyaapwile pa nsiku 25 ya mwezi wa Eluli.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:8 Bena Parosi baali 2,172.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:9 Bena Sefatia baali 372.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:10 Bena Ara baali 652.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:11 Bena Pahati-Moabu, bena Yeshua ni Yoabu, baali 2,818.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	NEH 7:12 Bena Elamu baali 1,254.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	NEH 7:13 Bena Zatu baali 845.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 7:14 Bena Zakai baali 760.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:15 Bena Binui baali 648.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:16 Bena Bebai baali 628.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:17 Bena Azgadi baali 2,322.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	NEH 7:18 Bena Adonikamu baali 667.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	NEH 7:19 Bena Bigwai baali 2,067.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	NEH 7:20 Bena Adini baali 655.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:21 Bena Ateri, benzikulu bakua Hezekia, baali 98.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:22 Bena Hasumu baali 328.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	NEH 7:23 Bena Besai baali 324.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:24 Bena Harifu baali 112.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	NEH 7:25 Bena Gibeoni baali 95.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:26 Bantu ba ku Betlehemu, ni ba ku Netofa baali 188.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:27 Bantu ba ku Anatoti baali 128.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:28 Bantu ba ku Beti-Asimaweti, baali 42.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	NEH 7:29 Bantu ba ku Kiriati-Yearimu, ni ba ku Kefira, ni ba ku Beroti, baali 743.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	1	NEH 7:30 Bantu ba ku Rama, ni ba ku Geba, baali 621.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:31 Bantu ba ku Mikimasi baali 122.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	NEH 7:32 Bantu ba ku Beteli, ni ba ku Ai baali 123.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:33 Bantu ba ku muzi unge wa Nebo baali 52.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	NEH 7:34 Bantu ba ku muzi unge wa Elamu baali 1,254.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 7:35 Bena Harimu baali 320.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	NEH 7:36 Bantu ba ku Yeriko baali 345.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	1	NEH 7:37 Bantu ba ku Lodi, ni ba ku Hadidi, pamo ni ba ku Ono, baali 721.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 7:38 Bena Sena baali 3,930.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	3	NEH 7:39 Babitambua, bena Yedaia, ba mu nghanda yakua Yeshua, baali 973.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:40 Bena Imeri baali 1,052.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	NEH 7:41 Bena Pasuri baali 1,247.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	NEH 7:42 Bena Harimu baali 1,017.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	NEH 7:43 Balawi, bena Yeshua i kulanda nangue Kadimieli, pamo ni bena Hodavia baali 74.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:44 Bakemba, bena Asafu baali 148.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 7:45 Bakalinda ba pa mulyango, ni bena Salumu, ni bena Ateri, ni bena Talmoni, ni bena Akubu, ni bena Hatita, pamo ni bena Sobai, baali 138.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:60 Babombi bonse ba mu Nghanda yakua Leza pamo ni bena Solomoni, baali 392.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 7:62 Bena Delaia, ni bena Tobia, ni bena Nekoda, baali 642.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 7:66 Bantu bonse pamo, baali 42,360.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	NEH 7:67 Babombi babo, balalume ni banakazi, baali 7,337. Bakemba balalume ni banakazi baali 245.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	NEH 7:68 Bafarasi babo baali 736. Nyumbu 245.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 7:69 Nghamia yabo yaali 435. Punda yabo yaali 6,720.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 7:70 Bamasiiko bamo ba mu basibo, baafumiizie bunonsi bwabo pa mulandu wa ezi miilo. Tirshata waafumiizie mu kipao darkoni 1,000 ya oro, bibakuli 50, bya kuvwala babitambua 530.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 7:71 Bange bamasiiko ba mu basibo baabiikile mu bukonto bwa miilo, darkoni 20,000 ya oro, ni manemane 2,200 ya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	NEH 7:72 Ni bantu baasyelepo, baafumiizie darkoni 20,000 ya oro, ni manemane 2,000 ya mutofue, ni bya kuvwala 67 bya babitambua.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	NEH 9:1 Mu ozo mwezi pa nsiku 24 Baizraeli baakolongheene ni kuizilika bilio bavwele masaaka, ni kuya baipuupile bulongo ku mitue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	NEH 9:21 Ee, pa myaka 40, waali wabateekamaniizie mu kaseeba, Kabili tebaabulilue kantu. Ngubo yabo teyaazabukile, Ni makasa abo teavimbile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 11:6 Baana balalume bena Peresi baali baikeele mu Yeruzalemu, baali babipami 468.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 11:8 Ni pa kyamba kyakue kwaali, Gabai, ni Salai. Bonse pamo baali balalume 928.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 11:12 ni ba mu mukowa wabo baali babombela mu Nghanda yakua Leza baali bali balalume 822: Adaia mwina Yerobohamu, Yerobohamu mwina Pasuri, Pasuri mwina Malkia,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 11:13 ni ba mu mukowa wabo, ni masiiko a basibo, baali 242, ni Amasai mwina Azarieli, Azarieli mwina Azai, Azai mwina Mesilomoti, Mesilomoti mwina Imeri,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	8	NEH 11:14 ni babipami ba mu mukowa wabo bali ni buvinde, bonse pamo baali 128, ni mulombozi wabo waali Zabdieli mwina Hagedolimu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	4	NEH 11:18 Balawi ba mu muzi uzuuke, bonse pamo baali 284.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 11:19 Akubu, Talmoni, ni ba kwabo. Bakalinda ba pa milyango bonse pamo baali balalume 172.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	2	NEH 13:6 Pa ozo musita onse waali wakitika bebio, ne nsyaali ku Yeruzalemu, pantu mu mwaka wa 32 mu kuteeka kwakua Artasasta likolo wa ku Babeli, naabwelele kuli likolo. Pa kyamba naalombele nsambu kuli likolo	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EST 1:1 Ahasuero lu-aali likolo, waateekele biputu bya kyalo 127. Waateekele kutendekela ku India mpaka ku Kushi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EST 1:4 Mu nsiku 180, waali wabalangisia bunonsi bwa mu bukolo bwakue pamo ni bulumba ni mukinzi wakue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EST 5:14 Zereshi mukazi wakue pamo ni babibuza bakue bonse baamwanine Hamani nangue, “Tuma bantu bateanie kimuti kileepele metre 25, ni lukeele lukeelekeele ukabe kumwana likolo nangue Mordekai akulikueko, evi ukaye wawamiinue pamo ni likolo ku matebeto.” Hamani waawamiinue na kako keebo, ni kutuma bantu bateanie kekio kimuti.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	EST 7:9 Harbona umo wa pa babombi bamasai bakua likolo waalandile evi, “Mu nghanda mwa Hamani muli ni kimuti kileepele metre 25 ki-akiteania kumukulikako Mordekai waalandile twebo twa kupususia likolo.” Likolo waalandile evi, “Mukulikeko ye mwine.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EST 8:9 Pa busiku bwa 23 mu mwezi wa butatu, i mwezi wa Siwani, bakalemba bakua likolo baakuutilue kuli Mordekai kuti balembele Bayuda ni ndabukizi ya biputu bya kyalo 127 kufuma ku India mpaka ku Kushi. Kubalua kiputu kya kyalo kyaalembeelue mubeeleele nembelo yabo, kubalua bantu baalembeelue mu lulimi lwabo. Bayuda ni bo baalembeelue mubeeleele nembelo yabo ni mu lulimi lwabo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EST 9:6 Ni mu Susani, Bayuda baipailemo balalume 500.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EST 9:12 Likolo waamwanine nabeeza Esta nangue, “Bayuda baipaya bantu 500 ni baana lyanondo bena Hamani mono mu Susani. Paliibufi mu binge biputu bya kyalo. Nghane kinge kiwakeba ukitilue. Nghane kiutonene kulomba upeelue.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EST 9:15 Kabili Bayuda baakolongheene busiku bwa lyanondo ni ina ya mwezi wa Adari ni kwipaya bantu 300 mu Susani, inzi tebaatweme bintu bya balwani babo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	EST 9:16 Ni Bayuda bange baali mu binge biputu bya kyalo baakolongheene kuti bekingilile ku balwani babo evi babe ni mutende. Baba ni bo baipaile bantu 75,000, inzi tebaatweme bintu bya balwani babo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	7	EST 9:30 Lupapulo lwaalembelue ni kutwalua ku Bayuda bonse mu biputu bya kyalo 127 bya mu bukolo bwakua likolo Ahasuero. Mu lupapulo mwaali twebo twa mutende ni twa kisinka,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	PRO 17:10 Kusasililua kulikwapokelelua mu mutima wa olia ali ni maano, kukila nfimbo 100 ku kipuba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	PRO 22:20 Eba, nsikulembeele bulanzi 30, bulanzi bwa nsokezi ni bwa maano,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	5	HOS 3:2 Ni pakako, naamusitile paakale na shekeli lyanondo ni isaano ya mutofue, ni kilo 195 ya shairi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	AMO 2:10 Naamifumiizie mu kyalo kya Misri, ni kumilombola mu kaseeba myaka 40, kuti n'mipeele kyalo kya Ba-amori.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	AMO 5:3 Yawe Kabezia Mpungu wa-ana Baizraeli nangue, “Muzi waakatuma balukale 1,000 ku bului, kwaakabwela sie balukale 100. Muzi waakatuma balukale 100 ku bului, kwaakabwela sie balukale lyanondo.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	AMO 5:25 “Kubako mwe Baizraeli, mwandeeteele ngelelo ni bupe mu kaseeba mu elia myaka 40?	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	JON 3:4 Yona waingiile mu muzi ni kwendamo busiku bumo walimukupunda walanda nangue, “Pa kyamba kya nsiku 40, we Ninawe wakaba kuloviiwa!”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	0	JON 4:11 Eba, ale nene i alikwandua kunvwila nkumbu muzi ukata wa Ninawe ulimo bantu bengi kukila pa 120,000 basili na buvinde bwa kwinika biweme ni bibiipile, kabili mwali ni nama ingi iteekelue?”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Source	count	335	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	77	001-GEN-004-024 Kaini kine waakalandwilua nghendo kilooba, Lameki waakalandwilua nghendo 77.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Adamu lu-aakumaniizie myaka 130, waavyele mwana mwalalume mu lukebu lwakue, wapaleene nakue ni kumwinika Seti.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	800	001-GEN-005-004 Pa kyamba kya kuvyala Seti, Adamu waikeele pa kyalo myaka 800 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	930	001-GEN-005-005 Adamu waafwile wali na myaka 930.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	105	001-GEN-005-006 Seti lu-aakumaniizie myaka 105, waavyele mwana mwalalume ni kumwinika Enoshi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	807	001-GEN-005-007 Pa kyamba kya kuvyala Enoshi, Seti waikeele pa kyalo myaka 807 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	912	001-GEN-005-008 Seti waafwile wali na myaka 912.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Enoshi lu-aakumaniizie myaka 90, waavyele mwana mwalalume ni kumwinika Kenani,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	815	001-GEN-005-010 pa kyamba kya kuvyala Kenani, Enoshi waikeele pa kyalo myaka 815 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Enoshi waafwile wali na myaka 905.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Kenani lu-aakumaniizie myaka 70, waavyele mwana mwalalume ni kumwinika Mahalaleli.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Pa kyamba kya kuvyala Mahalaleli, Kenani waikeele pa kyalo myaka 840 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Kenani waafwile wali na myaka 910.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Mahalaleli lu-aakumaniizie myaka 65, waavyele mwana mwalalume ni kumwinika Yaredi,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	830	001-GEN-005-016 pa kyamba kya kuvyala Yaredi, Mahalaleli waikeele pa kyalo myaka 830 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Mahalaleli waafwile wali na myaka 895.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Yaredi lu-aakumaniizie myaka 162, waavyele mwana mwalalume ni kumwinika Enoki,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	800	001-GEN-005-019 pa kyamba kya kuvyala Enoki, Yaredi waikeele pa kyalo myaka 800 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Yaredi waafwile wali na myaka 962.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Enoki lu-aakumaniizie myaka 65, waavyele mwana mwalalume ni kumwinika Metusela.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	300	001-GEN-005-022 Pa kyamba kya kuvyala Metusela, Enoki waendele pamo ni Leza myaka 300, kabili waavyele ni bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Enoki waafwile wali na myaka 365.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Metusela lu-aakumaniizie myaka 187, waavyele mwana mwalalume ni kumwinika Lameki,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	782	001-GEN-005-026 pa kyamba kya kuvyala Lameki, Metusela waikeele pa kyalo myaka 782 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Metusela waafwile wali na myaka 969.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Lameki lu-aakumaniizie myaka 182, waavyele mwana mwalalume	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Pa kyamba kya kuvyala Noa, Lameki waikeele pa kyalo myaka 595 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Lameki waafwile wali na myaka 777.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	500	001-GEN-005-032 Noa lu-aakumaniizie myaka 500, waavyele Shemu, ni Hamu, ni Yafeti.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	120	001-GEN-006-003 Yawe waalandile evi, “Mweo wane teukikanzyania na muntu muyayaya pantu wene ni wa kufua. Kutula lelo, myaka yakue teikikaba yakila pa myaka 120.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	133	001-GEN-006-015 Ukabe kukita safina ileepele metre 133, ni mu bukata metre 22, ni mu kutuuluka metre lyanondo ni itatu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	44	001-GEN-006-016 Ukabe kukitako mutenge ni kusiako mando ali ni santimetre 44. Ukabe kukitamo mpungu itatu yateekaleene yali ni mulyango mumbali,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	001-GEN-007-004 pantu kwasyala nsiku kilooba nkabe kunokia nvula pa kyalo. Ezio nvula yakaba kunoka nsiku 40 busiku ni koba. Nakaba kwinoona bilengua byonse bikose binaalengele pa kyalo.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	600	001-GEN-007-006 Kyalo lukyaabundile, Noa waali wali na myaka 600.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	600	001-GEN-007-011 Noa lu-aali na myaka 600, mu mwezi wa bubili pa nsiku lyanondo ni kilooba, menda aabambile kusula na maka mu tusulo. Mu muulu ni mo mwaabambile kwituluka menda.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	001-GEN-007-012 Ezio nvula yaanokele pa kyalo nsiku 40 busiku ni koba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	001-GEN-007-017 Nvula yaatwaliliile kunoka mpaka nsiku 40 busiku ni koba. Menda aizwile pa kyalo mpaka ni safina yabamba kweleela.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	150	001-GEN-007-024 Menda aasyele aizwile pa kyalo nsiku 150.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	150	001-GEN-008-003 menda aatwaliliile kuya akama buke buke mpaka nsiku 150.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	001-GEN-008-006 Lupaapitile nsiku 40, Noa waizwile nzota	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	601	001-GEN-008-013 Noa lu-aakumaniizie myaka 601, mu mwezi wa mambo pa busiku bwa mambo, menda aakamine pa kyalo. Noa waatupukwile ntupiko ya safina, ni kiine wamwene menda akamine.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	27	001-GEN-008-014 Mu mwezi wa bubili pa nsiku 27, Musili waumine.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	350	001-GEN-009-028 Pa kyamba kya kibunda, Noa waikeele pa kyalo myaka 350.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	950	001-GEN-009-029 Noa waafwile wali na myaka 950.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	100	001-GEN-011-010 Ezi i nvyalo yakua Shemu. Pa kyamba kya kibunda lupaali pasyapitile myaka ibili, Shemu lu-aakumaniizie myaka 100, waavyele mwana mwalalume ni kumwinika Arpakisadi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	500	001-GEN-011-011 Pa kyamba kya kuvyala Arpakisadi, Shemu waikeele pa kyalo myaka 500 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	35	001-GEN-011-012 Arpakisadi lu-aakumaniizie myaka 35, waavyele Sela.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	403	001-GEN-011-013 Pa kyamba kya kuvyala Sela, Aripakisadi waikeele pa kyalo myaka 403 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	001-GEN-011-014 Sela lu-aakumaniizie myaka 30, waavyele mwana mwalalume ni kumwinika Eberi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	403	001-GEN-011-015 Pa kyamba kya kuvyala Eberi, Sela waikeele pa kyalo myaka 403 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Eberi lu-aakumaniizie myaka 34, waavyele Pelegi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	430	001-GEN-011-017 Pa kyamba kya kuvyala Pelegi, Eberi waikeele pa kyalo myaka 430 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Pelegi lu-aakumaniizie myaka 30, waavyele Reu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	209	001-GEN-011-019 Pa kyamba kya kuvyala Reu, Pelegi waikeele pa kyalo myaka 209 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Reu lu-aakumaniizie myaka 32, waavyele Serugi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	207	001-GEN-011-021 Pa kyamba kya kuvyala Serugi, Reu waikeele pa kyalo myaka 207 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	001-GEN-011-022 Serugi lu-aakumaniizie myaka 30, waavyele Nahori.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	200	001-GEN-011-023 Pa kyamba kya kuvyala Nahori, Serugi waikeele pa kyalo myaka 200 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Nahori lu-aakumaniizie myaka 29, waavyele Tera.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	119	001-GEN-011-025 Pa kyamba kya kuvyala Tera, Nahori waikeele pa kyalo myaka 119 ni kuvyala bange baana balalume ni banakazi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	001-GEN-011-026 Tera lu-aakumaniizie myaka 70, waavyele Abramu, ni Nahori pamo ni Harani.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Tera waafwiliile ku Harani wali na myaka 205.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	75	001-GEN-012-004 Abramu waafumine mu Harani nga mwaalandiile Yawe. Pa ozo musita, Abramu waali wasyali na myaka 75. Loti ni ye waile pamo nakue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Abramu lu-aunvwile nangue mwana mwina mwalawakue akwetue, waakolonghaniizie balalume 318 ba mu nghanda yakue, bantu baali basambiliziiziwe bului. Baile babakonkele mpaka ku Dani.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	400	001-GEN-015-013 Yawe waamwanine evi, “Nvyalo yobe yaakaba yeni mu kyalo nghwana, kabili baakaba bazia ba bene kyalo, ni bo baakeemiwa na bene kyalo myaka 400.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	86	001-GEN-016-016 Abramu waali na myaka 86 lu-aavyaliilue Isimaeli na Hagari.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	99	001-GEN-017-001 Abramu lu-aakumaniizie myaka 99, Yawe waamumonekeele ni kumwana nangue, “Nene ndi Leza wa Maka onse, enda ku ntanzi yane ni kuba wapwililikile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	100	001-GEN-017-017 Abrahamu waaponene kyuba, waasekele ni kulandila mu mutima nangue, “Ati emwe! Ni kiine muntu wasyali na myaka 100 kuti wavyala ni mwana? Ni Sara ozu asyali na myaka 90 kuti wavyala?”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	99	001-GEN-017-024 Abrahamu waateetelue yando wasyali na myaka 99.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	13	001-GEN-017-025 Mwana wakue Isimaeli ni ye waateetelue yando wasyali na myaka 13.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	001-GEN-018-006 Kupwako, Abrahamu waya lubilo lubilo mu liema ni kumwana Sara nangue, “Ewe, lenga uye uleete kilo 25 ya bunga buwamiisie ulenge ukite mikate.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	001-GEN-018-024 Kine mu muzi muli balunghami 50, wakaba kulovia muzi onse? Teukaba kubeeleela pa mulandu wa babo balunghami 50?	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	001-GEN-018-026 Yawe wa-asukile evi, “Kine naya kusangamo balunghami 50 mu Sodoma, nakaba kweleela muzi onse pa mulandu wabo.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	001-GEN-018-028 Ale kine pabula basaano pa balia balunghami 50, wakaba kulovia muzi onse pantu papusa bantu basaano?” Mulopue wa-asukile evi, “Kine naya kusangamo balunghami 45 nene nsikaba kulovia muzi.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	001-GEN-018-029 Kabili Abrahamu waipuziizie evi, “Ale kine bali sie 40?” Waamwasukile, “Kine bakabe 40, nsikakita kantu pa mulandu wa baba bantu 40.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	001-GEN-018-030 Abrahamu waalandile evi, “We Mulopue, tekufiitua. Ntonene nandepo kabili. Ale kine bali sie balunghami 30?” Waamwasukile, “Nsikakita kantu pa mulandu wa baba bantu 30.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	001-GEN-018-031 Abrahamu waalandile evi, “Natwalilila kulanda na Yawe, ale kine bali sie 20?” Waamwasukile, “Kine bali 20 nene nsikaba kubalovia.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	001-GEN-020-016 Kabili Abimeleki waamwanine Sara nangue, “Mona namupeela ndumezo nfolanga 1,000 kuti iye yali nfuto pa menso a bonse bauli nabo. Ni pakako, teuli na mulandu.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	100	001-GEN-021-005 Izaaki lu-aavyelue, Abrahamu waali wasyali na myaka 100.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	100	001-GEN-021-016 ni kuya kwikala pa nkendo imo paleepele mu pepi metre 100 ni kulanda nangue, “Nsitonene kumona kufua kwa mwana wane.” Hagari lu-aali waikeele papo, waatendekele kulila wa-angwile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	127	001-GEN-023-001 Sara waikeele pa kyalo myaka 127	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	400	001-GEN-023-015 “We mwinzio, unvua, bobu bukaba kine bwasitua na shekeli 400, kuti byatukitaki nene ni wewe? Ni pakako, ziika sie mukazi obe.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	400	001-GEN-023-016 Abrahamu waamwitabiizie Efuroni, Abrahamu waamupendeele Efuroni nfolanga i-aalandile ntanzi ya baana bakua Heti shekeli 400 ya mutofue mu kipendo kya basulu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	120	001-GEN-024-022 Nghamia luyaapwile kumina, ozo mubombi waabuulile kazele ka oro kaali kafinine shekeli mutanda ni bikano bya oro bibili bya ku maboko byaali byafinine shekeli 120.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	175	001-GEN-025-007 Myaka yaikeele Abrahamu yaali 175.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	137	001-GEN-025-017 Myaka yaikeele Isimaeli pa kyalo yaali 137. Waafwile ni kuya kwikala pamo ni babikolue bakue baamutangiliile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	001-GEN-025-020 Izaaki waali na myaka 40 lu-aupile Rebeka mwina Betueli Muamea wa ku Padani-Aramu. Ndumeze kwa Rebeka waali wakuutua Labani.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	60	001-GEN-025-026 Pa kyamba, wa kwakue waavyelue wakwete ku kasinghino kakua Esau, ni pakako, wainikilue Yakobo. Rebeka lu-aavyele babo bampundu, Izaaki waali wasyali na myaka 60.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	100	001-GEN-026-012 Izaaki waabyele mbezu mu kekio kyalo, ni ozo mwaka, waazombwele mbezu ingi nghendo 100 kukila elia i-aabyele, pantu Yawe waamupaalile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	001-GEN-026-034 Esau lu-aakumaniizie myaka 40, waupile Bahiti babili, Yuditi mwana mwanakazi mwina Beri, ni Basemati mwana mwanakazi mwina Eloni.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	001-GEN-031-038 Nakiikala nobe myaka 20. Mikooko yobe ao mbuzi yobe teyaapulumwine ata livumo, kabili nsyaaliilepo mpanga wa pa bisepe byobe.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	001-GEN-031-041 Evi i vinaemene myaka yonse 20 naali mu nghanda yobe. Pakuti ungufie baana bobe babili, naakubombeele myaka lyanondo ni ina. Kabili naakubombeele myaka mutanda pakuti un'mpeele bisepe bya nama anzia kine waali wa-alulula alulula sie nsazio yane nghendo yonse lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	400	001-GEN-032-006 Mikenzi yaizile kubwezia kapingu kuli Yakobo nangue, “Twayanga kuli mukuluubo Esau, ni ye alimukwiza kukupokelela wali ni bantu 400.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	200	001-GEN-032-014 Waabuulile makota a mbuzi 200 ni tupwata 20 ni mikooko ikota 200 ni mpanga 20,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	001-GEN-032-015 nghamia 30 yaali yaonsia pamo ni twana twabo, nghombe ikota 40 ni nghombe ndume lyanondo, punda ikota 20, ni punda ndume lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	400	001-GEN-033-001 Yakobo lu-aamumwene Esau walimukwiza pamo ni bantu 400, waalekenkaniizie baana bakue: Lea ni baana bakue, Rakeli ni baana bakue, ni babombi babili banakazi ni baana babo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	100	001-GEN-033-019 Ezi nkendo i aimikilepo liema, waasitile ku luvyalo lwakua Hamori se kwa Sekemu na shekeli 100 ya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	180	001-GEN-035-028 Izaaki waikeele pa kyalo myaka 180.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	001-GEN-037-028 Basulu ba Bamidiani lubaali balimukupita lya papo, bakuluube baamufumiizie mu kiina ni kumusisia ku Baisimaeli na nfolanga 20. Babo bantu baamutweme ni kuya nakue ku Misri.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	001-GEN-041-046 Yusufu waali na myaka 30 lu-aabiikilue pa mwilo na Farao, likolo wa ku Misri. Yusufu waafumine kuli Farao ni kuya kwenda mu kyalo kyonse kya Misri.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	300	001-GEN-045-022 Kubalua muntu waapeelue ngubo ya lenu, inzi Benyamina wene waapeelue ngubo isaano ya lenu ni nfolanga ya mutofue 300.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	33	001-GEN-046-015 Babo i bena Lea ba-aamuvyaliile Yakobo ku Padani-Aramu pamo ni Dina mwana mwanakazi. Baana bakue bonse, balalume ni banakazi, baali 33.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	66	001-GEN-046-026 Bantu baile na Yakobo mu Misri, bantu ba mu luvyalo lwakue pasili kupendako bamuka baana bakue, baali bantu 66.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	001-GEN-046-027 Yusufu lu-aali ku Misri waavyele baana babili balalume. Bantu bonse ba mu luvyalo lwakua Yakobo baile ku Misri baali bantu 70.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	130	001-GEN-047-009 Yakobo wa-asukile evi, “Ndi sie na myaka 130, kabili naali nakuukakuuka sie. Babikolue bane ni bo baali bakuukakuuka sie. Inzi bene baikeele myaka ingi, kabili ni bwikazi bwabo tebwaali bwabiipile nga bwane.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	147	001-GEN-047-028 Yakobo waikeele mu Misri myaka lyanondo ni kilooba. Myaka yonse yaikeele Yakobo pa kyalo yaali 147.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	001-GEN-050-003 Baapwile nsiku 40 bamusuba mafuta akusibola. Bamisri baamulilile nsiku 70.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	110	001-GEN-050-022 Yusufu waatwaliliile kwikala mu Misri pamo ni lupua lwakua se. Yusufu waafwile wali na myaka 110.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	110	001-GEN-050-026 Yusufu waafwile wali na myaka 110. Mubili wakue waasubilue mafuta tekuti ubole, ni pa kyamba, waabiikilue mu lisanduku.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	002-EXO-001-005 Bantu bonse ba mu luvyalo lwakua Yakobo baali 70. Yusufu umo wa pa baana bena Yakobo waali wasyatangiile mu Misri.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	137	002-EXO-006-016 Bena Lawi ni baba: Gershoni, ni Kohati pamo ni Merari. Lawi waikeele pa kyalo myaka 137.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	133	002-EXO-006-018 Bena Kohati meena abo ni aza: Amramu, ni Izihari, ni Hebroni pamo ni Uzieli. Kohati waikeele pa kyalo myaka 133.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	137	002-EXO-006-020 Amramu waupile nghina senge Yokebedi, ozo waamuvyaliile Haruni ni Musa. Amramu waikeele pa kyalo myaka 137.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	80	002-EXO-007-007 Pa ozo musita ubaalandile ni Farao, Musa waali na myaka 80, ni Haruni waali na myaka 83.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	21	002-EXO-012-018 Pa busiku bwa lyanondo ni ina ya mwezi wa mambo musita wa kyungulo, i pamwaakaba mwatendekela kulia mikate isiliko ntutumusi mpaka kyungulo kya nsiku 21 ya ozo wenka mwezi wa mambo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	600	002-EXO-012-037 Baizraeli baafumine paakili ku Ramese ni kuya lwa pansi mpaka ku Sukoti. Mpendua yabo yaali mupepi bantu 600,000 pasili kupendako banakazi ni baana.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	430	002-EXO-012-040 Baizraeli baikeele mu kyalo kya Misri myaka 430.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	430	002-EXO-012-041 Ku mpeleezio ya mwaka wa 430, mu bobo bwenka busiku, mabumba a mikowa yonse ya bantu bakua Yawe aafumine mu kyalo kya Misri.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	600	002-EXO-014-007 Waatweme matyakala 600 awamiisie mu Misri. Kubalua tyakala mwaali mwali mukulu ni balukale besapiile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	002-EXO-015-027 Pa kyamba kya kufuma pa Mara, Baizraeli baile kufika ku Elimu, koko kwaali tusulo lyanondo ni tubili twa menda ni bimuti 70 bya bikoma. Koko i kubaakuulile mitanda yabo pepi ni menda.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	002-EXO-016-035 Ni pakako, Baizraeli baaliile maana mu myaka 40, mpaka musita ubaile kufika mu kyalo kibaile kwikalamo. Baaliile maana mpaka kuya kufika ku mipaka ya kyalo kya Kanaani.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	002-EXO-018-021 Inzi saakulapo bantu ba maano, bantu ba kisinka, bantu balibamukindika Leza pamo ni basuulile bituulilo. Usaakulepo banombozi ba mabumba a bantu 1,000, ni a bantu 100, ni a bantu 50, pamo ni a bantu lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	002-EXO-018-025 Musa waasaakwile bantu ba maano mu Baizraeli bonse ni kubabiika kuba banombozi ba bantu. Waababiikile kuba banombozi ba mabumba a bantu 1,000, ni a bantu 100, ni a bantu 50, pamo ni a bantu lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	002-EXO-021-032 Kine nghombe ndume waipaya muzia mwalalume ao mwanakazi na masengo, mwine wa nghombe amufute mwine wa muzia na shekeli 30 ya mutofue, nghombe ndume ni ye alikwipawa na kutootua mabue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	002-EXO-024-001 Pa kyamba, Yawe waamwanine Musa nangue, “Mutwame Haruni, ni Nadabu, ni Abihu pamo ni masiiko 70 a Baizraeli usele nabo kono ku lupili, evi mwize mun'mpupe mwaliko lwa kule.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	002-EXO-024-009 Kabili Musa ni Haruni, ni Nadabu, ni Abihu pamo ni masiiko 70 a Baizraeli, baaselele ku lupili.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	002-EXO-024-018 Ni pakako, Musa waingiile mu lilezi ni kutwalilila kusela peulu lupili. Musa waikeele ku lupili nsiku 40 busiku ni koba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-025-010 “Baane bakakite lisanduku lya mbao ya kimuti kya kasiiya. Likabe lyaleepele metre imo ni santimetre 25, mu bukata likabe lyatanine santimetre 75, ni mu kutuuluka likabe lyatuulukile santimetre 75,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-025-017 “Bakakite ntupiko ya oro isambikile. Ezio ntupiko ikabe yaleepele metre imo ni santimetre 25, ni mu bukata santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-025-023 “Bakakite meza ya kimuti kya kasiiya ileepele metre imo ni mu bukata yatanine santimetre 50, ni mu kutuuluka ikabe yatuulukile santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	35	002-EXO-025-039 Bakakite kya kuteekapo matala pamo ni bibombelo byonse na kilo 35 ya oro isambikile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-026-005 Bakakite mikobelo 50 ku kipempe kimo, ni inge mikobelo 50 ku kipempe kinge. Ezio mikobelo ikabe yakenteene.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-026-006 Bakabiike bikobo 50 bya oro bya kulundania kumo bipempe bibili pakuti Tabernakulo ikabe kintu kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-026-010 Bakakite mikobelo 50 lya ku mpeleezio ya kipempe kimo, ni inge mikobelo 50 lya ku mpeleezio ya kipempe kinge.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-026-011 Kabili bakakite bikobo 50 bya mukuba ni kwingiziamo mikobelo pakuti bipempe bikabe byalundeene, evi Tabernakulo ikabe kintu kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-026-013 Kiputu kya kipempe kyaakasyalako mu kuleepa, kelia kyaakaba kyali santimetre 50 ku bwala bumo, ni ku bunge bwala santimetre 50, i kyaakaba kyakupiliile Tabernakulo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	75	002-EXO-026-016 Kubalua lubao lukabe lwaleepele metre isaano, kabili lukabe lwatanine santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	002-EXO-026-018 Bakakite mbao 20 lya ku nkungulua ya Tabernakulo,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	002-EXO-026-019 ni kukita bintu 40 bya mutofue bya kwimikuamo mbao 20. Mu bintu bibili mukabe mwaimikua matui abili a lubao lumo, ni mu binge bibili ni mo evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	002-EXO-026-020 Ni ku bunge bwala bwa Tabernakulo, lya ku nkungua ni ko kukabe mbao 20,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	002-EXO-026-021 ni bintu 40 bya mutofue bya kwimikuamo. Bya kwimikuamo bibili ni byo mukengiziiwe matui abili a lubao lumo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-027-009 “Kabili bakakite musolo wa Tabernakulo. Ku lubali lwa ku nkungulua bakakite luuba lwa kipempe kya kitani kiweme kipyatilue. Kekio kipempe kikabe kyaleepele metre 50 bwala bumo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	002-EXO-027-010 Bakakite mapumpu 20 ni bintu bya kwimikuamo 20 bya mukuba, bikobo bya ku mapumpu ni mikobelo yakue bikabe bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-027-011 Ku lubali lwa ku nkungua ni ko bakakiteko evio vyenka. Kukabe kipempe kya kitani kileepele metre 50, ni mapumpu akue 20, ni bintu bya kwimikuamo 20 bya mukuba. Bikobo bya ku mapumpu ni mikobelo yakue bikabe bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-027-012 Lya ku mboosi kukabe luuba lwa kipempe kileepele metre 25, kukabe mapumpu lyanondo ni bya kwimikuamo lyanondo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-027-013 Bukata bwa musolo lya ku kabanga kukabe metre 25 mu bukata.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-027-018 Ozo musolo ukabe waleepele metre 50, ni mu bukata ukabe watanine metre 25 kubalua lubali. Luuba lwa musolo lukabe lwaatuulukile metre ibili ni kitika. Lukabe lwali lwa kitani kiweme kipyatilue, ni bya kwimikuamo bikabe bya mukuba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-028-016 Ozo mufuko ukapimpuemo limo walingheene monse monse. Mu kuleepa ni mu bukata ukabe wali na santimetre 25.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-030-002 Ukakite kyalingheene monse monse, kikabe kyali na santimetre 50 mu kuleepa ni mu bukata. Mu kutuuluka kikabe kyali metre imo. Bintu bituulukile nga masengo bikabe byalundeene na kitale.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	002-EXO-030-014 Kubalua muntu wa mu balia baakaba bapendua ali na myaka 20 ni kukilapo, i waakaba wafumia bobo bupe bwakua Yawe.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	3	002-EXO-032-028 Balawi baakitile muba-aniinue na Musa. Bobo busiku baipaile bantu mu pepi 3,000.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	002-EXO-034-028 Musa waikeele ku Lupili lwa Sinai pamo ni Yawe nsiku 40 busiku ni koba pasili kulia bilio ao kumina menda. Ni Yawe waalembele milao lyanondo pa bebio bibazu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-036-011 Waabiikile mikobelo 50 ya nyunzi ya mukumino wa lyulu kupela lya kunze ya kipempe, ni ku kinge kipempe waakitile evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-036-012 Mikobelo 50 ya ku kipempe kimo yaali yakenteene na mikobelo 50 ya ku kipempe kinge.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-036-013 Kabili waakitile tukobo 50 twa oro twa kulundaniiziako bebio bipempe bibili pakuti Tabernakulo ibe kintu kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-036-017 Waabiikile mikobelo 50 kupela lya kunze ya kipempe, ni ku kinge kipempe waakitile evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-036-018 Waakitile tukobo 50 twa kulundaniiziako bipempe bibili pakuti kiye kyali kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	75	002-EXO-036-021 Lubao lumo lwaali lwaleepele metre isaano, ni mu bukata lwaali lwatanine santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	002-EXO-036-023 Waakitile mbao 20 ya ku Tabernakulo lya ku nkungulua,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	002-EXO-036-024 Kabili waakitile bintu 40 bya mutofue bya kwimikuamo mbao 20. Mu bintu bibili bya kwimikuamo, mwaimikilue lubao lumo lwa matui abili, ni mu binge bibili ni mo evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	002-EXO-036-025 Ku bunge bwala bwa liema lya ku nkungua, waakitileko mbao 20,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	002-EXO-036-026 ni bintu 40 bya mutofue bya kwimikuamo. Mu bintu bibili bya kwimikuamo, mwaimikilue lubao lumo, ni mu binge bibili ni mo evio vyenka.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-037-001 Besaleli waakitile Lisanduku lya Kipingo lya mbao ya kimuti kya kasiiya. Lyaali lyaleepele metre imo ni santimetre 25, mu bukata lyaali lyatanine santimetre 75, ni mu kutuuluka lyaali lyatuulukile santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-037-006 Waakitile ntupiko ya oro isambikile. Ezio ntupiko yaali yaleepele metre imo ni santimetre 25, ni mu bukata santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-037-010 Waakitile meza ya kimuti kya kasiiya yaali yaleepele metre imo ni mu bukata yatanine santimetre 50, ni mu kutuuluka yaali yatuulukile santimetre 75.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	35	002-EXO-037-024 Waakitile kya kuteekapo matala pamo ni bibombelo byonse na kilo 35 ya oro isambikile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-037-025 Waakitile kitale kya kimuti kya kasiiya kya kufunkiiziapo bubaani. Waakitile kyalingheene monse monse, kyaali kyali na santimetre 50 mu kuleepa ni mu bukata. Mu kutuuluka kyaali metre imo. Bintu bituulukile nga masengo byaali byalundeene na kitale.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-038-009 Besaleli waakitile musolo wa Tabernakulo. Ku lubali lwa ku nkungulua waakitile luuba lwa kipempe kya kitani kiweme kipyatilue. Kekio kipempe kyaali kyaleepele metre 50.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	002-EXO-038-010 Waakitile mapumpu 20 ni bintu bya kwimikuamo 20 bya mukuba, bikobo bya ku mapumpu ni mikobelo yakue byaali bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	002-EXO-038-011 Ku lubali lwa ku nkungua ni ko kwaali kipempe kyaali kyaleepele metre 50, ni mapumpu akue 20, ni bintu bya kwimikuamo 20 bya mukuba. Bikobo bya ku mapumpu ni mikobelo yakue byaali bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-038-012 Lya ku mboosi kwaali luuba lwa kipempe kyaali kyaleepele metre 25, ni mapumpu akue lyanondo, ni bya kwimikuamo lyanondo. Bikobo byakue ni mikobelo yakue byaali bya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-038-013 Lya ku kabanga mu bukata kwaali metre 25.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	877	002-EXO-038-024 Oro yonse yaabombiiziwe ku mwilo wa ku kifuka kizuuke, yaali kilemo kya kilo 877 ni grama 300 kukonkana ni kalingo ka mu kifuka kizuuke.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	3	002-EXO-038-025 Mutofue waaleetelue na libumba waali kilemo kya kilo 3,017 ni grama 750 kukonkana ni kalingo ka mu kifuka kizuuke.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	002-EXO-038-026 Kubalua mwalalume waali na myaka kubambila pa 20 ni kukilapo, waali wafumia nfolanga grama isaano yaali yalombua. Mpendua ya balalume baapendelue yaali 603,550.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	3	002-EXO-038-027 Mutofue waali wafinine kilo 3,000 waasungulwilue kuti ikituemo bya kwimikuamo 100 bya ku kifuka kizuuke, ni bya ku kekio kipempe. I kulanda nangue kilo 30 ku kya kwimikuamo kimo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	17	002-EXO-038-028 Waakitile bikobo bya ku mapumpu ni bya kukupa peulu mapumpu pamo ni mikobelo. Bebio bintu byaali na kilemo kya kilo 17 ni grama 750 yaasyelepo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	2	002-EXO-038-029 Bupe bonse bwa mukuba bwaafumiizie Baizareli bwaali bwafinine kilo 2,124.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	002-EXO-039-009 Ozo mufuko waali wapimpiluemo limo walingheene monse monse. Mu kuleepa ni mu bukata waali wali na santimetre 25.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	22	008-RUT-002-017 Ni pakako, Rutu waasolwele nghano mu bukaba mpaka kyungulo. Lu-aapuulile, wauluziizie mupepi kilo 22 ya nghano.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	008-RUT-003-015 Boazi waamwanine evi, “Leeta ngubo i-uvwele u-ipanzike papa.” Ni ye waapanzikile. Boazi waamupongweleelepo nghano kukila pa kilo 20 ni kumutwika. Kupwako, Rutu waya ku muzi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	015-EZR-001-009 Mpendua ya bintu ni ezi: Masaani 30 akata a oro, masaani 1,000 akata a mutofue, myele 29,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	015-EZR-001-010 bibakuli 30 bya oro, bibakuli bya mutofue bikonkelepo pa bukindami 410, ni bintu binge 1,000.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	5	015-EZR-001-011 Bintu byonse bya oro ni bya mutofue pamo ni binge bintu, byaali 5,400. Bebi byonse Sesebasari waabitwele lolia lwaabweziiziwe balia baali bafuma ku Babeli balimukuya ku Yeruzalemu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	2	015-EZR-002-003 Baana balalume bena Parosi baali 2,172.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	372	015-EZR-002-004 Baana balalume bena Sefatia baali 372.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	775	015-EZR-002-005 Baana balalume bena Ara baali 775.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	2	015-EZR-002-006 Baana balalume bena Phati-Moabu, benzikulu bakua Yeshua ni Yoabu, baali 2,812.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	015-EZR-002-007 Baana balalume bena Elamu baali 1,254.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	945	015-EZR-002-008 Baana balalume bena Zatu baali 945.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	760	015-EZR-002-009 Baana balalume bena Zakai baali 760.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	642	015-EZR-002-010 Baana balalume bena Bani baali 642.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	623	015-EZR-002-011 Baana balalume bena Bebai baali 623.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	015-EZR-002-012 Baana balalume bena Agzadi baali 1,222.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	666	015-EZR-002-013 Baana balalume bena Adonikamu baali 666.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	2	015-EZR-002-014 Baana balalume ba mu luvyalo lwakua Bigwai baali 2,056.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	454	015-EZR-002-015 Baana balalume bena Adini baali 454.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	98	015-EZR-002-016 Baana balalume bena Ateri, benzikulu bakua Hezekia, baali 98.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	323	015-EZR-002-017 Baana balalume bena Besai baali 323.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	112	015-EZR-002-018 Baana balalume bena Yora baali 112.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	223	015-EZR-002-019 Baana balalume bena Hasumu baali 223.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	95	015-EZR-002-020 Baana balalume bena Gibari baali 95.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	123	015-EZR-002-021 Baana balalume ba ku Betlehemu baali 123.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	56	015-EZR-002-022 Baana balalume ba ku Netofa baali 56.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	128	015-EZR-002-023 Baana balalume ba ku Anatoti baali 128.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	42	015-EZR-002-024 Baana balalume ba ku Azimaweti baali 42.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	743	015-EZR-002-025 Baana balalume ba ku Kiriati-Arimu, Kefira, ni Beroti, baali 743.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	621	015-EZR-002-026 Baana balalume ba ku Rama ni Geba baali 621.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	122	015-EZR-002-027 Baana balalume ba ku Mikimasi baali 122.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	223	015-EZR-002-028 Baana balalume ba ku Beteli ni ku Ai baali 223.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	52	015-EZR-002-029 Baana balalume ba ku Nebo baali 52.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	156	015-EZR-002-030 Baana balalume ba ku Magibisi baali 156.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	015-EZR-002-031 Baana balalume ba ku Eleamu unge baali 1,254.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	320	015-EZR-002-032 Baana balalume ba ku Harimu baali 320.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	725	015-EZR-002-033 Baana balalume ba ku Lodi, ni ku Adidi, ni ku Ono, baali 725.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	345	015-EZR-002-034 Baana balalume ba ku Yeriko baali 345.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	3	015-EZR-002-035 Baana balalume ba ku Sena baali 3,630.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	973	015-EZR-002-036 Nvyalo ya babitambua bena Yedaia, wa mu nghanda yakua Yeshua, baali 973.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	015-EZR-002-037 Baana balalume bena Imeri baali 1,052.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	015-EZR-002-038 Baana balalume bena Pashuri baali 1,247.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	015-EZR-002-039 Baana balalume bena Harimu baali 1,017.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	74	015-EZR-002-040 Nvyalo ya Balawi baabwelele kufuma mu buzia ni ezi: Baana balalume bena Yeshua ni Kadimieli, benzikulu bakua Hodavia, baali 74.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	128	015-EZR-002-041 Nvyalo ya bakemba, baana balalume bena Asafu, baali 128.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	139	015-EZR-002-042 Nvyalo ya baana balalume bena bakalinda ba pa mulyango wa Nghanda yakua Leza, bena Salumu, ni bena Ateri, ni bena Talumoni, ni bena Akubu, ni bena Hatita, ni bena Sobai, bonse pamo baali 139.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	392	015-EZR-002-058 Nvyalo ya babombi ba mu Nghanda yakua Leza, ni baana balalume bena babombi bakua Solomoni, baali 392.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	652	015-EZR-002-060 Nvyalo ya baana balalume bena Delaia, ni bena Tobia, ni bena Nekoda, baali 652.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	42	015-EZR-002-064 Bantu bonse baabwelele kufuma mu buzia baali 42,360	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	7	015-EZR-002-065 pasili kupendako babombi babo balalume ni banakazi baali 7,337, momo mwaali ni bakemba balalume ni banakazi 200.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	736	015-EZR-002-066 Bafarasi babo baali 736 ni nyumbu twaali 245.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	435	015-EZR-002-067 Nghamia yabo yaali 435 bapunda baali 6,720.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	500	015-EZR-002-069 Baapeele mwaali mwabeeleele buvinde bwabo, ni mu kipao baabiikilemo kilo 500 ya oro, ni kilo 2,800 ya mutofue, pamo ni nkanzu 100 ya babitambua.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	015-EZR-003-008 Kupwako, mu mwezi wa bubili wa mu mwaka wa bubili lubaabweleele ku Nghanda yakua Leza ya mu Yeruzalemu, Zerubabeli mwina Shealtieli, ni Yoshua mwina Yozadaki, baabambile kubomba pamo ni ba kwabo, ni babitambua, ni Balawi babaafumine nabo mu buzia ni kubwelela ku Yeruzalemu. Baasaakwile Balawi baali bali na myaka kutendekela pa 20 ni mpuzio kuti baye bali bemanizi ba mwilo wa Nghanda yakua Yawe.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	27	015-EZR-006-003 Likolo Kiro mu kuteeka kwakue kwa mwaka wa mambo, waapeene nsambu palua Nganda yakua Leza ya mu Yeruzalemu kuti ikuulue paakale pa nkendo payaali yakuulilue kuti ibe nkendo ya kwelelapo ngelelo ya kuzizia. Mu kutuuluka iye yali metre 27, ni mu kutana iye yali metre 27.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	100	015-EZR-006-017 Pa kuzuukia Nghanda yakua Leza, baafumiizie bupe bwa nghombe 100, ni mpanga 200, ni mpanga misoka 400, ni palua ngelelo ya bibalo bya Baizraeli, baafumiizie bupe bwa tupwata lyanondo ni tubili, nga mubeeleele mikowa lyanondo ni ibili ya Baizraeli.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	3	015-EZR-007-022 mu kalingo ka talanta kilo 3,400 ya mutofue, ni kilo 10,000 ya nghano, ni litre 22,000 ya divai, ni litre 22,000 ya mafuta a mizeituni, pamo ni mukele wingi nga vi-ali waakalomba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	150	015-EZR-008-003 Bantu ba mu luvyalo lwakua Sekania, ni Parosi pamo ni Zakaria, mpendua yabo baali balalume 150.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	200	015-EZR-008-004 Bantu ba mu luvyalo lwakua Pahati-Moabu: Elioenai mwina Zerahia, waali wali pamo ni balalume 200.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	300	015-EZR-008-005 Bantu ba mu luvyalo lwakua Zatu, ni Sekania mwina Yahasieli, mpendua yabo baali balalume 300.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	50	015-EZR-008-006 Bantu ba mu luvyalo lwakua Adini, ni Ebedi mwina Yonatana, mpendua yabo baali balalume 50.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	015-EZR-008-007 Bantu ba mu luvyalo lwakua Elamu, ni Yesaia mwina Atalia, mpendua yabo baali balalume 70.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	80	015-EZR-008-008 Bantu ba mu luvyalo lwakua Sefatia, ni Zebadia mwina Mikaeli, mpendua yabo baali balalume 80.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	218	015-EZR-008-009 Bantu ba mu luvyalo lwakua Yoabu, ni Obadia mwina Yehieli, mpendua yabo baali balalume 218.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	160	015-EZR-008-010 Bantu ba mu luvyalo lwakua Selomiti mwina Yosifia ni wa mu luvyalo lwakua Bani, mpendua yabo baali balalume 160.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	28	015-EZR-008-011 Bantu ba mu luvyalo lwakua Bebai ni Zakaria mwina Bebai, mpendua yabo baali balalume 28.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	110	015-EZR-008-012 Bantu ba mu luvyalo lwakua Azgadi, ni Yohana mwina Hakatani, mpendua yabo baali balalume 110.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	60	015-EZR-008-013 Bantu ba mu luvyalo lwakua Adonikamu, lwaali lwa mpeleezio, meena abo ni aza: Elifeleti, Yueli, ni Semaia, mpendua yabo baali balalume 60.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	70	015-EZR-008-014 Bantu ba mu luvyalo lwakua Bigwai, ni Utai mwina Zakuri, mpendua yabo baali balalume 70.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	015-EZR-008-019 Kabili baatutumiine ni linge libumba lyaali lyalombwelue na Hasabia ni Yesaia ba mu luvyalo lwakua Merari, ni lupua lwabo pamo ni baana babo. Bonse pamo baali 20.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	220	015-EZR-008-020 Baizile pamo ni babombi 220 baasaakwilue na Daudi ni masiiko kuti bakwasie miilo ya mu Nghanda yakua Leza. Ni meena abo amanikile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	22	015-EZR-008-026 Naabapiimiine talanta kilo 22,000 ya mutofue, ni bibombelo bya mutofue talanta 3,400, ni bya oro talanta 3,400,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	015-EZR-008-027 ni bibakuli bya oro 20 byaali byafinine diriki kilo 8.5, ni bibombelo bibili bya mukuba bikindeeme byaali byabeeka nga oro.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	96	015-EZR-008-035 Bonse baabwelele kufuma mu buzia, baamweleele Leza wa Baizraeli ngelelo ya kuziziiwa, nghombe ndume lyanondo ni ibili mubeleele mikowa ya Baizraeli, mpanga 96, twina mikooko 77, tupwata lyanondo ni tubili twa ngelelo ya bibalo. Bebi bintu byonse, byaali ngelelo ya kuziziiwa yakua Yawe.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	015-EZR-010-009 Bantu bonse ba mu mukowa wakua Yuda ni wakua Benyamina, baakolongheene mu Yeruzalemu mu ezio nsiku itatu, ozo waali mwezi wa fundi pa nsiku 20 ya mwezi, ni bantu bonse baikeele pa kifuka kya pa musolo wa Nghanda yakua Leza balimukututuma na mwezo wa ezi milandu, kabili pantu kwaali ni nvula ikata.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	016-NEH-001-001 Totu i twebo twakua Nehemia mwina Hakalia. Lunaali mu Susani muzi ukata wa kyalo, mu mwezi wa Kisileu mu mwaka wa 20 mu kuteeka kwakua Artasasta,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	016-NEH-002-001 Mu mwezi wa Nisani, mu mwaka wa 20 mu kuteeka kwakua likolo Artasasta lu-aaleeteelue divai, naipokeleele ni kumutwalila likolo. Pa ozo musita naali nsinamonekepo wa bulanda ku menso akue, inga sie bobo bwenka busiku.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	450	016-NEH-003-013 Hanuni, pamo ni bekazi ba mu Zanoa, i baakuulile paakale mulyango wa lulambe. Baukuulile ni kubiikamo mulyango, ni byela pamo ni minkolonto, ni kulundako metre 450 mu kuleepa kwa kibumba mpaka pa mulyango wa kizyalala.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	016-NEH-005-014 Kabili kutula sie lunaabiikilue kuba mulombozi wa mu kyalo kyakua Yuda, kutendeka mu mwaka wa 20 mpaka mu mwaka wa 32 mu kuteeka kwakua likolo Artasasta, nene ni lupua lwane twaapwile myaka lyanondo ni ibili, pasili kulia bilio bya bandabukizi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	016-NEH-005-015 Inzi bandabukizi bantangiliile, baali babiibikizia bantu ni kubapoka bilio ni bya kumina, kukila shekeli 40 ya nfolanga ya bityele, ku mpeleezio, babombi babo ni bo baatendekele kubiibikizia bantu, inzi nene nsyakikita evio pantu ndinatiina Leza.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	150	016-NEH-005-017 Ku meza yane kwaali kwaiza kulia bantu 150, Bayuda ni bakateeka, kubiikapo ni balia baafumine ku byalo byaali byatuzyungulukiile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	52	016-NEH-006-015 Kibumba kyaakuulilue nsiku 52, ni kyo kyaapwile pa nsiku 25 ya mwezi wa Eluli.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	2	016-NEH-007-008 Bena Parosi baali 2,172.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	372	016-NEH-007-009 Bena Sefatia baali 372.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	652	016-NEH-007-010 Bena Ara baali 652.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	2	016-NEH-007-011 Bena Pahati-Moabu, bena Yeshua ni Yoabu, baali 2,818.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	016-NEH-007-012 Bena Elamu baali 1,254.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	845	016-NEH-007-013 Bena Zatu baali 845.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	760	016-NEH-007-014 Bena Zakai baali 760.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	648	016-NEH-007-015 Bena Binui baali 648.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	628	016-NEH-007-016 Bena Bebai baali 628.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	2	016-NEH-007-017 Bena Azgadi baali 2,322.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	667	016-NEH-007-018 Bena Adonikamu baali 667.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	2	016-NEH-007-019 Bena Bigwai baali 2,067.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	655	016-NEH-007-020 Bena Adini baali 655.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	98	016-NEH-007-021 Bena Ateri, benzikulu bakua Hezekia, baali 98.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	328	016-NEH-007-022 Bena Hasumu baali 328.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	324	016-NEH-007-023 Bena Besai baali 324.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	112	016-NEH-007-024 Bena Harifu baali 112.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	95	016-NEH-007-025 Bena Gibeoni baali 95.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	188	016-NEH-007-026 Bantu ba ku Betlehemu, ni ba ku Netofa baali 188.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	128	016-NEH-007-027 Bantu ba ku Anatoti baali 128.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	42	016-NEH-007-028 Bantu ba ku Beti-Asimaweti, baali 42.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	743	016-NEH-007-029 Bantu ba ku Kiriati-Yearimu, ni ba ku Kefira, ni ba ku Beroti, baali 743.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	621	016-NEH-007-030 Bantu ba ku Rama, ni ba ku Geba, baali 621.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	122	016-NEH-007-031 Bantu ba ku Mikimasi baali 122.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	123	016-NEH-007-032 Bantu ba ku Beteli, ni ba ku Ai baali 123.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	52	016-NEH-007-033 Bantu ba ku muzi unge wa Nebo baali 52.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	016-NEH-007-034 Bantu ba ku muzi unge wa Elamu baali 1,254.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	320	016-NEH-007-035 Bena Harimu baali 320.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	345	016-NEH-007-036 Bantu ba ku Yeriko baali 345.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	721	016-NEH-007-037 Bantu ba ku Lodi, ni ba ku Hadidi, pamo ni ba ku Ono, baali 721.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	3	016-NEH-007-038 Bena Sena baali 3,930.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	973	016-NEH-007-039 Babitambua, bena Yedaia, ba mu nghanda yakua Yeshua, baali 973.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	016-NEH-007-040 Bena Imeri baali 1,052.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	016-NEH-007-041 Bena Pasuri baali 1,247.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	016-NEH-007-042 Bena Harimu baali 1,017.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	74	016-NEH-007-043 Balawi, bena Yeshua i kulanda nangue Kadimieli, pamo ni bena Hodavia baali 74.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	148	016-NEH-007-044 Bakemba, bena Asafu baali 148.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	138	016-NEH-007-045 Bakalinda ba pa mulyango, ni bena Salumu, ni bena Ateri, ni bena Talmoni, ni bena Akubu, ni bena Hatita, pamo ni bena Sobai, baali 138.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	392	016-NEH-007-060 Babombi bonse ba mu Nghanda yakua Leza pamo ni bena Solomoni, baali 392.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	642	016-NEH-007-062 Bena Delaia, ni bena Tobia, ni bena Nekoda, baali 642.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	42	016-NEH-007-066 Bantu bonse pamo, baali 42,360.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	7	016-NEH-007-067 Babombi babo, balalume ni banakazi, baali 7,337. Bakemba balalume ni banakazi baali 245.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	736	016-NEH-007-068 Bafarasi babo baali 736. Nyumbu 245.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	435	016-NEH-007-069 Nghamia yabo yaali 435. Punda yabo yaali 6,720.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	016-NEH-007-070 Bamasiiko bamo ba mu basibo, baafumiizie bunonsi bwabo pa mulandu wa ezi miilo. Tirshata waafumiizie mu kipao darkoni 1,000 ya oro, bibakuli 50, bya kuvwala babitambua 530.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	016-NEH-007-071 Bange bamasiiko ba mu basibo baabiikile mu bukonto bwa miilo, darkoni 20,000 ya oro, ni manemane 2,200 ya mutofue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	20	016-NEH-007-072 Ni bantu baasyelepo, baafumiizie darkoni 20,000 ya oro, ni manemane 2,000 ya mutofue, ni bya kuvwala 67 bya babitambua.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	24	016-NEH-009-001 Mu ozo mwezi pa nsiku 24 Baizraeli baakolongheene ni kuizilika bilio bavwele masaaka, ni kuya baipuupile bulongo ku mitue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	016-NEH-009-021 Ee, pa myaka 40, waali wabateekamaniizie mu kaseeba, Kabili tebaabulilue kantu. Ngubo yabo teyaazabukile, Ni makasa abo teavimbile.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	468	016-NEH-011-006 Baana balalume bena Peresi baali baikeele mu Yeruzalemu, baali babipami 468.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	928	016-NEH-011-008 Ni pa kyamba kyakue kwaali, Gabai, ni Salai. Bonse pamo baali balalume 928.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	822	016-NEH-011-012 ni ba mu mukowa wabo baali babombela mu Nghanda yakua Leza baali bali balalume 822: Adaia mwina Yerobohamu, Yerobohamu mwina Pasuri, Pasuri mwina Malkia,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	242	016-NEH-011-013 ni ba mu mukowa wabo, ni masiiko a basibo, baali 242, ni Amasai mwina Azarieli, Azarieli mwina Azai, Azai mwina Mesilomoti, Mesilomoti mwina Imeri,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	128	016-NEH-011-014 ni babipami ba mu mukowa wabo bali ni buvinde, bonse pamo baali 128, ni mulombozi wabo waali Zabdieli mwina Hagedolimu.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	284	016-NEH-011-018 Balawi ba mu muzi uzuuke, bonse pamo baali 284.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	172	016-NEH-011-019 Akubu, Talmoni, ni ba kwabo. Bakalinda ba pa milyango bonse pamo baali balalume 172.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	32	016-NEH-013-006 Pa ozo musita onse waali wakitika bebio, ne nsyaali ku Yeruzalemu, pantu mu mwaka wa 32 mu kuteeka kwakua Artasasta likolo wa ku Babeli, naabwelele kuli likolo. Pa kyamba naalombele nsambu kuli likolo	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	127	017-EST-001-001 Ahasuero lu-aali likolo, waateekele biputu bya kyalo 127. Waateekele kutendekela ku India mpaka ku Kushi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	180	017-EST-001-004 Mu nsiku 180, waali wabalangisia bunonsi bwa mu bukolo bwakue pamo ni bulumba ni mukinzi wakue.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	017-EST-005-014 Zereshi mukazi wakue pamo ni babibuza bakue bonse baamwanine Hamani nangue, “Tuma bantu bateanie kimuti kileepele metre 25, ni lukeele lukeelekeele ukabe kumwana likolo nangue Mordekai akulikueko, evi ukaye wawamiinue pamo ni likolo ku matebeto.” Hamani waawamiinue na kako keebo, ni kutuma bantu bateanie kekio kimuti.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	25	017-EST-007-009 Harbona umo wa pa babombi bamasai bakua likolo waalandile evi, “Mu nghanda mwa Hamani muli ni kimuti kileepele metre 25 ki-akiteania kumukulikako Mordekai waalandile twebo twa kupususia likolo.” Likolo waalandile evi, “Mukulikeko ye mwine.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	23	017-EST-008-009 Pa busiku bwa 23 mu mwezi wa butatu, i mwezi wa Siwani, bakalemba bakua likolo baakuutilue kuli Mordekai kuti balembele Bayuda ni ndabukizi ya biputu bya kyalo 127 kufuma ku India mpaka ku Kushi. Kubalua kiputu kya kyalo kyaalembeelue mubeeleele nembelo yabo, kubalua bantu baalembeelue mu lulimi lwabo. Bayuda ni bo baalembeelue mubeeleele nembelo yabo ni mu lulimi lwabo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	500	017-EST-009-006 Ni mu Susani, Bayuda baipailemo balalume 500.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	500	017-EST-009-012 Likolo waamwanine nabeeza Esta nangue, “Bayuda baipaya bantu 500 ni baana lyanondo bena Hamani mono mu Susani. Paliibufi mu binge biputu bya kyalo. Nghane kinge kiwakeba ukitilue. Nghane kiutonene kulomba upeelue.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	300	017-EST-009-015 Kabili Bayuda baakolongheene busiku bwa lyanondo ni ina ya mwezi wa Adari ni kwipaya bantu 300 mu Susani, inzi tebaatweme bintu bya balwani babo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	75	017-EST-009-016 Ni Bayuda bange baali mu binge biputu bya kyalo baakolongheene kuti bekingilile ku balwani babo evi babe ni mutende. Baba ni bo baipaile bantu 75,000, inzi tebaatweme bintu bya balwani babo.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	127	017-EST-009-030 Lupapulo lwaalembelue ni kutwalua ku Bayuda bonse mu biputu bya kyalo 127 bya mu bukolo bwakua likolo Ahasuero. Mu lupapulo mwaali twebo twa mutende ni twa kisinka,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	100	020-PRO-017-010 Kusasililua kulikwapokelelua mu mutima wa olia ali ni maano, kukila nfimbo 100 ku kipuba.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	30	020-PRO-022-020 Eba, nsikulembeele bulanzi 30, bulanzi bwa nsokezi ni bwa maano,	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	195	028-HOS-003-002 Ni pakako, naamusitile paakale na shekeli lyanondo ni isaano ya mutofue, ni kilo 195 ya shairi.	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	030-AMO-002-010 Naamifumiizie mu kyalo kya Misri, ni kumilombola mu kaseeba myaka 40, kuti n'mipeele kyalo kya Ba-amori.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	1	030-AMO-005-003 Yawe Kabezia Mpungu wa-ana Baizraeli nangue, “Muzi waakatuma balukale 1,000 ku bului, kwaakabwela sie balukale 100. Muzi waakatuma balukale 100 ku bului, kwaakabwela sie balukale lyanondo.”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	030-AMO-005-025 “Kubako mwe Baizraeli, mwandeeteele ngelelo ni bupe mu kaseeba mu elia myaka 40?	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	40	032-JON-003-004 Yona waingiile mu muzi ni kwendamo busiku bumo walimukupunda walanda nangue, “Pa kyamba kya nsiku 40, we Ninawe wakaba kuloviiwa!”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	120	032-JON-004-011 Eba, ale nene i alikwandua kunvwila nkumbu muzi ukata wa Ninawe ulimo bantu bengi kukila pa 120,000 basili na buvinde bwa kwinika biweme ni bibiipile, kabili mwali ni nama ingi iteekelue?”	WARN
+Taabwa---Kitaabua-Bible	NUMERALS	Aionian	count	335	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

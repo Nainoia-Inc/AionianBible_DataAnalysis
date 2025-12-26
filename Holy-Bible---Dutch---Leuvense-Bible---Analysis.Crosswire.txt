@@ -1,0 +1,444 @@
+# File Name: Holy-Bible---Holy-Bible---Dutch---Leuvense-Bible---Analysis.txt
+# File Size: 41107       
+# File Date: 12/13/2025 05:18:21
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Leuvense Bijbel
+# Bible Name English: Leuvense Bible
+# Bible Language: Nederlandse
+# Bible Language English: Dutch
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Dr. Nicoline van der Sijs, Utrecht (NL)
+# Bible Source Version: 8/15/2025
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=NldLeuv1548
+# Bible Source Year: 1548, 2025
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Dutch---Leuvense-Bible	ENCODING	Source	Holy-Bible---Dutch---Leuvense-Bible---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Dutch---Leuvense-Bible	ENCODING	Aionian	Holy-Bible---Dutch---Leuvense-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Dutch---Leuvense-Bible	BYTES	Source	bytes / chars	9166065 / 9164582 (multi-byte)	NOTICE
+Dutch---Leuvense-Bible	BYTES	Aionian	bytes / chars	5186744 / 5186532 (multi-byte)	NOTICE
+Dutch---Leuvense-Bible	BYTES	SourceClean	bytes / chars	6122990 / 6121507 (multi-byte)	NOTICE
+Dutch---Leuvense-Bible	BYTES	AionianClean	bytes / chars	5183196 / 5182998 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Dutch---Leuvense-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Dutch---Leuvense-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Dutch---Leuvense-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Dutch---Leuvense-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Dutch---Leuvense-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Dutch---Leuvense-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Dutch---Leuvense-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Dutch---Leuvense-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Dutch---Leuvense-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Dutch---Leuvense-Bible	UNICODE	Summary	(-)Orginal	77	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Summary	(+)Aionian	76	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : ([)	7	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : ( )	983879	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (M)	9655	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (o)	228592	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (d)	317705	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (u)	80754	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (l)	150191	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (e)	1015428	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (H)	12928	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (a)	259111	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (i)	270810	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (n)	506811	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (g)	116253	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (])	7	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (\n)	38511	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (T)	1953	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (s)	262193	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (t)	294861	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (m)	98326	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (1)	32642	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (G)	9553	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (0)	7860	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (:)	38518	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (D)	10723	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (r)	227766	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (b)	67802	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (c)	120577	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (k)	46989	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (y)	58552	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (.)	32815	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (,)	88422	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (I)	27353	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (h)	250218	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (B)	2405	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (x)	2948	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (v)	78720	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (f)	32064	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (S)	9401	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (p)	35260	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (C)	6015	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (N)	3757	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (E)	22396	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (2)	22157	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (w)	70173	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (j)	56671	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (3)	15074	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (L)	3483	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (4)	11429	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (5)	8736	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (6)	7971	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (7)	7210	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (8)	7089	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (9)	6465	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (W)	4446	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (A)	7074	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (q)	1758	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (P)	6050	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (O)	1412	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (?)	3217	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (V)	1458	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (()	670	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : ())	668	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (z)	6382	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (R)	1699	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Latin-1 Supplement: (¶)	37	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (K)	1680	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (-)	312	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (Z)	652	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (Y)	38	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (U)	41	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Latin-1 Supplement: ( )	3	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (J)	5958	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (Q)	8	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (X)	2	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Dingbats : (✣)	350	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Dingbats : (✴)	367	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source(-)	Basic Latin : (F)	27	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130490	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42412	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124312	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	9216	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	26087	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	5368	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	14231	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	8762	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	751574	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	52262	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	826650	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	95260	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	208898	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	414796	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	197860	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	26484	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	237606	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	180535	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	262382	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	197307	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	92926	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	199396	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	28633	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	74691	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	118463	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	179554	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	75237	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31077	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31066	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	57837	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	49131	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	60412	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	45948	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	24424	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17168	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	3685	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20017	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	63885	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10265	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10722	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7444	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7857	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9290	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	37254	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	15131	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	3453	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	11861	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (x)	230	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	9581	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	14346	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1362	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	5639	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	3393	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	7900	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	3759	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	2921	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	2547	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	6241	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (()	857	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : ())	855	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	4069	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4789	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	9	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2758	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	286	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	2144	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (Y)	36	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1212	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3548	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (¶)	1	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4971	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (Q)	5	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Basic Latin : (F)	23	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : ([)	7	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : ( )	983879	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (M)	9655	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (o)	228592	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (d)	317705	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (u)	80754	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (l)	150191	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (e)	1015428	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (H)	12928	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (a)	259111	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (i)	270810	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (n)	506811	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (g)	116253	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (])	7	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (\n)	38511	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (T)	1953	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (s)	262193	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (t)	294861	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (m)	98326	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (1)	32642	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (G)	9553	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (0)	7860	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (:)	38518	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (D)	10723	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (r)	227766	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (b)	67802	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (c)	120577	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (k)	46989	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (y)	58552	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (.)	32815	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (,)	88422	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (I)	27353	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (h)	250218	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (B)	2405	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (x)	2948	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (v)	78720	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (f)	32064	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (S)	9401	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (p)	35260	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (C)	6015	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (N)	3757	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (E)	22396	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (2)	22157	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (w)	70173	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (j)	56671	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (3)	15074	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (L)	3483	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (4)	11429	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (5)	8736	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (6)	7971	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (7)	7210	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (8)	7089	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (9)	6465	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (W)	4446	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (A)	7074	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (q)	1758	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (P)	6050	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (O)	1412	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (?)	3217	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (V)	1458	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (()	670	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : ())	668	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (z)	6382	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (R)	1699	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Latin-1 Supplement: (¶)	37	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (K)	1680	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (-)	312	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (Z)	652	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (Y)	38	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (`)	1	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (U)	41	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Latin-1 Supplement: ( )	3	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Latin-1 Supplement: (ë)	3	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Latin-1 Supplement: (­)	1	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (J)	5958	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	General Punctuation : (’)	2	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (Q)	8	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Latin-1 Supplement: (û)	1	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (X)	2	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Dingbats : (✣)	350	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Dingbats : (✴)	367	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (/)	1	NOTICE
+Dutch---Leuvense-Bible	UNICODE	Source	Basic Latin : (F)	27	NOTICE
+
+# VERSIFICATION
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	001-GEN-005-032	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	001-GEN-049-033	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	001-GEN-050-026	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	002-EXO-040-014	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	002-EXO-040-015	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	003-LEV-026-046	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	004-NUM-011-035	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-036	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-037	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	007-JDG-021-025	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-024	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-047	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	013-1CH-020-008	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	016-NEH-003-032	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	019-PSA-016-011	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	019-PSA-072-020	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	020-PRO-002-003	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	024-JER-029-032	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	026-EZE-002-010	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	033-MIC-005-015	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	041-MAR-004-041	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-050	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Aionian	missing	044-ACT-014-007	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Summary	missing	24	WARN
+Dutch---Leuvense-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Dutch---Leuvense-Bible	ENCLOSURES	Source	()	670 / 668	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	[]	7 / 7	NOTICE
+Dutch---Leuvense-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Dutch---Leuvense-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	()	857 / 855	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Genesis 12:13 Daer om bid ick v) segt dat ghy mijn suster sijt, op dat my wel gheschiede om uwen wille, ende dat mijn ziele mach leuende blijuen, ter gratien van v.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Exodus 3:4 Maer die Heere siende dat hy voortquam om te besien, heeft hem wt het midden des dorns gheroepen, ende gheseyt, Moyses Moyses? Ende hy antwoorde (Ick ben hier.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Leviticus 26:11 Ic sal mijn tabernakel) stellen int midden van v lieden, ende mijn ziele en sal v niet verworpen.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(2/1)	Deuteronomy 19:6 op dat by auontueren die naeste (vanden ghenen wiens bloet ghestort is, wt droeuer gramscap verwect sijnde, hem niet en veruolghe ende grijpe (waert dat den wech verre ware) ende sloech die ziele van hem die der doot niet sculdich en is, want men thoont dat hy te voren teghen hem die doot gheslaghen is, gheenen haet en heeft ghehadt.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	I Chronicles 26:10 Ende van Hosa, dat es van die sonen van Merari Semri die prince (want hy en hadde ghenen ierste gheboren, ende daer om hadde hem sijn vader ghestelt tot eenen prince	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	II Chronicles 13:6 (Ende daer is opghestaen Ieroboam Nabats sone een knecht van Salomon Dauids sone ende hy heeft hem opghericht teghen sijnen Heere,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	II Chronicles 13:7 Ende tot hem sijn vergadert seer ydel mannen ende Belials kinderen, ende sij hebben die ouerhant ghecreghen teghen Roboam Salomons sone, Ende Roboam was ongheoeffent ende bloode van herten, ende hy en conde hen niet wederstaen)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Ezra 9:6 ende ick heb gheseyt (Mijn Godt ick scame ende ontsie my mijn aensicht op te heffen tot v want ons boosheden sijn vermenichfuldicht op ons hooft, ende onse misdaden sijn ghewassen totten hemel toe,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Matthew 1:22 (Ende dit is altemale ghedaen, om dat volbracht soude worden datter gheseyt is vanden Heere door den propheet segghende.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Matthew 1:23 Siet een maghet sal beurucht sijn ende baren eenen sone, ende sij sullen sijnen naem noemen Emmanuel, dwelc is te segghen God met ons)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	John 6:27 Werct spijse die niet en vergaet maer die altijt blijft totten eewigen leuen die v die sone des menschen gheuen sal) want desen heeft Godt die vader besegelt.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Acts 17:11 (Ende dit waren die edelste van henlieden die te Thessalonice sijn die dwoert ontfanghen hebben met gheheelder begheerten, daghelijcs ondersoeckende die scriftueren, oft dese dinghen alsoe waren.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Acts 19:22 Ende sendende in Macedonien (twee vanden ghenen die hen dienden Timotheum ende Erastum, is hy selue een luttel tijts ghebleuen in Asien,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Acts 19:23 Ende op dien tijt is gheschiet een beroeringhe, die niet cleyn was) van den wech des Heeren,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Acts 19:34 Den welcken (als sij ghekent hadden een Iode te sijn, soo isser een groot ghecrijsch ghesciet van hen allen omtrent twee vren lanck roepende, Die groote Diana der Ephesianen,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Acts 21:32 Die welcke ter stont met hem nemende die ruyters ende honderste mannen, is afgheloopen tot henlieden die welcke (als sij den capiteyn ghesien hadden ende die ruyters, soo hebben sij opghehouden van Paulum te slaen,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Acts 22:2 (Maer doen sij ghehoort hadden dat hy in hebreusscher talen sprack tot hen, soo hebben sij noch meerder stilte ghehouden,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Acts 22:3 Ende hy seyt). Ick ben een Ioetsch man gheboren te Tharsen in Cilicien, maer opgheuoedt in dese stadt, aen die voeten van Gamaliel gheleert nae die waerheyt van onser vaderen wet, een vierich naeuolgher der wet ghelijc ghy allegader heden sijt,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Romans 7:24 (Ick onsalich mensch, wie sal my verlossen van dlichaem deser doodt?	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Romans 7:25 Die gratien Godts, door Iesum Christum onsen Heere) Aldus diene ick selue met die redene der wet Godts maer nae dat tvleesch, der wet der sonden. 	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	I Corinthians 12:12 Want ghelijck dat lichaem een is, ende heeft veel leden, ende alle die leden des lichaems al sijn sij vele) sijn nochtans een lichaem alsoo is Christus oock,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	II Corinthians 7:2 Verstaet ons) Niemanden en hebben wy ghequetst, niemanden en hebben wy verarghert, niemanden en hebben wi bedroghen,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/2)	II Corinthians 10:10 want voerwaer die brieuen (segghen sij) die sijn swaer ende sterc, maer die teghenwoerdicheyt des lichaems is cranc, ende die sprake versmadelijc)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Galatians 2:6 maer van die ghene die scenen wat te sijne (hoedanich sij voortijts geweest sijn daer en legt mi niet aen, God en verkiest den persoon vanden mensch niet, want die ghene die scenen wat te sijne en hebben my niet ghegheuen,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Ephesians 2:2 (in die welcke ghy voortijts ghewandelt hebt, nae den loop deser werelt, nae den prince des machts van deser locht des gheests die nv werct in die kinderen der wanhopen	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Ephesians 2:3 onder die welcke wi allegader voortijts verkeert hebben in die lusten ons vleeschs, doende den wille des vleeschs ende der ghedachten, ende waren van natueren kinderen der gramscap ghelijc ooc die andere)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Ephesians 4:9 (Maer dat hy opgheclommen is wat is dat dan dat hy ooc nederghedaelt is ten iersten in die onderste deelen der eerden?	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Ephesians 4:10 Die nederghedaelt is, die selue eest ooc die opgheclommen is bouen alle die hemelen, om dat hijt al veruullen soude)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Hebrews 7:20 Ende in soo vele als dit niet en is sonder eedt (want die andere sijn voorwaer sonder eedt priesters gheworden,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Hebrews 7:21 maer dese met eenen eedt door den ghenen die tot hem gheseyt heeft. Die Heere heuet ghesworen ende ten sal hem niet berouwen, ghy sijt een priester inder eewicheyt)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(1/0)	Hebrews 12:20 (Want sij en verdroegen niet tghene datter gheseyt worde, Ende waert dat een beeste den berch raecte, die soude ghesteent worden,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Source	(0/1)	Hebrews 12:21 Ende also veruaerlijc waert datter ghesien worde, Moyses heeft gheseyt. Ick ben verscrict gheworden, ende heel beuende)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 012 013 Daer om bid ick v) segt dat ghy mijn suster sijt, op dat my wel gheschiede om uwen wille, ende dat mijn ziele mach leuende blijuen, ter gratien van v.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 003 004 Maer die Heere siende dat hy voortquam om te besien, heeft hem wt het midden des dorns gheroepen, ende gheseyt, Moyses Moyses? Ende hy antwoorde (Ick ben hier.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	003 LEV 026 011 Ic sal mijn tabernakel) stellen int midden van v lieden, ende mijn ziele en sal v niet verworpen.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(2/1)	005 DEU 019 006 op dat by auontueren die naeste (vanden ghenen wiens bloet ghestort is, wt droeuer gramscap verwect sijnde, hem niet en veruolghe ende grijpe (waert dat den wech verre ware) ende sloech die ziele van hem die der doot niet sculdich en is, want men thoont dat hy te voren teghen hem die doot gheslaghen is, gheenen haet en heeft ghehadt.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 026 010 Ende van Hosa, dat es van die sonen van Merari Semri die prince (want hy en hadde ghenen ierste gheboren, ende daer om hadde hem sijn vader ghestelt tot eenen prince	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 013 006 (Ende daer is opghestaen Ieroboam Nabats sone een knecht van Salomon Dauids sone ende hy heeft hem opghericht teghen sijnen Heere,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 013 007 Ende tot hem sijn vergadert seer ydel mannen ende Belials kinderen, ende sij hebben die ouerhant ghecreghen teghen Roboam Salomons sone, Ende Roboam was ongheoeffent ende bloode van herten, ende hy en conde hen niet wederstaen)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	015 EZR 009 006 ende ick heb gheseyt (Mijn Godt ick scame ende ontsie my mijn aensicht op te heffen tot v want ons boosheden sijn vermenichfuldicht op ons hooft, ende onse misdaden sijn ghewassen totten hemel toe,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	040 MAT 001 022 (Ende dit is altemale ghedaen, om dat volbracht soude worden datter gheseyt is vanden Heere door den propheet segghende.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	040 MAT 001 023 Siet een maghet sal beurucht sijn ende baren eenen sone, ende sij sullen sijnen naem noemen Emmanuel, dwelc is te segghen God met ons)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/2)	043 JOH 006 027 Werct spijse die niet en vergaet maer die altijt blijft totten eewigen leuen die v die sone des menschen gheuen sal) want desen heeft Godt die vader besegelt. (aiōnios g166)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 017 011 (Ende dit waren die edelste van henlieden die te Thessalonice sijn die dwoert ontfanghen hebben met gheheelder begheerten, daghelijcs ondersoeckende die scriftueren, oft dese dinghen alsoe waren.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 019 022 Ende sendende in Macedonien (twee vanden ghenen die hen dienden Timotheum ende Erastum, is hy selue een luttel tijts ghebleuen in Asien,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 019 023 Ende op dien tijt is gheschiet een beroeringhe, die niet cleyn was) van den wech des Heeren,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 019 034 Den welcken (als sij ghekent hadden een Iode te sijn, soo isser een groot ghecrijsch ghesciet van hen allen omtrent twee vren lanck roepende, Die groote Diana der Ephesianen,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 021 032 Die welcke ter stont met hem nemende die ruyters ende honderste mannen, is afgheloopen tot henlieden die welcke (als sij den capiteyn ghesien hadden ende die ruyters, soo hebben sij opghehouden van Paulum te slaen,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 022 002 (Maer doen sij ghehoort hadden dat hy in hebreusscher talen sprack tot hen, soo hebben sij noch meerder stilte ghehouden,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 022 003 Ende hy seyt). Ick ben een Ioetsch man gheboren te Tharsen in Cilicien, maer opgheuoedt in dese stadt, aen die voeten van Gamaliel gheleert nae die waerheyt van onser vaderen wet, een vierich naeuolgher der wet ghelijc ghy allegader heden sijt,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 007 024 (Ick onsalich mensch, wie sal my verlossen van dlichaem deser doodt?	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 007 025 Die gratien Godts, door Iesum Christum onsen Heere) Aldus diene ick selue met die redene der wet Godts maer nae dat tvleesch, der wet der sonden.	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	046 1CO 012 012 Want ghelijck dat lichaem een is, ende heeft veel leden, ende alle die leden des lichaems al sijn sij vele) sijn nochtans een lichaem alsoo is Christus oock,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	047 2CO 007 002 Verstaet ons) Niemanden en hebben wy ghequetst, niemanden en hebben wy verarghert, niemanden en hebben wi bedroghen,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/2)	047 2CO 010 010 want voerwaer die brieuen (segghen sij) die sijn swaer ende sterc, maer die teghenwoerdicheyt des lichaems is cranc, ende die sprake versmadelijc)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	048 GAL 002 006 maer van die ghene die scenen wat te sijne (hoedanich sij voortijts geweest sijn daer en legt mi niet aen, God en verkiest den persoon vanden mensch niet, want die ghene die scenen wat te sijne en hebben my niet ghegheuen,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(2/1)	049 EPH 002 002 (in die welcke ghy voortijts ghewandelt hebt, nae den loop deser werelt, nae den prince des machts van deser locht des gheests die nv werct in die kinderen der wanhopen (aiōn g165)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 002 003 onder die welcke wi allegader voortijts verkeert hebben in die lusten ons vleeschs, doende den wille des vleeschs ende der ghedachten, ende waren van natueren kinderen der gramscap ghelijc ooc die andere)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Maer dat hy opgheclommen is wat is dat dan dat hy ooc nederghedaelt is ten iersten in die onderste deelen der eerden?	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 Die nederghedaelt is, die selue eest ooc die opgheclommen is bouen alle die hemelen, om dat hijt al veruullen soude)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 Ende in soo vele als dit niet en is sonder eedt (want die andere sijn voorwaer sonder eedt priesters gheworden,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 maer dese met eenen eedt door den ghenen die tot hem gheseyt heeft. Die Heere heuet ghesworen ende ten sal hem niet berouwen, ghy sijt een priester inder eewicheyt) (aiōn g165)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 012 020 (Want sij en verdroegen niet tghene datter gheseyt worde, Ende waert dat een beeste den berch raecte, die soude ghesteent worden,	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 Ende also veruaerlijc waert datter ghesien worde, Moyses heeft gheseyt. Ick ben verscrict gheworden, ende heel beuende)	WARN
+Dutch---Leuvense-Bible	ENCLOSURES	Summary	lines	32 / 32	NOTICE
+
+# UNEXPECTED
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(`)	1/1	WARN
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	(/)	1/1	WARN
+Dutch---Leuvense-Bible	UNEXPECTED	Source/Aionian	Summary	2/2	WARN
+
+# NUMERALS
+Dutch---Leuvense-Bible	NUMERALS	Source	5	Sirach 0:0 Hier begint dat boeck Ecclesiasticus Iesu des soon Syrach, ende ierstmael die prologhe des ouversetters wten hebreeusschen in griecx. [1] VAN vele ende groote dinghen is ons door die wet ende propheten ende ander die hem geuolcht hebben, wijsheyt ghetoont, in die welcke men Israhel moet prijsen ter saken van wijsheyt ende gheleertheyt. Want niet alleen en moeten sij sprekende gheleert sijn, maer oock moghen die vreemde leerende ende scrijuende seer gheleert worden. [2] Ende mijn grootvader Iesus doen hy hem langhen tijt ghegeuen hadde tot die neersticheyt van te lesen die wet ende die propheten ende die ander boecken die ons van onsen ouders gheleuert sijn, soo heeft hy ooc iet willen scrijuen van desen dinghen die ter leeringhen ende wijsheyt behooren, op dat die ghene die begheeren te leeren, ende kennisse van die te crijghen, souden meer ende meer metter herten daer op mercken, ende versterct worden tot een wettelijc leuen. [3] Aldus vermaen ik v lieden te comen met goetwillicheyt, ende met meerder neersticheyt dit te lesen, ende oock ons te vergheuen in die dinghen daer wij volghende die ghelijckenisse der wijsheyt schijnen te ontbreken in die versaminge der woorden, want die hebreeussche woorden verliesen haer gratie als sij ouverghesedt sijn in een ander tale, Ende niet alleen dese dinghen, maer die wet ende die propheten ende die ander scriftueren van dander boecken en hebben gheen cleyn ondersceedt als sij in haer seluen gheseyt worden. [4] Want int achtendertichste iaer ten tijden van Ptolomeus Euergetis des conincks nae dat ick in Egipten comen was, ende doen ick daer langhen tijt gheweest hadde, soo heb ick daer gheuonden achterghebleuen boecken van gheen cleyn oft versmadelijcke leeringhen. [5] Hierom soo heuet my goet ende nootelijck ghedocht, dat ick oock eenighe neersticheyt ende arbeydt daer toe doen soude om desen boeck ouer te setten, ende met veel wakens heb ic neersticheyt daer toe ghedaen in die spacie van eenen tijt tot die dinghen die ten eynde brenghen, om desen boeck wt te gheuen, ooc om die ghene die hen herte daer toe stellen willen ende leeren hoe dat sij die manieren van leuen behooren in te setten, die nae des Heeren wet hebben opghestelt te leuen.	WARN
+Dutch---Leuvense-Bible	NUMERALS	Source	count	1	WARN
+Dutch---Leuvense-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Maer Iesus opstaende des morghens opden iersten dach vanden Sabboth heeft ierstmael gheopenbaert Marie magdalene, wt die welcke hy seuen duyuelen verdreuen hadde.	WARN
+Dutch---Leuvense-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,442 @@
+# File Name: Holy-Bible---Holy-Bible---Hungarian---Hungarian-Jewish-Bible---Analysis.txt
+# File Size: 41317       
+# File Date: 12/13/2025 05:38:49
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Az Izraelita-Magyar Biblia
+# Bible Name English: The Israeli-Hungarian Bible
+# Bible Language: Magyar Nyelv
+# Bible Language English: Hungarian
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: The Israelite Hungarian Literary Society
+# Bible Source Version: 4/24/2021
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=HunIMIT
+# Bible Source Year: 1898-1907, 1994
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Hungarian---Hungarian-Jewish-Bible	ENCODING	Source	Holy-Bible---Hungarian---Hungarian-Jewish-Bible---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCODING	Aionian	Holy-Bible---Hungarian---Hungarian-Jewish-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Hungarian---Hungarian-Jewish-Bible	BYTES	Source	bytes / chars	3504733 / 3213184 (multi-byte)	NOTICE
+Hungarian---Hungarian-Jewish-Bible	BYTES	Aionian	bytes / chars	3409165 / 3117722 (multi-byte)	NOTICE
+Hungarian---Hungarian-Jewish-Bible	BYTES	SourceClean	bytes / chars	3373270 / 3081721 (multi-byte)	NOTICE
+Hungarian---Hungarian-Jewish-Bible	BYTES	AionianClean	bytes / chars	3406519 / 3115118 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Hungarian---Hungarian-Jewish-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	AIONIAN	Aionian	book-defined-not-exist	200	NOTICE
+Hungarian---Hungarian-Jewish-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	AIONIAN	Aionian	aionian-verses	64	NOTICE
+Hungarian---Hungarian-Jewish-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Hungarian---Hungarian-Jewish-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Summary	(-)Orginal	82	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Summary	(+)Aionian	84	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : ([)	7	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : ( )	442194	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (T)	1081	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (e)	253029	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (s)	141834	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (t)	184210	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (a)	202296	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (m)	91036	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (n)	129215	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (1)	20276	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (H)	1982	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (d)	59142	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (i)	94201	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (g)	71616	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (])	7	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (\n)	24150	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (G)	2572	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (0)	5208	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (:)	31183	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (K)	3110	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (z)	98973	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (b)	37071	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (r)	90608	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (I)	14289	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (é)	83877	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (f)	23620	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ö)	30910	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (l)	140830	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (.)	19243	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (2)	14596	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (É)	7014	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (p)	17487	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (u)	23306	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (k)	128230	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (v)	46209	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (o)	88627	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (y)	41391	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (í)	12081	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (;)	7503	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (3)	9746	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (L)	1931	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (á)	79173	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (!)	1905	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (4)	7111	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (,)	51882	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (h)	42893	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (j)	30428	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ó)	25972	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin Extended-A : (ő)	18982	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (5)	5388	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (6)	4986	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (7)	4633	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ú)	7538	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (8)	4587	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (9)	4483	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin Extended-A : (ű)	2686	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ü)	10957	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (A)	4632	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (S)	5367	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (c)	14174	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (N)	3583	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (-)	1848	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (M)	5664	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (()	116	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : ())	116	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (E)	6984	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (Ö)	6890	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (D)	3433	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (P)	4045	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (C)	3574	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (V)	757	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (?)	1506	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (J)	8941	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (U)	310	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (B)	2074	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	General Punctuation : (–)	1095	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (R)	791	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (O)	351	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (Z)	675	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (Ú)	467	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Basic Latin : (x)	1253	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (Ü)	33	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	97653	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	33385	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	92540	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3175	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	13587	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	5467	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	3058	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	232602	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	97335	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	57198	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	181401	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	33614	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	122180	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	386289	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	82428	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	82086	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	8571	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	121356	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	190207	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	69154	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (é)	83838	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	23483	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ö)	30888	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	132547	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	19213	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	23134	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	24565	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (É)	7011	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	17443	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	15780	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	126743	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	81630	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	44345	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	79586	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	40407	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (í)	12065	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (;)	7512	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	13500	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	7032	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2063	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (á)	79168	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	1901	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	10458	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	51873	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	35765	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	30410	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ó)	25952	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ő)	18973	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	6798	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	7291	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	5764	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ú)	7529	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	6111	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	7785	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ű)	2689	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ü)	10950	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	10609	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	10015	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	10596	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	4172	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1846	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	7235	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (()	180	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : ())	180	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (Ö)	6879	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	4007	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	3855	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4268	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1612	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	1502	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	1333	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	8789	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	2641	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	3221	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	General Punctuation : (–)	1092	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	3342	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	4780	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	2209	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (Ú)	465	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1210	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (Ü)	31	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (x)	2	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	6	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Aionian(+)	Basic Latin : (])	6	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : ([)	7	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : ( )	442194	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (T)	1081	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (e)	253029	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (s)	141834	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (t)	184210	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (a)	202296	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (m)	91036	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (n)	129215	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (1)	20276	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (H)	1982	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (d)	59142	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (i)	94201	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (g)	71616	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (])	7	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (\n)	24150	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (G)	2572	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (0)	5208	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (:)	31183	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (K)	3110	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (z)	98973	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (b)	37071	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (r)	90608	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (I)	14289	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (é)	83877	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (f)	23620	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (ö)	30910	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (l)	140830	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (.)	19243	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (2)	14596	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (É)	7014	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (p)	17487	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (u)	23306	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (k)	128230	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (v)	46209	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (o)	88627	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (y)	41391	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (í)	12081	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (;)	7503	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (3)	9746	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (L)	1931	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (á)	79173	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (!)	1905	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (4)	7111	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (,)	51882	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (h)	42893	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (j)	30428	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	25972	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin Extended-A : (ő)	18982	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (5)	5388	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (6)	4986	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (7)	4633	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	7538	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (8)	4587	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (9)	4483	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin Extended-A : (ű)	2686	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (ü)	10957	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (A)	4632	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (S)	5367	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (c)	14174	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (N)	3583	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (-)	1848	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (M)	5664	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (Í)	857	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (()	116	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : ())	116	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (E)	6984	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (Ö)	6890	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (D)	3433	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (P)	4045	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (C)	3574	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (Á)	1551	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (V)	757	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (?)	1506	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (Ó)	156	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (J)	8941	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (F)	778	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (U)	310	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin Extended-A : (Ő)	191	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (B)	2074	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	General Punctuation : (–)	1095	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (R)	791	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (O)	351	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (Z)	675	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin Extended-A : (Ű)	2	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (Ú)	467	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Basic Latin : (x)	1253	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (Ü)	33	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	General Punctuation : (‘)	1	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	General Punctuation : (’)	1	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	General Punctuation : (—)	6	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	General Punctuation : (“)	1	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	Latin-1 Supplement: (Õ)	2	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNICODE	Source	General Punctuation : (…)	1	NOTICE
+
+# VERSIFICATION
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	002-EXO-020-024	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	002-EXO-020-025	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	002-EXO-020-026	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	004-NUM-036-013	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	012-2KI-019-035	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	012-2KI-019-036	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	012-2KI-019-037	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	020-PRO-027-024	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	020-PRO-027-025	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Aionian	missing	039-MAL-004-006	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Summary	missing	10	WARN
+Hungarian---Hungarian-Jewish-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Source	()	116 / 116	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Source	[]	7 / 7	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Aionian	()	180 / 180	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Aionian	[]	6 / 6	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Aionian	[1/0]	006 JOS 021 036 [Réubén törzséből: Bécert és közlegelőit, Jahcát és közlegelőit;	WARN
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Aionian	[0/1]	006 JOS 021 037 Kedémótot és közlegelőit, Méfáatot és közlegelőit – négy várost.]	WARN
+Hungarian---Hungarian-Jewish-Bible	ENCLOSURES	Summary	lines	0 / 2	WARN
+
+# UNEXPECTED
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Hungarian---Hungarian-Jewish-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Psalms 17:5 követték lépteim nyomdokaidat, nem tántorogtak 1ábaim.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Psalms 18:16 Meglátszottak a vizeknek medrei, feltárúltak a vi1ág alapjai, dorgálásodtól, oh Örökkévaló, orrod fuvallatának leheletétől.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Psalms 22:8 Mind a kik 1átnak, gúnyolódtak rajtam, félrehúzzák az ajkat, fejet ráznak.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Psalms 35:12 Rosszat fizetnek nekem jóért, gyötrelmére le1kemnek.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Psalms 35:26 Szégyenűljenek meg és piruljanak e1 egyetemben, kik örülnek bajomon, öltsenek szégyent és gyalázatot, kik fenhéjáznak ellenem.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Psalms 44:5 Te vagy királyom, oh Isten, rendeld e1 Jákób segítségét!	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	0	Psalms 52:8 0Majd látják az igazak és félnek, és ő fölötte nevetnek:	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Psalms 94:9 Vajon a ki fület plántál, nem hall-e, avagy a ki szemet alkot, nem 1át-e?	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	2	Psalms 111:1 Hallelúja! l2agasztalom az Örökkévalót egész szivből, egyeneseknek tanácsában és községben.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Ecclesiastes 1:8 Mind a dolgok fáradoznak: nem bírja senki elmondani, szem nem lakik jó1 látással és fű1 nem telik meg hallással.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Ecclesiastes 2:3 Vizsgálódtam szívemben, hogy jó1 tartom borral testemet – szívem pedig bölcsességgel vezet – s megragadom a balgaságot, mígnem látom, mi a jó az ember fiai számára, a mit cselekedjenek az ég alatt életük napjai tartamára?	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Ecclesiastes 4:8 van egy s nincs vele második, sem fia, sem testvére nincs neki; de nincs vége minden fáradságának, szeme sem lakik jó1 gazdagsággal: kiért fáradok én tehát, és megvonom lelkemtől a jót ? Ez is hiúság és rossz egy bajlódás!	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Ecclesiastes 5:9 A ki szereti az ezüstöt, nem lakik jó1 ezüsttel, s a ki szereti a gazdagságot, annak nincs termése. Ez is hiúság.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Ecclesiastes 6:3 Ha százat is nemzene valaki és sok esztendőt élne és legyenek bármily számosak életének évei, de lelke nem lakik jó1 a jóból és még temetése sem volt neki: azt mondom, jobb nálánál az idétlen!	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Ecclesiastes 8:16 Midőn ráadtam szívemet, hogy megismerjek bölcseséget s hogy lássam a bajlódást, mely történik a földön; hogy sem nappal, sem éjjel álmot a szemeiben nem 1át:	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	7	Esther 1:1 Történet Ahasvéros idejéből. Ahasvéros Indiától Etiópiáig 127 tartomány uralkodója volt.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	0	Esther 1:4 Megjelentek előtte a perzsa és méd vezérek, a nemesek és a tartományok vezetői. 180 napon át mutogatta nekik királyi gazdagságát és királyi nagyságának pompás fényét.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	2	Esther 3:7 Ahasvéros király uralkodásának 12. évében, az első, Niszán hónapban, Hámán sorsot vetett, napról napra, hónapról hónapra, a tizenkettedik hónapig, vagyis Ádár haváig.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	2	Esther 3:13 és futárokkal küldették el a király valamennyi tartományába, hogy egyetlen napon, a 12. hónap, vagyis az Ádár hónap tizenharmadikán, pusztítsanak el, gyilkoljanak le és semmisítsenek meg minden zsidót, ifjakat és öregeket, gyermekeket és nőket egyaránt, és hogy vagyonukat pedig zsákmányolják el.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	7	Esther 8:9 Abban az időben a harmadik hónapban, Sziván havában, annak huszonharmadik napján hívatták a király írnokait, akik leírtak mindazt, amit Mordecháj megparancsolta, a zsidóknak, a kormányzóknak, a helytartóknak és a tartományok vezető embereinek, melyet Indiától Etiópiáig, 127 tartományba, minden egyes nép saját nyelvén, a tartomány saját írásmódja szerint elküldtek, valamint a zsidóknak is a maguk írásával és a maguk nyelvén.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	5	Esther 9:21 Kötelezővé tette számukra, hogy tartsák meg Ádár hó 14. és 15. napját, évről évre,	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Daniel 1:20 És a bölcseség és értelem minden dolgában, a mit kivánt tőlük a király, tízszerte kiválóbbaknak találta őket mindaz irástudóknál, a jósokná1, kik egész királyságában voltak.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Daniel 6:24 Ekkor a királynak nagyon jó1 esett és meghagyta, hogy Dániélt felhozzák a veremből: s felhozatott Dániél a veremből s semmi sérelem rajta nem találtatott, mivel hitt Istenében.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Daniel 10:11 És szólt hozzám: Dániél, kedvelt férfiú, értsd meg a szavakat, a melyeket én hozzád szólok a állj fel, a hogy álltá1, mert most kiküldettem hozzád. S midőn beszéltem vele e szóval, fölálltam remegve.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Nehemiah 3:25 Pálá1, Uzaj fia, a szöglet tájától és a felső tornyon, a mely kiszökik a király házából, mely az őrség udvarához való; utána Pedája, Pareós fia.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	1	Nehemiah 11:31 Benjámin fiai pedig Gébátó1 kezdve: Mikhmás, Ajja, Bét-Él és leányvárosai;	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Source	count	26	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	012-2KI-010-022 Ekkor mondta a ruhatár felügyelőjének: Hozz ki öltözéket mind a Báa1 tisztelőinek! És kihozta nekik az öltözetet.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	016-NEH-003-025 Pálá1, Uzaj fia, a szöglet tájától és a felső tornyon, a mely kiszökik a király házából, mely az őrség udvarához való; utána Pedája, Pareós fia.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	016-NEH-011-031 Benjámin fiai pedig Gébátó1 kezdve: Mikhmás, Ajja, Bét-Él és leányvárosai;	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	127	017-EST-001-001 Történet Ahasvéros idejéből. Ahasvéros Indiától Etiópiáig 127 tartomány uralkodója volt.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	180	017-EST-001-004 Megjelentek előtte a perzsa és méd vezérek, a nemesek és a tartományok vezetői. 180 napon át mutogatta nekik királyi gazdagságát és királyi nagyságának pompás fényét.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	12	017-EST-003-007 Ahasvéros király uralkodásának 12. évében, az első, Niszán hónapban, Hámán sorsot vetett, napról napra, hónapról hónapra, a tizenkettedik hónapig, vagyis Ádár haváig.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	12	017-EST-003-013 és futárokkal küldették el a király valamennyi tartományába, hogy egyetlen napon, a 12. hónap, vagyis az Ádár hónap tizenharmadikán, pusztítsanak el, gyilkoljanak le és semmisítsenek meg minden zsidót, ifjakat és öregeket, gyermekeket és nőket egyaránt, és hogy vagyonukat pedig zsákmányolják el.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	127	017-EST-008-009 Abban az időben a harmadik hónapban, Sziván havában, annak huszonharmadik napján hívatták a király írnokait, akik leírtak mindazt, amit Mordecháj megparancsolta, a zsidóknak, a kormányzóknak, a helytartóknak és a tartományok vezető embereinek, melyet Indiától Etiópiáig, 127 tartományba, minden egyes nép saját nyelvén, a tartomány saját írásmódja szerint elküldtek, valamint a zsidóknak is a maguk írásával és a maguk nyelvén.	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	14	017-EST-009-021 Kötelezővé tette számukra, hogy tartsák meg Ádár hó 14. és 15. napját, évről évre,	WARN
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	019-PSA-017-005 követték lépteim nyomdokaidat, nem tántorogtak 1ábaim.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	019-PSA-018-015 Meglátszottak a vizeknek medrei, feltárúltak a vi1ág alapjai, dorgálásodtól, oh Örökkévaló, orrod fuvallatának leheletétől.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	019-PSA-022-007 Mind a kik 1átnak, gúnyolódtak rajtam, félrehúzzák az ajkat, fejet ráznak.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	019-PSA-035-012 Rosszat fizetnek nekem jóért, gyötrelmére le1kemnek.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	019-PSA-035-026 Szégyenűljenek meg és piruljanak e1 egyetemben, kik örülnek bajomon, öltsenek szégyent és gyalázatot, kik fenhéjáznak ellenem.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	019-PSA-044-004 Te vagy királyom, oh Isten, rendeld e1 Jákób segítségét!	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	019-PSA-094-009 Vajon a ki fület plántál, nem hall-e, avagy a ki szemet alkot, nem 1át-e?	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	2	019-PSA-111-001 Hallelúja! l2agasztalom az Örökkévalót egész szivből, egyeneseknek tanácsában és községben.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	021-ECC-001-008 Mind a dolgok fáradoznak: nem bírja senki elmondani, szem nem lakik jó1 látással és fű1 nem telik meg hallással.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	021-ECC-002-003 Vizsgálódtam szívemben, hogy jó1 tartom borral testemet – szívem pedig bölcsességgel vezet – s megragadom a balgaságot, mígnem látom, mi a jó az ember fiai számára, a mit cselekedjenek az ég alatt életük napjai tartamára?	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	021-ECC-004-008 van egy s nincs vele második, sem fia, sem testvére nincs neki; de nincs vége minden fáradságának, szeme sem lakik jó1 gazdagsággal: kiért fáradok én tehát, és megvonom lelkemtől a jót? Ez is hiúság és rossz egy bajlódás!	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	021-ECC-005-010 A ki szereti az ezüstöt, nem lakik jó1 ezüsttel, s a ki szereti a gazdagságot, annak nincs termése. Ez is hiúság.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	021-ECC-006-003 Ha százat is nemzene valaki és sok esztendőt élne és legyenek bármily számosak életének évei, de lelke nem lakik jó1 a jóból és még temetése sem volt neki: azt mondom, jobb nálánál az idétlen!	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	021-ECC-008-016 Midőn ráadtam szívemet, hogy megismerjek bölcseséget s hogy lássam a bajlódást, mely történik a földön; hogy sem nappal, sem éjjel álmot a szemeiben nem 1át:	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	027-DAN-001-020 És a bölcseség és értelem minden dolgában, a mit kivánt tőlük a király, tízszerte kiválóbbaknak találta őket mindaz irástudóknál, a jósokná1, kik egész királyságában voltak.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	027-DAN-006-023 Ekkor a királynak nagyon jó1 esett és meghagyta, hogy Dániélt felhozzák a veremből: s felhozatott Dániél a veremből s semmi sérelem rajta nem találtatott, mivel hitt Istenében.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	1	027-DAN-010-011 És szólt hozzám: Dániél, kedvelt férfiú, értsd meg a szavakat, a melyeket én hozzád szólok a állj fel, a hogy álltá1, mert most kiküldettem hozzád. S midőn beszéltem vele e szóval, fölálltam remegve.	ERROR
+Hungarian---Hungarian-Jewish-Bible	NUMERALS	Aionian	count	26	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

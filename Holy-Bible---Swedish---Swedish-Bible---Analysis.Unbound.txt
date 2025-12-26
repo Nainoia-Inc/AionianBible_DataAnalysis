@@ -1,0 +1,405 @@
+# File Name: Holy-Bible---Holy-Bible---Swedish---Swedish-Bible---Analysis.txt
+# File Size: 36139       
+# File Date: 12/13/2025 06:01:46
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Svensk Bibel
+# Bible Name English: Swedish Bible
+# Bible Language: Svensk
+# Bible Language English: Swedish
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Authorized Swedish Translation Committee
+# Bible Source Version: 2/7/2021
+# Bible Source Link: https://unbound.biola.edu
+# Bible Source Year: 1917
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Swedish---Swedish-Bible	ENCODING	Source	Holy-Bible---Swedish---Swedish-Bible---Source-Edition.UNBOUND.txt	UTF-8	NOTICE
+Swedish---Swedish-Bible	ENCODING	Aionian	Holy-Bible---Swedish---Swedish-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Swedish---Swedish-Bible	BYTES	Source	bytes / chars	4832331 / 4630810 (multi-byte)	NOTICE
+Swedish---Swedish-Bible	BYTES	Aionian	bytes / chars	4757317 / 4567149 (multi-byte)	NOTICE
+Swedish---Swedish-Bible	BYTES	SourceClean	bytes / chars	4830002 / 4628635 (multi-byte)	NOTICE
+Swedish---Swedish-Bible	BYTES	AionianClean	bytes / chars	4753680 / 4563517 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Swedish---Swedish-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Swedish---Swedish-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Swedish---Swedish-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Swedish---Swedish-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Swedish---Swedish-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Swedish---Swedish-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Swedish---Swedish-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Swedish---Swedish-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Swedish---Swedish-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Swedish---Swedish-Bible	UNICODE	Summary	(-)Orginal	61	NOTICE
+Swedish---Swedish-Bible	UNICODE	Summary	(+)Aionian	65	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (0)	59873	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (1)	61522	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (O)	31880	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (\t)	155840	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (I)	7783	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : ( )	708447	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (b)	37522	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (e)	281313	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (g)	102273	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (y)	14787	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (n)	239564	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (l)	169607	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (s)	188875	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (a)	297570	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (p)	33677	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (d)	186957	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (G)	5430	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (u)	65800	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (h)	106669	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (i)	149172	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (m)	108616	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (o)	152639	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (c)	58336	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (r)	229686	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (.)	30845	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (\r)	31168	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31168	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (2)	50743	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (v)	73277	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (t)	214066	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (,)	58299	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (A)	4338	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (3)	30706	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (:)	8301	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (»)	11391	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (V)	2276	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (4)	32365	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Latin-1 Supplement: (å)	63302	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (5)	22408	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (6)	22823	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (7)	19712	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (8)	20131	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (9)	21704	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (S)	9524	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (L)	1164	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (M)	6386	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (D)	8772	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (H)	11709	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (E)	16443	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (R)	14353	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (N)	16624	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (P)	1103	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (K)	1673	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (J)	8135	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (T)	2510	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (-)	2599	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (B)	2054	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (U)	329	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (()	68	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : ())	67	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source(-)	Basic Latin : (C)	48	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130519	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42421	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124328	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	7780	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	27356	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	12348	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	11061	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	702992	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	37531	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	281407	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	102485	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14801	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	239765	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	169676	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	188986	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	297769	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	33678	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	186972	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	65801	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	106798	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	149417	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	108623	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	152787	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	58338	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	229695	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	30773	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31081	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31075	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	15353	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	73275	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	214070	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	58304	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	13479	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17176	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	8303	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (")	11391	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	3539	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20002	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (å)	63301	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10269	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10721	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7441	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7854	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9292	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	15983	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	3747	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	10440	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	10731	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	15828	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	18506	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	4987	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	4357	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	13107	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	5258	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	2596	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	3503	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3835	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (()	406	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : ())	405	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4364	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Swedish---Swedish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (0)	59873	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (1)	61522	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (O)	31880	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (\t)	155840	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (I)	7783	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : ( )	708447	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (b)	37522	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (e)	281313	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (g)	102273	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (y)	14787	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (n)	239564	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (l)	169607	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (s)	188875	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (k)	82458	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (a)	297570	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (p)	33677	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (d)	186957	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (G)	5430	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (u)	65800	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (h)	106669	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (i)	149172	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (m)	108616	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (o)	152639	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (c)	58336	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (j)	30280	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (r)	229686	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (.)	30845	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (\r)	31168	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (\n)	31168	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (2)	50743	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (v)	73277	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (ö)	52290	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (t)	214066	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (,)	58299	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (A)	4338	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (ä)	72903	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (3)	30706	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (:)	8301	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (»)	11391	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (V)	2276	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (;)	9690	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (4)	32365	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (å)	63302	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (f)	64875	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (5)	22408	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (6)	22823	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (7)	19712	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (8)	20131	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (9)	21704	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (S)	9524	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (F)	1690	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (L)	1164	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (M)	6386	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (D)	8772	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (H)	11709	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (E)	16443	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (R)	14353	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (N)	16624	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (x)	866	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (P)	1103	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (K)	1673	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (J)	8135	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (')	2019	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (?)	2709	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (!)	911	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (T)	2510	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (Ä)	259	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (-)	2599	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (Y)	37	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (é)	994	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (B)	2054	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (U)	329	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (Ö)	101	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (Å)	116	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (()	68	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : ())	67	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	6	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (í)	4	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Latin-1 Supplement: (á)	1	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (C)	48	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+Swedish---Swedish-Bible	UNICODE	Source	Basic Latin : (])	2	NOTICE
+
+# VERSIFICATION
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-036	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-037	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	040-MAT-021-044	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Summary	missing	20	WARN
+Swedish---Swedish-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Swedish---Swedish-Bible	ENCLOSURES	Source	()	68 / 67	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	[]	2 / 2	NOTICE
+Swedish---Swedish-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Swedish---Swedish-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	()	406 / 405	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	[]	2 / 2	NOTICE
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	05O 2 10 49490 (Eméerna bodde där fordom, ett stort och talrikt och resligt folk, sådant som anakiterna. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	05O 2 12 49510 I Seir bodde däremot fordom horéerna, men Esaus barn fördrevo dem för sig och förgjorde dem och bosatte sig på det land som Herren hade givit dem till besittning.) 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	05O 2 20 49590 (Såsom ett rafaéernas land räknas också detta; rafaéer bodde fordom där; men ammoniterna kalla dem samsummiter. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	05O 2 23 49620 Likaså blevo avéerna, som bodde i byar ända fram till Gasa, förgjorda av kaftoréerna, som drogo ut från Kaftor och sedan bosatte sig i deras land.) 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	06O 12 7 61380 Och följande voro de konungar i landet, som Josua och Israels barn slogo på andra sidan Jordan, på västra sidan, från Baal-Gad i Libanonsdalen ända till Halakberget, som höjer sig mot Seir. (Josua gav sedan landet till besittning åt Israels stammar, efter deras avdelningar, 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	06O 12 8 61390 såväl Bergsbygden, Låglandet, Hedmarken och Bergssluttningarna som ock Öknen och Sydlandet, hetiternas, amoréernas, kananéernas, perisséernas, hivéernas och jebuséernas land.) 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	07O 20 27 70820 Och Israels barn frågade HERREN (ty Guds förbundsark stod på den tiden där, 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	07O 20 28 70830 och Pinehas, son till Eleasar, Arons son, gjorde tjänst inför den på den tiden); de sade: »Skall jag ännu en gång draga ut till strid mot min broder Benjamins barn, eller skall jag avstå därifrån?» HERREN svarade: »Dragen upp; ty i morgon skall jag giva honom i din hand.» 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	11O 9 16 90700 (Farao, konungen i Egypten, hade nämligen dragit upp och intagit Geser och bränt upp det i eld och dräpt de kananéer som bodde i staden, varefter han hade givit den till hemgift åt sin dotter, Salomos hustru. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	11O 9 19 90730 vidare alla Salomos förrådsstäder, vagnsstäderna och häststäderna, och vad annat Salomo kände åstundan att bygga i Jerusalem, på Libanon och eljest i hela det land som lydde under hans välde.) 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	11O 21 25 94790 (Också har ingen varit såsom Ahab, han som sålde sig till att göra vad ont var i HERRENS ögon, när hans hustru Isebel uppeggade honom därtill. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	11O 21 26 94800 Mycken styggelse förövade han, i det han följde efter de eländiga avgudarna, alldeles såsom amoréerna hade gjort, vilka HERREN fördrev för Israels barn.) 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	12O 9 14 97740 Och Jehu, son till Josafat, son till Nimsi, anstiftade nu en sammansvärjning mot Joram. (Joram hade då med hela Israel legat vid Ramot i Gilead för att försvara det mot Hasael, konungen i Aram; 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	12O 9 15 97750 men själv hade konung Joram vänt tillbaka, för att i Jisreel låta hela sig från de sår som araméerna hade tillfogat honom under hans strid mot Hasael, konungen i Aram.) Och Jehu sade: »Om I så viljen, så låten ingen slippa ut ur staden, som kan gå åstad och berätta detta i Jisreel.» 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	12O 13 4 98790 (Men Joahas bönföll inför HERREN, och HERREN hörde honom, eftersom han såg Israels betryck, då nu konungen i Aram förtryckte dem. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	12O 13 6 98810 Dock avstodo de icke från de Jerobeams hus' synder genom vilka denne hade kommit Israel att synda, utan vandrade i dem. Aseran fick också stå kvar i Samaria.) 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	14O 5 11 112830 Men när prästerna gingo ut ur helgedomen (ty alla präster som funnos där hade helgat sig, utan avseende på vilken avdelning de tillhörde; 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	14O 5 13 112850 och trumpetblåsarna och sångarna stämde på en gång och enhälligt upp HERRENS lov och pris), och när man nu lät trumpeter och cymbaler och andra instrumenter ljuda och begynte lova HERREN, därför att han är god, och därför att hans nåd varar evinnerligen, då blev huset, HERRENS hus, uppfyllt av en molnsky, 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	15O 4 6 121200 (Sedermera, under Ahasveros' regering, redan i begynnelsen av hans regering, skrev man en anklagelseskrift mot dem som bodde i Juda och Jerusalem. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	15O 4 23 121370 Så snart nu vad som stod i konung Artasastas skrivelse hade blivit läst för Rehum och sekreteraren Simsai och deras medbröder, gingo de med hast till judarna i Jerusalem och hindrade dem med våld och makt.) 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	17O 1 13 127190 Och konungen frågade de vise som voro kunniga i tidstecknens tydning (ty konungens ärenden plägade så läggas fram för alla i lag och rätt kunniga; 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	17O 1 14 127200 och han hade vid sin sida Karsena, Setar, Admata, Tarsis, Meres, Marsena och Memukan, de sju furstar i Persien och Medien, som voro konungens närmaste män och innehade främsta platsen i riket); han frågade: 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	20O 9 7 167140 (Den som varnar en bespottare, han får skam igen, och den som tillrättavisar en ogudaktig får smälek därav. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(0/1)	20O 9 10 167170 HERRENS fruktan är vishetens begynnelse, och att känna den Helige är förstånd.) 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	[1/0]	41N 16 9 249520 [Men efter sin uppståndelse visade han sig på första veckodagens morgon först för Maria från Magdala, ur vilken han hade drivit ut sju onda andar. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	[0/1]	41N 16 20 249630 Men de gingo ut och predikade allestädes. Och Herren verkade med dem och stadfäste ordet genom de tecken som åtföljde det.] 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	[1/0]	43N 7 53 264490 [Och de gingo hem, var och en till sitt. 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	[0/1]	43N 8 11 264600 Hon svarade: »Herre, ingen.» Då sade han till henne: »Icke heller jag dömer dig. Gå, och synda icke härefter.»] 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Source	(1/0)	45N 10 7 282610 ej heller: 'Vem vill fara ned till avgrunden (nämligen för att hämta Kristus upp ifrån de döda?'» 	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Eméerna bodde där fordom, ett stort och talrikt och resligt folk, sådant som anakiterna.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 I Seir bodde däremot fordom horéerna, men Esaus barn fördrevo dem för sig och förgjorde dem och bosatte sig på det land som Herren hade givit dem till besittning.)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Såsom ett rafaéernas land räknas också detta; rafaéer bodde fordom där; men ammoniterna kalla dem samsummiter.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Likaså blevo avéerna, som bodde i byar ända fram till Gasa, förgjorda av kaftoréerna, som drogo ut från Kaftor och sedan bosatte sig i deras land.)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	006 JOS 012 007 Och följande voro de konungar i landet, som Josua och Israels barn slogo på andra sidan Jordan, på västra sidan, från Baal-Gad i Libanonsdalen ända till Halakberget, som höjer sig mot Seir. (Josua gav sedan landet till besittning åt Israels stammar, efter deras avdelningar,	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	006 JOS 012 008 såväl Bergsbygden, Låglandet, Hedmarken och Bergssluttningarna som ock Öknen och Sydlandet, hetiternas, amoréernas, kananéernas, perisséernas, hivéernas och jebuséernas land.)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Och Israels barn frågade HERREN (ty Guds förbundsark stod på den tiden där,	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 och Pinehas, son till Eleasar, Arons son, gjorde tjänst inför den på den tiden); de sade: "Skall jag ännu en gång draga ut till strid mot min broder Benjamins barn, eller skall jag avstå därifrån?" HERREN svarade: "Dragen upp; ty i morgon skall jag giva honom i din hand."	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 009 016 (Farao, konungen i Egypten, hade nämligen dragit upp och intagit Geser och bränt upp det i eld och dräpt de kananéer som bodde i staden, varefter han hade givit den till hemgift åt sin dotter, Salomos hustru.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 009 019 vidare alla Salomos förrådsstäder, vagnsstäderna och häststäderna, och vad annat Salomo kände åstundan att bygga i Jerusalem, på Libanon och eljest i hela det land som lydde under hans välde.)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Också har ingen varit såsom Ahab, han som sålde sig till att göra vad ont var i HERRENS ögon, när hans hustru Isebel uppeggade honom därtill.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 Mycken styggelse förövade han, i det han följde efter de eländiga avgudarna, alldeles såsom amoréerna hade gjort, vilka HERREN fördrev för Israels barn.)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Och Jehu, son till Josafat, son till Nimsi, anstiftade nu en sammansvärjning mot Joram. (Joram hade då med hela Israel legat vid Ramot i Gilead för att försvara det mot Hasael, konungen i Aram;	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 men själv hade konung Joram vänt tillbaka, för att i Jisreel låta hela sig från de sår som araméerna hade tillfogat honom under hans strid mot Hasael, konungen i Aram.) Och Jehu sade: "Om I så viljen, så låten ingen slippa ut ur staden, som kan gå åstad och berätta detta i Jisreel."	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 013 004 (Men Joahas bönföll inför HERREN, och HERREN hörde honom, eftersom han såg Israels betryck, då nu konungen i Aram förtryckte dem.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Dock avstodo de icke från de Jerobeams hus' synder genom vilka denne hade kommit Israel att synda, utan vandrade i dem. Aseran fick också stå kvar i Samaria.)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 Men när prästerna gingo ut ur helgedomen (ty alla präster som funnos där hade helgat sig, utan avseende på vilken avdelning de tillhörde;	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 005 013 och trumpetblåsarna och sångarna stämde på en gång och enhälligt upp HERRENS lov och pris), och när man nu lät trumpeter och cymbaler och andra instrumenter ljuda och begynte lova HERREN, därför att han är god, och därför att hans nåd varar evinnerligen, då blev huset, HERRENS hus, uppfyllt av en molnsky,	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	015 EZR 004 006 (Sedermera, under Ahasveros' regering, redan i begynnelsen av hans regering, skrev man en anklagelseskrift mot dem som bodde i Juda och Jerusalem.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	015 EZR 004 023 Så snart nu vad som stod i konung Artasastas skrivelse hade blivit läst för Rehum och sekreteraren Simsai och deras medbröder, gingo de med hast till judarna i Jerusalem och hindrade dem med våld och makt.)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Och konungen frågade de vise som voro kunniga i tidstecknens tydning (ty konungens ärenden plägade så läggas fram för alla i lag och rätt kunniga;	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 och han hade vid sin sida Karsena, Setar, Admata, Tarsis, Meres, Marsena och Memukan, de sju furstar i Persien och Medien, som voro konungens närmaste män och innehade främsta platsen i riket); han frågade:	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 009 007 (Den som varnar en bespottare, han får skam igen, och den som tillrättavisar en ogudaktig får smälek därav.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 009 010 HERRENS fruktan är vishetens begynnelse, och att känna den Helige är förstånd.)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Men efter sin uppståndelse visade han sig på första veckodagens morgon först för Maria från Magdala, ur vilken han hade drivit ut sju onda andar.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 Men de gingo ut och predikade allestädes. Och Herren verkade med dem och stadfäste ordet genom de tecken som åtföljde det.]	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 053 [Och de gingo hem, var och en till sitt.	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 Hon svarade: "Herre, ingen." Då sade han till henne: "Icke heller jag dömer dig. Gå, och synda icke härefter."]	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Aionian	(2/1)	045 ROM 010 007 ej heller: 'Vem vill fara ned till avgrunden (nämligen för att hämta Kristus upp ifrån de döda?'" (Abyssos g12)	WARN
+Swedish---Swedish-Bible	ENCLOSURES	Summary	lines	29 / 29	NOTICE
+
+# UNEXPECTED
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Swedish---Swedish-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Swedish---Swedish-Bible	NUMERALS	Source	count	0	NOTICE
+Swedish---Swedish-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Men efter sin uppståndelse visade han sig på första veckodagens morgon först för Maria från Magdala, ur vilken han hade drivit ut sju onda andar.	WARN
+Swedish---Swedish-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

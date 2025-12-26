@@ -1,0 +1,579 @@
+# File Name: Holy-Bible---Holy-Bible---Haitian---Haitian-Creole-Smith---Analysis.txt
+# File Size: 72582       
+# File Date: 12/13/2025 05:36:04
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Bib Sen An
+# Bible Name English: Smith Haitian Creole Bible
+# Bible Language: Kreyòl Ayisyen
+# Bible Language English: Haitian Creole
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Felix Nixon
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=hatbsa
+# Bible Source Year: 2017-2023
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Haitian---Haitian-Creole-Smith	ENCODING	Source	Holy-Bible---Haitian---Haitian-Creole-Smith---Source-Edition.VPL.txt	UTF-8	NOTICE
+Haitian---Haitian-Creole-Smith	ENCODING	Aionian	Holy-Bible---Haitian---Haitian-Creole-Smith---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Haitian---Haitian-Creole-Smith	BYTES	Source	bytes / chars	4201301 / 4045282 (multi-byte)	NOTICE
+Haitian---Haitian-Creole-Smith	BYTES	Aionian	bytes / chars	4415418 / 4259192 (multi-byte)	NOTICE
+Haitian---Haitian-Creole-Smith	BYTES	SourceClean	bytes / chars	4200464 / 4044445 (multi-byte)	NOTICE
+Haitian---Haitian-Creole-Smith	BYTES	AionianClean	bytes / chars	4412007 / 4255800 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Haitian---Haitian-Creole-Smith	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Haitian---Haitian-Creole-Smith	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Haitian---Haitian-Creole-Smith	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Haitian---Haitian-Creole-Smith	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Haitian---Haitian-Creole-Smith	AIONIAN	Aionian	missing-verse	0	NOTICE
+Haitian---Haitian-Creole-Smith	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Haitian---Haitian-Creole-Smith	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Haitian---Haitian-Creole-Smith	UNPRINTABLE	Source	count	0	NOTICE
+Haitian---Haitian-Creole-Smith	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Haitian---Haitian-Creole-Smith	UNICODE	Summary	(-)Orginal	49	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Summary	(+)Aionian	52	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (G)	4339	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : ( )	855635	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (1)	30527	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (:)	38986	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (a)	337905	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (n)	284699	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (k)	101190	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (m)	77386	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (s)	112635	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (o)	212337	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (d)	48555	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (y)	101203	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (e)	280054	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (t)	148542	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (r)	66531	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (l)	118223	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (.)	40150	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (\n)	31103	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (2)	21721	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (L)	16565	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (i)	172668	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (,)	66670	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (p)	104553	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (b)	33614	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (u)	90508	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (3)	12297	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (A)	18268	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (g)	18080	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (4)	9176	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (5)	7089	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (6)	6497	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (7)	5935	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (S)	21702	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (8)	5780	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (9)	5635	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (c)	18467	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (h)	22035	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (0)	5473	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (T)	4726	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (M)	18606	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (P)	10986	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (H)	5283	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (O)	12492	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (J)	11794	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (-)	2430	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (()	329	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : ())	328	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Latin-1 Supplement: (ï)	1698	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source(-)	Basic Latin : (q)	69	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (0)	130610	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (1)	42505	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (G)	4351	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (a)	338104	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (n)	284904	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : ( )	793909	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (k)	101191	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (m)	77393	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (s)	112752	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (o)	212489	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (d)	48575	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (y)	101217	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (e)	280159	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (t)	148552	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (r)	66542	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (l)	118292	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (.)	40146	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (2)	31108	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (L)	16570	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (i)	172918	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (,)	66603	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (p)	104554	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (b)	33624	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (u)	90514	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (3)	17187	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (A)	18277	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (:)	7885	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (g)	18293	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (4)	20034	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (6)	10732	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (7)	7451	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (S)	21766	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (8)	7865	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (c)	18469	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (h)	22164	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (T)	4728	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (M)	18607	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (P)	10991	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (H)	5294	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (O)	12491	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (J)	11793	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (-)	2431	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (()	877	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : ())	876	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	1700	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Basic Latin : (q)	73	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (G)	4339	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (E)	21701	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (N)	14143	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : ( )	855635	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (1)	30527	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (:)	38986	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (a)	337905	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (n)	284699	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (k)	101190	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (ò)	25919	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (m)	77386	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (s)	112635	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (B)	8148	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (o)	212337	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (d)	48555	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (y)	101203	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (e)	280054	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (t)	148542	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (r)	66531	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (è)	72749	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (l)	118223	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (.)	40150	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (\n)	31103	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (2)	21721	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (L)	16565	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (f)	33379	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (v)	60708	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (i)	172668	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (,)	66670	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (p)	104553	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (b)	33614	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (u)	90508	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (j)	21281	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (3)	12297	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (A)	18268	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	General Punctuation : (“)	8409	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (K)	10201	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (g)	18080	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	General Punctuation : (”)	6406	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (4)	9176	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (w)	48161	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (5)	7089	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (6)	6497	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (7)	5935	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (S)	21702	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (8)	5780	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (z)	16476	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (9)	5635	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (c)	18467	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (h)	22035	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (0)	5473	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (;)	4968	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (T)	4726	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (D)	4547	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (F)	2044	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (R)	5271	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (M)	18606	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (Y)	9772	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (È)	7515	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (P)	10986	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (H)	5283	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (x)	50	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (C)	5135	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (V)	1843	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	General Punctuation : (‘)	1894	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (?)	3210	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	General Punctuation : (’)	1540	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (!)	1831	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (Z)	2334	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (O)	12492	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	General Punctuation : (—)	304	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (J)	11794	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (é)	5876	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (I)	6287	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (ë)	2734	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (-)	2430	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (É)	1859	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (()	329	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : ())	328	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (ï)	1698	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (U)	3649	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (W)	840	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (à)	29	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (ü)	508	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (')	8	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (ì)	9	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (Ò)	13	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (q)	69	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Basic Latin : (Q)	3	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (ó)	2	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (í)	1	NOTICE
+Haitian---Haitian-Creole-Smith	UNICODE	Source	Latin-1 Supplement: (á)	1	NOTICE
+
+# VERSIFICATION
+Haitian---Haitian-Creole-Smith	VERSIFICATION	Summary	missing	0	NOTICE
+Haitian---Haitian-Creole-Smith	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	()	329 / 328	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	()	877 / 876	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(2/1)	DEU 2:10 “(Avan, se te pèp Émim ki te rete la; yon gwo pèp, gran an kantite, e wo menm jan ak Anakim (jeyan yo).	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	DEU 2:12 Otrefwa, se te Oriyen yo ki te rete Séir, men fis a Esaü yo te deplase yo, te detwi yo devan yo, e yo te vin rete nan plas yo, jis jan ke Israël te fè lè yo te vin posede peyi pa yo ke SENYÈ a te bay yo.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	DEU 2:20 “(Li rele osi peyi a, Rephaïm, akoz Rephaïm yo te viv la avan sa, men Amonit yo rele yo Zamzumminim,	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	DEU 2:23 Epi Avyen ki te rete nan vil yo jis rive kote Gaza, Kaftorim yo ki te sòti nan Caphtor, te detwi yo, e te vin viv nan plas yo.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	DEU 3:13 Rès pati a Galaad la ak tout Basan an, wayòm Og la, mwen te bay a mwatye tribi Manassé a, tout rejyon a Argob la (pa tout Basan, se li yo rele peyi a Rephaïm yo.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	DEU 3:14 Jaïr, fis a Manassé a te pran tout rejyon Argob la jis rive nan lizyè Gechiyen yo ak Maakatyen yo, e yo te rele li Basan, selon pwòp non pa li, Havvoth-Jaïr, e se konsa li rele jis jodi a.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	DEU 10:6 (Alò, fis Israël yo te kite Beéroth-Bene-Jaakan pou rive Moséra. La Aaron te mouri, la li te antere, e fis li a, Éléazar te fè sèvis prèt nan plas li.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	DEU 13:7 nan dye pèp ki antoure nou yo, kit li touprè, kit li lwen, soti nan yon pwent latè jis rive nan lòt pwent lan),	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	DEU 29:16 (paske nou konnen kijan nou te viv nan peyi Égypte la ak kijan nou te pase nan mitan nasyon kote nou te pase yo;	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	DEU 29:17 anplis, nou te wè abominasyon pa yo ak zidòl pa yo an bwa, wòch, ajan ak lò, ki te avèk yo);	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	JDG 20:27 Fis Israël yo te mande devan SENYÈ a (paske lach temwayaj la te la nan jou sa yo,	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	2SA 4:2 Fis a Saül la te gen de mesye ki te kòmandan a bann sòlda yo. Non a youn se te Baana e lòt la te Récab, fis a Rimmon Beéroth yo, ki apatyen a fis Benjamin yo (paske Beéroth te konsidere kòm yon pati nan Benjamin.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	2SA 4:3 Tout Beyewotyen yo te sove ale pou rive Guitthaïm e te rete la kòm etranje jis rive jodi a).	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	1KI 18:3 Achab te rele Abdias ki te chèf sou lakay li. (Alò, Abdias te gen lakrent SENYÈ a anpil;	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	1KI 18:4 paske lè Jézabel te detwi pwofèt SENYÈ yo, Abdias te pran yon santèn nan pwofèt yo, li te kache yo pa senkant nan yon kav e li te founi yo avèk pen avèk dlo.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	1CH 5:1 Alò, fis a Ruben yo, premye ne an Israël la (paske se te premye ne li te ye, men akoz li te konwonpi kabann papa li, dwa nesans li te bay a fis a Joseph yo, fis Israël la; epi pou sa, li pa anwole nan istwa desandan yo selon dwa nesans lan.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	1CH 5:2 Sepandan Juda te reyisi depase frè li yo e soti nan li, chèf la te parèt, malgre dwa nesans lan te pou Joseph),	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	1CH 9:17 Alò, gadyen pòtay yo te Schallum, Akkub, Thalmon, Achiman avèk fanmi pa yo (Schallum, ki te chèf la,	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	1CH 9:18 estasyone jis koulye a nan pòtay wa a nan kote lès la). Sila yo te gadyen pòtay pou kan a fis a Lévi yo.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	EZE 1:2 (Sou senkyèm jou nan mwa a, nan senkyèm ane egzil a Wa Jojakin nan,	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	EZE 1:3 Pawòl SENYÈ a te rive eksprè a Ézéchiel, prèt la, fis a Buzi, nan peyi Kaldeyen yo akote rivyè Kebar a; epi la, men SENYÈ a te vini sou li.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(1/0)	MAR 7:3 (pwiske Farizyen yo avèk tout Jwif yo pa manje sof ke yo lave men yo kòrèk, pou obsève tradisyon a ansyen yo.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Source	(0/1)	MAR 7:4 Lè yo sòti nan mache, yo pa manje sof ke yo gen tan benyen. Anplis yo gen anpil lòt bagay ke yo konn resevwa kon prensip, tankou lavaj a tas, avèk krich, ak po kwiv yo.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(2/1)	005 DEU 002 010 “(Avan, se te pèp Émim ki te rete la; yon gwo pèp, gran an kantite, e wo menm jan ak Anakim (jeyan yo).	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Otrefwa, se te Oriyen yo ki te rete Séir, men fis a Esaü yo te deplase yo, te detwi yo devan yo, e yo te vin rete nan plas yo, jis jan ke Israël te fè lè yo te vin posede peyi pa yo ke SENYÈ a te bay yo.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 “(Li rele osi peyi a, Rephaïm, akoz Rephaïm yo te viv la avan sa, men Amonit yo rele yo Zamzumminim,	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Epi Avyen ki te rete nan vil yo jis rive kote Gaza, Kaftorim yo ki te sòti nan Caphtor, te detwi yo, e te vin viv nan plas yo.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 Rès pati a Galaad la ak tout Basan an, wayòm Og la, mwen te bay a mwatye tribi Manassé a, tout rejyon a Argob la (pa tout Basan, se li yo rele peyi a Rephaïm yo.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 Jaïr, fis a Manassé a te pran tout rejyon Argob la jis rive nan lizyè Gechiyen yo ak Maakatyen yo, e yo te rele li Basan, selon pwòp non pa li, Havvoth-Jaïr, e se konsa li rele jis jodi a.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Alò, fis Israël yo te kite Beéroth-Bene-Jaakan pou rive Moséra. La Aaron te mouri, la li te antere, e fis li a, Éléazar te fè sèvis prèt nan plas li.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	005 DEU 013 007 nan dye pèp ki antoure nou yo, kit li touprè, kit li lwen, soti nan yon pwent latè jis rive nan lòt pwent lan),	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (paske nou konnen kijan nou te viv nan peyi Égypte la ak kijan nou te pase nan mitan nasyon kote nou te pase yo;	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 anplis, nou te wè abominasyon pa yo ak zidòl pa yo an bwa, wòch, ajan ak lò, ki te avèk yo);	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Fis Israël yo te mande devan SENYÈ a (paske lach temwayaj la te la nan jou sa yo,	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 Fis a Saül la te gen de mesye ki te kòmandan a bann sòlda yo. Non a youn se te Baana e lòt la te Récab, fis a Rimmon Beéroth yo, ki apatyen a fis Benjamin yo (paske Beéroth te konsidere kòm yon pati nan Benjamin.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 Tout Beyewotyen yo te sove ale pou rive Guitthaïm e te rete la kòm etranje jis rive jodi a).	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Achab te rele Abdias ki te chèf sou lakay li. (Alò, Abdias te gen lakrent SENYÈ a anpil;	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 paske lè Jézabel te detwi pwofèt SENYÈ yo, Abdias te pran yon santèn nan pwofèt yo, li te kache yo pa senkant nan yon kav e li te founi yo avèk pen avèk dlo.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Alò, fis a Ruben yo, premye ne an Israël la (paske se te premye ne li te ye, men akoz li te konwonpi kabann papa li, dwa nesans li te bay a fis a Joseph yo, fis Israël la; epi pou sa, li pa anwole nan istwa desandan yo selon dwa nesans lan.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Sepandan Juda te reyisi depase frè li yo e soti nan li, chèf la te parèt, malgre dwa nesans lan te pou Joseph),	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	013 1CH 009 017 Alò, gadyen pòtay yo te Schallum, Akkub, Thalmon, Achiman avèk fanmi pa yo (Schallum, ki te chèf la,	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	013 1CH 009 018 estasyone jis koulye a nan pòtay wa a nan kote lès la). Sila yo te gadyen pòtay pou kan a fis a Lévi yo.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	026 EZE 001 002 (Sou senkyèm jou nan mwa a, nan senkyèm ane egzil a Wa Jojakin nan,	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	026 EZE 001 003 Pawòl SENYÈ a te rive eksprè a Ézéchiel, prèt la, fis a Buzi, nan peyi Kaldeyen yo akote rivyè Kebar a; epi la, men SENYÈ a te vini sou li.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (pwiske Farizyen yo avèk tout Jwif yo pa manje sof ke yo lave men yo kòrèk, pou obsève tradisyon a ansyen yo.	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 Lè yo sòti nan mache, yo pa manje sof ke yo gen tan benyen. Anplis yo gen anpil lòt bagay ke yo konn resevwa kon prensip, tankou lavaj a tas, avèk krich, ak po kwiv yo.)	WARN
+Haitian---Haitian-Creole-Smith	ENCLOSURES	Summary	lines	23 / 23	NOTICE
+
+# UNEXPECTED
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Haitian---Haitian-Creole-Smith	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	8	GEN 6:15 Se konsa ke ou va fè l: longè lach la va twa san koude (18 pous se yon koude), lajè li va senkant koude, e wotè li va trant koude.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	EXO 29:40 epi va genyen yon dizyèm efa (22 lit) farin fen, mele avè l yon ka in (22 lit) nan lwil ki bat, ak yon ka nan in (22 lit) diven kòm yon ofrann bwason avèk yon jèn mouton.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	6	LEV 19:36 Fòk balans nou yo jis, e pèz pwa nou yo jis; yon efa (22 lit) ki jis, e yon in (36 lit) ki jis. Mwen se SENYÈ nou an, ki te fè nou sòti nan peyi Égypte la.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	LEV 23:12 Alò, nan jou lè nou voye pake a anlè a, nou va ofri yon jenn mouton ki gen laj ennan(1 an) ki san defo pou yon ofrann brile bay SENYÈ a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	LEV 23:13 Ofrann sereyal li, alò, va 2 dizyèm yon efa farin melanje avèk lwil, yon ofrann pa dife bay SENYÈ a, yon bagay santi bon, avèk ofrann bwason li, yon ka in diven.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	LEV 23:17 Nou va pote soti nan domisil nou yo de (2) pen kòm yon ofrann voye anlè, ki fèt avèk de dizyèm yon efa. Yo va fèt avèk farin fen, kwit avèk ledven kòm premye fwi bay SENYÈ a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	LEV 23:18 Ansanm avèk pen an, nou va prezante sèt jenn mouton nan laj 1 nan, mal san defo, ak yon towo twoupo avèk de belye. Yo dwe yon ofrann brile bay SENYÈ a, avèk ofrann sereyal pa yo ak ofrann bwason pa yo, yon ofrann pa dife ki dous e santi bon a SENYÈ a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	LEV 23:19 Nou va osi ofri yon mal kabrit kòm yon ofrann peche, ak de mal mouton ki gen laj 1 nan kòm yon sakrifis ofrann lapè.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	LEV 25:29 “Menm jan an, si yon mesye vann yon kay nan yon vil ki antoure avèk miray, alò, dwa pou peye ranson pa l la va dire pou tout 1 nan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	LEV 25:30 Men si li pa peye ranson li an nan 1 nan ki ekoule a, alò, kay ki nan vil antoure avèk miray la va pase nèt bay sila ki te achte li pou tout jenerasyon li yo. Li p ap remèt nan jibile a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:21 Kantite mesye ki te konte nan tribi Ruben an te karann-si-mil-senk san (46,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:23 Kantite mesye ki te konte nan tribi Siméon an te senkant-nèf-mil, twa-san (59,300).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:25 Kantite mesye ki te konte nan tribi Gad la te karann-senk-mil-sis-san-senkant (45,650).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:27 Kantite mesye ki te konte nan tribi Juda a te swasann-katòz-mil-sis-san (74,600).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:29 Kantite mesye ki te konte nan tribi Issacar a te senkant-kat-mil-kat-san (54,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:31 Kantite mesye ki te konte nan tribi Zabulon an te senkant-sèt-mil-kat-san (57,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:33 Kantite mesye ki te konte nan tribi Éphraïm nan te karann-sèt-mil-senk-san (47,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:35 Fòs kantite mesye ki te konte nan tribi Manassé a te trann-de-mil-de-san (32,200).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:37 Kantite mesye ki te konte nan tribi Benjamin an te trann-senk-mil-kat-san (35,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:39 Kantite mesye ki te konte nan tribi Dan nan te swasann-de-mil-sèt-san (62,700).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:41 Kantite mesye ki te konte nan tribi Aser a te karanteyen-mil-senk-san (41,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:43 Kantite mesye ki te konte nan tribi Nephtali a te senkant-twa-mil-kat-san (53,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 1:46 Jiskaske tout mesye ki te konte yo te sis-san-twa-mil-senk-san-senkant. (603,550).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:4 avèk lame pa li. Men mesye ki te konte yo, swasann-katòz-mil-sis-san (74,600).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:6 avèk lame pa li. Mesye ki te konte yo te senkant-kat-mil-kat-san (54,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:8 avèk lame pa li, men mesye ki te konte yo, senkant-sèt-mil-kat-san (57,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:9 Total a mesye ki te konte nan kan Juda a te: san-katreven-si-mil-kat-san (186,400) selon lame pa yo. Yo va sòti avan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:11 avèk lame pa li. Men mesye ki konte yo, karant-si-mil-senk-san (46,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:13 avèk lame pa li. Mesye ki te konte yo te senkant-nèf-mil-twa-san (59,300).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:15 avèk lame pa li. Men mesye ki te konte yo; karann-senk-mil-sis-san-senkant (45,650).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:16 Total a mesye konte nan kan Ruben an te: san-senkanteyen-mil-kat-san-senkant (151,450). Se yo k ap sòti nan dezyèm nan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:19 Nan lame pa li, men sa ki konte yo; karann-mil-senk-san (40,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:21 avèk lame pa li. Men mesye sila ki te konte yo, trann-de-mil-de-san (32,200).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:23 avèk lame pa li. Men mesye sila ki te konte yo; trann-senk-mil-kat-san (35,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:24 Total a mesye konte nan kan Ephraïm yo te: san-ui-mil-san (108,100) pa lame pa yo. Yo va sòti nan twazyèm nan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:26 avèk lame pa li. Men mesye ki te konte yo; swasann-de-mil-sèt-san (62,700).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:28 avèk lame pa li. Men mesye sila ki te konte yo; karanteyen-mil-senk-san (41,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:30 avèk lame pa li. Men mesye sila ki te konte yo; senkant-twa-mil-kat-san (53,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:31 Total a mesye nan kan Dan yo te san-senkant-sèt-mil-sis-san. (157,600) Yo va sòti dènye avèk drapo pa yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 2:32 Sa yo se mesye ki te konte a fis Israël yo selon lakay papa zansèt pa yo; total a mesye a tout kan yo ki te konte pa lame yo te sis-san-twa-mil-senk-san-senkant (603,550)	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 3:22 Nan mesye konte yo tout gason soti nan yon mwa oswa plis te vin konte nan sèt-mil-senk-san (7,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 3:28 Nan konte tout gason nan laj yon mwa oswa plis, te gen ui-mil-sis-san (8,600) ki t ap fè devwa sanktyè a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 3:34 Mesye pa yo ki te konte pa tout gason ak laj yon mwa oswa plis yo, te si-mil-de-san (6,200).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 3:39 Tout mesye ki te konte pami Levit yo, ke Moïse avèk Aaron te konte selon kòmand a SENYÈ a, pa fanmi pa yo, tout gason ki te gen yon mwa oswa plis, te venn-de-mil (22,000).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	3	NUM 3:43 Tout premye ne nan gason yo soti nan laj a yon mwa oswa plis, mesye ki te konte pou yo te venn-de-mil-de-san-swasann-trèz22,273	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	3	NUM 3:46 Pou ranson a de-san-swasann-trèz (273) nan premye ne an Israël ki plis ke Levit yo,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	5	NUM 3:50 nan men a premye ne a fis Israël yo, li te pran lajan an an valè sik sanktyè a, mil-twa-san-swasann-senk (1,365) sik.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 4:36 Mesye pa yo ki te konte pa fanmi pa yo se te de-mil-sèt-san-senkant (2,750).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 4:40 Mesye ki te konte pa fanmi pa yo, pa lakay papa pa yo se te de-mil-sis-san-trant (2,630).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 4:44 Mesye ki te konte pa fanmi pa yo se te twa-mil-de-san (3,200).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 4:48 Mesye konte yo te ui-mil-senk-san-katreven (8,580).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 6:12 epi li va dedye a SENYÈ a jou li yo kòm yon Nazareyen, e li va mennen yon mal mouton nan laj 1 nan oswa plis kòm yon ofrann koupab. Men jou tan pase yo va vin anile akoz tan separasyon li an te vin konwonpi.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 6:14 Li va prezante ofrann li an bay SENYÈ a: yon mal mouton laj 1 nan san defo kòm yon ofrann brile, yon mouton femèl laj 1 nan san defo kòm yon ofrann peche, ak yon belye san defo kòm yon ofrann lapè,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:15 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:17 epi pou sakrifis ofrann lapè a, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Nachschon, fis a Amminadab la.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:21 Yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:23 epi pou sakrifis ofrann lapè a, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:27 yon jenn towo, yon belye, yon mal mouton nan laj 1 nan, pou yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:29 epi pou sakrifis ofrann lapè a, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Éliab la, fis a Hélon an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:33 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:35 epi pou ofrann sakrifis lapè a, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Élitsur a, fis a Schedéur a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:39 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:41 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Schelumiel la, fis a Schedéur a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:45 yon towo, yon belye, yon mal mouton nan laj 1 nan kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:47 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Élisaph la, fis a Déuel la.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:51 yon towo, yon belye, yon mal mouton nan laj 1 nan kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:53 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Élischama a, fis a Ammihud la.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:57 yon towo, yon belye, yon mal mouton nan laj 1 nan kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:59 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann Gamaliel, fis a Pedahtsur a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:63 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:65 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Abidan, fis a Guideoni a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:69 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:71 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Ahiézer, fis a Ammischaddaï a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:75 yon towo, yon belye, yon mal mouton avèk laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:77 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Paguiel, fis a Ocran an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:81 yon towo, yon belye, yon mal mouton avèk laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:83 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Ahira, fis a Enam an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 7:85 chak plato ajan te peze san-trant sik e chak bòl swasann-dis; tout ajan a zouti yo se te de-mil-kat-san (2,400) sik, selon sik sanktyè a;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 7:86 douz kiyè soup an lò, plen lansan, ki peze dis sik chak, selon sik a sanktyè a, tout lò a kiyè yo te fè san-ven (120) sik.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:87 Tout bèf pou ofrann brile a, douz towo, belye yo douz, mal mouton nan laj 1 nan avèk ofrann sereyal pa yo, e douz mal kabrit kòm ofrann peche a;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 7:88 epi tout bèf pou sakrifis lapè yo, venn-kat towo, belye yo, swasant, mal kabrit yo, swasant, mal mouton nan laj 1 nan yo, swasant. Sa se te ofrann dedikasyon lotèl la apre li te fin onksyone a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 9:22 Sof ke se te pou de jou, oswa yon mwa, oswa 1 nan ke nwaj la te mize sou tabènak la, depi li rete anwo li, fis Israël yo te rete nan kan an. Yo pa t pati. Men lè li te vin leve, yo te pati.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 14:34 Selon nonb de jou ke nou te fè ankèt nan peyi a, karant jou, pou chak jou, nou va pote inikite nou yo pandan 1 nan, Ki fè karantan total, e nou va konprann opozisyon Mwen an.’	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 15:27 Osi, si yon moun fè peche ki pa eksprè, alò, li va ofri yon femèl kabrit nan laj 1 nan kòm yon ofrann peche.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 16:49 Men sila ki te mouri nan gwo epidemi yo te katòz-mil-sèt-san (14,700), anplis sila ki te mouri akoz Koré yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 25:9 Sila ki te mouri yo akoz gwo epidemi an se te venn-kat-mil (24,000).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:7 Sila yo se fanmi a Ribenit yo: sila ki te konte nan yo a se te karann-twa-mil-sèt-san-trant (43,730).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:10 epi tè a te vin ouvri bouch li e te vale yo ansanm avèk Koré, lè konpanyen sa yo te vin mouri, lè dife a te devore de-san-senkant (250) mesye. Konsa, yo te devni yon egzanp.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:14 Sila yo se fanmi a Simeyonit yo, venn-de-mil-de-san (22,200).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:18 Sila yo se fanmi a fis a Gad yo selon sila ki te konte nan yo, te karant-mil-senk-san (40,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:22 Sila yo se fanmi a Juda selon sila ki te konte nan yo, se te swasann-sèz-mil-senk-san (76,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:25 Sila yo se fanmi a Issacar, selon sila ki te konte nan yo, se te swasann-kat-mil-twa-san (64,300).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:27 Sila yo se fanmi a Zabilonit yo selon sila yo ki te konte nan yo, se te swasant-mil-senk-san (60,500).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:34 Sila yo se fanmi a Manassé yo; epi sila ki te konte nan yo, se te senkann-de-mil-sèt-san (52,700).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:37 Sila yo se fanmi a fis a Ephraïm yo selon sila ki konte nan yo, se te trann-de-mil-senk-san (32,500). Sila yo se fis a Joseph yo selon fanmi pa yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:41 Sila yo se fis a Benjamin selon fanmi pa yo; epi sila ki te konte nan yo, se te karann-senk-mil-sis-san (45,600).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:43 Tout fanmi a Chouchamit yo selon sila ki te konte nan yo, se te swasann-kat-mil-kat-san (64,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:47 Sila yo se fanmi a fis Aser yo selon sila ki te konte nan yo, se te senkant-twa-mil-kat-san (53,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:50 Sila yo se fanmi a Nephtali yo selon fanmi pa yo, epi sila ki te konte avèk yo, se te karann-senk-mil-kat-san (45,400).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:51 Sila yo se sa yo ki te konte nan fis Israël yo, sis-san-en-mil-sèt-san-trant (601,730).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 26:62 Sila ki te konte nan yo te venn-twa-mil (23,000), tout gason soti nan yon mwa oswa plis, paske yo pa t konte pami fis a Israël yo akoz pa t gen eritaj ki te bay a yo menm pami fis Israël yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 28:3 Ou va di yo: ‘Sa se ofrann pa dife ke ou va ofri bay SENYÈ a: de mal mouton nan laj 1 nan, san defo, yon ofrann chak jou ki p ap janm sispann.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 28:11 “‘Nan kòmansman a chak nan mwa nou yo, nou va prezante yon ofrann brile a SENYÈ a: de towo avèk yon belye, sèt jenn mal mouton, avèk laj 1 nan san defo,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 28:19 Nou va prezante yon ofrann pa dife, yon ofrann brile bay SENYÈ a: de towo avèk yon belye ak sèt mal mouton nan laj 1 nan, ki san defo,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 28:27 Nou va ofri yon ofrann brile pou yon odè ki bon a SENYÈ a: de jenn towo, yon belye, sèt mal mouton nan laj 1 nan;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:2 Ou va ofri yon ofrann brile kòm yon odè ki bon a SENYÈ a: yon towo, yon belye, ak sèt mal mouton nan laj 1 nan, san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:8 Nou va prezante yon ofrann brile bay SENYÈ a kòm yon odè ki santi bon: yon towo, yon belye, sèt mal mouton nan laj 1 nan, ki pa gen okenn defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:13 Nou va prezante yon ofrann brile, yon ofrann pa dife kòm yon odè ki santi bon a SENYÈ a: trèz towo, de belye, katòz mal mouton nan laj 1 nan, ki san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:17 “‘Epi nan dezyèm jou a: douz towo, de belye, katòz mal mouton nan laj 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:20 “‘Epi nan twazyèm jou a: onz towo, de belye, katòz mal mouton nan laj 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:23 “‘Epi nan katriyèm jou a: de towo, de belye, katòz mal mouton nan laj 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:26 “‘Epi nan senkyèm jou a: nèf towo, de belye, katòz mal mouton nan laj 1 nan san defo’	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:29 “‘Alò, nan sizyèm jou a: uit towo, de belye, katòz mal mouton 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:32 “‘Alò, nan setyèm jou a: sèt towo, de belye, katòz mal mouton nan laj 1 nan, san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 29:36 Men nou va prezante yon ofrann brile, yon ofrann pa dife kòm yon ofrann ki santi bon bay SENYÈ a: yon towo, yon belye, sèt mal mouton nan laj 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:32 Alò, piyaj ki te rete nan byen ke mesye lagè yo te piyaje a te si-mil-swasann-kenz (675,000) mouton,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:33 swasann-douz-mil (72,000) bèf,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:34 swasanteyen-mil (61,000) bourik,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:35 epi nan Kretyen kaptif yo, fanm ki pa t janm konnen gason yo, tout moun te trann-de-mil (32,000).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	5	NUM 31:37 taks SENYÈ a te sis-san-swasann-kenz (675);	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	NUM 31:38 bèf yo te trann-si-mil (36,000), ladann taks la te swasann-douz (72);	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	NUM 31:39 bourik yo te trann-mil-senk-san (30,500), ladan yo taks SENYÈ a te swasanteyen (61);	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	NUM 31:40 moun vivan yo te sèz-mil (16,000), ladan yo taks SENYÈ a te trann-de (32) moun.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:43 Mwatye kongregasyon an te twa-san-trann-sèt-mil-senk-san (337,500) mouton,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:44 trann-si-mil (36,000) bèf,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:45 trann-mil-senk-san (30,500) bourik,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:46 moun vivan yo te sèz-mil (16,000)	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 31:52 Tout lò pou ofrann, yo te ofri devan SENYÈ a, soti nan kapitèn dè milye ak kapitèn dè santèn yo, se te sèz-mil-sèt-san-senkant (16,750) sik.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	3	NUM 33:39 Aaron te gen san-venn-twazan (123) lè li te mouri sou Mòn Hor a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 35:4 Tèren patiraj lavil ke nou te bay a Levit yo va rive soti nan miray lavil yo, pou lonje rive jis a mil (1,000) koude.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	NUM 35:5 Nou va, osi, mezire deyò lavil la nan kote lès, de-mil (2,000) koude, nan kote sid, de-mil (2,000) koude, nan kote lwès, de-mil (2,000) koude, ak nan kote nò, de-mil koude, avèk vil nan mitan li an. Sa va devni pou yo kòm tèren pa yo pou vil yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	DEU 24:5 “Lè yon nonm fenk pran yon madanm tounèf, li pa pou sòti avèk lame a, ni vin responsab okenn chaj. Li gen pou rete lib lakay li pandan 1 nan pou fè madanm ke li te pran an, gen kè kontan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	JOS 3:4 Sepandan, va gen antre nou ak li yon distans anviwon de mil koude (3,000 pye) pa mezi. Pa vin pi prè li, pou nou kapab konnen chemen ke nap pran, paske nou pa t janm fè wout sa a avan.”	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	JDG 20:25 Benjamin te sòti kont yo soti Guibea nan dezyèm jou a e yo te fè tonbe atè, ankò 18,000 òm pami fis Israël yo; tout moun ki te rale nepe yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	8	1SA 17:7 Manch a lans lan te tankou travès nan yon aparèy fè twal. Lans li an te peze sis san sik (anviwon 18 liv) an fè. Potè pwotèj li a osi te mache devan li.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	1SA 27:7 Nonb de jou ke David te viv nan peyi a Filisten yo se te 1 nan, kat mwa.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	1KI 7:38 Li te fè dis basen yo an bwonz, yon basen te kenbe karant bat 880 lit; chak basen te kat koude e nan chak nan dis baz yo, te gen yon basen.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	1KI 12:21 Alò, lè Roboam te retounen Jérusalem, li te rasanble tout kay Juda a ak tribi Benjamin an, 180,000 mesye chwazi ki te gèrye, pou goumen kont lakay Israël la pou restore wayòm a Roboam nan, fis Salomon an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	ISA 5:10 Paske kat ekta tèren p ap donnen plis ke yon bat (22 lit) diven e yon omè (220 lit) p ap bay plis ke yon efa (22 lit) sereyal.”	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	ISA 44:25 ki fristre sila yo ki plen ògeye ak mantè yo; ki te devwale divinò yo tankou moun fou, ki te fè mesye saj yo rale fè bak, pou l vire sajès yo fè 1 tounen foli;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	JER 13:23 Èske Etyopyen an ka chanje koulè po li, oswa leyopa a takte li yo? Sèl Konsa nou menm tou, ak abitid fè mal, ta ka chanje 1 pou vin fè byen.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	1	EZE 4:11 Dlo ou bwè a va yon sizyèm en (1 lit pa mezi). Ou va bwè l de tanzantan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	EZE 35:10 “‘“Akoz ou te di: ‘ De(2) Nasyon sila yo ak de(2) peyi sa yo va pou mwen e nou va posede yo,’ sepandan, SENYÈ a te la,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	EZE 45:14 Epi pòsyon lwil la jan li etabli a; yon dizyèm bat soti nan chak kò, (kò a tankou omè a, gen 10 bat).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	DAN 12:11 “Soti nan lè ke sakrifis nòmal la te vin aboli a abominasyon ak dezolasyon vin monte a, va genyen mil-de-san-katreven-dis (1,290) jou.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	5	DAN 12:12 Beni se sila ki va tann, e rive jis nan Mil-twa-san-trann-senk (1,335) jou yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	ZEC 5:7 Epi vwala, yon kouvèti an plon ki peze yon talan (40 kilo) te vin leve. Epi te gen yon fanm ki chita nan mitan panyen an”.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	ZEC 6:13 Wi, se Li menm ki va bati tanp SENYÈ a. Li va pote laglwa, e Li va chita pou gouvène sou twòn Li an. Konsa, Li va yon prèt ki chita sou twòn Li, e konsey lapè a va antre yo de (2).’”	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	0	MAT 26:53 Men èske nou panse ke Mwen pa kapab fè apèl a Papa M, e l ap voye ban Mwen plis ke douz lejyon (sa vle di 72,000) zanj?	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	2	HEB 6:18 Pouke pa de (2) bagay ki pa kab chanje yo, pa sila ke li enposib pou Bondye bay manti, nou menm ki te pran refij nan Kris la, nou genyen yon gwo ankourajman pou kenbe esperans ki plase devan nou an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Source	count	150	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	18	001-GEN-006-015 Se konsa ke ou va fè l: longè lach la va twa san koude (18 pous se yon koude), lajè li va senkant koude, e wotè li va trant koude.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	22	002-EXO-029-040 epi va genyen yon dizyèm efa (22 lit) farin fen, mele avè l yon ka in (22 lit) nan lwil ki bat, ak yon ka nan in (22 lit) diven kòm yon ofrann bwason avèk yon jèn mouton.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	22	003-LEV-019-036 Fòk balans nou yo jis, e pèz pwa nou yo jis; yon efa (22 lit) ki jis, e yon in (36 lit) ki jis. Mwen se SENYÈ nou an, ki te fè nou sòti nan peyi Égypte la.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	003-LEV-023-012 Alò, nan jou lè nou voye pake a anlè a, nou va ofri yon jenn mouton ki gen laj ennan(1 an) ki san defo pou yon ofrann brile bay SENYÈ a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	2	003-LEV-023-013 Ofrann sereyal li, alò, va 2 dizyèm yon efa farin melanje avèk lwil, yon ofrann pa dife bay SENYÈ a, yon bagay santi bon, avèk ofrann bwason li, yon ka in diven.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	003-LEV-023-018 Ansanm avèk pen an, nou va prezante sèt jenn mouton nan laj 1 nan, mal san defo, ak yon towo twoupo avèk de belye. Yo dwe yon ofrann brile bay SENYÈ a, avèk ofrann sereyal pa yo ak ofrann bwason pa yo, yon ofrann pa dife ki dous e santi bon a SENYÈ a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	003-LEV-023-019 Nou va osi ofri yon mal kabrit kòm yon ofrann peche, ak de mal mouton ki gen laj 1 nan kòm yon sakrifis ofrann lapè.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	003-LEV-025-029 “Menm jan an, si yon mesye vann yon kay nan yon vil ki antoure avèk miray, alò, dwa pou peye ranson pa l la va dire pou tout 1 nan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	003-LEV-025-030 Men si li pa peye ranson li an nan 1 nan ki ekoule a, alò, kay ki nan vil antoure avèk miray la va pase nèt bay sila ki te achte li pou tout jenerasyon li yo. Li p ap remèt nan jibile a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	22	004-NUM-003-043 Tout premye ne nan gason yo soti nan laj a yon mwa oswa plis, mesye ki te konte pou yo te venn-de-mil-de-san-swasann-trèz22,273	ERROR
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-006-012 epi li va dedye a SENYÈ a jou li yo kòm yon Nazareyen, e li va mennen yon mal mouton nan laj 1 nan oswa plis kòm yon ofrann koupab. Men jou tan pase yo va vin anile akoz tan separasyon li an te vin konwonpi.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-006-014 Li va prezante ofrann li an bay SENYÈ a: yon mal mouton laj 1 nan san defo kòm yon ofrann brile, yon mouton femèl laj 1 nan san defo kòm yon ofrann peche, ak yon belye san defo kòm yon ofrann lapè,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-015 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-017 epi pou sakrifis ofrann lapè a, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Nachschon, fis a Amminadab la.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-021 Yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-023 epi pou sakrifis ofrann lapè a, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-027 yon jenn towo, yon belye, yon mal mouton nan laj 1 nan, pou yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-029 epi pou sakrifis ofrann lapè a, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Éliab la, fis a Hélon an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-033 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-035 epi pou ofrann sakrifis lapè a, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Élitsur a, fis a Schedéur a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-039 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-041 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Schelumiel la, fis a Schedéur a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-045 yon towo, yon belye, yon mal mouton nan laj 1 nan kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-047 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Élisaph la, fis a Déuel la.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-051 yon towo, yon belye, yon mal mouton nan laj 1 nan kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-053 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Élischama a, fis a Ammihud la.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-057 yon towo, yon belye, yon mal mouton nan laj 1 nan kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-059 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann Gamaliel, fis a Pedahtsur a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-063 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-065 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Abidan, fis a Guideoni a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-069 yon towo, yon belye, yon mal mouton nan laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-071 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Ahiézer, fis a Ammischaddaï a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-075 yon towo, yon belye, yon mal mouton avèk laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-077 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Paguiel, fis a Ocran an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-081 yon towo, yon belye, yon mal mouton avèk laj 1 nan, kòm yon ofrann brile;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-083 epi pou ofrann sakrifis lapè yo, de bèf, senk belye, senk mal kabrit, senk mal mouton nan laj 1 nan. Sa se te ofrann a Ahira, fis a Enam an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-087 Tout bèf pou ofrann brile a, douz towo, belye yo douz, mal mouton nan laj 1 nan avèk ofrann sereyal pa yo, e douz mal kabrit kòm ofrann peche a;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-007-088 epi tout bèf pou sakrifis lapè yo, venn-kat towo, belye yo, swasant, mal kabrit yo, swasant, mal mouton nan laj 1 nan yo, swasant. Sa se te ofrann dedikasyon lotèl la apre li te fin onksyone a.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-009-022 Sof ke se te pou de jou, oswa yon mwa, oswa 1 nan ke nwaj la te mize sou tabènak la, depi li rete anwo li, fis Israël yo te rete nan kan an. Yo pa t pati. Men lè li te vin leve, yo te pati.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-014-034 Selon nonb de jou ke nou te fè ankèt nan peyi a, karant jou, pou chak jou, nou va pote inikite nou yo pandan 1 nan, Ki fè karantan total, e nou va konprann opozisyon Mwen an.’	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-015-027 Osi, si yon moun fè peche ki pa eksprè, alò, li va ofri yon femèl kabrit nan laj 1 nan kòm yon ofrann peche.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-028-003 Ou va di yo: ‘Sa se ofrann pa dife ke ou va ofri bay SENYÈ a: de mal mouton nan laj 1 nan, san defo, yon ofrann chak jou ki p ap janm sispann.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-028-011 “‘Nan kòmansman a chak nan mwa nou yo, nou va prezante yon ofrann brile a SENYÈ a: de towo avèk yon belye, sèt jenn mal mouton, avèk laj 1 nan san defo,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-028-019 Nou va prezante yon ofrann pa dife, yon ofrann brile bay SENYÈ a: de towo avèk yon belye ak sèt mal mouton nan laj 1 nan, ki san defo,	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-028-027 Nou va ofri yon ofrann brile pou yon odè ki bon a SENYÈ a: de jenn towo, yon belye, sèt mal mouton nan laj 1 nan;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-002 Ou va ofri yon ofrann brile kòm yon odè ki bon a SENYÈ a: yon towo, yon belye, ak sèt mal mouton nan laj 1 nan, san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-008 Nou va prezante yon ofrann brile bay SENYÈ a kòm yon odè ki santi bon: yon towo, yon belye, sèt mal mouton nan laj 1 nan, ki pa gen okenn defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-013 Nou va prezante yon ofrann brile, yon ofrann pa dife kòm yon odè ki santi bon a SENYÈ a: trèz towo, de belye, katòz mal mouton nan laj 1 nan, ki san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-017 “‘Epi nan dezyèm jou a: douz towo, de belye, katòz mal mouton nan laj 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-020 “‘Epi nan twazyèm jou a: onz towo, de belye, katòz mal mouton nan laj 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-023 “‘Epi nan katriyèm jou a: de towo, de belye, katòz mal mouton nan laj 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-026 “‘Epi nan senkyèm jou a: nèf towo, de belye, katòz mal mouton nan laj 1 nan san defo’	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-029 “‘Alò, nan sizyèm jou a: uit towo, de belye, katòz mal mouton 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-032 “‘Alò, nan setyèm jou a: sèt towo, de belye, katòz mal mouton nan laj 1 nan, san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	004-NUM-029-036 Men nou va prezante yon ofrann brile, yon ofrann pa dife kòm yon ofrann ki santi bon bay SENYÈ a: yon towo, yon belye, sèt mal mouton nan laj 1 nan san defo;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	005-DEU-024-005 “Lè yon nonm fenk pran yon madanm tounèf, li pa pou sòti avèk lame a, ni vin responsab okenn chaj. Li gen pou rete lib lakay li pandan 1 nan pou fè madanm ke li te pran an, gen kè kontan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	3	006-JOS-003-004 Sepandan, va gen antre nou ak li yon distans anviwon de mil koude (3,000 pye) pa mezi. Pa vin pi prè li, pou nou kapab konnen chemen ke nap pran, paske nou pa t janm fè wout sa a avan.”	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	18	007-JDG-020-025 Benjamin te sòti kont yo soti Guibea nan dezyèm jou a e yo te fè tonbe atè, ankò 18,000 òm pami fis Israël yo; tout moun ki te rale nepe yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	18	009-1SA-017-007 Manch a lans lan te tankou travès nan yon aparèy fè twal. Lans li an te peze sis san sik (anviwon 18 liv) an fè. Potè pwotèj li a osi te mache devan li.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	009-1SA-027-007 Nonb de jou ke David te viv nan peyi a Filisten yo se te 1 nan, kat mwa.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	880	011-1KI-007-038 Li te fè dis basen yo an bwonz, yon basen te kenbe karant bat 880 lit; chak basen te kat koude e nan chak nan dis baz yo, te gen yon basen.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	180	011-1KI-012-021 Alò, lè Roboam te retounen Jérusalem, li te rasanble tout kay Juda a ak tribi Benjamin an, 180,000 mesye chwazi ki te gèrye, pou goumen kont lakay Israël la pou restore wayòm a Roboam nan, fis Salomon an.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	22	023-ISA-005-010 Paske kat ekta tèren p ap donnen plis ke yon bat (22 lit) diven e yon omè (220 lit) p ap bay plis ke yon efa (22 lit) sereyal.”	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	023-ISA-044-025 ki fristre sila yo ki plen ògeye ak mantè yo; ki te devwale divinò yo tankou moun fou, ki te fè mesye saj yo rale fè bak, pou l vire sajès yo fè 1 tounen foli;	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	024-JER-013-023 Èske Etyopyen an ka chanje koulè po li, oswa leyopa a takte li yo? Sèl Konsa nou menm tou, ak abitid fè mal, ta ka chanje 1 pou vin fè byen.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	1	026-EZE-004-011 Dlo ou bwè a va yon sizyèm en (1 lit pa mezi). Ou va bwè l de tanzantan.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	10	026-EZE-045-014 Epi pòsyon lwil la jan li etabli a; yon dizyèm bat soti nan chak kò, (kò a tankou omè a, gen 10 bat).	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	40	038-ZEC-005-007 Epi vwala, yon kouvèti an plon ki peze yon talan (40 kilo) te vin leve. Epi te gen yon fanm ki chita nan mitan panyen an”.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	166	040-MAT-018-008 “Si men nou oubyen pye nou fè nou tonbe, koupe l e jete l lwen nou. Li pi bon pou antre nan lavi tankou yon kokobe oubyen bwate, pase ak toude men ak pye nou pou nou ta jete nan lanfè etènèl la. (aiōnios g166, questioned)	ERROR
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	72	040-MAT-026-053 Men èske nou panse ke Mwen pa kapab fè apèl a Papa M, e l ap voye ban Mwen plis ke douz lejyon (sa vle di 72,000) zanj?	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Alò, apre Li te leve bonè nan premye jou semèn nan, Li te parèt premyèman a Marie Magdala, moun sou sila ke Li te retire sèt move lespri yo.	WARN
+Haitian---Haitian-Creole-Smith	NUMERALS	Aionian	count	71	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

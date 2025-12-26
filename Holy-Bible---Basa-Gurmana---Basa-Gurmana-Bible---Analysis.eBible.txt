@@ -1,0 +1,630 @@
+# File Name: Holy-Bible---Holy-Bible---Basa-Gurmana---Basa-Gurmana-Bible---Analysis.txt
+# File Size: 83673       
+# File Date: 12/13/2025 05:11:24
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Kɔrɔmba
+# Bible Name English: Basa-Gurmana Bible
+# Bible Language: Kɔrɔmba
+# Bible Language English: Basa-Gurmana
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: The Word for the World International
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=buj
+# Bible Source Year: 2025
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Basa-Gurmana---Basa-Gurmana-Bible	ENCODING	Source	Holy-Bible---Basa-Gurmana---Basa-Gurmana-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	ENCODING	Aionian	Holy-Bible---Basa-Gurmana---Basa-Gurmana-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Basa-Gurmana---Basa-Gurmana-Bible	BYTES	Source	bytes / chars	144556 / 140183 (multi-byte)	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	BYTES	Aionian	bytes / chars	153233 / 147065 (multi-byte)	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	BYTES	SourceClean	bytes / chars	126400 / 122547 (multi-byte)	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	BYTES	AionianClean	bytes / chars	151936 / 145772 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Basa-Gurmana---Basa-Gurmana-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	AIONIAN	Aionian	book-defined-not-exist	242	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	AIONIAN	Aionian	aionian-verses	22	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Basa-Gurmana---Basa-Gurmana-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Summary	(-)Orginal	63	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Summary	(+)Aionian	68	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (M)	1158	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (A)	1615	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (T)	1125	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : ( )	23234	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (1)	872	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (:)	1104	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (O)	135	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (t)	3679	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (a)	17879	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (k)	1898	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (d)	1181	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (n)	11153	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (b)	1393	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (i)	3988	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (o)	7335	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (g)	2684	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (u)	3005	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (Y)	335	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (e)	6240	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (s)	2251	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (K)	66	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (r)	3275	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (')	1615	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (w)	4260	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (D)	12	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (,)	1295	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (I)	105	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (h)	2763	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (m)	2549	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (\n)	1071	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Combining Diacritical Marks : (̱)	3853	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (P)	5	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (z)	36	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (Z)	11	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (p)	771	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (H)	35	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (R)	21	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (4)	309	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (N)	396	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (S)	101	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (l)	224	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (5)	276	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (B)	92	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (6)	261	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (W)	136	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (.)	819	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (U)	46	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (y)	1643	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (7)	230	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (8)	189	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (0)	169	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (c)	798	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (E)	63	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (<)	651	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (>)	412	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (?)	97	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (F)	43	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (G)	55	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (j)	20	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (!)	31	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (C)	20	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : ())	2	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source(-)	Basic Latin : (()	1	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	4985	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	1380	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	4284	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	1183	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	1694	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	1141	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	892	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	168	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	4201	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	20446	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	2224	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	1347	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	24075	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	12880	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	1611	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	4546	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	8514	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	3143	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	3449	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (Y)	367	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	7118	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	2523	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	96	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	3749	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (')	1850	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	4912	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	18	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	1491	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	122	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	3149	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	2908	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	37	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	1070	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Combining Diacritical Marks : (̱)	4373	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	11	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	41	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	12	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	897	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	45	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	27	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	437	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	117	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	271	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	284	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	121	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	288	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	167	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	961	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	48	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	1853	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	237	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	191	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	930	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	87	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	General Punctuation : (“)	428	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	General Punctuation : (”)	303	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	162	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (F)	45	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	89	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	23	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	53	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	23	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : (()	23	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Basic Latin : ())	24	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	General Punctuation : (’)	84	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	General Punctuation : (‘)	73	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	2	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	13	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (M)	1158	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (A)	1615	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (T)	1125	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : ( )	23234	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (1)	872	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (:)	1104	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (O)	135	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (t)	3679	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (a)	17879	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (k)	1898	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (d)	1181	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (n)	11153	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (b)	1393	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (i)	3988	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (o)	7335	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (g)	2684	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (u)	3005	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (Y)	335	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (e)	6240	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (s)	2251	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (K)	66	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (r)	3275	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (')	1615	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (w)	4260	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (D)	12	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (,)	1295	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (I)	105	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (h)	2763	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (m)	2549	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (\n)	1071	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (2)	902	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Combining Diacritical Marks : (̱)	3853	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (3)	389	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (P)	5	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (z)	36	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (Z)	11	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (p)	771	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (H)	35	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (R)	21	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (4)	309	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (N)	396	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (S)	101	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (l)	224	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (5)	276	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (B)	92	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (6)	261	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (W)	136	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (.)	819	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (U)	46	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (y)	1643	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (7)	230	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (8)	189	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (9)	164	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (0)	169	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (c)	798	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (E)	63	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (<)	651	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (>)	412	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (?)	97	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (F)	43	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (G)	55	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (j)	20	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (!)	31	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (C)	20	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (J)	1	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : ())	2	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNICODE	Source	Basic Latin : (()	1	NOTICE
+
+# VERSIFICATION
+Basa-Gurmana---Basa-Gurmana-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	()	1 / 2	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<>	651 / 412	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Aionian	()	23 / 24	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 1:20 Ama she a Isuhu wo tan netama yan'on Wotoma wo a̱ba̱ye wo Ashawa wa rage pi Isuhu narawo wa hyen wo, <<A Isuhu ba'a wo Dauda, ga'a to hoga ryansan ri tu ume i Maryamu an den wu'a̱ wo, enaande ka enan nanmen suwa̱ nonwan nasorya pa benhyan be Onhon go.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 2:2 ta'a a̱ rushigi a hyen,<< Nca wogoma wo Yahudawa awo a̱ ma̱ci? enande to hyande benangare arowa go ato rage to pana wo ototo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 2:5 A hyen wo, <<N ceso na Baitalami ona Yahudiya go, nde Wotoma wo Onhon wo range to hyan:	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 3:11 << Ga̱mi n ma̱ni gu nan be danganga o Baptisma, na an ma bisa̱ ma̱shishinga̱ ma̱hin, ama woto awo ne'enyan dewo na bo'o na̱mi wun huri uru, ko ataka nonwan n doga cewo n atana. A̱ure won be dangya o Baptisma in benhyan be Onhon pa̱ka̱ nora.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 3:14 Ama Ayohana wa̱ rubin to gamanga wo, wa hyen Iyesu, ga̱mi woto wo nan saro kon men dange obaptisma, awo rage pimi?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 4:7 Ayesu wa̱ ra̱'a̱n bu wa hyen, a range nhyen: Kure ma̱'a̱ni Ashawa Onhon nanwon.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 4:15 <<Cenge to Zabaluna n cenge to Naptali, n be'awo be Baha, n kaca na Ube na Urdun, n Galili n be'awo be ato naande cewo a Yahudawa,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 4:16 Ato na yan'cewo Onhon A̱ hendi tohan'an to Onhon, ato na koreke keto nu'o, Tohan'an twa ragane ga.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 4:19 A Yesu wa hyen ga, n dope ba nan be giwuro ato na tokentagana ato to rage pimi.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:11 <<Uno na reme un pihin sha ato aye twa'age aye pinrin aye ta̱gi kobe iri na kenoko	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:13 <<Ga̱hin she ma̱hota̱ go e ne'en n kanniyan, she ma̱hota̱ ma u niwa̱ gu an to naganaka mago, ma rakau yan'on olema an to tura̱ mago go ato ta'a a pondage	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:14 <<Ga̱hin go tohan'an to kanniyan, oceso nan kogo owa ca ma̱so'a̱n	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:17 << Ga'a ba to anga n dage n ciringa̱ tubisa̱ga̱ to Mosa n tubisa̱ga̱ to atoma na Onhon go, ama n dage go n shintuma̱nga̱.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:21 <<E hoge na a̱ bishi atoma naye ciga̱no nhyen, a̱ ga̱'i to kona woto, woto kone woto wuba̱, karere kan to kentana wo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:23 <<Nadea̱nno, sha won to pana osadaka n bekondo be Onhon, a̱bire ta'a awu ma̱ta̱ma̱ringi nhyen wo omange yan'on monran n woyan'on wo	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:25 <<Ko den kushine ko maropan n woto wo owane pa woto wo shetara she etan tohano pa shetara, ma̱re woto wure awo ta̱ga̱nu n woto shetara, woto wo shetara ta'a awo owane pa a iya na wogoma, awo mansan n kurkuku.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:27 <<E hoge a hyan, ga̱'a ton dan ma̱ye'o.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 5:31 <	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:33 <<Ta'a e hogwa a hyen ato na huro, ga'a ba ma̱shiwuro, ama ga̱mi n hyen shi'a̱ nshiwuron na me won den na Ashawa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 5:38 <	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 5:43 <<E hoge a hyan, 	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 6:1 <<En da ba suku, ma̱re ton da kaye na̱hin ton de tohyanda to a̱she, she en den a̱nde e rawon tu ciga̱ ocewa na̱hin pa Ashawa n tonran.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 6:2 <<She i pa̱ni ato na rawo osadaka ga'a ba to na'an tu hita̱ga̱ she nde ato na tuka̱ryo ata dan n pa̱ri pa aduwa nanwan nonyan ta'a na ato an ma hewaka ga, mahenda a̱ ra̱'o ocewa nanwan go a̱nde	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 6:5 << Ta'a she en ton dan aduwa kire ke rawon nenwan nshe ato na tuka̱ryo, ana ta ruwa̱ to na'an na aduwa be'eshe n pa̱ri pa aduwa nen yan'yan ta'a na ato an ma hyanda ga. Mahenda mago ma nan bi bisa̱, a̱ ra̱'o ocewa nanwan.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<5/0>	MAT 6:9 << Anna en ton dan aduwa: <<<Ashawa na̱tu anan dewa nanmen tonran, a̱ pa̱ni rira̱'i rewo ototo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 6:13 kure ko to owan cewo pa tomo'on, ama ku tu a̱pa̱ni n woto wo kenoko.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 6:16 << She en re'ore, kire ki ha̱ciga̱ni ciwu a̱she nde ato na tuka̱ryo ata dan, naande ata hacegana a̱she na ko'eyawa wan ma hyanda nhyen an re'ore. Mahenda mago ma nan bi bisa̱ga̱ a̱ ra̱'o ocewa nanwan wono.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 6:19 << Kire ke romangage cewo unbu na̱hin toryan'on n kanniyan, apa renhyan n tuwo ton to hacegana, apa a̱nhin ta'a an to yan'son to koma a̱ gegi a̱ hin.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 6:22 <<A̱she a̱wa̱re an den becella be to'oawa. She a̱she nanwon an kamon ca to'oawa towo tun tu shina̱ n tohan'an	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 6:24 <<Woto wo rawo awon ton dan wogema nande a na'an toma pa ato na egewa rewu, ko a̱ rubi wuka̱ a eshe wuka̱, ko ta'a won to na'an ropa monran ma woto wuka̱ a̱re a rope cewo ma woto won hyan'on. Ma rawon man dan ke na'an ropa Ashawa Onhon naande ta'a ke na'an ropa nsara.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 6:25 << Nadea̱nno nen bi bisa̱ga̱ nhyen, kire ki ma̱ta̱ ciwu etama na ena en korya, ko ena en to swa, ko ta'a na en tu ciga̱ mewa na en mata'agana n to'oawa tuhin, behono bi huri ciwu irikorya, ta'a to'oawa tu huri ciwu aronga.?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 6:31 Nadea̱nno ki ga̱'i mata etama nhyen, ko ta'a ko ta'a, <	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 7:1 <<Ga'a ba to keragya ko'eyawa karere ma̱re ga̱hin ta'a aye kerage,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 7:6 << Ga'a ba to pana shaa ena shigere ciwu. ga'a ba ta'a to masangya arere na egewa ulu'ulu'u na̱hin. ma̱re a pondange a magetogya aye ha̱nda̱ganu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 7:7 <<Rushiga̱ ba an be pana, sara ba en tu ciga̱, emanga ba a̱no an be uciga̱ge.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 7:9 <<A̱ure, she ba'a wo wu rushigi wu apoen a̱ pa̱ni wu otare?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 7:15 << Owana ba suku na atoma na tobya. anan to rage nan mewa na me a̱ta̱ka̱ na ita̱ma̱'in, ama nanmen nanwan a kerkece go.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 7:21 <<Nca ko'eyawa awo tan hyan Ashawa, Ashawa, go won tu gega̱ n togoma to tonran, sede woto won den iri na Ashawa nan tonran an saro.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 7:24 <<Nadea̱nno woto hoge monran ma̱mi wa̱ shi'i mago n rekoko rewa wo ne'en she woto wu ma̱ egewa nonwan nisupa̱ go.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 7:27 Na̱ a̱shira̱ kenyan myanron me shini, ta'a opera uwa̱ hupirge uwa̱ ripi egewa wa̱re, eya kenange.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/3>	MAT 8:4 Nande Ayesu wa hyen wo, <> Ama hura̱ ku bishi unbu nanwon pa Firist ku pa̱ni iwuki nde tubisa̱ga̱ to Mosa to hyen. En da a̱nno na an ma bisa̱ ato nhyen wo mahoge.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/3>	MAT 8:6 <> Wogema wu mi wun pa̱re wu wa̱ci n egewa wu ruma̱gi ma'inna>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 8:8 Nande woto ototo wo ato na ma̱ka̱ri wure wo Roma wa̱ ra̱'a̱ni wa hyen Iyesu, << Ashawa, N doga cewo ko rage negewa na̱mi. Ama en dan monran wogema wumi won mohoga.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 8:9 Ga̱mi n unbu na̱mi n ka'ara ka woto go n ne'en ta'a wogema n ka'ara ka̱mi. she n hyen woto na a̱ huri, she n hyen wo ta'a, a rage ta'a.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 8:10 Na Yesu wo hoge a̱nde naande wan de omamake, wa hyen ato nan toropa wo <<Mahenda mago ma nan bi bisa̱ga̱ ko nanmen Israila n ta̱ cigi ciwu woto wo tomasana anmen to otope she to woto wonna.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 8:13 nande Ayesu wa hyen woto ototo wo ato na ma̱ka̱ri ana ogesa ryaga en bon dan n to masana anmen towo.>> a̱ bire wogema wo wa, wa mohoge.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<4/0>	MAT 8:19 Nande yan'on <<Ka̱ma̱la̱n ka tubisa̱ga̱ to Mosa ka rage ka hyen wo,<<Ka̱ma̱la̱n, nan bo ropa apa wun tu hura̱	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 8:22 Ayesu ta'a wa hyen wo, <<N dope, ga'a ato na eshe man dopa ana rawo benhyan a̱ ma̱ni ayan'on nanwon na o'gi.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/3>	MAT 8:26 Wa hyen ga, <> Ga̱hin ato na tomasana anmen tu yemi ciwu?>> nande wa kuriki wa̱ gusa̱ni opera n nube opera uwa̱ wa̱ci	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 8:29 <<Yegu won sara n ga̱tu, wo rage ko to ce'entoma gwa? pana she beka̱ni bi tu beta den cewo	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 9:2 A̱bire a owangya Iyesu yan'on woto wu ruma̱ngi ma'inna wu wa̱ta̱ki n uturu. na Yesu hendi tomasana anmen twawa, wa hyen wo, <<ba'a wu mi ga'a to na'an netama en dan anmen cende, a wo ciringa̱gi ciri'i towo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 9:6 Ama nen saro ke yan'son nhyen Ba'a wo woto wo omange a̱ta̱ra̱n nata ciringa̱gi ciri'i to kanniyan, ta'a wa hyen woto wure wu ruma̱ngi,<< Ikurka̱, ku wa̱rigi etaro nanwon ku huri giye.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 9:9 Na Ayesu ga̱'i pa̱re, wa̱ hendi yan'on woto awo rira̱'i rewa Amatiyu wo koreke, owa a Matiyu ka woto wo tora'aga ka̱gondo go. A Yesu wa hyen wo, <<N dopya, wa̱ kurki ta'a wa rope wo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 9:11 Na a Farisiyawa a̱ hendi a̱nde, a̱ rushigi ato na moma'anga na Yesu a hyen, <<Yegu naande woto ototo wuhin wan korya iri korya n woto wo tora'aga ka̱gondo pa̱ka̱ ta'a nato naande ciri'i	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 9:15 Ayesu wa̱ ra̱'a̱ni ga wa hyen,<<Atoginto na u'a̱ngo a rawon ton da anmen shiri she u'a̱ngo u ta̱n pa̱ka̱ nanwan? Ai beka̱ni be ne'en na an tu umena̱ ga u'a̱ngo a̱bire be an ton da re'ore.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 9:16 <<Woto wo rawo awon tu ta̱ga̱nu ewa na goshe n yade na̱son a̱ ta̱gi, enande a na̱son an ta handa ana goshe, hare tu a̱ni to hando tu ka̱hin.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 9:17 Woto wo rawo ta'a awon tu kuga̱ ma̱ni ma ina̱bi ma̱son n shemo she goshe, she a̱ kuga̱ni, shemo shen to komatongo, ma̱ni ma ina̱bi ta'a ma turi, sede a̱ kuga̱ni n shemo she son. She an de a̱nno ma̱ni ina̱bi ma rawon tu tura̱ ko ta'a shemo she komantango.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 9:21 Nande wu'a̱ wure wa hyen nanmen nonwan, ko she ewa nonwan e bawa go n a̱ta̱ni, nen mohoga.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 9:27 Na Ayesu wo maheketane pa̱re ta'a yan'on a̱ruwa̱ rewu, a rope wo n tu'umena̱ bengoro a ange, <<Gawo Ba'a wo Dauda hoga yanman na̱tu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/3>	MAT 9:28 Na Ayesu gegi ne yan'on egewa, a̱ruwa̱ wa̱re a rage pi Yesu wa hyen ga, e masane anmen nhyen n omange a̱ta̱ra̱n na nen be hogaka?>> A̱ ra̱'a̱ni Yesu a hyen, <>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 9:37 A̱bire a Yesu wa hyen ato na moma'anga non wan,<< Uguwa̱ u yemi, ta'a ato nan ton da Uguwa̱ a̱ yen ciwu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 9:38 Rushiga̱ ba Ashawa na Uguwa̱, aye tomangya nato na Uguwa̱ nahwa.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 10:5 Ato opa na ato rewu wa̱re go Ayesu wo tomane wa̱ pa̱ni ga uno wa hyen<<Kire ki gegi ciwu n cenge to ato nande cewo Ayahudawa, ko ta'a ko'ebe oceso na Samariyawa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 10:7 Ke na'an tohano ke na'an bansan ke anga togoma to tonran to ne'enyan keto.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 10:11 <<Ko'ebe oceso ko a̱hira̱ ta'a na i gegi ki sa̱ri woto wo omange kaye ke na'an negewa nonwan hare ki ga̱'i pa̱re.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 10:32 << Ca woto wu ra̱'a̱ni nhyan owa a̱wu mi go nan to ra'a ta'a nhyan owa a̱wumi go nekogo na Ashawa na̱mi awon tonran.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 10:34 <<Ga'a ba to anga nhyen n dage n owane okamo n kanniyan go. N owan cewo okamo n kanniyan, ama renbota rego ren owane.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 10:35 N dage go n kwantan <<< woto na shawa nonwan rebonta, ba,a wa̱'a̱ na nanwan, wu'a̱ wo ba,a ta'a na ananwan na wa̱ri.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 10:36 Ato nan nanmen negewa na woto go an to na'an rishiwu nonwan.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 10:40 << Ca woto wuyi ra̱'i, wun ra̱'i gu a̱nde, ca ta'a woto wun ra̱'i, wu ra̱'i woto won tomane.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 10:42 Ta'a she woto wuba̱ wu pa̱ni ko she keronkwa kika̱ ki ma̱ni ma horpi n woto wanna wo nennen enaande won de woto wo moma'anga wu mi gu, n bi bishi mahenda Onhon on topana wo ocewa nonwan.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 11:4 Ayesu wa̱ ra̱'a̱ni ga wa hyen,<< Ryaga ba ki bishi yohana ena e hoge aye hendi ta'a:	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 11:6 Uno na reme on pa woto wo waca marocega sa̱bo na̱mi.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 11:7 Na ato na moma'anga na Yohana a̱ huri, Ayesu wa̱ rigi ukutu monran ma Yohana wo Baptisma wa hyen,<<Yegu e sore to hyande n cenge tu ho'i? E sore to hyande anben na gensangage ana operan tu wuka̱ gwa?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 11:10 A̱ure wo an range monran muwa ama hyan: <<	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 11:17 <<	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/4>	MAT 11:19 Na Ba'a wo Woto wo rage wan korya wan toswa, aye hyan, <Hyanda ba woto wonna wu pici korya n to swa, wotoginto wo woto wo tora'aga ka̱gondo nato na <>> Ca a̱nde an to mapanga toyanson to Onhon n toma nonwan.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 11:21 <<Yana na̱hin, Korasin! yana na̱hin, Betsaida! Sha ana hyan otoma na tohyanda na an de pihin gu ana den n Taya pa̱ka̱ n Sidon, she ana ma̱shishingi hare a̱ mohopa̱ga̱ni mato a̱ ma̱pa̱ra̱gi shesoma n to'oawa tawa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 11:24 Ama ni bisa̱ga̱ n hibi na shetara an tu hura̱ to hoga yanman na ato be'awo bya Sodom n ga̱hin.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 11:25 Na uhibi wa̱re gu Ayesu wo hyen <<N bu kuni Ashawa, Ashawa naande tonran n kanniyan, enaande wu son'in iriri wanna pa ato na yan'son pa̱ka̱ nato na moma̱'a̱ngi, a̱ wu bishi a'o nan nennen.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 11:28 << Rage ba pimi ca na̱hin ato nan ma̱supo ato na utumi n re'owana re aronga na monren, nen be pana ohorna.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 11:30 Enande cegema tumi nca to gome togo, aronga na̱mi ta'a a manren cewo.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 12:3 Ayesu wa̱ ra̱'a̱ni ga wa hyen, <<E ta rotange cewo ena A dauda won den na wa hoge renmonron gwa, uwa natoginto na tohano tuwa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 12:11 Ayesu wa hyen ga, << She woto wuba̱ n nanmen ga̱hin wo omange bita̱ma̱'in bya kenan n hyanbe n uhibi na a̱subi wo rawon to gega̱ a sortome bego?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 12:12 Maa̱n ba na woto wu huri bita̱main odaraja! Nadea̱nno ma reme ato an de ena reme n uhibi na a̱subi.?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 12:29 < a̱ shiga̱ni aronga nonwan, nca she sha wu cigi to kara woto wure wo omange a̱ta̱ra̱n? naande a gegi n egewa nonwan.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 12:30 <<Owa woto wo rawon pa̱ka̱ n ga̱mi, won rishiwu n ga̱mi, ta'a woto wo roman cewo n ga̱mi wota wasergaka.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 12:33 <<She e remake o'o ri'ori re owa ren to rema, a̱nde ta'a she e remake cewo o'o ri'ori re owa ta'a re rawon to rema, ata mapa o'o n ri'ori re owa go.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 12:43 <<She nperan nan kenoko n sorya pa woto.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 12:48 Ayesu wa̱ ra̱'a̱ni woto wure wo hyen wo, << A̱ure won den kamaca ka̱mi na yan'on na̱mi?.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:3 Nade wa̱ bisa̱gi ga iriri na yemi na akosa, wa hyen ga: <<Yan'on wohwanyan go wu re kobera.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 13:9 Nade aYesu wa kokane to hyan woto wo omange atobe, a hoge.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:10 Nade ato na moma'anga a a rage pi Yesu a̱ rushigi wu a hyen, <<Nago wota na'angya ato monran nakosa go.?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:11 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Ga̱hin aye ga̱'i ke yan'son tuso'a̱n to togoma to tonran, ama awa a ga̱'i ciwu ga.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:13 Iwa̱re naande an na'ange ga monran na kosa: <<Enaande ko she a̱ ruka̱ni a ca hyanda, ko she a̱ shi'i atobe a ca hoga, a ca ta'a mapa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:14 An de a̱nno go na an ma̱ shintuma̱ monran ma Wotoma wo Onhon a Ishaya ama hyan: <<En to hoga ama e rawon to mapa, en to hyanda ama e rawon to mapa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:16 <<Ama uno na reme un na̱she na̱hin enaande ata hyanda, n shetobe shihin she tohoga.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 13:23 Enyanson na kenen n cenge to reme a̱wa̱re na hoge monran a̱ ma̱pi mago, mahenda a̱wa̱re a ton da esargo, hare an den, na̱ba̱ tariya, na̱ba̱ opa ta̱nihin, na̱ba̱ opa tato.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:24 Ta'a Ayesu wa owangya ga yan'on akosa wa hyen:<< An to man'anna togoma to tonran she woto awo ri enyanson nahwa nonwan.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:27 << Wogema wo woto wo egewa wa rage pewa wa hyen wo, woto wo egewa nca enyanson na reme na alkama go wu shin nahwa nanwon?, Nca pa anbe a sorya?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:28 <<	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 13:29 <<< wa hyen ga, ga'a ba ma̱re pa tukunba̱ga̱ anbe ki kubi ca na alkama.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 13:30 Ga'a ba anbe a na'an pa̱ka̱ she ohwa'a u ci, a̱bire nan tu bisa̱ ato na ohwa'a a cigi to hwa'a anbe wa̱re a romano a̱ pa̱pa̱rgi arowa arowa a dortoma, oalkama ka a romano a rogane n kapanga ka̱mi.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:33 Ayesu ta'a wa̱ bisa̱ka̱ni ga yan'on akosa wa hyen, <<Togoma to tonran she uyist go twa ne'en, ona yan'on wu'a̱ wu umi wa̱ biron ta̱hi to oalkama toma'a to tato hare to kurki.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 13:35 An de ma̱re na an ma shintuma̱ tu hita̱ to Wotoma wo Onhon a Ishaya go ama hyen, nan ton da monran nakosa nan tu bisa̱ga enan ma̱soin n ma̱riye ma kanniyan.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:37 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Woto wo ta̱ ra̱ enyanson wa̱re reme a̱ure Ba'a wo Woto.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:40 << She nde a̱ kunbin anbe a romano abe a dortoma ago, a̱nde en to na'an n tuhuwa̱ to kanniyan.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:44 <<Togoma to tonran she ubicigo gu twa ne'en ona bisa̱ni nahwa, ona woto wuba̱ wu cigi wa̱ bisa̱ka̱ni, wan nanmen cende nonwan, naande wa̱ huri wa̱ ka̱ta̱ngi ba̱nba̱n ena wa omange wa̱ ahwa wa̱re.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:45 << Hare benanba togoma to tonran she woto wo omange ena ka'ara go twa ne'en, wan saro ulu'uluu ona omange odaraja.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:47 <<Ta'a togoma to tonran she ka̱tuuwa̱ go twa ne'en ona a masane nube, uwa kentaganen kobe iri nan nwa̱	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 13:55 <<Nce ba'a wo wushebi wure go wanna, ananwan nonwan nce rira̱'i rewa a maryamu gwa, ayan'on nonwan ta'a nce a Yakubu na Isuhu na Saminu na Yahuza gwa.?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 13:56 Ayan'on nonwan a̱'a̱ nce pa̱ka̱ pa̱gu to na'ange nanwan han, nca pa woto wonna wu cige toyanson anna ba̱nba̱n?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 14:8 Ama na ananwan a̱ hurpa̱n bo atobe a hyen ashawa, n pa̱ni unbu na Yohana wo baptisima n katogwa kanna.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 14:17 Ato na moma'anga nonwan a̱ ra̱'a̱ni a hyen,<Kapoka ka tan nan nwa̱ n dewu gya go to omange.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 15:5 Ama aye ta bisa̱ga̱ nhyen she woto Omange iri na wan tu bena̱ ashawa nonwan ko ananwan nonwan nenwan ama wa hyan, <Ca, ena ina̱n tu biciga̱ pimi n shi'a̱gi Onhon.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 15:8 <<<Ato wanna nuno bawa go an man paga ototo. ama rekoko ryawa re magesangano n ga̱mi.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/3>	MAT 15:9 Wusu go an na'ange n sojada, tubisa̱ga̱ tawa to ato go ama a ange to Onhon togo.>>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 15:10 Nade a Yesu wa hecegane ukutu na ato wa hyen ga, <<Shi'a̱ ba atobe ki ma̱pi.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 15:11 N ce iri na ta̱ gega̱ n nuno na woto go ton da a Ama ena ta sorya nuno na woto go e ton da woto a >>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 15:13 A Yesu wa̱ ra̱'a̱ni ga wa hyen,<<Ca kobera ko den cewo ko Ashawa na̱mi anan tonran bere cewo an tu kunba̱ga̱ kogo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 15:14 Garega ga ba awa a̱ruwa̱ go ana ta owangana a̱ruwa̱ onyan. She ka wuruwa̱ wo owangane wuruwa̱ onyan, ca nanwan an makoceka n ka̱nga̱rmu.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 15:17 <<Nan monran ma tohyan ena woto re n ma̱riye e ta gega̱ nuno nonwan go naande i huri n suwa̱ naande e sore n to'oawa towa?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 15:18 Ama iri na ta sorya nuno n rekoko, go eya ta sorya iwore ka ta dan woto a shigere nekogo na Onhon.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 15:20 Iriri na ton da woto a wono ama korya n ka'ara ka mahita̱gu ciwu kaca ca da woto a >>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/1>	MAT 15:27 <<Nade wu'a̱ wure ta'a wa hyen,<>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/1>	MAT 15:34 A Yesu wa̱ rushigi ga wa hyen,<<Kapoka ka hanba kago ka e omange, a hyen wo<>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 16:2 Ayesu wa̱ ra̱'ani ga wa hyen,<< She marona man de aye hendi tonran to magetoge tu shende eta hyan ehen pa̱ri pan to rema bi'i, ama e rawon to yan'son to bisa̱ ato alama na beka̱ni.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 16:3 Ta'a n bongwa sha i hendi alama na pa̱ri pa ici eta hyan, <Yara a̱shira̱ an to kena, enande tonran tu wusu to magetoge tu shende.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 16:4 Ato na nyan manna ato na kenoko go ato na korya amana anan saro a̱ hendi yan'on alama ama a rawon yan'on alama na an to bisa̱ ga ba̱nta̱ nalama na Yunana.>> Nade a Yesu wa̱ ga̱'i ga wa huri.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 16:8 Na Yesu wu ma̱pi an de naande wa̱ rushigi ga wa hyen, <<Ga̱hin ato na to masana anmen na yemi ciwu, yegu de aye ange e rawo kapoka?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 16:11 Nago i ma̱pi ciwu nhyen nca monran ma kapoka mago man be na'ange mawa? Nhyen ke bereka unbu na̱hin n yist na Farisiyawa na Sadukiyawa.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 16:17 Nade a Yesu wa̱ ra̱'a̱ni i Simon Bitrus wa hyen, << Gawo woto wo uno na reme go, Simon ba'a wo Yona, naande n ce woto shiri go wu bishi, ama na sorya pa Ashawa na̱mi anan pa̱re n tonran.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 16:19 Nen bo pana ena tu uciga̱ togoma to tonran, ko'iwo na ika̱ ri n kanniyan en to na'an i ka̱ri n tonran, ena i ka̱rigi ta'a n kanniyan en to na'an i ka̱rigi n tonran.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 16:21 Na̱ri bire a Yesu wa̱ ri tu bisa̱ atona moma'anga nonwan nhyen ma kentane a̱ hurin Urshalima a hengago ba̱nta̱ ba̱nta̱ n sha'ara she ato ototo na Firistoci n shima̱la̱n she tubisa̱ga̱ to Mosa, kone wo ta'a ama n hibi na hen tato a̱ kurtuma̱ wo.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 16:24 Naande a Yesu wa hyen ato na moma'anga nonwan, <<Ca woto won saro nan dopa, she sha wo eshe unbu nonwan a̱ umi kawo'o ka tongera kawa an dope.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 16:28 Mahenda mago ma nan bi bisa̱ga̱, a'eyawa an panna a esage ana rawon tu uwa̱ga̱ hare she sha a̱ hendi to rage to Ba'a wo Woto n togoma towa.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 17:11 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<A̱nno ma kentane a Iliya a̱ cigi to rage, a nanganane ko'iwo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 17:12 Ama mahenda mago ma nan bi bisa̱ga̱, a Iliya wo ragwa a̱ ma̱pi ciwu hare an dange wo ena a̱ rubi. A̱nde ta'a Ba'a wo Woto won to hengago n sha'ara shawa.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/1>	MAT 17:15 Wa hyen wo,<> <<Awon shegoma she o'eyanbe won ma̱supo cenmon. Bekene wota kena nora, n ma̱ni ta'a.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 17:16 N owane wo pa ato na moma'anga nanwon ama a yan'cewo to hogaka wo.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/1>	MAT 17:20 A a Yesu wa̱ ra̱'a̱ni ga wa hyen,<< Enaande to masana anmen tuhin tu yemi ciwu gu. Mahenda mago nan bi bisa̱ga̱ she ena omange to masana anmen tu ci byan'son bi bi'eni, en to yan'son to hyan undu na, >	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 17:22 Na ato moma'anga na Yesu a manronmano pa̱ka̱ n Galili, a Yesu wa hyen ga, <<An to cewa Ba'a wo Woto n sha'ara she ato.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 17:23 An ka to kona wo,ama n hibi na hen tato an tu kurtuma̱ wu.>> Nade ca ato moma'anga nonwan a̱ri shenmen shi shiri.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:3 Wa hyen ga: << Mahenda mago man nan bi bisa̱ga̱, she i ma̱ shishingi ciwu, aye ne'en she a'o nan nennen e rawon tu gega̱ n togoma to tonran.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:5 <<Ta'a woto wu ra̱'i ba'a wo nennen she wonna n rira̱'i rimi wun da̱'i.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:7 <<Yana kanniyan enaande eta dan ciri'i! ma kentane ena tu kuna̱ ciri'i e rage, yana na woto wu kuwa̱ni ton da ciri'i ture.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:10 <<En da ba suku ma̱re i gina̱ ko wuka̱ na'o nan nennen. Nan bi bisa̱ga̱, atoma na a̱ba̱ye nanwan tonran bekene ata hyanda a̱she na Ashawa na̱mi a nan tonran.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:12 <<Yegu en netama? she woto omange ita̱ma̱'in tariya, bika̱ be na̱gi, wo rawon to ga'a e opa cishi na̱ cishi a̱re saro na bika̱ bi na̱gi?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:15 <<She woyan'on wo wo dange ena ren cewo, hura̱ ku bishi wu ena wa wo de, ga̱hin rewu nonwan. She wo rangatane, wo koshetomakan bo go a̱nde.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:18 <<Mahenda mago ma nan bi bisa̱ga̱, ena i unpin n kanniyan, en to na'an i upo n tonran, ena i ka̱rigi ta'a n kanniyan a̱ ka̱rigo n tonran.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:19 <<Ta'a, n bi bishi pa ato rewu n kanniyan a̱ ra̱'a̱ni koiwo na i rushigi yen'unrin, Ashawa na̱mi anan tonran won be dangya ego.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 18:20 Apa ato rewu ko atato a ne'en n rira̱'i rimi nan pa̱ka̱ nanwan.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:22 aYesu wa̱ ra̱'a̱n bu wa hyen wo, <<n bu bishi, nce ma tunda̱re ma bawa, ama hare ma opa tunda̱re n ma tunda̱re.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:23 <<Nadea̱nno, togoma to tonran to ne'en she wogoma won saro agema nonwan a̱ bishi wu na nsaran nan mewa n ne'en.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 18:26 <.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 18:28 << Ama na wogema wure wo sore niji, wa̱ buri woyan'on wo wa wogema awo omagan bo odinari tariya. wa kentan bo bengoro wa hyen wo, <N tope ca otace na̱mi na won omangane.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 18:30 <<Ama wa eshe. Hare wa owane wo a̱ ka̱ri wu wan hyen she sha wo tope wo nsaran nan mewa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 18:32 Naande woto ototo wa wa wa hecegane wogema wure nanmen. Wa hyen wo,<Gawo wogema wo kenoko, n bu ga̱'a̱gi otace nanwon naande wun roki.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/1>	MAT 19:4 a Yesu wa̱ ra̱'a̱ni ga wa hyen, <> <	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 19:6 A dankan cewo awa rewu ama a̱ka̱. N ma̱ma̱no ena Onhon u ga̱nta̱n woto rawo awo ra̱wanu.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 19:8 A Yesu wa̱ ra̱'ani ga wa hyen, <<Sa̱bo na otopa unbu na̱hin go o de a Mosa wa hyen ki ta̱cigi a̱'a̱ na̱hin, ama nce a̱nde ma ne'en ma̱riye.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 19:9 a Yesu wa hyen ga n ne'en bi bisa̱ga̱ woto wu ta̱cigi wu'a̱ wo wa, shen ce nhyen wo kentan bo n ma̱ye'o gu, ta'a wa̱ ha̱ni wuba̱ wun maye'o gu nande,>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 19:11 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Nce ko'eyawa gon to ra'ana tubisa̱ga̱ tonna, sai ato na Onhon u pa̱ni.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 19:12 Ato an dewa na a̱ ma̱ci ana rawon ton da rihenni, an dewa ta'a na ato go an de ga, ato na̱ba̱ ta'a a̱ rubin rihenni sa̱bo na togoma to tonran. Woto won to yan'son to ra'a a̱ ra̱'i mago.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 19:19 Ko rope ashawa nanwon na ananwan nanwon, ku rubi ato nde wu rubi unbu nanwon.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 19:23 Naande a Yesu wa hyen ato na moma'anga nonwan, <<En to goma woto wo omange toryan'on a̱ gegi n togoma to tonran.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 19:24 Ta'a n bi bishi, en tu hura̱ orara goma ura̱kumi u gegin hyanbe na bejemanran na woto omange toryan'on ma̱ gega̱ n togoma to Onhon.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 19:28 A Yesu wa hyen ga,<< N bi bishi mahenda, she a̱ shishingi ko'iwo, n beka̱ni be Ba'a wo Woto won to koreka n ka̱shiki kau wa ka togoma ka ototo, ga̱hin ato na moma'anga na̱mi nan rope ta'a en to koreka n shishiki she togoma she opa n sheshi rewu shire, ke dange toroma to opa n totu rewu re Israila shetara.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 20:1 <<Togoma to tonran ton sha yan'on ashawa na egewa go awo soren bongwa wa owane a hwanyan a hwange wo kaboga.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 20:3 <<Na wa de honran wa sore wa̱ hendi ato na̱ba̱ ana rawo yan'on otoma a esage pa tunka̱ci n tosanga.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 20:5 A̱ huri ta'a. <<Wa̱ hura̱ka̱ni niji abe marauna wa dankane monran ma̱re ma̱ka̱.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 20:6 Abe marauna ta'a wa sorakane wa̱ wuri ato na̱ba̱ ta'a she a esage a rawon n kobe otoma. Wa̱ rushigi ga wa hyen, <Yegu na de aye korkake uhibi koko she e rawon yen'unrin?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 20:7 < <<Wa hyen ga, 	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 20:8 <	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 20:9 <<Ato re a rwane otoma marauna a rage ko'eyawa wa̱ cigi udinari uka̱.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 20:12 ta'a a tope ga ba̱kika̱ n ga̱tu re den otoma uhibi koko.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 20:13 <<Ama ra'ani wutu ka̱, wa hyen wo, <Wotoginto wumi, ai n bo dangage cewo. Nce tu ma̱renu go nhyen nan bo topa udinari uka̱?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 20:15 N dawo a̱ta̱ra̱n na to da enan rubi nan saran nan mi? A̱ka̱ wu rishiwu go naande ga̱mi wo ko'eyawa go?>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 20:18 <<To ewana tun ta̱ hura̱n Urshalima an to pana Ba'a wo Woto n sha'ara she Firistoci na ototo n shima̱la̱n she tubisa̱ga̱ to Mosa. An to keragya wo karere ka u'o	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 20:19 ta'a an to cewana wo n sha'ara she ato na de cewo a Yahudawa a henge wo a̱ pa̱ni wu nwo'o a gyanrane bo. N hibi na hen tato ta'a a̱ kurtuma̱ wo nu'o!>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<4/2>	MAT 20:22 Ama Ayesu wa̱ ra̱'a̱ni a'o wa̱re wa hyen ga, e yan'cewo ena i roki, << E yan'cewo ena en saro, <> A hyen Iyesu,<>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 20:23 Ayesu wa hyen ga,<< mahenda en to yan'son to swa n karonkwa ka̱mi, ama monran ma to koreka n katoga ka̱mi ko ta'a ka̱gura̱ nce ga̱mi go omange a̱ta̱ra̱n na mawa, Ashawa na̱mi anan tonran a̱ure wo naganane sa̱bo na ato na wa̱ ta̱ri.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 20:25 Ama a Yesu wa hecegane ga wa hyen ga, << E yan'son na ngoma nan ato nade cewo a Yahudawa ata bisa̱ ato nanwan a̱ta̱ra̱n.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 20:28 A̱nde ta'a Ba'a wo Woto wo rage cewo na an ma dangya wo egema ama na wan man dan wogema, ta'a a̱ pa̱ni unbu nonwan sa̱bo na turinge to ato cenmon.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 20:31 Ukutu o gusa̱ni ga a hyen ga a̱ rika̱ka̱, ama a̱ ka̱sa̱ni tu kurtuma̱ ngoro a ange, Ashawa, Ba'a wo Dauda hoga yanman na̱tu!>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 21:2 wa hyen ga, <<Hura̱ ba na̱hira̱ re ne'enyan nekogo na̱hin, n tu gega̱na̱ tuhin en to hyanda yan'on ka̱renki ka̱ ka̱ri n ba'a wo kawa. Ke karege kago ken owangya.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 21:3 She woto wuba̱ wu yi rushigi ke hyen wo, Ashawa go a̱ rubin kawa she wu hu won to shego benanba.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/3>	MAT 21:5 Ke hyen anmen na̱mi Urshalima, hyanda ba wogoma wuhin awota wo ne'enyan dewo pihin, wo rawo otopa unbu wo sokane ka̱renki, n kirenki go wan tohano>>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/4>	MAT 21:9 Ato nan toropa i Yesu nabo'o nato na owangane onyan a̱ kurtuma̱ ngoro an hyen, Hossana pa Ba'a wo Dauda!>> Uno na reme on pa woto wo ne'enyan dewo nanmen rira̱'i re Ashawa! Hossana pa woto wu huri ototo!>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<6/4>	MAT 21:16 A̱ rushigi i Yesu a hyen, <> a Yesu wa̱ ra̱'a̱ni ga wa hyen, <> <<Eta rontange cewo ena monran ma Onhon ma range ma hyan, <<>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 21:21 A Yesu wa̱ ra̱'a̱ni ga wa hyen, <<Mahenda mago ma nen bi bisa̱ga̱, she e omange to masana anmen aye rawo oshakka ko ryawo, en to yan'son ton dan ena huri anna en men dange o'o wanna uka̱ma̱ma̱, hare ta'a en to yan'son to hyan undu wanna u kurki o makocekane nanmen nube na uru ma man den ta'a.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 21:22 She ta'a e omange tomasana anmen, ca ena i rushigi Onhon na aduwa won be pana.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 21:24 naande a Yesu wa̱ ra̱'a̱ni ga wa hyen ga, << Ga̱mi ta'a nen bi rushiga̱. She in ra̱'a̱ni, ga̱mi ta'a nen bi bisa̱ ko she na̱ta̱ra̱n nanwan go nen niriri wanna.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 21:25 Nca pa a Yohana wo baptisma wu cige a̱ta̱ra̱n na ton danga obaptisma? Onhon gu pa̱ni wu a̱ka̱ woto shiri?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 21:26 A mahyango, she to hyen, ton ryansan re iri na ato an mato dangya, naande ko'eyawa wo rwane a Yohana Wotoma wo Onhon go.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/1>	MAT 21:27 Nade a̱ ra̱'a̱ni i Yesu a hyen wo, <> Nade a Yesu ta'a wa hyen ga, <<Ga̱mi ta'a n dawon bi bisa̱ ko she na̱ta̱ra̱n nanwan go n ne'en niriri wanna.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 21:29 Nade ba'a wure wa hyen ashawa, <N dawon tu hura̱, ama na an den honran wa̱ shishingi etama nonwan wa̱ huri.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 21:37 Ma haika̱ni wa tomane ba'a wo wa pyawa wa hyen,< An to hoga monran ba'a wu mi.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 21:38 <<Ama na ato na koropa a hendi ba'a wure a mahyango, < Ai woto wo to gada a wonna, rage ba ton kone wo, ogado nonwan o de na̱tu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<4/0>	MAT 21:42 Ayesu wa hyen ga, <<Eta rontange cewo gwa n monran ma Onhon ma range tohyan: <<Otare na amayan a eshe uwa̱re on den otare na reme, otoma na Ashawa go wanna, a pitu ta'a ena tota hin ciwu na̱she na̱tu go?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 21:44 Woto kenya n otare wa̱re won to komatongo, ama woto wo otare wa̱re o kyanan, won to nama wu go she ta̱hi.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:2 << An toma'a togoma to tonran she yan'on wogoma go awon ma̱suta̱ni a dange ba'a wo wa riheni.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:4 <<Nade wa tomakane agema na̱ba̱ wa hyen ga, 	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:5 << Ama ato wa̱re a cepe a eshe to hoga monran ma wa, a̱ huri iri nanwan woto wuba̱ wa̱ huri nahwa, woto wuba̱ ta'a wa̱ huri pa tunka̱ci tuwa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:8 << A̱bire wa hyen agema nonwan, a̱ hu ma̱kima̱nga̱ ma o'iya ama ato na a cepe a̱ ha̱n'in ciwu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 22:9 Nadea̱nno ropa ba enyanyan ca woto wu i hendi ke hyen wo a rage pa iya. >	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:11 << Ama na wogoma wo sorya a̱ hendi a kasane, wa̱ hendi yan'on woto wo mata'a̱ni ciwu ewa na o'iya.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:12 Wa hyen wo, <Wotoginto, <nago wu gegi pana ba wo mata'ane ewa na o'iya.? Woto wure wa̱ ra̱shi ma̱ tu hita̱.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:13 << Nade wogoma wa hyen agema nonwan,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/1>	MAT 22:16 A tomane ato na moma'anga nanwan pa̱ka̱ na ato na Hiridus a rage pi Yesu a hyen wo.<><<to yan'son nhyen gawo woto wo mahenda go awon ta'a tobansa monran ma Onhon n nonyan na reme awo rwane ta'a ato ca a̱ka̱ waca tara woto.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 22:17 Tu bishi, ena wu hendi? Ma reme to topa ka̱gondo pe Kaisar a̱ka̱ na.?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:18 A Yesu ka̱ enaande wu ma̱pi tuka̱ryo tawa wa hyen ga, <<Ga̱hin ato na kenoko, yegu en de eyen man ma'an?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 22:19 N bishi ba nsara nan ata topa ka̱gondo nan ba.>> A owangya wo udinari,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 22:28 To n ukuriko na u'o a̱ure won ton da wa̱ri wo wu'a̱ wure? Nade ca nanwan awa tunda̱re a̱ ha̱ni wu?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:29 A Yesu wa̱ ra̱'a̱ni ga wa hyen, << I na̱ngi ca, enaande e yan'cewo a̱ta̱ra̱n na monran ma Onhon ma range.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 22:32 Nce Onhon na ato na o'gi gu ama Onhon na ato nan boma go.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 22:37 A Yesu wa̱ ra̱'a̱ni wa hyen wo,<<	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/2>	MAT 22:44 Ashawa hyen Ashawa na̱mi <>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 22:45 She a Dauda ta hecega wo na go wan ton da ba'a wo wa?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 23:5 << Kobe iri nanwan ata da go ona to hyanda to ato, ata da okanda nanwan ta̱ra̱ta̱ra̱, to koshega to ewa nanwan ta'a hare a̱rungurungu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 23:7 ata ruwa̱ a na'an nan kuna̱n na mewa pa tunka̱ci n tosanga a na'an hyen ga Shima̱la̱n.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 23:8 < enaande Ka̱ma̱la̱n ka̱hin ka̱ka̱ ka̱gu, ga̱hin ca ka atosuwa̱ gu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 23:13 <<Yana na̱hin shima̱la̱n sha tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo! I wa̱nga̱ni ato a̱no na togoma to tonran na̱she na ato. Ga̱hin unbu na̱hin a̱yi gegi ciwu, ta'a aye gamangane ato na tu gega̱ a̱ gegi.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	(0/1)	MAT 23:14 Yana na̱hin Shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo, eta rya aronga na a̱'a̱ na a̱ri nanwan a̱ o'gi, eta na'an naduwa na gesange na en ma kona awona, enaande a̱nno an be kyaragya shetara she gome)	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 23:15 << Yana na̱hin shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo! Eta penriga̱na̱ nceson ceson nibe na uru nen ma̱ ciga̱ woto won be ropa wuka̱ gya, she i cigi ka eta da an de ba'a wo ora a wuyi huri cenmon.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 23:16 <	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 23:23 << Yana na̱hin, shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo! Eta recenga ozaka na lapsur, ama eta ga'a, ena reme ke de wato mahenda, yanman, n kaye, ena ha̱'in ke de wono ba she sha i ga̱'i ana ceni ba.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 23:27 << Yana na̱hin, shima̱la̱n she moma'anga na Mosa na Farisiyawa, ato na tuka̱ryo! N she shi'uye she a̱ hopa̱ni cenge to cende to reme to hyanda niji go e ne'en ama nanmen a̱upa̱ na ato na o'gi n ciri'i ba̱nta̱ ba̱nta̱ gu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 23:33 << Ga̱hin ahwa'a! Ga̱hin a korowa! Nago en ton da ke sore negewa na ora?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 23:37 << O Urshalima, o Urshalima ato na to konaga atoma na na Onhon, ato na tomasa to ato na a tomane pewo, ma hanba mago man na rubi nbe ronmano nde karoma kata romano a'a na kawa nanmen na a̱ba̱ye, aye eshe.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 23:39 Nan bi bisa̱ga̱, e rawo man hyanda kana sai n uhibi na en to hyen, >>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 24:4 Nade a Yesu wa̱ ra̱'a̱ni ga wa hyen: << Shi'a̱ ba a̱she oderai ma̱re aye na̱ga̱tuma̱,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 24:9 << A̱bire ta'a be an be pinra̱n ai kone, ato an be esa sa̱bo na rira̱'i rimi.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 24:15 << She i hendi ta'a <otoma na shigere ona Wotoma wo Onhon a Daniel wu hici, woto wo toronta a̱ ma̱pi monran manna.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 24:26 << Nadea̱nno she aye hyen a̱ure pa̱re n cenge tu ho'i kire ke sore cewo, she ka aye hyen wun pa̱re nanmen ka̱kono, kire ki ra̱'ani ciwu.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<7/0>	MAT 24:29 << She ma̱supo ma̱re ma hu gu, <<<onhun un tu uta̱, <<	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 24:30 <<A̱bire be mapa ma Ba'a wo Woto man to sorya n tonran, ba̱nba̱n kushi ko kanniyan ta'a kon to tan ngwa, an to hyanda Ba'a wo Woto wo ne'enyan dewo n kanran na̱ta̱ra̱n n to hewaka tu uru.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 24:32 << Ki ma̱ma̱'a̱ngi n no'o na uka̱ma̱ma̱: She shira̱'i she owa shiri to soce awowa ke yan'son nhyen ushiye o ne'enyan keto go a̱nde.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 24:36 << Woto wo rawo awo yan'son uhibi, ko ta'a beka̱ni, ko atoma na a̱ba̱ye nan tonran, ko Ba'a wo Woto, sede Ashawa abawa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 24:42 << Nadea̱nno ke koreka ma̱suta̱ni, enaande e yan'cewo uhibi na orewo na Ashawa na̱hin.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 24:45 <<A̱ure won de wogema wo omange kaye awo omange o'enton, awo ashawa na egewa nonwan to pana wo to omanga egewa nonwan, a na'an pana ga iri korya ma'entan?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:1 << N beka̱ni bire togoma to tonran ton to na'an she nbogo n opa n nan umi ncella nan myawa me huri pa a̱ngo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 25:6 <.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:7 <<Ca nbogon ma̱nde mya rengage mya ta̱ ncellan na myawa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:9 << Ama nde n etange mya hyen ga, a'a ryaga ba pa tun ka̱ta̱ ke shan ma̱hin enaande ka mananbe ma̱tu ma rawon mato rogo to warano n ga̱hin.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:10 << Sha a ta̱ gi ciwu pa to shan mananbe u u'a̱ngo o ce, ato a ma̱suta̱no ka a̱ gegi o'iya a̱ wa̱nga̱ni opeto.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:11 <<Na an de honran nbogon den re shan mananbe a ce a hyen ashawa, Ashawa, tu ucigi opeto	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 25:12 <	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:13 << Naandea̱nno ke mashe naande e yan'cewo beka̱ni ko uhibi.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:14 <<Ta'a togoma tonran ton ta na'an nshe woto go awon tu re tohano wa hecegane agema nonwan wa̱ pa̱ni ga to omanga toryan'on towa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:19 << Na a koro ashawa na egewa na agema wa̱re wa̱ giye pa tohano a̱ ta̱ga̱nu atalent re wa̱ pa̱ni ga.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 25:21 << Nande ashawa na egewa wa hyen,<	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/1>	MAT 25:22 << Awu ra̱'i atalent rewu ta'a wa maheketane wa hyen, wun pa̱ni atalent rewu ewana n bicigi orewa na atalent rewu ta'a.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:23 << Naande ashawa wa hyen wo,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/1>	MAT 25:24 << Owa ta'a woto wu ra'i otalent uka̱ wa maheketane wa hyen, n yan'son gawo woto go awo gome, wota guwo apa wo bere cewo, wu rubi wusu.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 25:25 Enaande wono an hoge ryan'san hare an huri an kini ohyanbe a̱n so'in, otalent nanwon, ra'a iri nanwon.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<4/0>	MAT 25:26 << Naande ashawa na egewa nonwan wa ra̱'a̱ni wu wa hyen, <<Gawo wogema wo kenoko worabya! Ashe wo yan'son nta guwo apan bere cewo, ga̱mi woto wu rubi ena wusu gu ta'a?	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 25:28 <<< Naandea̱nno ra'a ba otalent re owa uka̱ ki pa̱ni woto wure wo omange opa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:31 << N beka̱ni be Ba'a wo Woto rage n to hewaka tuwa pa̱ka̱n na atoma na a̱ba̱ye ca a̱bire be wan to koreka n ka̱shiki ka uru, ka togoma tuwa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<4/0>	MAT 25:34 << A̱bire be wogoma won to hyan ato nan katoga kauwa,<< Rage ba, ga̱hin na Ashawa na̱mi woye masange uno na reme, ra'a ba togoma to Onhon wuyi shi'a̱go n ma̱riye ma kanniyan.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 25:37 A̱bire be ato na omange kaye an to ra'ana wo a hyan,<	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:40 << Naande wogoma wure won to ra'ana ga a hyen,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 25:41 << A̱bire be wan to hyan ato nan ka̱ngura̱ kauwa, <Ma̱ra̱wa̱nu ba n ga̱mi ga̱hin ato na a̱ ta̱gi uno, gega̱ ba nora na ca o'ga̱ ona a tane kitunbul na atoma nonwan.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 25:43 N men den wokasane ayin ka̱ra̱tuma̱ ciwu a nin ka̱sundu ayin pa̱ni ciwu aronga na mata'a, n ruma̱ngi a nin kurkuku aye rage cewo nkuna̱n nan mi.>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/0>	MAT 25:44 <<A̱bire ta'a be an to ra'ana a hyen <	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 25:45 << A̱bire be wan to ra'ana ga a hyen,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:8 ama na ato na moma'anga a hendi a̱nde, an den anmen shiri ama hyango, ai ewanna obanna go?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 26:10 Ama na eyande wo yan'son ena an tu hita̱ga̱ wa hyen ga, <<Yegu naande aye netama n wu'a̱ wonna? ai ena reme go wan me dange.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:13 Mahenda mago ma nan bi bisa̱ga̱, ba̱nba̱nu pa an ton da monran manna ma rotome, ca n kanniyan, an to na'an hita̱ga̱ ena wu'a̱ wonna won den a na'an matamarenganga nonwan,>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/0>	MAT 26:15 wa hyen ga,< a̱ pa̱ni wu nsaran nanmen azurpa opa tato.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:22 A ma̱ta̱ etama a̱ ri to hyen ma̱ka̱ma̱ka̱, mahenda nce ga̱mi go, Ashawa?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 26:23 Ayesu wa̱ ra̱'a̱ni wa hyen ga, <<Woto won masane ka'ara n ketogwa kika̱ n ga̱mi a̱ wure won man cewa.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:24 Ba'a wo woto won tu hura̱ nde a rangen n monran ma Onhon ga̱mi nonwan. ama yana n woton to cewa Ba'a woto enan ma hura̱ wu she ana ma̱ci ciwu.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:26 She atan korya iri korya, Ayesu wa̱ umi kapoka, wa̱ kuni Onhon wa keragano ago, wa̱ pa̱ga̱ni ato na moma'anga nonwan, wa ange, ra'a ba ke re, to'oawa tumi togo tonna.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:29 N bi bisa̱i, n dawon to swaka ma̱ni ma inabi na̱ri benanba hare uhibi na nan ta swaka n ga̱hin togoma to Ashawa.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/1>	MAT 26:31 Nande Yesu wa̱ bishi ga wa hyen, << N geta wanna ca na̱hin en to ganra kin ga̱'i panna, sa̱bo na iri nan ma̱n biciga̱, ena a rangwa go: <>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:32 Ama she an kurtuma̱ n u'o, nan bi ciga̱ tu gega̱ n Galili.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/3>	MAT 26:34 <> kahen uka̱rin uta̱ ka̱ka̱ra̱nko, won to hyen won yan'cewo ma tato.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/1>	MAT 26:36 Nande Ayesu nato na moma'anga nonwan a̱ huri pa ata hyan Gesemani,>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:40 Nande Ayesu wa mokoshe pa ato na moma'anga nonwan wa̱ buri she a̱ wa̱ta̱gi. Wa̱ rushigi Ibitrus ashe e rawon to yan'son to bereka n ga̱mi awa uka̱?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 26:42 Nande Ayesu wa̱ hura̱ka̱ni ma̱hin rewu wan den aduwa wa hyen, << Ashawa na̱mi, she ma rawon man dan kon recengage karonkwa kanna shesha n so mago, etama nanwon e man den	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 26:45 Nade Ayesu wa mokosakane pa ato na moma'anga wa hyen ga, <<Eta wa̱ta̱gi n horna? Ewana, Beka̱ni bici be an to cewa Ba'a Woto n sha'ara she ato na ciri'i.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:46 Renga ba, tun huri woto won man cewa wu ce!>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:53 Won netama n dawo to yan'son to hecega Ashawa na̱mi gwa, a̱birebire an tomangyan na atoma na a̱ba̱ye? na yemi na huri ato na maka̱ri wanna hare son ma opa rewu gwa?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:54 Ama nago an tu shintuma̱ ena a range n monran ma Onhon ma hyen ma kentane go iri wa̱re made?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 26:55 A̱bire aYesu wa hyen ato wa̱re yemi, <<E sorya na sa̱nka̱ri n shigo ken kentane she woto to epa ato n nonyan gwa? kobe uhibi nta na'angan ga̱hin ayen kentan cewo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:56 Ama anden a̱nno gu na an ma shintumo ena tonran to Wotoma to hyen.>>Nande ca ato na moma'anga nonwan a̱ ta̱'i wo ko'ewa wa huri.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/2>	MAT 26:61 Ta'a a hyen, <>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 26:65 Nande uprist na ototo wa ha̱nda̱gi ewa nonwan n usuwa̱ shiri wa hyen, <<Wo to'age Onhon oshaida na̱be go ta'a ton saro? E hoge na wa to'age Onhon.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/4>	MAT 26:66 Yegu i hendi?>> A̱ ra̱'a̱ni a hyen, ma rogo to kona wo.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/3>	MAT 26:68 a ange, <> she gawo go a Kristi. A̱ure wu ripi?>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:69 Beka̱ni bire she Abitrus wo koreke n sheraye she egewa wa̱re, yan'on ba'a wa̱'a̱ awon toma negewa wa̱re wa rage pewa. wa hyen wo, gawo nce pa̱ka̱ na Yesu woto wo oceso na Galili go wo ne'enyan,>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 26:70 Nande Abitrus wa̱ ra̱'a̱n bo wa hyen, n hoge cewo ena wo ange.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 26:74 Nande wa̱ ri to tagya unbu nonwan uno na reme cewo wa̱ mashiurogu wa ange, <<N yan'cewo woto wonna, A̱birebire uka̱rin uwa̱ ta̱ ka̱ka̱ra̱nko.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 27:9 A̱bire be monran ma Wotoma wo Onhon Irmiya ma shini ama hyan:<< A̱ umi nsaran nanmen azurpa opa tato n'nan ato na Israila a̱ shi'i nhyan a tope n'nan woto wure,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 27:10 ta'a a̱ umi nsaran ma̱nde a̱ sa̱n pa̱ri pa amanyan nan ninibu nanba, nde Ashawa Onhon won hyen.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<4/2>	MAT 27:11 Naande Ayesu wa eshe nekogo na wogoma, Ogona uwa̱ rushigi Iyesu wa hyen wo, <> <<Ayesu wa̱ ra̱'a̱n bo wa hyen <>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<1/3>	MAT 27:19 She Abilatus wogoma wota koreke n ka̱shiki ka shetara, wu'a̱ wo wa wa tomangya wo n toma nonwan wa hyen wogoma: <> Enaande ogeta na huri n wa̱ta̱ga̱ni arawo nonwan nhyan n ma̱supo cenmon nonwan.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<4/2>	MAT 27:21 <<Naande Ogona o rushigi ga wa hyen, <>A̱ ra̱'a̱ni a hyen wo. <>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 27:24 Na Abilatus wu hendi wo yan'cewo to kosaga ga, ma̱re a̱ kurtuma̱ renbontan nato na ma̱ka̱ri nonwan, wa̱ umi ma̱ni wa ma̱hita̱gu sha'ara sha wa nekogo na ukutu. Wa hyen, ka'ara ka̱mi ka rawon nu'o na woto wonna. A̱ma̱no ma̱hin mago>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 27:42 <<Wo yan'son tu ringe ato na̱ba̱, ama wa yan'cewo tu ringe unbu nonwan! She a̱ure won de wogoma wo Israila, a̱ ka̱ra̱ni n mangyara, naande to ra'ana wo.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/3>	MAT 27:43 Wo esatane Onhon, wa hyen ta'a owa Ba'a wo Onhon go. Onhon u ringe wu benanba mana.>>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<3/1>	MAT 27:63 a hyen, <><< Tu ma̱ta̱ma̱ringi nena woto wonna wu tu na̱ga̱tuma̱ ato she wuta̱ u ciwu nhyen, 	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 27:64 Naanden a̱nno pana uno an de o'iya na uye wa̱re hare a̱hibi a tato wa̱re a̱ shini. She an de a̱nno,ato na moma'anga nonwan an to yan'son to rage a̱ bishigi uye wa̱re a̱ hin wu a hyan ato wu kurki nu'o. ma̱re tuna̱ga̱tuma̱ tu ha̱ika̱ni tu huri tu ka̱hin.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<4/2>	MAT 27:65 <<A̱bire Abilatus wa hyen ga,<> <>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 28:5 Wotoma wo a̱ba̱ye wa hyen a̱'a̱ wa̱re, <<Ga'a ba to hoga ryansan, n yan'son e rage saro na Yesu awo a gyanran go.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 28:7 Nanba hura̱n ba kushine ki bishi ato na moma'anga nonwan nhyen Enan n rage n bi bisa̱ wono.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 28:13 A hyen, <<Ke hyen ato, 	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 28:14 She monran manna ma̱ci pa Ogona, ton to dangya wo monran, e rawon tu gega̱n ma̱supo>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<2/0>	MAT 28:18 Naande a Yesu wa rage pyawa wa hyen ga, <<Onhon un pa̱ni ca a̱ta̱ra̱n na tonran n cenge.	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Source	<0/2>	MAT 28:20 Ki bisa̱gi ato a rope ca enan bi bisa̱gi ewana nan pa̱ka̱n ga̱hin ko bekene hare tu huwa̱ to kanniyan.>>	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Aionian	(0/1)	040 MAT 023 014 Yana na̱hin Shima̱la̱n she tubisa̱ga̱ to Mosa na Farisiyawa ato na tuka̱ryo, eta rya aronga na a̱'a̱ na a̱ri nanwan a̱ o'gi, eta na'an naduwa na gesange na en ma kona awona, enaande a̱nno an be kyaragya shetara she gome)	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	ENCLOSURES	Summary	lines	311 / 1	WARN
+
+# UNEXPECTED
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Basa-Gurmana---Basa-Gurmana-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Basa-Gurmana---Basa-Gurmana-Bible	NUMERALS	Source	3	MAT 1:12 Na a owane ga cegema n Babila a A Yekoniya wa̱ ma̱ci Sheyaltiyel, 13 Asheyaltiyal wa̱ ma̱ci Zarubabel,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	NUMERALS	Source	count	1	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	NUMERALS	Aionian	13	040-MAT-001-012 Na a owane ga cegema n Babila a A Yekoniya wa̱ ma̱ci Sheyaltiyel, 13 Asheyaltiyal wa̱ ma̱ci Zarubabel,	WARN
+Basa-Gurmana---Basa-Gurmana-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

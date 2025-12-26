@@ -1,0 +1,898 @@
+# File Name: Holy-Bible---Holy-Bible---Ndebele---Accessible-Bible---Analysis.txt
+# File Size: 142703      
+# File Date: 12/13/2025 05:49:57
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Ibhayibhili Elifinyelelekayo
+# Bible Name English: Ndebele Accessible Bible
+# Bible Language: Ndebele
+# Bible Language English: Ndebele
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0, International
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=nde
+# Bible Source Year: 2003, 2006, 2022
+# Bible Description: Original work available for free at www.biblica.com and open.bible
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Ndebele---Accessible-Bible	ENCODING	Source	Holy-Bible---Ndebele---Accessible-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Ndebele---Accessible-Bible	ENCODING	Aionian	Holy-Bible---Ndebele---Accessible-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Ndebele---Accessible-Bible	BYTES	Source	bytes / chars	4276580 / 4244248 (multi-byte)	NOTICE
+Ndebele---Accessible-Bible	BYTES	Aionian	bytes / chars	4486411 / 4454811 (multi-byte)	NOTICE
+Ndebele---Accessible-Bible	BYTES	SourceClean	bytes / chars	4275742 / 4243410 (multi-byte)	NOTICE
+Ndebele---Accessible-Bible	BYTES	AionianClean	bytes / chars	4482661 / 4451061 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Ndebele---Accessible-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Ndebele---Accessible-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Ndebele---Accessible-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Ndebele---Accessible-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Ndebele---Accessible-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Ndebele---Accessible-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Ndebele---Accessible-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Ndebele---Accessible-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Ndebele---Accessible-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Ndebele---Accessible-Bible	UNICODE	Summary	(-)Orginal	51	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Summary	(+)Aionian	52	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (G)	4243	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : ( )	467431	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (1)	30591	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (:)	33541	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (k)	196887	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (u)	226231	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (q)	9510	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (a)	487513	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (l)	232715	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (e)	293615	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (n)	242632	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (i)	314836	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (d)	52566	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (m)	95306	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (o)	197901	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (h)	186235	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (b)	119886	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (.)	34752	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31103	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (2)	21892	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (g)	86130	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (s)	108464	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (t)	77994	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (,)	43480	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (y)	78913	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (p)	29126	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (M)	8300	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (3)	12384	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (A)	15864	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (4)	9258	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (5)	7192	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (6)	6565	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (7)	6000	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (8)	5826	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (9)	5667	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (0)	5930	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (c)	10713	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (L)	7251	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (T)	10710	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (-)	10550	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (P)	5409	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (H)	6123	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (()	778	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (r)	13053	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : ())	778	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (S)	11058	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (O)	7818	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	General Punctuation : ( )	458	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	Basic Latin : (J)	11787	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	General Punctuation : ( )	1	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source(-)	General Punctuation : ( )	1	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	4255	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	196888	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	226236	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	9513	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	487712	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	232784	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	293718	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	242836	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	315085	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	405339	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	52585	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	95313	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	198052	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	186364	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	119896	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	34753	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	86343	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	108580	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	78003	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	43268	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	78927	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	29127	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	8301	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	15873	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20034	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10732	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7860	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	2440	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	10715	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	7256	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	10712	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	10551	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	5414	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	6134	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (()	603	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	13064	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : ())	603	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	11122	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	7817	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	11786	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (G)	4243	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (E)	13601	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (N)	19877	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : ( )	467431	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (1)	30591	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (:)	33541	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (k)	196887	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (u)	226231	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (q)	9510	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (a)	487513	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (l)	232715	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (e)	293615	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (n)	242632	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (i)	314836	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (w)	96650	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (d)	52566	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (m)	95306	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (z)	93516	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (o)	197901	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (h)	186235	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (b)	119886	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (.)	34752	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (\n)	31103	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (2)	21892	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (U)	11644	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (g)	86130	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (s)	108464	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (j)	12795	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (t)	77994	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (,)	43480	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (y)	78913	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (p)	29126	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (M)	8300	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (3)	12384	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	General Punctuation : (“)	6279	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (A)	15864	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	General Punctuation : (”)	6276	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (4)	9258	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (5)	7192	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (6)	6565	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (K)	11551	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (7)	6000	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (8)	5826	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (9)	5667	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (v)	8870	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (0)	5930	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (c)	10713	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (W)	3006	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (f)	13677	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (Y)	1209	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (Z)	3266	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (L)	7251	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (;)	5246	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (B)	6069	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (T)	10710	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (x)	12399	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (-)	10550	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (P)	5409	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (I)	10052	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (H)	6123	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (()	778	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (r)	13053	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : ())	778	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (S)	11058	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	General Punctuation : (‘)	1538	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	General Punctuation : (’)	1538	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (?)	3237	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (O)	7818	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	General Punctuation : ( )	458	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (!)	1629	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (J)	11787	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (R)	4800	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (D)	3637	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (F)	829	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Spacing Modifier Letters : (ʼ)	148	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (Q)	117	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (V)	1367	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (X)	1229	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (C)	4354	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	General Punctuation : ( )	1	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : ([)	18	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	Basic Latin : (])	18	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	General Punctuation : (…)	1	NOTICE
+Ndebele---Accessible-Bible	UNICODE	Source	General Punctuation : ( )	1	NOTICE
+
+# VERSIFICATION
+Ndebele---Accessible-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Ndebele---Accessible-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Ndebele---Accessible-Bible	ENCLOSURES	Source	()	778 / 778	NOTICE
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[]	18 / 18	NOTICE
+Ndebele---Accessible-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Ndebele---Accessible-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	()	603 / 603	NOTICE
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[]	18 / 18	NOTICE
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	GEN 10:18 ama-Avadi, amaZemari kanye lamaHamathi. (Muva izizwana zamaKhenani zasabalala	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	GEN 10:19 kwathi imingcele yeKhenani yasukela eSidoni isiya eGerari kufika eGaza, besekuqonda eSodoma, leGomora, le-Adima leZebhoyimi kuze kuyefika eLasha.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	EXO 9:31 (Amabele lebhali kwabhuqwa nya ngoba amabele ayeselezikhwebu lophoko selumumethe.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	EXO 9:32 Ingqoloyi lenyawuthi khona kakuthintwanga ngoba kuvuthwa muva.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	EXO 38:22 (UBhezaleli indodana ka-Uri, indodana kaHuri, owesizwe sakoJuda, wenza konke uMosi ayekulaywe nguThixo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	EXO 38:23 wayelo-Oholiyabhi indodana ka-Ahisamakhi owesizwe sikaDani owayeyingcitshi yomsebenzi njalo engumdwebi, njalo engumbalazi ngokuthunga ngentambo eluhlaza, eyibubende lebomvu, kanye lelembu elicolekileyo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	LEV 23:37 (Le yimikhosi kaThixo emisiweyo elizayimemezela njengezinkonzo ezingcwele, ezokuletha iminikelo yokutshiswa kuThixo, iminikelo yokutshiswa, leminikelo yamabele, imihlatshelo leminikelo enathwayo efunekayo insuku ngensuku.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	LEV 23:38 Iminikelo le ngengaphezu kwaleyo eyamaSabatha kaThixo njalo ngaphezu kwezipho zenu lalokho eliyabe lifungele ukukupha langaphezulu kweminikelo yonke yokuzithandela eliyinika uThixo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	NUM 26:58 Laba labo babengabezinsendo zabaLevi: usendo lwamaLibhini, usendo lwamaHebhroni, usendo lwamaMahili, usendo lwamaMushi, usendo lwamaKhora. (UKhohathi wayengukhokho ka-Amramu;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	NUM 26:61 Kodwa uNadabi lo-Abhihu bafa baze banikele kuThixo ngomlilo ongavunyelwayo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (Ama-Emi ake ahlala khonapho, abantu abalamandla njalo abanengi kakhulu, futhi bebade njengama-Anakhi.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 AmaHori ayekade ehlala eSeyiri, kodwa adudulwa yisizukulwane sika-Esawu. Babhubhisa amaHori ayelapho basebesakha endaweni yawo, njengalokho okwenziwa ngabako-Israyeli ezweni abaliphiwa nguThixo ukuba libe yisabelo sabo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Leli lalo laliphathwa njengelizwe lamaRefayi ayehlala khonapho; kodwa ama-Amoni ayebabiza ngokuthi ngamaZamzumu.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 Kanti-ke okunjengama-Avi ayehlala emizini ekhatshana njengeGaza, amaKhafithori ayevela eKhafithori ababhubhisa asehlala endaweni yabo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	DEU 3:13 EleGiliyadi lonke kanye lalo lonke eleBhashani, lombuso ka-Ogi, ngalinika abayingxenye yesizukulwane sikaManase.” (Umhlubulo wonke welizwe le-Agobhi ngaseBhashani lalisaziwa ngokuthi yilizwe lamaRefayi.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	DEU 3:14 UJayiri, owosendo lukaManase, wathatha sonke isiqinti esisukela emangweni we-Agobhi kusiya emngceleni weGeshuri lamaMahakhathi; saba yisiqinti esabizwa ngaye, okokuthi lalamuhla iBhashani ibizwa ngokuthi yiHavothi-Jayiri.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (Abako-Israyeli bahamba besuka emithonjeni yaseBherothi-Bheni-Jakhani kusiya eMosera. Kulapho u-Aroni afela khona njalo wangcwatshwa khona, kwathi indodana yakhe u-Eliyazari yathatha isikhundla sakhe sobuphristi.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 Yikho abaLevi bengelasabelo loba ilifa phakathi kwabafowabo; elabo ilifa nguThixo, njengoba uThixo uNkulunkulu wenu wabatshela.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	DEU 13:6 Nxa umfowenu uqobo, loba indodana loba indodakazi yakho, loba umfazi wakho omthandayo, loba umngane wakho osekhwapheni, angavele akuhuge ensitha, esithi, ‘Asihambe siyekhonza abanye onkulunkulu’ (onkulunkulu lina laboyihlo elingazange libazi,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	DEU 13:7 onkulunkulu babantu elakhelene labo, eduzane loba khatshana, kusukela emaphethelweni esigaba kusiyaphutsha ngale kwaso),	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	JOS 12:7 La yiwo amakhosi elizwe lelo uJoshuwa labako-Israyeli abalithumbayo eceleni elisentshonalanga yeJodani, kusukela eBhali-Gadi esiGodini seLebhanoni kusiya eNtabeni yeHalakhi ekhangele eSeyiri (amazwe abo uJoshuwa wawanika njengelifa ezizwaneni zako-Israyeli kusiya ngezigaba zezizwana zabo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	JOS 12:8 indawo elamaqaqa, amawatha asentshonalanga, i-Arabha, lemithezukweni yezintaba, inkangala leNegebi, amazwe amaHithi, ama-Amori, amaKhenani, amaPherizi, amaHivi, lamaJebusi): La ayengamakhosi:	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 Abako-Israyeli basebebuza uThixo. (Ngalezonsuku umtshokotsho wesivumelwano sikaNkulunkulu wawukhonapho,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 uloFinehasi indodana ka-Eliyazari, indodana ka-Aroni, ekhonza phambi kwawo.) Babuza bathi, “Singahamba njalo yini siyekulwa loBhenjamini umfowethu loba hatshi na?” UThixo waphendula wathi, “Hambani, ngoba kusasa ngizabanikela ezandleni zenu.”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	1KI 9:16 (UFaro inkosi yaseGibhithe wayehlasele wathumba iGezeri. Wayeyithungele ngomlilo wayitshisa. Wayebulele amaKhenani ayehlala khona, yona wasekhunga ngayo indodakazi yakhe, umkaSolomoni.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	1KI 9:17 USolomoni waseyakha kutsha iGezeri.) Wakha iBhethi-Horoni esezansi,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	1KI 10:11 (Imikhumbi kaHiramu yaletha igolide livela e-Ofiri; njalo yethula lemithwalo emikhulu yamapulanka amahle lamatshe aligugu.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	1KI 10:12 Inkosi yasebenzisa amapulanka amahle njengezinsika zethempeli likaThixo kanye lesigodlo sobukhosi, lokwenza imihubhe lemiqangala yabahlabeleli. Akuzange kubuye kube lamapulanka amahle amanengi kangako angeniswayo elizweni loba abonwayo selokhu kwaba yilelolanga.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 njalo u-Ahabi wayebize u-Obhadaya, owayengumlindi wesigodlo sakhe. (U-Obhadaya wayekholwa kakhulu kuThixo.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 Lapho uJezebheli wayebulala abaphrofethi bakaThixo, u-Obhadaya wayethethe abalikhulu wayabafihla ezimbalwini ezimbili, bengamatshumi amahlanu ebhalwini lunye, wabathumela ukudla lamanzi.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	1KI 21:25 (Akuzange kube lendoda eyayifanana lo-Ahabi yena owazinikela ukuthi adale isono phambi kukaThixo, ekhuthazwa ngumkakhe uJezebheli.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	1KI 21:26 Waziphatha butshapha kakhulu elandela izithombe, njengama-Amori wona ayesuswe nguThixo phambi kuka-Israyeli.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	2KI 9:14 Ngakho uJehu indodana kaJehoshafathi, indodana kaNimishi wavukela uJoramu. (UJoramu labo bonke abako-Israyeli babevikela iRamothi Giliyadi kuHazayeli inkosi yama-Aramu,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	2KI 9:15 kodwa inkosi uJoramu yayisibuyele eJezerili ukuze yelatshwe amanxeba okulinyazwa ekulweni lama-Aramu kulwiwa loHazayeli inkosi yama-Aramu.) UJehu wathi, “Nxa lifuna lokho, akungabikho loyedwa ozaphuma emzini ukuba ayefikisa ilizwi eJezerili.”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	1CH 5:1 Amadodana kaRubheni izibulo lika-Israyeli (wayelizibulo, kodwa kwathi esengcolise umbheda kayise owomtshado, amalungelo akhe njengezibulo aphiwa amadodana kaJosefa indodana ka-Israyeli, ngakho kasalotshwanga emibhalweni yosendo njengelungelo lokuzalwa kwakhe,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	1CH 5:2 lanxa uJuda wayelamandla amakhulu kulabo bonke abafowabo njalo enguye owazala umbusi, ilungelo lobuzibulo laya kuJosefa).	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	1CH 7:21 loZabhadi indodana yakhe kanye loShuthela indodana yakhe. (U-Ezeri lo-Eliyadi babulawa ngababezalwa eGathi, baze bayethumba izifuyo zabo.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	1CH 7:24 Indodakazi yakhe kwakunguShera owakha iBhethi-Horoni yaPhansi leyaPhezulu kanye le-Uzeni-Shera.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	1CH 12:1 La ngamabutho ayeloDavida eZikhilagi, ngesikhathi engavunyelwa ukubonakala kuSawuli indodana kaKhishi (kwakungamaqhawe ayemhlomulele empini;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	1CH 12:2 ayehlome ngemitshoko, ezingcitshi ekutshokeni lokutshaya ngezavutha loba ejikijela ngesokudla loba ngesenxele; ayeyizihlobo zikaSawuli engawesizwe sikaBhenjamini):	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	1CH 26:26 (UShelomithi lezihlobo zakhe babephethe zonke ezenotho ezingcwele ezazinikelwe yinkosi uDavida, labayizinhloko zezindlu ababengabalawuli bezinkulungwane labalawuli bamakhulu, langabanye abalawuli bamabutho.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	1CH 26:28 Lakho konke okwakunikelwe nguSamuyeli umboni loSawuli indodana kaKhishi, lo-Abhineri indodana kaNeri loJowabi indodana kaZeruya, lazozonke ezinye ezazinikelwe zazisesandleni sikaShelomithi kanye lezihlobo zakhe.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	2CH 9:10 (Izinceku zikaHiramu lezikaSolomoni zaletha igolide livela e-Ofiri; zaletha lezigodo zomʼaligumu lamatshe aligugu.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	2CH 9:11 Inkosi yasebenzisa izigodo zomʼaligumu ukwakha inyathelo lethempeli likaThixo lenyathelo lesigodlo sesikhosini, kanye lokwenza imihubhe lemiqangala yabahlabeleli. Kwakungakaze kubonakale okunjengalokhu kwelakoJuda).	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	EZR 2:1 Manje-ke yilaba abantu bendawo ababuyayo ekuthunjweni, ababethunjiwe nguNebhukhadineza inkosi yaseBhabhiloni yabasa eBhabhiloni (babuyela eJerusalema lakoJuda, ngulowo emzini wakibo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	EZR 2:2 behamba loZerubhabheli, loJeshuwa, loNehemiya, loSeraya, loRelayiya, loModekhayi, loBhilishani, loMisipha, loBhigivayi, loRehumi loBhana): Uluhlu lwamadoda ako-Israyeli:	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	NEH 7:6 laba yibo abantu belizwe abafikayo bephuma ebugqilini ababethunjiwe nguNebhukhadineza inkosi yaseBhabhiloni. Baba yizigqili (babuyela eJerusalema lakoJuda, ngulowo waya emzini wakibo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	NEH 7:7 abeza kanye loZerubhabheli, loJeshuwa, loNehemiya, lo-Azariya loRamiya, loNahamani, loModekhayi, loBhilishani loMisipherethi, loBhigivayi, loNehumi loBhana): uluhlu lwamadoda ako-Israyeli:	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	NEH 11:3 Laba yibo abakhokheli bezigodi abayahlala eJerusalema (amanye ama-Israyeli, labaphristi, labaLevi, lezinceku zethempelini kanye labezizukulwane zezisebenzi zikaSolomoni bahlala emadolobheni akoJuda, ngulowo esabelweni sakhe emadolobheni ehlukeneyo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	NEH 11:4 kwathi abanye babantu bakoJuda lakoBhenjamini bahlala eJerusalema): Abesizukulwane sikaJuda: U-Athaya indodana ka-Uziya, indodana kaZakhariya, indodana ka-Amariya, indodana kaShefathiya, indodana kaMahalaleli owosendo lukaPherezi;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	JOB 31:35 (Oh, kube ukhona ongizwayo! Sengisayina incwadi yokuzivikela kwami, uSomandla kangiphendule; ongimangalelayo kabhale phansi icala angethesa lona.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	JOB 31:37 Bengingamchazela ngokugcweleyo ngazozonke izinyathelo zami; ngisondele kuye njengenkosana.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	PRO 7:11 (Umfazi lowo, ngumuntu womsindo uyisiqholo, inyawo zakhe kazihlali phansi;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	PRO 7:12 khathesi nangu emgwaqweni, njalo nangu enkundleni, utshobatshoba izindawana zonke.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	JER 26:20 (U-Uriya indodana kaShemaya owaseKhiriyathi-Jeyarimi ungomunye umuntu owaphrofetha ngebizo likaThixo: waphrofitha izinto ezinjalo ngedolobho leli langelizwe leli njengoJeremiya.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	JER 26:23 Bamthatha u-Uriya eGibhithe bamusa kuJehoyakhimi inkosi wambulala ngenkemba isidumbu sakhe saphoselwa endaweni yokungcwabela abantukazana.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	DAN 10:21 kodwa ngizaqala ngikutshele okulotshiweyo eNcwadini yeQiniso. (Kakho ongelekelelayo ukumelana labo ngaphandle kukaMikhayeli inkosana yakho.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	DAN 11:1 Kwathi ngomnyaka wokuqala kaDariyu umuMede, ngazimisela ukuba ngime laye ngimsekele njalo ngimvikele.)”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAT 17:20 Waphendula wathi, “Ngoba ukholo lwenu luncinyane. Ngilitshela iqiniso ukuthi nxa lingaba lokukholwa loba kukuncinyane njengentanga yemastadi, lingathi entabeni le, ‘Suduluka lapha uye laphayana’ izasuduluka. Kakukho kini okungasoze kwenzeke. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAT 17:21 Kodwa uhlobo olunje aluphumi ngaphandle kwangomkhuleko lokuzila ukudla.]”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAT 18:10 “Nanzelelani ukuthi lingeyisi lamunye walaba abancinyane. Ngoba ngilitshela ukuthi izingilosi zabo zezulu zihlezi zibona ubuso bukaBaba ezulwini. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAT 18:11 INdodana yoMuntu yalanda ukusindisa okwakulahlekile.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 “Maye kini, bafundisi bomthetho lakubaFarisi, lina bazenzisi! Livalela abantu umbuso wezulu. Lina ngokwenu kalingeni liphinde livimbele labo abazama ukungena. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 Maye kini bafundisi bomthetho lakini baFarisi, lina bazenzisi! Liphanga izindlu zabafelokazi, beselizenzisa lisenza imikhuleko emide, ngalokho lizakwamukeliswa ukulahlwa okukhulu.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (AbaFarisi labaJuda bonke kabadli bengagezanga izandla zabo ngokomthetho, belandela isiko labadala.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 Nxa bevela emsikeni kabadli bengaqalanga bageza. Balandela amasiko amanengi, njengokugezisa amankomitsho, indiwo lamagedlela.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAR 7:15 Kakulalutho olungaphandle komuntu olungamenza ‘angahlanzeki’ ngokungena kuye. Kodwa yilokho okuphuma phakathi komuntu okuyikho okumenza ‘angahlanzeki.’ [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAR 7:16 Nxa ekhona olendlebe zokuzwa kezwe.]”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAR 9:43 Nxa isandla sakho sikwenza wone, siqume. Kungcono kuwe ukuthi ungene ekuphileni ungungini kulokuya esihogweni ulezandla ezimbili, lapho umlilo wakhona ongacitshiyo, [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAR 9:44 lapho ‘impethu yakhona engafiyo lomlilo wakhona ongacitshiyo.’]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAR 9:45 Njalo nxa unyawo lwakho lukwenzisa isono, luqume. Kungcono kuwe ukuthi ungene ekuphileni uyisilima kulokuthi ulenyawo ezimbili uphoselwe esihogweni, [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAR 9:46 lapho ‘impethu zakhona ezidlayo zingafi lomlilo ongacitshiyo.’]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAR 11:25 Njalo nxa lisima likhuleka, nxa lilesikhwili komunye, mthetheleleni, ukuze uYihlo ezulwini alithethelele izono zenu. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAR 11:26 Kodwa nxa lingathetheleli, loYihlo osezulwini kazukulithethelela izono zenu.]”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAR 15:27 Babethela kanye laye abaphangi ababili, omunye kwesokunene sakhe, omunye kwesokhohlo. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAR 15:28 Kwagcwaliseka umbhalo othi, “Wabalwa ndawonye lezephulamthetho.”]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	MAR 16:8 Ngokuthuthumela langokudideka, abesifazane baphuma bebaleka ethuneni. Kabakhulumanga lutho lakubani ngoba babesesaba. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	MAR 16:20 Abafundi bahamba bayatshumayela ezindaweni zonke iNkosi yasebenza labo yaqinisa ilizwi layo ngezibonakaliso ezazilisekela.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	LUK 7:29 (Bonke abantu, kanye labathelisi, bathi sebewazwile amazwi kaJesu bavuma ukuthi indlela kaNkulunkulu yayilungile, ngoba babebhaphathizwe nguJohane.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	LUK 7:30 Kodwa abaFarisi lezazi zomthetho bayala injongo kaNkulunkulu ngabo, ngoba babengabhaphathizwanga nguJohane.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	LUK 17:35 Abesifazane ababili bazabe bechola elitsheni ndawonye; omunye uzathathwa omunye atshiywe. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	LUK 17:36 Ababili bazabe besensimini; oyedwa uzathathwa omunye atshiywe.]”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	LUK 23:16 Ngakho ngizamjezisa nje besengimkhulula.” [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	LUK 23:17 Kwakumele akhulule isibotshwa esisodwa esiyabe sikhethwe ngabantu mhla wedili.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	JOH 5:3 Khonapho abantu abayizilima abanengi babandise ukuhlala khona, iziphofu, abaqhulayo, abome imihlubulo [belindele ukudungwa kwamanzi;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	JOH 5:4 ngoba kwakusithi ngezikhathi ezithile ingilosi yeNkosi yayisehlela echibini, idungadunge amanzi besekusithi umuntu oqalayo ukungena emanzini ngemva kokudungeka kwawo asiliswe loba kuwuphi umkhuhlane owawumbambile].	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	JOH 7:52 Baphendula bathi, “Lawe uvela eGalile yini? Ake ukudingisise, uzabona ukuthi kakulamphrofethi ongaphuma eGalile.” [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 Owesifazane wathi, “Kabasekho, nkosi.” UJesu waphendula wathi, “Lami-ke, kangikulahli, zihambele, kodwa ungaphindi wenze isono futhi.”]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	ACT 1:18 (Ngomvuzo awuzuzayo ngenxa yobubi bakhe, uJudasi wathenga isiqinti; khonapho wawa ngekhanda, isidumbu sakhe sadubuka, amathumbu akhe wonke agcwala phansi.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 Bonke eJerusalema bezwa ngalokho, yikho babiza isiqinti leso ngolimi lwabo bathi yi-Akhelidama, okutsho iSiqinti seGazi.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	ACT 8:36 Bathi belokhu behamba ngomgwaqo bafika lapho okwakulamanzi khona, indoda engumthenwa yathi, “Khangela, nanka amanzi. Kulani ukuthi ngihle ngibhaphathizwe na?” [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	ACT 8:37 UFiliphu wathi, “Nxa ukholwa ngenhliziyo yakho yonke ungabhaphathizwa.” Isikhulu saphendula sathi, “Ngiyakholwa ukuthi uJesu Khristu uyiNdodana kaNkulunkulu.”]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	ACT 15:33 Sebehlale isikhathi esithile khonapho, abazalwane babavalelisa ngesibusiso sokuthula sebebuyela kulabo ababathumayo. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	ACT 15:34 Kodwa uSayilasi wakhetha ukusala khona.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	ACT 24:6 futhi yazama njalo ukungcolisa ithempeli; yikho sayibamba. Sasifuna ukumahlulela ngokomlayo wethu. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	ACT 24:7 Kodwa umlawuli uLisiya weza wazamthatha ngodlakela ezandleni zethu, wathi obamangalelayo kabeze phambi kwakhe].	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	ACT 28:28 Ngakho ngithanda ukuthi lazi ukuba insindiso kaNkulunkulu isithunyelwe kwabeZizwe, njalo bona bazalalela!” [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	ACT 28:29 Ngemva kwalokhu, amaJuda asuka, ephikisana wodwa kakhulu.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	ROM 2:14 (Ngempela, nxa abeZizwe, abangelawo umthetho, besenza ngokwemvelo izinto ezifunwa ngumthetho, bangumthetho bona ngokwabo, lanxa bengelawo umthetho,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	ROM 2:15 njengoba bebonakalisa ukuthi okufunwa ngumthetho kulotshiwe ezinhliziyweni zabo, izazela zabo ziyafakaza, imicabango yabo ibasola iphinde ibavikele.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[1/0]	ROM 16:23 UGayiyasi, osiphatho sakhe esihle siyangijabulisa mina kanye lebandla lonke lapha, uyalibingelela. U-Erastu, ongumqondisi wemisebenzi yabantu bonke wedolobho, lomzalwane wethu uKhwathu bayalibingelela. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	[0/1]	ROM 16:24 Sengathi umusa weNkosi yethu uJesu Khristu ungaba lani lonke. Ameni.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(1/0)	EPH 4:9 (Ukuthi “wenyuka” kutshoni ngaphandle kokuthi njalo wehlela lezigabeni zangaphansi komhlaba na?	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Source	(0/1)	EPH 4:10 Yena lowo owehlela phansi nguye kanye owenyukela phezulu kakhulu kulamazulu wonke ukuze agcwale izindawo zonke emhlabeni lasezulwini.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	001 GEN 010 018 ama-Avadi, amaZemari kanye lamaHamathi. (Muva izizwana zamaKhenani zasabalala	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 010 019 kwathi imingcele yeKhenani yasukela eSidoni isiya eGerari kufika eGaza, besekuqonda eSodoma, leGomora, le-Adima leZebhoyimi kuze kuyefika eLasha.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (Amabele lebhali kwabhuqwa nya ngoba amabele ayeselezikhwebu lophoko selumumethe.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 Ingqoloyi lenyawuthi khona kakuthintwanga ngoba kuvuthwa muva.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 038 022 (UBhezaleli indodana ka-Uri, indodana kaHuri, owesizwe sakoJuda, wenza konke uMosi ayekulaywe nguThixo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 038 023 wayelo-Oholiyabhi indodana ka-Ahisamakhi owesizwe sikaDani owayeyingcitshi yomsebenzi njalo engumdwebi, njalo engumbalazi ngokuthunga ngentambo eluhlaza, eyibubende lebomvu, kanye lelembu elicolekileyo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	003 LEV 023 037 (Le yimikhosi kaThixo emisiweyo elizayimemezela njengezinkonzo ezingcwele, ezokuletha iminikelo yokutshiswa kuThixo, iminikelo yokutshiswa, leminikelo yamabele, imihlatshelo leminikelo enathwayo efunekayo insuku ngensuku.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	003 LEV 023 038 Iminikelo le ngengaphezu kwaleyo eyamaSabatha kaThixo njalo ngaphezu kwezipho zenu lalokho eliyabe lifungele ukukupha langaphezulu kweminikelo yonke yokuzithandela eliyinika uThixo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 026 058 Laba labo babengabezinsendo zabaLevi: usendo lwamaLibhini, usendo lwamaHebhroni, usendo lwamaMahili, usendo lwamaMushi, usendo lwamaKhora. (UKhohathi wayengukhokho ka-Amramu;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 026 061 Kodwa uNadabi lo-Abhihu bafa baze banikele kuThixo ngomlilo ongavunyelwayo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Ama-Emi ake ahlala khonapho, abantu abalamandla njalo abanengi kakhulu, futhi bebade njengama-Anakhi.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 AmaHori ayekade ehlala eSeyiri, kodwa adudulwa yisizukulwane sika-Esawu. Babhubhisa amaHori ayelapho basebesakha endaweni yawo, njengalokho okwenziwa ngabako-Israyeli ezweni abaliphiwa nguThixo ukuba libe yisabelo sabo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Leli lalo laliphathwa njengelizwe lamaRefayi ayehlala khonapho; kodwa ama-Amoni ayebabiza ngokuthi ngamaZamzumu.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Kanti-ke okunjengama-Avi ayehlala emizini ekhatshana njengeGaza, amaKhafithori ayevela eKhafithori ababhubhisa asehlala endaweni yabo.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 EleGiliyadi lonke kanye lalo lonke eleBhashani, lombuso ka-Ogi, ngalinika abayingxenye yesizukulwane sikaManase.” (Umhlubulo wonke welizwe le-Agobhi ngaseBhashani lalisaziwa ngokuthi yilizwe lamaRefayi.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 UJayiri, owosendo lukaManase, wathatha sonke isiqinti esisukela emangweni we-Agobhi kusiya emngceleni weGeshuri lamaMahakhathi; saba yisiqinti esabizwa ngaye, okokuthi lalamuhla iBhashani ibizwa ngokuthi yiHavothi-Jayiri.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Abako-Israyeli bahamba besuka emithonjeni yaseBherothi-Bheni-Jakhani kusiya eMosera. Kulapho u-Aroni afela khona njalo wangcwatshwa khona, kwathi indodana yakhe u-Eliyazari yathatha isikhundla sakhe sobuphristi.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Yikho abaLevi bengelasabelo loba ilifa phakathi kwabafowabo; elabo ilifa nguThixo, njengoba uThixo uNkulunkulu wenu wabatshela.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 013 006 Nxa umfowenu uqobo, loba indodana loba indodakazi yakho, loba umfazi wakho omthandayo, loba umngane wakho osekhwapheni, angavele akuhuge ensitha, esithi, ‘Asihambe siyekhonza abanye onkulunkulu’ (onkulunkulu lina laboyihlo elingazange libazi,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 013 007 onkulunkulu babantu elakhelene labo, eduzane loba khatshana, kusukela emaphethelweni esigaba kusiyaphutsha ngale kwaso),	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	006 JOS 012 007 La yiwo amakhosi elizwe lelo uJoshuwa labako-Israyeli abalithumbayo eceleni elisentshonalanga yeJodani, kusukela eBhali-Gadi esiGodini seLebhanoni kusiya eNtabeni yeHalakhi ekhangele eSeyiri (amazwe abo uJoshuwa wawanika njengelifa ezizwaneni zako-Israyeli kusiya ngezigaba zezizwana zabo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	006 JOS 012 008 indawo elamaqaqa, amawatha asentshonalanga, i-Arabha, lemithezukweni yezintaba, inkangala leNegebi, amazwe amaHithi, ama-Amori, amaKhenani, amaPherizi, amaHivi, lamaJebusi): La ayengamakhosi:	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Abako-Israyeli basebebuza uThixo. (Ngalezonsuku umtshokotsho wesivumelwano sikaNkulunkulu wawukhonapho,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 uloFinehasi indodana ka-Eliyazari, indodana ka-Aroni, ekhonza phambi kwawo.) Babuza bathi, “Singahamba njalo yini siyekulwa loBhenjamini umfowethu loba hatshi na?” UThixo waphendula wathi, “Hambani, ngoba kusasa ngizabanikela ezandleni zenu.”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 009 016 (UFaro inkosi yaseGibhithe wayehlasele wathumba iGezeri. Wayeyithungele ngomlilo wayitshisa. Wayebulele amaKhenani ayehlala khona, yona wasekhunga ngayo indodakazi yakhe, umkaSolomoni.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 009 017 USolomoni waseyakha kutsha iGezeri.) Wakha iBhethi-Horoni esezansi,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (Imikhumbi kaHiramu yaletha igolide livela e-Ofiri; njalo yethula lemithwalo emikhulu yamapulanka amahle lamatshe aligugu.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 Inkosi yasebenzisa amapulanka amahle njengezinsika zethempeli likaThixo kanye lesigodlo sobukhosi, lokwenza imihubhe lemiqangala yabahlabeleli. Akuzange kubuye kube lamapulanka amahle amanengi kangako angeniswayo elizweni loba abonwayo selokhu kwaba yilelolanga.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 njalo u-Ahabi wayebize u-Obhadaya, owayengumlindi wesigodlo sakhe. (U-Obhadaya wayekholwa kakhulu kuThixo.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Lapho uJezebheli wayebulala abaphrofethi bakaThixo, u-Obhadaya wayethethe abalikhulu wayabafihla ezimbalwini ezimbili, bengamatshumi amahlanu ebhalwini lunye, wabathumela ukudla lamanzi.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Akuzange kube lendoda eyayifanana lo-Ahabi yena owazinikela ukuthi adale isono phambi kukaThixo, ekhuthazwa ngumkakhe uJezebheli.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 Waziphatha butshapha kakhulu elandela izithombe, njengama-Amori wona ayesuswe nguThixo phambi kuka-Israyeli.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Ngakho uJehu indodana kaJehoshafathi, indodana kaNimishi wavukela uJoramu. (UJoramu labo bonke abako-Israyeli babevikela iRamothi Giliyadi kuHazayeli inkosi yama-Aramu,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 kodwa inkosi uJoramu yayisibuyele eJezerili ukuze yelatshwe amanxeba okulinyazwa ekulweni lama-Aramu kulwiwa loHazayeli inkosi yama-Aramu.) UJehu wathi, “Nxa lifuna lokho, akungabikho loyedwa ozaphuma emzini ukuba ayefikisa ilizwi eJezerili.”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Amadodana kaRubheni izibulo lika-Israyeli (wayelizibulo, kodwa kwathi esengcolise umbheda kayise owomtshado, amalungelo akhe njengezibulo aphiwa amadodana kaJosefa indodana ka-Israyeli, ngakho kasalotshwanga emibhalweni yosendo njengelungelo lokuzalwa kwakhe,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 lanxa uJuda wayelamandla amakhulu kulabo bonke abafowabo njalo enguye owazala umbusi, ilungelo lobuzibulo laya kuJosefa).	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 007 021 loZabhadi indodana yakhe kanye loShuthela indodana yakhe. (U-Ezeri lo-Eliyadi babulawa ngababezalwa eGathi, baze bayethumba izifuyo zabo.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 007 024 Indodakazi yakhe kwakunguShera owakha iBhethi-Horoni yaPhansi leyaPhezulu kanye le-Uzeni-Shera.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 012 001 La ngamabutho ayeloDavida eZikhilagi, ngesikhathi engavunyelwa ukubonakala kuSawuli indodana kaKhishi (kwakungamaqhawe ayemhlomulele empini;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 012 002 ayehlome ngemitshoko, ezingcitshi ekutshokeni lokutshaya ngezavutha loba ejikijela ngesokudla loba ngesenxele; ayeyizihlobo zikaSawuli engawesizwe sikaBhenjamini):	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 026 026 (UShelomithi lezihlobo zakhe babephethe zonke ezenotho ezingcwele ezazinikelwe yinkosi uDavida, labayizinhloko zezindlu ababengabalawuli bezinkulungwane labalawuli bamakhulu, langabanye abalawuli bamabutho.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 026 028 Lakho konke okwakunikelwe nguSamuyeli umboni loSawuli indodana kaKhishi, lo-Abhineri indodana kaNeri loJowabi indodana kaZeruya, lazozonke ezinye ezazinikelwe zazisesandleni sikaShelomithi kanye lezihlobo zakhe.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (Izinceku zikaHiramu lezikaSolomoni zaletha igolide livela e-Ofiri; zaletha lezigodo zomʼaligumu lamatshe aligugu.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 Inkosi yasebenzisa izigodo zomʼaligumu ukwakha inyathelo lethempeli likaThixo lenyathelo lesigodlo sesikhosini, kanye lokwenza imihubhe lemiqangala yabahlabeleli. Kwakungakaze kubonakale okunjengalokhu kwelakoJuda).	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	015 EZR 002 001 Manje-ke yilaba abantu bendawo ababuyayo ekuthunjweni, ababethunjiwe nguNebhukhadineza inkosi yaseBhabhiloni yabasa eBhabhiloni (babuyela eJerusalema lakoJuda, ngulowo emzini wakibo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	015 EZR 002 002 behamba loZerubhabheli, loJeshuwa, loNehemiya, loSeraya, loRelayiya, loModekhayi, loBhilishani, loMisipha, loBhigivayi, loRehumi loBhana): Uluhlu lwamadoda ako-Israyeli:	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	016 NEH 007 006 laba yibo abantu belizwe abafikayo bephuma ebugqilini ababethunjiwe nguNebhukhadineza inkosi yaseBhabhiloni. Baba yizigqili (babuyela eJerusalema lakoJuda, ngulowo waya emzini wakibo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	016 NEH 007 007 abeza kanye loZerubhabheli, loJeshuwa, loNehemiya, lo-Azariya loRamiya, loNahamani, loModekhayi, loBhilishani loMisipherethi, loBhigivayi, loNehumi loBhana): uluhlu lwamadoda ako-Israyeli:	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	016 NEH 011 003 Laba yibo abakhokheli bezigodi abayahlala eJerusalema (amanye ama-Israyeli, labaphristi, labaLevi, lezinceku zethempelini kanye labezizukulwane zezisebenzi zikaSolomoni bahlala emadolobheni akoJuda, ngulowo esabelweni sakhe emadolobheni ehlukeneyo,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	016 NEH 011 004 kwathi abanye babantu bakoJuda lakoBhenjamini bahlala eJerusalema): Abesizukulwane sikaJuda: U-Athaya indodana ka-Uziya, indodana kaZakhariya, indodana ka-Amariya, indodana kaShefathiya, indodana kaMahalaleli owosendo lukaPherezi;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	018 JOB 031 035 (Oh, kube ukhona ongizwayo! Sengisayina incwadi yokuzivikela kwami, uSomandla kangiphendule; ongimangalelayo kabhale phansi icala angethesa lona.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	018 JOB 031 037 Bengingamchazela ngokugcweleyo ngazozonke izinyathelo zami; ngisondele kuye njengenkosana.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (Umfazi lowo, ngumuntu womsindo uyisiqholo, inyawo zakhe kazihlali phansi;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 khathesi nangu emgwaqweni, njalo nangu enkundleni, utshobatshoba izindawana zonke.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 026 020 (U-Uriya indodana kaShemaya owaseKhiriyathi-Jeyarimi ungomunye umuntu owaphrofetha ngebizo likaThixo: waphrofitha izinto ezinjalo ngedolobho leli langelizwe leli njengoJeremiya.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 026 023 Bamthatha u-Uriya eGibhithe bamusa kuJehoyakhimi inkosi wambulala ngenkemba isidumbu sakhe saphoselwa endaweni yokungcwabela abantukazana.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	027 DAN 010 021 kodwa ngizaqala ngikutshele okulotshiweyo eNcwadini yeQiniso. (Kakho ongelekelelayo ukumelana labo ngaphandle kukaMikhayeli inkosana yakho.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	027 DAN 011 001 Kwathi ngomnyaka wokuqala kaDariyu umuMede, ngazimisela ukuba ngime laye ngimsekele njalo ngimvikele.)”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 017 020 Waphendula wathi, “Ngoba ukholo lwenu luncinyane. Ngilitshela iqiniso ukuthi nxa lingaba lokukholwa loba kukuncinyane njengentanga yemastadi, lingathi entabeni le, ‘Suduluka lapha uye laphayana’ izasuduluka. Kakukho kini okungasoze kwenzeke. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 017 021 Kodwa uhlobo olunje aluphumi ngaphandle kwangomkhuleko lokuzila ukudla.]”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 018 010 “Nanzelelani ukuthi lingeyisi lamunye walaba abancinyane. Ngoba ngilitshela ukuthi izingilosi zabo zezulu zihlezi zibona ubuso bukaBaba ezulwini. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 018 011 INdodana yoMuntu yalanda ukusindisa okwakulahlekile.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 “Maye kini, bafundisi bomthetho lakubaFarisi, lina bazenzisi! Livalela abantu umbuso wezulu. Lina ngokwenu kalingeni liphinde livimbele labo abazama ukungena. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 023 014 Maye kini bafundisi bomthetho lakini baFarisi, lina bazenzisi! Liphanga izindlu zabafelokazi, beselizenzisa lisenza imikhuleko emide, ngalokho lizakwamukeliswa ukulahlwa okukhulu.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (AbaFarisi labaJuda bonke kabadli bengagezanga izandla zabo ngokomthetho, belandela isiko labadala.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 Nxa bevela emsikeni kabadli bengaqalanga bageza. Balandela amasiko amanengi, njengokugezisa amankomitsho, indiwo lamagedlela.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 007 015 Kakulalutho olungaphandle komuntu olungamenza ‘angahlanzeki’ ngokungena kuye. Kodwa yilokho okuphuma phakathi komuntu okuyikho okumenza ‘angahlanzeki.’ [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 007 016 Nxa ekhona olendlebe zokuzwa kezwe.]”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 043 Nxa isandla sakho sikwenza wone, siqume. Kungcono kuwe ukuthi ungene ekuphileni ungungini kulokuya esihogweni ulezandla ezimbili, lapho umlilo wakhona ongacitshiyo, [ (Geenna g1067)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 044 lapho ‘impethu yakhona engafiyo lomlilo wakhona ongacitshiyo.’]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 045 Njalo nxa unyawo lwakho lukwenzisa isono, luqume. Kungcono kuwe ukuthi ungene ekuphileni uyisilima kulokuthi ulenyawo ezimbili uphoselwe esihogweni, [ (Geenna g1067)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 046 lapho ‘impethu zakhona ezidlayo zingafi lomlilo ongacitshiyo.’]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 011 025 Njalo nxa lisima likhuleka, nxa lilesikhwili komunye, mthetheleleni, ukuze uYihlo ezulwini alithethelele izono zenu. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 011 026 Kodwa nxa lingathetheleli, loYihlo osezulwini kazukulithethelela izono zenu.]”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 015 027 Babethela kanye laye abaphangi ababili, omunye kwesokunene sakhe, omunye kwesokhohlo. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 015 028 Kwagcwaliseka umbhalo othi, “Wabalwa ndawonye lezephulamthetho.”]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 008 Ngokuthuthumela langokudideka, abesifazane baphuma bebaleka ethuneni. Kabakhulumanga lutho lakubani ngoba babesesaba. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 Abafundi bahamba bayatshumayela ezindaweni zonke iNkosi yasebenza labo yaqinisa ilizwi layo ngezibonakaliso ezazilisekela.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	042 LUK 007 029 (Bonke abantu, kanye labathelisi, bathi sebewazwile amazwi kaJesu bavuma ukuthi indlela kaNkulunkulu yayilungile, ngoba babebhaphathizwe nguJohane.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	042 LUK 007 030 Kodwa abaFarisi lezazi zomthetho bayala injongo kaNkulunkulu ngabo, ngoba babengabhaphathizwanga nguJohane.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 017 035 Abesifazane ababili bazabe bechola elitsheni ndawonye; omunye uzathathwa omunye atshiywe. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 017 036 Ababili bazabe besensimini; oyedwa uzathathwa omunye atshiywe.]”	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 023 016 Ngakho ngizamjezisa nje besengimkhulula.” [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 023 017 Kwakumele akhulule isibotshwa esisodwa esiyabe sikhethwe ngabantu mhla wedili.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 003 Khonapho abantu abayizilima abanengi babandise ukuhlala khona, iziphofu, abaqhulayo, abome imihlubulo [belindele ukudungwa kwamanzi;	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 005 004 ngoba kwakusithi ngezikhathi ezithile ingilosi yeNkosi yayisehlela echibini, idungadunge amanzi besekusithi umuntu oqalayo ukungena emanzini ngemva kokudungeka kwawo asiliswe loba kuwuphi umkhuhlane owawumbambile].	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 052 Baphendula bathi, “Lawe uvela eGalile yini? Ake ukudingisise, uzabona ukuthi kakulamphrofethi ongaphuma eGalile.” [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 Owesifazane wathi, “Kabasekho, nkosi.” UJesu waphendula wathi, “Lami-ke, kangikulahli, zihambele, kodwa ungaphindi wenze isono futhi.”]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Ngomvuzo awuzuzayo ngenxa yobubi bakhe, uJudasi wathenga isiqinti; khonapho wawa ngekhanda, isidumbu sakhe sadubuka, amathumbu akhe wonke agcwala phansi.	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Bonke eJerusalema bezwa ngalokho, yikho babiza isiqinti leso ngolimi lwabo bathi yi-Akhelidama, okutsho iSiqinti seGazi.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 008 036 Bathi belokhu behamba ngomgwaqo bafika lapho okwakulamanzi khona, indoda engumthenwa yathi, “Khangela, nanka amanzi. Kulani ukuthi ngihle ngibhaphathizwe na?” [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 008 037 UFiliphu wathi, “Nxa ukholwa ngenhliziyo yakho yonke ungabhaphathizwa.” Isikhulu saphendula sathi, “Ngiyakholwa ukuthi uJesu Khristu uyiNdodana kaNkulunkulu.”]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 015 033 Sebehlale isikhathi esithile khonapho, abazalwane babavalelisa ngesibusiso sokuthula sebebuyela kulabo ababathumayo. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 015 034 Kodwa uSayilasi wakhetha ukusala khona.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 024 006 futhi yazama njalo ukungcolisa ithempeli; yikho sayibamba. Sasifuna ukumahlulela ngokomlayo wethu. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 024 007 Kodwa umlawuli uLisiya weza wazamthatha ngodlakela ezandleni zethu, wathi obamangalelayo kabeze phambi kwakhe].	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 028 028 Ngakho ngithanda ukuthi lazi ukuba insindiso kaNkulunkulu isithunyelwe kwabeZizwe, njalo bona bazalalela!” [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 028 029 Ngemva kwalokhu, amaJuda asuka, ephikisana wodwa kakhulu.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 014 (Ngempela, nxa abeZizwe, abangelawo umthetho, besenza ngokwemvelo izinto ezifunwa ngumthetho, bangumthetho bona ngokwabo, lanxa bengelawo umthetho,	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 njengoba bebonakalisa ukuthi okufunwa ngumthetho kulotshiwe ezinhliziyweni zabo, izazela zabo ziyafakaza, imicabango yabo ibasola iphinde ibavikele.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[1/0]	045 ROM 016 023 UGayiyasi, osiphatho sakhe esihle siyangijabulisa mina kanye lebandla lonke lapha, uyalibingelela. U-Erastu, ongumqondisi wemisebenzi yabantu bonke wedolobho, lomzalwane wethu uKhwathu bayalibingelela. [	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	[0/1]	045 ROM 016 024 Sengathi umusa weNkosi yethu uJesu Khristu ungaba lani lonke. Ameni.]	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Ukuthi “wenyuka” kutshoni ngaphandle kokuthi njalo wehlela lezigabeni zangaphansi komhlaba na?	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 Yena lowo owehlela phansi nguye kanye owenyukela phezulu kakhulu kulamazulu wonke ukuze agcwale izindawo zonke emhlabeni lasezulwini.)	WARN
+Ndebele---Accessible-Bible	ENCLOSURES	Summary	lines	104 / 104	NOTICE
+
+# UNEXPECTED
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Ndebele---Accessible-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:3 Kwathi u-Adamu esephile iminyaka elikhulu lamatshumi amathathu (130) wathola indodana eyafana laye xathu; wayibiza ngokuthi nguSethi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:4 USethi esezelwe, u-Adamu waphila iminyaka engamakhulu ayisificaminwembili (800) njalo wayelamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:5 Isiyonke iminyaka ka-Adamu yayingamakhulu ayisificamunwemunye lamatshumi amathathu (930), wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 5:6 Kwathi uSethi esephile iminyaka elikhulu lanhlanu (105) waba nguyise ka-Enoshi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	GEN 5:7 Ngemva kokuzala u-Enoshi uSethi waphila iminyaka engamakhulu ayisificaminwembili lesikhombisa (807), njalo wayelamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	GEN 5:8 Isiyonke iminyaka eyaphilwa nguSethi yaba ngamakhulu ayisificamunwemunye letshumi lambili (912), wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:9 Kwathi u-Enoshi esephile iminyaka engamatshumi ayisificamunwemunye (90) wazala uKhenani.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 5:10 Ngemva kokuzala uKhenani, u-Enoshi waphila iminyaka engamakhulu ayisificaminwembili letshumi lanhlanu (815) njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 5:11 Isiyonke iminyaka, u-Enoshi waphila iminyaka engamakhulu ayisificamunwemunye lanhlanu (905), wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:12 Kwathi uKhenani esephile iminyaka engamatshumi ayisikhombisa (70) wazala uMahalaleli.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:13 Ngemva kokuba esezele uMahalaleli, uKhenani waphila iminyaka engamakhulu ayisificaminwembili lamatshumi amane (840) njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:14 Isiyonke iminyaka eyaphilwa nguKhenani yaba ngamakhulu ayisificamunwemunye letshumi (910), wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 5:15 Kwathi uMahalaleli esephile iminyaka engamatshumi ayisithupha lanhlanu (65), wazala uJaredi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:16 Ngemva kokuzala kwakhe uJaredi, uMahalaleli waphila iminyaka engamakhulu ayisificaminwembili lamatshumi amathathu (830) njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 5:17 Isiyonke iminyaka eyaphilwa nguMahalaleli yaba ngamakhulu ayisificaminwembili lamatshumi ayisificamunwemunye lanhlanu (895), wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	GEN 5:18 UJaredi esephile iminyaka elikhulu lamatshumi ayisithupha lambili (162), wazala u-Enoki.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:19 Ngemva kokuzala kwakhe u-Enoki, uJaredi waphila okweminyaka engamakhulu ayisificaminwembili (800) njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	GEN 5:20 Isiyonke iminyaka eyaphilwa nguJaredi yaba ngamakhulu ayisificamunwemunye lamatshumi ayisithupha lambili (962), wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 5:21 Kwathi u-Enoki esephile iminyaka engamatshumi ayisithupha lanhlanu (65), wazala uMethuzela.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:22 Ngemva kokuzala uMethuzela, u-Enoki wahamba loNkulunkulu okweminyaka engamakhulu amathathu (300) njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 5:23 Isiyonke iminyaka eyaphilwa ngu-Enoki yaba ngamakhulu amathathu lamatshumi ayisithupha lanhlanu (365).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	GEN 5:25 Kwathi uMethuzela esephile okweminyaka elikhulu lamatshumi ayisificaminwembili lesikhombisa (187) wazala uLameki.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	GEN 5:26 Ngemva kokuzala uLameki, uMethuzela waphila iminyaka engamakhulu ayisikhombisa lamatshumi ayisificaminwembili lambili (782) njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	9	GEN 5:27 Isiyonke iminyaka eyaphilwa nguMethuzela yaba ngamakhulu ayisificamunwemunye lamatshumi ayisithupha layisificamunwemunye (969), wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	GEN 5:28 ULameki esephile iminyaka elikhulu lamatshumi ayisificaminwembili lambili (182) wazala indodana.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 5:30 Ngemva kokuzalwa kukaNowa, uLameki waphila iminyaka engamakhulu amahlanu lamatshumi ayisificamunwemunye lanhlanu (595) njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	GEN 5:31 Isiyonke iminyaka eyaphilwa nguLameki yaba ngamakhulu ayisikhombisa lamatshumi ayisikhombisa lesikhombisa (777), wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 5:32 Ngemva kokuphila iminyaka engamakhulu amahlanu (500), uNowa wazala uShemu, loHamu loJafethi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 9:28 Ngemva kukazamcolo uNowa waphila okweminyaka engamakhulu amathathu lamatshumi amahlanu (350).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 9:29 UNowa waphila okweminyaka engamakhulu ayisificamunwemunye lamatshumi amahlanu (950) isiyonke, wasesifa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 11:10 Lo ngumlando wosendo lukaShemu. Eminyakeni emibili emva kukazamcolo, uShemu eseleminyaka elikhulu (100) wazala u-Afazadi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 11:11 Esezele u-Afazadi, uShemu waphila okweminyaka engamakhulu amahlanu (500), njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 11:12 Kwathi u-Afazadi esephile iminyaka engamatshumi amathathu lanhlanu (35), wazala uShela.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	GEN 11:13 Esezele uShela, u-Afazadi waphila okweminyaka engamakhulu amane lantathu (403), njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 11:14 UShela esephile iminyaka engamatshumi amathathu (30) wazala u-Ebha.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	GEN 11:15 Esezele u-Ebha, uShela waphila okweminyaka engamakhulu amane lantathu (403), njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	GEN 11:16 U-Ebha esephile iminyaka engamatshumi amathathu lane (34) wazala uPhelegi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 11:17 Esezele uPhelegi, u-Ebha waphila okweminyaka engamakhulu amane lamatshumi amathathu (430), njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 11:18 UPhelegi esephile iminyaka engamatshumi amathathu (30), wazala uRewu.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	9	GEN 11:19 Esezele uRewu, uPhelegi waphila okweminyaka engamakhulu amabili lesificamunwemunye (209), njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	GEN 11:20 Kwathi uRewu esephile iminyaka engamatshumi amathathu lambili (32), wazala uSerugi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	GEN 11:21 Esezele uSerugi, uRewu waphila okweminyaka engamakhulu amabili lesikhombisa (207), njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 11:22 Kwathi uSerugi esephile iminyaka engamatshumi amathathu (30), wazala uNahori.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 11:23 Esezele uNahori, uSerugi waphila okweminyaka engamakhulu amabili (200), njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	9	GEN 11:24 UNahori esephile iminyaka engamatshumi amabili lesificamunwemunye (29) wazala uThera.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	9	GEN 11:25 Esezele uThera, uNahori waphila okweminyaka elikhulu letshumi lesificamunwemunye (119), njalo waba lamanye amadodana lamadodakazi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GEN 11:26 UThera esephile iminyaka engamatshumi ayisikhombisa (70) wazala u-Abhrama, uNahori loHarani.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	GEN 11:32 UThera waphila okweminyaka engamakhulu amabili lanhlanu (205), wafela eHarani.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	GEN 14:14 Kwathi u-Abhrama esizwa ukuthi isihlobo sakhe sasithunjiwe, wabutha amadoda ayengamakhulu amathathu letshumi layisificaminwembili (318) ababefundiswe ukulwa, bezalwa endlini yakhe, wangena emzileni baze bayafika eDani.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	EXO 6:16 La ngamabizo amadodana kaLevi ngokwemibhalo yabo: uGeshoni, uKhohathi loMerari. ULevi waphila iminyaka elikhulu elilamatshumi amathathu lesikhombisa (137).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	EXO 6:18 Amadodana kaKhohathi ayeyila: u-Amramu, u-Izihari, uHebhroni lo-Uziyeli. UKhohathi waphila iminyaka elikhulu elilamatshumi amathathu lantathu (133).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	EXO 6:20 U-Amramu wathatha uJokhebhedi owayengudadewabo kayise. Wamzalela u-Aroni loMosi. U-Amramu waphila iminyaka elikhulu elilamatshumi amathathu lesikhombisa (137).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EXO 12:40 Abako-Israyeli babehlale eGibhithe okweminyaka engamakhulu amane lamatshumi amathathu (430).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EXO 12:41 Ekupheleni kwaleyominyaka engamakhulu amane lamatshumi amathathu (430) kungeqanga suku wonke amaviyo kaThixo asuka eGibhithe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EXO 30:23 “Thatha lezinhlobo zamakha amahle: Amashekeli angamakhulu amahlanu (500) emure elingamanzi, isinamoni enuka mnandi eyingxenye yalokho (okuyikuthi amakhulu amabili lamatshumi amahlanu (250) amashekeli), amashekeli angamakhulu amabili lamatshumi amahlanu (250) ekhalamu elilephunga elimnandi,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EXO 30:24 amashekeli angamakhulu amahlanu (500) ekhasiya, konke kumayelana lamashekeli endawo engcwele, kanye lehini lamafutha ama-oliva.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EXO 38:24 Isilinganiso segolide lonke lomnikelo wokuzunguzwa elasetshenziswa emsebenzini wonke wendawo engcwele lalingamathalenta ayisisindo esingamatshumi amabili lasificamunwemunye (29) kanye lamashekeli angamakhulu ayisikhombisa lamatshumi amathathu (730) kusiya ngamashekeli endawo engcwele.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	EXO 38:25 Isiliva esavela kulabo abahlala khona ababebaliwe ngesikhathi sokubalwa kwabantu sasilesisindo esingamathalenta alikhulu (100) lamashekeli ayinkulungwane lamakhulu ayisikhombisa alamatshumi ayisikhombisa lanhlanu (1,775), kusiya ngamashekeli endawo engcwele,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EXO 38:26 ibhekha linye ngomuntu, okuyikuthi, ingxenye yeshekeli ngesilinganiso seshekeli endaweni engcwele, kubo bonke labo ababechaphele kwabasebebaliwe, abaleminyaka engamatshumi amabili okuzalwa loba ukwedlula lapho, kwaba ngamadoda azinkulungwane ezingamakhulu ayisithupha lantathu lamakhulu amahlanu lamatshumi amahlanu (603,550) esehlangene wonke.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EXO 38:27 Isiliva esiyisisindo samathalenta alikhulu (100) sasetshenziswa ekwenzeni izisekelo zendawo engcwele kanye lekhetheni, izisekelo ezilikhulu (100) zenziwa ngesiliva esingamathalenta alikhulu (100), isilinganiso sethalenta linye ukwenza isisekelo esisodwa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	EXO 38:28 Basebenzisa isiliva esilesisindo esingamashekeli ayinkulungwane elamakhulu ayisikhombisa lamatshumi ayisikhombisa lanhlanu (1,775) ukwenza ingwegwe zensika, ukuhuqa izihloko zensika, kanye lokwenza amabhanti ensika.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EXO 38:29 Isilinganiso sethusi lonke lomnikelo wokuzunguzwa sasingamathalenta angamatshumi ayisikhombisa (70) lamashekeli azinkulungwane ezimbili ezilamakhulu amane (2,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:21 Inani labesizwana sikaRubheni lalizinkulungwane ezingamatshumi amane lesithupha, lamakhulu amahlanu (46,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:23 Inani labesizwana sikaSimiyoni lalizinkulungwane ezingamatshumi amahlanu lasificamunwemunye, lamakhulu amathathu (59,300).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:25 Inani labesizwana sikaGadi lalizinkulungwane ezingamatshumi amane lanhlanu, lamakhulu ayisithupha lamatshumi amahlanu (45,650).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:27 Inani labesizwana sikaJuda lalizinkulungwane ezingamatshumi ayisikhombisa lane lamakhulu ayisithupha (74,600).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:29 Inani labesizwana sika-Isakhari lalizinkulungwane ezingamatshumi amahlanu lane, lamakhulu amane (54,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:31 Inani lesizwe sikaZebhuluni lalizinkulungwane ezingamatshumi amahlanu lasikhombisa, lamakhulu amane (57,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:33 Inani labesizwe sika-Efrayimi lalizinkulungwane ezingamatshumi amane lamakhulu amahlanu (40,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:35 Inani labesizwe sikaManase lalizinkulungwane ezintathu lambili, lamakhulu amabili (32,200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:37 Inani labesizwe sikaBhenjamini lalizinkulungwane ezingamatshumi amathathu lanhlanu, lamakhulu amane (35,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:39 Inani labesizwe sikaDani lalizinkulungwane ezingamatshumi ayisithupha lambili, lamakhulu ayisikhombisa (62,700).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:41 Inani labesizwe sika-Asheri lalizinkulungwane ezingamatshumi amane lanye, lamakhulu amahlanu (41,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:43 Inani labesizwe sikaNafithali lalizinkulungwane ezingamatshumi amahlanu lantathu, lamakhulu amane (53,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 1:46 Inani lawo esehlangene wonke lalizinkulungwane ezingamakhulu ayisithupha lantathu, lamakhulu amahlanu, lamatshumi amahlanu (603,550).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:4 Iviyo lakhe lizinkulungwane ezingamatshumi ayisikhombisa lane, lamakhulu ayisithupha (74,600).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:6 Iviyo lakhe lizinkulungwane ezingamatshumi amahlanu lane, lamakhulu amane (54,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:8 Iviyo lakhe lizinkulungwane ezingamatshumi amahlanu lasikhombisa, lamakhulu amane (57,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:9 Wonke amadoda akhethelwe izihonqo zakoJuda, ngamaviyo awo, azinkulungwane ezilikhulu lamatshumi ayisificamunwemunye lesithupha, lamakhulu amane (186,400). Yibo abazaqala ukusuka.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:11 Iviyo lakhe lizinkulungwane ezingamatshumi amane lesithupha, lamakhulu amahlanu (46,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:13 Iviyo lakhe lizinkulungwane ezingamatshumi amahlanu lasificamunwemunye, lamakhulu amathathu (59,300).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:15 Iviyo lakhe lizinkulungwane ezingamatshumi amane lanhlanu, lamakhulu ayisithupha alamatshumi amahlanu (45,650).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:16 Wonke amadoda akhethelwe izihonqo zakoRubheni ngamaviyo awo azinkulungwane ezilikhulu lamatshumi amahlanu lanye, lamakhulu amane alamatshumi amahlanu (151,450). Bazakuba ngabesibili ukusuka.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:19 Iviyo lakhe lizinkulungwane ezingamatshumi amane lamakhulu amahlanu (40,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:21 Iviyo lakhe lizinkulungwane ezingamatshumi amathathu lambili, lamakhulu amabili (32,200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:23 Iviyo lakhe lizinkulungwane ezingamatshumi amathathu lanhlanu, lamakhulu amane (35,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:24 Wonke amadoda ayekhethelwe izihonqo zako-Efrayimi, ngokwamaviyo awo, ayezinkulungwane ezilikhulu lasificaminwembili lekhulu (108,100). Bazakuba ngabesithathu ekusukeni.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:26 Iviyo lakhe lizinkulungwane ezingamatshumi ayisithupha lambili, lamakhulu ayisikhombisa (62,700).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:28 Iviyo lakhe lizinkulungwane ezingamatshumi amane lanye, lamakhulu amahlanu (41,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:30 Iviyo lakhe lizinkulungwane ezingamatshumi amahlanu lantathu, lamakhulu amane (53,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:31 Wonke amadoda ezihonqo zakoDani azinkulungwane ezilikhulu lamatshumi amahlanu lesikhombisa, lamakhulu ayisithupha (157,600). Bazasuka ekucineni, ngaphansi kophawu lwabo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 2:32 Laba yibo abako-Israyeli, ababalwa ngezindlu zabo. Bonke labo ababesezihonqweni, ngamaviyo abo, inani labo kuzinkulungwane ezingamakhulu ayisithupha lantathu, lamakhulu amahlanu alamatshumi amahlanu (603,550).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 3:22 Inani lamadoda wonke kusukela kwabalenyanga eyodwa bezelwe kusiya phezulu ababalwayo babezinkulungwane eziyisikhombisa lamakhulu amahlanu (7,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 3:28 Inani lamadoda wonke kusukela kwabalenyanga eyodwa bezelwe kusiya phezulu babezinkulungwane eziyisificaminwembili lamakhulu ayisithupha (8,600). AmaKhohathi yiwo ayelomlandu wokugcina indawo engcwele.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 3:34 Inani lamadoda asukela kwabalenyanga eyodwa bezelwe kusiya phezulu ababalwayo babezinkulungwane eziyisithupha lamakhulu amabili (6,200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 3:39 Inani labaLevi bonke ababalwayo njengokulaywa kukaMosi lo-Aroni nguThixo kulandelwa insendo zawo, kusukela kwabesilisa ababelenyanga eyodwa yokuzalwa kusiya phezulu, babezinkulungwane ezingamatshumi amabili lambili (22,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	NUM 3:43 Inani lawo wonke amazibulo esilisa kusukela kwalenyanga eyodwa yokuzalwa kusiya phezulu, ebhalwe ngoluhlu lwamabizo, ayezinkulungwane ezingamatshumi amabili lambili, lamakhulu amabili alamatshumi ayisikhombisa lantathu (22,273).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	NUM 3:46 Ukuhlenga amazibulo ako-Israyeli angamakhulu amabili alamatshumi ayisikhombisa lantathu (273) abangaphezu kwenani labaLevi,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	NUM 3:50 Wamukela kuvela emazibulweni abako-Israyeli isiliva esingamashekeli ayinkulungwane elamakhulu amathathu lamatshumi ayisithupha lanhlanu (1,365) ngesilinganiso seshekeli lendawo engcwele.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 4:36 bebalwa ngensendo, babazinkulungwane ezimbili lamakhulu ayisikhombisa alamatshumi amahlanu (2,750).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 4:40 bebalwa ngensendo langezindlu zabo, babazinkulungwane ezimbili lamakhulu ayisithupha alamatshumi amathathu (2,630).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 4:44 sebebaliwe ngensendo zabo, babazinkulungwane ezintathu lamakhulu amabili (3,200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 4:48 babezinkulungwane eziyisificaminwembili lamakhulu amahlanu alamatshumi ayisificaminwembili (8,580).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 11:21 Kodwa uMosi wathi, “Mina ngilapha phakathi kwamadoda azinkulungwane ezingamakhulu ayisithupha (600,000) ahamba ngezinyawo, kodwa wena uthi, ‘Ngizabanika inyama abazayidla okwenyanga yonke!’	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 16:2 bavukela uMosi. Bakwenza lokhu bendawonye lamanye amadoda angamakhulu amabili alamatshumi amahlanu (250) ako-Israyeli, abakhokheli abadumileyo babantu bakuleyondawo ababekhethelwe ukuthi babe ngamalunga enkundla.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 16:17 Indoda inye nganye kumele ithathe udengezi ifake impepha kulo, indengezi ezingamakhulu amabili alamatshumi amahlanu, (250) njalo iwethule phambi kukaThixo. Wena kanye lo-Aroni lani kufanele liveze ezenu indengezi.”	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 16:35 Kwavela umlilo kuThixo watshaya waqothula amadoda angamakhulu amabili alamatshumi amahlanu (250) ayenikela ngempepha.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 16:49 Kodwa kwasekufe abantu abazinkulungwane ezilitshumi lane lamakhulu ayisikhombisa (14,700) bebulawa yisifo, phezu kwalabo ababefe ngenxa kaKhora.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 25:9 kodwa labo abasebefile ngenxa yesifo babezinkulungwane ezingamatshumi amabili lane (24,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:7 Laba babengabezinsendo zikaRubheni; inani labo lalizinkulungwane ezingamatshumi amane lantathu, lamakhulu ayisikhombisa alamatshumi amathathu (43,730).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:10 Umhlaba wavuleka wabaginya kanye loKhora, kanye labalandeli babo abafa beqothulwa ngumlilo bengamadoda angamakhulu amabili alamatshumi amahlanu (250). Njalo baba yisixwayiso.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:14 Laba babengabezinsendo zikaSimiyoni; inani labo lalingamadoda azinkulungwane ezingamatshumi amabili lambili, lamakhulu amabili (22,200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:18 Laba bengabensendo zikaGadi; inani labo lalizinkulungwane ezingamatshumi amane lamakhulu amahlanu (40,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:22 Laba babezinsendo zikaJuda; inani labo lalizinkulungwane ezingamatshumi ayisikhombisa lesithupha, lamakhulu amahlanu (76,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:25 Laba ngabensendo zika-Isakhari; inani labo lalizinkulungwane ezingamatshumi ayisithupha lane, lamakhulu amathathu (64,300).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:27 Laba ngabensendo zikaZebhuluni, inani labo lalizinkulungwane ezingamatshumi ayisithupha lamakhulu amahlanu (60,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:34 Laba kwakungabensendo zikaManase; inani labo lalizinkulungwane ezingamatshumi amahlanu lambili, lamakhulu ayisikhombisa (52,700).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:37 Laba kwakungabensendo zika-Efrayimi; inani labo lalizinkulungwane ezingamatshumi amathathu lambili, lamakhulu amahlanu (32,500). Laba kwakuyizizukulwane zikaJosefa ngokwensendo zazo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:41 Laba kwakungabensendo zikaBhenjamini; inani labo lalizinkulungwane ezingamatshumi amane lanhlanu, lamakhulu ayisithupha (45,600).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:43 Bonke babengabosendo lwamaShuhamu; njalo inani labo lalizinkulungwane ezingamatshumi ayisithupha lane, lamakhulu amane (64,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:47 Laba babengabezinsendo zika-Asheri; inani labo lalizinkulungwane ezingamatshumi amahlanu lantathu, lamakhulu amane (53,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:50 Laba babengabezinsendo zikaNafithali; inani labo lalizinkulungwane ezingamatshumi amane lanhlanu, lamakhulu amane (45,400).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:51 Inani lamadoda wonke ako-Israyeli lalizinkulungwane ezingamakhulu ayisithupha lanye, lamakhulu ayisikhombisa alamatshumi amathathu (601,730).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 26:62 Bonke abaLevi abesilisa ababalwayo kusukela kwabalenyanga eyodwa yokuzalwa kusiya phezulu babezinkulungwane ezingamatshumi amabili lantathu (23,000). Kababalwanga ndawonye labanye abako-Israyeli ngoba kabanikwanga isabelo esiyilifa phakathi kwabo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:32 Impango eyayisele kulokho okwathathwa ngamabutho kwakuyizimvu eziyizinkulungwane ezingamakhulu ayisithupha lamatshumi ayisikhombisa lanhlanu (675,000),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:33 inkomo eziyizinkulungwane ezingamatshumi ayisikhombisa lambili (72,000),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:34 obabhemi abazinkulungwane ezingamatshumi ayisithupha lanye (61,000)	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:35 kanye labesifazane abazinkulungwane ezingamatshumi amathathu lambili (32,000) ababengakaze balale lamadoda.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:36 Ingxenye yesabelo salabo abalwayo empini: sasingesezimvu eziyizinkulungwane ezingamakhulu amathathu lamatshumi amathathu alesikhombisa, lamakhulu amahlanu (337,500),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	NUM 31:37 lapho abakhipha khona umnikelo kaThixo oyizimvu ezingamakhulu ayisithupha lamatshumi ayisikhombisa lanhlanu (675);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:38 lenkomo eziyizinkulungwane ezingamatshumi amathathu lesithupha (36,000), okwakhitshwa kizo ezomnikelo kaThixo ezingamatshumi ayisikhombisa lambili;	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:39 obabhemi abazinkulungwane ezingamatshumi amathathu lamakhulu amahlanu (30,500), kwathi umnikelo kaThixo waba ngamatshumi ayisithupha lanye;	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:40 abantu abazinkulungwane ezilitshumi lasithupha (16,000), kwanikelwa kuThixo ngabangamatshumi amathathu lambili.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:43 ingxenye eyayingeyabantu yaba yizimvu eziyizinkulungwane ezingamakhulu amathathu lamatshumi amathathu lesikhombisa, lamakhulu amahlanu (337,500),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:44 inkomo eziyizinkulungwane ezingamatshumi amathathu lasithupha (36,000),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:45 obabhemi abazinkulungwane ezingamatshumi amathathu lamakhulu amahlanu (30, 500)	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:46 kanye labantu abazinkulungwane ezilitshumi lasithupha (16,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NUM 31:52 Lonke igolide elalethwa ngabalawuli emunye elawula amaxuku azinkulungwane labalawuli emunye elawula ikhulu lelo uMosi lo-Eliyazari abalethula njengesipho kuThixo lalilesisindo samashekeli azinkulungwane ezilitshumi lesithupha, lamakhulu ayisikhombisa alamatshumi amahlanu (16,750).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	JDG 20:35 UThixo wamnqoba uBhenjamini phambi kuka-Israyeli, njalo ngalelolanga abako-Israyeli babulala abakoBhenjamini abazinkulungwane ezingamatshumi amabili lanhlanu lekhulu (25,100), bonke behlome ngezinkemba.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1KI 9:14 Kunjalo-nje uHiramu wayethumele uSolomoni igolide elalingamathalenta alikhulu elilamatshumi amabili (120).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1KI 9:23 Njalo babeyizikhulu zokukhokhela imisebenzi eqakathekileyo kaSolomoni, izikhulu ezingamakhulu amahlanu lamatshumi amahlanu (550) ezazikhangela amadoda ayesenza umsebenzi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1KI 9:28 Bagwedla baya e-Ofiri baphenduka legolide elilesisindo samathalenta angamakhulu amane lamatshumi amabili (420), bayalethula enkosini uSolomoni.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1KI 10:10 Yanika inkosi igolide elingamathalenta alikhulu lamatshumi amabili (120), lenqwabanqwaba zeziyoliso lamatshe aligugu. Akuzange kulethwe iziyoliso ezinengi kangako futhi njengalezo indlovukazi yaseShebha eyazipha iNkosi uSolomoni.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	1KI 10:14 Isisindo segolide elalizuzwa nguSolomoni minyaka yonke lalingamathalenta angamakhulu ayisithupha lamatshumi ayisithupha lesithupha (666),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1KI 20:15 Ngakho u-Ahabi wamema abalawuli bamabutho abentanga yabatsha ezabelweni, abangamakhulu amabili lamatshumi amathathu lambili (232). Waseqoqa labo bonke abanye abako-Israyeli abazinkulungwane eziyisikhombisa (7,000) ndawonye.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	1KI 20:16 Basuka emini enkulu ngesikhathi uBheni-Hadadi lamakhosi angamatshumi amathathu lambili (32) ayezomhlomulela belokhu besazinathela bedakwa emathenteni abo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 5:18 AbakoRubheni, labakoGadi lengxenye yesizwana sakoManase babelamadoda ayeselungele ukubuthwa azinkulungwane ezingamatshumi amane lane lamakhulu ayisikhombisa lamatshumi ayisithupha (44,760) amadoda ayeseqwahele esenelisa ukuphatha ihawu ahlome ngenkemba, atshoke ngemitshoko, ayesevele afundela ukulwa empini.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 7:2 Amadodana kaThola yila: ngu-Uzi, loRefaya, loJeriyeli, loJahamali, lo-Ibhisamu loSamuyeli, bonke bezinhloko zezindlu zabo. Ngezinsuku uDavida esabusa, abosendo lukaThola abangamadoda aselindele impi ngoluhlu lokuzalana kwabo, babengamadoda ayezinkulungwane ezingamatshumi amabili lambili lamakhulu ayisithupha (22,600).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 7:4 Ngoluhlu lokuzalana kwabo, babelamadoda azinkulungwane ezingamatshumi amathathu lesithupha (36,000) ayeselungele ukuthi angaphuma ayekulwa impi, ngoba babelabafazi labantwana abanengi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 7:5 Abayizihlobo abesilisa abasebefanele ukuthi bangaya empini bengabosendo luka-Isakhari, ngoluhlu lokuzalana kwabo, sebendawonye babezinkulungwane ezingamatshumi ayisificaminwembili lesikhombisa (87,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	1CH 7:7 Amadodana kaBhela yila: ngu-Ezibhoni, lo-Uzi, lo-Uziyeli, loJerimothi lo-Iri, babebahlanu bonke, bezinhloko zezindlu zabo. Bona-ke ngoluhlu losendo lwabo babelamadoda ayelungele ukulwa empini azinkulungwane ezingamatshumi amabili lambili lamatshumi amathathu lane (22,034).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 7:9 Imbali yoluhlu lwezimuli zababezinhloko zemindeni ibalisa ukuthi babengabantu abazinkulungwane ezingamatshumi amabili lamakhulu amabili amadoda empi (20,200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 7:11 Wonke lamadodana kaJediyeli ayeyizinhloko zezindlu zawo. Kwakulamadoda ayesefanele ukubuthwa ayekulwa empini azinkulungwane ezilitshumi lesikhombisa, lamakhulu amabili (17,200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 7:40 Bonke laba babengabosendo luka-Asheri bezinhloko zendlu ngendlu, amadoda akhethiweyo, amabutho alesibindi njalo bengabakhokheli abalokuhlakanipha. Inani lamadoda ayesefanele ukubuthwa aye empini, kusiya ngoluhlu losendo lwakwabo, kwakuzinkulungwane ezingamatshumi amabili lesithupha (26,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 8:40 Amadodana ka-Ulamu ayengamaqhawe alezibindi ayezintshantshu zemitshoko. Babelamadodana amanengi lamadodana amadodana abo, babelikhulu elilamatshumi amahlanu sebendawonye (150). Bonke laba babeyinzalo kaBhenjamini.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 9:6 KwabakoZera: nguJuweli. Abantu bakoJuda babengamakhulu ayisithupha alamatshumi ayisificamunwemunye (690).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	1CH 9:9 Abantu bakoBhenjamini, ngoluhlu lokuzalana kwabo njengokulotshiweyo, babengamakhulu ayisificamunwemunye lamatshumi amahlanu lesithupha (956). Bonke laba kwakungamadoda ayizinhloko zezindlu zawo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 9:13 Abaphristi ababezinhloko zezindlu zabo babeyinkulungwane eyodwa elamakhulu ayisikhombisa lamatshumi ayisithupha (1,760). Babengamadoda alolwazi, belomlandu wokuphatha umsebenzi endlini kaNkulunkulu.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	1CH 9:22 Sebebonke labo ababekhethiwe ukuba ngabalindimasango ezindaweni eziqakathekileyo babengamakhulu amabili aletshumi lambili (212). Babelotshwe ngoluhlu lokuzalana kwabo emizini yabo. Abalindi bamasango babefakwe kulezizindawo zokwethembeka nguDavida loSamuyeli umboni.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:24 amadoda ayevela koJuda ehlome ngamahawu lemikhonto ayezinkulungwane eziyisithupha lamakhulu ayisificaminwembili (6,800) ehlomele ukulwa impi;	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:25 abakaSimiyoni, amabutho ayelungele ukuhlasela babezinkulungwane eziyisikhombisa lekhulu (7,100),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:26 amadoda akoLevi ayezinkulungwane ezine lamakhulu ayisithupha (4,600),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:27 kubalwa loJehoyada, umkhokheli wabendlu ka-Aroni babezinkulungwane ezintathu lamakhulu ayisikhombisa (3,700) zamadoda	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	1CH 12:28 kanye loZadokhi, ibutho elaliseselijaha lilesibindi, lilezikhulu zendlu yakwabo ezingamatshumi amabili lambili (22);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:29 amadoda akoBhenjamini, labakibo kaSawuli babezinkulungwane ezintathu (3,000), ababesele bethembekile kuSawuli kuze kufike lesisikhathi yibo ababebanengi kulelonani;	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:30 amadoda ako-Efrayimi, amadoda ayelezibindi, edumile ezizwaneni zawo, ayezinkulungwane ezingamatshumi amabili lamakhulu ayisificaminwembili (20,800),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:31 amadoda ayevela kungxenye yesizwana sikaManase, ekhethwe ngamabizo awo ukuba azobeka uDavida ukuthi abe yinkosi, ayezinkulungwane ezilitshumi lesificaminwembili (18,000);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:32 amadoda ayevela ko-Isakhari, ayezwisisa umumo walesosikhathi njalo esazi ukuthi u-Israyeli kumele enzeni. Kwakuzinduna ezingamakhulu amabili (200) kanye lezihlobo zazo ezazingaphansi kwazo;	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:33 amadoda ayevela koZebhuluni, amabutho ayezingwazi empini, ngezikhali zemihlobo etshiyeneyo, eza ukuzancedisa uDavida ngokuzinikela okungalakuthandabuza, ayezinkulungwane ezingamatshumi amahlanu (50,000);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:34 amadoda ayevela koNafithali kwakuyizikhulu eziyinkulungwane eyodwa (1,000), kanye lamadoda ayephethe amahawu lemikhonto ayezinkulungwane ezingamatshumi amathathu lesikhombisa (37,000);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:35 amadoda ayevela koDani, ezimisele ukulwa empini, ayezinkulungwane ezingamatshumi amabili lesificaminwembili lamakhulu ayisithupha (28,600);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:36 amadoda ayevela ko-Asheri, amabutho ayevele ekwejayele ukulwa empini njalo ezimisele ukulwa, ayezinkulungwane ezingamatshumi amane (40,000);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 12:37 njalo ngempumalanga yeJodani, amadoda akoRubheni, koGadi lakungxenye yesizwana sikaManase, ayehlome ngemihlobohlobo yezikhali, ayezinkulungwane ezilikhulu lamatshumi amabili (120,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 15:5 Kwabendlu kaKhohathi, kwakungu-Uriyeli umkhokheli lezihlobo ezilikhulu lamatshumi amabili (120);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 15:6 kwabendlu kaMerari, kwakungu-Asaya umkhokheli lezihlobo ezingamakhulu amabili lamatshumi amabili (220);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 15:7 kwabendlu kaGeshoni, kwakunguJoweli umkhokheli lezihlobo ezilikhulu labantu abangamatshumi amathathu (130);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 15:8 kwabendlu ka-Elizafani, kwakunguShemaya umkhokheli lezihlobo ezingamakhulu amabili (200);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 15:9 kwabendlu kaHebhroni, kwakungu-Eliyeli umkhokheli lezihlobo ezingamatshumi ayisificaminwembili (80);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	1CH 15:10 kwabendlu ka-Uziyeli, kwakungu-Aminadabi umkhokheli lezihlobo ezilikhulu labantu abalitshumi lambili (112).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	1CH 25:7 Bona kanye lezihlobo zabo zonke babewufundele umsebenzi wokuhlabelela njalo bengamagabazi okuhlabelela uThixo, babengamakhulu amabili lamatshumi ayisificaminwembili labantu abayisificaminwembili (288).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	1CH 26:8 Bonke laba babengabosendo luka-Obhedi-Edomi; bona kanye lamadodana abo lezihlobo zabo babengamadoda enelisayo belamandla okwenza umsebenzi, bengabosendo luka-Obhedi-Edomi, babengamatshumi ayisithupha lambili (62) sebendawonye.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	1CH 26:9 UMeshelemiya wayelamadodana lezihlobo, amadoda ayekhaliphile ayelitshumi lasificaminwembili (18) esendawonye.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	1CH 26:11 loHilikhiya engowesibili, loThabhaliya engowesithathu kanye loZekhariya engowesine. Amadodana lezihlobo zikaHosa sebendawonye babelitshumi lantathu (13).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:1 Nantu uluhlu lwabako-Israyeli, inhloko zezimuli, abalawuli bezinkulungwane labalawuli bamakhulu, ababesebenzela inkosi kulokho okuqondane lamaviyo empi ayefanele ukuzophisana ngenyanga kuze kuyephela umnyaka. Iviyo lilinye lalilamadoda azinkulungwane ezingamatshumi amabili lane (24,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:2 Owayephethe iviyo lakuqala, ngenyanga yakuqala, kwakunguJashobheyamu indodana kaZabhidiyeli. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) esigabeni sakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:4 Owayephethe iviyo ngenyanga yesibili kwakunguDodayi wako-Ahohi; uMikhilothi engumkhokheli weviyo lakhe. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:5 Umlawuli wamabutho wesithathu, owezopho lesithathu, kwakunguBhenaya indodana kaJehoyada umphristi. Wayeyinduna, njalo esigabeni sakhe kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:7 Owesine, owezopho lenyanga yesine, kwakungu-Asaheli umfowabo kaJowabi; indodana yakhe uZebhadiya wasala esethatha isikhundla sakhe. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:8 Owesihlanu, owezopho lenyanga yesihlanu, kwakungumlawuli uShamihuthi owako-Izira. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:9 Owesithupha, owezopho lenyanga yesithupha, kwakungu-Ira indodana ka-Ikheshi waseThekhowa. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:10 Owesikhombisa, owezopho lenyanga yesikhombisa, kwakunguHelezi umPheloni, owako-Efrayimi. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:11 Owesificaminwembili, owezopho lenyanga yesificaminwembili, kwakunguSibhekhayi umHushathi wakoZera. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:12 Owesificamunwemunye, owezopho lesificamunwemunye, kwakungu-Abhiyezeri umʼAnathothi owakoBhenjamini. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:13 Owetshumi, owezopho lenyanga yetshumi, kwakunguMaharayi umNethofa wakoZera. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:14 Owetshumi lanye, owezopho lenyanga yetshumi lanye, kwakunguBhenaya umPhirathoni wako-Efrayimi. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	1CH 27:15 Owetshumi lambili, owezopho lenyanga yetshumi lambili, kwakunguHelidayi umNethofa, owemuli ka-Othiniyeli. Kwakulamadoda azinkulungwane ezingamatshumi amabili lane (24,000) eviyweni lakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 2:2 Wabutha amadoda azinkulungwane ezingamatshumi ayisikhombisa (70,000) awokuthwala imithwalo, lamadoda azinkulungwane ezingamatshumi ayisificaminwembili (80,000) awokubaza amatshe emaqaqeni, lazinkulungwane ezintathu lamakhulu ayisithupha (3,600) ayezakhangela abasebenzayo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 2:17 USolomoni wasebala bonke abezizweni ababeko-Israyeli, ngemva kokubalwa okwakwenziwe nguyise uDavida; kwatholakala kuyikuthi babezinkulungwane ezilikhulu elilamatshumi amahlanu lantathu, lamakhulu ayisithupha (153,600).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 2:18 Wasesithi abazinkulungwane ezingamatshumi ayisikhombisa (70,000) ababengabokuthwala, kuthi abazinkulungwane ezingamatshumi ayisificaminwembili (80,000) babengabokubaza amatshe emaqaqeni, abazinkulungwane ezintathu lamakhulu ayisithupha (3,600) babengabokukhangela abasebenzayo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 5:12 Bonke abaLevi ababengabahlabeleli, u-Asafi, uHemani, uJeduthuni lamadodana abo lezihlobo zabo bamela ngempumalanga kwe-alithari, begqoke ilineni elihle njalo betshaya izigubhu, amachacho lemiqangala. Babephelekezelwa ngabaphristi abalikhulu lamatshumi amabili (120) bekhalisa amacilongo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 9:9 Indlovukazi yasinika uSolomoni amathalenta egolide alikhulu elilamatshumi amabili (120), iziyoliso ezinengi, lamatshe aligugu. Kwakungakaze kube leziyoliso ezinjengalezo ezaphiwa inkosi uSolomoni yindlovukazi yaseShebha.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	2CH 9:13 Isisindo segolide elalifika kuSolomoni minyaka yonke lalingamathalenta angamakhulu ayisithupha lamatshumi ayisithupha lasithupha (666),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 17:14 Wona ayemi kanje ngezimuli: KwabakoJuda, abalawuli bamaviyo enkulungwane babeyilaba: u-Adina umlawuli wayelamaqhawe alamandla azinkulungwane ezingamakhulu amathathu (300,000);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 17:15 kulandele uJehohanani umlawuli, elamabutho azinkulungwane ezingamakhulu amabili lamatshumi ayisificaminwembili (280,000);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 17:16 kulandele u-Amasiya indodana kaZikhiri, owazinikela ukusebenzela uThixo elamaqhawe alamandla azinkulungwane ezingamakhulu amabili (200,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 17:17 KwabakoBhenjamini: kwakungu-Eliyada, indoda eliqhawe, elamadoda azinkulungwane ezingamakhulu amabili (200,000) ayehlome ngamadandili lezihlangu;	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 17:18 kulandele uJehozabhadi elamadoda azinkulungwane ezilikhulu lamatshumi ayisificaminwembili (180,000) ayehlomele ukulwa impi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 26:12 Inani labakhokheli lonke ngezimuli emadodeni okulwa lalizinkulungwane ezimbili lamakhulu ayisithupha (2,600).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	2CH 26:13 Babelawula ibutho elilamadoda abazinkulungwane ezingamakhulu amathathu lesikhombisa lamakhulu amahlanu (307,500) ayefundele ukulwa, amaviyo alamandla okuhlomulela inkosi ezitheni zayo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	9	EZR 1:9 Nanzi-ke lezompahla: imiganu yegolide yayingamatshumi amathathu (30), imiganu yesiliva yayiyinkulungwane (1,000), amapane esiliva ayengamatshumi amabili lasificamunwemunye (29),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 1:10 imiganu yegolide ezingubhe yayingamatshumi amathathu (30), eyesiliva efana layo yayingamakhulu amane letshumi (410), ezinye impahla zaziyinkulungwane (1,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 1:11 Sekukonke, kwakuyizinkulungwane ezinhlanu lamakhulu amane ezinto zegolide lesiliva (5,400). USheshibhazari weza lazozonke lezizinto lapho izithunjwa zafika eJerusalema zivela eBhabhiloni.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:3 isizukulwane sikaPharoshi sasizinkulungwane ezimbili lekhulu elilamatshumi ayisikhombisa lambili (2,172),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:4 esikaShefathiya sasingamakhulu amathathu lamatshumi ayisikhombisa lambili (372),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	EZR 2:5 esika-Ara sasingamakhulu ayisikhombisa lamatshumi ayisikhombisa lanhlanu (775),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:6 esikaPhahathi-Mowabi (ngosendo lukaJeshuwa loJowabi) sasizinkulungwane ezimbili lamakhulu ayisificaminwembili letshumi lambili (2,812),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	EZR 2:7 esika-Elamu sasiyinkulungwane elamakhulu amabili lamatshumi amahlanu lane (1,254),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	EZR 2:8 esikaZathu sasingamakhulu ayisificamunwemunye lamatshumi amane lanhlanu (945),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 2:9 esikaZakhayi sasingamakhulu ayisikhombisa lamatshumi ayisithupha (760),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:10 esikaBhani sasingamakhulu ayisithupha lamatshumi amane lambili (642),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	EZR 2:11 esikaBhebhayi sasingamakhulu ayisithupha lamatshumi amabili lantathu (623),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:12 esika-Azigadi sasiyinkulungwane elamakhulu amabili lamatshumi amabili lambili (1,222),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	EZR 2:13 esika-Adonikhamu sasingamakhulu ayisithupha lamatshumi ayisithupha lasithupha (666),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	EZR 2:14 esikaBhigivayi sasizinkulungwane ezimbili lamatshumi amahlanu lasithupha (2,056),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	EZR 2:15 esika-Adini sasingamakhulu amane lamatshumi amahlanu lane (454),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	EZR 2:16 esika-Atheri (ngoHezekhiya) sasingamatshumi ayisificamunwemunye lasificaminwembili (98),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	EZR 2:17 esikaBhezayi sasingamakhulu amathathu lamatshumi amabili lantathu (323),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:18 esikaJora sasilikhulu letshumi lambili (112),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	EZR 2:19 esikaHashumi sasingamakhulu amabili lamatshumi amabili lantathu (223),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	EZR 2:20 esikaGibhari sasingamatshumi ayisificamunwemunye lanhlanu (95),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	EZR 2:21 amadoda eBhethilehema ayengamakhulu amabili lantathu (123),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	EZR 2:22 eNethofa ayengamatshumi amahlanu lasithupha (56),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	EZR 2:23 e-Anathothi ayelikhulu lamatshumi amabili lasificaminwembili (128),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:24 e-Azimavethi ayengamatshumi amane lambili (42),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	EZR 2:25 eKhiriyathi-Jeyarimi, eKhefira leBherothi ayengamakhulu ayisikhombisa lamatshumi amane lantathu (743),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	1	EZR 2:26 eRama leGebha ayengamakhulu ayisithupha lamatshumi amabili lanye (621),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:27 eMikhimashi ayelikhulu lamatshumi amabili lambili (122),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	EZR 2:28 eBhetheli le-Ayi ayengamakhulu amabili lamatshumi amabili lantathu (223),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:29 eNebho ayengamatshumi amahlanu lambili (52),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	EZR 2:30 eMagibhishi ayelikhulu lamatshumi amahlanu lasithupha (156),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	EZR 2:31 kweyinye i-Elamu ayeyinkulungwane elamakhulu amabili lamatshumi amahlanu lane (1,254),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 2:32 eHarimi ayengamakhulu amathathu lamatshumi amabili (320),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	EZR 2:33 eLodi, eHadidi le-Ono ayengamakhulu ayisikhombisa lamatshumi amabili lanhlanu (725),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	EZR 2:34 eJerikho ayengamakhulu amathathu lamatshumi amane lanhlanu (345),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 2:35 eSenaya ayezinkulungwane ezintathu lamakhulu ayisithupha lamatshumi amathathu (3,630).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	EZR 2:36 Abaphristi: esizukulwaneni sikaJedaya (ngosendo lukaJeshuwa) babengamakhulu ayisificamunwemunye lamatshumi ayisikhombisa lantathu (973),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:37 kwesika-Imeri babeyinkulungwane lamatshumi amahlanu lambili (1,052),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	EZR 2:38 kwesikaPhashuri babeyinkulungwane elamakhulu amabili lamatshumi amane lasikhombisa (1,247),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	EZR 2:39 kwesikaHarimi babeyinkulungwane letshumi lasikhombisa (1,017).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	EZR 2:40 AbaLevi: besizukulwane sikaJeshuwa loKhadimiyeli (abosendo lukaHodaviya) babengamatshumi ayisikhombisa lane (74).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	EZR 2:41 Abahlabeleli: besizukulwane sika-Asafi babelikhulu lamatshumi amabili lasificaminwembili (128).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	9	EZR 2:42 Abalindi bamasango: besizukulwane sikaShalumi, lo-Atheri, loThalimoni, lo-Akhubi, loHathitha loShobhayi babelikhulu lamatshumi amathathu lasificamunwemunye (139).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:58 Izinceku zethempelini lezizukulwane zezinceku zikaSolomoni zazingamakhulu amathathu lamatshumi ayisificamunwemunye lambili (392).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	EZR 2:60 abesizukulwane sikaDelaya, loThobhiya loNekhoda babengamakhulu ayisithupha lamatshumi amahlanu lambili (652).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 2:64 Ixuku lonke lalilinani elifika izinkulungwane ezingamatshumi amane lambili, lamakhulu amathathu alamatshumi ayisithupha (42,360),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 2:65 ngaphandle kwezinceku lezincekukazi zabo ezizinkulungwane eziyisikhombisa lamakhulu amathathu alamatshumi amathathu lasikhombisa (7,337); njalo babe labahlabeleli besilisa labesifazane abangamakhulu amabili (200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	EZR 2:66 Babelamabhiza angamakhulu ayisikhombisa lamatshumi amathathu lasithupha (736), lezimbongolo ezingamakhulu amabili lamatshumi amahlanu lanhlanu (245),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 2:67 lamakamela angamakhulu amane lamatshumi amathathu lanhlanu (435) kanye labobabhemi abazinkulungwane eziyisithupha ezilamakhulu ayisikhombisa lamatshumi amabili (6,720).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 2:69 Banikela esikhwameni esikhulu ngokwamandla abo ukwenza umsebenzi lo banika amadrakhima azinkulungwane ezingamatshumi ayisithupha lanye egolide (61,000) lesiliva esifika izinkulungwane ezinhlanu samamina (5,000) lezembatho zobuphristi ezilikhulu (100).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:3 owesizukulwane sikaShekhaniya; abesizukulwane sikaPharoshi, uZakhariya, okwabhalisa kanye laye amadoda alikhulu lamatshumi amahlanu (150);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:4 abesizukulwane sikaPhahathi-Mowabi: kwakungu-Eliyehonayi indodana kaZerahiya oweza lamadoda angamakhulu amabili (200);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:5 abesizukulwane sikaZathu, kwakunguShekhaniya indodana kaJahaziyeli, oweza lamadoda angamakhulu amathathu (300);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:6 abesizukulwane sika-Adini, kwakungu-Ebhedi indodana kaJonathani, oweza lamadoda angamatshumi amahlanu (50);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:7 abesizukulwane sika-Elamu, kwakunguJeshaya indodana ka-Athaliya, oweza lamadoda angamatshumi ayisikhombisa (70);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:8 abesizukulwane sikaShefathiya, kwakunguZebhadiya indodana kaMikhayeli, oweza lamadoda angamatshumi ayisificaminwembili (80);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	EZR 8:9 abesizukulwane sikaJowabi, kwakungu-Obhadaya indodana kaJehiyeli, oweza lamadoda angamakhulu amabili aletshumi lasificaminwembili (218);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:10 abesizukulwane sikaBhani, kwakunguShelomithi indodana kaJosifiya, oweza lamadoda alikhulu lamatshumi ayisithupha (160),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	EZR 8:11 abesizukulwane sikaBhebhayi, kwakunguZakhariya indodana kaBhebhayi, oweza lamadoda angamatshumi amabili lasificaminwembili (28);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:12 abesizukulwane sika-Azigadi, kwakunguJohanani indodana kaHakathani, oweza lamadoda alikhulu letshumi (110);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:13 abesizukulwane sika-Adonikhamu, abokucina, kwakungu-Elifelethi, uJuweli loShemaya, beza lamadoda angamatshumi ayisithupha (60);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:14 abesizukulwane sikaBhigivayi, kwakungu-Uthayi loZakhuri, abeza lamadoda angamatshumi ayisikhombisa (70).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	EZR 8:18 Ngoba isandla somusa sikaNkulunkulu sasiphezu kwethu, basilethela uSherebhiya, indoda emadodeni, owesizukulwane sikaMahili indodana kaLevi, indodana ka-Israyeli, lamadodana kaSherebhiya labafowabo, amadoda alitshumi lasificaminwembili (18);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:19 loHashabhiya, kanye loJeshaya owesizukulwane sikaMerari, kanye labafowabo labantwababo, bonke babengamadoda angamatshumi amabili (20).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:20 Bona beza lezinceku zethempelini ezingamakhulu amabili lamatshumi amabili (220) ezazimiswe nguDavida lezinduna zakhe ukuncedisa abaLevi. Bonke babhalwa phansi amabizo abo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:26 Ngabalinganisela amathalenta angamakhulu ayisithupha lamatshumi amahlanu (650) esiliva, impahla zesiliva ezilobunzima obungamathalenta alikhulu (100), amathalenta alikhulu (100) egolide,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZR 8:27 imiganu yegolide engamatshumi amabili (20) kuthiwa intengo yayo ingaba ngamadariki ayinkulungwane (1,000), lezitsha ezimbili ezethusi elilolongiweyo eliligugu njengegolide.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:8 awesizukulwane sikaPharoshi ayezinkulungwane ezimbili lekhulu elilamatshumi ayisikhombisa lambili (2,172),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:9 akaShefathiya ayengamakhulu amathathu lamatshumi ayisikhombisa lambili (372),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:10 aka-Ara ayengamakhulu ayisithupha lamatshumi amahlanu lambili (652),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:11 akaPhahathi-Mowabi (ngosendo lukaJeshuwa loJowabi) ayezinkulungwane ezimbili lamakhulu ayisificaminwembili letshumi lasificaminwembili (2,818),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	NEH 7:12 aka-Elamu ayeyinkulungwane elamakhulu amabili lamatshumi amahlanu lane (1,254),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	NEH 7:13 akaZathu ayengamakhulu ayisificaminwembili lamatshumi amane lanhlanu (845),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NEH 7:14 akaZakhayi ayengamakhulu ayisikhombisa lamatshumi ayisithupha (760),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:15 akaBhinuyi ayengamakhulu ayisithupha lamatshumi amane lasificaminwembili (648),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:16 akaBhebhayi ayengamakhulu ayisithupha lamatshumi amabili lasificaminwembili (628),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:17 aka-Azigadi ayezinkulungwane ezimbili lamakhulu amathathu lamatshumi amabili lambili (2,322),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	NEH 7:18 aka-Adonikhamu ayengamakhulu ayisithupha lamatshumi ayisithupha lasikhombisa (667),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	NEH 7:19 akaBhigivayi ayezinkulungwane ezimbili lamatshumi ayisithupha lasikhombisa (2,067),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	NEH 7:20 aka-Adini ayengamakhulu ayisithupha lamatshumi amahlanu lanhlanu (655),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:21 aka-Atheri (ngoHezekhiya) ayengamatshumi ayisificamunwemunye lasificaminwembili (98),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:22 akaHashumi ayengamakhulu amathathu lamatshumi amabili lasificaminwembili (328),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	NEH 7:23 akaBhezayi ayengamakhulu amathathu lamatshumi amabili lane (324),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:24 akaHarifi ayelikhulu letshumi lambili (112),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	NEH 7:25 akaGibhiyoni ayengamatshumi ayisificamunwemunye lanhlanu (95),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:26 amadoda ayeseBhethilehema leNethofa ayelikhulu lamatshumi ayisificaminwembili lasificaminwembili (188),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:27 ayese-Anathothi ayelikhulu lamatshumi amabili lasificaminwembili (128),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:28 ayeseBethi Azimavethi ayengamatshumi amane lambili (42),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	NEH 7:29 ayeseKhiriyathi-Jeyarimi, leKhefira leBherothi ayengamakhulu ayisikhombisa lamatshumi amane lantathu (743),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	1	NEH 7:30 ayeseRama leGebha ayengamakhulu ayisithupha lamatshumi amabili lanye (621),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:31 ayeseMikhimashi ayelikhulu lamatshumi amabili lambili (122),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	NEH 7:32 ayeseBhetheli le-Ayi ayelikhulu lamatshumi amabili lantathu (123),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:33 awakweyinye iNebho ayengamatshumi amahlanu lambili (52),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	NEH 7:34 awakweyinye i-Elamu ayeyinkulungwane elamakhulu amabili lamatshumi amahlanu lane (1,254),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NEH 7:35 ayeseHarimi ayengamakhulu amathathu lamatshumi amabili (320),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	NEH 7:36 aseJerikho ayengamakhulu amathathu lamatshumi amane lanhlanu (345),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	1	NEH 7:37 ayeseLodi, eHadidi le-Ono ayengamakhulu ayisikhombisa lamatshumi amabili lane (721),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NEH 7:38 ayeseSenaya ayezinkulungwane ezintathu lamakhulu ayisificamunwemunye lamatshumi amathathu (3,930).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	NEH 7:39 Abaphristi: abesizukulwane sikaJedaya (ngosendo lukaJeshuwa) babengamakhulu ayisificamunwemunye lamatshumi ayisikhombisa lantathu (973),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:40 abaka-Imeri babeyinkulungwane elamatshumi amahlanu lambili (1,052),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	NEH 7:41 abakaPhashuri babeyinkulungwane lamakhulu amabili lamatshumi amane lasikhombisa (1,247),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	NEH 7:42 abakaHarimi babeyinkulungwane eletshumi lasikhombisa (1,017).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	NEH 7:43 AbaLevi: abesizukulwane sikaJeshuwa (ngoKhadimiyeli ngosendo lukaHodaviya) babengamatshumi ayisikhombisa lane (74).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:44 Abahlabeleli: Abesizukulwane sika-Asafi babelikhulu lamatshumi amane lasificaminwembili (148).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 7:45 Abalindimasango ethempeli: abesizukulwane sikaShalumi, lo-Atheri, loThalimoni, lo-Akhubi, loHathitha loShobhayi babelikhulu lamatshumi amathathu lasificaminwembili (138).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:60 Izinceku zethempelini labezizukulwane zezinceku zikaSolomoni babengamakhulu amathathu lamatshumi ayisificamunwemunye lambili (392).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 7:62 abesizukulwane sikaDelaya, loThobhiya loNekhoda babengamakhulu ayisithupha lamatshumi amane lambili (642).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NEH 7:66 Ixuku lonke lalilinani elifika inkulungwane ezingamatshumi amane lambili lamakhulu amathathu lamatshumi ayisithupha (42,360),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	NEH 7:67 ngaphandle kwezinceku zabo ezesilisa labesifazane ezazifika inkulungwane eziyisikhombisa lamakhulu amathathu lamatshumi amathathu lasikhombisa (7,337); njalo belabahlabeleli besilisa labesifazane abafika amakhulu amabili lamatshumi amane lanhlanu (245).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	NEH 7:68 Kwakulamabhiza ayefika amakhulu ayisikhombisa lamatshumi amathathu lasithupha (736), imbongolo ezingamakhulu amabili lamatshumi amane lanhlanu (245), amakamela angamakhulu amane lamatshumi amathathu lanhlanu (435),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NEH 7:69 labobabhemi abazinkulungwane eziyisithupha lamakhulu ayisikhombisa lamatshumi amabili (6,720).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NEH 7:70 Ezinye inhloko zezimuli zancedisa emsebenzini. Umbusi wanikela esikhwameni esikhulu, amadrakhima egolide ayinkulungwane (1,000), imiganu engamatshumi amahlanu (50) lezigqoko zabaphristi ezingamakhulu amahlanu lamatshumi amathathu (530).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	NEH 7:71 Abanye abazinhloko zezimuli baphosela esikhwameni amadrakhima egolide azinkulungwane ezingamatshumi amabili (20,000) lamamina esiliva azinkulungwane ezimbili lamakhulu amabili (2,200).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	NEH 7:72 Sekukonke okwaphiwa ngabantu bonke kwaba ngamadrakhima egolide azinkulungwane ezingamatshumi amabili (20,000), amamina esiliva azinkulungwane ezimbili (2,000) lezigqoko zabaphristi ezingamatshumi ayisithupha lasikhombisa (67).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 11:6 Abesizukulwane sikaPherezi ababehlala eJerusalema babefika 468, amadoda aqinileyo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 11:8 labalandeli bakhe, uGabhayi loSalayi, amadoda afika amakhulu ayisificamunwemunye lamatshumi amabili lasificaminwembili (928).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 11:12 labasekeli babo, abaqhuba umsebenzi wethempeli, amadoda afika amakhulu ayisificaminwembili lamatshumi amabili lambili (822); u-Adaya indodana kaJerohamu, indodana kaPhelaliya, indodana ka-Amizi, indodana kaZakhariya, indodana kaPhashuri, indodana kaMalikhija,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 11:13 labasekeli bakhe, ababe yizinhloko zezimuli, amadoda afika amakhulu amabili lamatshumi amane lambili (242); u-Amashisayi indodana ka-Azareli, indodana ka-Ahizayi, indodana kaMeshilemothi, indodana ka-Imeri,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	8	NEH 11:14 labasekeli bakhe, ababengamadoda aqinileyo alikhulu lamatshumi amabili lasitshiyagalombili (128). Induna yabo kwakunguZabhidiyeli indodana kaHagedolimi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	NEH 11:18 AbaLevi ababesemzini ongcwele babefika amakhulu amabili lamatshumi ayisificaminwembili lane (284).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	NEH 11:19 Abalindimasango: u-Akhubi, loThalimoni labasekeli babo, ababelinda amasango babengamadoda afika ikhulu elilamatshumi ayisikhombisa lambili (172).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	EST 1:1 Lokhu yikho okwenzakala ngesikhathi sika-Ahasuweru, owayebusa izifunda ezingaphezu kwekhulu elilamatshumi amabili lasikhombisa (127) kusukela e-Indiya kuze kuyefika eTopiya.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EST 1:4 Okwensuku ezilikhulu lamatshumi ayisificaminwembili (180) watshengisa ubukhulu benotho yombuso wakhe kanye lobucwazicwazi lobukhosi bombuso wakhe.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	EST 8:9 Onobhala besigodlweni bahle babizwa masinyane, ngelanga lamatshumi amabili lantathu ngenyanga yesithathu, inyanga ethiwa nguSivana. Babhala yonke imilayo kaModekhayi kumaJuda, lakuziphathamandla, kubabusi lakuzikhulu kuzozonke izabelo ezilikhulu elilamatshumi amabili lesikhombisa (127) kusukela e-Indiya kuze kuyefika eTopiya. Imilayo leyo yayibhalwe ngombhalo walelo lalelo lizwe ngolimi lwalabobantu njalo lakubaJuda ngombhalo wabo lolimi lwabo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	7	EST 9:30 UModekhayi wathumela izincwadi kubo bonke abangamaJuda ezifundeni ezilikhulu elilamatshumi amabili lesikhombisa (127) embusweni ka-Ahasuweru, amazwi okubafisela ukuthula lokubaqinisa,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	JER 52:28 Nanka amanani abantu uNebhukhadineza abasa ekuthunjweni: ngomnyaka wesikhombisa, amaJuda azinkulungwane ezintathu lamatshumi amabili lantathu (3,023);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	JER 52:29 ngomnyaka kaNebhukhadineza wetshumi lasificaminwembili mibili, abantu beJerusalema abangamakhulu ayisificamunwemunye lamatshumi amathathu lambili (832);	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	JER 52:30 ngomnyaka wakhe wamatshumi amabili lantathu, amaJuda angamakhulu ayisikhombisa lamatshumi amane lanhlanu (745) asiwa ekuthunjweni nguNebhuzaradani umlawuli wabalindi ekubusweni kwezizwe ezinengi. Bebonke kwakungabantu abazinkulungwane ezine lamakhulu ayisithupha (4,600).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 4:5 Sengikumisele inani linye lezinsuku njengeminyaka yezono zabo. Ngakho izono zendlu ka-Israyeli uzazithwala okwensuku ezingamakhulu amathathu lamatshumi ayisificamunwemunye (390).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 4:6 Emva kokuba usuqede lokhu, lala phansi futhi, khathesi kube ngomhlubulo wakho wokunene, uthwale isono sendlu kaJuda. Ngikumisele insuku ezingamatshumi amane (40), usuku olulodwa lumele umnyaka munye ngamunye.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 4:9 Thatha ingqoloyi lebhali, indumba lelentili, inyawuthi lophoko; ukubeke embizeni yokugcinela ukusebenzise ekwenzeni ukudla kwakho. Kumele ukudle phakathi kwensuku ezingamakhulu amathathu lamatshumi ayisificamunwemunye (390) ulele ngomhlubulo wakho.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 45:1 “ ‘Lapho usaba ilizwe njengelifa kuzamela wethule kuThixo ingxenye yelizwe njengesifunda esingcwele, izingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ubude lengalo eziyinkulungwane ezingamatshumi amabili (20,000) ububanzi; umango wonke uzakuba ngcwele.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 45:2 Kulokhu indawo ezingalo ezingamakhulu amahlanu (500) ubude lobubanzi izakuba ngeyendlu engcwele; kulezingalo ezingamatshumi amahlanu eziyizingelezileyo yelizwe elingelalutho.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 45:3 Esifundeni esingcwele linganisa ingxenye ezingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ubude lengalo eziyinkulungwane ezilitshumi (10,000) ububanzi. Phakathi kwayo kuzakuba lendlu engcwele, iNdawo eNgcwele kakhulu.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 45:5 Umango ozingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ubude lengalo eziyinkulungwane ezilitshumi (10,000) ububanzi izakuba ngeyabaLevi, abakhonza ethempelini, njengesabelo sabo samadolobho okuhlala kuwo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 45:6 Kumele unike idolobho njengelifa lalo umango ozingalo eziyinkulungwane ezinhlanu (5,000) ububanzi lengalo eziyinkulungwane ezinhlanu (5,000) ubude, obambane lengxenye engcwele; uzakuba ngowayo yonke indlu ka-Israyeli.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:8 Okungcelelana lelizwe likaJuda kusukela empumalanga kusiya entshonalanga kuzakuba yisigaba ozasethula njengesipho esiqakathekileyo. Sizakuba zingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ububanzi, njalo ubude baso kusukela empumalanga kusiya entshonalanga buzalingana lobesinye sezigaba zezizwana; indlu engcwele izakuba phakathi kwaso.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:9 Isigaba esiqakathekileyo ozasipha uThixo sizakuba zingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ubude lengalo eziyinkulungwane ezilitshumi (10,000) ububanzi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:10 Lesi sizakuba yisigaba esingcwele sabaphristi. Sizakuba zingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ubude ngasenyakatho, ingalo eziyinkulungwane ezilitshumi (10,000) ububanzi ngasentshonalanga, ingalo eziyinkulungwane ezilitshumi (10,000) ububanzi ngasempumalanga kanye lengalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ubude ngaseningizimu. Phakathi enkabeni yaso kuzakuba lendlu engcwele kaThixo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:13 AbaLevi bazakuba lesabelo esizingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ubude lengalo eziyinkulungwane ezilitshumi (10,000) ububanzi njalo sisekelane lesabaphristi. Ubude baso sonke buzakuba zingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ububanzi baso buzingalo eziyinkulungwane ezilitshumi (10,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:15 Indawo eseleyo, ingalo eziyinkulungwane ezinhlanu (5,000) ububanzi lengalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) ubude, izasetshenziswa nguzulu wedolobho, ngeyezindlu lamadlelo. Idolobho lizakuba phakathi kwayo	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:16 njalo lizakuba lalezi izilinganiso: Icele lasenyakatho izingalo eziyinkulungwane ezine lamakhulu amahlanu (4,500), icele laseningizimu izingalo eziyinkulungwane ezine lamakhulu amahlanu (4,500), icele lasempumalanga izingalo eziyinkulungwane ezine lamakhulu amahlanu (4,500), lecele lasentshonalanga izingalo eziyinkulungwane ezine lamakhulu amahlanu (4,500).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:17 Amadlelo edolobho azakuba zingalo ezingamakhulu amabili lamatshumi amahlanu (250) ngasenyakatho, izingalo ezingamakhulu amabili lamatshumi amahlanu (250) ngaseningizimu, izingalo ezingamakhulu amabili lamatshumi amahlanu (250) ngasempumalanga, lezingalo ezingamakhulu amabili lamatshumi amahlanu (250) ngasentshonalanga.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:18 Indawo esalayo, engcelelane lesigaba esingcwele njalo ilandela ubude baso izakuba zingalo eziyinkulungwane ezilitshumi (10,000) ngaseceleni lasempumalanga lezingalo eziyinkulungwane ezilitshumi (10,000) ngaseceleni lasentshonalanga. Izithelo zayo zizakuba yikudla kwezisebenzi zedolobho.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:20 Isigaba sonke sizalingana inxa zonke, izingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) icele ngalinye. Njengesipho esiqakathekileyo uzaphawula isigaba esingcwele ndawonye lempahla yedolobho.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:21 Okusalayo emaceleni womabili endawo eyisigaba esingcwele lempahla yedolobho kuzakuba ngokwenkosana. Kuzaqhubekela empumalanga kusukela ezingalweni eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) zesigaba esingcwele kusiya emngceleni wasempumalanga, kuphinde kuye entshonalanga kusukela kuzingalo eziyinkulungwane ezingamatshumi amabili lanhlanu (25,000) kusiya emngceleni wasentshonalanga. Izindawo lezi zombili ezilandela ubude bezigaba zezizwana zizakuba ngezenkosana, njalo isigaba esingcwele esilendawo engcwele yethempeli sizakuba phakathi kwazo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:30 “Lezi zizakuba zintuba zedolobho zokuphuma: Kusukela eceleni lenyakatho, elizingalo eziyinkulungwane ezine lamakhulu amahlanu (4,500) ubude,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:32 Eceleni langempumalanga, elizingalo eziyinkulungwane ezine lamakhulu amahlanu (4,500) ubude, kuzakuba lamasango amathathu: isango likaJosefa, isango likaBhenjamini lesango likaDani.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:33 Eceleni leningizimu, elizingalo eziyinkulungwane ezine lamakhulu amahlanu (4,500), kuzakuba lamasango amathathu: isango likaSimiyoni, isango lika-Isakhari lesango likaZebhuluni.”	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:34 Eceleni langentshonalanga, elizingalo eziyinkulungwane ezine lamakhulu amahlanu (4,500) ubude, kuzakuba lamasango amathathu: isango likaGadi, isango lika-Asheri lesango likaNafithali.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	EZE 48:35 “Ubude obubhoda indawo yonke buzakuba zingalo eziyinkulungwane ezilitshumi lasitshiyagalombili (18,000). Njalo ibizo ledolobho kusukela ngalesosikhathi kusiya phambili lizakuba: ‘uThixo ulapha.’ ”	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	DAN 6:1 UDariyu wathanda ukubeka ababusi bezigaba abalikhulu lamatshumi amabili (120) ukuba babuse kulolonke ilizwe,	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	DAN 8:14 Wathi kimi, “Kuzathatha izikhathi zokuhlwa lezokusa ezizinkulungwane ezimbili lamakhulu amathathu (2,300); lapho-ke indawo yokukhonzela izangcweliswa kutsha.”	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	DAN 12:11 Kusukela ngesikhathi kusaliswa umhlatshelo wansuku zonke, sekumiswe amanyala abanga incithakalo, kuzakuba lensuku eziyinkulungwane lamakhulu amabili lamatshumi ayisificamunwemunye (1,290).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	5	DAN 12:12 Ubusisiwe lowo okulindelayo njalo akufice ukucina kwensuku eziyinkulungwane lamakhulu amathathu alamatshumi amathathu lanhlanu (1,335).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	3	JOH 21:11 USimoni Phethro wagada esikepeni, wadonsela umambule okhunjini. Wawugcwele inhlanzi ezinkulu, zilikhulu lamatshumi amahlanu lantathu (153), kodwa loba zinengi kangaka umambule kawudabukanga.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	ACT 13:20 Konke lokho kwathatha iminyaka engamakhulu amane lamatshumi amahlanu (450). Ngemva kwalokhu uNkulunkulu wababekela abahluleli kwaze kwaba yisikhathi sikaSamuyeli umphrofethi.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	ACT 27:37 Sisonke sasingabantu abangamakhulu amabili lamatshumi ayisikhombisa lesithupha (276) emkhunjini.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	GAL 3:17 Engikutshoyo yilokhu: Umthetho owabekwa eminyakeni engamakhulu amane lamatshumi amathathu (430) muva, kawusibeki eceleni isivumelwano esamiswa ngaphambili nguNkulunkulu ngalokho wesule isithembiso.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 7:4 Ngasengisizwa inani lalabo ababekwa uphawu: Abazinkulungwane ezilikhulu lamatshumi amane lane (144,000) abezizwana zonke zako-Israyeli.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 7:5 Abesizwana sakoJuda abazinkulungwane ezilitshumi lambili (12,000) bafakwa uphawu, abesizwana sakoRubheni abazinkulungwane ezilitshumi lambili (12,000), abesizwana sakoGadi abazinkulungwane ezilitshumi lambili (12,000),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 7:6 abesizwana sako-Asheri abazinkulungwane ezilitshumi lambili (12,000), abesizwana sakoNafithali abazinkulungwane ezilitshumi lambili (12,000), abesizwana sakoManase abazinkulungwane ezilitshumi lambili (12,000),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 7:7 abesizwana sakoSimiyoni abazinkulungwane ezilitshumi lambili (12,000), abesizwana sakoLevi abazinkulungwane ezilitshumi lambili (12,000), abesizwana sako-Isakhari abazinkulungwane ezilitshumi lambili (12,000),	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 7:8 abesizwana sakoZebhuluni abazinkulungwane ezilitshumi lambili (12,000), abesizwana sakoJosefa abazinkulungwane ezilitshumi lambili (12,000), abesizwana sikaBhenjamini abazinkulungwane ezilitshumi lambili (12,000).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	2	REV 11:2 Kodwa utshiye iguma langaphandle ungalilinganisi ngoba liphiwe abeZizweni. Bazanyathela idolobho elingcwele izinyanga ezingamatshumi amane lambili (42).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 11:3 Ofakazi bami ababili ngizabanika amandla njalo bazaphrofitha insuku eziyinkulungwane lamakhulu amabili lamatshumi ayisithupha (1,260), begqoke izigqoko zamasaka.”	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 12:6 Owesifazane wabalekela enkangala endaweni ayeyilungiselwe nguNkulunkulu lapho ayezagcinakala khona okwensuku eziyinkulungwane lamakhulu amabili lamatshumi ayisithupha (1,260).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	6	REV 13:18 Lokhu kufuna inhlakanipho. Umuntu olombono lengqondo ebonayo, kayidingisise inombolo yesilo ngoba yinombolo yomuntu. Inombolo yaso ngamakhulu ayisithupha lamatshumi ayisithupha lesithupha (666).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 14:1 Ngabuya ngakhangela, khonapho phambi kwami kwakuleWundlu, limi phezu kweNtaba iZiyoni, lilabazinkulungwane ezilikhulu lamatshumi amane lane (144,000) ababelotshwe ibizo lalo lelikaYise emabunzini abo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 14:3 Bahlabela ingoma entsha phambi kwesihlalo sobukhosi laphambi kwezidalwa ezine eziphilayo kanye laphambi kwabadala. Kakho owayengayifunda ingoma leyo ngaphandle kwaba zinkulungwane ezilikhulu lamatshumi amane lane (144,000) ababehlengwe emhlabeni.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 14:20 Avoxwa phakathi kwesikhamelo sewayini ngaphandle kwedolobho, igazi lageleza liphuma esikhamelweni, laphakama okufika ematomini ebhiza okwebanga elingaba ngamakhilomitha angamakhulu amathathu (300).	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	0	REV 21:16 Idolobho lalakhiwe lalingana inxa zonke, lilide okungangobubanzi balo. Yalilinganisa idolobho ngomqwayi yathola lingaba ngamakhilomitha azinkulungwane ezimbili lamakhulu amabili (2,200) ubude njalo libanzi liphakeme okulingana lobude balo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	4	REV 21:17 Yalinganisa umduli walo isebenzisa isilinganiso sabantu, wawuzingalo ezilikhulu lamatshumi amane lane (144) ubuqatha bawo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Source	count	382	WARN
+Ndebele---Accessible-Bible	NUMERALS	Aionian	468	016-NEH-011-006 Abesizukulwane sikaPherezi ababehlala eJerusalema babefika 468, amadoda aqinileyo.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) UJesu esevukile ekuseni ngelanga lokuqala evikini waqala wabonakala kuMariya Magadalini yena lowo ayekhuphe kuye amadimoni ayisikhombisa.	WARN
+Ndebele---Accessible-Bible	NUMERALS	Aionian	count	2	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

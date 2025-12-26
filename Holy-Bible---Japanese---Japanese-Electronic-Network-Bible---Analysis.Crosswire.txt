@@ -1,0 +1,1730 @@
+# File Name: Holy-Bible---Holy-Bible---Japanese---Japanese-Electronic-Network-Bible---Analysis.txt
+# File Size: 167407      
+# File Date: 12/13/2025 05:41:11
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: 日本の電子ネットワーク聖書
+# Bible Name English: Japanese Electronic Network Bible
+# Bible Language: 日本語
+# Bible Language English: Japanese
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: from the World English Bible and various Japanese translations
+# Bible Source Version: 4/29/2019
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=JapDenmo
+# Bible Source Year: 2002
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Japanese---Japanese-Electronic-Network-Bible	ENCODING	Source	Holy-Bible---Japanese---Japanese-Electronic-Network-Bible---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCODING	Aionian	Holy-Bible---Japanese---Japanese-Electronic-Network-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Japanese---Japanese-Electronic-Network-Bible	BYTES	Source	bytes / chars	1162797 / 543975 (multi-byte)	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	BYTES	Aionian	bytes / chars	1026404 / 407486 (multi-byte)	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	BYTES	SourceClean	bytes / chars	1001632 / 382810 (multi-byte)	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	BYTES	AionianClean	bytes / chars	1024483 / 405779 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Japanese---Japanese-Electronic-Network-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	AIONIAN	Aionian	book-defined-not-exist	146	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	AIONIAN	Aionian	aionian-verses	118	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Japanese---Japanese-Electronic-Network-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Summary	(-)Orginal	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Summary	(+)Aionian	58	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : ([)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : ( )	15696	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (T)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (e)	3406	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (s)	1465	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (t)	3411	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (a)	1911	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (m)	115	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (n)	1045	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (2)	3593	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (H)	318	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (d)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (i)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (g)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (])	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (\n)	5682	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (M)	1795	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (h)	2143	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (w)	1417	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (0)	1087	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (:)	5681	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (1)	4895	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (3)	2048	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (4)	1630	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (5)	1298	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (6)	1124	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (7)	1056	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (8)	965	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (9)	930	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	CJK Symbols and Punctuation : (　)	114	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (r)	1188	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (k)	1871	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (L)	1176	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (u)	1203	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (J)	1184	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (o)	1043	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (,)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (A)	1033	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (c)	1033	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (b)	317	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (I)	430	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source(-)	Basic Latin : (P)	176	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	22486	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	7413	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	22064	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	1858	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	2862	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2077	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	5886	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	5515	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	4881	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	2934	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	1774	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	1602	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	1055	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	1262	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1029	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	1219	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (()	120	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	33	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	132	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	128	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	123	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : ())	120	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	1188	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	62	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	155	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	103	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	55	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	678	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	1150	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	1175	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	1150	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	1144	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	1011	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	1004	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	469	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	303	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	166	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : ([)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : ( )	15696	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (T)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (e)	3406	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (s)	1465	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (t)	3411	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (a)	1911	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (m)	115	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (n)	1045	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (2)	3593	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (H)	318	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (d)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (i)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (g)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (])	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (\n)	5682	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (M)	1795	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (h)	2143	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (w)	1417	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (0)	1087	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (:)	5681	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (1)	4895	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ア)	573	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ブ)	224	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ラ)	443	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ハ)	223	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ム)	281	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (の)	13874	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (子)	952	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Halfwidth and Fullwidth Forms : (，)	13348	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ダ)	410	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ビ)	108	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (デ)	201	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (イ)	1226	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (エ)	1254	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ス)	1515	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (・)	112	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (キ)	245	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (リ)	724	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ト)	546	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (系)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (図)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Symbols and Punctuation : (。)	8355	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (は)	8323	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (サ)	462	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ク)	121	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (父)	408	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (と)	6382	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (な)	7849	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (り)	2507	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ヤ)	430	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (コ)	118	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ユ)	264	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (そ)	3376	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (兄)	211	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (弟)	495	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (た)	16885	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ち)	3911	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (3)	2048	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (タ)	142	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (マ)	316	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ル)	476	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (に)	10534	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (よ)	2087	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (っ)	5662	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (て)	8591	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ペ)	186	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (レ)	310	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ツ)	41	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ゼ)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ヘ)	94	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ロ)	525	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ン)	466	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (4)	1630	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ミ)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ナ)	203	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (フ)	278	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (シ)	214	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ョ)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (モ)	193	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (5)	1298	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ボ)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ズ)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (オ)	129	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ベ)	91	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ド)	141	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ッ)	37	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (6)	1124	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (王)	252	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ウ)	293	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (妻)	62	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (で)	4849	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (あ)	3948	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (女)	361	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ソ)	53	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (7)	1056	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (8)	965	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ヨ)	229	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ャ)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ァ)	139	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ジ)	55	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (9)	930	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ヒ)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (セ)	123	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (バ)	230	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (へ)	133	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (流)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (刑)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (こ)	4221	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ろ)	1170	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ニ)	84	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (テ)	210	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ィ)	123	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ゾ)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ザ)	95	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (夫)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (か)	4899	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ら)	5896	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (呼)	209	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ば)	602	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (れ)	5123	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (る)	6047	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (が)	5256	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (生)	308	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ま)	2458	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (世)	207	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (代)	72	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (全)	164	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (部)	40	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (十)	188	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (四)	53	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (連)	141	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (行)	911	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (さ)	2595	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (誕)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (次)	59	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (う)	3799	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (彼)	4324	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (母)	81	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (婚)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (約)	66	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (し)	8448	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (い)	8899	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (二)	260	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (人)	2520	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (一)	535	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (緒)	88	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (前)	311	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (聖)	210	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (霊)	286	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (妊)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (娠)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (分)	1127	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (正)	78	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (を)	7440	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (者)	1805	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (く)	1673	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ひ)	176	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (去)	166	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (せ)	797	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (事)	305	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (つ)	950	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (考)	59	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (え)	1482	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (見)	926	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (主)	498	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (み)	807	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (使)	276	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (夢)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (中)	422	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (現)	86	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (わ)	3237	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (言)	2312	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Symbols and Punctuation : (「)	1793	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (迎)	45	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (入)	441	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (恐)	119	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (け)	1408	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (内)	113	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宿)	23	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (も)	2549	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (だ)	3233	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (男)	79	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (産)	50	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (む)	208	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (名)	199	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぶ)	73	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (自)	1113	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (民)	174	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (罪)	224	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (救)	115	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Symbols and Punctuation : (」)	1613	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (す)	3208	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (べ)	583	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (起)	208	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (預)	160	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (通)	142	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (語)	205	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (果)	64	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (め)	1488	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (処)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ヌ)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (訳)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (神)	832	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (共)	279	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (意)	138	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (味)	36	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (眠)	33	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (覚)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (命)	257	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (じ)	601	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (お)	1010	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (初)	77	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (性)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (的)	30	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (知)	469	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (付)	68	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (時)	449	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (東)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (方)	1999	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (賢)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (来)	925	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ど)	632	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (星)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (拝)	43	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (聞)	369	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (動)	69	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (揺)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (祭)	211	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (司)	186	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (長)	198	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (律)	150	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (法)	201	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (学)	74	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (集)	145	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (寄)	73	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (尋)	114	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ね)	156	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (書)	163	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Symbols and Punctuation : (『)	426	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (地)	237	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (決)	75	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (君)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (間)	270	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (最)	138	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (小)	69	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (統)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (治)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (出)	701	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (牧)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Symbols and Punctuation : (』)	427	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ん)	1064	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (期)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (詳)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (き)	1787	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (遣)	162	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (幼)	36	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (念)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (調)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (報)	50	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (告)	352	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (葉)	268	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (先)	71	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (場)	133	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (所)	202	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (上)	543	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (や)	729	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (止)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (非)	46	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (常)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (大)	379	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (喜)	114	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (び)	371	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (家)	227	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (伏)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宝)	24	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (箱)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (開)	59	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (金)	55	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (乳)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (香)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (没)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (薬)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (贈)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (物)	211	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (げ)	609	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (戻)	64	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (別)	90	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (道)	85	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (国)	172	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (帰)	48	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (プ)	141	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (逃)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (探)	53	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (滅)	62	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぼ)	47	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (夜)	59	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (死)	255	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぬ)	36	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (腹)	35	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (立)	300	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (基)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (づ)	135	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (周)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (囲)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (域)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (歳)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (以)	61	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (下)	149	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (殺)	111	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (声)	88	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (泣)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (悲)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (嘆)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ケ)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (供)	106	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (慰)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (求)	127	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ガ)	100	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (退)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (町)	112	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (住)	59	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (施)	63	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ネ)	183	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (荒)	46	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (野)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宣)	93	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (教)	198	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (悔)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (改)	48	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (天)	218	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (近)	112	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Halfwidth and Fullwidth Forms : (！)	331	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (叫)	84	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (整)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (筋)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぐ)	155	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (毛)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (作)	50	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (衣)	88	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (身)	158	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (着)	134	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (皮)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (帯)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (腰)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (巻)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ゴ)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (食)	246	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (土)	45	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (辺)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Symbols and Punctuation : (々)	491	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (白)	37	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (受)	334	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (カ)	162	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (多)	154	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (孫)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (憤)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ふ)	61	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (実)	175	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (我)	78	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (石)	82	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (木)	58	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (根)	23	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (置)	85	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (良)	126	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (切)	65	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (倒)	29	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (火)	63	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (投)	75	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (込)	76	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (確)	64	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (水)	92	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (後)	150	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (強)	75	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (力)	115	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (履)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (脱)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (値)	36	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ォ)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ー)	118	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (手)	232	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (穀)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (麦)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (倉)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (殻)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ほ)	271	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (消)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (焼)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (尽)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (必)	56	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (要)	58	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (答)	240	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (今)	169	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (義)	94	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (目)	235	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (愛)	200	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (心)	196	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (導)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (悪)	232	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (魔)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (誘)	24	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (惑)	44	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (日)	434	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (断)	34	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (空)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (感)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (パ)	300	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (口)	101	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (都)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (殿)	93	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (高)	78	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ご)	251	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (指)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (示)	67	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (与)	264	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (支)	50	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (足)	125	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (打)	97	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (試)	33	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (山)	55	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (栄)	124	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (光)	183	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Symbols and Punctuation : (　)	114	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (崇)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ず)	359	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (仕)	85	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (離)	63	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (引)	176	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (渡)	128	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (海)	82	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (向)	120	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (異)	61	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (邦)	47	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (闇)	40	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (座)	123	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (陰)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (昇)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (始)	109	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (歩)	81	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (網)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (漁)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (師)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (捕)	60	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (捨)	37	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (従)	158	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (進)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (舟)	57	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (繕)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (残)	74	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (回)	45	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (会)	138	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (堂)	69	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (福)	53	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (音)	35	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (疾)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (患)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (病)	74	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (気)	132	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (関)	58	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (評)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (判)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (広)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (苦)	97	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (痛)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (取)	289	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (体)	130	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ポ)	56	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (群)	194	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (衆)	176	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (貧)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (幸)	46	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (柔)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (和)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (継)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (飢)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (渇)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (満)	98	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (深)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (清)	59	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (平)	60	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (造)	50	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (迫)	36	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (害)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ゆ)	162	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (難)	23	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (敵)	44	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (対)	220	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (偽)	63	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (踊)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (同)	148	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (塩)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (風)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (失)	45	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (何)	361	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (役)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (外)	99	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (踏)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (丘)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (隠)	30	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (量)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (台)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (輝)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (破)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (棄)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (達)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (成)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (本)	108	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (当)	130	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (過)	85	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぎ)	132	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (文)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (字)	23	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (画)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (柄)	122	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (古)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (裁)	128	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (理)	147	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (由)	54	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (院)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (愚)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (燃)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ゲ)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (壇)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (恨)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (抱)	59	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (思)	211	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (仲)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (直)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (訴)	46	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (途)	24	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (急)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (解)	89	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (官)	49	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (銭)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (払)	37	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (姦)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (淫)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (犯)	65	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (情)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (欲)	53	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (右)	40	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (肢)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (益)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (縁)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (状)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (結)	40	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (誓)	48	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (偉)	52	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (頭)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (髪)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (黒)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (歯)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (反)	36	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (側)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (借)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (望)	120	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (背)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (隣)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (憎)	33	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (祝)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (虐)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (待)	47	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (祈)	101	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (善)	72	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (太)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (陽)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (雨)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (降)	47	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (徴)	26	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (税)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (友)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (優)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (完)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (注)	35	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (為)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぱ)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (吹)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鳴)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (左)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (公)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (然)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (角)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (好)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (奥)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (屋)	43	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (戸)	34	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (閉)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (無)	40	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (駄)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (繰)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (返)	104	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (費)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (志)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (負)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (許)	120	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (陥)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (永)	72	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (久)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (メ)	53	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (顔)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (油)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (塗)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (洗)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (蓄)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (盗)	37	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (押)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (積)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (健)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (他)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (富)	36	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (両)	81	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (飲)	76	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (煩)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (服)	44	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鳥)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (種)	63	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (刈)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (養)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (価)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (寿)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ュ)	66	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (加)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぜ)	106	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (育)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (労)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (紡)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (極)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (装)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (明)	108	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (草)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (信)	352	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (仰)	115	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (少)	57	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (追)	67	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (存)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (第)	54	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (丸)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (犬)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (真)	132	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (珠)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (豚)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (裂)	55	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (息)	133	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (魚)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (蛇)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (狭)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (門)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (至)	56	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (用)	54	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (羊)	67	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (チ)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (腐)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (業)	107	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (不)	165	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (働)	30	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (岩)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (建)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (洪)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (据)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (砂)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (似)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (壊)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (話)	162	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (終)	57	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (驚)	68	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (権)	60	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (威)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (伸)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (触)	38	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (証)	171	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (百)	52	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (隊)	37	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (請)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (願)	85	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (召)	129	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (横)	43	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ょ)	165	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (兵)	50	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (士)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (勢)	66	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (西)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (席)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (刻)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ゅ)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (熱)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (夕)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (弱)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (担)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (岸)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (発)	50	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (穴)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (巣)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (葬)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (乗)	46	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (激)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (波)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (覆)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (墓)	54	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (狂)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (暴)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (抜)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (遠)	85	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (飼)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (懇)	34	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (突)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (含)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (寝)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (運)	30	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (元)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (数)	65	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (冒)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (持)	214	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	General Punctuation : (…)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Halfwidth and Fullwidth Forms : (（)	45	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Halfwidth and Fullwidth Forms : (）)	45	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (床)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (収)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (卓)	26	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (康)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (医)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (犠)	34	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (牲)	34	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (花)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (婿)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (縮)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (布)	35	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (新)	40	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (酒)	29	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (袋)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (張)	45	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (保)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (配)	56	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (娘)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (年)	65	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (血)	72	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (房)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (振)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (笛)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (騒)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (盲)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (厳)	23	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (度)	76	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (首)	26	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (領)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (村)	29	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (哀)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (散)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (穫)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (汚)	64	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (徒)	55	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (売)	72	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (財)	33	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (銀)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (旅)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (枚)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (安)	97	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (臨)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (耳)	68	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (傾)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (落)	63	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (耐)	33	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (純)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (廷)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (総)	29	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (督)	29	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (親)	58	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (忍)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (魂)	43	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (羽)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (面)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (否)	36	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (認)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (剣)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (嫁)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (争)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (架)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (杯)	24	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (猛)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (攻)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (烈)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (奪)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (比)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (市)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (遊)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (恵)	64	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (災)	33	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (昔)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (灰)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (謝)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (重)	23	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (荷)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (軽)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (畑)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (穂)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (摘)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (読)	24	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (定)	60	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (片)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (匹)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (謀)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (企)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (選)	43	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (傷)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (砕)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (亜)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (麻)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (灯)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (勝)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (利)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (皆)	64	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (廃)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (縛)	35	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (略)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (逆)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (三)	105	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (晩)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (際)	35	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (南)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (休)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (掃)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (七)	48	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (態)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (覧)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (差)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (姉)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (妹)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (浜)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (耕)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (幾)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (芽)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (焦)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (枯)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (倍)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (六)	24	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (秘)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (密)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (余)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鈍)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (合)	114	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (続)	55	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (圧)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (欺)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (毒)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (様)	44	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (束)	49	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (粒)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (菜)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (枝)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (粉)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (酵)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (礎)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (表)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (説)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (界)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (炉)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (買)	26	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (商)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (類)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (器)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (故)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (郷)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (得)	73	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (工)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (快)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (敬)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (逮)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (有)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (促)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (皿)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (載)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (乙)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (寂)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (遅)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (五)	51	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (拾)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (除)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (千)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (幽)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (転)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (怖)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (沈)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (疑)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (伝)	35	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (献)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (納)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (効)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (唇)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (規)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (則)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (植)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (案)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (助)	26	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (グ)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (晴)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (赤)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (朝)	24	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (模)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (忘)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (互)	83	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (論)	54	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ピ)	76	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (肉)	51	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (老)	51	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (換)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (伴)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (変)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (幕)	27	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (雲)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (影)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (復)	43	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (放)	52	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (題)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ざ)	54	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (曲)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (慢)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (移)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (可)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (能)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (滞)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (在)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (硬)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (貨)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (貢)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (免)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (針)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (釣)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (番)	30	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (低)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (臼)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (具)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (迷)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (九)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (拒)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (致)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (貸)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (精)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (算)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (万)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (済)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (辛)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (債)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (帳)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (絞)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぞ)	29	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (容)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (授)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (胎)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (守)	68	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (若)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (資)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (易)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (再)	81	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (族)	66	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (園)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (雇)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (早)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (送)	73	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (管)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (順)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (賃)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (暑)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (招)	32	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (計)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (備)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (慨)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (奴)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (隷)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (静)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (謙)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (敷)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (街)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ホ)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (替)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (掛)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (賛)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (美)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (参)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (春)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (婦)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (垣)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (巡)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (搾)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (掘)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (塔)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (季)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (節)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (扱)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (相)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (卑)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (隅)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (議)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宴)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (催)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (牛)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (肥)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (畜)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (介)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (農)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (軍)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (礼)	24	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (路)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (客)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (談)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (党)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (邪)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (幣)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (像)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (銘)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (活)	42	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (違)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (茂)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (黙)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (倣)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (肩)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (単)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (句)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宗)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (陸)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (務)	21	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ノ)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (忠)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (骨)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (飾)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (祖)	48	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (翼)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (応)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (崩)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (戦)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (染)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (震)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (増)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (冷)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (嫌)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (走)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (冬)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (短)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ワ)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (暗)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (月)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (夏)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (船)	41	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (任)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (酔)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (託)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (豊)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (到)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ギ)	39	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (裸)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (舞)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (罰)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (越)	34	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (邸)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宅)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (策)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (雪)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (悩)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (埋)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (記)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (機)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鉢)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (浸)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (契)	25	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (歌)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (員)	29	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (限)	23	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (棒)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (撃)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (団)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (毎)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (庭)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (殴)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (末)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (庫)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (陶)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (囚)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (釈)	33	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (慣)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (例)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (冠)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (編)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (胆)	20	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (汁)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (混)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (酸)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (掲)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (頼)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (及)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (綿)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (酢)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぷ)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (割)	19	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (包)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (準)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (翌)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (閣)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (詐)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (警)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (封)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (印)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (週)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (額)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (r)	1188	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (k)	1871	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (川)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (革)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (獣)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (沿)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ぴ)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	General Punctuation : (―)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (添)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (縫)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (窮)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (乏)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (怒)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ゥ)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (戒)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (雷)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (責)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (拍)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (燭)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (昼)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (熟)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (程)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (尾)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鎖)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (険)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (八)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (乾)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (亡)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (怪)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (裏)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (護)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (将)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (校)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (半)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (衛)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (暇)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (駆)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (里)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (組)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (青)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (腕)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (浴)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (銅)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (視)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (堅)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (便)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Katakana : (ェ)	46	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (障)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (舌)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (質)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (問)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (留)	23	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (恥)	17	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (姿)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (濯)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (泡)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (衰)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (涙)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (創)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (曇)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (躍)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (妥)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (協)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (乱)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (室)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (階)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (暖)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (拘)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (禁)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (扇)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (紫)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (田)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (舎)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (侮)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (辱)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (料)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (固)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (L)	1176	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (u)	1203	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (奉)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (序)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (令)	28	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (職)	22	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (習)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (歓)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (幻)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (齢)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (岳)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (飛)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (跳)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (想)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (板)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (識)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (訪)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (登)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (録)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (属)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (啓)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (刺)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (暮)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (遂)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (丈)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (谷)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (給)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (締)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (勧)	16	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (般)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (朗)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (箇)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (係)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (襲)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (絶)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (壁)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (諸)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (湖)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (笑)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (誉)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (訓)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (練)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (損)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (伺)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (申)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (豪)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (華)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (専)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Hiragana : (ゃ)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (楽)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (誠)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (航)	31	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (危)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (監)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (底)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (尊)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (酬)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (化)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (卵)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (武)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (品)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (照)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (困)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (妨)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (構)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (叩)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (遭)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (栽)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (培)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (等)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (努)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (北)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (腫)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (井)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (双)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (設)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (段)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (盛)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (交)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (率)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (条)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (件)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (適)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (浪)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (豆)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (輪)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (懐)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (炎)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (境)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (端)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (硫)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (黄)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (弁)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (疲)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (討)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (速)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (胸)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (泊)	14	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (貴)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (格)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (坂)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (築)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (派)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (詩)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (刃)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (予)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (泥)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (揮)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (承)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (諾)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (恩)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (届)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (汗)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (滴)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (拠)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (轄)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (奇)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (跡)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (J)	1184	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (o)	1043	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (充)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (,)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (式)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (幹)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (縄)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (挙)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (獄)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (減)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (区)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (昨)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (廊)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (池)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (執)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (仮)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (述)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (央)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (臭)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (各)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (形)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (賞)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (範)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (孤)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (児)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (唯)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (寒)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (炭)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (提)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (闘)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (織)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (了)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (垂)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (特)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (折)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (扉)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (A)	1033	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (c)	1033	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (興)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (腸)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (推)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (薦)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (煙)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (希)	18	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (敗)	10	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (脅)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (欠)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (励)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (勇)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (殖)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (援)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (抗)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (吐)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (巧)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (居)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (景)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (紅)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (偶)	7	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (抵)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (術)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (漠)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宦)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (車)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (紙)	13	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (響)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (城)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (遺)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (憶)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (午)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (虫)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (挑)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (凝)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (独)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鉄)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (制)	12	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (侍)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (糧)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (演)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (帆)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (島)	11	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (虚)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (雄)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (経)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (避)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (携)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (占)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (即)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (政)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (看)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (潔)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (哲)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (珍)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (象)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (技)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (称)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (細)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (講)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (並)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (唱)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (荘)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (劇)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (窓)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (沖)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (競)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (惜)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (悟)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (営)	8	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (儀)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (審)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (騎)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (馬)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (州)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宮)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (享)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (点)	15	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (延)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (典)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (就)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (陪)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (被)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (皇)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (帝)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (層)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (謁)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (陳)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (票)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (委)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (博)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (港)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (憩)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (阻)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (穏)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (錨)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (綱)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (補)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (漂)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (測)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (江)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (挟)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (泳)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (厚)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (絡)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (痢)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (軒)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (b)	317	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (写)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (笏)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (廉)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (涯)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (誇)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (堕)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鋭)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (髄)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (位)	9	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (原)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (吸)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (勤)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (勉)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (獲)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (劣)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (更)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (型)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (課)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (雌)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (描)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (甘)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宇)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (宙)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (征)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (拷)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (懲)	4	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鍛)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (錬)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (私)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (畏)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (寛)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (遇)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (是)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (鏡)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (眺)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (御)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (抑)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (温)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (操)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (縦)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (森)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (林)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (泉)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (己)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (慕)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (憂)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (霧)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (惨)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (朽)	6	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (I)	430	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	Basic Latin : (P)	176	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (偏)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (浮)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (干)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (渉)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (徳)	5	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (怠)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (奮)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (妙)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (個)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (壮)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (素)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (溶)	3	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (贖)	2	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (礁)	1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNICODE	Source	CJK Unified Ideographs : (秋)	1	NOTICE
+
+# VERSIFICATION
+Japanese---Japanese-Electronic-Network-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Japanese---Japanese-Electronic-Network-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Japanese---Japanese-Electronic-Network-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Japanese---Japanese-Electronic-Network-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Japanese---Japanese-Electronic-Network-Bible	VERSIFICATION	Summary	missing	4	WARN
+Japanese---Japanese-Electronic-Network-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Source	()	0 / 0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Source	[]	1 / 1	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Aionian	()	120 / 120	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Japanese---Japanese-Electronic-Network-Bible	NUMERALS	Source	count	0	NOTICE
+Japanese---Japanese-Electronic-Network-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) さて，彼は週の初めの日の朝早くに起こされると，まずマリア・マグダレネに現われた。この彼女からは七つの悪霊を追い出したことがあった。	WARN
+Japanese---Japanese-Electronic-Network-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

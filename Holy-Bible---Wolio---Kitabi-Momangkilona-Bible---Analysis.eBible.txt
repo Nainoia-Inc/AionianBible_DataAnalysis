@@ -1,0 +1,765 @@
+# File Name: Holy-Bible---Holy-Bible---Wolio---Kitabi-Momangkilona-Bible---Analysis.txt
+# File Size: 115820      
+# File Date: 12/13/2025 06:08:03
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Kitabi Momangkilona Wolio
+# Bible Name English: Buton Wolio Bible
+# Bible Language: Buton
+# Bible Language English: Wolio
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Wycliffe Bible Translators
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=wlo
+# Bible Source Year: 2024
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Wolio---Kitabi-Momangkilona-Bible	ENCODING	Source	Holy-Bible---Wolio---Kitabi-Momangkilona-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCODING	Aionian	Holy-Bible---Wolio---Kitabi-Momangkilona-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Wolio---Kitabi-Momangkilona-Bible	BYTES	Source	bytes / chars	2027967 / 2022452 (multi-byte)	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	BYTES	Aionian	bytes / chars	2113229 / 2107570 (multi-byte)	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	BYTES	SourceClean	bytes / chars	2027130 / 2021615 (multi-byte)	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	BYTES	AionianClean	bytes / chars	2111006 / 2105347 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Wolio---Kitabi-Momangkilona-Bible	AIONIAN	Aionian	missing-verse	001-GEN-044-031	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	AIONIAN	Aionian	book-defined-not-exist	89	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	AIONIAN	Aionian	missing-verse	1	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	AIONIAN	Aionian	aionian-verses	174	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Wolio---Kitabi-Momangkilona-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Summary	(-)Orginal	58	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Summary	(+)Aionian	61	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (G)	2134	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (E)	4744	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (N)	3502	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : ( )	277917	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (1)	11881	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (:)	12724	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (I)	9432	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (b)	38022	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (h)	37037	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (a)	408777	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (-)	6084	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (n)	122076	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (A)	17123	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (u)	107331	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (l)	35114	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (t)	57206	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (p)	39143	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (d)	27313	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (g)	38812	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (i)	145422	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (e)	76820	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (m)	109636	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (.)	15329	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (\n)	12473	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (2)	7553	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (o)	94967	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (k)	69363	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (s)	44474	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (K)	5629	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (,)	20978	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (R)	2854	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (3)	4942	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (r)	33846	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (")	5674	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (M)	8128	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (4)	4022	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (5)	3048	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (T)	4521	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (6)	2725	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (7)	2520	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (S)	7300	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (c)	14550	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (8)	2435	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (9)	2510	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (0)	2460	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (H)	2045	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (P)	6256	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (y)	688	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (O)	5229	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (U)	2951	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (L)	2247	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (()	75	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : ())	75	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (J)	1359	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (C)	1583	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : ([)	40	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (])	40	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source(-)	Basic Latin : (V)	405	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	51284	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	16946	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	49552	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	2145	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	4742	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	3501	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	9430	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	253438	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	38017	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	37076	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	408920	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	6085	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	122237	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	17059	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	107333	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	35137	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	57212	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	39144	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	27327	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	38981	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	145609	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	76870	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	109643	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	15330	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	12387	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	10082	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	95050	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	69364	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	44564	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	5625	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	20986	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	2851	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	5856	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	33857	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (")	5671	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	8125	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	10662	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	3927	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	4518	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	4492	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	2728	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	7253	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	14552	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	2670	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	5214	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	2052	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	6194	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	701	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	5224	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	2947	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2248	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	253	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (()	322	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : ())	322	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	1355	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	1580	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	39	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (])	39	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	16	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	128	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	404	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (G)	2134	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (E)	4744	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (N)	3502	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : ( )	277917	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (1)	11881	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (:)	12724	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (I)	9432	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (b)	38022	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (h)	37037	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (a)	408777	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (-)	6084	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (n)	122076	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (A)	17123	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (u)	107331	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (l)	35114	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (t)	57206	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Spacing Modifier Letters : (ʼ)	5515	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (p)	39143	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (d)	27313	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (g)	38812	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (i)	145422	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (e)	76820	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (m)	109636	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (.)	15329	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (\n)	12473	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (2)	7553	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (o)	94967	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (k)	69363	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (s)	44474	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (K)	5629	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (w)	14489	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (,)	20978	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (R)	2854	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (3)	4942	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (f)	1697	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (r)	33846	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (")	5674	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (M)	8128	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (4)	4022	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (5)	3048	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (T)	4521	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (6)	2725	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (7)	2520	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (S)	7300	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (c)	14550	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (8)	2435	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (9)	2510	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (0)	2460	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (H)	2045	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (j)	3931	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (P)	6256	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (y)	688	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (W)	2048	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (O)	5229	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (U)	2951	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (B)	1562	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (')	1045	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (?)	1112	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (L)	2247	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (F)	566	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (!)	1337	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (Z)	230	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (Y)	1849	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (;)	443	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (z)	437	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (D)	599	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (()	75	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : ())	75	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (J)	1359	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (X)	1211	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (C)	1583	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : ([)	40	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (])	40	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNICODE	Source	Basic Latin : (V)	405	NOTICE
+
+# VERSIFICATION
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	001-GEN-044-031	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	002-EXO-027-015	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	002-EXO-038-015	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	008-RUT-001-002	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-002	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Aionian	missing	048-GAL-004-025	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Summary	missing	10	WARN
+Wolio---Kitabi-Momangkilona-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	()	75 / 75	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	[]	40 / 40	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	()	322 / 322	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	[]	39 / 39	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	[1/0]	MAR 16:9 [Sadhadhina Isa pendua minaaka i mate, saeona mpuu i eo bhaa-bhaana minggu sumai, Incia apatokamatamo karona i Mariam miana Magdala sumai. (Minaaka i Mariam sumai o Isa padhamo apadhencu pitu seetani.)	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	[0/1]	MAR 16:20 Kasiimpo alingkamo manga murina to apakoleleaka Lele Malape i saangua dunia, tee o Kawasana Opu uka aose to abukutiiaka kabanarana firimani sumai to manga incia tee apapooseakea tee manga giu inda momentela.]	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	[1/0]	JOH 7:53 [Sapadhana incia sumai, ambulimo manga incia bhari-bharia i bhanuana samia-samia,	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 Lawanina, "Indamo dhaangia Opu." Kasiimpo Isa apogau, "Iaku uka inda bhekuhukumuko. Lingkamo, tee pepuu sii-sii bholimo upewau dosa pendua."]	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	[1/0]	ACT 24:6 Incia uka acoba apanaajisi Baitulla. Rampaakanamo sumai ingkami tarakoa [tee taʼadilia mboomo hukumuna agamamami,	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	[0/1]	ACT 24:8 Kasiimpo Lisias atumpu manga mia bhemohaakimuna mia incia sii to aumba apoaro tee Opu.] Ande uparakisaa mia incia sii, dhaanamo bheumataua minaaka i karona bhari-bharia parakara iraeakamami to incia."	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	(1/0)	EPH 4:9 (Opea o maʼanana pogauna Nabii Daud, "Incia apene"? Maʼanana ande Incia uka padhamo asapo i tampa moporitambena mpuu i dunia sii.	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Source	(0/1)	EPH 4:10 Incia mosapona sumai satotuuna Incia mopenena sakawana i kalangaana mpuu mobhawoakana bhari-bharia laiana, to apamondoaka bhari-bharia giu i saangua alamu sii.)	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Sadhadhina Isa pendua minaaka i mate, saeona mpuu i eo bhaa-bhaana minggu sumai, Incia apatokamatamo karona i Mariam miana Magdala sumai. (Minaaka i Mariam sumai o Isa padhamo apadhencu pitu seetani.)	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 Kasiimpo alingkamo manga murina to apakoleleaka Lele Malape i saangua dunia, tee o Kawasana Opu uka aose to abukutiiaka kabanarana firimani sumai to manga incia tee apapooseakea tee manga giu inda momentela.]	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 053 [Sapadhana incia sumai, ambulimo manga incia bhari-bharia i bhanuana samia-samia,	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 Lawanina, "Indamo dhaangia Opu." Kasiimpo Isa apogau, "Iaku uka inda bhekuhukumuko. Lingkamo, tee pepuu sii-sii bholimo upewau dosa pendua."]	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 024 006 Incia uka acoba apanaajisi Baitulla. Rampaakanamo sumai ingkami tarakoa [tee taʼadilia mboomo hukumuna agamamami,	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 024 008 Kasiimpo Lisias atumpu manga mia bhemohaakimuna mia incia sii to aumba apoaro tee Opu.] Ande uparakisaa mia incia sii, dhaanamo bheumataua minaaka i karona bhari-bharia parakara iraeakamami to incia."	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Opea o maʼanana pogauna Nabii Daud, "Incia apene"? Maʼanana ande Incia uka padhamo asapo i tampa moporitambena mpuu i dunia sii.	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 Incia mosapona sumai satotuuna Incia mopenena sakawana i kalangaana mpuu mobhawoakana bhari-bharia laiana, to apamondoaka bhari-bharia giu i saangua alamu sii.)	WARN
+Wolio---Kitabi-Momangkilona-Bible	ENCLOSURES	Summary	lines	8 / 8	NOTICE
+
+# UNEXPECTED
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Wolio---Kitabi-Momangkilona-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 4:24 Ande Kabil tabeana atobholosiaka pitu kali lipa, sumaimo Lamekh tabeana 77 kali lipa."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:3 Sapadhana Adamu akoʼumuru 130 tao, alaahirimo to incia anana mboomo gambarana karona tee mboomo sandarana karona. Asarongiakea anana sumai Set.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:4 Sapadhana Adamu akoanaaka Set, adhadhi 800 tao tee akoanaakamo uka manga anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:5 Adamu akawamo umuruna 930 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:6 Sapadhana Set akoʼumuru 150 tao, akoanaakamo Enos.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 5:7 Sapadhana Set akoanaaka Enos, adhadhi 807 tao akoanaakamo uka manga anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	GEN 5:8 Set akawamo umuruna 912 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:9 Sapadhana Enos akoʼumuru 90 tao, alaahirimo Kenan to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 5:10 Sapadhana Enos akoanaaka Kenan, adhadhi 815 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 5:11 Enos akawamo umuruna 905 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:12 Sapadhana Kenan akoʼumuru 70 tao, alaahirimo Mahalaleel to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:13 Sapadhana Kenan akoanaaka Mahalaleel, adhadhi 840 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:14 Kenan akawamo umuruna 910 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 5:15 Sapadhana Mahalaleel akoʼumuru 65 tao, alaahirimo Yared to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:16 Sapadhana Mahalaleel akoanaaka Yared, adhadhi 830 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 5:17 Mahalaleel akawamo umuruna 895 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	GEN 5:18 Sapadhana Yared akoʼumuru 162 tao, alaahirimo Idris to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:19 Sapadhana Yared akoanaaka Idris, adhadhi 800 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	GEN 5:20 Yared akawamo umuruna 962 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 5:21 Sapadhana Idris akoʼumuru 65 tao, alaahirimo Metusalah to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:22 Sapadhana Idris akoanaaka Metusalah, incia adhadhi amalape pokaiana tee Aulataʼala kangengena 300 tao, tee akoanaakamo manga anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 5:23 Idris akawamo umuruna 365 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 5:25 Sapadhana Metusalah akoʼumuru 187 tao, alaahirimo Lamekh to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	GEN 5:26 Sapadhana Metusalah akoanaaka Lamekh, adhadhi 782 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	9	GEN 5:27 Metusalah akawamo umuruna 969 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	GEN 5:28 Sapadhana Lamekh akoʼumuru 182 tao, alaahirimo to incia samia anana umane.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 5:30 Sapadhana Lamekh akoanaaka Nuh, adhadhi 595 tao akoanaakamo uka manga anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 5:31 Lamekh akawamo umuruna 777 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 5:32 Sapadhana Nuh akoʼumuru 500 tao, alaahirimo Sem, Ham, tee Yafet to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 6:3 Kasiimpomo KAWASANA OPU afirimanimo, "Rohiku inda bheapobhawa tee maanusia satorosuna, roonamo maanusia sumai afanaa kadhaangiana. Apepuu sii-sii, umuruna manga inda akolabhi 120 tao."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	GEN 6:15 Mboomo sii tabeana ukarajaaia bhangka sumai: 133 metere kaaratena, 22 metere kaewana, tee 13 metere kalangana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 7:4 Roonamo pitu eopo uka Iaku bhekupasapo wao i bhawona alamu 40 eo 40 malo kangengena tee sagala mahaluku padha ipamembaliku sumai bhekuhapusuakea minaaka i bhawona alamu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 7:11 Wakutuuna Nuh akoʼumuru 600 tao, i bula rua mbulana, eo sapulu pitu eona, apidhimo bhari-bharia matana uwe i nuncana tana, tee manga bhambana uwe i laiana uka atobungkale.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 7:12 Wao maranca asapo i bhawona alamu 40 eo 40 malo kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 7:17 40 eo kangengena uwena mawa sumai atipua alamu. O uwe sumai torotorosu apene arangani kabharina saanampuu aangkamo bhangka maoge sumai alanto amalanga minaaka i bhawona alamu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 7:24 O uwena mawa sumai apatondu alamu 150 eo kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 8:3 O uwe ahandamo asapo minaaka i bhawona alamu, tee sapadhana 150 eo o uwe sumai uka akuramo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 8:6 Sapadhana 40 eo, Nuh abungkalemo manga bhalo-bhalona bhangka maoge ikarajaana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	1	GEN 8:13 Wakutuu Nuh akoʼumurua 601 taona, i eo bhaa-bhaana, i bula bhaa-bhaana, o uwe asapomo minaaka i bhawona alamu. Wakutuuna Nuh abungkale padhana bhangka sumai tee akamatamea, atiumbamo o tana i bhawona alamu apepuumo amatuu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 8:14 Kasiimpomo i eo 27 eona, i bula rua mbulana, alamu atotuu-totuumo amatuu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 9:28 Nuh dhaangiapo adhadhi 350 tao sapadhana uwena mawa sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 9:29 Sumaimo, Nuh akawa umuruna 950 tao, kasiimpomo incia amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 11:10 Siimo siwuluna Sem. Wakutuuna Sem akoʼumuru 100 tao, alaahirimo to incia Arpakhsad, rua tao sapadhana uwena mawa.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 11:11 Sem akoʼumuru 500 tao uka sapadhana incia akoanaaka Arpakhsad, tee incia dhaangiapo akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 11:12 Sapadhana Arpakhsad akoʼumuru 35 tao, alaahirimo to incia Selah.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	GEN 11:13 Arpakhsad akoʼumuru 403 uka sapadhana incia akoanaaka Selah tee incia dhaangiapo akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 11:14 Sapadhana Selah akoʼumuru 30 tao, alaahirimo to incia Eber.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	GEN 11:15 Selah adhadhi 403 tao uka sapadhana incia akoanaaka Eber, tee incia dhaangiapo uka akoanaaka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	4	GEN 11:16 Sapadhana Eber akoʼumuru 34 tao, alaahirimo to incia Peleg.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 11:17 Eber adhadhi 430 tao uka sapadhana incia akoanaaka Peleg, tee incia dhaangiapo uka akoanaaka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 11:18 Sapadhana Peleg akoʼumuru 30 tao, alaahirimo to incia Rehu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	9	GEN 11:19 Peleg adhadhi 209 tao uka sapadhana incia akoanaaka Rehu tee incia dhaangia akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	GEN 11:20 Sapadhana Rehu akoʼumuru 32 tao, alaahirimo to incia Serug.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 11:21 Rehu adhadhi 207 tao sapadhana incia akoanaaka Serug, tee incia dhaangia akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 11:22 Sapadhana Serug akoʼumuru 30 tao, alaahirimo to incia Nahor.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 11:23 Serug adhadhi 200 tao uka sapadhana incia akoanaaka Nahor, tee incia dhaangiapo akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	9	GEN 11:24 Sapadhana Nahor akoʼumuru 29 tao, alaahirimo to incia Terah.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	9	GEN 11:25 Nahor adhadhi 119 tao uka sapadhana incia akoanaaka Terah, tee incia dhaangia akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 11:26 Sapadhana Terah akoʼumuru 70 tao, alaahirimo to incia talu ana mia umane, siitumo Abram, Nahor tee Haran.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 11:32 Terah akawa umuruna 205 tao, kasiimpo amatemo i kota Haran.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 12:4 Sumaimo, Abram alingka, mboomo ifirimaniakana KAWASANA OPU i incia. Lut aose alingka tee incia. Abram akoʼumuru 75 tao i wakutuuna incia alimba minaaka i Haran.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	GEN 14:4 12 tao kangengena lima mia raja sumai ataʼati i Raja Kedorlaomer, maka i tao 13 taona manga aewangimo raja sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	4	GEN 14:5 I 14 taona, alingkamo Raja Kedorlaomer apobhawa tee manga raja mopoosena tee incia to apotimbe. Kasiimpo manga incia amangantaloaka manga miana Refaim i Asterot Karnayim, manga miana Zuzim i Ham, manga miana Emim i Syawe-Kiryataim,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	8	GEN 14:14 Wakutuu Abram arango ande pinoanana atotaangi, aromusakamea manga mia iparacaeana, siitumo manga incia molaahirina i bhanuana, 318 mia kabharina, kasiimpo apajeremo musuna akawea i Dan.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 15:13 Kasiimpo KAWASANA OPU afirimani i Abram, "Mataua tee tandaia, ande siwulumu bheamembali dhaga i lipu mencuana lipuna manga. Manga incia bheapabhatuaia tee apanarakaaia 400 tao kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	GEN 16:16 Abram akoʼumurumo 86 tao wakutuuna Hajar apalaahiri Ismail to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	9	GEN 17:1 Wakutuuna Abram akoʼumurumo 99 tao, KAWASANA OPU apatiumbaakamo karona i incia tee afirimani i incia, "Iakumo Aulataʼala Mokokuasana, dhadhimo i aroaku inda tee momadhakina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 17:17 Kasiimpo asujumo Ibrahim tee apotawa tee apogau i nuncana ngangarandana, "Buaka amembali samia umane mokoʼumuruna 100 tao akoanaakamo samia anaana? Amembali buaka Sarah, mokoʼumuruna 90 tao, apalaahiri anaana?"	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	9	GEN 17:24 Ibrahim akoʼumuru 99 tao i wakutuuna atotandaki,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	GEN 17:25 sainamo Ismail, anana, akoʼumuru 13 tao wakutuuna atotandaki.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 18:24 Ande dhaangia 50 mia mobanara i nuncana kota sumai, mboona Ingkoo bheupabinasa tampa incia sumai tee inda uʼamponia roonamo 50 mia mobanara modhaangiana i nuncana?	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 18:26 Firimanina KAWASANA OPU, "Ande kupotibhaaka 50 mia mobanara i kota Sodom, sumaimo Iaku bhekuʼamponia saangua tampa incia sumai roonamo manga incia."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 18:28 Ande akura 5 mia minaaka 50 mia mobanara sumai, mboona Ingkoo bheupabinasa bhari-bharia kota sumai?" Firimanina, "Ande kupotibhaaka iwe sumai 45 mia, Iaku inda bhekupabinasea."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 18:29 Ibrahim apogaumo uka i incia, "Ande upotibhaaka 40 mia iwe sumai?" Firimanina, "Roonamo 40 mia sumai, Iaku inda bhekupewaua."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 18:30 Apogaumo Ibrahim, "Bholimo ancosala Kawasana Opu uʼamara ande iaku kupogau uka, tuaapa ande upotibhaaka iwe sumai 30 mia?" Firimanina, "Ande kupotibhaaka iwe sumai 30 mia, Iaku inda bhekupewau hali incia sumai."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 18:31 Apogaumo Ibrahim, "Satotuuna iaku kupabaranimo karoku kupogau i Kawasana Opu. Tuaapa ande upotibhaaka iwe sumai 20 mia?" Firimanina, "Roonamo 20 miana sumai, Iaku inda bhekupabinasea."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 18:32 Apogaumo Ibrahim, "Bholimo ancosala Kawasana Opu uʼamara ande iaku kupogau sampearo sii uka. Tuaapa ande upotibhaaka iwe sumai 10 mia?" Firimanina, "Roonamo 10 miana sumai, Iaku inda bhekupabinasea."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 20:16 Pogauna i Sarah, "Rangoa, iaku padhamo kudhawuakea 1.000 tibha pera i akamu i aroana matana bhari-bharia mia mopobhawana tee ingkoo, to bukutiina kangkilomu. I nuncana sagala hali, ingkoo inda usala."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 21:5 Umuruna Ibrahim 100 tao wakutuuna Ishak, o anana, apalaahiria to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 23:1 Sarah adhadhi 127 tao. Mboo sumaimo kangengena dhadhina Sarah.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 23:15 "Opuku perangoiakupo. Ande mboo itu, tana incia sumai akoharagaa 400 tibha pera, maka opea maʼanana to mia mboo ingkita sii? Koburumea bhawinena opu iwe sumai."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 23:16 Ibrahim aosemo pogauna Efron. Incia agagariakamea to Efron o doi pera mboomo kabhari mopadhana isarongiakana Efron i aroana raʼeatina Het sumai, siitumo 400 tibha pera, o katamona mboomo kananea i tanga-tangana manga moparaasona.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 24:22 Sapadhana asumpu manga untana sumai, bhatuana Ibrahim aalamo singkaru bulawa katamona kera-kera lima haramu tee sapasa simbi minaaka i bulawa katamona 115 haramu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	GEN 25:7 Ibrahim akawamo umuruna 175 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 25:17 Ismail akawamo umuruna 137 tao. Sapadhana incia sumai ailamo poinuncana tee amate, kasiimpomo aromusakea tee kaomuna i alamuna mia mate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 25:20 Ishak akoʼumurumo 40 tao wakutuu incia akobhawineaka Ribka. Ribka sumai anana Betuel, miana Aram minaaka i Padan-Aram. Ribka uka witinaina bhawine Laban, miana Aram sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 25:26 Kasiimpo alimbamo andina. Limana akeni korontunguna Esau, saanampuu incia asarongiakea Yakub. Ishak akoʼumurumo 60 tao wakutuu manga incia apalaahiria.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 26:34 Wakutuu Esau akoʼumuru 40 tao incia akobhawineakamo Yudit binti Beeri, miana Het, tee Basmat binti Elon, miana Het.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 31:38 Iaku kupobhawa tee Pinoama 20 tao kangengena. Dumba tee bhembemu bhawine inda mina amadhaki alaahiri, tee bhembe dumbamu umane indapo mina kukandea.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	GEN 31:41 Iaku i bhanuamu 20 tao kangengena. Kukarajaa i pinoama 14 tao to kupotibhaaka rua miaia anamu, tee 6 tao uka to kupotibhaaka gulumana bhembe dumbamu. Kangengena incia sumai, sapulu mpearomo ubhalii ponamboku.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 32:6 Kasiimpomo manga tumpuana sumai uka ambuli i Yakub tee apogau, "Ingkami padhamo tapokawaaka Esau, o akamu, tee incia uka tangasaana alingka to apokawaakako, apoose 400 mia manga umane."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 32:14 siitumo 200 mbaa bhembe bhawine, 20 mbaa bhembe umane, 200 dumba bhawine, tee 20 mbaa dumba umane,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 32:15 30 mbaa unta bhawine tee manga anana tangasaana apadudua, 40 mbaa sapi bhawine, 10 mbaa sapi umane, 20 mbaa keledai bhawine tee 10 mbaa keledai umane.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 33:1 Wakutuu Yakub apatinda potontona tee atiliki, atiumbamo Esau aumba apoose 400 mia manga umane. Kasiimpomo abagemea manga anaana i tanga-tangana Lea, Rahel, tee i rua mia bhatua bhawine manga.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 33:19 Kasiimpomo aalimo satidha tana, tampana incia apakaro kemana tee haragaana 100 tibha doi pera minaaka i siwuluna Hemor, o amana Sikhem.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	9	GEN 35:22 Wakutuu Israel amboore i lipu incia sumai, Ruben akole tee Bilha, maruena amana, tee atorangomo hali incia sumai i Israel. 35:22-29 Manga anana umane Yakub kabharina sapulu rua mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 35:28 Ishak akoʼumurumo 180 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 37:2 O siimo tulatulana siwuluna Yakub. Wakutuuna Yusuf dhaangia mangura, 17 tao umuruna, incia amananea awulu kadhambaaka gulumana bhembe dumba apobhawa tee manga witinaina. Incia apoose tee manga anana Bilha tee Zilpa, rua miaia bhawinena amana. Tee Yusuf sadia apakawaaka lele madhaki to manga witinaina i amana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 37:28 Wakutuuna manga dhaga miana Midian alalo, Yusuf ahelaia tee aangkea minaaka i nuncana sumu sumai, kasiimpomo aasoa i manga miana Ismail tee haragaana 20 tibha doi pera. Kasiimpomo manga mia sumai abhawamea i Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 41:34 Kasiimpomo, salabhina ande Firaun apatotapuakamo manga gubernuru i bhawona lipu sii to alaaka 20 parasee minaaka i hasilina Tana Mesir i nuncana pitu tao motaralabhi-labhina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 41:46 Yusuf akoʼumurumo 30 tao wakutuu incia akakaro i aroana Firaun, raja Mesir. Kasiimpomo Yusuf alingka minaaka i aroana Firaun tee ambelikia saangua Tana Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 45:22 Mencuana soo sumai, adhawua uka satuwu pakea kabholosi to manga incia samia-samia, maka Binyamin adhawua 300 tibha doi pera tee lima tuwu pakea kabholosi.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	GEN 46:15 Manga incia sii satotuuna siwuluna Lea, mopalaahirina manga anana umane to Yakub i Padan-Aram, tee uka Dina, anana bhawine. Jadi, bhari-bharia siwuluna Yakub minaaka i Lea, malape umane atawa bhawine, kabharina 33 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	GEN 46:18 Manga incia sii satotuuna siwuluna Zilpa, bhatua bhawine idhawuakana Laban i Lea, o anana. Jadi bhari-bharia siwuluna Yakub mominaakana i Zilpa sumai kabharina 16 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	4	GEN 46:22 Manga incia sii satotuuna siwuluna Yakub mominaakana i Rahel, kabharina 14 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	GEN 46:26 Kabharina mia moumbana i Mesir apobhawa tee Yakub, siitumo siwuluna, inda atolentu manga bhawinena, bhari-bharia 66 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 46:27 Manga anana Yusuf molaahirina to incia i Mesir dhaangia rua mia sabutuna bhari-bharia witinaina Yakub modhaangiana i Mesir wakutuu incia sumai kabharina 70 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 47:9 Lawanina Yakub i Firaun, "Umuruku 130 taomo; kupekalingka-lingkamo mboomo dhaga i dunia sii. Dhadhiku anarakaa mpuu tee amampodho ande tapapokanea tee umuruna opuaku lantapi-lantapi wakutuu manga incia apekalingka-lingka mboomo dhaga uka i dunia sii."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	GEN 47:28 Yakub adhadhi 17 tao kangengena i Tana Mesir. Jadi, Yakub akoʼumurumo 147 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 50:3 Manga incia apewaumea kangenge 40 eo, roonamo mboo sumaimo kangengena wakutuu to arampa-rampaia maeati. Manga miana Mesir atangisimea kangenge 40 eo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 50:22 Yusuf sadhaadhaana amboore i Mesir tee manga witinaina. Incia adhadhi 110 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GEN 50:26 Kasiimpomo amatemo Yusuf umuruna 110 tao. Maeatina arampa-rampaia tee adhikaia i nuncana sorongana maeati i Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 1:5 Bhari-bharia siwuluna umane ipokawaakana Yakub kabharina 70 mia. Maka Yusuf aporikana i Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	EXO 6:15 Lewi akoanaaka talu mia ana umane: siitumo Gerson, Kehat, tee Merari. Siitumo sarona manga anana Lewi tee siwuluna sumbesumbere. Lewi akoʼumuru 137 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	EXO 6:17 Manga anana Kehat: siitumo Amram, Yizhar, Hebron, tee Uziel. Kehat akoʼumuru 133 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	EXO 6:19 Amram akobhawineaka Yokhebed, witinaina amana, tee bhawinena sumai akoanaaka Harun tee Musa to incia. Amram akoʼumuru 137 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	EXO 7:7 Musa akoʼumuru 80 tao tee Harun 83 tao wakutuuna manga incia apogau i Firaun.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 12:37 Miana Israel alingka tee adhala ae minaaka i kota Raamses arope i kota Sukot. Kabharina manga incia kera-kera 600.000 mia umane, inda atolentu tee bhawine tee anaana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 12:40 Miana Israel padhamo amboore i Mesir 430 tao kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 12:41 I eo kapadhaana tao i 430 sumai, bhari-bharia rombonga uumatina KAWASANA OPU abholi Tana Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 14:7 Incia alingka tee bhari-bharia kareta potimbea, atolentu tee 600 kareta momalapena motopilina. Saangu-saangu kareta sumai amondo tee samia kapala suludaduna.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	EXO 16:1 Kasiimpo bhari-bharia miana Israel abhose minaaka i Elim. Sapadhana manga abhose minaaka i Elim, i tanggala 15 malo i bula rua mbulana sapadhana manga incia abholi Mesir, akawamo manga incia i Tana Matuu Sin, i tanga-tangana Elim tee Gunu Sinai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 16:35 Miana Israel akande manna sumai kangengena 40 tao, sakawana manga incia Israel akawa i lipu mbooresana, siitumo i potidhaana Tana Kanaan.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	EXO 16:36 Saangu kaganta gomer (2,2 litere) ipakena manga mia i zamani incia sumai to agantaaka manna, antona sapersapulu efa (kera-kera 22 litere).	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 18:21 Tee uka tabeana upeeloa minaaka i bhari-bharia uumati manga mia momakidhana tee momaekana i Aulataʼala, siitumo manga mia iparacaeana raʼeati tee abanci mia modhawuna doi sogo. Aangkea manga incia to raʼeati amembali kapalana to 1.000 mia, kapalana 100 mia, kapalana 50 mia, tee kapalana to 10 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 18:25 Minaaka i bhari-bharia miana Israel, Musa apili manga mia momakidha tee aangkea manga amembali kapalana to uumati sumai, amembali kapalana 1.000 mia, kapalana 100 mia, kapalana 50 mia, tee kapalana 10 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 21:32 Ande sapi sumai atanduki samia bhatua umane atawa bhawine, sumaimo mokopewauana tabeana apomea 30 tibha syikal doi pera i opuna bhatua sumai, tee sapi sumai tabeana atudhaakea bhatu sampe amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 24:1 Kasiimpomo Incia afirimani i Musa, "Penemo poaro tee KAWASANA OPU, ingkoo tee Harun, Nadab tee Abihu, tee 70 mia minaaka i tanga-tangana manga mancuanana Israel, kasiimpo usuju usomba minaaka i karidhoana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 24:9 Kasiimpo apenemo Musa tee Harun, Nadab tee Abihu, tee 70 mia minaaka i tanga-tangana manga mancuanana Israel.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 24:18 Musa apesua i tanga-tangana taʼina ngalu tee apene i bhawona gunu sumai, kasiimpo amboore iwe sumai kangengena 40 eo 40 malo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 25:10 "Manga incia tabeana akarajaa soronga minaaka i kau akasia, kaaratena 110 senti, kaewana 66 senti, tee kalangana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 25:17 Karajaaia katutubhina soronga sumai minaaka i bulawa asilii, kaaratena 110 senti tee kaewana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 25:23 "Karajaamo saangu meja minaaka i kau akasia kaaratena 88 senti, kaewana 44 senti, tee kalangana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	EXO 25:25 Karajaakea satibha dhopi kaewana 7,5 senti i sakaaratea meja sumai tee upasaakea i bhiwina minaaka i bulawa i sakaaratea dhopi sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	EXO 25:39 Pakemo 35 kilo bulawa asilii to ukarajaa padamara tee bhari-bharia kamondona sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:5 kabharina 50 talina kuncina i rua tumpoa kae corocoro maoge sumai. Manga talina kunci sumai tabeana aposapoaro.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:6 Karajaaia 50 kakai bulawa. Kasiimpo, upapoompua rua tumpoa kae corocoro maoge Kema Momangkilo sumai saangu tee mosagaanana. Rua-rua tumpoa sumai atopapoompu mboosii: 50 kakai bulawa minaaka i satumpo kae upapesuaia i nuncana 50 talina kunci i kae mosagaanana mamudhaakana amembali asaangu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:10 Pasaakea 50 talina kunci i bhiwina kae corocoro maoge mobhaa-bhaana tee 50 talina kunci i bhiwina kae corocoro maoge i tapana saanguna.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:11 Karajaakea uka 50 kakai minaaka i tambaga, kasiimpo papesuaakea manga kakai sumai i nuncana manga talina kuncina i saao, sabutuna o Kema Momangkilo apoompu amembali asaangu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:13 Sainamo sumbesumbere i bhiwina Kema Momangkilo, siitumo i rua bhiwina tabeana dhaangia tee labhina akaloe-loe kaewana 50 senti mamudhaakana atutubhia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 26:16 Sumbesumbere toora kaaratena 4,5 metere tee kaewana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:18 Karajaakea 20 pale toora to bhiwina i weta i salatana Kema Momangkilo	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:19 tee karajaaia 40 angu kalempesi pera to apasaakea i tambena 20 pale toora sumai to sandina: rua angu kalempesi i tambena bhari-bharia toora, sumbesumbere to rua kapaso i tambena toora sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:20 Karajaakea 20 pale toora to weta i napa i Kema Momangkilo,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 26:21 amondo tee 40 angu kalempesina perana, rua angu kalempesi i tambena sumbesumbere toora.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 26:25 Jadi, tabeana dhaangia walu pale toora tee 16 angu kalempesina perana, rua angu kalempesi i tambena saangu toora to sandina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	EXO 27:1 Karajaakea tampa tunuana kurubani minaaka i kau akasia modelena patawala pata singku kaaratena 2,2 metere, kaewana 2,2 metere, tee kalangana 1,3 metere.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	4	EXO 27:9 KAWASANA OPU apogau uka, "Tumpumea manga mia akarajaa corocoro to abulilingiaka tanalapa i saripina Kema Momangkilo. Corocoro sumai tabeana atokarajaa minaaka i kae lenan alusu motounte. Tondongia o bhiwina i weta i salata i tanalapa sumai tee corocoro kaaratena 44 metere.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 27:10 Tabeana dhaangia 20 pale ariina to aloeaka corocoro sumai tee 20 angu kalempesina, bhari-bharia minaaka i tambaga. Sainamo manga kakai i ariina tee manga papokawaana tabeana minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 27:11 Karajaakea mboo sumai uka i weta i napa i tanalapa sumai. Bhakesakaakea kae corocoro kaaratena 44 metere, loeakea to 20 pale arii tee 20 kalempesina, bhari-bharia minaaka i tambaga, maka manga kakai i arii tee papokawaana tabeana minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	EXO 27:12 Kaewana bhiwina weta i bhara, bhakesakaakea kae corocoro kaaratena 22 metere, aloeaka corocoro sumai i sapulu pale arii tee sapulu angu kalempesina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	EXO 27:13 Kaewana tidhana weta i timbu 22 metere uka.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 27:14 I weta i timbu i tanalapa sumai, i saripina i kaai tee i kaana tampana bhambana lawa, kaaratena corocoro sumbesumbere 6,6 metere. Loeakea sumbesumbere corocoro sumai i talu pale arii i talu angu kalempesina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	9	EXO 27:16 Sainamo to bhambana lawa i weta i timbu i tanalapa, tumpumea manga miana akarajaakea corocoro kaaratena 9 metere minaaka i kae lenan alusu motounte, itanuna tee kambari waranaa kakanda, wungu, tee maleʼi matuʼa, tee abhelokiakea kasokai. Corocoro sumai tabeana aloeakea i pata pale arii i pata angua kalempesina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	EXO 27:18 Kaaratena tanalapa sumai tabeana 44 metere, kaewana 22 metere, tee kalangana 2,2 metere, tee pagalana kae lenan alusu motounte, tee manga kalempesina minaaka i tambaga.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	EXO 28:16 Modelena tabeana pata wala pata singku, apotapi rua lapi, 22 senti kaaratena tee kaewana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 30:2 Modelena tampa sumai pata wala pata singku, kaaratena tee kaewana 45 senti, tee kalangana 90 senti. Manga tanduna tabeana amembali asaangu tee tampana tunuana dhupa sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 30:14 Bhari-bharia mia mokoʼumuruna alabhi 20 tao tabeana atogagari, tee manga incia tabeana apomea mboomo kabharina doi ipasombaaka hususu to KAWASANA OPU.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 32:28 Miana Lewi apewaua opea ipogauakana Musa. I eo incia sumai amatemo kera-kera 3.000 mia minaaka i tanga-tangana lipu sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 36:12 50 talina kunci i kae saanguna tee 50 talina kunci i bhiwina kae i rua anguna. Manga talina kunci sumai apapoaroa.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 36:13 Sapadhana sumai, manga incia akarajaa 50 kakai bulawa tee apapoompua i manga kakaina Kema Momangkilo sumai saangu tee mosagaanana tee manga kakai incia sumai sabutuna amembali apaposaangua.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 36:17 Manga incia akarajaa 50 talina kunci i bhiwina kae corocoro bhaa-bhaana, tee 50 talina kunci i bhiwina kae corocoro rua anguna.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 36:18 Kasiimpo manga incia akarajaa 50 kakai tambaga to apapompu manga kae sumai amembali asaangu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 36:21 Sapale-sapale toora kaaratena 4,5 metere tee kaewana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 36:23 To bhiwina i weta i salata Kema Momangkilo, manga incia akarajaakea 20 toora.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 36:24 Manga incia uka akarajaa 40 kalempesi pera to apasaakea i tambena 20 pale toora sumai, rua kalempesi i tambena sapale-sapale toora, saasaangu to rua angua kapasona.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 36:25 To Kema Momangkilo i weta i napa akarajaakea 20 pale toora	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 36:26 amondo tee 40 kalempesina perana, rua angu kalempesi i tambena saasaangu toora.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 36:30 Jadi, dhaangia walu pale toora amondo tee 16 kalempesina perana, rua angu kalempesina i tambena saasaangu toora.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 37:1 Bezaleel akarajaa Soronga Pojanjia minaaka i kau akasia, 1,1 metere kaaratena, 66 senti kaewana, tee 66 senti kalangana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 37:6 Kasiimpomo, incia akarajaa katutubhina soronga, siitumo tampana to ahapusuaka dosa, minaaka i bulawa asilii, 1,1 metere kaaratena tee kaewana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 37:10 Akarajaakea uka saangu meja minaaka i kau akasia kaaratena 88 senti, kaewana 44 senti, tee kalangana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	EXO 37:12 Sapadhana sumai, akarajaakea satibha dhopi kaewana 7,5 senti i sakaaratea meja sumai tee apasaakea i bhiwina minaaka i bulawa i sakaaratea dhopi sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	EXO 37:24 Padamara tee bhari-bharia kamondona sumai akarajaaia minaaka i 35 kilo bulawa asilii.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 37:25 Sapadhana incia sumai, Bezaleel akarajaa tampana tunuana dhupa minaaka i kau akasia. Modelena tampa sumai pata wala pata singku, kaaratena tee kaewana 45 senti, tee kalangana 90 senti. Manga tanduna asaangu tee tampana tunuana dhupa sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	EXO 38:1 Bezaleel akarajaa tampa tunuana kurubani minaaka i kau akasia modelena patawala pata singku kaaratena 2,2 metere, kaewana 2,2 metere, tee kalangana 1,3 metere.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	4	EXO 38:9 Sapadhana incia sumai Bezaleel akarajaa tanalapa. Atondoa i weta i salata tanalapa sumai tee kae corocoro minaaka i kae lenan alusu motounte, 44 metere kaaratena,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 38:10 atukoa 20 pale arii tee 20 kalempesi minaaka i tambaga mobulilingiakana tanalapa sumai. Manga kakaina arii sumai tee manga papokawaana atokarajaa minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 38:11 Mboo sumai uka i weta i napa, kae corocoro kaarate 44 metere atobhakesaka, atukoa 20 pale arii tee 20 angu kalempesi minaaka i tambaga, maka manga kakaina tee papokawaana minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	EXO 38:12 I weta i bhara abhakesakaakea kae corocoro kaaratena 22 metere, atukoa sapulu pale arii amondo tee sapulu angu kalempesina. Manga kakaina arii sumai tee manga papokawaana atokarajaa minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	EXO 38:13 Kaewana tidhana weta i timbu 22 metere uka.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	EXO 38:14 I weta i timbu i tanalapa sumai, i saripina i kaai tee i kaana tampana bhambana lawa, kaaratena corocoro sumbesumbere 6,6 metere. Atoloeaka sumbesumbere corocoro sumai i talu pale arii i talu angu kalempesina, mboo sumai uka i bhiwi mosagaanana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 38:24 Kabharina bhari-bharia bulawa ipake to apakaroaka Kema Momangkilo kabharina 1.000 kilo, atimbangiakea tee timbanga motopake i Kema Momangkilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 38:25 Sainamo pera ipotibhaakana minaaka i miana Israel sumai kabharina 3.430 kilo, mboomo timbanga motopake i Kema Momangkilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 38:26 Bhari-bharia mia motogagari sumai apomea doi mboomo katamona ipatotapuaka i Kema Momangkilo, siitumo satanga syikal (katamona syikal sumai sapulu haramu). Kabharina mia motogagari dhaangia 603.550 umane, mokoʼumuruna 20 tao labhi.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	4	EXO 38:27 Minaaka i pera sumai, 3.400 kilo atopake to akarajaaka 100 kalempesina ariina Kema Momangkilo tee kalempesina corocorona. Saasaangu kalempesi katamona 34 kilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EXO 38:28 Sainamo 30 kilo pera bhilaana atopake to akarajaaka kakaina manga arii, to alapisiaka manga bhaana arii, tee akarajaa manga papokawaana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	EXO 38:29 Tambaga ipasombaaka to KAWASANA OPU sumai o kabharina 2.425 kilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	2	EXO 39:9 Modelena pata wala pata singku, akarajaaia apotapi rua lapi, 22 senti kaaratena tee kaewana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	RUT 2:17 Mboo sumaimo o Rut aene jelai i inawu sakawana konowia. Kasiimpo abhebhe manga laena jelai mopadhana ienena sumai mamudhaakana atorambasaka manga ompolena minaaka i laena. Jelai irombusakana kera-kera dhaangia 10 kilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	EST 1:1 Kajadia incia sii adhaangia i zamanina Ahasweros, siitumo Ahasweros momembalina rajana Persia tee Media to 127 angu poropinsi, minaaka i India sakawana i Etiopia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EST 3:9 Ande ukamatea amalape ifikirimu, salabhina upalimbaakamea sura parinta to upabinasaaka manga incia. Iaku bhekupomea 340.000 kilo pera to manga pagawe moʼurusuna giu incia sumai, mamudhaakana manga pagawe sumai apapesuaia o pera sumai i nuncana dhingkanana doina Raja."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	EST 5:14 Sarangona incia sumai, Zeres tee bhari-bharia sabhangkana apogau tee incia, "Tumpumo o mia akarajaa arii kalangana 25 metere tee naile saeona apogau tee raja mamudhaakana Mordekhai aloea i arii incia sumai. Sapadhana upewau mboo sumai, amembalimo ulingka i kariaa tee kalalesana ngangarandamu." Pogauna manga incia sumai apeelua o Haman. Sababuna atumpumea manga mia akarajaa arii sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	EST 9:16 Miana Yahudi mosagaanana momboorena i manga poropinsi i nuncana pamarinta sumai uka aporomusaka tee apotaangiaka inyawana, tee apaʼamani karona manga minaaka i musuna. Manga incia apekamate 75.000 mia. Maka moomini mboo sumai, miana Yahudi inda arampasi harataa pewauana manga incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	7	EST 9:30 Mordekhai alamboko manga sura sumai to bhari-bharia miana Yahudi i 127 poropinsina Raja Ahasweros. I nuncana manga sura sumai manga incia aemani doʼa mamudhaakana manga miana Yahudi sadhaadhaa aʼamani tee amasanaa.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	PSA 60:2 wakutuuna incia aewangi miana Aram-Naharaim tee miana Aram-Zoba, tee wakutuuna Yoab ambuli sapadhana apekamate 12.000 miana Edom i Mbolongana Asin.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	JOH 6:10 Isa apogau i manga murina, "Tumpumea manga incia auncura." I tampa sumai abhari o rumpuna, kasiimpo auncuramo manga incia iwe sumai. Kabharina manga incia kera-kera 5.000 mia umane.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	JOH 8:57 Kasiimpo apogaumo manga miana Yahudi sumai, "Umurumu indapo akawa 50 tao, inda mungki Ingkoo padhamo ukamata Ibrahim!"	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	JOH 21:8 Manga murina mosagaanana uka aumba tee bhangka apoose ahela jala mobukeakana ikane sumai roonamo manga incia inda saopeana amaridho minaaka i ati, kera-kera o karidhona tangkanamo 100 meteremea.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	3	JOH 21:11 Sabutuna alingkamo o Simon Petrus to ahela jala sumai apapenea i ati. Jala sumai abukeaka manga ikane momaoge. Dhaangia 153 mbaa o kabharina. Moomini mboo sumai kabharina, maka o jala sumai inda amabhenci.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	ACT 1:15 Saangu wakutuu, Petrus akakaro i tanga-tangana kera-kera 120 manga mia moparacaeana tee Isa moporomusakana iwe sumai. Incia apogau,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	ACT 13:20 Minaaka i auwalina miana Israel apesua i Tana Mesir sakawana manga incia ambuli i Tana Kanaan kera-kera dhaangia 450 tao kangengena. Kasiimpo sapadhana sumai, Aulataʼala aangka pia-pia mia haakimu to akapalai uumatina sakawana i zamanina Nabii Samuel.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	ACT 27:37 Kabharimami i kapala sumai dhaangia 276 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	GAL 3:17 Maʼanana ipogauakaku mboo sii: Pojanjiana Aulataʼala mopadhana ipatotapuakana porikana, inda amembali abhaliia hukumuna Taurati siimpo moumbana 430 tao sapadhana sumai to apabatala janjina Aulataʼala.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	REV 7:4 Kasiimpo kurangoa uka ande o kabharina mia motosegelena dhaangia 144.000 mia, bhari-bharia aminaaka i sapulu rua sukuna miana Israel,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	REV 7:5 Saasaangu sukuna miana Israel dhaangia 12.000 mia o kabharina motosegelena, Siimo manga suku incia sumai: suku Yuda, suku Ruben, suku Gad,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	REV 11:3 Iaku bhekulamboko rua mia sakusiiku mopakena bhaju minaaka i kae kadhu to tandana kasukara, tee manga incia bheapakawaaka kasameana Aulataʼala kangengena 1.260 eo."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	REV 12:6 Sabutuna o bhawine sumai apalai i tana matuu, i tampa mopadhana ipasadiaakana Aulataʼala to incia. Iwe sumai incia atodhambaaka 1.260 eo kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	6	REV 13:18 I nuncana giu incia sii tabeana afaraluu hikimati. Mia moʼaarifu tabeana agagari maʼanana nomorona Binata Masega sumai, roonamo nomoro sumai asusuaka sarona samia maanusia. Nomoro sumai satotuuna 666.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	REV 14:1 Sanampuu kukamatamo Anana Dumba sumai akabhale-bhale i bhawona Gunu Sion, tee aosea 144.000 mia motoburiakana sarona Anana Dumba tee sarona Amana i bhawona rouna manga incia samia-samia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	REV 14:3 Manga incia alaguaka saangu lagu bhaau i aroana kauncuramaka, i aroana pata miaia mahaluku, tee i aroana manga mancuana sumai. Inda samia uka momembalina mopengkaadhariakana lagu incia sumai, maka tangkanamo 144.000 mia mopadhana itolosina minaaka i dunia sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	0	REV 21:16 Modelena kota incia sumai pata wala pata singku, kaaratena apokana tee kaewana. Wakutuuna aʼukuruakea tee kau kaʼukuru, kota incia sumai o kaaratena 12.000 stadia, siitumo 2.220 kilo, apokana uka tee kaewana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	5	REV 21:17 Incia uka aʼukuru kalangana rindina kota, garaaka o kalangana dhaangia saatu pata pulu pata siku, siitumo 65 metere, malaaʼekati sumai apake kaʼukuru mboomo kaʼukuru ipakena maanusia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Source	count	213	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	77	001-GEN-004-024 Ande Kabil tabeana atobholosiaka pitu kali lipa, sumaimo Lamekh tabeana 77 kali lipa."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Sapadhana Adamu akoʼumuru 130 tao, alaahirimo to incia anana mboomo gambarana karona tee mboomo sandarana karona. Asarongiakea anana sumai Set.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	800	001-GEN-005-004 Sapadhana Adamu akoanaaka Set, adhadhi 800 tao tee akoanaakamo uka manga anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	930	001-GEN-005-005 Adamu akawamo umuruna 930 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	150	001-GEN-005-006 Sapadhana Set akoʼumuru 150 tao, akoanaakamo Enos.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	807	001-GEN-005-007 Sapadhana Set akoanaaka Enos, adhadhi 807 tao akoanaakamo uka manga anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	912	001-GEN-005-008 Set akawamo umuruna 912 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Sapadhana Enos akoʼumuru 90 tao, alaahirimo Kenan to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	815	001-GEN-005-010 Sapadhana Enos akoanaaka Kenan, adhadhi 815 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Enos akawamo umuruna 905 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Sapadhana Kenan akoʼumuru 70 tao, alaahirimo Mahalaleel to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Sapadhana Kenan akoanaaka Mahalaleel, adhadhi 840 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Kenan akawamo umuruna 910 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Sapadhana Mahalaleel akoʼumuru 65 tao, alaahirimo Yared to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	830	001-GEN-005-016 Sapadhana Mahalaleel akoanaaka Yared, adhadhi 830 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Mahalaleel akawamo umuruna 895 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Sapadhana Yared akoʼumuru 162 tao, alaahirimo Idris to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	800	001-GEN-005-019 Sapadhana Yared akoanaaka Idris, adhadhi 800 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Yared akawamo umuruna 962 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Sapadhana Idris akoʼumuru 65 tao, alaahirimo Metusalah to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	300	001-GEN-005-022 Sapadhana Idris akoanaaka Metusalah, incia adhadhi amalape pokaiana tee Aulataʼala kangengena 300 tao, tee akoanaakamo manga anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Idris akawamo umuruna 365 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Sapadhana Metusalah akoʼumuru 187 tao, alaahirimo Lamekh to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	782	001-GEN-005-026 Sapadhana Metusalah akoanaaka Lamekh, adhadhi 782 tao akoanaakamo uka anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Metusalah akawamo umuruna 969 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Sapadhana Lamekh akoʼumuru 182 tao, alaahirimo to incia samia anana umane.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Sapadhana Lamekh akoanaaka Nuh, adhadhi 595 tao akoanaakamo uka manga anaana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Lamekh akawamo umuruna 777 tao, kasiimpomo amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	500	001-GEN-005-032 Sapadhana Nuh akoʼumuru 500 tao, alaahirimo Sem, Ham, tee Yafet to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	120	001-GEN-006-003 Kasiimpomo KAWASANA OPU afirimanimo, "Rohiku inda bheapobhawa tee maanusia satorosuna, roonamo maanusia sumai afanaa kadhaangiana. Apepuu sii-sii, umuruna manga inda akolabhi 120 tao."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	133	001-GEN-006-015 Mboomo sii tabeana ukarajaaia bhangka sumai: 133 metere kaaratena, 22 metere kaewana, tee 13 metere kalangana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	001-GEN-007-004 Roonamo pitu eopo uka Iaku bhekupasapo wao i bhawona alamu 40 eo 40 malo kangengena tee sagala mahaluku padha ipamembaliku sumai bhekuhapusuakea minaaka i bhawona alamu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	600	001-GEN-007-011 Wakutuuna Nuh akoʼumuru 600 tao, i bula rua mbulana, eo sapulu pitu eona, apidhimo bhari-bharia matana uwe i nuncana tana, tee manga bhambana uwe i laiana uka atobungkale.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	001-GEN-007-012 Wao maranca asapo i bhawona alamu 40 eo 40 malo kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	001-GEN-007-017 40 eo kangengena uwena mawa sumai atipua alamu. O uwe sumai torotorosu apene arangani kabharina saanampuu aangkamo bhangka maoge sumai alanto amalanga minaaka i bhawona alamu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	150	001-GEN-007-024 O uwena mawa sumai apatondu alamu 150 eo kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	150	001-GEN-008-003 O uwe ahandamo asapo minaaka i bhawona alamu, tee sapadhana 150 eo o uwe sumai uka akuramo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	001-GEN-008-006 Sapadhana 40 eo, Nuh abungkalemo manga bhalo-bhalona bhangka maoge ikarajaana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	601	001-GEN-008-013 Wakutuu Nuh akoʼumurua 601 taona, i eo bhaa-bhaana, i bula bhaa-bhaana, o uwe asapomo minaaka i bhawona alamu. Wakutuuna Nuh abungkale padhana bhangka sumai tee akamatamea, atiumbamo o tana i bhawona alamu apepuumo amatuu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	27	001-GEN-008-014 Kasiimpomo i eo 27 eona, i bula rua mbulana, alamu atotuu-totuumo amatuu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	350	001-GEN-009-028 Nuh dhaangiapo adhadhi 350 tao sapadhana uwena mawa sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	950	001-GEN-009-029 Sumaimo, Nuh akawa umuruna 950 tao, kasiimpomo incia amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	100	001-GEN-011-010 Siimo siwuluna Sem. Wakutuuna Sem akoʼumuru 100 tao, alaahirimo to incia Arpakhsad, rua tao sapadhana uwena mawa.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	500	001-GEN-011-011 Sem akoʼumuru 500 tao uka sapadhana incia akoanaaka Arpakhsad, tee incia dhaangiapo akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	35	001-GEN-011-012 Sapadhana Arpakhsad akoʼumuru 35 tao, alaahirimo to incia Selah.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	403	001-GEN-011-013 Arpakhsad akoʼumuru 403 uka sapadhana incia akoanaaka Selah tee incia dhaangiapo akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	30	001-GEN-011-014 Sapadhana Selah akoʼumuru 30 tao, alaahirimo to incia Eber.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	403	001-GEN-011-015 Selah adhadhi 403 tao uka sapadhana incia akoanaaka Eber, tee incia dhaangiapo uka akoanaaka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Sapadhana Eber akoʼumuru 34 tao, alaahirimo to incia Peleg.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	430	001-GEN-011-017 Eber adhadhi 430 tao uka sapadhana incia akoanaaka Peleg, tee incia dhaangiapo uka akoanaaka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Sapadhana Peleg akoʼumuru 30 tao, alaahirimo to incia Rehu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	209	001-GEN-011-019 Peleg adhadhi 209 tao uka sapadhana incia akoanaaka Rehu tee incia dhaangia akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Sapadhana Rehu akoʼumuru 32 tao, alaahirimo to incia Serug.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	207	001-GEN-011-021 Rehu adhadhi 207 tao sapadhana incia akoanaaka Serug, tee incia dhaangia akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	30	001-GEN-011-022 Sapadhana Serug akoʼumuru 30 tao, alaahirimo to incia Nahor.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	200	001-GEN-011-023 Serug adhadhi 200 tao uka sapadhana incia akoanaaka Nahor, tee incia dhaangiapo akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Sapadhana Nahor akoʼumuru 29 tao, alaahirimo to incia Terah.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	119	001-GEN-011-025 Nahor adhadhi 119 tao uka sapadhana incia akoanaaka Terah, tee incia dhaangia akoanaaka uka manga anana umane tee bhawine.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	70	001-GEN-011-026 Sapadhana Terah akoʼumuru 70 tao, alaahirimo to incia talu ana mia umane, siitumo Abram, Nahor tee Haran.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Terah akawa umuruna 205 tao, kasiimpo amatemo i kota Haran.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	75	001-GEN-012-004 Sumaimo, Abram alingka, mboomo ifirimaniakana KAWASANA OPU i incia. Lut aose alingka tee incia. Abram akoʼumuru 75 tao i wakutuuna incia alimba minaaka i Haran.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	12	001-GEN-014-004 12 tao kangengena lima mia raja sumai ataʼati i Raja Kedorlaomer, maka i tao 13 taona manga aewangimo raja sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	14	001-GEN-014-005 I 14 taona, alingkamo Raja Kedorlaomer apobhawa tee manga raja mopoosena tee incia to apotimbe. Kasiimpo manga incia amangantaloaka manga miana Refaim i Asterot Karnayim, manga miana Zuzim i Ham, manga miana Emim i Syawe-Kiryataim,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Wakutuu Abram arango ande pinoanana atotaangi, aromusakamea manga mia iparacaeana, siitumo manga incia molaahirina i bhanuana, 318 mia kabharina, kasiimpo apajeremo musuna akawea i Dan.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	400	001-GEN-015-013 Kasiimpo KAWASANA OPU afirimani i Abram, "Mataua tee tandaia, ande siwulumu bheamembali dhaga i lipu mencuana lipuna manga. Manga incia bheapabhatuaia tee apanarakaaia 400 tao kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	86	001-GEN-016-016 Abram akoʼumurumo 86 tao wakutuuna Hajar apalaahiri Ismail to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	99	001-GEN-017-001 Wakutuuna Abram akoʼumurumo 99 tao, KAWASANA OPU apatiumbaakamo karona i incia tee afirimani i incia, "Iakumo Aulataʼala Mokokuasana, dhadhimo i aroaku inda tee momadhakina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	100	001-GEN-017-017 Kasiimpo asujumo Ibrahim tee apotawa tee apogau i nuncana ngangarandana, "Buaka amembali samia umane mokoʼumuruna 100 tao akoanaakamo samia anaana? Amembali buaka Sarah, mokoʼumuruna 90 tao, apalaahiri anaana?"	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	99	001-GEN-017-024 Ibrahim akoʼumuru 99 tao i wakutuuna atotandaki,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	13	001-GEN-017-025 sainamo Ismail, anana, akoʼumuru 13 tao wakutuuna atotandaki.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	001-GEN-018-024 Ande dhaangia 50 mia mobanara i nuncana kota sumai, mboona Ingkoo bheupabinasa tampa incia sumai tee inda uʼamponia roonamo 50 mia mobanara modhaangiana i nuncana?	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	001-GEN-018-026 Firimanina KAWASANA OPU, "Ande kupotibhaaka 50 mia mobanara i kota Sodom, sumaimo Iaku bhekuʼamponia saangua tampa incia sumai roonamo manga incia."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	5	001-GEN-018-028 Ande akura 5 mia minaaka 50 mia mobanara sumai, mboona Ingkoo bheupabinasa bhari-bharia kota sumai?" Firimanina, "Ande kupotibhaaka iwe sumai 45 mia, Iaku inda bhekupabinasea."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	001-GEN-018-029 Ibrahim apogaumo uka i incia, "Ande upotibhaaka 40 mia iwe sumai?" Firimanina, "Roonamo 40 mia sumai, Iaku inda bhekupewaua."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	30	001-GEN-018-030 Apogaumo Ibrahim, "Bholimo ancosala Kawasana Opu uʼamara ande iaku kupogau uka, tuaapa ande upotibhaaka iwe sumai 30 mia?" Firimanina, "Ande kupotibhaaka iwe sumai 30 mia, Iaku inda bhekupewau hali incia sumai."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	001-GEN-018-031 Apogaumo Ibrahim, "Satotuuna iaku kupabaranimo karoku kupogau i Kawasana Opu. Tuaapa ande upotibhaaka iwe sumai 20 mia?" Firimanina, "Roonamo 20 miana sumai, Iaku inda bhekupabinasea."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	10	001-GEN-018-032 Apogaumo Ibrahim, "Bholimo ancosala Kawasana Opu uʼamara ande iaku kupogau sampearo sii uka. Tuaapa ande upotibhaaka iwe sumai 10 mia?" Firimanina, "Roonamo 10 miana sumai, Iaku inda bhekupabinasea."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	1	001-GEN-020-016 Pogauna i Sarah, "Rangoa, iaku padhamo kudhawuakea 1.000 tibha pera i akamu i aroana matana bhari-bharia mia mopobhawana tee ingkoo, to bukutiina kangkilomu. I nuncana sagala hali, ingkoo inda usala."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	100	001-GEN-021-005 Umuruna Ibrahim 100 tao wakutuuna Ishak, o anana, apalaahiria to incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	127	001-GEN-023-001 Sarah adhadhi 127 tao. Mboo sumaimo kangengena dhadhina Sarah.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	400	001-GEN-023-015 "Opuku perangoiakupo. Ande mboo itu, tana incia sumai akoharagaa 400 tibha pera, maka opea maʼanana to mia mboo ingkita sii? Koburumea bhawinena opu iwe sumai."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	400	001-GEN-023-016 Ibrahim aosemo pogauna Efron. Incia agagariakamea to Efron o doi pera mboomo kabhari mopadhana isarongiakana Efron i aroana raʼeatina Het sumai, siitumo 400 tibha pera, o katamona mboomo kananea i tanga-tangana manga moparaasona.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	115	001-GEN-024-022 Sapadhana asumpu manga untana sumai, bhatuana Ibrahim aalamo singkaru bulawa katamona kera-kera lima haramu tee sapasa simbi minaaka i bulawa katamona 115 haramu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	175	001-GEN-025-007 Ibrahim akawamo umuruna 175 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	137	001-GEN-025-017 Ismail akawamo umuruna 137 tao. Sapadhana incia sumai ailamo poinuncana tee amate, kasiimpomo aromusakea tee kaomuna i alamuna mia mate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	001-GEN-025-020 Ishak akoʼumurumo 40 tao wakutuu incia akobhawineaka Ribka. Ribka sumai anana Betuel, miana Aram minaaka i Padan-Aram. Ribka uka witinaina bhawine Laban, miana Aram sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	60	001-GEN-025-026 Kasiimpo alimbamo andina. Limana akeni korontunguna Esau, saanampuu incia asarongiakea Yakub. Ishak akoʼumurumo 60 tao wakutuu manga incia apalaahiria.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	001-GEN-026-034 Wakutuu Esau akoʼumuru 40 tao incia akobhawineakamo Yudit binti Beeri, miana Het, tee Basmat binti Elon, miana Het.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	001-GEN-031-038 Iaku kupobhawa tee Pinoama 20 tao kangengena. Dumba tee bhembemu bhawine inda mina amadhaki alaahiri, tee bhembe dumbamu umane indapo mina kukandea.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	001-GEN-031-041 Iaku i bhanuamu 20 tao kangengena. Kukarajaa i pinoama 14 tao to kupotibhaaka rua miaia anamu, tee 6 tao uka to kupotibhaaka gulumana bhembe dumbamu. Kangengena incia sumai, sapulu mpearomo ubhalii ponamboku.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	400	001-GEN-032-006 Kasiimpomo manga tumpuana sumai uka ambuli i Yakub tee apogau, "Ingkami padhamo tapokawaaka Esau, o akamu, tee incia uka tangasaana alingka to apokawaakako, apoose 400 mia manga umane."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	200	001-GEN-032-014 siitumo 200 mbaa bhembe bhawine, 20 mbaa bhembe umane, 200 dumba bhawine, tee 20 mbaa dumba umane,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	30	001-GEN-032-015 30 mbaa unta bhawine tee manga anana tangasaana apadudua, 40 mbaa sapi bhawine, 10 mbaa sapi umane, 20 mbaa keledai bhawine tee 10 mbaa keledai umane.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	400	001-GEN-033-001 Wakutuu Yakub apatinda potontona tee atiliki, atiumbamo Esau aumba apoose 400 mia manga umane. Kasiimpomo abagemea manga anaana i tanga-tangana Lea, Rahel, tee i rua mia bhatua bhawine manga.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	100	001-GEN-033-019 Kasiimpomo aalimo satidha tana, tampana incia apakaro kemana tee haragaana 100 tibha doi pera minaaka i siwuluna Hemor, o amana Sikhem.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	35	001-GEN-035-022 Wakutuu Israel amboore i lipu incia sumai, Ruben akole tee Bilha, maruena amana, tee atorangomo hali incia sumai i Israel. 35:22-29 Manga anana umane Yakub kabharina sapulu rua mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	180	001-GEN-035-028 Ishak akoʼumurumo 180 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	17	001-GEN-037-002 O siimo tulatulana siwuluna Yakub. Wakutuuna Yusuf dhaangia mangura, 17 tao umuruna, incia amananea awulu kadhambaaka gulumana bhembe dumba apobhawa tee manga witinaina. Incia apoose tee manga anana Bilha tee Zilpa, rua miaia bhawinena amana. Tee Yusuf sadia apakawaaka lele madhaki to manga witinaina i amana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	001-GEN-037-028 Wakutuuna manga dhaga miana Midian alalo, Yusuf ahelaia tee aangkea minaaka i nuncana sumu sumai, kasiimpomo aasoa i manga miana Ismail tee haragaana 20 tibha doi pera. Kasiimpomo manga mia sumai abhawamea i Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	001-GEN-041-034 Kasiimpomo, salabhina ande Firaun apatotapuakamo manga gubernuru i bhawona lipu sii to alaaka 20 parasee minaaka i hasilina Tana Mesir i nuncana pitu tao motaralabhi-labhina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	30	001-GEN-041-046 Yusuf akoʼumurumo 30 tao wakutuu incia akakaro i aroana Firaun, raja Mesir. Kasiimpomo Yusuf alingka minaaka i aroana Firaun tee ambelikia saangua Tana Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	300	001-GEN-045-022 Mencuana soo sumai, adhawua uka satuwu pakea kabholosi to manga incia samia-samia, maka Binyamin adhawua 300 tibha doi pera tee lima tuwu pakea kabholosi.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	33	001-GEN-046-015 Manga incia sii satotuuna siwuluna Lea, mopalaahirina manga anana umane to Yakub i Padan-Aram, tee uka Dina, anana bhawine. Jadi, bhari-bharia siwuluna Yakub minaaka i Lea, malape umane atawa bhawine, kabharina 33 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	16	001-GEN-046-018 Manga incia sii satotuuna siwuluna Zilpa, bhatua bhawine idhawuakana Laban i Lea, o anana. Jadi bhari-bharia siwuluna Yakub mominaakana i Zilpa sumai kabharina 16 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	14	001-GEN-046-022 Manga incia sii satotuuna siwuluna Yakub mominaakana i Rahel, kabharina 14 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	66	001-GEN-046-026 Kabharina mia moumbana i Mesir apobhawa tee Yakub, siitumo siwuluna, inda atolentu manga bhawinena, bhari-bharia 66 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	70	001-GEN-046-027 Manga anana Yusuf molaahirina to incia i Mesir dhaangia rua mia sabutuna bhari-bharia witinaina Yakub modhaangiana i Mesir wakutuu incia sumai kabharina 70 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	130	001-GEN-047-009 Lawanina Yakub i Firaun, "Umuruku 130 taomo; kupekalingka-lingkamo mboomo dhaga i dunia sii. Dhadhiku anarakaa mpuu tee amampodho ande tapapokanea tee umuruna opuaku lantapi-lantapi wakutuu manga incia apekalingka-lingka mboomo dhaga uka i dunia sii."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	17	001-GEN-047-028 Yakub adhadhi 17 tao kangengena i Tana Mesir. Jadi, Yakub akoʼumurumo 147 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	001-GEN-050-003 Manga incia apewaumea kangenge 40 eo, roonamo mboo sumaimo kangengena wakutuu to arampa-rampaia maeati. Manga miana Mesir atangisimea kangenge 40 eo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	110	001-GEN-050-022 Yusuf sadhaadhaana amboore i Mesir tee manga witinaina. Incia adhadhi 110 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	110	001-GEN-050-026 Kasiimpomo amatemo Yusuf umuruna 110 tao. Maeatina arampa-rampaia tee adhikaia i nuncana sorongana maeati i Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	70	002-EXO-001-005 Bhari-bharia siwuluna umane ipokawaakana Yakub kabharina 70 mia. Maka Yusuf aporikana i Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	137	002-EXO-006-016 Lewi akoanaaka talu mia ana umane: siitumo Gerson, Kehat, tee Merari. Siitumo sarona manga anana Lewi tee siwuluna sumbesumbere. Lewi akoʼumuru 137 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	133	002-EXO-006-018 Manga anana Kehat: siitumo Amram, Yizhar, Hebron, tee Uziel. Kehat akoʼumuru 133 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	137	002-EXO-006-020 Amram akobhawineaka Yokhebed, witinaina amana, tee bhawinena sumai akoanaaka Harun tee Musa to incia. Amram akoʼumuru 137 tao.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	80	002-EXO-007-007 Musa akoʼumuru 80 tao tee Harun 83 tao wakutuuna manga incia apogau i Firaun.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	600	002-EXO-012-037 Miana Israel alingka tee adhala ae minaaka i kota Raamses arope i kota Sukot. Kabharina manga incia kera-kera 600.000 mia umane, inda atolentu tee bhawine tee anaana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	430	002-EXO-012-040 Miana Israel padhamo amboore i Mesir 430 tao kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	430	002-EXO-012-041 I eo kapadhaana tao i 430 sumai, bhari-bharia rombonga uumatina KAWASANA OPU abholi Tana Mesir.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	600	002-EXO-014-007 Incia alingka tee bhari-bharia kareta potimbea, atolentu tee 600 kareta momalapena motopilina. Saangu-saangu kareta sumai amondo tee samia kapala suludaduna.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	15	002-EXO-016-001 Kasiimpo bhari-bharia miana Israel abhose minaaka i Elim. Sapadhana manga abhose minaaka i Elim, i tanggala 15 malo i bula rua mbulana sapadhana manga incia abholi Mesir, akawamo manga incia i Tana Matuu Sin, i tanga-tangana Elim tee Gunu Sinai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	002-EXO-016-035 Miana Israel akande manna sumai kangengena 40 tao, sakawana manga incia Israel akawa i lipu mbooresana, siitumo i potidhaana Tana Kanaan.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	2	002-EXO-016-036 Saangu kaganta gomer (2,2 litere) ipakena manga mia i zamani incia sumai to agantaaka manna, antona sapersapulu efa (kera-kera 22 litere).	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	1	002-EXO-018-021 Tee uka tabeana upeeloa minaaka i bhari-bharia uumati manga mia momakidhana tee momaekana i Aulataʼala, siitumo manga mia iparacaeana raʼeati tee abanci mia modhawuna doi sogo. Aangkea manga incia to raʼeati amembali kapalana to 1.000 mia, kapalana 100 mia, kapalana 50 mia, tee kapalana to 10 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	1	002-EXO-018-025 Minaaka i bhari-bharia miana Israel, Musa apili manga mia momakidha tee aangkea manga amembali kapalana to uumati sumai, amembali kapalana 1.000 mia, kapalana 100 mia, kapalana 50 mia, tee kapalana 10 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	30	002-EXO-021-032 Ande sapi sumai atanduki samia bhatua umane atawa bhawine, sumaimo mokopewauana tabeana apomea 30 tibha syikal doi pera i opuna bhatua sumai, tee sapi sumai tabeana atudhaakea bhatu sampe amate.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	70	002-EXO-024-001 Kasiimpomo Incia afirimani i Musa, "Penemo poaro tee KAWASANA OPU, ingkoo tee Harun, Nadab tee Abihu, tee 70 mia minaaka i tanga-tangana manga mancuanana Israel, kasiimpo usuju usomba minaaka i karidhoana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	70	002-EXO-024-009 Kasiimpo apenemo Musa tee Harun, Nadab tee Abihu, tee 70 mia minaaka i tanga-tangana manga mancuanana Israel.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	002-EXO-024-018 Musa apesua i tanga-tangana taʼina ngalu tee apene i bhawona gunu sumai, kasiimpo amboore iwe sumai kangengena 40 eo 40 malo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	110	002-EXO-025-010 "Manga incia tabeana akarajaa soronga minaaka i kau akasia, kaaratena 110 senti, kaewana 66 senti, tee kalangana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	110	002-EXO-025-017 Karajaaia katutubhina soronga sumai minaaka i bulawa asilii, kaaratena 110 senti tee kaewana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	88	002-EXO-025-023 "Karajaamo saangu meja minaaka i kau akasia kaaratena 88 senti, kaewana 44 senti, tee kalangana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	7	002-EXO-025-025 Karajaakea satibha dhopi kaewana 7,5 senti i sakaaratea meja sumai tee upasaakea i bhiwina minaaka i bulawa i sakaaratea dhopi sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	35	002-EXO-025-039 Pakemo 35 kilo bulawa asilii to ukarajaa padamara tee bhari-bharia kamondona sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-026-005 kabharina 50 talina kuncina i rua tumpoa kae corocoro maoge sumai. Manga talina kunci sumai tabeana aposapoaro.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-026-006 Karajaaia 50 kakai bulawa. Kasiimpo, upapoompua rua tumpoa kae corocoro maoge Kema Momangkilo sumai saangu tee mosagaanana. Rua-rua tumpoa sumai atopapoompu mboosii: 50 kakai bulawa minaaka i satumpo kae upapesuaia i nuncana 50 talina kunci i kae mosagaanana mamudhaakana amembali asaangu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-026-010 Pasaakea 50 talina kunci i bhiwina kae corocoro maoge mobhaa-bhaana tee 50 talina kunci i bhiwina kae corocoro maoge i tapana saanguna.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-026-011 Karajaakea uka 50 kakai minaaka i tambaga, kasiimpo papesuaakea manga kakai sumai i nuncana manga talina kuncina i saao, sabutuna o Kema Momangkilo apoompu amembali asaangu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-026-013 Sainamo sumbesumbere i bhiwina Kema Momangkilo, siitumo i rua bhiwina tabeana dhaangia tee labhina akaloe-loe kaewana 50 senti mamudhaakana atutubhia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	4	002-EXO-026-016 Sumbesumbere toora kaaratena 4,5 metere tee kaewana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	002-EXO-026-018 Karajaakea 20 pale toora to bhiwina i weta i salatana Kema Momangkilo	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	002-EXO-026-019 tee karajaaia 40 angu kalempesi pera to apasaakea i tambena 20 pale toora sumai to sandina: rua angu kalempesi i tambena bhari-bharia toora, sumbesumbere to rua kapaso i tambena toora sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	002-EXO-026-020 Karajaakea 20 pale toora to weta i napa i Kema Momangkilo,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	002-EXO-026-021 amondo tee 40 angu kalempesina perana, rua angu kalempesi i tambena sumbesumbere toora.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	16	002-EXO-026-025 Jadi, tabeana dhaangia walu pale toora tee 16 angu kalempesina perana, rua angu kalempesi i tambena saangu toora to sandina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	2	002-EXO-027-001 Karajaakea tampa tunuana kurubani minaaka i kau akasia modelena patawala pata singku kaaratena 2,2 metere, kaewana 2,2 metere, tee kalangana 1,3 metere.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	44	002-EXO-027-009 KAWASANA OPU apogau uka, "Tumpumea manga mia akarajaa corocoro to abulilingiaka tanalapa i saripina Kema Momangkilo. Corocoro sumai tabeana atokarajaa minaaka i kae lenan alusu motounte. Tondongia o bhiwina i weta i salata i tanalapa sumai tee corocoro kaaratena 44 metere.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	002-EXO-027-010 Tabeana dhaangia 20 pale ariina to aloeaka corocoro sumai tee 20 angu kalempesina, bhari-bharia minaaka i tambaga. Sainamo manga kakai i ariina tee manga papokawaana tabeana minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	44	002-EXO-027-011 Karajaakea mboo sumai uka i weta i napa i tanalapa sumai. Bhakesakaakea kae corocoro kaaratena 44 metere, loeakea to 20 pale arii tee 20 kalempesina, bhari-bharia minaaka i tambaga, maka manga kakai i arii tee papokawaana tabeana minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	22	002-EXO-027-012 Kaewana bhiwina weta i bhara, bhakesakaakea kae corocoro kaaratena 22 metere, aloeaka corocoro sumai i sapulu pale arii tee sapulu angu kalempesina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	22	002-EXO-027-013 Kaewana tidhana weta i timbu 22 metere uka.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	6	002-EXO-027-014 I weta i timbu i tanalapa sumai, i saripina i kaai tee i kaana tampana bhambana lawa, kaaratena corocoro sumbesumbere 6,6 metere. Loeakea sumbesumbere corocoro sumai i talu pale arii i talu angu kalempesina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	9	002-EXO-027-016 Sainamo to bhambana lawa i weta i timbu i tanalapa, tumpumea manga miana akarajaakea corocoro kaaratena 9 metere minaaka i kae lenan alusu motounte, itanuna tee kambari waranaa kakanda, wungu, tee maleʼi matuʼa, tee abhelokiakea kasokai. Corocoro sumai tabeana aloeakea i pata pale arii i pata angua kalempesina.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	44	002-EXO-027-018 Kaaratena tanalapa sumai tabeana 44 metere, kaewana 22 metere, tee kalangana 2,2 metere, tee pagalana kae lenan alusu motounte, tee manga kalempesina minaaka i tambaga.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	22	002-EXO-028-016 Modelena tabeana pata wala pata singku, apotapi rua lapi, 22 senti kaaratena tee kaewana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	45	002-EXO-030-002 Modelena tampa sumai pata wala pata singku, kaaratena tee kaewana 45 senti, tee kalangana 90 senti. Manga tanduna tabeana amembali asaangu tee tampana tunuana dhupa sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	002-EXO-030-014 Bhari-bharia mia mokoʼumuruna alabhi 20 tao tabeana atogagari, tee manga incia tabeana apomea mboomo kabharina doi ipasombaaka hususu to KAWASANA OPU.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	3	002-EXO-032-028 Miana Lewi apewaua opea ipogauakana Musa. I eo incia sumai amatemo kera-kera 3.000 mia minaaka i tanga-tangana lipu sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-036-012 50 talina kunci i kae saanguna tee 50 talina kunci i bhiwina kae i rua anguna. Manga talina kunci sumai apapoaroa.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-036-013 Sapadhana sumai, manga incia akarajaa 50 kakai bulawa tee apapoompua i manga kakaina Kema Momangkilo sumai saangu tee mosagaanana tee manga kakai incia sumai sabutuna amembali apaposaangua.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-036-017 Manga incia akarajaa 50 talina kunci i bhiwina kae corocoro bhaa-bhaana, tee 50 talina kunci i bhiwina kae corocoro rua anguna.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	002-EXO-036-018 Kasiimpo manga incia akarajaa 50 kakai tambaga to apapompu manga kae sumai amembali asaangu.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	4	002-EXO-036-021 Sapale-sapale toora kaaratena 4,5 metere tee kaewana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	002-EXO-036-023 To bhiwina i weta i salata Kema Momangkilo, manga incia akarajaakea 20 toora.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	002-EXO-036-024 Manga incia uka akarajaa 40 kalempesi pera to apasaakea i tambena 20 pale toora sumai, rua kalempesi i tambena sapale-sapale toora, saasaangu to rua angua kapasona.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	002-EXO-036-025 To Kema Momangkilo i weta i napa akarajaakea 20 pale toora	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	40	002-EXO-036-026 amondo tee 40 kalempesina perana, rua angu kalempesi i tambena saasaangu toora.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	16	002-EXO-036-030 Jadi, dhaangia walu pale toora amondo tee 16 kalempesina perana, rua angu kalempesina i tambena saasaangu toora.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	1	002-EXO-037-001 Bezaleel akarajaa Soronga Pojanjia minaaka i kau akasia, 1,1 metere kaaratena, 66 senti kaewana, tee 66 senti kalangana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	1	002-EXO-037-006 Kasiimpomo, incia akarajaa katutubhina soronga, siitumo tampana to ahapusuaka dosa, minaaka i bulawa asilii, 1,1 metere kaaratena tee kaewana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	88	002-EXO-037-010 Akarajaakea uka saangu meja minaaka i kau akasia kaaratena 88 senti, kaewana 44 senti, tee kalangana 66 senti.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	7	002-EXO-037-012 Sapadhana sumai, akarajaakea satibha dhopi kaewana 7,5 senti i sakaaratea meja sumai tee apasaakea i bhiwina minaaka i bulawa i sakaaratea dhopi sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	35	002-EXO-037-024 Padamara tee bhari-bharia kamondona sumai akarajaaia minaaka i 35 kilo bulawa asilii.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	45	002-EXO-037-025 Sapadhana incia sumai, Bezaleel akarajaa tampana tunuana dhupa minaaka i kau akasia. Modelena tampa sumai pata wala pata singku, kaaratena tee kaewana 45 senti, tee kalangana 90 senti. Manga tanduna asaangu tee tampana tunuana dhupa sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	2	002-EXO-038-001 Bezaleel akarajaa tampa tunuana kurubani minaaka i kau akasia modelena patawala pata singku kaaratena 2,2 metere, kaewana 2,2 metere, tee kalangana 1,3 metere.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	44	002-EXO-038-009 Sapadhana incia sumai Bezaleel akarajaa tanalapa. Atondoa i weta i salata tanalapa sumai tee kae corocoro minaaka i kae lenan alusu motounte, 44 metere kaaratena,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	20	002-EXO-038-010 atukoa 20 pale arii tee 20 kalempesi minaaka i tambaga mobulilingiakana tanalapa sumai. Manga kakaina arii sumai tee manga papokawaana atokarajaa minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	44	002-EXO-038-011 Mboo sumai uka i weta i napa, kae corocoro kaarate 44 metere atobhakesaka, atukoa 20 pale arii tee 20 angu kalempesi minaaka i tambaga, maka manga kakaina tee papokawaana minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	22	002-EXO-038-012 I weta i bhara abhakesakaakea kae corocoro kaaratena 22 metere, atukoa sapulu pale arii amondo tee sapulu angu kalempesina. Manga kakaina arii sumai tee manga papokawaana atokarajaa minaaka i pera.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	22	002-EXO-038-013 Kaewana tidhana weta i timbu 22 metere uka.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	6	002-EXO-038-014 I weta i timbu i tanalapa sumai, i saripina i kaai tee i kaana tampana bhambana lawa, kaaratena corocoro sumbesumbere 6,6 metere. Atoloeaka sumbesumbere corocoro sumai i talu pale arii i talu angu kalempesina, mboo sumai uka i bhiwi mosagaanana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	1	002-EXO-038-024 Kabharina bhari-bharia bulawa ipake to apakaroaka Kema Momangkilo kabharina 1.000 kilo, atimbangiakea tee timbanga motopake i Kema Momangkilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	3	002-EXO-038-025 Sainamo pera ipotibhaakana minaaka i miana Israel sumai kabharina 3.430 kilo, mboomo timbanga motopake i Kema Momangkilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	603	002-EXO-038-026 Bhari-bharia mia motogagari sumai apomea doi mboomo katamona ipatotapuaka i Kema Momangkilo, siitumo satanga syikal (katamona syikal sumai sapulu haramu). Kabharina mia motogagari dhaangia 603.550 umane, mokoʼumuruna 20 tao labhi.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	3	002-EXO-038-027 Minaaka i pera sumai, 3.400 kilo atopake to akarajaaka 100 kalempesina ariina Kema Momangkilo tee kalempesina corocorona. Saasaangu kalempesi katamona 34 kilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	30	002-EXO-038-028 Sainamo 30 kilo pera bhilaana atopake to akarajaaka kakaina manga arii, to alapisiaka manga bhaana arii, tee akarajaa manga papokawaana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	2	002-EXO-038-029 Tambaga ipasombaaka to KAWASANA OPU sumai o kabharina 2.425 kilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	22	002-EXO-039-009 Modelena pata wala pata singku, akarajaaia apotapi rua lapi, 22 senti kaaratena tee kaewana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	10	008-RUT-002-017 Mboo sumaimo o Rut aene jelai i inawu sakawana konowia. Kasiimpo abhebhe manga laena jelai mopadhana ienena sumai mamudhaakana atorambasaka manga ompolena minaaka i laena. Jelai irombusakana kera-kera dhaangia 10 kilo.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	127	017-EST-001-001 Kajadia incia sii adhaangia i zamanina Ahasweros, siitumo Ahasweros momembalina rajana Persia tee Media to 127 angu poropinsi, minaaka i India sakawana i Etiopia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	340	017-EST-003-009 Ande ukamatea amalape ifikirimu, salabhina upalimbaakamea sura parinta to upabinasaaka manga incia. Iaku bhekupomea 340.000 kilo pera to manga pagawe moʼurusuna giu incia sumai, mamudhaakana manga pagawe sumai apapesuaia o pera sumai i nuncana dhingkanana doina Raja."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	25	017-EST-005-014 Sarangona incia sumai, Zeres tee bhari-bharia sabhangkana apogau tee incia, "Tumpumo o mia akarajaa arii kalangana 25 metere tee naile saeona apogau tee raja mamudhaakana Mordekhai aloea i arii incia sumai. Sapadhana upewau mboo sumai, amembalimo ulingka i kariaa tee kalalesana ngangarandamu." Pogauna manga incia sumai apeelua o Haman. Sababuna atumpumea manga mia akarajaa arii sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	75	017-EST-009-016 Miana Yahudi mosagaanana momboorena i manga poropinsi i nuncana pamarinta sumai uka aporomusaka tee apotaangiaka inyawana, tee apaʼamani karona manga minaaka i musuna. Manga incia apekamate 75.000 mia. Maka moomini mboo sumai, miana Yahudi inda arampasi harataa pewauana manga incia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	127	017-EST-009-030 Mordekhai alamboko manga sura sumai to bhari-bharia miana Yahudi i 127 poropinsina Raja Ahasweros. I nuncana manga sura sumai manga incia aemani doʼa mamudhaakana manga miana Yahudi sadhaadhaa aʼamani tee amasanaa.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	12	019-PSA-060-001 To kapalana molaguna. Aose lagu: Kamba Bakung Kasakusii. Zaburuna Daud, to atoadhariaka wakutuuna incia aewangi miana Aram-Naharaim tee miana Aram-Zoba, tee wakutuuna Yoab ambuli sapadhana apekamate 12.000 miana Edom i Mbolongana Asin. E Aulataʼala, Ingkoo padhamo manga mendeu, tee utaroaka manga musu akatuki katangkesimami. Ingkoo uʼamara tee ingkami, maka sii-sii upekalapea pendua kadhaangiamami minaaka i kanarakaa.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Sadhadhina Isa pendua minaaka i mate, saeona mpuu i eo bhaa-bhaana minggu sumai, Incia apatokamatamo karona i Mariam miana Magdala sumai. (Minaaka i Mariam sumai o Isa padhamo apadhencu pitu seetani.)	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	5	043-JOH-006-010 Isa apogau i manga murina, "Tumpumea manga incia auncura." I tampa sumai abhari o rumpuna, kasiimpo auncuramo manga incia iwe sumai. Kabharina manga incia kera-kera 5.000 mia umane.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	50	043-JOH-008-057 Kasiimpo apogaumo manga miana Yahudi sumai, "Umurumu indapo akawa 50 tao, inda mungki Ingkoo padhamo ukamata Ibrahim!"	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	100	043-JOH-021-008 Manga murina mosagaanana uka aumba tee bhangka apoose ahela jala mobukeakana ikane sumai roonamo manga incia inda saopeana amaridho minaaka i ati, kera-kera o karidhona tangkanamo 100 meteremea.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	153	043-JOH-021-011 Sabutuna alingkamo o Simon Petrus to ahela jala sumai apapenea i ati. Jala sumai abukeaka manga ikane momaoge. Dhaangia 153 mbaa o kabharina. Moomini mboo sumai kabharina, maka o jala sumai inda amabhenci.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	120	044-ACT-001-015 Saangu wakutuu, Petrus akakaro i tanga-tangana kera-kera 120 manga mia moparacaeana tee Isa moporomusakana iwe sumai. Incia apogau,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	450	044-ACT-013-020 Minaaka i auwalina miana Israel apesua i Tana Mesir sakawana manga incia ambuli i Tana Kanaan kera-kera dhaangia 450 tao kangengena. Kasiimpo sapadhana sumai, Aulataʼala aangka pia-pia mia haakimu to akapalai uumatina sakawana i zamanina Nabii Samuel.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	276	044-ACT-027-037 Kabharimami i kapala sumai dhaangia 276 mia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	430	048-GAL-003-017 Maʼanana ipogauakaku mboo sii: Pojanjiana Aulataʼala mopadhana ipatotapuakana porikana, inda amembali abhaliia hukumuna Taurati siimpo moumbana 430 tao sapadhana sumai to apabatala janjina Aulataʼala.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	144	066-REV-007-004 Kasiimpo kurangoa uka ande o kabharina mia motosegelena dhaangia 144.000 mia, bhari-bharia aminaaka i sapulu rua sukuna miana Israel,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	12	066-REV-007-005 Saasaangu sukuna miana Israel dhaangia 12.000 mia o kabharina motosegelena, Siimo manga suku incia sumai: suku Yuda, suku Ruben, suku Gad,	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	1	066-REV-011-003 Iaku bhekulamboko rua mia sakusiiku mopakena bhaju minaaka i kae kadhu to tandana kasukara, tee manga incia bheapakawaaka kasameana Aulataʼala kangengena 1.260 eo."	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	1	066-REV-012-006 Sabutuna o bhawine sumai apalai i tana matuu, i tampa mopadhana ipasadiaakana Aulataʼala to incia. Iwe sumai incia atodhambaaka 1.260 eo kangengena.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	666	066-REV-013-018 I nuncana giu incia sii tabeana afaraluu hikimati. Mia moʼaarifu tabeana agagari maʼanana nomorona Binata Masega sumai, roonamo nomoro sumai asusuaka sarona samia maanusia. Nomoro sumai satotuuna 666.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	144	066-REV-014-001 Sanampuu kukamatamo Anana Dumba sumai akabhale-bhale i bhawona Gunu Sion, tee aosea 144.000 mia motoburiakana sarona Anana Dumba tee sarona Amana i bhawona rouna manga incia samia-samia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	144	066-REV-014-003 Manga incia alaguaka saangu lagu bhaau i aroana kauncuramaka, i aroana pata miaia mahaluku, tee i aroana manga mancuana sumai. Inda samia uka momembalina mopengkaadhariakana lagu incia sumai, maka tangkanamo 144.000 mia mopadhana itolosina minaaka i dunia sumai.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	12	066-REV-021-016 Modelena kota incia sumai pata wala pata singku, kaaratena apokana tee kaewana. Wakutuuna aʼukuruakea tee kau kaʼukuru, kota incia sumai o kaaratena 12.000 stadia, siitumo 2.220 kilo, apokana uka tee kaewana.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	65	066-REV-021-017 Incia uka aʼukuru kalangana rindina kota, garaaka o kalangana dhaangia saatu pata pulu pata siku, siitumo 65 metere, malaaʼekati sumai apake kaʼukuru mboomo kaʼukuru ipakena maanusia.	WARN
+Wolio---Kitabi-Momangkilona-Bible	NUMERALS	Aionian	count	214	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

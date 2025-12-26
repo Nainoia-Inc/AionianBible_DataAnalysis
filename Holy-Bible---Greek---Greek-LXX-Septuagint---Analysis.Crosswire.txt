@@ -1,0 +1,1423 @@
+# File Name: Holy-Bible---Holy-Bible---Greek---Greek-LXX-Septuagint---Analysis.txt
+# File Size: 110954      
+# File Date: 12/13/2025 05:33:44
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: H μετάφρασις τῶν Ἑβδομήκοντα
+# Bible Name English: Greek Septuagint LXX
+# Bible Language: Ελληνική
+# Bible Language English: Greek, Koine
+# Bible Copyright Format: Creative Commons Attribution NoDerivatives NonCommercial 4.0, 2018-2025
+# Bible Copyright Text: Copyright by Amato, Free NonCommercial Distribution
+# Bible Source: LXX, 270 BC, Steve Amato, Boston Christian Bible Study Resources
+# Bible Source Version: 3/23/2025
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=LXX
+# Bible Source Year: 1971
+# Bible Description: Accent and breathing marks are omitted
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Greek---Greek-LXX-Septuagint	ENCODING	Source	Holy-Bible---Greek---Greek-LXX-Septuagint---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Greek---Greek-LXX-Septuagint	ENCODING	Aionian	Holy-Bible---Greek---Greek-LXX-Septuagint---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Greek---Greek-LXX-Septuagint	BYTES	Source	bytes / chars	22348920 / 18923158 (multi-byte)	NOTICE
+Greek---Greek-LXX-Septuagint	BYTES	Aionian	bytes / chars	5877025 / 3146589 (multi-byte)	NOTICE
+Greek---Greek-LXX-Septuagint	BYTES	SourceClean	bytes / chars	7357960 / 3933413 (multi-byte)	NOTICE
+Greek---Greek-LXX-Septuagint	BYTES	AionianClean	bytes / chars	5873901 / 3143839 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Greek---Greek-LXX-Septuagint	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Greek---Greek-LXX-Septuagint	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Greek---Greek-LXX-Septuagint	AIONIAN	Aionian	book-defined-not-exist	200	NOTICE
+Greek---Greek-LXX-Septuagint	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Greek---Greek-LXX-Septuagint	AIONIAN	Aionian	missing-verse	0	NOTICE
+Greek---Greek-LXX-Septuagint	AIONIAN	Aionian	aionian-verses	64	NOTICE
+Greek---Greek-LXX-Septuagint	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Greek---Greek-LXX-Septuagint	UNPRINTABLE	Source	count	0	NOTICE
+Greek---Greek-LXX-Septuagint	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Greek---Greek-LXX-Septuagint	UNICODE	Summary	(-)Orginal	212	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Summary	(+)Aionian	189	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : ([)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : ( )	636029	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (T)	266	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (e)	26623	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (s)	25986	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (t)	3493	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (a)	19684	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (m)	10424	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (n)	7852	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (1)	26338	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (H)	320	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (d)	3876	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (i)	15766	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (g)	2590	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (])	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (\n)	31500	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (G)	1590	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (0)	6609	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (:)	31499	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἐ)	58084	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ν)	220233	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἀ)	26130	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ρ)	101998	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (χ)	18716	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῇ)	6309	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (π)	88992	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ο)	188040	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ί)	39005	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (η)	39547	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (σ)	115545	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ε)	144004	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὁ)	9984	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (θ)	40259	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὸ)	33364	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ς)	112361	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (τ)	203188	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὐ)	37740	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (α)	260644	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (κ)	127195	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὶ)	69716	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὴ)	15293	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (γ)	37486	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῆ)	17345	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (2)	18057	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἡ)	9601	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (δ)	45504	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὲ)	6929	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἦ)	1758	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ό)	23960	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ύ)	23458	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ά)	27850	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ω)	37772	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (β)	21302	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (υ)	66807	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῦ)	30718	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (μ)	73820	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (φ)	17396	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (έ)	32350	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὕ)	2309	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (3)	12621	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἶ)	5576	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ή)	18671	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῶ)	24058	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (4)	9511	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὅ)	5946	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ι)	108895	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (λ)	72396	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ώ)	7639	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὰ)	18357	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (5)	7139	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἑ)	2952	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (6)	6504	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῳ)	5221	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἔ)	11153	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ζ)	4724	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (7)	6135	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὃ)	1360	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὑ)	6899	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (8)	6107	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (9)	5427	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἰ)	15625	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὀ)	3390	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ξ)	11423	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὤ)	291	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῖ)	18672	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	General Punctuation : (’)	4597	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὗ)	1443	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῷ)	10555	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὺ)	10010	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὥ)	534	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἄ)	4289	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ψ)	6136	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾶ)	4423	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῴ)	339	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἃ)	555	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἕ)	2389	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾳ)	2225	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῃ)	4415	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὧ)	492	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἤ)	1051	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾗ)	213	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Ε)	1473	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὡ)	2302	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὄ)	2095	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Φ)	669	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Γ)	1082	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Α)	4594	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Τ)	226	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἀ)	414	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἂ)	612	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾠ)	310	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἣ)	486	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἱ)	12117	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾐ)	86	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἅ)	925	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἵ)	1088	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾔ)	90	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἠ)	968	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἧ)	250	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Ζ)	336	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἷ)	662	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῥ)	1351	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Κ)	559	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἥ)	710	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾷ)	396	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾤ)	51	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Ν)	815	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Μ)	2351	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Λ)	772	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Σ)	3235	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Ι)	8430	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Θ)	295	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὼ)	2071	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Χ)	823	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἴ)	2710	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὢ)	43	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὖ)	469	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾖ)	108	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾧ)	186	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὠ)	342	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Ρ)	601	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ῥ)	36	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Δ)	1651	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Β)	1646	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Ο)	407	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Π)	172	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Ω)	160	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἓ)	173	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῄ)	94	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῑ)	215	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἁ)	1807	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἳ)	193	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὔ)	380	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ϊ)	209	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἆ)	32	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὦ)	217	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ἢ)	917	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ὓ)	240	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Η)	371	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἐ)	32	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾅ)	107	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ΐ)	30	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἡ)	22	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (E)	3821	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (x)	1231	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (o)	11569	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (u)	8162	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾄ)	58	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἰ)	294	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (L)	1064	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (v)	1934	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (c)	9787	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (N)	1820	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (b)	6113	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (r)	10807	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾆ)	14	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (D)	1485	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (y)	1000	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (J)	4677	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (h)	9667	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἄ)	42	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (R)	90	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (I)	12590	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (S)	3739	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (l)	9286	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾑ)	21	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ῒ)	2	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (K)	1690	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (C)	1862	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	General Punctuation : (‐)	24	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (z)	1621	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ΰ)	15	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ὑ)	2	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (M)	2427	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἑ)	22	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἕ)	14	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἁ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ὀ)	2	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (ᾴ)	5	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (Ξ)	5	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek Extended : (Ἱ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Greek and Coptic : (ϋ)	3	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (V)	505	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (P)	4113	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (f)	561	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (W)	462	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (A)	157	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (O)	681	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (k)	1510	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (Z)	289	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (p)	133	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source(-)	Basic Latin : (B)	191	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (0)	96348	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (1)	32811	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (\t)	91288	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (G)	2186	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (E)	9739	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (N)	3643	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἐ)	47389	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ν)	170786	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : ( )	450285	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἀ)	20382	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ρ)	80985	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (χ)	14355	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῇ)	5169	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (π)	69917	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ο)	149200	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ί)	30052	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (η)	31328	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (σ)	92290	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ε)	113566	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὁ)	8222	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (θ)	31933	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὸ)	27128	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ς)	87963	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (τ)	161595	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὐ)	30238	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (α)	209296	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (κ)	103696	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὶ)	57019	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὴ)	12006	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (γ)	29413	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῆ)	14019	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (\n)	22821	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (2)	24237	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἡ)	7569	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (δ)	35256	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὲ)	5086	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἦ)	1413	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ό)	18544	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ύ)	19192	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ά)	21956	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ω)	30187	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (β)	17216	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (υ)	54341	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῦ)	24947	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (μ)	58055	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (φ)	13462	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (έ)	25664	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὕ)	1892	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (3)	13398	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἶ)	4879	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ή)	15101	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῶ)	18907	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (4)	10257	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὅ)	4890	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ι)	86281	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (λ)	57470	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ώ)	6020	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὰ)	14180	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (5)	6667	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἑ)	2363	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (6)	7187	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῳ)	4297	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἔ)	9005	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ζ)	3639	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (7)	5696	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὃ)	1163	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὑ)	5394	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (8)	6065	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (9)	7674	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἰ)	12575	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὀ)	2726	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ξ)	9036	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὤ)	248	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῖ)	14628	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	General Punctuation : (’)	3636	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὗ)	1241	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῷ)	8850	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὺ)	8013	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὥ)	412	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἄ)	3445	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ψ)	4852	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾶ)	3524	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῴ)	265	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἃ)	470	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἕ)	2001	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾳ)	1658	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῃ)	3551	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὧ)	393	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἤ)	813	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾗ)	198	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Ε)	1314	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὡ)	1730	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὄ)	1724	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Φ)	572	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Γ)	979	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Α)	4215	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Τ)	109	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (Ἀ)	204	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἂ)	523	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾠ)	252	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἣ)	418	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἱ)	10212	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾐ)	62	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἅ)	739	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἵ)	829	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾔ)	72	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἠ)	748	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἧ)	200	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Ζ)	293	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἷ)	545	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῥ)	1160	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Κ)	460	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἥ)	610	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾷ)	311	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾤ)	40	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Ν)	661	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Μ)	2108	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Λ)	675	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Σ)	2876	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Ι)	7086	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Θ)	271	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὼ)	1737	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Χ)	748	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἴ)	2364	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὢ)	29	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὖ)	308	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾖ)	96	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾧ)	155	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὠ)	248	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Ρ)	547	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (Ῥ)	5	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Δ)	1458	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Β)	1426	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Ο)	314	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Π)	77	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Ω)	152	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἓ)	162	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῄ)	58	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῑ)	118	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἁ)	1369	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἳ)	151	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὔ)	236	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ϊ)	171	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἆ)	23	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὦ)	155	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ἢ)	761	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ὓ)	210	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Η)	350	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (Ἐ)	10	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾅ)	70	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (()	63	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (S)	6400	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (h)	126	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (e)	63	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (o)	63	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (l)	63	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : ())	63	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ΐ)	18	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (Ἡ)	7	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (X)	1163	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (O)	4368	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾄ)	55	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (Ἰ)	241	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (L)	1181	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (V)	860	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (U)	2331	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (M)	1743	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾆ)	12	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (D)	1914	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (J)	3748	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (Ἄ)	15	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (R)	2554	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (T)	249	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (A)	6067	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾑ)	16	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ῒ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (K)	1474	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (I)	2869	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (C)	2510	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (H)	2480	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	General Punctuation : (‐)	22	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (Z)	1811	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (B)	1146	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (Ἕ)	2	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Basic Latin : (P)	3404	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (ΰ)	9	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (ᾴ)	3	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek Extended : (Ἑ)	9	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Aionian(+)	Greek and Coptic : (Ξ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : ([)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : ( )	636029	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (T)	266	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (e)	26623	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (s)	25986	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (t)	3493	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (a)	19684	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (m)	10424	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (n)	7852	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (1)	26338	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (H)	320	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (d)	3876	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (i)	15766	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (g)	2590	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (])	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (\n)	31500	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (G)	1590	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (0)	6609	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (:)	31499	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἐ)	58084	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ν)	220233	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἀ)	26130	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ρ)	101998	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (χ)	18716	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῇ)	6309	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (π)	88992	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ο)	188040	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ί)	39005	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (η)	39547	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (σ)	115545	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ε)	144004	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὁ)	9984	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (θ)	40259	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὸ)	33364	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ς)	112361	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (τ)	203188	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὐ)	37740	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (α)	260644	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (κ)	127195	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὶ)	69716	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὴ)	15293	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (γ)	37486	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῆ)	17345	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (2)	18057	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἡ)	9601	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (δ)	45504	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὲ)	6929	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἦ)	1758	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ό)	23960	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ύ)	23458	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ά)	27850	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ω)	37772	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (β)	21302	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (υ)	66807	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῦ)	30718	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (μ)	73820	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (φ)	17396	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (έ)	32350	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὕ)	2309	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (3)	12621	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἶ)	5576	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ή)	18671	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῶ)	24058	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (4)	9511	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὅ)	5946	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ι)	108895	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (λ)	72396	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ώ)	7639	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὰ)	18357	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (5)	7139	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἑ)	2952	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (6)	6504	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῳ)	5221	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἔ)	11153	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ζ)	4724	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (7)	6135	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὃ)	1360	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὑ)	6899	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (8)	6107	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (9)	5427	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἰ)	15625	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὀ)	3390	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ξ)	11423	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὤ)	291	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῖ)	18672	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	General Punctuation : (’)	4597	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὗ)	1443	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῷ)	10555	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὺ)	10010	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὥ)	534	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἄ)	4289	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ψ)	6136	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾶ)	4423	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῴ)	339	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἃ)	555	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἕ)	2389	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾳ)	2225	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῃ)	4415	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὧ)	492	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἤ)	1051	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾗ)	213	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ε)	1473	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὡ)	2302	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὄ)	2095	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Φ)	669	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Γ)	1082	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Α)	4594	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Τ)	226	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἀ)	414	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἂ)	612	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾠ)	310	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἣ)	486	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἱ)	12117	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾐ)	86	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἅ)	925	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἵ)	1088	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾔ)	90	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἠ)	968	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἧ)	250	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ζ)	336	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἷ)	662	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῥ)	1351	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Κ)	559	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἥ)	710	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾷ)	396	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾤ)	51	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ν)	815	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Μ)	2351	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Λ)	772	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Σ)	3235	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ι)	8430	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Θ)	295	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὼ)	2071	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Χ)	823	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἴ)	2710	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὢ)	43	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὖ)	469	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾖ)	108	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾧ)	186	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὠ)	342	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ρ)	601	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ῥ)	36	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Δ)	1651	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Β)	1646	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ο)	407	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Π)	172	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ω)	160	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἓ)	173	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῄ)	94	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῑ)	215	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἁ)	1807	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἳ)	193	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὔ)	380	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ϊ)	209	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἆ)	32	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὦ)	217	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ἢ)	917	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὓ)	240	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὂ)	7	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Η)	371	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἐ)	32	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ὅ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Υ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾅ)	107	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ΐ)	30	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ψ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἡ)	22	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (E)	3821	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (x)	1231	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (o)	11569	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (u)	8162	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾄ)	58	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἰ)	294	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (L)	1064	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (v)	1934	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (c)	9787	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (N)	1820	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (b)	6113	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (r)	10807	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῢ)	4	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾆ)	14	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (D)	1485	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (y)	1000	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (J)	4677	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (h)	9667	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (#)	23	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἄ)	42	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ὣ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (R)	90	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (I)	12590	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (S)	3739	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (l)	9286	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾑ)	21	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ῒ)	2	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾀ)	13	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (K)	1690	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (C)	1862	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	General Punctuation : (‐)	24	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (z)	1621	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ΰ)	15	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ὑ)	2	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (M)	2427	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἑ)	22	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἕ)	14	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἁ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ὀ)	2	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (ᾴ)	5	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ξ)	5	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἱ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (ϋ)	3	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (V)	505	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (P)	4113	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek and Coptic : (Ϝ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (f)	561	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ὠ)	2	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (W)	462	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἠ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (A)	157	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (O)	681	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (k)	1510	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (Z)	289	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (p)	133	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Greek Extended : (Ἆ)	1	NOTICE
+Greek---Greek-LXX-Septuagint	UNICODE	Source	Basic Latin : (B)	191	NOTICE
+
+# VERSIFICATION
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	001-GEN-031-051	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	001-GEN-035-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-025-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-028-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-028-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-028-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-028-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-028-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-028-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-032-009	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-035-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-035-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-035-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-035-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-037-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-037-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-037-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-037-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-037-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-037-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-037-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-037-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-038-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-038-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-038-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-038-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-039-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-040-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-040-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-040-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-040-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-040-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	002-EXO-040-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	004-NUM-006-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-006-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-008-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-008-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-008-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-008-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-008-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-008-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-008-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-008-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-010-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-010-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-013-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-020-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-020-005	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	006-JOS-020-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	007-JDG-011-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-013-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-050	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-055	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-056	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-057	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-017-058	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-002	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-003	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-005	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-018-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	009-1SA-023-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-003-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-004-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-004-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-004-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-004-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-004-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-005-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-006-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-006-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-006-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-006-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-006-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-006-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-006-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-007-051	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-008-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-008-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-009-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-011-003	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-011-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-011-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-011-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-012-002	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-012-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-013-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-002	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-003	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-005	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-009	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-014-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-015-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-015-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-022-046	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-022-047	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-022-048	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	011-1KI-022-049	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-001-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	013-1CH-016-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	014-2CH-027-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-003-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-004-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-011-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-012-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-012-005	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	016-NEH-012-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	017-EST-004-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	017-EST-009-005	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	017-EST-009-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	018-JOB-023-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	019-PSA-116-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-004-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-008-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-011-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-015-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-016-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-016-003	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-016-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-016-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-018-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-018-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-019-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-019-002	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-020-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-021-005	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-022-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	020-PRO-023-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	023-ISA-002-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	023-ISA-056-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-002-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-007-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-007-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-008-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-008-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-010-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-010-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-010-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-010-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-011-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-017-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-017-002	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-017-003	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-017-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-025-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-026-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-009	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-029-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-030-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-002	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-003	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-005	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-009	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-032-044	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-033-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-033-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-034-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-034-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-034-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-034-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-034-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-035-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-035-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-036-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-036-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-036-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-036-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-036-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-037-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-037-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-037-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-040-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-040-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-040-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-042-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-042-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-042-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-044-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-004	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-005	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-009	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-046-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-044	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-045	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-046	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-048-047	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-049-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-044	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-045	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-050-046	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-044	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-045	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-046	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-047	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-048	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-049	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-050	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-051	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-052	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-053	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-054	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-055	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-056	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-057	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-058	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-059	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-060	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-061	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-062	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-063	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-051-064	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-052-002	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-052-003	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-052-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-052-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-052-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	024-JER-052-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	025-LAM-003-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	025-LAM-003-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	025-LAM-003-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	025-LAM-003-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	026-EZE-001-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	026-EZE-010-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	026-EZE-027-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	026-EZE-032-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	026-EZE-033-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	026-EZE-040-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-004-001	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-004-002	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-004-003	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-004-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-004-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-004-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-004-009	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-004-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	missing	027-DAN-005-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-026-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-026-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-026-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-044	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-045	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-027-046	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-044	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-049	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-050	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-051	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-052	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-053	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-054	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-055	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-056	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-057	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-058	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-059	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-060	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-061	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-062	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-063	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-028-064	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-030-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-031-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-031-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-031-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-031-044	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-037-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-037-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-038-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-033	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-034	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-035	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-036	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-037	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-038	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-039	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-040	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-041	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-042	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-043	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-039-044	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-041-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-041-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-041-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-041-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-029	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-030	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-031	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-043-032	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-006	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-007	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-009	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-017	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-018	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-019	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-020	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-021	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-022	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-023	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-024	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-025	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-026	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-027	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-045-028	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-008	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-009	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-010	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-011	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-012	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-013	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-014	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-015	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Aionian	extra	024-JER-047-016	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Summary	missing	501	WARN
+Greek---Greek-LXX-Septuagint	VERSIFICATION	Summary	extra	178	WARN
+
+# ENCLOSURES
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Source	()	0 / 0	NOTICE
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Source	[]	1 / 1	NOTICE
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Aionian	()	63 / 63	NOTICE
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Greek---Greek-LXX-Septuagint	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(#)	23/23	WARN
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Greek---Greek-LXX-Septuagint	UNEXPECTED	Source/Aionian	Summary	23/23	WARN
+
+# NUMERALS
+Greek---Greek-LXX-Septuagint	NUMERALS	Source	count	0	NOTICE
+Greek---Greek-LXX-Septuagint	NUMERALS	Aionian	count	0	NOTICE
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

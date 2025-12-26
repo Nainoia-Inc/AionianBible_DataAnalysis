@@ -1,0 +1,566 @@
+# File Name: Holy-Bible---Holy-Bible---Italian---Italian-Riveduta-Bible---Analysis.txt
+# File Size: 77524       
+# File Date: 12/13/2025 05:40:51
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Riveduta Italiano Bibbia
+# Bible Name English: Riveduta Italian Bible 1927
+# Bible Language: Italiano
+# Bible Language English: Italian
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Giovanni Luzzi
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=ita1927
+# Bible Source Year: 1927
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Italian---Italian-Riveduta-Bible	ENCODING	Source	Holy-Bible---Italian---Italian-Riveduta-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Italian---Italian-Riveduta-Bible	ENCODING	Aionian	Holy-Bible---Italian---Italian-Riveduta-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Italian---Italian-Riveduta-Bible	BYTES	Source	bytes / chars	4477192 / 4349502 (multi-byte)	NOTICE
+Italian---Italian-Riveduta-Bible	BYTES	Aionian	bytes / chars	4689462 / 4561583 (multi-byte)	NOTICE
+Italian---Italian-Riveduta-Bible	BYTES	SourceClean	bytes / chars	4476379 / 4348689 (multi-byte)	NOTICE
+Italian---Italian-Riveduta-Bible	BYTES	AionianClean	bytes / chars	4685996 / 4558118 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Italian---Italian-Riveduta-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Italian---Italian-Riveduta-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Italian---Italian-Riveduta-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Italian---Italian-Riveduta-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Italian---Italian-Riveduta-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Italian---Italian-Riveduta-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Italian---Italian-Riveduta-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Italian---Italian-Riveduta-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Italian---Italian-Riveduta-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Italian---Italian-Riveduta-Bible	UNICODE	Summary	(-)Orginal	46	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Summary	(+)Aionian	50	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (G)	9081	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : ( )	733511	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (1)	30669	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (:)	40155	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (e)	370798	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (l)	213054	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (p)	73864	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (r)	202956	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (i)	339315	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (n)	203706	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (c)	127368	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (o)	309367	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (d)	128772	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (a)	320593	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (t)	185865	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (.)	25671	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31102	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (2)	21856	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (m)	74840	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (u)	107092	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (,)	64434	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (b)	24552	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (s)	152123	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (g)	59042	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (3)	12313	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (S)	13153	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (4)	9248	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (h)	43873	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (5)	7088	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (C)	8273	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (6)	6490	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (P)	8466	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (7)	5943	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (8)	5789	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (9)	5671	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (L)	5577	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (0)	5329	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (H)	5700	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (k)	933	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (A)	14864	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (M)	8302	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (T)	4666	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (-)	853	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (()	371	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : ())	371	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source(-)	Basic Latin : (y)	2	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130596	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42445	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	9087	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	370892	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	213120	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	671635	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	73862	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	202967	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	339558	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	203907	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	127370	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	309506	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	128788	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	320786	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	185862	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	25597	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31090	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	74847	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	107094	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	64443	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	24562	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	152236	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	59255	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	9055	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	13217	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	44002	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	8270	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10734	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	8471	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	5582	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	5488	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	934	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	14873	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	8300	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	4668	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	625	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (()	480	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : ())	480	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	16	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (G)	9081	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (E)	29771	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (N)	6096	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : ( )	733511	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (1)	30669	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (:)	40155	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (e)	370798	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (l)	213054	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (p)	73864	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (r)	202956	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (i)	339315	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (n)	203706	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (c)	127368	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (o)	309367	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (I)	11369	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (d)	128772	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Latin-1 Supplement: (ò)	9313	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (a)	320593	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (t)	185865	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (.)	25671	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (\n)	31102	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (2)	21856	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (f)	36383	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (m)	74840	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (v)	52298	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (u)	107092	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (,)	64434	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (b)	24552	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	General Punctuation : (’)	33992	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (s)	152123	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (D)	7552	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (g)	59042	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (q)	17213	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (3)	12313	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	General Punctuation : (“)	3978	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (S)	13153	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (!)	2831	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	General Punctuation : (”)	3935	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (4)	9248	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (h)	43873	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (;)	13931	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (5)	7088	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (C)	8273	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Latin-1 Supplement: (ì)	3412	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (6)	6490	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (P)	8466	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (7)	5943	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (8)	5789	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (9)	5671	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (L)	5577	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (0)	5329	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Latin-1 Supplement: (é)	7225	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (z)	19426	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (F)	1881	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Latin-1 Supplement: (à)	12027	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (Q)	1510	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Latin-1 Supplement: (è)	8512	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (H)	5700	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (k)	933	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (A)	14864	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (M)	8302	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (O)	8871	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Latin-1 Supplement: (ù)	3250	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (?)	3201	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (T)	4666	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (U)	3951	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (j)	107	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (Z)	2176	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (J)	6209	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (-)	853	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (K)	3142	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (V)	2108	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (B)	3472	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (R)	5202	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (()	371	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : ())	371	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	General Punctuation : (…)	70	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Latin-1 Supplement: (È)	1	NOTICE
+Italian---Italian-Riveduta-Bible	UNICODE	Source	Basic Latin : (y)	2	NOTICE
+
+# VERSIFICATION
+Italian---Italian-Riveduta-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Italian---Italian-Riveduta-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	()	371 / 371	NOTICE
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	()	480 / 480	NOTICE
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (Prima vi abitavano gli Emim: popolo grande, numeroso, alto di statura come gli Anakim.	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 Anche Seir era prima abitata dagli Horei; ma i figliuoli di Esaù li cacciarono, li distrussero e si stabilirono in luogo loro, come ha fatto Israele nel paese che possiede e che l’Eterno gli ha dato).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Anche questo paese era reputato paese di Refaim: prima vi abitavano dei Refaim, e gli Ammoniti li chiamavano Zamzummim:	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 E anche gli Avvei, che dimoravano in villaggi fino a Gaza, furon distrutti dai Caftorei, usciti da Caftor, i quali si stabilirono nel luogo loro).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (Or i figliuoli d’Israele partirono da Beeroth-Benè-Jaakan per Mosera. Quivi morì Aaronne, e quivi fu sepolto; ed Eleazar, suo figliuolo, divenne sacerdote al posto di lui.	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 Perciò Levi non ha parte né eredità coi suoi fratelli; l’Eterno è la sua eredità, come gli ha detto l’Eterno, l’Iddio tuo).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	JOS 4:1 Or quando tutta la nazione ebbe finito di passare il Giordano (l’Eterno avea parlato a Giosuè dicendo:	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	JOS 4:3 e date loro quest’ordine: Pigliate di qui, di mezzo al Giordano, dal luogo dove i sacerdoti sono stati a piè fermo, dodici pietre, portatele con voi di là dal fiume, e collocatele nel luogo dove accamperete stanotte),	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	1KI 10:11 (La flotta di Hiram che portava oro da Ofir, portava anche da Ofir del legno di sandalo in grandissima quantità, e delle pietre preziose,	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	1KI 10:12 e di questo legno di sandalo il re fece delle balaustrate per la casa dell’Eterno e per la casa reale, delle cetre e de’ saltèri per i cantori. Di questo legno di sandalo non ne fu più portato, e non se n’è più visto fino al dì d’oggi).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	2CH 9:10 (I servi di Huram e i servi di Salomone che portavano oro da Ofir, portavano anche del legno di sandalo e delle pietre preziose;	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	2CH 9:11 e di questo legno di sandalo il re fece delle scale per la casa dell’Eterno e per la casa reale, delle cetre e del saltèri per i cantori. Del legno come questo non se n’era mai visto prima nel paese di Giuda).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	2CO 12:3 E so che quel tale (se fu col corpo o senza il corpo non so;	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	2CO 12:4 Iddio lo sa) fu rapito in paradiso, e udì parole ineffabili che non è lecito all’uomo di proferire.	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	EPH 3:2 (Poiché senza dubbio avete udito di quale grazia Iddio m’abbia fatto dispensatore per voi;	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	EPH 3:13 Perciò io vi chieggo che non veniate meno nell’animo a motivo delle tribolazioni ch’io patisco per voi, poiché esse sono la vostra gloria).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(1/0)	HEB 7:20 E in quanto ciò non è avvenuto senza giuramento (poiché quelli sono stati fatti sacerdoti senza giuramento,	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Source	(0/1)	HEB 7:21 ma egli lo è con giuramento, per opera di Colui che ha detto: Il Signore l’ha giurato e non si pentirà: tu sei sacerdote in eterno),	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Prima vi abitavano gli Emim: popolo grande, numeroso, alto di statura come gli Anakim.	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Anche Seir era prima abitata dagli Horei; ma i figliuoli di Esaù li cacciarono, li distrussero e si stabilirono in luogo loro, come ha fatto Israele nel paese che possiede e che l’Eterno gli ha dato).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Anche questo paese era reputato paese di Refaim: prima vi abitavano dei Refaim, e gli Ammoniti li chiamavano Zamzummim:	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 E anche gli Avvei, che dimoravano in villaggi fino a Gaza, furon distrutti dai Caftorei, usciti da Caftor, i quali si stabilirono nel luogo loro).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Or i figliuoli d’Israele partirono da Beeroth-Benè-Jaakan per Mosera. Quivi morì Aaronne, e quivi fu sepolto; ed Eleazar, suo figliuolo, divenne sacerdote al posto di lui.	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Perciò Levi non ha parte né eredità coi suoi fratelli; l’Eterno è la sua eredità, come gli ha detto l’Eterno, l’Iddio tuo).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	006 JOS 004 001 Or quando tutta la nazione ebbe finito di passare il Giordano (l’Eterno avea parlato a Giosuè dicendo:	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(0/1)	006 JOS 004 003 e date loro quest’ordine: Pigliate di qui, di mezzo al Giordano, dal luogo dove i sacerdoti sono stati a piè fermo, dodici pietre, portatele con voi di là dal fiume, e collocatele nel luogo dove accamperete stanotte),	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (La flotta di Hiram che portava oro da Ofir, portava anche da Ofir del legno di sandalo in grandissima quantità, e delle pietre preziose,	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 e di questo legno di sandalo il re fece delle balaustrate per la casa dell’Eterno e per la casa reale, delle cetre e de’ saltèri per i cantori. Di questo legno di sandalo non ne fu più portato, e non se n’è più visto fino al dì d’oggi).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (I servi di Huram e i servi di Salomone che portavano oro da Ofir, portavano anche del legno di sandalo e delle pietre preziose;	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 e di questo legno di sandalo il re fece delle scale per la casa dell’Eterno e per la casa reale, delle cetre e del saltèri per i cantori. Del legno come questo non se n’era mai visto prima nel paese di Giuda).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	047 2CO 012 003 E so che quel tale (se fu col corpo o senza il corpo non so;	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(0/1)	047 2CO 012 004 Iddio lo sa) fu rapito in paradiso, e udì parole ineffabili che non è lecito all’uomo di proferire.	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 002 (Poiché senza dubbio avete udito di quale grazia Iddio m’abbia fatto dispensatore per voi;	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 013 Perciò io vi chieggo che non veniate meno nell’animo a motivo delle tribolazioni ch’io patisco per voi, poiché esse sono la vostra gloria).	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 E in quanto ciò non è avvenuto senza giuramento (poiché quelli sono stati fatti sacerdoti senza giuramento,	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 ma egli lo è con giuramento, per opera di Colui che ha detto: Il Signore l’ha giurato e non si pentirà: tu sei sacerdote in eterno), (aiōn g165)	WARN
+Italian---Italian-Riveduta-Bible	ENCLOSURES	Summary	lines	18 / 18	NOTICE
+
+# UNEXPECTED
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Italian---Italian-Riveduta-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	GEN 26:35 (H26-34) Esse furon cagione d’amarezza d’animo a Isacco ed a Rebecca.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	1SA 20:42 E Gionathan disse a Davide: “Va’ in pace, ora che abbiam fatto ambedue questo giuramento nel nome dell’Eterno: L’Eterno sia testimonio fra me e te e fra la mia progenie e la progenie tua, in perpetuo”. (H20-43) Davide si levò e se ne andò, e Gionathan tornò in città.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	1SA 23:29 (H24-1) Poi Davide si partì di là e si stabilì nei luoghi forti di En-Ghedi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	1SA 24:1 (H24-2) E quando Saul fu tornato dall’inseguire i Filistei, gli vennero a dire: “Ecco, Davide è nel deserto di En-Ghedi”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	1SA 24:2 (H24-3) Allora Saul prese tremila uomini scelti fra tutto Israele, e andò in traccia di Davide e della sua gente fin sulle rocce delle capre salvatiche;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	1SA 24:3 (H24-4) e giunse ai parchi di pecore ch’eran presso la via; quivi era una spelonca, nella quale Saul entrò per fare i suoi bisogni. Or Davide e la sua gente se ne stavano in fondo alla spelonca.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	1SA 24:4 (H24-5) La gente di Davide gli disse: “Ecco il giorno nel quale l’Eterno ti dice: Vedi, io ti do nelle mani il tuo nemico; fa’ di lui quello che ti piacerà”. Allora Davide s’alzò, e senza farsi scorgere tagliò il lembo del mantello di Saul.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	1SA 24:5 (H24-6) Ma dopo, il cuore gli batté, per aver egli tagliato il lembo del mantello di Saul.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	1SA 24:6 (H24-7) E Davide disse alla sua gente: “Mi guardi l’Eterno, dal commettere contro il mio signore, ch’è l’unto dell’Eterno, l’azione di mettergli le mani addosso; poich’egli è l’unto dell’Eterno”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	1SA 24:7 (H24-8) E colle sue parole Davide raffrenò la sua gente, e non le permise di gettarsi su Saul. E Saul si levò, uscì dalla spelonca e continuò il suo cammino.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	1SA 24:8 (H24-9) Poi anche Davide si levò, uscì dalla spelonca, e gridò dietro a Saul, dicendo: “O re, mio signore!” Saul si guardò dietro, e Davide s’inchinò con la faccia a terra e si prostrò.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	1SA 24:9 (H24-10) Davide disse a Saul: “Perché dài tu retta alle parole della gente che dice: Davide cerca di farti del male?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	1SA 24:10 (H24-11) Ecco in quest’ora stessa tu vedi coi tuoi propri occhi che l’Eterno t’avea dato oggi nelle mie mani in quella spelonca; qualcuno mi disse di ucciderti, ma io t’ho risparmiato, e ho detto: Non metterò le mani addosso al mio signore, perch’egli è l’unto dell’Eterno.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	1SA 24:11 (H24-12) Ora guarda, padre mio, guarda qui nella mia mano il lembo del tuo mantello. Se io t’ho tagliato il lembo del mantello e non t’ho ucciso, puoi da questo veder chiaro che non v’è nella mia condotta né malvagità né ribellione, e che io non ho peccato contro di te, mentre tu mi tendi insidie per tormi la vita!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	1SA 24:12 (H24-13) L’Eterno sia giudice fra me e te, e l’Eterno mi vendichi di te; ma io non ti metterò le mani addosso.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	1SA 24:13 (H24-14) Dice il proverbio antico: Il male vien dai malvagi; io quindi non ti metterò le mani addosso.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	1SA 24:14 (H24-15) Contro chi è uscito il re d’Israele? Chi vai tu perseguitando? Un can morto, una pulce.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	1SA 24:15 (H24-16) Sia dunque arbitro l’Eterno, e giudichi fra me e te, e vegga e difenda la mia causa e mi renda giustizia, liberandomi dalle tue mani”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	1SA 24:16 (H24-17) Quando Davide ebbe finito di dire queste parole a Saul, Saul disse: “E’ questa la tua voce, figliuol mio Davide?” E Saul alzò la voce e pianse.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	1SA 24:17 (H24-18) E disse a Davide: “Tu sei più giusto di me, poiché tu m’hai reso bene per male, mentre io t’ho reso male per bene.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	1SA 24:18 (H24-19) Tu hai mostrato oggi la bontà con la quale ti conduci verso di me; poiché l’Eterno m’avea dato nelle tue mani, e tu non m’hai ucciso.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	1SA 24:19 (H24-20) Se uno incontra il suo nemico, lo lascia egli andarsene in pace? Ti renda dunque l’Eterno il contraccambio del bene che m’hai fatto quest’oggi!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	1SA 24:20 (H24-21) Ora, ecco, io so che per certo tu regnerai, e che il regno d’Israele rimarrà stabile nelle tue mani.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	1SA 24:21 (H24-22) Or dunque giurami nel nome dell’Eterno che non distruggerai la mia progenie dopo di me, e che non estirperai il mio nome dalla casa di mio padre”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	1SA 24:22 (H24-23) E Davide lo giurò a Saul. Poi Saul se ne andò a casa sua, e Davide e la sua gente risaliron al loro forte rifugio.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	2SA 20:26 (H20-25) òe anche Ira di Jair era ministro di stato di Davide.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	1KI 22:43 Egli camminò in tutto per le vie di Asa suo padre, e non se ne allontanò, facendo ciò ch’è giusto agli occhi dell’Eterno. (H22-44) Nondimeno gli alti luoghi non scomparvero; il popolo offriva ancora sacrifizi e profumi sugli alti luoghi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	1KI 22:44 (H22-45) E Giosafat visse in pace col re d’Israele.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	1KI 22:45 (H22-46) Or il resto delle azioni di Giosafat, le prodezze che fece e le sue guerre son cose scritte nel libro delle Cronache dei re di Giuda.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	1KI 22:46 (H22-47) Egli fece sparire dal paese gli avanzi degli uomini che si prostituivano, che v’eran rimasti dal tempo di Asa suo padre.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	1KI 22:47 (H22-48) Or a quel tempo non v’era re in Edom; un governatore fungeva da re.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	1KI 22:48 (H22-49) Giosafat costruì delle navi di Tarsis per andare a Ofir in cerca d’oro; ma poi non andò, perché le navi naufragarono a Etsion-Gheber.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	1KI 22:49 (H22-50) Allora Achazia, figliuolo d’Achab, disse a Giosafat: “Lascia che i miei servi vadano coi servi tuoi sulle navi!” Ma Giosafat non volle.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	1KI 22:50 (H22-51) E Giosafat si addormentò coi suoi padri, e con essi fu sepolto nella città di Davide, suo padre; e Jehoram, suo figliuolo, regnò in luogo suo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	1KI 22:51 (H22-52) Achazia, figliuolo di Achab, cominciò a regnare sopra Israele a Samaria l’anno diciassettesimo di Giosafat, re di Giuda, e regnò due anni sopra Israele.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	1KI 22:52 (H22-53) E fece ciò ch’è male agli occhi dell’Eterno, e camminò per la via di suo padre, per la via di sua madre, e per la via di Geroboamo, figliuolo di Nebat che avea fatto peccare Israele.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	1KI 22:53 (H22-54) E servì a Baal, si prostrò dinanzi a lui, e provocò a sdegno l’Eterno, l’Iddio d’Israele, esattamente come avea fatto suo padre.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	2KI 21:26 (H21-25) Egli fu sepolto nel suo sepolcro, nel giardino di Uzza; e Giosia, suo figliuolo, regnò in luogo suo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	1CH 8:40 (H8-39) I figliuoli di Ulam furono uomini forti e valorosi, tiratori d’arco; ebbero molti figliuoli e nipoti: centocinquanta. Tutti questi furon discendenti di Beniamino.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	2CH 14:1 (H13-23) E Abija s’addormentò coi suoi padri, e fu sepolto nella città di Davide; e Asa, suo figliuolo, regnò in luogo suo; e al suo tempo il paese ebbe requie per dieci anni.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	2CH 14:2 (H14-1) Asa fece ciò ch’è buono e retto agli occhi dell’Eterno, del suo Dio.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	2CH 14:3 (H14-2) Tolse via gli altari degli dèi stranieri, e gli alti luoghi; spezzò le statue, abbatté gl’idoli d’Astarte;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	2CH 14:4 (H14-3) e ordinò a Giuda di cercare l’Eterno, l’Iddio de’ suoi padri, e di mettere ad effetto la sua legge ed i suoi comandamenti.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	2CH 14:5 (H14-4) Tolse anche via da tutte le città di Giuda gli alti luoghi e le colonne solari; e, sotto di lui, il regno ebbe requie.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	2CH 14:6 (H14-5) Egli costruì delle città fortificate in Giuda, giacché il paese era tranquillo, e in quegli anni non v’era alcuna guerra contro di lui, perché l’Eterno gli avea data requie.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	2CH 14:7 (H14-6) Egli diceva a quei di Giuda: “Costruiamo queste città, e circondiamole di mura, di torri, di porte e di sbarre; il paese è ancora a nostra disposizione, perché abbiamo cercato l’Eterno, il nostro Dio; noi l’abbiamo cercato, ed egli ci ha dato riposo d’ogni intorno”. Essi dunque si misero a costruire, e prosperarono.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	2CH 14:8 (H14-7) Asa aveva un esercito di trecentomila uomini di Giuda che portavano scudo e lancia, e di duecento ottantamila di Beniamino che portavano scudo e tiravan d’arco, tutti uomini forti e valorosi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	2CH 14:9 (H14-8) Zerah, l’Etiopo, uscì contro di loro con un esercito d’un milione d’uomini e trecento carri, e si avanzò fino a Maresha.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	2CH 14:10 (H14-9) Asa gli mosse contro, e si disposero in ordine di battaglia nella valle di Tsefatha presso Maresha.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	2CH 14:11 (H14-10) Allora Asa invocò l’Eterno, il suo Dio, disse: “O Eterno, per te non v’è differenza tra il dar soccorso a chi è in gran numero, e il darlo a chi è senza forza; soccorrici, o Eterno, o nostro Dio! poiché su te noi ci appoggiamo, e nel tuo nome siam venuti contro questa moltitudine. Tu sei l’Eterno, il nostro Dio; non la vinca l’uomo a petto di te!”	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	2CH 14:12 (H14-11) E l’Eterno sconfisse gli Etiopi davanti ad Asa e davanti a Giuda, e gli Etiopi si diedero alla fuga.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	2CH 14:13 (H14-12) Ed Asa e la gente ch’era con lui li inseguirono fino a Gherar; e degli Etiopi ne caddero tanti, che non ne rimase più uno di vivo; poiché furono rotti davanti all’Eterno e davanti al suo esercito. E Asa ed i suoi portaron via un immenso bottino;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	2CH 14:14 (H14-13) e batteron tutte le città nei dintorni di Gherar, perché lo spavento dell’Eterno s’era impadronito d’esse; e quelli saccheggiarono tutte le città; perché v’era molto bottino;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	2CH 14:15 (H14-14) fecero pure man bassa sui chiusi delle mandre, e menaron via gran numero di pecore e di cammelli. Poi tornarono a Gerusalemme.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	NEH 13:31 Ordinai pure il da farsi circa l’offerta delle legna ai tempi stabiliti, e circa le primizie. (H13-32) Ricordati di me, mio Dio, per farmi del bene!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	JOB 41:1 (H40-25) Prenderai tu il coccodrillo all’amo? Gli assicurerai la lingua colla corda?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	JOB 41:2 (H40-26) Gli passerai un giunco per le narici? Gli forerai le mascelle con l’uncino?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	JOB 41:3 (H40-27) Ti rivolgerà egli molte supplicazioni? Ti dirà egli delle parole dolci?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	JOB 41:4 (H40-28) Farà egli teco un patto perché tu lo prenda per sempre al tuo servizio?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	JOB 41:5 (H40-29) Scherzerai tu con lui come fosse un uccello? L’attaccherai a un filo per divertir le tue ragazze?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	JOB 41:6 (H40-30) Ne trafficheranno forse i pescatori? Lo spartiranno essi fra i negozianti?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	JOB 41:7 (H40-31) Gli coprirai tu la pelle di dardi e la testa di ramponi?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	JOB 41:8 (H40-32) Mettigli un po’ le mani addosso!… Ti ricorderai del combattimento e non ci tornerai!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	JOB 41:9 (H41-1) Ecco, fallace è la speranza di chi l’assale; basta scorgerlo e s’è atterrati.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	JOB 41:10 (H41-2) Nessuno è tanto ardito da provocarlo. E chi dunque oserà starmi a fronte?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	JOB 41:11 (H41-3) Chi mi ha anticipato alcun che perch’io glielo debba rendere? Sotto tutti i cieli, ogni cosa è mia.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	JOB 41:12 (H41-4) E non vo’ tacer delle sue membra, della sua gran forza, della bellezza della sua armatura.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	JOB 41:13 (H41-5) Chi l’ha mai spogliato della sua corazza? Chi è penetrato fra la doppia fila de’ suoi denti?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	JOB 41:14 (H41-6) Chi gli ha aperti i due battenti della gola? Intorno alla chiostra de’ suoi denti sta il terrore.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	JOB 41:15 (H41-7) Superbe son le file de’ suoi scudi, strettamente uniti come da un sigillo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	JOB 41:16 (H41-8) Uno tocca l’altro, e tra loro non passa l’aria.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	JOB 41:17 (H41-9) Sono saldati assieme, si tengono stretti, sono inseparabili.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	JOB 41:18 (H41-10) I suoi starnuti dànno sprazzi di luce; i suoi occhi son come le palpebre dell’aurora.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	JOB 41:19 (H41-11) Dalla sua bocca partono vampe, ne scappan fuori scintille di fuoco.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	JOB 41:20 (H41-12) Dalle sue narici esce un fumo, come da una pignatta che bolla o da una caldaia.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	JOB 41:21 (H41-13) L’alito suo accende i carboni, e una fiamma gli erompe dalla gola.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	JOB 41:22 (H41-14) Nel suo collo risiede la forza, dinanzi a lui salta il terrore.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	JOB 41:23 (H41-15) Compatte sono in lui le parti flosce della carne, gli stanno salde addosso, non si muovono.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	JOB 41:24 (H41-16) Il suo cuore è duro come il sasso, duro come la macina di sotto.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	JOB 41:25 (H41-17) Quando si rizza, tremano i più forti, e dalla paura son fuori di sé.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	JOB 41:26 (H41-18) Invano lo si attacca con la spada; a nulla valgon lancia, giavellotto, corazza.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	JOB 41:27 (H41-19) Il ferro è per lui come paglia; il rame, come legno tarlato.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	JOB 41:28 (H41-20) La figlia dell’arco non lo mette in fuga; le pietre della fionda si mutano per lui in stoppia.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	JOB 41:29 (H41-21) Stoppia gli par la mazza e si ride del fremer della lancia.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	JOB 41:30 (H41-22) Il suo ventre è armato di punte acute, e lascia come tracce d’erpice sul fango.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	JOB 41:31 (H41-23) Fa bollire l’abisso come una caldaia, del mare fa come un gran vaso da profumi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	JOB 41:32 (H41-24) Si lascia dietro una scia di luce; l’abisso par coperto di bianca chioma.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	JOB 41:33 (H41-25) Non v’è sulla terra chi lo domi; è stato fatto per non aver paura.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	JOB 41:34 (H41-26) Guarda in faccia tutto ciò ch’è eccelso, è re su tutte le belve più superbe”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	PSA 13:6 (H13-5) io canterò all’Eterno perché m’ha fatto del bene.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	PSA 60:1 Per il Capo de’ musici. Su “il giglio della testimonianza”. Inno di Davide da insegnare; quand’egli mosse guerra ai Siri di Mesopotamia e ai Siri di Soba e Joab tornò, e sconfisse 12.000 Idumei nella valle del Sale. O Dio, tu ci hai rigettati, ci hai dispersi, tu ti sei adirato; deh, ci ristabilisci!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	PSA 123:4 Abbi pietà di noi, o Eterno, abbi pietà di noi, perché siamo più che sazi di disprezzo. (H123-5) L’anima nostra è più che sazia dello scherno della gente agiata e del disprezzo dei superbi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	ECC 11:9 (H12-1) Rallegrati pure, o giovane, durante la tua adolescenza, e gioisca pure il cuor tuo durante i giorni della tua giovinezza; cammina pure nelle vie dove ti mena il cuore e seguendo gli sguardi degli occhi tuoi; ma sappi che, per tutte queste cose, Iddio ti chiamerà in giudizio!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	ECC 11:10 (H12-2) Bandisci dal tuo cuore la tristezza, e allontana dalla tua carne la sofferenza; poiché la giovinezza e l’aurora sono vanità.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	ECC 12:1 (H12-3) Ma ricordati del tuo Creatore nei giorni della tua giovinezza, prima che vengano i cattivi giorni e giungano gli anni dei quali dirai: “Io non ci ho più alcun piacere”;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	ECC 12:2 (H12-4) prima che il sole, la luce, la luna e le stelle s’oscurino, e le nuvole tornino dopo la pioggia:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	ECC 12:3 (H12-5) prima dell’età in cui i guardiani della casa tremano, gli uomini forti si curvano, le macinatrici si fermano perché son ridotte a poche, quelli che guardan dalle finestre si oscurano,	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	ECC 12:4 (H12-6) e i due battenti della porta si chiudono sulla strada perché diminuisce il rumore della macina; in cui l’uomo si leva al canto dell’uccello, tutte le figlie del canto s’affievoliscono,	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	ECC 12:5 (H12-7) in cui uno ha paura delle alture, ha degli spaventi mentre cammina, in cui fiorisce il mandorlo, la locusta si fa pesante, e il cappero non fa più effetto perché l’uomo se ne va alla sua dimora eterna e i piagnoni percorrono le strade;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	ECC 12:6 (H12-8) prima che il cordone d’argento si stacchi, il vaso d’oro si spezzi, la brocca si rompa sulla fonte, la ruota infranta cada nel pozzo;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	ECC 12:7 (H12-9) prima che la polvere torni alla terra com’era prima, e lo spirito torni a Dio che l’ha dato.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	ECC 12:8 (H12-10) Vanità delle vanità, dice l’Ecclesiaste, tutto è vanità.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	ECC 12:9 (H12-11) L’Ecclesiaste, oltre ad essere un savio, ha anche insegnato al popolo la scienza, e ha ponderato, scrutato e messo in ordine un gran numero di sentenze.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	ECC 12:10 (H12-12) L’Ecclesiaste s’è applicato a trovare delle parole gradevoli; esse sono state scritte con dirittura, e sono parole di verità.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	ECC 12:11 (H12-13) Le parole dei savi son come degli stimoli, e le collezioni delle sentenze sono come de’ chiodi ben piantati; esse sono date da un solo pastore.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	ECC 12:12 (H12-14) Del resto, figliuol mio, sta’ in guardia: si fanno de’ libri in numero infinito; e molto studiare è una fatica per il corpo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	ECC 12:13 (H12-15) Ascoltiamo dunque la conclusione di tutto il discorso: Temi Dio e osserva i suoi comandamenti, perché questo e il tutto dell’uomo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	ECC 12:14 (H12-16) Poiché Dio farà venire in giudizio ogni opera, tutto ciò ch’è occulto, sia bene, sia male.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	SOL 6:13 (H7-1) Torna, torna, o Sulamita, torna, torna, che ti miriamo. Perché mirate la Sulamita come una danza a due schiere?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	SOL 7:1 (H7-2) Come son belli i tuoi piedi ne’ loro calzari, o figliuola di principe! I contorni delle tue anche son come monili, opera di mano d’artefice.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	SOL 7:2 (H7-3) Il tuo seno e una tazza rotonda, dove non manca mai vino profumato. Il tuo corpo è un mucchio di grano, circondato di gigli.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	SOL 7:3 (H7-4) Le tue due mammelle paion due gemelli di gazzella.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	SOL 7:4 (H7-5) Il tuo collo è come una torre d’avorio; i tuoi occhi son come le piscine d’Heshbon presso la porta di Bath-Rabbim. Il tuo naso e come la torre del Libano, che guarda verso Damasco.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	SOL 7:5 (H7-6) Il tuo capo s’eleva come il Carmelo, e la chioma del tuo capo sembra di porpora; un re è incatenato dalle tue trecce!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	SOL 7:6 (H7-7) Quanto sei bella, quanto sei piacevole, o amor mio, in mezzo alle delizie!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	SOL 7:7 (H7-8) La tua statura è simile alla palma, e le tue mammelle a de’ grappoli d’uva.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	SOL 7:8 (H7-9) Io ho detto: “Io salirò sulla palma, e m’appiglierò ai suoi rami”. Siano le tue mammelle come grappoli di vite, il profumo del tuo fiato, come quello de’ pomi,	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	SOL 7:9 (H7-10) e la tua bocca come un vino generoso, che cola dolcemente per il mio amico, e scivola fra le labbra di quelli che dormono.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	SOL 7:10 (H7-11) Io sono del mio amico, e verso me va il suo desiderio.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	SOL 7:11 (H7-12) Vieni, amico mio, usciamo ai campi, passiam la notte ne’ villaggi!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	SOL 7:12 (H7-13) Fin dal mattino andremo nelle vigne; vedremo se la vite ha sbocciato, se il suo fiore s’apre, se i melagrani fioriscono. Quivi ti darò le mie carezze.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	SOL 7:13 (H7-14) Le mandragole mandano profumo, e sulle nostre porte stanno frutti deliziosi d’ogni sorta, nuovi e vecchi, che ho serbati per te, amico mio.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	ISA 9:1 (H8-23) Ma le tenebre non dureranno sempre per la terra ch’è ora nell’angoscia. Come ne’ tempi passati Iddio coprì d’obbrobrio il paese di Zabulon e il paese di Neftali, così nei tempi avvenire coprirà di gloria la terra vicina al mare, di là del Giordano, la Galilea de’ Gentili.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	ISA 9:2 (H9-1) Il popolo che camminava nelle tenebre, vede una gran luce; su quelli che abitavano il paese dell’ombra della morte, la luce risplende.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	ISA 9:3 (H9-2) Tu moltiplichi il popolo, tu gli largisci una gran gioia; ed egli si rallegra nel tuo cospetto come uno si rallegra al tempo della mèsse, come uno giubila quando si spartisce il bottino.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	ISA 9:4 (H9-3) Poiché il giogo che gravava su lui, il bastone che gli percoteva il dosso, la verga di chi l’opprimeva tu li spezzi, come nel giorno di Madian.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	ISA 9:5 (H9-4) Poiché ogni calzatura portata dal guerriero nella mischia, ogni mantello avvoltolato nel sangue, saran dati alle fiamme, saran divorati dal fuoco.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	ISA 9:6 (H9-5) Poiché un fanciullo ci è nato, un fanciullo ci è stato dato, e l’imperio riposerà sulle sue spalle; sarà chiamato Consigliere ammirabile, Dio potente, Padre Eterno, Principe della Pace,	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	ISA 9:7 (H9-6) per dare incremento all’impero e una pace senza fine al trono di Davide e al suo regno, per stabilirlo fermamente e sostenerlo mediante il diritto e la giustizia, da ora in perpetuo: questo farà lo zelo dell’Eterno degli eserciti.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	ISA 9:8 (H9-7) il Signore manda una parola a Giacobbe, ed essa cade sopra a Israele.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	ISA 9:9 (H9-8) Tutto il popolo ne avrà conoscenza, Efraim e gli abitanti della Samaria, che nel loro orgoglio e nella superbia del loro cuore dicono:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	ISA 9:10 (H9-9) “I mattoni son caduti, ma noi costruiremo con pietre squadrate; i sicomori sono stati tagliati, ma noi li sostituiremo con dei cedri”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	ISA 9:11 (H9-10) Per questo l’Eterno farà sorgere contro il popolo gli avversari di Retsin, ed ecciterà i suoi nemici:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	ISA 9:12 (H9-11) i Siri da oriente, i Filistei da occidente; ed essi divoreranno Israele a bocca spalancata. E, con tutto ciò, l’ira sua non si calma, e la sua mano rimane distesa.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	ISA 9:13 (H9-12) Ma il popolo non torna a colui che lo colpisce, e non cerca l’Eterno degli eserciti.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	ISA 9:14 (H9-13) Perciò l’Eterno reciderà da Israele capo e coda, palmizio e giunco, in un medesimo giorno.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	ISA 9:15 (H9-14) (L’anziano e il notabile sono il capo, e il profeta che insegna la menzogna è la coda).	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	ISA 9:16 (H9-15) Quelli che guidano questo popolo lo sviano, e quelli che si lascian guidare vanno in perdizione.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	ISA 9:17 (H9-16) Perciò l’Eterno non si compiacerà de’ giovani del popolo, né avrà compassione de’ suoi orfani e delle sue vedove; poiché tutti quanti son empi e perversi, ed ogni bocca proferisce follia. E, con tutto ciò, la sua ira non si calma, e la sua mano rimane distesa.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	ISA 9:18 (H9-17) Poiché la malvagità arde come il fuoco, che divora rovi e pruni e divampa nel folto della foresta, donde s’elevano vorticosamente colonne di fumo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	ISA 9:19 (H9-18) Per l’ira dell’Eterno degli eserciti il paese è in fiamme, e il popolo è in preda al fuoco; nessuno risparmia il fratello.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	ISA 9:20 (H9-19) Si saccheggia a destra, e si ha fame; si divora a sinistra, e non si è saziati; ognuno divora la carne del proprio braccio:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	ISA 9:21 (H9-20) Manasse divora Efraim, ed Efraim Manasse; e insieme piomban su Giuda. E, con tutto ciò, l’ira sua non si calma, e la sua mano rimane distesa.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	JER 15:21 (H15-20) E ti libererò dalla mano de’ malvagi, e ti redimerò dalla mano de’ violenti.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	EZE 20:45 (H21-1) E la parola dell’Eterno mi fu rivolta in questi termini:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	EZE 20:46 (H21-2) “Figliuol d’uomo, vòlta la faccia dal lato di mezzogiorno, rivolgi la parola al mezzogiorno, e profetizza contro la foresta della campagna meridionale,	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	EZE 20:47 (H21-3) e di’ alla foresta del mezzodì: ascolta la parola dell’Eterno! Così parla il Signore, l’Eterno: Ecco, io accendo in te un fuoco che divorerà in te ogni albero verde e ogni albero secco; la fiamma dell’incendio non si estinguerà, e tutto ciò ch’è sulla faccia del suolo ne sarà divampato, dal mezzogiorno al settentrione;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	EZE 20:48 (H21-4) e ogni carne vedrà che io, l’Eterno, son quegli che ho acceso il fuoco, che non s’estinguerà”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	EZE 20:49 (H21-5) E io dissi: “Ahimè, Signore, Eterno! Costoro dicon di me: Egli non fa che parlare in parabole”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	EZE 21:1 (H21-6) E la parola dell’Eterno mi fu rivolta in questi termini:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	EZE 21:2 (H21-7) “Figliuol d’uomo, vòlta la faccia verso Gerusalemme, e rivolgi la parola ai luoghi santi, e profetizza contro il paese d’Israele;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	EZE 21:3 (H21-8) e di’ al paese d’Israele: Così parla l’Eterno: Eccomi a te! Io trarrò la mia spada dal suo fodero, e sterminerò in mezzo a te giusti e malvagi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	EZE 21:4 (H21-9) Appunto perché voglio sterminare in mezzo a te giusti e malvagi, la mia spada uscirà dal suo fodero per colpire ogni carne dal mezzogiorno al settentrione;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	EZE 21:5 (H21-10) e ogni carne conoscerà che io, l’Eterno, ho tratto la mia spada dal suo fodero; e non vi sarà più rimessa.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	EZE 21:6 (H21-11) E tu, figliuol d’uomo, gemi! Coi lombi rotti e con dolore amaro, gemi dinanzi agli occhi loro.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	EZE 21:7 (H21-12) E quando ti chiederanno: Perché gemi? rispondi: Per la notizia che sta per giungere; ogni cuore si struggerà, tutte le mani diverran fiacche, tutti gli spiriti verranno meno, tutte le ginocchia si scioglieranno in acqua. Ecco, la cosa giunge, ed avverrà! dice il Signore, l’Eterno”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	EZE 21:8 (H21-13) E la parola dell’Eterno mi fu rivolta in questi termini:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	EZE 21:9 (H21-14) “Figliuol d’uomo, profetizza, e di’: Così parla il Signore. Di’: La spada! la spada! è aguzzata ed anche forbita:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	EZE 21:10 (H21-15) aguzzata, per fare un macello; forbita, perché folgoreggi. Ci rallegrerem noi dunque? ripetendo: “Lo scettro del mio figliuolo disprezza ogni legno”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	EZE 21:11 (H21-16) Il Signore l’ha data a forbire, perché la s’impugni; la spada è aguzza, essa è forbita, per metterla in mano di chi uccide.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	EZE 21:12 (H21-17) Grida e urla, figliuol d’uomo, poich’essa è per il mio popolo, e per tutti i principi d’Israele; essi son dati in balìa della spada col mio popolo; perciò percuotiti la coscia!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	EZE 21:13 (H21-18) Poiché la prova è stata fatta; e che dunque, se perfino lo scettro sprezzante non sarà più? dice il Signore, l’Eterno.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	EZE 21:14 (H21-19) E tu, figliuol d’uomo, profetizza, e batti le mani; la spada raddoppi, triplichi i suoi colpi, la spada che fa strage, la spada che uccide anche chi è grande, la spada che li attornia.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	EZE 21:15 (H21-20) Io ho rivolto la punta della spada contro tutte le loro porte, perché il loro cuore si strugga e cresca il numero dei caduti; sì, essa è fatta per folgoreggiare, è aguzzata per il macello.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	EZE 21:16 (H21-21) Spada! raccogliti! volgiti a destra, attenta! Volgiti a sinistra, dovunque è diretto il tuo filo!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	EZE 21:17 (H21-22) E anch’io batterò le mani, e sfogherò il mio furore! Io, l’Eterno, son quegli che ho parlato”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	EZE 21:18 (H21-23) E la parola dell’Eterno mi fu rivolta in questi termini:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	EZE 21:19 (H21-24) “E tu, figliuol d’uomo, fatti due vie, per le quali passi la spada del re di Babilonia; partano ambedue dal medesimo paese; e traccia un indicatore, tracciato al capo della strada d’una città.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	EZE 21:20 (H21-25) Fa’ una strada per la quale la spada vada a Rabba, città de’ figliuoli d’Ammon, e un’altra perché vada in Giuda, a Gerusalemme, città fortificata.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	EZE 21:21 (H21-26) Poiché il re di Babilonia sta sul bivio, in capo alle due strade, per tirare presagi: scuote le freccie, consulta gl’idoli, esamina il fegato.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	EZE 21:22 (H21-27) La sorte, ch’è nella destra, designa Gerusalemme per collocargli degli arieti, per aprir la bocca a ordinare il massacro, per alzar la voce in gridi di guerra, per collocare gli arieti contro le porte, per elevare bastioni, per costruire delle torri.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	EZE 21:23 (H21-28) Ma essi non vedono in questo che una divinazione bugiarda; essi, a cui sono stati fatti tanti giuramenti! Ma ora egli si ricorderà della loro iniquità, perché siano presi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	EZE 21:24 (H21-29) Perciò così parla il Signore, l’Eterno: Poiché avete fatto ricordare la vostra iniquità mediante le vostre manifeste trasgressioni, sì che i vostri peccati si manifestano in tutte le vostre azioni, poiché ne rievocate il ricordo, sarete presi dalla sua mano.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	EZE 21:25 (H21-30) E tu, o empio, dannato alla spada, o principe d’Israele, il cui giorno è giunto al tempo del colmo dell’iniquità;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	EZE 21:26 (H21-31) così parla il Signore, l’Eterno: La tiara sarà tolta, il diadema sarà levato; tutto sarà mutato; ciò che in basso sarà innalzato; ciò ch’è in alto sarà abbassato.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	EZE 21:27 (H21-32) Ruina! ruina! ruina! Questo farò di lei; anch’essa non sarà più, finché non venga colui a cui appartiene il giudizio, e al quale lo rimetterò.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	EZE 21:28 (H21-33) E tu, figliuol d’uomo, profetizza, e di’: Così parla il Signore, l’Eterno, riguardo ai figliuoli d’Ammon ed al loro obbrobrio; e di’: La spada, la spada è sguainata; è forbita per massacrare, per divorare, per folgoreggiare.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	EZE 21:29 (H21-34) Mentre s’hanno per te delle visioni vane, mentre s’hanno per te divinazioni bugiarde, essa ti farà cadere fra i cadaveri degli empi, il cui giorno è giunto al tempo del colmo dell’iniquità.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	EZE 21:30 (H21-35) Riponi la spada nel suo fodero! Io ti giudicherò nel luogo stesso dove fosti creata, nel paese della tua origine;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	EZE 21:31 (H21-36) e riverserò su di te la mia indignazione, soffierò contro di te nel fuoco della mia ira, e ti darò in mano d’uomini brutali, artefici di distruzione.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	EZE 21:32 (H21-37) Tu sarai pascolo al fuoco, il tuo sangue sarà in mezzo al paese; tu non sarai più ricordata, perché io, l’Eterno, son quegli che ho parlato”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	HOS 11:12 (H12-1) Efraim mi circonda di menzogne, e la casa d’Israele, di frode. Giuda pure è sempre ancora incostante di fronte a Dio, di fronte al Santo fedele.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	HOS 12:1 (H12-2) Efraim si pasce di vento e va dietro al vento d’oriente; ogni giorno moltiplica le menzogna e le violenze; fa alleanza con l’Assiria, e porta dell’olio in Egitto.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	HOS 12:2 (H12-3) L’Eterno è anche in lite con Giuda, e punirà Giacobbe per la sua condotta, gli renderà secondo le sue opere.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	HOS 12:3 (H12-4) Nel seno materno egli prese il fratello per il calcagno, e, nel suo vigore, lottò con Dio;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	HOS 12:4 (H12-5) lottò con l’angelo, e restò vincitore; egli pianse e lo supplicò. A Bethel lo trovò, e quivi egli parlò con noi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	HOS 12:5 (H12-6) Or l’Eterno è l’Iddio degli eserciti; il suo nome è l’Eterno	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	HOS 12:6 (H12-7) Tu, dunque, torna al tuo Dio, pratica la misericordia e la giustizia, e spera sempre nel tuo Dio.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	HOS 12:7 (H12-8) Efraim è un Cananeo che tiene in mano bilance false; egli ama estorcere.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	HOS 12:8 (H12-9) Efraim dice: “E’ vero, io mi sono arricchito, mi sono acquistato de’ beni; però, in tutti i frutti delle mie fatiche non si troverà alcuna mia iniquità, alcunché di peccaminoso”.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	HOS 12:9 (H12-10) Ma io sono l’Eterno, il tuo Dio, fin dal paese d’Egitto: io ti farò ancora abitare in tende, come nei giorni di solennità.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	HOS 12:10 (H12-11) Ed ho parlato hai profeti, ho moltiplicato le visioni, e per mezzo de’ profeti ha proposto parabole.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	HOS 12:11 (H12-12) Se Galaad è vanità, sarà ridotto in nulla. A Ghilgal immolano buoi; così i loro altari saran come mucchi di pietre sui solchi dei campi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	HOS 12:12 (H12-13) Giacobbe fuggì nella pianura d’Aram, e Israele servì per una moglie, e per una moglie si fe’ guardiano di greggi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	HOS 12:13 (H12-14) Mediante un profeta, l’Eterno trasse Israele fuori d’Egitto; e Israele fu custodito da un profeta.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	HOS 12:14 (H12-15) Efraim ha provocato amaramente il suo Signore; perciò questi gli farà ricadere addosso il sangue che ha versato; e farà tornare su lui i suoi obbrobri.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	AMO 3:14 (H3-13) Il giorno che io punirò Israele delle sue trasgressioni, punirò anche gli altari di Bethel; e i corni dell’altare saranno spezzati e cadranno al suolo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	AMO 3:15 (H3-14) E abbatterò le case d’inverno e le case d’estate; le case d’avorio saranno distrutte, e le grandi case spariranno, dice l’Eterno.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	JON 1:17 (H2-1) E l’Eterno fece venire un gran pesce per inghiottir Giona; e Giona fu nel ventre del pesce tre giorni e tre notti.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	JON 2:1 (H2-2) E Giona pregò l’Eterno, il suo Dio, nel ventre del pesce, e disse:	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	JON 2:2 (H2-3) Io ho gridato all’Eterno dal fondo della mia distretta, ed egli m’ha risposto; dalle viscere del soggiorno dei morti ho gridato, e tu hai udito la mia voce.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	JON 2:3 (H2-4) Tu m’hai gettato nell’abisso, nel cuore del mare; la corrente mi ha circondato e tutte le tue onde e tutti i tuoi flutti mi son passati sopra.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	JON 2:4 (H2-5) E io dicevo: Io son cacciato via lungi dal tuo sguardo! Come vedrei io ancora il tuo tempio santo?	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	JON 2:5 (H2-6) Le acque m’hanno attorniato fino all’anima; l’abisso m’ha avvolto; le alghe mi si son attorcigliate al capo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	JON 2:6 (H2-7) Io son disceso fino alle radici dei monti; la terra con le sue sbarre mi ha rinchiuso per sempre; ma tu hai fatto risalir la mia vita dalla fossa, o Eterno, Dio mio!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	JON 2:7 (H2-8) Quando l’anima mia veniva meno in me, io mi son ricordato dell’Eterno, e la mia preghiera è giunta fino a te, nel tuo tempio santo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	JON 2:8 (H2-9) Quelli che onorano le vanità bugiarde abbandonano la fonte della loro grazia;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	JON 2:9 (H2-10) ma io t’offrirò sacrifizi, con canti di lode; adempirò i voti che ho fatto. La salvezza appartiene all’Eterno.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	JON 2:10 (H2-11) E l’Eterno diè l’ordine al pesce, e il pesce vomitò Giona sull’asciutto.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	MIC 5:1 (H4-14) Ora, o figliuola di schiere, raduna le tue schiere! Ci cingono d’assedio: colpiscon con la verga la guancia del giudice d’Israele!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	MIC 5:2 (H5-1) Ma da te, o Bethlehem Efrata, piccola per essere tra i migliaia di Giuda, da te mi uscirà colui che sarà dominatore in Israele, le cui origini risalgono ai tempi antichi, ai giorni eterni.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	MIC 5:3 (H5-2) Perciò egli li darà in man dei loro nemici, fino al tempo in cui colei che deve partorire, partorirà; e il resto de’ suoi fratelli tornerà a raggiungere i figliuoli d’Israele.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	MIC 5:4 (H5-3) Egli starà là e pascerà il suo gregge colla forza dell’Eterno, colla maestà del nome dell’Eterno, del suo Dio. E quelli dimoreranno in pace, perché allora ei sarà grande fino all’estremità della terra.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	MIC 5:5 (H5-4) E sarà lui che recherà la pace. Quando l’Assiro verrà nel nostro paese, e metterà il piede nei nostri palazzi, noi faremo sorgere contro di lui sette pastori e otto principi di fra il popolo.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	MIC 5:6 (H5-5) Essi pasceranno il paese dell’Assiro con la spada, e la terra di Nimrod nelle sue proprie città; ed egli ci libererà dall’Assiro, quando questi verrà nel nostro paese, e metterà il piede nei nostri confini.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	MIC 5:7 (H5-6) Il resto di Giacobbe sarà, in mezzo a molti popoli, come una rugiada che vien dall’Eterno, come una fitta pioggia sull’erba, le quali non aspettano ordine d’uomo, e non dipendono dai figliuoli degli uomini.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	7	MIC 5:8 (H5-7) Il resto di Giacobbe sarà fra le nazioni, in mezzo a molti popoli, come un leone tra le bestie della foresta, come un leoncello fra i greggi di pecore, il quale, quando passa, calpesta e sbrana, senza che alcuno possa liberare.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	8	MIC 5:9 (H5-8) Si levi la tua mano sopra i tuoi avversari, e tutti i tuoi nemici siano sterminati!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	9	MIC 5:10 (H5-9) E in quel giorno avverrà, dice l’Eterno, che io sterminerò i tuoi cavalli in mezzo a te, e distruggerò i tuoi carri;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	0	MIC 5:11 (H5-10) sterminerò le città del tuo paese, e atterrerò tutte le tue fortezze;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	MIC 5:12 (H5-11) sterminerò dalla tua mano i sortilegi, e tu non avrai più pronosticatori;	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	MIC 5:13 (H5-12) sterminerò in mezzo a te le tue immagini scolpite e le tue statue, e tu non ti prostrerai più davanti all’opera delle tue mani.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	MIC 5:14 (H5-13) Io estirperò di mezzo a te i tuoi idoli d’Astarte, e distruggerò le tue città.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	MIC 5:15 (H5-14) E farò vendetta nella mia ira e nel mio furore delle nazioni che non avran dato ascolto.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	4	MAT 3:17 Ed ecco una voce dai cieli che disse: Questo è il mio diletto Figliuolo nel quale mi son compiaciuto. Matteo Capitolo 4	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	MAT 5:48 Voi dunque siate perfetti, com’è perfetto il Padre vostro celeste. Matteo Capitolo 6	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	MAT 20:34 Allora Gesù, mosso a pietà, toccò gli occhi loro, e in quell’istante ricuperarono la vista e lo seguirono. Matteo Capitolo 21	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	MAR 9:50 Il sale è buono; ma se il sale diventa insipido, con che gli darete sapore? (G9-51) Abbiate del sale in voi stessi e state in pace gli uni con gli altri.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	2	2CO 13:13 (G13-12) Tutti i santi vi salutano.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	3	2CO 13:14 (G13-13) La grazia del Signor Gesù Cristo e l’amore di Dio e la comunione dello Spirito Santo siano con tutti voi.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	5	3JO 1:14 Ma spero vederti tosto, e ci parleremo a voce. (G1-15) La pace sia teco. Gli amici ti salutano. Saluta gli amici ad uno ad uno.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	1	REV 13:1 (G12-18) E si fermò sulla riva del mare. (G13-1) E vidi salir dal mare una bestia che aveva dieci corna e sette teste, e sulle corna dieci diademi, e sulle teste nomi di bestemmia.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	6	REV 13:18 Qui sta la sapienza. Chi ha intendimento conti il numero della bestia, poiché è numero d’uomo; e il suo numero è 666.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Source	count	233	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Aionian	12	019-PSA-060-001 Per il Capo de’ musici. Su “il giglio della testimonianza”. Inno di Davide da insegnare; quand’egli mosse guerra ai Siri di Mesopotamia e ai Siri di Soba e Joab tornò, e sconfisse 12.000 Idumei nella valle del Sale. O Dio, tu ci hai rigettati, ci hai dispersi, tu ti sei adirato; deh, ci ristabilisci!	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Or Gesù, essendo risuscitato la mattina del primo giorno della settimana, apparve prima a Maria Maddalena, dalla quale avea cacciato sette demoni.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Aionian	666	066-REV-013-018 Qui sta la sapienza. Chi ha intendimento conti il numero della bestia, poiché è numero d’uomo; e il suo numero è 666.	WARN
+Italian---Italian-Riveduta-Bible	NUMERALS	Aionian	count	3	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,494 @@
+# File Name: Holy-Bible---Holy-Bible---Myanmar---Burmese-Judson---Analysis.txt
+# File Size: 54316       
+# File Date: 12/13/2025 05:49:17
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: မြန်မာယုဒသန်သမ္မာကျမ်း
+# Bible Name English: Myanmar Burmese Judson Text
+# Bible Language: မြန်မာဘာသာ
+# Bible Language English: Myanmar Burmese
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Adoniram Judson, Jr.
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=myajvb
+# Bible Source Year: 1835
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Myanmar---Burmese-Judson	ENCODING	Source	Holy-Bible---Myanmar---Burmese-Judson---Source-Edition.VPL.txt	UTF-8	NOTICE
+Myanmar---Burmese-Judson	ENCODING	Aionian	Holy-Bible---Myanmar---Burmese-Judson---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Myanmar---Burmese-Judson	BYTES	Source	bytes / chars	12338488 / 4711838 (multi-byte)	NOTICE
+Myanmar---Burmese-Judson	BYTES	Aionian	bytes / chars	12551583 / 4923707 (multi-byte)	NOTICE
+Myanmar---Burmese-Judson	BYTES	SourceClean	bytes / chars	12337693 / 4711043 (multi-byte)	NOTICE
+Myanmar---Burmese-Judson	BYTES	AionianClean	bytes / chars	12547056 / 4920220 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Myanmar---Burmese-Judson	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Myanmar---Burmese-Judson	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Myanmar---Burmese-Judson	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Myanmar---Burmese-Judson	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Myanmar---Burmese-Judson	AIONIAN	Aionian	missing-verse	0	NOTICE
+Myanmar---Burmese-Judson	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Myanmar---Burmese-Judson	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Myanmar---Burmese-Judson	UNPRINTABLE	Source	count	0	NOTICE
+Myanmar---Burmese-Judson	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Myanmar---Burmese-Judson	UNICODE	Summary	(-)Orginal	38	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Summary	(+)Aionian	64	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (G)	2338	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (E)	10914	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (N)	3679	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : ( )	638586	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (1)	30452	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (:)	31102	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (\n)	31102	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (2)	21670	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (3)	12279	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (4)	9142	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (5)	7046	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (6)	6468	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (7)	5913	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (8)	5773	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (9)	5635	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (0)	5300	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (-)	67	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (X)	1213	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (O)	6691	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (L)	2580	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (V)	1263	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (U)	3508	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (M)	4063	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (D)	1959	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (J)	4975	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (S)	6397	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (R)	4159	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (T)	2754	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (A)	9145	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (K)	2686	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (I)	3278	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	General Punctuation : (“)	99	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (C)	4320	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (H)	4110	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (Z)	1817	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (B)	1450	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (P)	3879	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source(-)	Basic Latin : (=)	1	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (0)	130074	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (1)	42263	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (\t)	123928	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (G)	2349	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (E)	10867	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (N)	3655	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : ( )	576944	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (\n)	30981	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (2)	31013	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (3)	17092	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (4)	19965	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (5)	10234	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (6)	10690	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (7)	7423	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (8)	7826	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (9)	9272	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (-)	3	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (()	266	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (S)	6447	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (h)	129	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (e)	99	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (o)	149	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (l)	69	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : ())	266	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (X)	1201	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (O)	6668	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (L)	2568	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (V)	1245	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (U)	3481	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (M)	4044	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (D)	1951	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (J)	4966	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (R)	4156	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (T)	2752	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (A)	9142	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (K)	2682	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (I)	3273	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	General Punctuation : (“)	98	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (C)	4292	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (H)	4090	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (Z)	1816	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (B)	1441	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (P)	3873	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (n)	202	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (d)	17	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (s)	114	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (i)	247	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (,)	8	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (t)	7	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (:)	2	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (u)	3	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (G)	2338	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (E)	10914	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (N)	3679	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : ( )	638586	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (1)	30452	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (:)	31102	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (အ)	85890	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (စ)	60728	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဦ)	1208	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (း)	183135	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (၌)	13349	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဘ)	29766	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ု)	223416	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ရ)	106518	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ာ)	237498	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (သ)	177923	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ခ)	49372	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (င)	152188	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (်)	423321	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ည)	82197	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (က)	172641	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ေ)	186905	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (န)	80894	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ှ)	85415	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (့)	118773	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (မ)	141432	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ြ)	104158	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ီ)	21541	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ိ)	205447	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဖ)	20877	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဆ)	19281	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (တ)	133583	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ူ)	50921	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (၏)	34240	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (။)	43668	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (\n)	31102	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (2)	21670	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဏ)	1964	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (္)	9413	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဍ)	220	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (၊)	53534	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (လ)	78877	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ွ)	41104	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ပ)	78399	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဟ)	16275	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဲ)	15587	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ံ)	24823	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (၍)	19999	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဝ)	16966	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဉ)	4231	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ျ)	53247	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ါ)	40847	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (3)	12279	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (4)	9142	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ထ)	34028	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (5)	7046	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (၎)	4502	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဌ)	714	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (6)	6468	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ယ)	33890	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဃ)	799	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (7)	5913	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (8)	5773	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဒ)	8751	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (9)	5635	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (0)	5300	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဤ)	2198	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဇ)	7534	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဧ)	1896	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဥ)	1487	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဗ)	6191	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဓ)	612	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဂ)	3912	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဋ)	476	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဣ)	3139	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဩ)	610	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဿ)	362	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (.)	4	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (-)	67	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (O)	6691	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (L)	2580	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (V)	1263	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဠ)	7	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (U)	3508	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (M)	4063	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (D)	1959	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (J)	4975	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (S)	6397	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (R)	4159	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (T)	2754	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (A)	9145	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	General Punctuation : (‘)	1	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	General Punctuation : (”)	318	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	General Punctuation : (’)	1	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (K)	2686	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (I)	3278	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	General Punctuation : (“)	99	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (C)	4320	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (H)	4110	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (Z)	1817	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (B)	1450	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (P)	3879	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဈ)	25	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Basic Latin : (=)	1	NOTICE
+Myanmar---Burmese-Judson	UNICODE	Source	Myanmar : (ဪ)	2	NOTICE
+
+# VERSIFICATION
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	001-GEN-008-016	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-028-022	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-028-023	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-028-024	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-028-025	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-031-004	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-031-005	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-035-032	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-035-033	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-038-015	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-039-016	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-039-017	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	002-EXO-039-018	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-003-004	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-004-011	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-010-009	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-010-010	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-010-011	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-011-047	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-014-055	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-014-056	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-014-057	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-015-001	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-015-006	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-015-007	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-015-008	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-015-022	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-015-023	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-018-028	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	003-LEV-023-038	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-023	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-030	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-035	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-036	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-039	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-040	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-043	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-044	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-047	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-004-048	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-005-003	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-005-013	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-027-016	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-027-017	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-027-022	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-028-010	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-032-011	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-032-012	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	004-NUM-034-015	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	005-DEU-001-003	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	005-DEU-001-004	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	005-DEU-002-017	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	005-DEU-002-021	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	005-DEU-002-029	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	005-DEU-003-019	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	005-DEU-004-042	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	005-DEU-006-011	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	011-1KI-011-009	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	011-1KI-011-015	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	011-1KI-015-001	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	012-2KI-011-021	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-005-014	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-033	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-034	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-035	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-036	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-037	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-039	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-040	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-041	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-042	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-044	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-045	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-006-046	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-012-001	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-016-015	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-016-016	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-016-017	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-016-018	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-016-039	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-026-006	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	013-1CH-029-029	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	014-2CH-003-001	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	014-2CH-006-030	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	014-2CH-008-007	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	014-2CH-017-003	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	014-2CH-020-035	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	014-2CH-027-008	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	015-EZR-002-001	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	016-NEH-001-008	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	016-NEH-002-004	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	016-NEH-007-006	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	016-NEH-010-032	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	017-EST-001-010	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	017-EST-001-013	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	017-EST-006-007	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-003-001	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-003-014	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-010-021	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-015-017	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-015-018	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-022-016	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-028-024	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-030-030	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	018-JOB-038-037	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-008-006	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-008-007	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-017-008	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-107-002	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-107-010	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-132-002	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-132-003	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-132-004	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-136-018	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	019-PSA-136-019	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	020-PRO-022-020	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	023-ISA-008-005	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	040-MAT-015-007	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	047-2CO-010-015	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Aionian	missing	066-REV-010-010	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Summary	missing	120	WARN
+Myanmar---Burmese-Judson	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Myanmar---Burmese-Judson	ENCLOSURES	Source	()	0 / 0	NOTICE
+Myanmar---Burmese-Judson	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Myanmar---Burmese-Judson	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Myanmar---Burmese-Judson	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Myanmar---Burmese-Judson	ENCLOSURES	Aionian	()	266 / 266	NOTICE
+Myanmar---Burmese-Judson	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Myanmar---Burmese-Judson	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Myanmar---Burmese-Judson	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Myanmar---Burmese-Judson	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(=)	1/0	WARN
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Myanmar---Burmese-Judson	UNEXPECTED	Source/Aionian	Summary	1/0	WARN
+
+# NUMERALS
+Myanmar---Burmese-Judson	NUMERALS	Source	2	GEN 36:2 2ဧသော သည် ဟိတ္တိ အမျိုးဧလုန် ၏သမီး အာဒ တယောက်၊ ဟိဝိ အမျိုးဇိဘောင် သား အာန ၏ သမီး အဟောလိဗာမ တယောက်၊ ခါနာန် အမျိုးသမီး နှစ်ယောက်နှင့်၎င်း၊	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	3	GEN 36:3 3ဣရှမေလ သမီး တည်းဟူသောနဗာယုတ် နှမ ဗာရှမတ် တယောက်နှင့် ၎င်း အိမ် ထောင်လေ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	5	EXO 27:4 ကြေးဝါ ဆန်ခါ ကို၎င်း ၊ ဆန်ခါ လေး ထောင့် အပေါ် မှာ ကြေးဝါ လေး ကွင်း ကို၎င်းလုပ် ပြီးလျှင် ၊ 5ယဇ်ပလ္လင် ခါးပန်း အောက် ၊ အလယ် ၌ ထား ရမည်။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	8	LEV 10:7 သင်တို့သေ မည်ကိုစိုးရိမ်သည်ဖြစ်၍ ၊ ပရိသတ်စည်းဝေး ရာ တံခါး ပြင်သို့ မ ထွက် နှင့်။ ထာဝရဘုရား ၏ ဘိသိက် ဆီသည် သင် တို့အပေါ် ၌ရှိသည်ဟု ဆိုသည်အတိုင်း သူတို့ပြု ကြ၏။8တဖန် အာရုန် အား ထာဝရဘုရား က	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	2	LEV 15:2 တဖန် မောရှေ နှင့် အာရုန် အား ထာဝရဘုရား က၊2သင်တို့သည် ဣသရေလ အမျိုးသား တို့အား ဆင့်ဆို ရမည်မှာ၊ ရိနာ စွဲသော ယောက်ျား သည် မ စင်ကြယ်။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	6	1KI 8:35 ကိုယ်တော် ကို ပြစ်မှား သော အပြစ်ကြောင့် မိုဃ်း မ ရွာ၊ မိုဃ်းခေါင် သဖြင့် ကိုယ်တော်သည် ဆုံးမ တော်မူ သောအခါ ၊ သူတို့သည် ဤ အရပ် ဌာနတော်ကို မှီခိုလျက် ဆုတောင်း ၍ ၊ နာမ တော်ကိုဝန်ခံ လျက် မိမိ ဒုစရိုက် ကို စွန့်ပယ် လျှင်၊ 36ကောင်းကင် ဘုံ၌နားထောင် ၍ ၊ ကိုယ်တော် ၏ ကျွန် ၊ ကိုယ်တော် ၏လူ ဣသရေလ အမျိုးတို့ကို အပြစ် မှ လွှတ် တော်မူပါ။ သူတို့လိုက် ရသော လမ်း ကောင်း ကို ပြညွှန် ၍ ၊ ကိုယ်တော် ၏လူ တို့အား အမွေ ပေး သော မြေ ပေါ် မှာ မိုဃ်းရွာ စေတော်မူပါ။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	8	1CH 26:8 8အမှု တော်ကို ဆောင်ရွက်ခြင်းငှါ တတ်စွမ်း နိုင် အောင်ခွန်အား ကြီးသောဩဗဒေဒုံ အမျိုးသား ချင်း ယောက်ျား ပေါင်း ကား ခြောက် ကျိပ်နှစ် ယောက်တည်း။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	0	EZR 8:30 30ထိုသို့ချိန် သော ရွှေ ၊ ငွေ တန်ဆာ တို့ကို ယေရုရှလင် မြို့၊ ငါ တို့၏ဘုရား သခင်အိမ် တော်သို့ ပို့ဆောင် ခြင်းငှာ ယဇ်ပုရောဟိတ် နှင့် လေဝိ သားတို့သည်ခံယူ ကြ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	1	EZR 8:31 31ပဌမ လ တဆယ် နှစ် ရက်နေ့တွင် ၊ ငါတို့သည် အဟာဝ မြစ် မှ ထွက် ၍ ၊ ယေရုရှလင် မြို့သို့ ခရီးသွား ကြ၏။ လမ်း နား ၌ ချောင်း ၍နေသောရန်သူ လက် မှ ၊ ငါ တို့၏ ဘုရား သခင့်တန်ခိုးတော်ကြောင့် လွတ် လျက်၊	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	2	EZR 8:32 32ယေရုရှလင် မြို့သို့ ရောက် ၍ သုံး ရက် နေ ကြ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	3	EZR 8:33 33စတုတ္ထ နေ့ တွင် ငါ တို့ ဘုရား သခင်၏ အိမ် တော်၌ ၊ ဖိနဟတ် သား ဧလာဇာ နှင့် လေဝိ အမျိုးယောရှု သား ယောဇဗဒ် ၊ ဗိနွိ သား နောဒိ တို့သည် ဝိုင်း၍ကြည့်ရှုလျက်၊	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	4	EZR 8:34 34ဥရိ သား ယဇ်ပုရောဟိတ် မေရမုတ် သည် ထိုရွှေ ငွေ တန်ဆာ ရှိသမျှတို့ကို ရေတွက် ချိန်တွယ် ၍ တနေ့ ခြင်း တွင် အချိန် ပေါင်း ကို မှတ်သား လေ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	5	EZR 8:35 35သိမ်း သွားခြင်းကိုခံရသောလူစုထဲက ထွက် လာ သောသူတို့ သည်လည်း၊ ဣသရေလ အမျိုးများတို့အဘို့ နွား တဆယ် နှစ် ကောင်၊ သိုး ထီးကိုး ဆယ်ခြောက် ကောင်၊ သိုး သငယ်ခုနစ် ဆယ်ခုနစ် ကောင်၊ အပြစ် ဖြေရာယဇ်ဘို့ ဆိတ် တဆယ် နှစ် ကောင်တို့ကို၊ ဣသရေလ အမျိုး၏ ဘုရား သခင် ထာဝရဘုရား အား မီး ရှို့ရာယဇ်ကို ပူဇော် ကြ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	6	EZR 8:36 36ရှင်ဘုရင် အမိန့် တော်အမှာတော်တို့ကို ကိုယ်စား တော်မင်း၊ မြစ် အနောက် ဘက် မြို့ဝန် တို့၌အပ် ၍ ၊ သူတို့ သည် ဣသရေလအမျိုး နှင့် ဘုရား သခင့် အိမ် တော်ကို ပြုစု ကြ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	2	EST 9:2 2ရှင်ဘုရင် အာရွှေရု ၏ နိုင်ငံ တော် အပြည်ပြည် အမြို့မြို့၌ နေသောယုဒ လူတို့သည်၊ ညှဉ်းဆဲ လိုသောသူတို့ ကို ဆီးတား ခြင်းငှါ စုဝေး ကြ၏။ ပြည်သူ ပြည်သားအပေါင်း တို့သည် ကြောက်ရွံ့ သောကြောင့် ၊ အဘယ်သူမျှရန်မပြုဝံ့ဘဲနေကြ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	3	EST 9:3 3အပြည် ပြည်ကို အုပ်စိုးသောမင်း ၊ ကိုယ်စား တော် မင်း၊ မြို့ဝန် မင်း၊ အမှု တော်စောင့် အရာရှိအပေါင်း တို့ သည် မော်ဒကဲ ကို ကြောက်ရွံ့ သောကြောင့် ၊ ယုဒ လူတို့ကို မစ ကြ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	6	EST 9:6 6ရှုရှန် မြို့ တော်၌ လူ ငါး ရာ တို့ကို လုပ်ကြံသတ်ဖြတ် ကြ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	1	PSA 7:1 ဒါဝိဒ် သည် ဗင်္ယာမိန် အမျိုးသား ကုရှ ၏စကား ကြောင့် ထာဝရဘုရား ရှေ့ တော်၌ အသံညှိ၍ဆို သော ဆာလံ။1အကျွန်ုပ် ၏ ဘုရား သခင်ထာဝရဘုရား ၊ ကိုယ်တော် ကို အကျွန်ုပ် ခိုလှုံ ပါ၏။ အကျွန်ုပ် ကို ညှဉ်းဆဲ သော သူအပေါင်း တို့၏လက်မှ အကျွန်ုပ် ကို နှုတ် ယူ၍ ကယ်တင် တော်မူပါ။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	1	PSA 135:13 အိုထာဝရဘုရား ၊ ကိုယ်တော် ၏ အမည် သည် နိစ္စ ထာဝရဖြစ်ပါ၏။ အိုထာဝရဘုရား ၊ ဘွဲ့ နာမတော်သည် ကာလ အစဉ်အဆက် တည်ပါ၏။1	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	9	EZE 42:19 19အနောက် မျက်နှာကိုတိုင်း လျှင်လည်း ကျူလုံး အပြန်ငါး ရာ ရှိ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	1	MAT 14:10 လူကို စေလွှတ် ၍ ယောဟန် ၏လည်ပင်း ကို ထောင် ထဲမှာ ဖြတ်စေ၏။11ဦးခေါင်း ကို လင်ပန်း ၌ ဆောင်ခဲ့ ၍ ထိုမိန်းမငယ် အားပေး ပြီးမှ ၊ သူသည်လည်း မိမိ အမိ ထံသို့ယူသွား ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	3	MAT 15:2 3ကိုယ်တော် က၊ သင် တို့သည်အဆက်ဆက်ခံသော နည်းဥပဒေ ကိုအမှီပြု ၍ ဘုရားသခင် ၏ပညတ် တော် ကို အဘယ်ကြောင့် လွန်ကျူး ကြသနည်း။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	1	MAT 22:17 သို့ဖြစ်၍ ကိုယ်တော် သည် အဘယ်သို့ ထင် တော်မူသနည်း။ ကဲသာ ဘုရင်အားအခွန် ကို ဆက် အပ် သလော။ မ ဆက်အပ်သလော အကျွန်ုပ် တို့အား မိန့် တော်မူပါဟု မေးလျှောက် ကြ၏။1”	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	2	MAR 14:28 သို့သော်လည်း ငါ သည်ထမြောက် ပြီးမှ သင် တို့ရှေ့ ၊ ဂါလိလဲ ပြည်သို့ သွားမည် ဟု မိန့် တော်မူသော်၊2”	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	7	LUK 9:6 တပည့်တော်တို့သည် ထွက်သွား ၍ ဧဝံဂေလိ တရားကို ဟောလျက် ၊ ခပ်သိမ်းသောအရပ် တို့၌ အနာ ရောဂါကိုငြိမ်းစေလျက်၊ မြို့ရွာ တို့တွင် ဒေသစာရီ လှည့်လည် ကြ၏။7	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	7	JOH 12:36 အလင်း ရှိ စဉ်အခါအလင်း ၏ သား ဖြစ် အံ့သောငှာ အလင်း ကိုယုံကြည် ကြလော့ ဟု မိန့် တော်မူ၏။ ထိုသို့ မိန့် တော်မူပြီးမှယေရှု သည်ထွက်ကြွ ၍ ထိုသူ တို့ကို တိမ်းရှောင် လျက်နေတော်မူ၏။37	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	8	JOH 13:38 38ယေရှု က၊ ငါ့ အဘို့ သင့် အသက် ကိုစွန့် မည်လော။ ငါအမှန်အကန် ဆို သည်ကား၊ ကြက် မ တွန် မှီ သင်သည် သုံး ကြိမ်မြောက်အောင် ငါ့ ကိုငြင်းပယ် လိမ့်မည် ဟု မိန့် တော်မူ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	5	ACT 20:35 35ထိုသို့ သင် တို့သည်လည်း အလုပ်လုပ် ၍ အားနည်း သော သူ တို့ကို မစ ရ မည်ကို၎င်း၊ အစွန့်အကြဲ ခံခြင်း အရာထက် စွန့်ကြဲ ခြင်း အရာသည်သာ၍ မင်္ဂလာ ရှိ သည်ဟု သခင် ယေရှု မိန့် တော်မူသော စကား တော်ကို အောက်မေ့ ရမည်ကို၎င်း၊ အရာရာ ၌ သင်တို့အား ငါပြသ ပြီဟု၊	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	9	ROM 8:39 39အမြင့် ဖြစ်စေ၊ အနိမ့် ဖြစ်စေ၊ ဤအရာမှစ၍အဘယ် နိမ္မိတ အရာမျှသည်၊ ငါ တို့သခင် ယေရှု ခရစ် အားဖြင့် ခံရသောဘုရားသခင် ၏ မေတ္တာ တော်နှင့် ငါ တို့ကို မ ကွာစေနိုင် ဟု ငါသည်သဘောကျလျက်ရှိ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	0	1CO 10:10 0ထိုသူ အချို့ တို့သည် မြည်တမ်း ခြင်းကိုပြု၍၊ ဖျက်ဆီး သောသူ ၏ လက်ဖြင့် ပျက်စီး သကဲ့သို့ မ ဟုတ်၊ မြည်တမ်း ခြင်းကိုမပြုကြနှင့်။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	5	1CO 15:55 5အိုသေမင်း ၊ သင် ၏လက်နက် သည်၊ အဘယ်မှာ ရှိသနည်း။ အို မရဏနိုင်ငံ၊ သင် ၏အောင် ခြင်းသည် အဘယ်မှာ ရှိသနည်း။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	5	2CO 8:15 15မျှ ခြင်းတရားကိုထောက်၍ ၊ ယခု ၌ သင် တို့၏ စည်းစိမ် သည် သူ တို့၏ဆင်းရဲ ကို မစသဖြင့် ၎င်း၊ နောင်၌ သူ တို့၏စည်းစိမ် သည် သင် တို့၏ဆင်းရဲ ကိုမစ သဖြင့် ၎င်း၊ အညီအမျှ ဖြစ်စေ ခြင်းငှာ ငါအကြံရှိ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	9	2CO 8:19 9ထိုညီမူကား၊ သခင် ဘုရား၏ ဂုဏ် အသရေတော်ကို၎င်း ၊ ကိုယ် စေတနာစိတ် ကို၎င်း၊ ငါ တို့သည် ထင်ရှားစေ၍၊ အသင်းတော် များ၏အလှူ ကျေးဇူးကို ပြုစု သည့်အမှုမှာ ငါ တို့နှင့်အတူ သွား စေခြင်းငှာ၊ အသင်းတော်တို့သည် ရွေးကောက်၍ ခန့်ထား သောသူ ဖြစ်သတည်း။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	3	2CO 11:33 3တပည့်တော်တို့သည် ငါ့ကိုတောင်း ၌ ထည့်ပြီးလျှင် ၊ ပြတင်းပေါက် မှထုတ်၍ မြို့ရိုး ပေါ်က လျှော့ချ သဖြင့် ထိုမြို့ဝန်လက် မှ ငါပြေး၍လွတ် ရ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	3	GAL 5:23 3နူးညံ့ သိမ်မွေ့ခြင်း၊ ကာမဂုဏ် ချုပ်တည်းခြင်းပေတည်း။ ထိုသို့သောအကျင့် ကို အဘယ်တရား မျှ မ မြစ်တား ။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	8	REV 18:18 ဤမျှလောက် ကြီးစွာ သော စည်းစိမ် သည် တ နာရီ ခြင်းတွင် ပျက်စီး ပါပြီတကားဟု ငိုကြွေး ၍ စိတ်မသာ ညည်းတွားကြလိမ့်မည်။ ခပ်သိမ်း သောသင်္ဘော သူကြီး၊ အရပ်ရပ် သို့ လွှင့်ကူး တတ်သော သူအပေါင်း တို့နှင့် သင်္ဘောသား ၊ ပင်လယ် ကုန်သည် ရှိသမျှ တို့သည် အဝေး က ရပ် ၍18သူ ကျွမ်းလောင် ရာမီးခိုး ကိုမြင် လျှင်၊ ထိုမြို့ နှင့် အဘယ် မြို့ တူ သနည်းဟူ၍၎င်း၊	WARN
+Myanmar---Burmese-Judson	NUMERALS	Source	count	36	WARN
+Myanmar---Burmese-Judson	NUMERALS	Aionian	5	002-EXO-027-004 ကြေးဝါ ဆန်ခါ ကို၎င်း ၊ ဆန်ခါ လေး ထောင့် အပေါ် မှာ ကြေးဝါ လေး ကွင်း ကို၎င်းလုပ် ပြီးလျှင် ၊ 5ယဇ်ပလ္လင် ခါးပန်း အောက် ၊ အလယ် ၌ ထား ရမည်။	ERROR
+Myanmar---Burmese-Judson	NUMERALS	Aionian	8	003-LEV-010-007 သင်တို့သေ မည်ကိုစိုးရိမ်သည်ဖြစ်၍ ၊ ပရိသတ်စည်းဝေး ရာ တံခါး ပြင်သို့ မ ထွက် နှင့်။ ထာဝရဘုရား ၏ ဘိသိက် ဆီသည် သင် တို့အပေါ် ၌ရှိသည်ဟု ဆိုသည်အတိုင်း သူတို့ပြု ကြ၏။8တဖန် အာရုန် အား ထာဝရဘုရား က	ERROR
+Myanmar---Burmese-Judson	NUMERALS	Aionian	2	003-LEV-015-002 တဖန် မောရှေ နှင့် အာရုန် အား ထာဝရဘုရား က၊2သင်တို့သည် ဣသရေလ အမျိုးသား တို့အား ဆင့်ဆို ရမည်မှာ၊ ရိနာ စွဲသော ယောက်ျား သည် မ စင်ကြယ်။	ERROR
+Myanmar---Burmese-Judson	NUMERALS	Aionian	36	011-1KI-008-035 ကိုယ်တော် ကို ပြစ်မှား သော အပြစ်ကြောင့် မိုဃ်း မ ရွာ၊ မိုဃ်းခေါင် သဖြင့် ကိုယ်တော်သည် ဆုံးမ တော်မူ သောအခါ ၊ သူတို့သည် ဤ အရပ် ဌာနတော်ကို မှီခိုလျက် ဆုတောင်း ၍ ၊ နာမ တော်ကိုဝန်ခံ လျက် မိမိ ဒုစရိုက် ကို စွန့်ပယ် လျှင်၊ 36ကောင်းကင် ဘုံ၌နားထောင် ၍ ၊ ကိုယ်တော် ၏ ကျွန် ၊ ကိုယ်တော် ၏လူ ဣသရေလ အမျိုးတို့ကို အပြစ် မှ လွှတ် တော်မူပါ။ သူတို့လိုက် ရသော လမ်း ကောင်း ကို ပြညွှန် ၍ ၊ ကိုယ်တော် ၏လူ တို့အား အမွေ ပေး သော မြေ ပေါ် မှာ မိုဃ်းရွာ စေတော်မူပါ။	ERROR
+Myanmar---Burmese-Judson	NUMERALS	Aionian	1	019-PSA-007-001 ဒါဝိဒ် သည် ဗင်္ယာမိန် အမျိုးသား ကုရှ ၏စကား ကြောင့် ထာဝရဘုရား ရှေ့ တော်၌ အသံညှိ၍ဆို သော ဆာလံ။1အကျွန်ုပ် ၏ ဘုရား သခင်ထာဝရဘုရား ၊ ကိုယ်တော် ကို အကျွန်ုပ် ခိုလှုံ ပါ၏။ အကျွန်ုပ် ကို ညှဉ်းဆဲ သော သူအပေါင်း တို့၏လက်မှ အကျွန်ုပ် ကို နှုတ် ယူ၍ ကယ်တင် တော်မူပါ။	ERROR
+Myanmar---Burmese-Judson	NUMERALS	Aionian	1	019-PSA-135-013 အိုထာဝရဘုရား ၊ ကိုယ်တော် ၏ အမည် သည် နိစ္စ ထာဝရဖြစ်ပါ၏။ အိုထာဝရဘုရား ၊ ဘွဲ့ နာမတော်သည် ကာလ အစဉ်အဆက် တည်ပါ၏။1	WARN
+Myanmar---Burmese-Judson	NUMERALS	Aionian	11	040-MAT-014-010 လူကို စေလွှတ် ၍ ယောဟန် ၏လည်ပင်း ကို ထောင် ထဲမှာ ဖြတ်စေ၏။11ဦးခေါင်း ကို လင်ပန်း ၌ ဆောင်ခဲ့ ၍ ထိုမိန်းမငယ် အားပေး ပြီးမှ ၊ သူသည်လည်း မိမိ အမိ ထံသို့ယူသွား ၏။	ERROR
+Myanmar---Burmese-Judson	NUMERALS	Aionian	1	040-MAT-022-017 သို့ဖြစ်၍ ကိုယ်တော် သည် အဘယ်သို့ ထင် တော်မူသနည်း။ ကဲသာ ဘုရင်အားအခွန် ကို ဆက် အပ် သလော။ မ ဆက်အပ်သလော အကျွန်ုပ် တို့အား မိန့် တော်မူပါဟု မေးလျှောက် ကြ၏။1”	WARN
+Myanmar---Burmese-Judson	NUMERALS	Aionian	2	041-MAR-014-028 သို့သော်လည်း ငါ သည်ထမြောက် ပြီးမှ သင် တို့ရှေ့ ၊ ဂါလိလဲ ပြည်သို့ သွားမည် ဟု မိန့် တော်မူသော်၊2”	WARN
+Myanmar---Burmese-Judson	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) ကိုယ်တော်သည် ခုနစ် ရက်တွင် ပဌမ နေ့ရက်စောစော အချိန်၌ထမြောက် ပြီးမှ ၊ အထက် က နတ်ဆိုး ခုနစ် ယောက်ကို နှင်ထုတ် တော်မူသော မာဂဒလ မာရိ အား ရှေးဦးစွာ ကိုယ်ကိုပြ တော်မူ၏။	WARN
+Myanmar---Burmese-Judson	NUMERALS	Aionian	7	042-LUK-009-006 တပည့်တော်တို့သည် ထွက်သွား ၍ ဧဝံဂေလိ တရားကို ဟောလျက် ၊ ခပ်သိမ်းသောအရပ် တို့၌ အနာ ရောဂါကိုငြိမ်းစေလျက်၊ မြို့ရွာ တို့တွင် ဒေသစာရီ လှည့်လည် ကြ၏။7	WARN
+Myanmar---Burmese-Judson	NUMERALS	Aionian	37	043-JOH-012-036 အလင်း ရှိ စဉ်အခါအလင်း ၏ သား ဖြစ် အံ့သောငှာ အလင်း ကိုယုံကြည် ကြလော့ ဟု မိန့် တော်မူ၏။ ထိုသို့ မိန့် တော်မူပြီးမှယေရှု သည်ထွက်ကြွ ၍ ထိုသူ တို့ကို တိမ်းရှောင် လျက်နေတော်မူ၏။37	WARN
+Myanmar---Burmese-Judson	NUMERALS	Aionian	count	12	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

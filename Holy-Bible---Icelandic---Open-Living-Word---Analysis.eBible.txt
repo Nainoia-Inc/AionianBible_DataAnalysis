@@ -1,0 +1,739 @@
+# File Name: Holy-Bible---Holy-Bible---Icelandic---Open-Living-Word---Analysis.txt
+# File Size: 68635       
+# File Date: 12/13/2025 05:39:16
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Opna Lifandi Orð
+# Bible Name English: Icelandic Open Living Word
+# Bible Language: Íslenska
+# Bible Language English: Icelandic
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0, International
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=isl
+# Bible Source Year: 1979, 1995
+# Bible Description: Original work available for free at www.biblica.com and open.bible
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Icelandic---Open-Living-Word	ENCODING	Source	Holy-Bible---Icelandic---Open-Living-Word---Source-Edition.VPL.txt	UTF-8	NOTICE
+Icelandic---Open-Living-Word	ENCODING	Aionian	Holy-Bible---Icelandic---Open-Living-Word---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Icelandic---Open-Living-Word	BYTES	Source	bytes / chars	1460239 / 1306944 (multi-byte)	NOTICE
+Icelandic---Open-Living-Word	BYTES	Aionian	bytes / chars	1533927 / 1380449 (multi-byte)	NOTICE
+Icelandic---Open-Living-Word	BYTES	SourceClean	bytes / chars	1459397 / 1306102 (multi-byte)	NOTICE
+Icelandic---Open-Living-Word	BYTES	AionianClean	bytes / chars	1531407 / 1377984 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Icelandic---Open-Living-Word	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Icelandic---Open-Living-Word	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Icelandic---Open-Living-Word	AIONIAN	Aionian	book-defined-not-exist	49	NOTICE
+Icelandic---Open-Living-Word	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Icelandic---Open-Living-Word	AIONIAN	Aionian	missing-verse	0	NOTICE
+Icelandic---Open-Living-Word	AIONIAN	Aionian	aionian-verses	215	NOTICE
+Icelandic---Open-Living-Word	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Icelandic---Open-Living-Word	UNPRINTABLE	Source	count	0	NOTICE
+Icelandic---Open-Living-Word	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Icelandic---Open-Living-Word	UNICODE	Summary	(-)Orginal	55	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Summary	(+)Aionian	59	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (P)	3351	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (S)	4077	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (A)	6021	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : ( )	227102	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (1)	10217	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (:)	11578	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (M)	3049	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (i)	79131	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (k)	30404	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (l)	37652	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (e)	60951	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (r)	78753	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (g)	39742	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (a)	85793	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (s)	51543	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (m)	35676	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (n)	74848	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (u)	47256	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (,)	12756	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (p)	5639	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (v)	20397	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (y)	9641	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (d)	12812	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (h)	21515	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (G)	3516	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (\n)	9906	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (2)	5820	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (D)	1564	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (o)	23180	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (t)	43678	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (.)	12311	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (3)	3426	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (H)	3739	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (b)	6454	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (4)	2872	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (E)	2693	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (5)	2410	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (6)	2119	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (L)	1933	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (K)	2340	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (J)	3586	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (7)	1987	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (8)	1925	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (B)	760	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (9)	1931	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (0)	1859	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (O)	2520	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (T)	2736	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (R)	1614	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (U)	1228	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (()	142	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : ())	142	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (-)	29	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	General Punctuation : ( )	30	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source(-)	Basic Latin : (c)	1	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (0)	40017	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (1)	13774	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (9)	4700	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (\t)	40320	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (P)	3492	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (S)	4227	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (A)	6168	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (M)	3063	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (i)	79380	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (k)	30405	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (l)	37672	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : ( )	207587	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (e)	61005	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (r)	78764	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (g)	39955	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (a)	85992	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (s)	51659	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (m)	35683	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (n)	75052	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (u)	47261	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (,)	12764	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (p)	5640	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (v)	20398	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (y)	9655	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (d)	12831	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (h)	21546	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (G)	3529	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (\n)	10079	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (2)	7232	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (D)	1565	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (o)	23282	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (t)	43687	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (.)	12309	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (3)	4393	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (H)	3767	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (b)	6464	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (4)	9952	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (E)	2699	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (5)	4094	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (6)	4008	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (L)	1945	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (K)	2346	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (:)	1674	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (J)	3599	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (7)	2326	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (8)	2423	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (B)	764	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (O)	2543	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (T)	2740	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (()	361	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : ())	361	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (R)	1626	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (U)	1235	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (q)	3	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (-)	30	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Basic Latin : (c)	3	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (P)	3351	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (S)	4077	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (A)	6021	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : ( )	227102	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (1)	10217	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (:)	11578	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (M)	3049	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (i)	79131	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (k)	30404	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (l)	37652	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (e)	60951	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (r)	78753	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (g)	39742	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (æ)	6797	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (f)	23945	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (a)	85793	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (þ)	19812	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (s)	51543	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (m)	35676	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (n)	74848	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (ð)	50037	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (á)	14793	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (u)	47256	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (ó)	7821	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (,)	12756	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (é)	6910	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (p)	5639	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (v)	20397	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (y)	9641	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (d)	12812	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (h)	21515	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (G)	3516	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (\n)	9906	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (2)	5820	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (í)	13666	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (ý)	2088	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (D)	1564	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (o)	23180	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (t)	43678	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (.)	12311	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (3)	3426	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (H)	3739	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (b)	6454	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (ö)	6310	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (x)	225	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (4)	2872	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (E)	2693	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (?)	1130	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (Þ)	3691	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (!)	1846	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (j)	8875	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (ú)	7615	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (5)	2410	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (6)	2119	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (F)	638	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (L)	1933	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (K)	2340	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	General Punctuation : („)	2468	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	General Punctuation : (“)	2461	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (J)	3586	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (7)	1987	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (É)	996	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (Í)	354	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (8)	1925	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (B)	760	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (9)	1931	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (0)	1859	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (Ó)	152	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (N)	534	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (O)	2520	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (V)	1078	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (T)	2736	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (Á)	207	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (Æ)	56	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	General Punctuation : (–)	990	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (R)	1614	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (U)	1228	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (I)	374	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (Ú)	19	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (Y)	26	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Latin-1 Supplement: (Ö)	54	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (;)	33	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (()	142	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : ())	142	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	General Punctuation : (‑)	2	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (-)	29	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	General Punctuation : ( )	30	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	General Punctuation : (…)	7	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Spacing Modifier Letters : (ʼ)	1	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (C)	1736	NOTICE
+Icelandic---Open-Living-Word	UNICODE	Source	Basic Latin : (c)	1	NOTICE
+
+# VERSIFICATION
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	019-PSA-015-005	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-004-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-004-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-005-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-006-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-006-015	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-006-032	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-007-029	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-008-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-009-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-010-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-010-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-010-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-011-030	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-012-040	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-012-044	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-012-045	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-012-047	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-013-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-013-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-013-032	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-013-048	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-013-054	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-013-058	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-014-024	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-015-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-015-014	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-015-038	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-016-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-017-023	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-017-027	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-020-012	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-020-033	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-022-035	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-022-039	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-023-030	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-024-038	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-024-047	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-025-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-025-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-025-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-025-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-025-025	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-026-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-026-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-026-061	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-026-066	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-027-042	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-027-043	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	040-MAT-028-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-001-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-001-030	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-001-033	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-001-037	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-001-044	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-002-026	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-003-014	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-003-015	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-003-017	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-003-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-003-019	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-003-032	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-004-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-004-012	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-004-032	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-005-002	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-005-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-005-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-005-042	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-006-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-006-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-006-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-006-023	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-006-036	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-006-040	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-006-044	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-007-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-007-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-008-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-009-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-009-031	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-010-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-011-005	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-011-023	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-011-027	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-011-028	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-012-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-012-022	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-012-044	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-013-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-013-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-013-036	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-013-037	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-014-005	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-014-052	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-014-064	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-014-067	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-015-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-015-017	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-015-030	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-015-043	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	041-MAR-016-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-001-002	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-001-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-001-012	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-001-027	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-001-040	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-001-073	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-001-074	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-002-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-002-030	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-002-031	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-002-035	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-002-037	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-002-042	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-002-047	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-003-002	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-003-020	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-004-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-004-010	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-004-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-004-019	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-004-026	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-005-010	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-005-019	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-006-015	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-006-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-006-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-006-048	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-007-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-007-022	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-008-044	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-008-056	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-010-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-011-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-011-030	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-011-038	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-011-054	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-012-043	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-012-044	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-013-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-013-025	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-014-002	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-015-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-016-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-017-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-017-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-017-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-017-012	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-018-005	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-018-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-018-017	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-019-010	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-019-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-019-037	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-021-035	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-021-038	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-022-042	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-022-064	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-022-068	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-023-033	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-023-041	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-023-052	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-024-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-024-023	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	042-LUK-024-034	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-001-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-001-012	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-001-025	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-002-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-002-025	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-003-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-003-024	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-003-034	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-022	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-023	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-024	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-029	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-041	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-044	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-004-047	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-005-033	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-005-042	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-007-022	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-007-023	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-007-042	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-008-031	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-009-023	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-010-023	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-010-035	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-010-036	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-010-041	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-011-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-011-038	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-012-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-012-024	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-016-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-018-005	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-019-024	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-019-037	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-020-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	043-JOH-020-031	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-001-014	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-001-025	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-001-026	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-003-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-003-022	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-004-026	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-004-035	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-005-027	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-007-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-007-049	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-008-010	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-008-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-009-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-010-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-010-010	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-010-037	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-010-041	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-010-047	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-013-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-013-020	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-013-033	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-014-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-015-029	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-015-035	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-015-041	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-016-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-017-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-018-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-018-026	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-019-019	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-020-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-020-012	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-021-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-021-027	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-021-038	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-022-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-023-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-023-024	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-023-035	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-025-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-027-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-027-015	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-001-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-001-012	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-004-005	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-006-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-008-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-009-024	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-011-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-012-005	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-013-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	045-ROM-015-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	046-1CO-005-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	046-1CO-006-010	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	046-1CO-010-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	046-1CO-011-015	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	046-1CO-014-030	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	046-1CO-015-056	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-001-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-001-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-001-014	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-001-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-002-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-005-014	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-011-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-011-020	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	047-2CO-012-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	048-GAL-002-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	048-GAL-002-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	048-GAL-003-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	048-GAL-003-022	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-001-017	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-003-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-003-015	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-003-019	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-004-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-004-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-005-016	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-005-030	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	049-EPH-006-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	050-PHI-001-017	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	051-COL-001-027	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	052-1TH-003-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	052-1TH-004-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	054-1TI-001-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	054-1TI-001-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	054-1TI-001-019	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	054-1TI-002-010	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	054-1TI-004-010	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	057-PHM-001-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	057-PHM-001-019	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-001-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-003-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-005-002	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-005-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-005-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-007-013	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-007-014	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-011-025	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	058-HEB-011-038	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	059-JAM-001-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	059-JAM-001-011	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	059-JAM-005-020	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	060-1PE-002-003	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	061-2PE-001-014	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	061-2PE-001-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	061-2PE-001-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	061-2PE-002-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	061-2PE-003-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	062-1JO-005-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	062-1JO-005-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-002-025	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-007-005	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-007-006	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-007-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-007-008	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-008-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-009-018	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-011-009	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-015-004	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-016-021	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-021-019	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-021-020	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Aionian	missing	066-REV-022-007	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Summary	missing	338	WARN
+Icelandic---Open-Living-Word	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Icelandic---Open-Living-Word	ENCLOSURES	Source	()	142 / 142	NOTICE
+Icelandic---Open-Living-Word	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Icelandic---Open-Living-Word	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Icelandic---Open-Living-Word	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	()	361 / 361	NOTICE
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Icelandic---Open-Living-Word	ENCLOSURES	Source	(1/0)	MAR 7:3 (Gyðingar, og sérstaklega farísear, mötuðust aldrei nema þeir hefðu, samkvæmt sérstökum trúarsiðum, þvegið sér um hendurnar.	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Source	(0/1)	MAR 7:4 Þegar þeir komu heim af markaðnum, urðu þeir alltaf að þvo sér á þennan hátt áður en þeir snertu matinn. Þetta var aðeins ein af mörgum reglum þeirra og lögum sem þeir hafa fylgt öldum saman og gera enn. Ein reglan er til dæmis sérstakur trúarlegur þvottur á pottum, pönnum og diskum.)	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Source	(1/0)	JOH 5:3 Þar lá mikill fjöldi af veiku fólki – lömuðu, blindu eða bækluðu. (Fólk þetta beið eftir vissri hreyfingu vatnsins,	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Source	(0/1)	JOH 5:4 því að engill Drottins kom af og til og hreyfði við því, og sá læknaðist sem fyrstur komst ofan í eftir það.)	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Source	(1/0)	GAL 3:19 En til hvers voru þá lögin? Jú, þeim var bætt við eftir að loforðið hafði verið gefið, til að sýna mönnunum hversu sekir þeir væru þegar þeir brytu lög Guðs. Þessi lög áttu aðeins að gilda þar til Kristur kæmi, en hann er barnið sem loforð Guðs snerist um. (Á þessu tvennu er reyndar enn meiri munur: Guð lét engla færa Móse lögin sem hann síðan færði fólkinu,	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Source	(0/1)	GAL 3:20 en þegar Guð hins vegar gaf Abraham loforð sitt, þá gerði hann það sjálfur milliliðalaust.)	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Gyðingar, og sérstaklega farísear, mötuðust aldrei nema þeir hefðu, samkvæmt sérstökum trúarsiðum, þvegið sér um hendurnar.	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 Þegar þeir komu heim af markaðnum, urðu þeir alltaf að þvo sér á þennan hátt áður en þeir snertu matinn. Þetta var aðeins ein af mörgum reglum þeirra og lögum sem þeir hafa fylgt öldum saman og gera enn. Ein reglan er til dæmis sérstakur trúarlegur þvottur á pottum, pönnum og diskum.)	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	(1/0)	043 JOH 005 003 Þar lá mikill fjöldi af veiku fólki – lömuðu, blindu eða bækluðu. (Fólk þetta beið eftir vissri hreyfingu vatnsins,	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	(0/1)	043 JOH 005 004 því að engill Drottins kom af og til og hreyfði við því, og sá læknaðist sem fyrstur komst ofan í eftir það.)	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	(1/0)	048 GAL 003 019 En til hvers voru þá lögin? Jú, þeim var bætt við eftir að loforðið hafði verið gefið, til að sýna mönnunum hversu sekir þeir væru þegar þeir brytu lög Guðs. Þessi lög áttu aðeins að gilda þar til Kristur kæmi, en hann er barnið sem loforð Guðs snerist um. (Á þessu tvennu er reyndar enn meiri munur: Guð lét engla færa Móse lögin sem hann síðan færði fólkinu,	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Aionian	(0/1)	048 GAL 003 020 en þegar Guð hins vegar gaf Abraham loforð sitt, þá gerði hann það sjálfur milliliðalaust.)	WARN
+Icelandic---Open-Living-Word	ENCLOSURES	Summary	lines	6 / 6	NOTICE
+
+# UNEXPECTED
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Icelandic---Open-Living-Word	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Icelandic---Open-Living-Word	NUMERALS	Source	2	PSA 52:2 til að andmæla óvini sínum Dóeg sem síðar tók af lífi áttatíu og fimm presta og fjölskyldur þeirra (sjá: 1. Sam. 22.).	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	9	PSA 57:1 Þennan sálm orti Davíð þegar hann flýði inn í hellinn undan Sál. (Sjá 1. Sam. 22:1‑2 og 24:1‑9). Ó Guð, vertu mér náðugur, því að ég treysti þér. Ég vil leita skjóls undir vængjum þínum uns storminn hefur lægt.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	1	PSA 59:1 Þennan sálm orti Davíð þegar Sál konungur sendi menn heim til hans til að handsama hann og drepa (sjá: 1. Sam. 19:11).	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	PSA 60:2 þegar hann átti í ófriði við Sýrlendinga og óvíst var um úrslit. Þetta gerðist á sama tíma og Jóab, hershöfðingi Ísraels, vann sigur á 12.000 Edomítum í Saltdalnum.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	MAT 14:21 (Um 5.000 karlmenn voru þarna þennan dag, auk kvenna og barna.)	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	MAT 15:21 Jesús hélt síðan burt og fór norður til Týrusar og Sídonar, en þangað voru um 80 kílómetrar.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	MAT 15:37 Allir fengu nóg, 4.000 karlmenn auk kvenna og barna! Þegar leifunum hafði verið safnað saman, fylltu þær sjö körfur!	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	LUK 14:31 Og hvaða konungur haldið þið að léti sig dreyma um að fara í stríð án þess að setjast fyrst niður, ásamt ráðgjöfum sínum, til að ræða um hvort hann geti yfirbugað 20.000 manna óvinalið með 10.000 mönnum?	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	LUK 16:5 Síðan bauð hann hverjum skuldunaut fyrir sig að koma og ræða um skuldina. Hann spurði þann fyrsta: „Hve mikið skuldar þú atvinnurekanda mínum?“ „3.500 lítra af ólífuolíu,“ svaraði maðurinn. „Já, rétt er það“ sagði framkvæmdastjórinn, „hérna er samningurinn sem þú undirritaðir. En nú skaltu rífa hann og skrifa annan, fyrir helmingnum af þessu magni.“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	LUK 16:7 „Hve mikið skuldar þú?“ spurði hann næsta mann. „1.000 tunnur af hveiti,“ var svarið. „Hérna,“ sagði hinn, „hirtu samninginn þinn og gerðu nýjan, upp á 800 tunnur.“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	2	LUK 24:13 Þennan sama sunnudag fóru tveir af fylgjendum Jesú gangandi til þorpsins Emmaus, sem er rúma 12 kílómetra frá Jerúsalem.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	3	JOH 21:11 Símon Pétur fór þá og dró netið á land og taldi úr því 153 stóra fiska. En þótt fjöldinn væri slíkur, hafði netið ekki rifnað.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	ACT 1:15 Þau voru öll samhuga og staðföst í bæninni. Dag einn, er þarna voru saman komin um 120 manns, stóð Pétur upp og ávarpaði viðstadda þessum orðum:	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	9	ACT 2:15 Sumir ykkar segja að þessir menn séu drukknir. Það er ekki rétt. Það er ekki orðið nógu áliðið dags til að svo geti verið. Menn drekka sig ekki fulla klukkan 9 að morgni.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	ACT 2:41 Þeir sem trúðu orðum Péturs tóku skírn, alls um 3.000 manns.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	ACT 5:36 Fyrir nokkru taldi Þevdas sig mikinn mann. Um 400 menn sóru honum trúnaðareið, en skömmu síðar var hann drepinn og þá lognaðist allt út af.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	ACT 7:6 Guð sagði enn fremur, að þessir afkomendur hans myndu flytjast burt úr landinu og setjast að annars staðar, þar sem þeir yrðu þrælar í 400 ár.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	ACT 13:19 útrýmdi sjö þjóðum í Kanaanslandi og gaf Ísraelsmönnum land þeirra til ævinlegrar eignar. Eftir það ríktu dómararnir í um 450 ár en svo kom Samúel spámaður.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	ACT 21:37 Í þann mund er þeir voru að fara inn í virkið sagði Páll við hersveitarforingjann: „Má ég segja við þig nokkur orð?“ „Kanntu grísku?“ spurði foringinn undrandi. „Ég hélt að þú værir Egyptinn sem gerði uppreisn fyrir nokkrum árum og tók 4.000 morðingja með sér út í eyðimörkina?“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	ACT 23:23 Síðan kallaði hann á tvo liðsforingja og gaf eftirfarandi fyrirmæli: „Hafið 200 hermenn reiðubúna til að fara til Sesareu klukkan níu í kvöld. Hafið einnig 200 menn vopnaða spjótum og 70 riddara. Hafið tilbúinn hest handa Páli, til þess að koma honum heilum á húfi til Felixar landstjóra.“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	ACT 27:28 Dýpið var mælt og reyndist það vera 40 metrar. Skömmu síðar mældu þeir aftur og var það þá 30 metrar.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	1CO 10:8 Önnur aðvörun felst í því sem gerðist þegar sumir þeirra drýgðu hór. Afleiðing þess var að 23.000 þeirra dóu á einum degi!	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	REV 7:4 Hve margir fengu þetta innsigli? Það fékk ég að vita, þeir voru 144.000. Hinir innsigluðu voru af öllum tólf ættkvíslum Ísraels eins og hér segir: Júda 12.000, Rúben 12.000, Gað 12.000, Asser 12.000, Naftalí 12.000, Manasse 12.000, Símeon 12.000, Leví 12.000, Íssakar 12.000, Sebúlon 12.000, Jósef 12.000 og Benjamín 12.000.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	REV 9:16 Þeir stjórnuðu her sem í voru 200 milljónir manna – mér var sögð talan.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	REV 11:3 Vottana mína tvo mun ég láta spá, tötrum klædda, í 1.260 daga.“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	REV 12:6 En konan flýði út í eyðimörkina, þar sem Guð hafði búið henni stað, og þar yrði hennar gætt í 1.260 daga.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	6	REV 13:18 Þetta er erfitt að skilja, en þeir sem geta, reikni einkennisstafi dýrsins: Tala þess er 666.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	4	REV 14:1 Eftir þetta sá ég lamb sem stóð á Síonfjalli í Jerúsalem og með því voru 144 þúsundir, sem höfðu nafn þess og föður þess skrifuð á enni sér.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	4	REV 14:3 Þessi stórkostlegi kór – en hann var 144.000 raddir – söng nýjan og dásamlegan söng frammi fyrir hásæti Guðs og frammi fyrir öldungunum tuttugu og fjórum. Enginn gat sungið þennan söng nema þessar 144 þúsundir, sem keyptar höfðu verið burt af jörðinni.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	REV 14:20 Í vínpressu þessari, sem er fyrir utan borgina, voru vínþrúgurnar síðan kramdar. Blóðflaumurinn frá vínpressunni varð um 300 kílómetra langur og svo djúpur að hann náði upp undir beisli hestanna.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	0	REV 21:16 Þegar hann hafði lokið því sá hann að borgin var ferhyrnd, hliðarnar voru allar jafnlangar, reyndar var hún líkust teningi því að hæðin sem var 2.400 kílómetrar, var jöfn lengdinni og breiddinni.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	5	REV 21:17 Síðan mældi hann þykkt veggjanna og komst þá að því að þeir voru 65 metrar í þvermál (engillinn kallaði til mín þessi mál og notaði mælieiningar sem allir þekkja).	WARN
+Icelandic---Open-Living-Word	NUMERALS	Source	count	32	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	1	019-PSA-052-001 Þennan sálm orti Davíð til að andmæla óvini sínum Dóeg sem síðar tók af lífi áttatíu og fimm presta og fjölskyldur þeirra (sjá: 1. Sam. 22.). Kallar þú þig hetju?! Þú sem hreykir þér af ódæði gegn þjóð Guðs og herðir þig gegn miskunn hans.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	1	019-PSA-057-001 Þennan sálm orti Davíð þegar hann flýði inn í hellinn undan Sál. (Sjá 1. Sam. 22:1‑2 og 24:1‑9). Ó Guð, vertu mér náðugur, því að ég treysti þér. Ég vil leita skjóls undir vængjum þínum uns storminn hefur lægt.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	1	019-PSA-059-001 Þennan sálm orti Davíð þegar Sál konungur sendi menn heim til hans til að handsama hann og drepa (sjá: 1. Sam. 19:11). Ó, Guð minn, frelsaðu mig frá óvinum mínum! Verndaðu mig gegn þeim sem vilja drepa mig!	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	12	019-PSA-060-001 Þennan sálm orti Davíð þegar hann átti í ófriði við Sýrlendinga og óvíst var um úrslit. Þetta gerðist á sama tíma og Jóab, hershöfðingi Ísraels, vann sigur á 12.000 Edomítum í Saltdalnum. Þú Guð, hefur útskúfað okkur og brotið niður varnirnar. Þú hefur reiðst okkur og tvístrað. Drottinn sýndu aftur miskunn þína.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	5	040-MAT-014-021 (Um 5.000 karlmenn voru þarna þennan dag, auk kvenna og barna.)	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	80	040-MAT-015-021 Jesús hélt síðan burt og fór norður til Týrusar og Sídonar, en þangað voru um 80 kílómetrar.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	4	040-MAT-015-037 Allir fengu nóg, 4.000 karlmenn auk kvenna og barna! Þegar leifunum hafði verið safnað saman, fylltu þær sjö körfur!	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Upprisa Jesú átti sér stað snemma á sunnudagsmorgni og María Magdalena sá hann fyrst allra (hún hafði áður haft sjö illa anda sem Jesús rak út af henni.)	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	20	042-LUK-014-031 Og hvaða konungur haldið þið að léti sig dreyma um að fara í stríð án þess að setjast fyrst niður, ásamt ráðgjöfum sínum, til að ræða um hvort hann geti yfirbugað 20.000 manna óvinalið með 10.000 mönnum?	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	3	042-LUK-016-005 Síðan bauð hann hverjum skuldunaut fyrir sig að koma og ræða um skuldina. Hann spurði þann fyrsta: „Hve mikið skuldar þú atvinnurekanda mínum?“ „3.500 lítra af ólífuolíu,“ svaraði maðurinn. „Já, rétt er það“ sagði framkvæmdastjórinn, „hérna er samningurinn sem þú undirritaðir. En nú skaltu rífa hann og skrifa annan, fyrir helmingnum af þessu magni.“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	1	042-LUK-016-007 „Hve mikið skuldar þú?“ spurði hann næsta mann. „1.000 tunnur af hveiti,“ var svarið. „Hérna,“ sagði hinn, „hirtu samninginn þinn og gerðu nýjan, upp á 800 tunnur.“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	12	042-LUK-024-013 Þennan sama sunnudag fóru tveir af fylgjendum Jesú gangandi til þorpsins Emmaus, sem er rúma 12 kílómetra frá Jerúsalem.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	153	043-JOH-021-011 Símon Pétur fór þá og dró netið á land og taldi úr því 153 stóra fiska. En þótt fjöldinn væri slíkur, hafði netið ekki rifnað.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	120	044-ACT-001-015 Þau voru öll samhuga og staðföst í bæninni. Dag einn, er þarna voru saman komin um 120 manns, stóð Pétur upp og ávarpaði viðstadda þessum orðum:	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	9	044-ACT-002-015 Sumir ykkar segja að þessir menn séu drukknir. Það er ekki rétt. Það er ekki orðið nógu áliðið dags til að svo geti verið. Menn drekka sig ekki fulla klukkan 9 að morgni.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	3	044-ACT-002-041 Þeir sem trúðu orðum Péturs tóku skírn, alls um 3.000 manns.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	400	044-ACT-005-036 Fyrir nokkru taldi Þevdas sig mikinn mann. Um 400 menn sóru honum trúnaðareið, en skömmu síðar var hann drepinn og þá lognaðist allt út af.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	400	044-ACT-007-006 Guð sagði enn fremur, að þessir afkomendur hans myndu flytjast burt úr landinu og setjast að annars staðar, þar sem þeir yrðu þrælar í 400 ár.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	450	044-ACT-013-019 útrýmdi sjö þjóðum í Kanaanslandi og gaf Ísraelsmönnum land þeirra til ævinlegrar eignar. Eftir það ríktu dómararnir í um 450 ár en svo kom Samúel spámaður.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	4	044-ACT-021-037 Í þann mund er þeir voru að fara inn í virkið sagði Páll við hersveitarforingjann: „Má ég segja við þig nokkur orð?“ „Kanntu grísku?“ spurði foringinn undrandi. „Ég hélt að þú værir Egyptinn sem gerði uppreisn fyrir nokkrum árum og tók 4.000 morðingja með sér út í eyðimörkina?“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	200	044-ACT-023-023 Síðan kallaði hann á tvo liðsforingja og gaf eftirfarandi fyrirmæli: „Hafið 200 hermenn reiðubúna til að fara til Sesareu klukkan níu í kvöld. Hafið einnig 200 menn vopnaða spjótum og 70 riddara. Hafið tilbúinn hest handa Páli, til þess að koma honum heilum á húfi til Felixar landstjóra.“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	40	044-ACT-027-028 Dýpið var mælt og reyndist það vera 40 metrar. Skömmu síðar mældu þeir aftur og var það þá 30 metrar.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	23	046-1CO-010-008 Önnur aðvörun felst í því sem gerðist þegar sumir þeirra drýgðu hór. Afleiðing þess var að 23.000 þeirra dóu á einum degi!	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	144	066-REV-007-004 Hve margir fengu þetta innsigli? Það fékk ég að vita, þeir voru 144.000. Hinir innsigluðu voru af öllum tólf ættkvíslum Ísraels eins og hér segir: Júda 12.000, Rúben 12.000, Gað 12.000, Asser 12.000, Naftalí 12.000, Manasse 12.000, Símeon 12.000, Leví 12.000, Íssakar 12.000, Sebúlon 12.000, Jósef 12.000 og Benjamín 12.000.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	200	066-REV-009-016 Þeir stjórnuðu her sem í voru 200 milljónir manna – mér var sögð talan.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	1	066-REV-011-003 Vottana mína tvo mun ég láta spá, tötrum klædda, í 1.260 daga.“	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	1	066-REV-012-006 En konan flýði út í eyðimörkina, þar sem Guð hafði búið henni stað, og þar yrði hennar gætt í 1.260 daga.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	666	066-REV-013-018 Þetta er erfitt að skilja, en þeir sem geta, reikni einkennisstafi dýrsins: Tala þess er 666.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	144	066-REV-014-001 Eftir þetta sá ég lamb sem stóð á Síonfjalli í Jerúsalem og með því voru 144 þúsundir, sem höfðu nafn þess og föður þess skrifuð á enni sér.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	144	066-REV-014-003 Þessi stórkostlegi kór – en hann var 144.000 raddir – söng nýjan og dásamlegan söng frammi fyrir hásæti Guðs og frammi fyrir öldungunum tuttugu og fjórum. Enginn gat sungið þennan söng nema þessar 144 þúsundir, sem keyptar höfðu verið burt af jörðinni.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	300	066-REV-014-020 Í vínpressu þessari, sem er fyrir utan borgina, voru vínþrúgurnar síðan kramdar. Blóðflaumurinn frá vínpressunni varð um 300 kílómetra langur og svo djúpur að hann náði upp undir beisli hestanna.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	2	066-REV-021-016 Þegar hann hafði lokið því sá hann að borgin var ferhyrnd, hliðarnar voru allar jafnlangar, reyndar var hún líkust teningi því að hæðin sem var 2.400 kílómetrar, var jöfn lengdinni og breiddinni.	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	65	066-REV-021-017 Síðan mældi hann þykkt veggjanna og komst þá að því að þeir voru 65 metrar í þvermál (engillinn kallaði til mín þessi mál og notaði mælieiningar sem allir þekkja).	WARN
+Icelandic---Open-Living-Word	NUMERALS	Aionian	count	33	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

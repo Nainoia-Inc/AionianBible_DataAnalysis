@@ -1,0 +1,720 @@
+# File Name: Holy-Bible---Holy-Bible---Swahili---Swahili-Open-Bible---Analysis.txt
+# File Size: 96555       
+# File Date: 12/13/2025 06:01:37
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Wazi Neno Maandiko Matakatifu
+# Bible Name English: Swahili Open Bible
+# Bible Language: Kiswahili
+# Bible Language English: Swahili
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=swhonmm
+# Bible Source Year: 2018, 2024
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Swahili---Swahili-Open-Bible	ENCODING	Source	Holy-Bible---Swahili---Swahili-Open-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Swahili---Swahili-Open-Bible	ENCODING	Aionian	Holy-Bible---Swahili---Swahili-Open-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Swahili---Swahili-Open-Bible	BYTES	Source	bytes / chars	4304278 / 4266246 (multi-byte)	NOTICE
+Swahili---Swahili-Open-Bible	BYTES	Aionian	bytes / chars	4514504 / 4478152 (multi-byte)	NOTICE
+Swahili---Swahili-Open-Bible	BYTES	SourceClean	bytes / chars	4303443 / 4265411 (multi-byte)	NOTICE
+Swahili---Swahili-Open-Bible	BYTES	AionianClean	bytes / chars	4510998 / 4474646 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Swahili---Swahili-Open-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Swahili---Swahili-Open-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Swahili---Swahili-Open-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Swahili---Swahili-Open-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Swahili---Swahili-Open-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Swahili---Swahili-Open-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Swahili---Swahili-Open-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Swahili---Swahili-Open-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Swahili---Swahili-Open-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Swahili---Swahili-Open-Bible	UNICODE	Summary	(-)Orginal	48	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Summary	(+)Aionian	52	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (G)	3321	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : ( )	628066	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (1)	30543	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (:)	34080	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (H)	10679	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (a)	686680	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (p)	30970	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (o)	129032	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (m)	161217	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (n)	219936	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (M)	33899	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (u)	231930	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (g)	49441	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (l)	102149	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (i)	344043	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (b)	56629	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (d)	47338	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (.)	35331	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31103	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (2)	21799	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (k)	204629	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (t)	99347	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (h)	90408	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (,)	56571	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (e)	183154	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (y)	97250	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (3)	12333	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (s)	69654	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (r)	34110	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (4)	9190	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (5)	7099	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (c)	15771	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (6)	6521	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (7)	5972	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (8)	5802	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (9)	5657	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (0)	5356	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (A)	15650	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (P)	5399	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (T)	4797	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (()	503	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : ())	503	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (J)	6838	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (S)	11662	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (L)	5531	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	General Punctuation : ( )	934	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (-)	1634	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source(-)	Basic Latin : (O)	7135	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130598	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42470	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3333	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	10690	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	686879	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	30971	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	129182	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	566251	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	161224	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	220139	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	33900	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	231934	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	49654	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	102218	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	344291	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	56639	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	47356	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	35332	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31115	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	204630	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	99355	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	90537	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	56532	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	183255	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	97264	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	69769	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	34121	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	15773	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10732	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	15659	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	2979	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	5404	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	4799	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (()	593	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : ())	593	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	6837	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	11726	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	5536	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1635	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	7134	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	2	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (G)	3321	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (E)	13010	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (N)	10989	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : ( )	628066	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (1)	30543	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (:)	34080	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (H)	10679	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (a)	686680	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (p)	30970	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (o)	129032	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (m)	161217	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (w)	165369	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (n)	219936	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (z)	47857	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (M)	33899	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (u)	231930	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (g)	49441	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (l)	102149	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (i)	344043	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (b)	56629	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (d)	47338	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (.)	35331	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (\n)	31103	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (2)	21799	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (W)	7477	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (k)	204629	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (t)	99347	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (h)	90408	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (,)	56571	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (e)	183154	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (j)	31540	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (y)	97250	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (v)	18915	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (R)	5171	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (3)	12333	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (s)	69654	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	General Punctuation : (“)	8101	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (I)	8707	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (r)	34110	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	General Punctuation : (”)	6112	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (4)	9190	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (;)	3710	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (5)	7099	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (c)	15771	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (6)	6521	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (f)	28526	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (7)	5972	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (K)	10956	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (8)	5802	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (9)	5657	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (0)	5356	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (A)	15650	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (P)	5399	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (Z)	2403	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (T)	4797	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (V)	1577	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (B)	6581	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (()	503	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (D)	3647	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : ())	503	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (J)	6838	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (F)	642	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (U)	5633	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (S)	11662	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (L)	5531	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	General Punctuation : (‘)	1845	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	General Punctuation : (’)	2024	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (?)	3273	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	General Punctuation : ( )	934	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (Y)	6178	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (!)	1789	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (-)	1634	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (C)	4518	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (O)	7135	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : ([)	26	NOTICE
+Swahili---Swahili-Open-Bible	UNICODE	Source	Basic Latin : (])	26	NOTICE
+
+# VERSIFICATION
+Swahili---Swahili-Open-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Swahili---Swahili-Open-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	()	503 / 503	NOTICE
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[]	26 / 26	NOTICE
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	()	593 / 593	NOTICE
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[]	26 / 26	NOTICE
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	GEN 10:18 Waarvadi, Wasemari na Wahamathi. (Baadaye koo za Wakanaani zilitawanyika,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	GEN 10:19 na mipaka ya Kanaani ikaenea kutoka Sidoni kuelekea Gerari hadi Gaza, kisha kuelekea Sodoma, Gomora, Adma na Seboimu, hadi kufikia Lasha.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	EXO 9:31 (Kitani na shayiri viliharibiwa, kwa kuwa shayiri ilikuwa na masuke, na kitani ilikuwa imechanua maua.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	EXO 9:32 Hata hivyo, ngano na kusemethi hazikuharibiwa kwa sababu zilikuwa hazijakomaa.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	EXO 38:22 (Bezaleli mwana wa Uri, mwana wa Huri, wa kabila la Yuda, alifanya kila kitu Mwenyezi Mungu alichomwamuru Musa,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	EXO 38:23 akiwa pamoja na Oholiabu mwana wa Ahisamaki, wa kabila la Dani, fundi stadi wa kutia nakshi, kubuni michoro, mtarizi kwa rangi ya buluu, ya zambarau, nyekundu na kitani safi.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	LEV 23:37 (“ ‘Hizi ni sikukuu za Mwenyezi Mungu zilizoamriwa, ambazo mtazitangaza kuwa makusanyiko matakatifu kwa kuleta sadaka kwa Mwenyezi Mungu za kuteketeza kwa moto: sadaka za kuteketezwa na sadaka za nafaka, dhabihu na sadaka za vinywaji zitahitajika kila siku.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	LEV 23:38 Sadaka hizi ni nyongeza ya zile mnazozitoa katika Sabato za Mwenyezi Mungu, na pia ni nyongeza ya matoleo yenu ya chochote mlichoweka nadhiri, na sadaka zenu zote za hiari mnazozitoa kwa Mwenyezi Mungu.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	NUM 26:58 Hizi pia zilikuwa koo za Walawi: ukoo wa Walibni; ukoo wa Wahebroni; ukoo wa Wamahli; ukoo wa Wamushi; ukoo wa wana wa Kora. (Kohathi alikuwa baba aliyemzaa Amramu;	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	NUM 26:61 Lakini Nadabu na Abihu walikufa wakati walitoa sadaka mbele za Mwenyezi Mungu kwa moto usioruhusiwa.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (Waemi walikuwa wakiishi huko hapo zamani, watu wenye nguvu na wengi, warefu kama Waanaki.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 Wahori waliishi Seiri, lakini wazao wa Esau waliwafukuza. Waliwaangamiza Wahori na kukaa mahali pao, kama Waisraeli walivyofanya katika nchi ambayo Mwenyezi Mungu aliwapa kama milki yao.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Hiyo pia ilidhaniwa kuwa nchi ya Warefai walioishi huko, lakini Waamoni waliwaita Wazamzumi.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 Nao Waavi ambao waliishi katika vijiji hadi Gaza, Wakaftori waliokuja kutoka Kaftori waliwaangamiza na kukaa mahali pao.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	DEU 3:13 Kisha nusu ya kabila la Manase niliwapa sehemu ya Gileadi iliyobaki pamoja na Bashani yote, ambayo ilikuwa utawala wa Ogu. (Eneo lote la Argobu katika Bashani lilikuwa linajulikana kama nchi ya Warefai.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	DEU 3:14 Yairi, mzao wa kabila la Manase, alichukua eneo lote la nchi ya Argobu hadi kufikia mpaka wa Wageshuri na Wamaaka, ukaitwa kwa jina lake; kwa hiyo hadi leo Bashani inaitwa Hawoth-Yairi.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (Waisraeli walisafiri kutoka visima vya Bene-Yaakani hadi Mosera. Huko Haruni alifariki na kuzikwa, naye Eleazari mwanawe akachukua nafasi yake kama kuhani.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 Hiyo ndiyo sababu ya Walawi kutokuwa na sehemu wala urithi miongoni mwa ndugu zao; Mwenyezi Mungu ndiye urithi wao, kama Mwenyezi Mungu, Mungu wao, alivyowaambia.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	DEU 13:6 Kama ndugu yako hasa, au mwanao au binti yako, au mke umpendaye, au rafiki yako wa karibu sana akikushawishi kwa siri, akisema, “Na twende tukaabudu miungu mingine” (miungu ambayo ninyi wala baba zenu hamkuifahamu,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	DEU 13:7 miungu ya watu wanaowazunguka, ikiwa karibu au mbali, kutoka mwisho mmoja wa nchi hadi mwingine),	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 Nao Waisraeli wakauliza ushauri kwa Mwenyezi Mungu. (Katika siku hizo Sanduku la Agano la Mungu lilikuwa huko,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 na Finehasi mwana wa Eleazari, mwana wa Haruni, alikuwa anahudumu mbele za hilo Sanduku.) Wakauliza, “Je, tupande tena kwenda vitani kupigana na Wabenyamini, ndugu zetu, au la?” Mwenyezi Mungu akajibu, “Nendeni, kwa kuwa kesho nitawatia mikononi mwenu.”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	1KI 9:16 (Farao mfalme wa Misri alikuwa ameushambulia na kuuteka mji wa Gezeri. Alikuwa ameuchoma moto. Akawaua Wakanaani waliokuwa wakikaa humo na kisha kuutoa kwa binti yake, yaani mkewe Sulemani, kama zawadi ya arusi.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	1KI 9:17 Sulemani akaujenga tena Gezeri.) Akajenga Beth-Horoni ya Chini,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	1KI 10:11 (Meli za Hiramu zilileta dhahabu kutoka Ofiri; tena zikaleta shehena kubwa ya miti ya msandali, na vito vya thamani kutoka huko.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	1KI 10:12 Mfalme alitumia miti ya msandali kutengenezea nguzo za Hekalu la Mwenyezi Mungu na za jumba la kifalme, na kutengenezea vinubi na zeze kwa ajili ya waimbaji. Miti mingi ya msandali kiasi hicho haijawahi kuletwa au kuonekana tangu wakati ule.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 naye Ahabu alikuwa amemwita Obadia aliyekuwa msimamizi wa jumba la mfalme. (Obadia alimcha Mwenyezi Mungu sana.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 Yezebeli alipokuwa akiwaua manabii wa Mwenyezi Mungu, Obadia alikuwa amewachukua manabii mia moja na kuwaficha katika mapango mawili, hamsini kwenye kila moja, na akawa akiwapa chakula na maji.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	1KI 21:25 (Hapajapata kamwe kuwa na mtu kama Ahabu, aliyejiuza mwenyewe kutenda uovu machoni pa Mwenyezi Mungu, akiwa anachochewa na Yezebeli mkewe.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	1KI 21:26 Alitenda uovu sana kwa kuzifuata sanamu, kama Waamori ambao Mwenyezi Mungu aliowafukuza mbele ya Israeli.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	2KI 9:14 Basi Yehu mwana wa Yehoshafati, mwana wa Nimshi, akapanga njama dhidi ya Yoramu. (Wakati huu, Yoramu na Waisraeli wote walikuwa wakiilinda Ramoth-Gileadi dhidi ya Hazaeli mfalme wa Aramu,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	2KI 9:15 lakini Mfalme Yoramu alikuwa amerudishwa Yezreeli ili kujiuguza kutokana na majeraha ambayo Waaramu walimtia katika vita na Hazaeli mfalme wa Aramu.) Yehu akasema, “Kama hii ndiyo nia yenu, msimruhusu hata mmoja kutoroka nje ya mji kwenda kupeleka habari huko Yezreeli.”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	1CH 5:1 Wana wa Reubeni mzaliwa wa kwanza wa Israeli (yeye alikuwa mzaliwa wa kwanza, lakini kwa kuwa alikinajisi kitanda cha baba yake, haki zake za mzaliwa wa kwanza walipewa wana wa Yusufu mwana wa Israeli. Hivyo hakuorodheshwa kwenye orodha ya ukoo wao kulingana na haki yake ya kuzaliwa.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	1CH 5:2 Na ingawa Yuda alikuwa na nguvu zaidi ya ndugu zake wote, na mtawala alitoka kwake, haki za mzaliwa wa kwanza zilikuwa za Yusufu.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	1CH 12:1 Hawa ndio watu waliomjia Daudi huko Siklagi, wakati alikuwa amefukuzwa mbele ya Sauli mwana wa Kishi (walikuwa miongoni mwa mashujaa waliomsaidia Daudi vitani.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	1CH 12:2 Walikuwa na pinde na walikuwa na uwezo wa kupiga mishale au kutupa mawe kwa kombeo wakitumia mkono wa kushoto au wa kulia. Hawa walikuwa ndugu zake Sauli kutoka kabila la Benyamini):	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	2CH 9:10 (Watumishi wa Hiramu na wa Sulemani wakaleta dhahabu kutoka Ofiri, tena wakaleta shehena kubwa ya miti ya msandali na vito vya thamani.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	2CH 9:11 Mfalme akatumia hiyo miti ya msandali kuwa ngazi kwa ajili ya Hekalu la Mwenyezi Mungu na kwa jumba la kifalme, pia kwa kutengeneza vinubi na zeze kwa ajili ya waimbaji. Kiasi hicho kingi cha msandali hakijawahi kuingizwa Yuda tangu siku ile.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	EZR 2:1 Basi hawa ndio watu wa jimbo waliotoka uhamishoni, ambao Nebukadneza mfalme wa Babeli alikuwa amewachukua mateka hadi Babeli (walirudi Yerusalemu na Yuda, kila mmoja kwenye mji wake,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	EZR 2:2 wakiwa wamefuatana na Zerubabeli, Yeshua, Nehemia, Seraya, Reelaya, Mordekai, Bilshani, Mispari, Bigwai, Rehumu na Baana):	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	NEH 7:6 Hawa ndio watu wa jimbo waliotoka uhamishoni, ambao Nebukadneza mfalme wa Babeli alikuwa amewachukua mateka (walirudi Yerusalemu na Yuda, kila mmoja kwenye mji wake,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	NEH 7:7 wakiwa wamefuatana na Zerubabeli, Yeshua, Nehemia, Azaria, Raamia, Nahamani, Mordekai, Bilshani, Mispereti, Bigwai, Nehumu na Baana):	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	NEH 11:3 Hawa ndio viongozi wa majimbo waliokuja kuishi Yerusalemu (baadhi ya Waisraeli, makuhani, Walawi, watumishi wa Hekalu, na wazao wa watumishi wa Sulemani waliendelea kuishi katika miji ya Yuda, kila mmoja katika milki yake mwenyewe katika miji mbalimbali,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	NEH 11:4 ambapo watu wengine kutoka Yuda na Benyamini waliishi Yerusalemu). Kutoka wazao wa Yuda: Athaya mwana wa Uzia, mwana wa Zekaria, mwana wa Amaria, mwana wa Shefatia, mwana wa Mahalaleli, mzao wa Peresi.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	JOB 31:35 (“Laiti angekuwepo mtu wa kunisikia! Tazama sasa ninatia sahihi kwenye utetezi wangu: Mwenyezi na anijibu; mshtaki wangu na aweke mashtaka yake kwenye maandishi.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	JOB 31:37 Ningempa hesabu ya kila hatua yangu, ningemwendea kama mwana wa mfalme.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	PRO 7:11 (Ni mwanamke mwenye makelele na mkaidi, miguu yake haitulii nyumbani;	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	PRO 7:12 mara kwenye barabara za mji, mara kwenye viwanja vikubwa, kwenye kila pembe huvizia.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	DAN 10:21 Lakini kwanza nitakuambia kile kilichoandikwa katika Kitabu cha Kweli. (Hakuna hata mmoja anayenisaidia dhidi yao isipokuwa Mikaeli, mkuu wenu.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	DAN 11:1 Nami katika mwaka wa kwanza wa utawala wa Dario Mmedi, nilisimama kumsaidia na kumlinda.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	AMO 5:8 (yeye ambaye alifanya Kilimia na Orioni, ambaye hugeuza giza kuwa mapambazuko na mchana kuwa usiku, ambaye huyaita maji ya bahari na kuyamwaga juu ya nchi: Mwenyezi Mungu ndilo jina lake;	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	AMO 5:9 yeye hufanya maangamizi kwenye ngome na kufanya mji uliozungushiwa ngome kuwa ukiwa),	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAT 17:20 Akawajibu, “Kwa sababu ya imani yenu ndogo. Ninawaambia kweli, mkiwa na imani ndogo kama punje ya haradali, mtauambia mlima huu, ‘Ondoka hapa uende pale,’ nao utaondoka. Wala hakutakuwa na jambo lisilowezekana kwenu. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAT 17:21 Lakini hali kama hii haitoki ila kwa kuomba na kufunga.]”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAT 18:10 “Chungeni ili msimdharau mmoja wa hawa wadogo. Kwa maana nawaambia, malaika wao mbinguni daima wanauona uso wa Baba yangu aliye mbinguni. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAT 18:11 Kwa maana Mwana wa Adamu alikuja kuokoa kile kilichopotea.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 “Lakini ole wenu, walimu wa Torati na Mafarisayo, enyi wanafiki! Kwa maana mnawafungia watu milango ya ufalme wa mbinguni. Ninyi wenyewe hamuingii humo, nao wale wanaotaka kuingia mnawazuia. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 Ole wenu walimu wa Torati na Mafarisayo, enyi wanafiki! Mnakula katika nyumba za wajane, nanyi kwa kujifanya kuwa wema, mnasali sala ndefu. Kwa hiyo hukumu yenu itakuwa kuu zaidi.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (Kwa kuwa Mafarisayo na Wayahudi wote hawali chakula pasipo kunawa kwa kufuata desturi za wazee wao.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 Wanapotoka sokoni hawawezi kula pasipo kunawa. Pia kuna desturi zingine nyingi wanazofuata kama vile jinsi ya kuosha vikombe, vyungu na vyombo vya shaba.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAR 7:15 Hakuna kitu kinachomwingia mtu kimtiacho unajisi, lakini kile kimtokacho ndicho kimtiacho unajisi. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAR 7:16 Kama mtu yeyote ana masikio ya kusikia na asikie.]”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAR 9:43 Mkono wako ukikusababisha kutenda dhambi, ukate. Ni afadhali kwako kuingia katika uzima ukiwa na mkono mmoja, kuliko kuwa na mikono miwili lakini ukaingia Jehanamu, mahali ambako moto hauzimiki. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAR 9:44 Ni mahali ambako funza wao hawafi wala moto wao hauzimiki.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAR 9:45 Mguu wako ukikusababisha kutenda dhambi, ukate. Ni afadhali kwako kuingia katika uzima ukiwa kiwete, kuliko kuwa na miguu miwili lakini ukaingia Jehanamu. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAR 9:46 Ni mahali ambako funza wao hawafi wala moto wao hauzimiki.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAR 11:25 Nanyi kila msimamapo kusali, sameheni mkiwa na neno na mtu, ili naye Baba yenu aliye mbinguni awasamehe ninyi makosa yenu. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAR 11:26 Lakini kama ninyi msiposamehe, wala Baba yenu aliye mbinguni hatawasamehe ninyi makosa yenu.]”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAR 15:27 Pamoja naye walisulubiwa wanyang’anyi wawili, mmoja upande wake wa kuume na mwingine upande wa kushoto. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAR 15:28 Nalo andiko likatimizwa, lisemalo, “Alihesabiwa pamoja na watenda dhambi.”]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	MAR 16:8 Hivyo wakatoka, wakakimbia kutoka mle kaburini wakiwa na hofu kuu na mshangao. Nao hawakumwambia mtu yeyote neno lolote, kwa sababu waliogopa. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	MAR 16:20 Kisha wanafunzi wake wakatoka, wakahubiri kila mahali, naye Bwana Isa akatenda kazi pamoja nao na kulithibitisha neno lake kwa ishara zilizofuatana nalo.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	LUK 7:29 (Watu wote, hata watoza ushuru, waliposikia maneno ya Isa, walikubali kwamba mpango wa Mungu ni haki, maana walikuwa wamebatizwa na Yahya.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	LUK 7:30 Lakini Mafarisayo na wataalamu wa Torati walikataa mpango wa Mungu kwao kwa kutokubali kubatizwa na Yahya.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	LUK 17:35 Wanawake wawili watakuwa wanasaga nafaka pamoja; naye mmoja atatwaliwa na mwingine ataachwa. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	LUK 17:36 Wanaume wawili watakuwa wanafanya kazi pamoja shambani; mmoja atachukuliwa na mwingine ataachwa.]”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	LUK 23:16 Kwa hiyo nitaamuru apigwe mijeledi na kumwachilia.” [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	LUK 23:17 Kwa kuwa ilikuwa lazima kuwafungulia mfungwa mmoja wakati wa Sikukuu.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	JOH 5:3 Hapa palikuwa na idadi kubwa ya wasiojiweza, yaani vipofu, viwete, na waliopooza [wakingojea maji yatibuliwe.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	JOH 5:4 Kwa maana malaika alikuwa akishuka wakati fulani, akayatibua maji. Yule angekuwa wa kwanza kuingia ndani baada ya maji kutibuliwa alipona ugonjwa wowote aliokuwa nao].	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	JOH 7:52 Wakamjibu, “Je, wewe pia unatoka Galilaya? Chunguza nawe utaona kwamba hakuna nabii atokae Galilaya!” [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 Yule mwanamke akajibu, “Hakuna hata mmoja, Bwana.” Isa akamwambia, “Hata mimi sikuhukumu. Nenda zako. Kuanzia sasa usitende dhambi tena.”]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	ACT 1:18 (Basi Yuda alinunua shamba kwa zile fedha za uovu alizopata; akiwa huko shambani akaanguka, akapasuka na matumbo yote yakatoka nje.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 Kila mtu Yerusalemu akasikia habari hizi, kwa hiyo wakapaita mahali hapo kwa lugha yao, Akeldama, yaani Shamba la Damu.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	ACT 8:36 Walipokuwa wakiendelea na safari wakafika mahali palipokuwa na maji, yule towashi akamuuliza Filipo, “Tazama, hapa kuna maji. Kitu gani kitanizuia nisibatizwe?” [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	ACT 8:37 Filipo akamwambia, “Ukiamini kwa moyo wako wote, unaweza kubatizwa.” Akajibu, “Naamini kuwa Isa Al-Masihi ni Mwana wa Mungu.”]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	ACT 15:33 Baada ya kukaa huko Antiokia kwa muda, wakaagwa kwa amani na wale ndugu ili waende kwa wale waliowatuma. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	ACT 15:34 Lakini Sila bado akaendelea kukaa huko.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	ACT 24:6 na hata amejaribu kulinajisi Hekalu, hivyo tukamkamata. [Tukataka kumhukumu kufuatana na sheria zetu.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	ACT 24:8 akiwaamuru washtaki wake waje mbele yako.] Kwa kumchunguza mwenyewe utaweza kujua ukweli kuhusu mashtaka haya yote tunayoleta dhidi yake.”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	ACT 28:28 “Basi na ijulikane kwenu kwamba, huu wokovu wa Mungu umepelekwa kwa watu wa Mataifa, nao watasikiliza.” [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	ACT 28:29 Baada yake kusema maneno haya, Wayahudi wakaondoka wakiwa na hoja nyingi miongoni mwao.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	ROM 2:14 (Naam, wakati wa watu wa Mataifa, ambao hawana sheria, wanapofanya kwa asili mambo yatakiwayo na sheria, wao ni sheria kwa nafsi zao wenyewe, hata ingawa hawana sheria.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	ROM 2:15 Wao wanaonesha kwamba lile linalotakiwa na sheria limeandikwa kwenye mioyo yao, ambayo pia dhamiri zao zikiwashuhudia, nayo mawazo yao yenye kupingana yatawashtaki au kuwatetea.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	ROM 16:23 Gayo, ambaye ni mwenyeji wangu na wa kundi lote la waumini, anawasalimu. Erasto, mweka hazina wa mji huu, pamoja na Kwarto ndugu yetu, pia wanawasalimu. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	ROM 16:24 Neema ya Bwana wetu Isa Al-Masihi iwe pamoja nanyi nyote. Amen.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(1/0)	EPH 4:9 (Asemapo “alipaa juu,” maana yake nini isipokuwa ni kusema kwamba Al-Masihi pia alishuka pande za chini sana za dunia?	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	(0/1)	EPH 4:10 Yeye aliyeshuka ndiye aliyepaa juu zaidi kupita mbingu zote, ili apate kuujaza ulimwengu wote.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[1/0]	1JO 5:7 Kwa maana wako watatu washuhudiao [mbinguni: hao ni Baba, Neno na Roho wa Mungu. Hawa watatu ni umoja.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Source	[0/1]	1JO 5:8 Pia wako mashahidi watatu duniani]: hao ni Roho, Maji na Damu; hawa watatu wanakubaliana katika umoja.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	001 GEN 010 018 Waarvadi, Wasemari na Wahamathi. (Baadaye koo za Wakanaani zilitawanyika,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 010 019 na mipaka ya Kanaani ikaenea kutoka Sidoni kuelekea Gerari hadi Gaza, kisha kuelekea Sodoma, Gomora, Adma na Seboimu, hadi kufikia Lasha.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (Kitani na shayiri viliharibiwa, kwa kuwa shayiri ilikuwa na masuke, na kitani ilikuwa imechanua maua.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 Hata hivyo, ngano na kusemethi hazikuharibiwa kwa sababu zilikuwa hazijakomaa.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 038 022 (Bezaleli mwana wa Uri, mwana wa Huri, wa kabila la Yuda, alifanya kila kitu Mwenyezi Mungu alichomwamuru Musa,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 038 023 akiwa pamoja na Oholiabu mwana wa Ahisamaki, wa kabila la Dani, fundi stadi wa kutia nakshi, kubuni michoro, mtarizi kwa rangi ya buluu, ya zambarau, nyekundu na kitani safi.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	003 LEV 023 037 (“‘Hizi ni sikukuu za Mwenyezi Mungu zilizoamriwa, ambazo mtazitangaza kuwa makusanyiko matakatifu kwa kuleta sadaka kwa Mwenyezi Mungu za kuteketeza kwa moto: sadaka za kuteketezwa na sadaka za nafaka, dhabihu na sadaka za vinywaji zitahitajika kila siku.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	003 LEV 023 038 Sadaka hizi ni nyongeza ya zile mnazozitoa katika Sabato za Mwenyezi Mungu, na pia ni nyongeza ya matoleo yenu ya chochote mlichoweka nadhiri, na sadaka zenu zote za hiari mnazozitoa kwa Mwenyezi Mungu.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 026 058 Hizi pia zilikuwa koo za Walawi: ukoo wa Walibni; ukoo wa Wahebroni; ukoo wa Wamahli; ukoo wa Wamushi; ukoo wa wana wa Kora. (Kohathi alikuwa baba aliyemzaa Amramu;	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 026 061 Lakini Nadabu na Abihu walikufa wakati walitoa sadaka mbele za Mwenyezi Mungu kwa moto usioruhusiwa.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Waemi walikuwa wakiishi huko hapo zamani, watu wenye nguvu na wengi, warefu kama Waanaki.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Wahori waliishi Seiri, lakini wazao wa Esau waliwafukuza. Waliwaangamiza Wahori na kukaa mahali pao, kama Waisraeli walivyofanya katika nchi ambayo Mwenyezi Mungu aliwapa kama milki yao.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Hiyo pia ilidhaniwa kuwa nchi ya Warefai walioishi huko, lakini Waamoni waliwaita Wazamzumi.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Nao Waavi ambao waliishi katika vijiji hadi Gaza, Wakaftori waliokuja kutoka Kaftori waliwaangamiza na kukaa mahali pao.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 Kisha nusu ya kabila la Manase niliwapa sehemu ya Gileadi iliyobaki pamoja na Bashani yote, ambayo ilikuwa utawala wa Ogu. (Eneo lote la Argobu katika Bashani lilikuwa linajulikana kama nchi ya Warefai.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 Yairi, mzao wa kabila la Manase, alichukua eneo lote la nchi ya Argobu hadi kufikia mpaka wa Wageshuri na Wamaaka, ukaitwa kwa jina lake; kwa hiyo hadi leo Bashani inaitwa Hawoth-Yairi.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Waisraeli walisafiri kutoka visima vya Bene-Yaakani hadi Mosera. Huko Haruni alifariki na kuzikwa, naye Eleazari mwanawe akachukua nafasi yake kama kuhani.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Hiyo ndiyo sababu ya Walawi kutokuwa na sehemu wala urithi miongoni mwa ndugu zao; Mwenyezi Mungu ndiye urithi wao, kama Mwenyezi Mungu, Mungu wao, alivyowaambia.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 013 006 Kama ndugu yako hasa, au mwanao au binti yako, au mke umpendaye, au rafiki yako wa karibu sana akikushawishi kwa siri, akisema, “Na twende tukaabudu miungu mingine” (miungu ambayo ninyi wala baba zenu hamkuifahamu,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 013 007 miungu ya watu wanaowazunguka, ikiwa karibu au mbali, kutoka mwisho mmoja wa nchi hadi mwingine),	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Nao Waisraeli wakauliza ushauri kwa Mwenyezi Mungu. (Katika siku hizo Sanduku la Agano la Mungu lilikuwa huko,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 na Finehasi mwana wa Eleazari, mwana wa Haruni, alikuwa anahudumu mbele za hilo Sanduku.) Wakauliza, “Je, tupande tena kwenda vitani kupigana na Wabenyamini, ndugu zetu, au la?” Mwenyezi Mungu akajibu, “Nendeni, kwa kuwa kesho nitawatia mikononi mwenu.”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 009 016 (Farao mfalme wa Misri alikuwa ameushambulia na kuuteka mji wa Gezeri. Alikuwa ameuchoma moto. Akawaua Wakanaani waliokuwa wakikaa humo na kisha kuutoa kwa binti yake, yaani mkewe Sulemani, kama zawadi ya arusi.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 009 017 Sulemani akaujenga tena Gezeri.) Akajenga Beth-Horoni ya Chini,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (Meli za Hiramu zilileta dhahabu kutoka Ofiri; tena zikaleta shehena kubwa ya miti ya msandali, na vito vya thamani kutoka huko.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 Mfalme alitumia miti ya msandali kutengenezea nguzo za Hekalu la Mwenyezi Mungu na za jumba la kifalme, na kutengenezea vinubi na zeze kwa ajili ya waimbaji. Miti mingi ya msandali kiasi hicho haijawahi kuletwa au kuonekana tangu wakati ule.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 naye Ahabu alikuwa amemwita Obadia aliyekuwa msimamizi wa jumba la mfalme. (Obadia alimcha Mwenyezi Mungu sana.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Yezebeli alipokuwa akiwaua manabii wa Mwenyezi Mungu, Obadia alikuwa amewachukua manabii mia moja na kuwaficha katika mapango mawili, hamsini kwenye kila moja, na akawa akiwapa chakula na maji.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Hapajapata kamwe kuwa na mtu kama Ahabu, aliyejiuza mwenyewe kutenda uovu machoni pa Mwenyezi Mungu, akiwa anachochewa na Yezebeli mkewe.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 Alitenda uovu sana kwa kuzifuata sanamu, kama Waamori ambao Mwenyezi Mungu aliowafukuza mbele ya Israeli.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Basi Yehu mwana wa Yehoshafati, mwana wa Nimshi, akapanga njama dhidi ya Yoramu. (Wakati huu, Yoramu na Waisraeli wote walikuwa wakiilinda Ramoth-Gileadi dhidi ya Hazaeli mfalme wa Aramu,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 lakini Mfalme Yoramu alikuwa amerudishwa Yezreeli ili kujiuguza kutokana na majeraha ambayo Waaramu walimtia katika vita na Hazaeli mfalme wa Aramu.) Yehu akasema, “Kama hii ndiyo nia yenu, msimruhusu hata mmoja kutoroka nje ya mji kwenda kupeleka habari huko Yezreeli.”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Wana wa Reubeni mzaliwa wa kwanza wa Israeli (yeye alikuwa mzaliwa wa kwanza, lakini kwa kuwa alikinajisi kitanda cha baba yake, haki zake za mzaliwa wa kwanza walipewa wana wa Yusufu mwana wa Israeli. Hivyo hakuorodheshwa kwenye orodha ya ukoo wao kulingana na haki yake ya kuzaliwa.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Na ingawa Yuda alikuwa na nguvu zaidi ya ndugu zake wote, na mtawala alitoka kwake, haki za mzaliwa wa kwanza zilikuwa za Yusufu.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 012 001 Hawa ndio watu waliomjia Daudi huko Siklagi, wakati alikuwa amefukuzwa mbele ya Sauli mwana wa Kishi (walikuwa miongoni mwa mashujaa waliomsaidia Daudi vitani.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 012 002 Walikuwa na pinde na walikuwa na uwezo wa kupiga mishale au kutupa mawe kwa kombeo wakitumia mkono wa kushoto au wa kulia. Hawa walikuwa ndugu zake Sauli kutoka kabila la Benyamini):	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (Watumishi wa Hiramu na wa Sulemani wakaleta dhahabu kutoka Ofiri, tena wakaleta shehena kubwa ya miti ya msandali na vito vya thamani.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 Mfalme akatumia hiyo miti ya msandali kuwa ngazi kwa ajili ya Hekalu la Mwenyezi Mungu na kwa jumba la kifalme, pia kwa kutengeneza vinubi na zeze kwa ajili ya waimbaji. Kiasi hicho kingi cha msandali hakijawahi kuingizwa Yuda tangu siku ile.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	015 EZR 002 001 Basi hawa ndio watu wa jimbo waliotoka uhamishoni, ambao Nebukadneza mfalme wa Babeli alikuwa amewachukua mateka hadi Babeli (walirudi Yerusalemu na Yuda, kila mmoja kwenye mji wake,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	015 EZR 002 002 wakiwa wamefuatana na Zerubabeli, Yeshua, Nehemia, Seraya, Reelaya, Mordekai, Bilshani, Mispari, Bigwai, Rehumu na Baana):	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	016 NEH 007 006 Hawa ndio watu wa jimbo waliotoka uhamishoni, ambao Nebukadneza mfalme wa Babeli alikuwa amewachukua mateka (walirudi Yerusalemu na Yuda, kila mmoja kwenye mji wake,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	016 NEH 007 007 wakiwa wamefuatana na Zerubabeli, Yeshua, Nehemia, Azaria, Raamia, Nahamani, Mordekai, Bilshani, Mispereti, Bigwai, Nehumu na Baana):	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	016 NEH 011 003 Hawa ndio viongozi wa majimbo waliokuja kuishi Yerusalemu (baadhi ya Waisraeli, makuhani, Walawi, watumishi wa Hekalu, na wazao wa watumishi wa Sulemani waliendelea kuishi katika miji ya Yuda, kila mmoja katika milki yake mwenyewe katika miji mbalimbali,	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	016 NEH 011 004 ambapo watu wengine kutoka Yuda na Benyamini waliishi Yerusalemu). Kutoka wazao wa Yuda: Athaya mwana wa Uzia, mwana wa Zekaria, mwana wa Amaria, mwana wa Shefatia, mwana wa Mahalaleli, mzao wa Peresi.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	018 JOB 031 035 (“Laiti angekuwepo mtu wa kunisikia! Tazama sasa ninatia sahihi kwenye utetezi wangu: Mwenyezi na anijibu; mshtaki wangu na aweke mashtaka yake kwenye maandishi.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	018 JOB 031 037 Ningempa hesabu ya kila hatua yangu, ningemwendea kama mwana wa mfalme.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (Ni mwanamke mwenye makelele na mkaidi, miguu yake haitulii nyumbani;	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 mara kwenye barabara za mji, mara kwenye viwanja vikubwa, kwenye kila pembe huvizia.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	027 DAN 010 021 Lakini kwanza nitakuambia kile kilichoandikwa katika Kitabu cha Kweli. (Hakuna hata mmoja anayenisaidia dhidi yao isipokuwa Mikaeli, mkuu wenu.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	027 DAN 011 001 Nami katika mwaka wa kwanza wa utawala wa Dario Mmedi, nilisimama kumsaidia na kumlinda.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	030 AMO 005 008 (yeye ambaye alifanya Kilimia na Orioni, ambaye hugeuza giza kuwa mapambazuko na mchana kuwa usiku, ambaye huyaita maji ya bahari na kuyamwaga juu ya nchi: Mwenyezi Mungu ndilo jina lake;	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	030 AMO 005 009 yeye hufanya maangamizi kwenye ngome na kufanya mji uliozungushiwa ngome kuwa ukiwa),	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 017 020 Akawajibu, “Kwa sababu ya imani yenu ndogo. Ninawaambia kweli, mkiwa na imani ndogo kama punje ya haradali, mtauambia mlima huu, ‘Ondoka hapa uende pale,’ nao utaondoka. Wala hakutakuwa na jambo lisilowezekana kwenu. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 017 021 Lakini hali kama hii haitoki ila kwa kuomba na kufunga.]”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 018 010 “Chungeni ili msimdharau mmoja wa hawa wadogo. Kwa maana nawaambia, malaika wao mbinguni daima wanauona uso wa Baba yangu aliye mbinguni. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 018 011 Kwa maana Mwana wa Adamu alikuja kuokoa kile kilichopotea.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 “Lakini ole wenu, walimu wa Torati na Mafarisayo, enyi wanafiki! Kwa maana mnawafungia watu milango ya ufalme wa mbinguni. Ninyi wenyewe hamuingii humo, nao wale wanaotaka kuingia mnawazuia. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 023 014 Ole wenu walimu wa Torati na Mafarisayo, enyi wanafiki! Mnakula katika nyumba za wajane, nanyi kwa kujifanya kuwa wema, mnasali sala ndefu. Kwa hiyo hukumu yenu itakuwa kuu zaidi.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Kwa kuwa Mafarisayo na Wayahudi wote hawali chakula pasipo kunawa kwa kufuata desturi za wazee wao.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 Wanapotoka sokoni hawawezi kula pasipo kunawa. Pia kuna desturi zingine nyingi wanazofuata kama vile jinsi ya kuosha vikombe, vyungu na vyombo vya shaba.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 007 015 Hakuna kitu kinachomwingia mtu kimtiacho unajisi, lakini kile kimtokacho ndicho kimtiacho unajisi. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 007 016 Kama mtu yeyote ana masikio ya kusikia na asikie.]”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 043 Mkono wako ukikusababisha kutenda dhambi, ukate. Ni afadhali kwako kuingia katika uzima ukiwa na mkono mmoja, kuliko kuwa na mikono miwili lakini ukaingia Jehanamu, mahali ambako moto hauzimiki. [ (Geenna g1067)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 044 Ni mahali ambako funza wao hawafi wala moto wao hauzimiki.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 045 Mguu wako ukikusababisha kutenda dhambi, ukate. Ni afadhali kwako kuingia katika uzima ukiwa kiwete, kuliko kuwa na miguu miwili lakini ukaingia Jehanamu. [ (Geenna g1067)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 046 Ni mahali ambako funza wao hawafi wala moto wao hauzimiki.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 011 025 Nanyi kila msimamapo kusali, sameheni mkiwa na neno na mtu, ili naye Baba yenu aliye mbinguni awasamehe ninyi makosa yenu. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 011 026 Lakini kama ninyi msiposamehe, wala Baba yenu aliye mbinguni hatawasamehe ninyi makosa yenu.]”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 015 027 Pamoja naye walisulubiwa wanyang’anyi wawili, mmoja upande wake wa kuume na mwingine upande wa kushoto. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 015 028 Nalo andiko likatimizwa, lisemalo, “Alihesabiwa pamoja na watenda dhambi.”]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 008 Hivyo wakatoka, wakakimbia kutoka mle kaburini wakiwa na hofu kuu na mshangao. Nao hawakumwambia mtu yeyote neno lolote, kwa sababu waliogopa. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 Kisha wanafunzi wake wakatoka, wakahubiri kila mahali, naye Bwana Isa akatenda kazi pamoja nao na kulithibitisha neno lake kwa ishara zilizofuatana nalo.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	042 LUK 007 029 (Watu wote, hata watoza ushuru, waliposikia maneno ya Isa, walikubali kwamba mpango wa Mungu ni haki, maana walikuwa wamebatizwa na Yahya.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	042 LUK 007 030 Lakini Mafarisayo na wataalamu wa Torati walikataa mpango wa Mungu kwao kwa kutokubali kubatizwa na Yahya.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 017 035 Wanawake wawili watakuwa wanasaga nafaka pamoja; naye mmoja atatwaliwa na mwingine ataachwa. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 017 036 Wanaume wawili watakuwa wanafanya kazi pamoja shambani; mmoja atachukuliwa na mwingine ataachwa.]”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 023 016 Kwa hiyo nitaamuru apigwe mijeledi na kumwachilia.” [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 023 017 Kwa kuwa ilikuwa lazima kuwafungulia mfungwa mmoja wakati wa Sikukuu.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 003 Hapa palikuwa na idadi kubwa ya wasiojiweza, yaani vipofu, viwete, na waliopooza [wakingojea maji yatibuliwe.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 005 004 Kwa maana malaika alikuwa akishuka wakati fulani, akayatibua maji. Yule angekuwa wa kwanza kuingia ndani baada ya maji kutibuliwa alipona ugonjwa wowote aliokuwa nao].	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 052 Wakamjibu, “Je, wewe pia unatoka Galilaya? Chunguza nawe utaona kwamba hakuna nabii atokae Galilaya!” [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 Yule mwanamke akajibu, “Hakuna hata mmoja, Bwana.” Isa akamwambia, “Hata mimi sikuhukumu. Nenda zako. Kuanzia sasa usitende dhambi tena.”]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Basi Yuda alinunua shamba kwa zile fedha za uovu alizopata; akiwa huko shambani akaanguka, akapasuka na matumbo yote yakatoka nje.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Kila mtu Yerusalemu akasikia habari hizi, kwa hiyo wakapaita mahali hapo kwa lugha yao, Akeldama, yaani Shamba la Damu.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 008 036 Walipokuwa wakiendelea na safari wakafika mahali palipokuwa na maji, yule towashi akamuuliza Filipo, “Tazama, hapa kuna maji. Kitu gani kitanizuia nisibatizwe?” [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 008 037 Filipo akamwambia, “Ukiamini kwa moyo wako wote, unaweza kubatizwa.” Akajibu, “Naamini kuwa Isa Al-Masihi ni Mwana wa Mungu.”]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 015 033 Baada ya kukaa huko Antiokia kwa muda, wakaagwa kwa amani na wale ndugu ili waende kwa wale waliowatuma. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 015 034 Lakini Sila bado akaendelea kukaa huko.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 024 006 na hata amejaribu kulinajisi Hekalu, hivyo tukamkamata. [Tukataka kumhukumu kufuatana na sheria zetu.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 024 008 akiwaamuru washtaki wake waje mbele yako.] Kwa kumchunguza mwenyewe utaweza kujua ukweli kuhusu mashtaka haya yote tunayoleta dhidi yake.”	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 028 028 “Basi na ijulikane kwenu kwamba, huu wokovu wa Mungu umepelekwa kwa watu wa Mataifa, nao watasikiliza.” [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 028 029 Baada yake kusema maneno haya, Wayahudi wakaondoka wakiwa na hoja nyingi miongoni mwao.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 014 (Naam, wakati wa watu wa Mataifa, ambao hawana sheria, wanapofanya kwa asili mambo yatakiwayo na sheria, wao ni sheria kwa nafsi zao wenyewe, hata ingawa hawana sheria.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 Wao wanaonesha kwamba lile linalotakiwa na sheria limeandikwa kwenye mioyo yao, ambayo pia dhamiri zao zikiwashuhudia, nayo mawazo yao yenye kupingana yatawashtaki au kuwatetea.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	045 ROM 016 023 Gayo, ambaye ni mwenyeji wangu na wa kundi lote la waumini, anawasalimu. Erasto, mweka hazina wa mji huu, pamoja na Kwarto ndugu yetu, pia wanawasalimu. [	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	045 ROM 016 024 Neema ya Bwana wetu Isa Al-Masihi iwe pamoja nanyi nyote. Amen.]	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Asemapo “alipaa juu,” maana yake nini isipokuwa ni kusema kwamba Al-Masihi pia alishuka pande za chini sana za dunia?	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 Yeye aliyeshuka ndiye aliyepaa juu zaidi kupita mbingu zote, ili apate kuujaza ulimwengu wote.)	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[1/0]	062 1JO 005 007 Kwa maana wako watatu washuhudiao [mbinguni: hao ni Baba, Neno na Roho wa Mungu. Hawa watatu ni umoja.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Aionian	[0/1]	062 1JO 005 008 Pia wako mashahidi watatu duniani]: hao ni Roho, Maji na Damu; hawa watatu wanakubaliana katika umoja.	WARN
+Swahili---Swahili-Open-Bible	ENCLOSURES	Summary	lines	100 / 100	NOTICE
+
+# UNEXPECTED
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Swahili---Swahili-Open-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	GEN 5:7 Baada ya kumzaa Enoshi, Sethi aliishi miaka mia nane na saba (807), akawa na watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	GEN 5:8 Sethi aliishi jumla ya miaka mia tisa na kumi na mbili (912), ndipo akafa.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	GEN 5:10 Baada ya kumzaa Kenani, Enoshi aliishi miaka mia nane na kumi na tano (815), naye alikuwa na watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	GEN 5:11 Enoshi aliishi jumla ya miaka mia tisa na tano (905), ndipo akafa.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	GEN 5:17 Mahalaleli aliishi jumla ya miaka mia nane tisini na tano (895), ndipo akafa.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	GEN 5:18 Yaredi alipokuwa ameishi miaka mia moja na sitini na mbili (162), akamzaa Idrisi.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	GEN 5:20 Yaredi aliishi jumla ya miaka mia tisa na sitini na mbili (962), ndipo akafa.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	GEN 5:23 Idrisi aliishi jumla ya miaka mia tatu sitini na tano (365).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	GEN 5:25 Methusela alipokuwa ameishi miaka mia moja na themanini na saba (187), akamzaa Lameki.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	GEN 5:26 Baada ya kumzaa Lameki, Methusela aliishi miaka mia saba na themanini na mbili (782), akawa na watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	9	GEN 5:27 Methusela aliishi jumla ya miaka mia tisa sitini na tisa (969), ndipo akafa.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	GEN 5:28 Lameki alipokuwa ameishi miaka mia moja na themanini na mbili (182), alimzaa mwana.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	GEN 5:30 Baada ya Nuhu kuzaliwa, Lameki aliishi miaka mia tano na tisini na tano (595), akawa na watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	GEN 5:31 Lameki aliishi jumla ya miaka mia saba sabini na saba (777), ndipo akafa.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	1	GEN 8:13 Kufikia siku ya kwanza ya mwezi wa kwanza wa mwaka wa mia sita na moja (601) wa maisha ya Nuhu, maji yalikuwa yamekauka duniani. Kisha Nuhu akatoa kifuniko juu ya safina, akaona ya kuwa uso wa ardhi ulikuwa umekauka.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	GEN 11:13 Baada ya kumzaa Shela, Arfaksadi aliishi miaka mia nne na tatu (403), akazaa watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	GEN 11:15 Baada ya kumzaa Eberi, Shela aliishi miaka mia nne na tatu (403), akazaa watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	GEN 11:17 Baada ya kumzaa Pelegi, Eberi aliishi miaka mia nne na thelathini (430), akazaa watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	9	GEN 11:19 Baada ya kumzaa Reu, Pelegi aliishi miaka mia mbili na tisa (209), akazaa watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	GEN 11:21 Baada ya kumzaa Serugi, Reu aliishi miaka mia mbili na saba (207), akazaa watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	9	GEN 11:25 Baada ya kumzaa Tera, Nahori aliishi miaka mia moja na kumi na tisa (119), akazaa watoto wengine wa kiume na wa kike.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	GEN 11:32 Tera aliishi miaka mia mbili na mitano (205), akafa huko Harani.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	GEN 14:14 Abramu alipopata habari kwamba jamaa yake amechukuliwa mateka, akawaita watu mia tatu na kumi na nane (318) wa nyumbani mwake waliokuwa wamefunzwa kupigana vita, wakawafuatilia hadi Dani.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	GEN 23:1 Sara aliishi miaka mia moja na ishirini na saba (127).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	GEN 25:7 Kwa jumla, Ibrahimu aliishi miaka mia moja na sabini na tano (175).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	GEN 25:17 Kwa jumla Ishmaeli aliishi miaka mia moja na thelathini na saba (137). Akapumua pumzi ya mwisho, akafa, naye akakusanywa pamoja na watu wake.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	GEN 47:28 Yakobo akaishi Misri miaka kumi na saba, nayo miaka ya maisha yake ilikuwa mia moja na arobaini na saba (147).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	EXO 6:18 Wana wa Kohathi walikuwa: Amramu, Ishari, Hebroni na Uzieli. Kohathi aliishi miaka mia moja na thelathini na tatu (133).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EXO 12:40 Waisraeli waliishi Misri kwa muda wa miaka mia nne na thelathini (430).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EXO 12:41 Siku ya mwisho ya hiyo miaka mia nne na thelathini (430), vikosi vyote vya Mwenyezi Mungu viliondoka Misri.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EXO 38:24 Jumla ya dhahabu iliyopatikana kutokana na sadaka ya kuinuliwa kwa ajili ya kazi ya mahali patakatifu ilikuwa na uzito wa talanta ishirini na tisa na shekeli mia saba na thelathini (730), kulingana na shekeli ya mahali patakatifu.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	EXO 38:25 Fedha iliyopatikana kutokana na jumuiya ya watu waliohesabiwa ilikuwa yenye uzito wa talanta mia moja na shekeli elfu moja mia saba sabini na tano (1,775), kulingana na shekeli ya mahali patakatifu.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EXO 38:26 Kila mtu alitoa beka moja, ambayo ni sawa na nusu shekeli ya fedha, kwa kazi ya mahali patakatifu, kutoka kwa kila mtu aliyekuwa amehesabiwa mwenye umri wa miaka ishirini au zaidi, ambao jumla yao walikuwa wanaume elfu mia sita na tatu mia tano na hamsini (603,550).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	EXO 38:28 Akatumia hizo shekeli elfu moja mia saba sabini na tano (1,775) kutengeneza kulabu za nguzo, kufunika ncha za nguzo, na kutengeneza vitanzi vyake.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 1:46 Jumla ya hesabu yao ilikuwa watu elfu mia sita na tatu mia tano na hamsini (603,550).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 2:16 Wanaume wote walio katika kambi ya Reubeni, kufuatana na makundi yao, ni elfu mia moja hamsini na moja na mia nne na hamsini (151,450). Nao watakuwa nafasi ya pili kuondoka.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 2:32 Hawa ndio Waisraeli, wakiwa wamehesabiwa kufuatana na jamaa zao. Wote walio kambini kwa makundi yao ni watu elfu mia sita na tatu mia tano na hamsini (603,550).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	NUM 3:43 Jumla ya hesabu ya wazaliwa wa kwanza wanaume wenye umri wa mwezi mmoja au zaidi, walioorodheshwa kwa majina, walikuwa elfu ishirini na mbili na mia mbili na sabini na watatu (22,273).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	NUM 3:46 Ili kukomboa wazaliwa wa kwanza mia mbili na sabini na watatu (273) wa Waisraeli ambao wamezidi hesabu ya Walawi,	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	NUM 3:50 Kutokana na wazaliwa wa kwanza wa Waisraeli alikusanya fedha yenye uzito wa shekeli elfu moja na mia tatu sitini na tano (1,365) kufuatana na shekeli ya mahali patakatifu.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 4:36 waliohesabiwa kwa koo zao, walikuwa elfu mbili na mia saba hamsini (2,750).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 4:40 waliohesabiwa kwa koo zao na jamaa zao, walikuwa elfu mbili na mia sita na thelathini (2,630).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 4:48 walikuwa elfu nane na mia tano themanini (8,580).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 26:7 Hizi zilikuwa ndizo koo za Reubeni; wale waliohesabiwa walikuwa elfu arobaini na tatu mia saba na thelathini (43,730).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 26:51 Jumla ya hesabu ya wanaume wa Israeli ilikuwa elfu mia sita na moja mia saba na thelathini (601,730).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	NUM 31:37 ambao ushuru kwa ajili ya Mwenyezi Mungu ulikuwa kondoo mia sita na sabini na watano (675);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NUM 31:52 Dhahabu yote kutoka kwa wakuu wa jeshi wa maelfu na wakuu wa jeshi wa mamia ambavyo Musa na kuhani Eleazari walimletea Mwenyezi Mungu kama zawadi ilikuwa shekeli elfu kumi na sita, mia saba na hamsini (16,750).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	NUM 33:39 Haruni alikufa juu ya Mlima Hori akiwa na umri wa miaka mia moja ishirini na tatu (123).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	1KI 4:32 Akanena mithali elfu tatu, na nyimbo zake zilikuwa elfu moja na tano (1,005).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	1KI 9:28 Wakasafiri kwa bahari hadi Ofiri na kurudi na talanta mia nne na ishirini (420) za dhahabu, ambazo walimkabidhi Mfalme Sulemani.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	1KI 10:14 Uzito wa dhahabu ambayo Sulemani alipokea kwa mwaka ulikuwa talanta mia sita sitini na sita (666),	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	1	1KI 16:1 21 Ndipo neno la Mwenyezi Mungu likamjia Yehu mwana wa Hanani dhidi ya Baasha, kusema:	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1KI 20:15 Hivyo, Ahabu akawaita maafisa vijana wapatao mia mbili thelathini na wawili (232) waliokuwa chini ya majemadari wa majimbo. Kisha akawakusanya Waisraeli waliobaki, ambao idadi yao walikuwa elfu saba.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	1CH 5:18 Wareubeni, Wagadi na nusu ya kabila la Manase walikuwa na wanaume elfu arobaini na nne mia saba na sitini (44,760) waliokuwa tayari kwenda vitani, wanaume wenye uwezo wa kutumia ngao na upanga, ambao wangeweza kutumia upinde, walioandaliwa kwa vita.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	1CH 7:7 Wana wa Bela walikuwa: Esboni, Uzi, Uzieli, Yerimothi na Iri; walikuwa viongozi wa jamaa zao; wote ni watano. Wapiganaji walioorodheshwa katika ukoo wao walikuwa elfu ishirini na mbili na thelathini na wanne (22,034).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	1CH 9:9 Watu kutoka Benyamini, kama walivyoorodheshwa katika koo zao, jumla yao walikuwa mia tisa na hamsini na sita (956). Watu hawa wote walikuwa viongozi wa jamaa zao.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	1CH 9:13 Makuhani waliokuwa viongozi wa jamaa zao walikuwa elfu moja na mia saba na sitini (1,760). Walikuwa watu wenye uwezo, waliowajibika kuhudumu katika nyumba ya Mungu.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 9:22 Jumla ya waliochaguliwa kuwa mabawabu katika sakafu za kupuria nafaka walikuwa watu mia mbili na kumi na wawili (212). Waliandikishwa kwa koo zao kwenye vijiji vyao. Mabawabu hawa waliwekwa katika nafasi zao za kuaminiwa na Daudi, pamoja na Samweli aliyekuwa mwonaji.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 15:10 Kutoka wazao wa Uzieli, Aminadabu kiongozi na ndugu zake mia moja na kumi na wawili (112).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	1CH 25:7 Pamoja na ndugu zao, wote walikuwa wamefundishwa na kuwa stadi wa uimbaji kwa Mwenyezi Mungu. Idadi yao walikuwa mia mbili na themanini na nane (288).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:9 Kura ya kwanza, ambayo ilikuwa kwa ajili ya Asafu, ilimwangukia Yusufu, wanawe na jamaa zake, 12; Ya pili ikamwangukia Gedalia, yeye na wanawe pamoja na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:10 Ya tatu ikamwangukia Zakuri, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:11 ya nne ikamwangukia Isri, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:12 ya tano ikamwangukia Nethania, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:13 ya sita ikamwangukia Bukia, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:14 ya saba ikamwangukia Yesarela, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:15 ya nane ikamwangukia Yeshaya, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:16 ya tisa ikamwangukia Matania, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:17 ya kumi ikamwangukia Shimei, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:18 ya kumi na moja ikamwangukia Azareli, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:19 ya kumi na mbili ikamwangukia Hashabia, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:20 ya kumi na tatu ikamwangukia Shubaeli, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:21 ya kumi na nne ikamwangukia Matithia, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:22 ya kumi na tano ikamwangukia Yeremothi, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:23 Ya kumi na sita ikamwangukia Hanania, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:24 ya kumi na saba ikamwangukia Yoshbekasha, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:25 ya kumi na nane ikamwangukia Hanani, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:26 ya kumi na tisa ikamwangukia Malothi, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:27 ya ishirini ikamwangukia Eliatha, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:28 ya ishirini na moja ikamwangukia Hothiri, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:29 ya ishirini na mbili ikamwangukia Gidalti, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:30 ya ishirini na tatu ikamwangukia Mahaziothi, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	1CH 25:31 ya ishirini na nne ikamwangukia Romamti-Ezeri, wanawe na jamaa zake, 12.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	2CH 3:8 Akajenga Patakatifu pa Patakatifu, urefu na upana wake ulikuwa dhiraa ishirini, sawasawa na upana wa Hekalu. Alifunika ndani kwa talanta 600 za dhahabu safi.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	2CH 9:13 Uzito wa dhahabu ambayo Sulemani alipokea kwa mwaka ulikuwa talanta mia sita sitini na sita (666),	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:3 wazao wa Paroshi, elfu mbili mia moja sabini na wawili (2,172);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:4 wazao wa Shefatia, mia tatu sabini na wawili (372);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	EZR 2:5 wazao wa Ara, mia saba sabini na watano (775);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:6 wazao wa Pahath-Moabu (wa jamaa ya Yeshua na Yoabu), elfu mbili mia nane na kumi na wawili (2,812);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	EZR 2:7 wazao wa Elamu, elfu moja mia mbili hamsini na wanne (1,254);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	EZR 2:8 wazao wa Zatu, mia tisa arobaini na watano (945);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EZR 2:9 wazao wa Zakai, mia saba na sitini (760);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:10 wazao wa Bani, mia sita arobaini na wawili (642);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	EZR 2:11 wazao wa Bebai, mia sita ishirini na watatu (623);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:12 wazao wa Azgadi, elfu moja mia mbili ishirini na wawili (1,222);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	EZR 2:13 wazao wa Adonikamu, mia sita sitini na sita (666);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	EZR 2:14 wazao wa Bigwai, elfu mbili hamsini na sita (2,056);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	EZR 2:15 wazao wa Adini, mia nne hamsini na wanne (454);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	EZR 2:16 wazao wa Ateri (kupitia Hezekia), tisini na nane (98);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	EZR 2:17 wazao wa Besai, mia tatu ishirini na watatu (323);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:18 wazao wa Yora, mia moja na kumi na wawili (112);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	EZR 2:19 wazao wa Hashumu, mia mbili na ishirini na watatu (223);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	EZR 2:20 wazao wa Gibari, tisini na watano (95);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	EZR 2:21 watu wa Bethlehemu, mia moja ishirini na watatu (123);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	EZR 2:22 watu wa Netofa, hamsini na sita (56);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	EZR 2:23 watu wa Anathothi, watu mia moja ishirini na nane (128);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:24 watu wa Azmawethi, arobaini na wawili (42);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	EZR 2:25 wazao wa Kiriath-Yearimu, Kefira na Beerothi, mia saba arobaini na watatu (743);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	1	EZR 2:26 wazao wa Rama na Geba, mia sita ishirini na mmoja (621);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:27 watu wa Mikmashi, mia moja ishirini na wawili (122);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	EZR 2:28 watu wa Betheli na Ai, mia mbili na ishirini na watatu (223);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:29 wazao wa Nebo, hamsini na wawili (52);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	EZR 2:30 wazao wa Magbishi, mia moja hamsini na sita (156);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	EZR 2:31 wazao wa Elamu ile ingine, elfu moja mia mbili hamsini na wanne (1,254);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EZR 2:32 wazao wa Harimu, mia tatu na ishirini (320);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	EZR 2:33 wazao wa Lodi, Hadidi na Ono, mia saba ishirini na watano (725);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	EZR 2:34 wazao wa Yeriko, mia tatu arobaini na watano (345);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EZR 2:35 wazao wa Senaa, elfu tatu mia sita na thelathini (3,630).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	EZR 2:36 Makuhani: wazao wa Yedaya (kwa jamaa ya Yeshua), mia tisa sabini na watatu (973);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:37 wazao wa Imeri, elfu moja hamsini na wawili (1,052);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	EZR 2:38 wazao wa Pashuri, elfu moja mia mbili arobaini na saba (1,247);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	EZR 2:39 wazao wa Harimu, elfu moja na kumi na saba (1,017).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	EZR 2:40 Walawi: wazao wa Yeshua na Kadmieli (kupitia jamaa ya Hodavia), sabini na wanne (74).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	EZR 2:41 Waimbaji: wazao wa Asafu, mia moja ishirini na nane (128).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	9	EZR 2:42 Mabawabu wa lango la Hekalu: wazao wa Shalumu, Ateri, Talmoni, Akubu, Hatita na Shobai, mia moja thelathini na tisa (139).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:58 Watumishi wa Hekalu, na wazao wa watumishi wa Sulemani, mia tatu tisini na wawili (392).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	EZR 2:60 wazao wa Delaya, Tobia na Nekoda, mia sita hamsini na wawili (652).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EZR 2:64 Jumla ya watu wote waliorudi walikuwa elfu arobaini na mbili na mia tatu na sitini (42,360);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	EZR 2:65 tena zaidi ya hao walikuwa na watumwa wa kiume na wa kike elfu saba, mia tatu na thelathini na saba (7,337); pia walikuwa na waimbaji wanaume na wanawake mia mbili.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	EZR 2:66 Walikuwa na farasi mia saba thelathini na sita (736), nyumbu mia mbili arobaini na watano (245),	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EZR 2:67 ngamia mia nne thelathini na watano (435), na punda elfu sita, mia saba na ishirini (6,720).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:8 wazao wa Paroshi, elfu mbili mia moja sabini na wawili (2,172);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:9 wazao wa Shefatia, mia tatu sabini na wawili (372);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:10 wazao wa Ara, mia sita hamsini na wawili (652);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:11 wazao wa Pahath-Moabu (wa jamaa ya Yeshua na Yoabu), elfu mbili mia nane na kumi na nane (2,818);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	NEH 7:12 wazao wa Elamu, elfu moja mia mbili hamsini na wanne (1,254);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	NEH 7:13 wazao wa Zatu, mia nane arobaini na watano (845);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NEH 7:14 wazao wa Zakai, mia saba na sitini (760);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:15 wazao wa Binui, mia sita ishirini na wanne (648);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:16 wazao wa Bebai, mia sita ishirini na nane (628);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:17 wazao wa Azgadi, elfu mbili mia tatu ishirini na wawili (2,322);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	NEH 7:18 wazao wa Adonikamu, mia sita sitini na saba (667);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	NEH 7:19 wazao wa Bigwai, elfu mbili na sitini na saba (2,067);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	NEH 7:20 wazao wa Adini, mia sita hamsini na watano (655);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:21 wazao wa Ateri (kupitia Hezekia), tisini na nane (98);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:22 wazao wa Hashumu, mia tatu ishirini na nane (328);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	NEH 7:23 wazao wa Besai, mia tatu ishirini na wanne (324);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:24 wazao wa Harifu, mia moja na kumi na wawili (112);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	NEH 7:25 wazao wa Gibeoni, tisini na watano (95);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:26 watu wa Bethlehemu na Netofa, mia moja na themanini na nane (188);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:27 watu wa Anathothi, mia moja ishirini na nane (128);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:28 watu wa Beth-Azmawethi, arobaini na wawili (42);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	NEH 7:29 watu wa Kiriath-Yearimu, Kefira na Beerothi, mia saba arobaini na watatu (743);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	1	NEH 7:30 watu wa Rama na Geba, mia sita ishirini na mmoja (621);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:31 watu wa Mikmashi, mia moja ishirini na wawili (122);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	NEH 7:32 watu wa Betheli na Ai, mia moja ishirini na watatu (123);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:33 watu wa Nebo, hamsini na wawili (52);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	NEH 7:34 wazao wa Elamu, elfu moja mia mbili hamsini na wanne (1,254);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NEH 7:35 wazao wa Harimu, mia tatu na ishirini (320);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	NEH 7:36 wazao wa Yeriko, mia tatu arobaini na watano (345);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	1	NEH 7:37 wazao wa Lodi, Hadidi na Ono, mia saba ishirini na mmoja (721);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NEH 7:38 wazao wa Senaa, elfu tatu mia tisa na thelathini (3,930).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	NEH 7:39 Makuhani: wazao wa Yedaya (kwa jamaa ya Yeshua), mia tisa sabini na watatu (973);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:40 wazao wa Imeri, elfu moja hamsini na wawili (1,052);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	NEH 7:41 wazao wa Pashuri, elfu moja mia mbili arobaini na saba (1,247);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	NEH 7:42 wazao wa Harimu, elfu moja na kumi na saba (1,017).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	NEH 7:43 Walawi: wazao wa Yeshua (kupitia Kadmieli kupitia jamaa ya Hodavia), sabini na wanne (74).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:44 Waimbaji: wazao wa Asafu, mia moja arobaini na nane (148).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 7:45 Mabawabu wa malango: wazao wa Shalumu, Ateri, Talmoni, Akubu, Hatita na Shobai, mia moja thelathini na nane (138).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:60 Watumishi wa Hekalu, na wazao wa watumishi wa Sulemani, mia tatu tisini na wawili (392).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 7:62 wazao wa Delaya, Tobia na Nekoda, mia sita arobaini na wawili (642).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NEH 7:66 Jumla ya watu wote waliorudi walikuwa elfu arobaini na mbili, mia tatu na sitini (42,360);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	NEH 7:67 tena zaidi ya hao walikuwa na watumishi wa kiume na wa kike elfu saba, mia tatu na thelathini na saba (7,337); pia walikuwa na waimbaji wanaume na wanawake mia mbili arobaini na watano (245).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	NEH 7:68 Walikuwa na farasi mia saba thelathini na sita (736), nyumbu mia mbili arobaini na watano (245),	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	NEH 7:69 ngamia mia nne thelathini na watano (435) na punda elfu sita, mia saba na ishirini (6,720).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 11:6 Wazao wa Peresi walioishi Yerusalemu walikuwa mia nne sitini na nane (468), wanaume wenye uwezo.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 11:8 na wafuasi wake, Gabai na Salai: wanaume mia tisa ishirini na nane (928).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 11:12 pamoja na wenzao waliofanya kazi hekaluni: wanaume mia nane ishirini na wawili (822). Adaya mwana wa Yerohamu, mwana wa Pelalia, mwana wa Amzi, mwana wa Zekaria, mwana wa Pashuri, mwana wa Malkiya,	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 11:13 na wenzao, waliokuwa viongozi wa jamaa: wanaume mia mbili arobaini na wawili (242). Amashisai mwana wa Azareli, mwana wa Azai, mwana wa Meshilemothi, mwana wa Imeri,	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	8	NEH 11:14 na wenzao waliokuwa wanaume wenye uwezo: mia moja ishirini na nane (128). Afisa wao mkuu alikuwa Zabdieli mwana wa Hagedolimu.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	NEH 11:18 Jumla ya Walawi waliokaa katika mji mtakatifu walikuwa wanaume mia mbili themanini na wanne (284).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	NEH 11:19 Mabawabu: Akubu, Talmoni na wenzao, waliolinda malango: wanaume mia moja sabini na wawili (172).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	EST 1:1 Hili ndilo lililotokea wakati wa utawala wa Mfalme Ahasuero, yule aliyetawala majimbo mia moja na ishirini na saba (127) kutoka Bara Hindi hadi Kushi.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	EST 8:9 Mara moja waandishi wa mfalme wakaitwa kwenye siku ya ishirini na tatu, mwezi wa tatu, ndio mwezi wa Siwani. Wakaandika yote Mordekai aliyoamuru kwa Wayahudi, kwa majemadari, watawala na wakuu wa majimbo mia moja na ishirini na saba (127) kuanzia Bara Hindi hadi Kushi. Maagizo haya yaliandikwa kwa maandishi ya kila jimbo na kwa lugha ya kila mtu pia kwa Wayahudi kwa maandishi yao wenyewe na lugha yao.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	7	EST 9:30 Naye Mordekai akatuma barua kwa Wayahudi wote katika majimbo mia moja na ishirini na saba (127) ya ufalme wa Ahasuero, barua zenye maneno ya amani na matumaini,	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	JER 52:28 Hii ndiyo hesabu ya watu ambao Nebukadneza aliwachukua kwenda uhamishoni: katika mwaka wa saba, Wayahudi elfu tatu na ishirini na watatu (3,023);	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	2	JER 52:29 katika mwaka wa kumi na nane wa utawala wa Nebukadneza, watu mia nane na thelathini na wawili (832) kutoka Yerusalemu;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	JER 52:30 katika mwaka wa ishirini na tatu wa utawala wake, Wayahudi mia saba na arobaini na watano (745) walichukuliwa kwenda uhamishoni na Nebuzaradani, mkuu wa askari walinzi wa mfalme.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EZE 4:5 Nimekupangia idadi ya siku kama miaka ya dhambi yao. Kwa hiyo kwa siku mia tatu na tisini (390), utabeba dhambi za nyumba ya Israeli.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	EZE 4:9 “Chukua ngano na shayiri, maharagwe na dengu, mtama na mawele, uviweke na kuvihifadhi vyote kwenye gudulia la kuhifadhia, na uvitumie kujitengenezea mkate. Utaula mkate huo kwa hizo siku mia tatu na tisini (390) utakazokuwa umelala kwa upande mmoja.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	DAN 12:11 “Tangu wakati ule wa kukomeshwa kwa dhabihu ya kila siku, na kuanzishwa kwa chukizo la uharibifu, kutakuwepo siku elfu moja na mia mbili na tisini (1,290).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	5	DAN 12:12 Kubarikiwa ni yule atakayevumilia hadi kufikia mwisho wa hizo siku elfu moja mia tatu na thelathini na tano (1,335).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	3	JOH 21:11 Simoni Petro akapanda kwenye mashua na kuukokota ule wavu ufuoni. Ulikuwa umejaa samaki wakubwa mia moja hamsini na watatu (153). Ingawa samaki walikuwa wengi kiasi hicho, ule wavu haukuchanika.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	ACT 27:37 Ndani ya meli tulikuwa jumla ya watu mia mbili na sabini na sita (276).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	GAL 3:17 Ninachotaka kusema ni kwamba, Torati, ambayo ilitolewa miaka mia nne na thelathini (430) baadaye, haitangui agano lililothibitishwa na Mungu ili kuibatilisha ahadi ile.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	6	REV 13:18 Hapa ndipo penye hekima. Yeye aliye na ufahamu na ahesabu tarakimu za huyo mnyama, kwa maana ni tarakimu za kibinadamu. Tarakimu zake ni mia sita sitini na sita (666).	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	0	REV 21:16 Mji huo ulikuwa mraba, urefu wake ulikuwa sawa na upana wake. Akaupima huo mji kwa huo ufito akakuta una kama stadioni 12,000; urefu wake na upana wake na kwenda juu kwake vilikuwa sawa.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	4	REV 21:17 Akaupima ukuta wake, ulikuwa na unene wa dhiraa mia moja na arobaini na nne (144) kwa kipimo cha kibinadamu ambacho huyo malaika alikuwa akikitumia.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Source	count	198	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	21	011-1KI-016-001 21 Ndipo neno la Mwenyezi Mungu likamjia Yehu mwana wa Hanani dhidi ya Baasha, kusema:	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-009 Kura ya kwanza, ambayo ilikuwa kwa ajili ya Asafu, ilimwangukia Yusufu, wanawe na jamaa zake, 12; Ya pili ikamwangukia Gedalia, yeye na wanawe pamoja na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-010 Ya tatu ikamwangukia Zakuri, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-011 ya nne ikamwangukia Isri, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-012 ya tano ikamwangukia Nethania, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-013 ya sita ikamwangukia Bukia, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-014 ya saba ikamwangukia Yesarela, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-015 ya nane ikamwangukia Yeshaya, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-016 ya tisa ikamwangukia Matania, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-017 ya kumi ikamwangukia Shimei, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-018 ya kumi na moja ikamwangukia Azareli, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-019 ya kumi na mbili ikamwangukia Hashabia, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-020 ya kumi na tatu ikamwangukia Shubaeli, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-021 ya kumi na nne ikamwangukia Matithia, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-022 ya kumi na tano ikamwangukia Yeremothi, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-023 Ya kumi na sita ikamwangukia Hanania, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-024 ya kumi na saba ikamwangukia Yoshbekasha, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-025 ya kumi na nane ikamwangukia Hanani, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-026 ya kumi na tisa ikamwangukia Malothi, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-027 ya ishirini ikamwangukia Eliatha, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-028 ya ishirini na moja ikamwangukia Hothiri, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-029 ya ishirini na mbili ikamwangukia Gidalti, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-030 ya ishirini na tatu ikamwangukia Mahaziothi, wanawe na jamaa zake, 12;	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	013-1CH-025-031 ya ishirini na nne ikamwangukia Romamti-Ezeri, wanawe na jamaa zake, 12.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	600	014-2CH-003-008 Akajenga Patakatifu pa Patakatifu, urefu na upana wake ulikuwa dhiraa ishirini, sawasawa na upana wa Hekalu. Alifunika ndani kwa talanta 600 za dhahabu safi.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Isa alipofufuka alfajiri na mapema siku ya kwanza ya juma alimtokea kwanza Mariamu Magdalene, aliyekuwa amemtoa pepo wachafu saba.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	12	066-REV-021-016 Mji huo ulikuwa mraba, urefu wake ulikuwa sawa na upana wake. Akaupima huo mji kwa huo ufito akakuta una kama stadioni 12,000; urefu wake na upana wake na kwenda juu kwake vilikuwa sawa.	WARN
+Swahili---Swahili-Open-Bible	NUMERALS	Aionian	count	27	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

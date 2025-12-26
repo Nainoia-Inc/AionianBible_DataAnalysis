@@ -1,0 +1,423 @@
+# File Name: Holy-Bible---Holy-Bible---Greek---Greek-Byzantine---Analysis.txt
+# File Size: 29581       
+# File Date: 12/13/2025 05:33:31
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: H Καινή Διαθήκη
+# Bible Name English: Greek NT Byzantine
+# Bible Language: Ελληνική
+# Bible Language English: Greek, Koine
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Antiquity
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=grcbyz
+# Bible Source Year: 1904
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Greek---Greek-Byzantine	ENCODING	Source	Holy-Bible---Greek---Greek-Byzantine---Source-Edition.VPL.txt	UTF-8	NOTICE
+Greek---Greek-Byzantine	ENCODING	Aionian	Holy-Bible---Greek---Greek-Byzantine---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Greek---Greek-Byzantine	BYTES	Source	bytes / chars	1756484 / 927019 (multi-byte)	NOTICE
+Greek---Greek-Byzantine	BYTES	Aionian	bytes / chars	1815647 / 985656 (multi-byte)	NOTICE
+Greek---Greek-Byzantine	BYTES	SourceClean	bytes / chars	1755691 / 926226 (multi-byte)	NOTICE
+Greek---Greek-Byzantine	BYTES	AionianClean	bytes / chars	1813038 / 983385 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Greek---Greek-Byzantine	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Greek---Greek-Byzantine	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Greek---Greek-Byzantine	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Greek---Greek-Byzantine	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Greek---Greek-Byzantine	AIONIAN	Aionian	missing-verse	0	NOTICE
+Greek---Greek-Byzantine	AIONIAN	Aionian	aionian-verses	200	NOTICE
+Greek---Greek-Byzantine	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Greek---Greek-Byzantine	UNPRINTABLE	Source	count	0	NOTICE
+Greek---Greek-Byzantine	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Greek---Greek-Byzantine	UNICODE	Summary	(-)Orginal	28	NOTICE
+Greek---Greek-Byzantine	UNICODE	Summary	(+)Aionian	55	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (M)	2314	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (A)	3012	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (T)	2502	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : ( )	148508	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (1)	8049	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (:)	7958	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (,)	10221	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (.)	5671	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (\n)	7958	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (2)	5145	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (3)	2733	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (4)	2204	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (5)	1821	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (6)	1556	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (7)	1388	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (8)	1286	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (9)	1243	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (0)	1197	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (R)	1515	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (L)	1395	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (J)	1146	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (O)	2234	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (H)	1603	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (C)	1795	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (G)	149	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (E)	1029	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (P)	450	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source(-)	Basic Latin : (V)	405	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (0)	32896	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (4)	9571	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (\t)	31824	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (M)	2315	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (A)	3021	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (T)	2504	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (1)	9077	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : ( )	133032	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (,)	10229	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (.)	5672	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (\n)	7955	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (2)	6508	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (3)	3678	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (5)	3473	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (6)	3435	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (7)	1683	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (8)	1749	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (9)	1506	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (()	202	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (G)	161	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (e)	35	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (n)	202	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : ())	202	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (H)	1613	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (d)	17	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (s)	114	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (i)	247	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (o)	85	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (R)	1514	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (t)	7	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (:)	2	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (h)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (l)	5	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (u)	3	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (L)	1400	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (J)	1144	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (O)	2233	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (C)	1796	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (E)	1028	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (P)	455	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Aionian(+)	Basic Latin : (V)	404	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (M)	2314	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (A)	3012	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (T)	2502	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : ( )	148508	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (1)	8049	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (:)	7958	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Β)	135	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ί)	10200	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (β)	3434	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (λ)	18464	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ο)	46396	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ς)	27398	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (γ)	11156	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ε)	39102	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ν)	54952	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (έ)	8665	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (σ)	24640	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ω)	8010	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἰ)	1719	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (η)	9231	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῦ)	9077	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Χ)	589	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ρ)	23270	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ι)	26510	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (τ)	51932	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (,)	10221	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (υ)	10855	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἱ)	1947	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Δ)	163	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (α)	52835	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῒ)	49	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (δ)	12778	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἀ)	367	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ά)	6954	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (μ)	19663	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (.)	5671	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (\n)	7958	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (2)	5145	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὰ)	4811	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἐ)	12527	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὸ)	7787	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (κ)	23181	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὲ)	3526	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ώ)	2074	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὼ)	1020	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ύ)	4899	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὶ)	11994	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὺ)	1991	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἀ)	7571	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (φ)	3841	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὐ)	8850	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (3)	2733	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Φ)	193	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Ζ)	37	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῆ)	3332	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Θ)	1363	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἐ)	189	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (4)	2204	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Ν)	81	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Σ)	319	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (5)	1821	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ζ)	1547	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ῥ)	40	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (χ)	4733	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὠ)	3	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὴ)	3843	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (θ)	9528	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (6)	1556	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὁ)	3318	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῶ)	5394	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Ο)	92	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (7)	1388	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (8)	1286	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὀ)	13	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (9)	1243	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἄ)	46	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (0)	1197	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Μ)	310	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (π)	21143	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ή)	3762	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἄ)	1199	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ξ)	2255	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἧ)	50	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ό)	6394	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Π)	765	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾶ)	1484	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὖ)	572	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἕ)	413	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Τ)	264	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἡ)	2388	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὕ)	448	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἦ)	616	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῷ)	2859	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἢ)	348	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῖ)	5764	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὑ)	3010	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἔ)	2840	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἁ)	63	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὢ)	39	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἰ)	4252	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Κ)	1191	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (᾽)	1321	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὄ)	533	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Latin-1 Supplement: (·)	4254	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ΐ)	92	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῇ)	1467	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἁ)	458	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὅ)	2052	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἵ)	834	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῥ)	199	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὡ)	555	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὗ)	466	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἡ)	109	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῴ)	92	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἱ)	156	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (;)	978	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἴ)	645	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἤ)	400	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἶ)	1431	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἠ)	342	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ψ)	961	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὃ)	578	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Α)	52	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἂ)	179	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὁ)	51	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾷ)	133	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὀ)	580	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῳ)	1129	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Γ)	135	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἑ)	816	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῃ)	1007	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἅ)	154	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾧ)	127	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : ([)	206	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (])	206	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾳ)	604	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὑ)	22	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἓ)	57	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἠ)	41	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἴ)	5	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὒ)	3	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὔ)	191	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἥ)	132	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἔ)	48	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὥ)	227	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὅ)	25	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾖ)	42	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὧ)	141	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Ε)	73	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῄ)	12	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (!)	58	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾠ)	17	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἷ)	215	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἕ)	25	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	General Punctuation : (—)	56	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἆ)	20	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Λ)	93	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἣ)	98	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἃ)	108	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὦ)	48	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὠ)	55	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ϊ)	67	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾅ)	11	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὓ)	53	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾑ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἢ)	4	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ὤ)	47	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ῢ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾔ)	34	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾗ)	40	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὥ)	10	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἦ)	26	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾐ)	15	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Υ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (R)	1515	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὡ)	22	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ϋ)	73	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἅ)	41	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ἳ)	38	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἑ)	36	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἤ)	11	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὕ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (L)	1395	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (U)	1176	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (K)	1151	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (ΰ)	4	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (J)	1146	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (O)	2234	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (H)	1603	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Latin-1 Supplement: («)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Latin-1 Supplement: (»)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (C)	1795	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾴ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὦ)	3	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὄ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (G)	149	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (E)	1029	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (P)	450	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (ᾄ)	5	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἵ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (I)	346	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (B)	303	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἓ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ἥ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὃ)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Miscellaneous Mathematical Symbols-A : (⟦)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Miscellaneous Mathematical Symbols-A : (⟧)	1	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (D)	25	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Basic Latin : (V)	405	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (Ω)	3	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek Extended : (Ὧ)	3	NOTICE
+Greek---Greek-Byzantine	UNICODE	Source	Greek and Coptic : (΄)	1	NOTICE
+
+# VERSIFICATION
+Greek---Greek-Byzantine	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Greek---Greek-Byzantine	VERSIFICATION	Summary	missing	1	WARN
+Greek---Greek-Byzantine	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Greek---Greek-Byzantine	ENCLOSURES	Source	()	0 / 0	NOTICE
+Greek---Greek-Byzantine	ENCLOSURES	Source	[]	206 / 206	NOTICE
+Greek---Greek-Byzantine	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Greek---Greek-Byzantine	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Greek---Greek-Byzantine	ENCLOSURES	Aionian	()	202 / 202	NOTICE
+Greek---Greek-Byzantine	ENCLOSURES	Aionian	[]	206 / 206	NOTICE
+Greek---Greek-Byzantine	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Greek---Greek-Byzantine	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Greek---Greek-Byzantine	ENCLOSURES	Source	[1/0]	LUK 9:55 στραφεὶς δὲ ἐπετίμησεν αὐτοῖς [καὶ εἶπεν· οὐκ οἴδατε ποίου πνεύματός ἐστε ὑμεῖς·	WARN
+Greek---Greek-Byzantine	ENCLOSURES	Source	[0/1]	LUK 9:56 ὁ υἱὸς τοῦ ἀνθρώπου οὐκ ἦλθε ψυχὰς ἀνθρώπων ἀπολέσαι, ἀλλὰ σῶσαι]. καὶ ἐπορεύθησαν εἰς ἑτέραν κώμην.	WARN
+Greek---Greek-Byzantine	ENCLOSURES	Source	[1/0]	ACT 24:6 ὃς καὶ τὸ ἱερὸν ἐπείρασε βεβηλῶσαι, ὃν καὶ ἐκρατήσαμεν [καὶ κατὰ τὸν ἡμέτερον νόμον ἠθελήσαμεν κρίνειν·	WARN
+Greek---Greek-Byzantine	ENCLOSURES	Source	[0/1]	ACT 24:8 κελεύσας τοὺς κατηγόρους αὐτοῦ ἔρχεσθαι ἐπὶ σέ]· παρ᾽ οὗ δυνήσῃ αὐτὸς ἀνακρίνας περὶ πάντων τούτων ἐπιγνῶναι ὧν ἡμεῖς κατηγοροῦμεν αὐτοῦ.	WARN
+Greek---Greek-Byzantine	ENCLOSURES	Aionian	[1/0]	042 LUK 009 055 στραφεὶς δὲ ἐπετίμησεν αὐτοῖς [καὶ εἶπεν· οὐκ οἴδατε ποίου πνεύματός ἐστε ὑμεῖς·	WARN
+Greek---Greek-Byzantine	ENCLOSURES	Aionian	[0/1]	042 LUK 009 056 ὁ υἱὸς τοῦ ἀνθρώπου οὐκ ἦλθε ψυχὰς ἀνθρώπων ἀπολέσαι, ἀλλὰ σῶσαι]. καὶ ἐπορεύθησαν εἰς ἑτέραν κώμην.	WARN
+Greek---Greek-Byzantine	ENCLOSURES	Aionian	[1/0]	044 ACT 024 006 ὃς καὶ τὸ ἱερὸν ἐπείρασε βεβηλῶσαι, ὃν καὶ ἐκρατήσαμεν [καὶ κατὰ τὸν ἡμέτερον νόμον ἠθελήσαμεν κρίνειν·	WARN
+Greek---Greek-Byzantine	ENCLOSURES	Aionian	[0/1]	044 ACT 024 008 κελεύσας τοὺς κατηγόρους αὐτοῦ ἔρχεσθαι ἐπὶ σέ]· παρ᾽ οὗ δυνήσῃ αὐτὸς ἀνακρίνας περὶ πάντων τούτων ἐπιγνῶναι ὧν ἡμεῖς κατηγοροῦμεν αὐτοῦ.	WARN
+Greek---Greek-Byzantine	ENCLOSURES	Summary	lines	4 / 4	NOTICE
+
+# UNEXPECTED
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Greek---Greek-Byzantine	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Greek---Greek-Byzantine	NUMERALS	Source	count	0	NOTICE
+Greek---Greek-Byzantine	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Ἀναστὰς δὲ πρωῒ πρώτῃ σαββάτου ἐφάνη πρῶτον Μαρίᾳ τῇ Μαγδαληνῇ, ἀφ᾽ ἧς ἐκβεβλήκει ἑπτὰ δαιμόνια.	WARN
+Greek---Greek-Byzantine	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

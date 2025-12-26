@@ -1,0 +1,1011 @@
+# File Name: Holy-Bible---Holy-Bible---Kosraean---Kosraean-Bible---Analysis.txt
+# File Size: 128456      
+# File Date: 12/13/2025 05:43:33
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Baibel Mutal ke Kas Kusaie
+# Bible Name English: Kosraean Bible
+# Bible Language: Kusaiean
+# Bible Language English: Kosraean
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Elizabeth Baldwin
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=kos
+# Bible Source Year: 1928
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Kosraean---Kosraean-Bible	ENCODING	Source	Holy-Bible---Kosraean---Kosraean-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Kosraean---Kosraean-Bible	ENCODING	Aionian	Holy-Bible---Kosraean---Kosraean-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Kosraean---Kosraean-Bible	BYTES	Source	bytes / chars	4352018 / 4320210 (multi-byte)	NOTICE
+Kosraean---Kosraean-Bible	BYTES	Aionian	bytes / chars	4564988 / 4533162 (multi-byte)	NOTICE
+Kosraean---Kosraean-Bible	BYTES	SourceClean	bytes / chars	4351227 / 4319419 (multi-byte)	NOTICE
+Kosraean---Kosraean-Bible	BYTES	AionianClean	bytes / chars	4561519 / 4529693 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Kosraean---Kosraean-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Kosraean---Kosraean-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Kosraean---Kosraean-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Kosraean---Kosraean-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Kosraean---Kosraean-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Kosraean---Kosraean-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Kosraean---Kosraean-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Kosraean---Kosraean-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Kosraean---Kosraean-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Kosraean---Kosraean-Bible	UNICODE	Summary	(-)Orginal	51	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Summary	(+)Aionian	55	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (G)	14055	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (E)	32181	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : ( )	828035	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (1)	30412	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (:)	32487	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (e)	238866	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (m)	121819	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (u)	249671	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (t)	116768	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (a)	416286	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (k)	199296	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (,)	55136	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (o)	188275	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (d)	11107	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (l)	234618	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (r)	77147	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (s)	204547	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (c)	75147	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (n)	262494	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (\n)	30946	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (2)	21676	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (g)	58441	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (i)	183843	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (h)	73922	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (L)	12604	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (p)	50221	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (y)	42109	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (3)	12257	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (4)	9149	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (5)	7073	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (6)	6477	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (A)	18643	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (7)	5856	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (8)	5766	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (9)	5634	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (0)	5387	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (M)	19892	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (P)	7604	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (T)	9192	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (H)	5578	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (()	359	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : ())	359	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (S)	12431	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (b)	5956	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (J)	12340	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (R)	4832	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	General Punctuation : (‐)	85	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (q)	29	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (V)	1283	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : ([)	212	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source(-)	Basic Latin : (])	212	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	129898	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42410	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	123776	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	14067	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	32180	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	238977	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	766712	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	121826	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	249680	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	116781	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	416485	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	199297	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	55144	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	188430	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	11130	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	234687	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	77158	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	204667	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	75149	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	262702	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	30943	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31099	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	58654	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	184096	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	74051	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	12609	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	50222	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	42123	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17180	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	19882	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10304	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10743	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	18651	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7393	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7855	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9296	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	19893	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	1543	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	7609	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	9193	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	5589	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (()	631	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : ())	631	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	12495	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	5966	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	12339	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4831	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	86	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	36	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1282	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	210	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Basic Latin : (])	210	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (G)	14055	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (E)	32181	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (N)	13592	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : ( )	828035	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (1)	30412	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (:)	32487	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (K)	12682	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (e)	238866	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (m)	121819	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (u)	249671	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (t)	116768	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (a)	416286	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (w)	86421	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (k)	199296	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (,)	55136	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (o)	188275	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (d)	11107	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (l)	234618	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (r)	77147	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (s)	204547	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (f)	56781	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (c)	75147	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (n)	262494	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (\n)	30946	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (2)	21676	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (g)	58441	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (i)	183843	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (h)	73922	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (.)	39283	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (L)	12604	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (p)	50221	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (y)	42109	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (3)	12257	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	General Punctuation : (“)	7063	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	General Punctuation : (”)	5762	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	General Punctuation : (—)	1362	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (4)	9149	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (5)	7073	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (F)	2466	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (6)	6477	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (A)	18643	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (7)	5856	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (O)	16060	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (8)	5766	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (Y)	774	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (9)	5634	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (0)	5387	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (M)	19892	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (;)	2588	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (I)	9043	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (P)	7604	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (U)	10083	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (D)	9792	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (T)	9192	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (H)	5578	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (v)	2452	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (()	359	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : ())	359	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (C)	5656	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (S)	12431	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	General Punctuation : (‘)	820	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	General Punctuation : (’)	811	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (?)	2687	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (b)	5956	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (j)	448	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (Z)	2652	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (J)	12340	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (z)	2117	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (W)	1610	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (!)	3000	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (R)	4832	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (B)	3319	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	General Punctuation : (‐)	85	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (x)	161	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (X)	1214	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (q)	29	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (V)	1283	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : ([)	212	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (])	212	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	Basic Latin : (Q)	4	NOTICE
+Kosraean---Kosraean-Bible	UNICODE	Source	General Punctuation : (…)	1	NOTICE
+
+# VERSIFICATION
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-006	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-007	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-008	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-009	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-010	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-011	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-012	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-013	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-014	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-015	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-016	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-021	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-022	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-023	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-024	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-025	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-026	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-027	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-028	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-029	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-030	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-031	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-032	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-033	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-034	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-035	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-036	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-037	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-038	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-039	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-040	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-041	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-042	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-043	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-044	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-045	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-046	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-004	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-005	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-006	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-007	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-008	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-009	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-011	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-012	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-013	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-014	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-015	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-016	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-019	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-020	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-021	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-022	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-023	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-024	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-026	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-027	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-028	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-029	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-030	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-031	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-013	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-014	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-015	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-016	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-017	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-018	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-019	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-020	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-021	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-022	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-023	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-024	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-025	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-026	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-027	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-028	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-029	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-030	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-031	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-032	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-033	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-034	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-035	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-036	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-037	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-038	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-039	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-040	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-041	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-042	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-043	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-044	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-045	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-046	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-047	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-048	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-049	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-050	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-051	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-052	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-053	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-054	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-055	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-056	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-057	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-058	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-059	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-060	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-061	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-062	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-063	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-064	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-065	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-066	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-067	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-068	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-069	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-070	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-071	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-072	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-073	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-074	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-075	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-076	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-077	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-078	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-079	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-080	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-081	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-082	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-083	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-085	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-086	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-087	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-088	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-005	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-006	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-007	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-008	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-009	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-010	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-011	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-012	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-013	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-014	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-015	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-016	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-020	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-021	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-022	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-023	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-024	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-025	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-026	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-027	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-028	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Summary	missing	158	WARN
+Kosraean---Kosraean-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	()	359 / 359	NOTICE
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[]	212 / 212	NOTICE
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	()	631 / 631	NOTICE
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[]	210 / 210	NOTICE
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	GEN 5:1 Pa inge takin fwilin tulik natul Adam. (Ke God El tuh orala mwet uh, El oralosla in lumahl.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	GEN 5:2 El oralosla mukul ac mutan, ac akinsewowoyalos, ac sang inelos “Mwet.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	GEN 29:23 Tusruktu in fong sac, el tia usal Rachel, a el eisalang Leah nu sel Jacob, ac Jacob el ona yorol. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	GEN 29:24 Laban el eisalang Zilpah, mutan kulansap lal, nu sel Leah, acn natul, tuh elan mutan kulansap lal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	GEN 29:28 Jacob el insese nu kac, ac ke safla wik in akfulat ke marut uh, Laban el eisalang Rachel, acn natul, tuh elan mutan pac kial. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	GEN 29:29 Laban el eisalang Bilhah, mutan kulansap lal, nu sel Rachel, acn natul, tuh elan mutan kulansap lal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	EXO 16:35 Mwet Israel elos mongo manna ke yac angngaul, nwe ke elos sun sisken facl Canaan, acn elos oakwuki we. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	EXO 16:36 Mwe srikasrak flao in pacl meet pangpang “omer,” na omer se oana quart luo.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	EXO 18:3 oayapa Gershom ac Eliezer, wen luo natul Zipporah. (Moses el tuh fahk, “Nga sie mwetsac in sie pacna facl,” pa oru el sang inen sie wen natul ah Gershom.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	EXO 18:4 El tuh oayapa fahk, “God lun papa tumuk El kasreyu moliyula ngan tia anwuki sin tokosra Egypt,” pa oru el sang inen tulik se ngia Eliezer.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	LEV 23:36 Kais sie len ke len itkosr inge kowos fah oru kisa ke mwe mongo. Ke len se akoalkosr, kowos sifilpa tukeni in alu ac oru sie kisa ke mwe mongo. Len in alu se pa inge, ac kowos fah tia oru kutena orekma.’” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	LEV 23:38 Len in kufwa inge ac orek pacna sayen oakwuk lun len Sabbath uh, ac kisa inge ac weang pacna mwe sang lowos, ac kisa in akfalye wuleang, ac kisa ma orek na ke insewowo lowos sifacna, ma kowos sang nu sin LEUM GOD uh.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	NUM 11:6 A inge kut ngulngul ke wangin na pwaye ma kut in kang sayen manna se inge len nukewa!” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	NUM 11:9 Ke aunfong uh apunla nien aktuktuk uh ke fong, manna uh putati pac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	NUM 12:2 Eltal fahk, “Mea, LEUM GOD El kaskas nu sin mwet uh sel Moses mukena? Ya El tia kaskas pac kacsr?” LEUM GOD El lohng ma eltal fahk. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	NUM 12:3 Moses el mwet na fakpap se, yohk liki kutena mwet fin faclu.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	NUM 13:23 Elos tuku nu Infahlfal Eshcol, ac pakela lah se su ungin grape na toasr se oan kac. Ke sripen arulana toasr, enenu mwet luo in polongya us ke soko srenenu. Elos oayapa us kutu pomegranate ac fig. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	NUM 13:24 Elos sang inen acn sac Infahlfal Eshcol ke sripen ungin grape se mwet Israel pakela we.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	NUM 26:9 ac wen natul inge: Nemuel, Dathan, ac Abiram. (Dathan ac Abiram pa tuh solla in mwet kol lun mwet uh. Eltal tuh lainul Moses ac Aaron ke eltal srola wela mwet ke u lal Korah ke pacl se elos tunyuna lain LEUM GOD.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	NUM 26:11 Tusruktu wen natul Korah tiana anwukla.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	DEU 1:1 Pa inge kas lal Moses nu sin mwet Israel ke pacl se elos oasr yen mwesis, kutulap in Infacl Jordan. Elos muta ke Infahlfal lun Jordan tulanang acn Suph, inmasrlon siti Paran ac siti Tophel, Laban, Hazeroth, ac Dizahab. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	DEU 1:2 Mwet uh fahsr ut ke fulan eol Edom ke lusen len singoul sie, Fineol Sinai nu Kadesh Barnea.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	DEU 2:9 LEUM GOD El fahk nu sik, ‘Nimet aklokoalokye mwet Moab, su fwilin tulik natul Lot, ac nimet mweun nu selos. Nga sang tari siti Ar nu selos, ac nga ac tia sot nu suwos kutena acn selos.’” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 Mwet Hor elos tuh muta Edom in pacl meet, tusruktu fwilin tulik natul Esau luselosla, kunausla mutunfacl selos, ac oakwuki we, oapana ma mwet Israel elos tuh oru tok ke elos lusla mwet lokoalok lalos liki acn ma LEUM GOD El tuh sang selos.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	DEU 2:19 Na kowos ac fah apkuran nu ke facl sin mwet Ammon, su fwilin tulik natul Lot. Nikmet aklokoalokyalos ku mweun nu selos, mweyen nga ac tia sot kutena acn lowos ke acn ma nga sang tari nu selos.’” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 Acn ma oan weacn Meoa Mediterranean oakwuki tari sin mwet tuku liki tuka Crete. Elos onela mwet Avvim, su mwet na pwaye we, ac eisla acn nukewa lalos, som na nwe siti Gaza in acn eir.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	DEU 3:8 “In pacl sac, kut eisla sin tokosra luo lun mwet Amor inge, acn nukewa kutulap in Infacl Jordan, mutawauk Infacl Arnon lac nwe ke Eol Hermon. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	DEU 3:9 Mwet Sidon elos pangon Eol Hermon “Eol Sirion” ac mwet Amor elos pangon “Eol Senir.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	DEU 3:10 Kut eisla acn nukewa sel Tokosra Og lun Bashan: siti nukewa yen tupasrpasr uh, wi acn nukewa lun Gilead ac Bashan, som na nwe ke siti Salecah ac Edrei, su oan kutulap.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	DEU 3:11 Tokosra Og pa safla ke mwet ma pangpang Rephaim. Box in misa lal orekla ke eot, fit onkosr sralap ac apkuran in fit singoul akosr lusa, fal nu ke srikasrak oakwuki in pacl sac. Box sac srakna ku in liyeyuk in siti Rabbah lun mwet Ammon.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	DEU 3:13 Nga sang nu sin tafu sruf lal Manasseh acn lula Gilead ac oayapa acn Bashan nufon, acn ma Tokosra Og el tuh leumi, aok, nufonna acn Argob.” (Eteyuk acn Bashan mu acn sin mwet Rephaim.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	DEU 3:14 Jair, sie mwet in sruf lal Manasseh, el eis acn Argob, nufon — acn inge pa Bashan, som na nwe ke masrol lun Geshur ac Maacah. El sang inel sifacna nu ke acn inge, na srakna pangpang acn we “Siti Srisrik lal Jair.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	DEU 10:5 ac nga forla ac tufoki. Na, in oana ke LEUM GOD El sapkin, nga filiya in tuptup se ma nga orala — na oanna loac nwe misenge.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 Pa inge sripa se oru sruf lal Levi tia wi eis acn selos in oana sruf ngia. Mwe insemowo lalos pa elos mukena ku in mwet tol lun LEUM GOD, oana LEUM GOD lowos El wulela kac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	DEU 11:29 Ke pacl se LEUM GOD El uskowosme nu in facl se su kowos ac oakwuki we, kowos in sulkakin mwe insewowo liki Fineol Gerizim, ac mwe selnga liki Fineol Ebal. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	DEU 11:30 Kowos etu lah fineol lukwa inge oasr layen roto ke infacl Jordan, ke facl sin mwet Canaan su muta infahlfal Jordan. Fineol inge oan nget nu roto, ac tia loes liki sak oal Moreh, fototo nu ke siti Gilgal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 Ac mwet Israel elos siyuk sin LEUM GOD (tuh Tuptup in Wuleang lun God oan in acn Bethel in pacl sac,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 ac Phinehas, wen natul Eleazar su ma natul Aaron, pa karingin tuptup sac in pacl sac.) Na mwet elos siyuk sin LEUM GOD, “Ya fal kut in sifil som lain mwet Benjamin wiasr, ku kut ac tia som?” Ac LEUM GOD El topuk ac fahk, “Kowos som. Lutu nga ac sot kutangla nu suwos.”	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	1SA 4:14 Ke Eli el lohng pusren mwet uh el siyuk, “Mea kalmen wowon ingan?” Na mwet sac sulaklak nu yorol ac fahkak ma sikyak nu sel. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	1SA 4:15 Eli el yac eungoul oalkosr in pacl se inge, ac apkuran in kunla na pwaye mutal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	1SA 13:19 Wangin mwet orekma ke osra fin acn Israel nufon, mweyen mwet Philistia elos tiana lela mwet Hebrew in orek osra in fakfuk ku cutlass. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	1SA 13:21 Molin tete tuhla ac mitmit pa ipin mani se. Molin tete mwe kulkul ac mwe pukpuk pa ipin mani luo.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	2SA 4:2 Oasr mwet luo lal Ishbosheth su kol un mwet orek lokoalok. Inen mwet luo inge pa Baanah ac Rechab, wen natul Rimmon mwet Beeroth in sruf lal Benjamin. (Acn Beeroth oaoa nu ke ip lun Benjamin.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	2SA 4:3 Mwet muta we meet ah elos tuh kaingla nu Gittaim, ac elos mutana we in pacl sac me.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	2SA 17:24 Ke pacl se Absalom ac mwet lal ah tupalla Infacl Jordan, David el sun tari acn Mahanaim. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	2SA 17:25 Absalom el eisalang Amasa elan captain lun un mwet mweun, aolul Joab. Amasa el wen natul Jether mwet Ishmael, ac nina kial pa Abigail acn natul Nahash, ac tamtael lal Zeruiah, nina kial Joab.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	2SA 21:1 In we lal Tokosra David, oasr sracl na upa se, yac tolu lusa. Na David el lolngok nu sin LEUM GOD kac, ac LEUM GOD El fahk, “Oasr mwatal Saul ac sou lal ke akmas. El tuh uniya mwet in acn Gibeon.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	2SA 21:2 Mwet Gibeon elos tia mwet Israel — elos mwet Amor, sie u srisrik su mwet Israel elos tuh wulela mu elos ac karinganulos, tuh pa Saul el tuh srike elan kunauselosla ke sripen moniyuk lal in nunku ke mwet Israel ac mwet Judah.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	1KI 9:15 Tokosra Solomon el orekmakin mwet in kumak lal in musai Tempul ac inkul fulat sin tokosra, ac in koanela layen nu kutulap in Jerusalem, ac orala pot kuhlusyen siti uh. El orekmakunulos pac in akwoyela siti Hazor, Megiddo, ac Gezer. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	1KI 9:17 Na tok, Solomon el sifilpa musaela.) El orekmakin pa mwet in kumak lal, ac sifil musaela Beth Horon Ten,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	1KI 10:11 (Un oak okoal Hiram ma tuh use gold Ophir me, elos oayapa use lupa na yohk ke sak juniper ac wek saok we me.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	1KI 10:12 Solomon el orekmakin sak inge in orala kalkal ke nien fan ke Tempul ac ke lohm sin tokosra, oayapa el sang in orek harp ac lyre nutin mwet on. Sak juniper inge pa wo emeet ke sak ma utuku nu Israel, ac wangin pac ma sifilpa liyeyuk in oana ma inge.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 Ouinge Ahab el solalma Obadiah, su mwet kol fin mwet karingin inkul fulat sin tokosra. (Obadiah el sie mwet su akfulatye LEUM GOD ke inse pwaye.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 Ke Jezebel el mutawauk in uniya mwet palu lun LEUM GOD, Obadiah el okanla siofok selos in luf luo, kais lumngaul ke luf se, ac kitalos mwe mongo ac mwe nim.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	1KI 21:24 Kutena mwet in sou lom su misa in siti uh, ac fah mongola sin kosro ngalngul, ac kutena su misa likin siti uh, ac fah mongola sin won vulture.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	1KI 21:26 El tuh oru mwe mwekin na yohk ke el alu nu ke ma sruloala, oana ma mwet Amor elos oru, aok elos su LEUM GOD El lusla liki facl sac ke mwet Israel elos utyak nu we.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	1CH 5:1 Pa inge fil natul Reuben, wen se emeet natul Jacob. (Ke sripen oasr tafongla lal Reuben yurin sie sin mutan kulansap kien papa tumal ah, oru itukla wal lun wounse se lukel ac itukyang nu sel Joseph.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	1CH 5:2 Tusruktu tok, sruf lal Judah tuh ku liki nukewa, ac sie leum fin sruf nukewa tuh sikyak in sruf lal uh.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	1CH 23:13 Amram el wounse, ac el pa papa tumal Aaron ac Moses. (Aaron ac fwil natul elos sriyukla in karinganang ma mutal ke Tempul ma pahtpat, oayapa elos in akosak mwe kisa keng ke pacl in alu nu sin LEUM GOD, ac kulansupwal, ac akinsewowoye mwet uh Inel.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	1CH 23:14 Tusruktu wen natul Moses [mwet se su pangpang mwet lun God] elos oaoa in mwet Levi.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	2CH 5:11 Ke mwet tol elos illa liki acn mutal uh (mwet tol nukewa su oasr in acn sac elos tuh akmutalyalos sifacna, mansis u se su lalos,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	2CH 5:12 ac mwet on nukewa lun mwet Levi — Asaph, Heman, Jeduthun, ac wen natulos ac sou lalos — los nukewa nukum nuknuk linen. Mwet Levi elos tu apkuran nu ke layen kutulap in loang sac, wi cymbal ac harp natulos, ac oayapa wi mwet tol siofok longoul su uk mwe ukuk.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	2CH 9:10 (Mwet lal Tokosra Hiram ac mwet lal Tokosra Solomon su use gold Ophir me, elos oayapa use sak juniper ac wek saok.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	2CH 9:11 Solomon el orekmakin sak inge nu ke nien fan nu ke Tempul, ac nu ke lohm sin tokosra, oayapa el sang in orek harp ac lyre nutin mwet on. Tufahna liyeyuk ma ouinge in acn Judah omeet me.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	ISA 16:4 Lela kut in muta in acn suwos. Molikutla liki mwet su kena unikutla.” (Mwe akkeok ac kunausten ac fah tui, ac mwet ma kunausla facl se inge ac fah som.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	ISA 16:5 In pacl sacn, sie sin fwilin tulik natul David ac fah tokosra, ac el ac fah kol mwet uh ke inse pwaye ac ke lungse. El ac fah sa na in oru ma pwaye, ac el ac liye tuh nununku suwohs in orek.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JER 4:26 Acn ma imaiyukla ekla yen mwesis. Siti nukewa kunausyukla Ke sripen kasrkusrak upa lun LEUM GOD. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JER 4:27 LEUM GOD El fahk mu faclu nufon ac fah mwesisla ac wangin ma oan fac, tusruktu El fah tia kunausla nufon.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JER 10:10 Tusruktu kom, LEUM GOD, pa God pwaye Ac kom God moul Ac tokosra ma pahtpat. Ke pacl se kom kasrkusrak, faclu kusrusr; Mutanfahl uh tia ku in muteng mulat lom. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JER 10:11 Kowos enenu in fahkang nu selos lah god ma tia orala faclu ac kusrao, ac fah kunausyukla. Elos fah wanginla liki acn nukewa fin faclu.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JER 15:11 LEUM GOD, lela selnga nukewa lalos uh in akpwayeiyuk nga fin tia kulansupwekom wo, ac nga fin tia kwafe sum ke mwet lokoalok luk in pacl elos sun ma upa ac ongoiya nu selos. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JER 15:12 Wangin mwet ku in koteya osra uh, yokna osra ma tuku epang me ma karyak ke bronze.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JER 26:19 Tokosra Hezekiah ac mwet Judah tuh tiana unilya Micah, a Hezekiah el tuh akfulatye LEUM GOD ac kwafe tuh Elan pakoten nu sel. Na LEUM GOD El aolla nunak lal liki kunausten ma El tuh fahk mu El ac use nu faclos. Ac inge, kut apkuran in sifacna use sie kunausten lulap nu facsr.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JER 26:23 Elos folokunulma nu yorol Tokosra Jehoiakim, su sap in anwuki el, ac manol sisiyang nu in kulyuk lun mwet pusisel.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JER 27:18 Elos fin mwet palu pwaye, ac fin kas luk pa oasr selos, lela elos in siyuk sik, LEUM GOD Kulana, in tia fuhlela ma saok lula in Tempul ac inkul fulat lun tokosra, in utukla nu Babylonia.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JER 27:20 Tokosra Nebuchadnezzar lun Babylonia el tuh tia usla ma inge ke pacl se el usalla Tokosra Jehoiachin lun Judah, wen natul Jehoiakim, ac mwet leum nukewa lun Judah ac Jerusalem, liki Jerusalem nu in sruoh in acn Babylonia.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JER 39:2 Ke len se akeu in malem akakosr in yac aksingoul sie ma Zedekiah el tokosra, mwet Babylonia elos fukulya pot uh ac utyak. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JER 39:3 Ke pacl se sruoh Jerusalem, mwet fulat nukewa lun tokosra Babylonia elos tuku ac tu yen srisrngiyuk nu selos ke Mutunpot Infulwa. Kutu sin mwet inge pa Nergal Sarezer, Samgar Nebo, Sarsechim, ac sie pac Nergal Sarezer.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JER 48:9 Tulokunak sie eot in kulyuk lun acn Moab. Ac tia paht el musalla. Siti we ac fah filfilla in kulawi, Ac wangin mwet fah sifilpa muta we.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JER 48:10 Selngawiyuk mwet se su tia oru orekma lun LEUM GOD ke insial nufon! Selngawiyuk mwet se su sruokya cutlass natul in tia aksororye srah!)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JER 50:27 Uniya mwet mweun lal nukewa! Pakelosi! We nu sin mwet Babylonia! Pa inge pacl in kalya nu selos!” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JER 50:28 Mwet ma kaingla liki Babylonia in suk moul lalos elos tuku nu Jerusalem ac srumun luman foloksak lun LEUM GOD lasr ke ma mwet Babylonia elos tuh oru nu ke Tempul lal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	EZE 23:20 Arulana yokla lung koluk lal nu sin mukul ma lungse orekma koluk uh ac moul lalos oana donkey mukul ku horse mukul uh.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	EZE 23:21 Oholibah, ya kom lungse sifil kalweni moul koluk su kom tuh moulkin in facl Egypt, yen ma mukul uh tuh sritalkin titi lom an, ac kom eteya mwet uh we?)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	NAH 2:1 Nineveh, ac mweuniyuk kom pa nge! Ku se ma ac ipsrikikomi tuku tari. Akoela mwet loang lom an! Taran inkanek an! Akola in mweun! (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	NAH 2:2 LEUM GOD El akola in folokonak ku ac wolana lun Israel, in oana woiyen acn we meet liki mwet lokoalok elos kunausla.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAT 17:20 Na Jesus el fahk, “Mweyen srikla lulalfongi lowos. Pwayena nga fahk nu suwos, lulalfongi lowos fin oana luman fiten mustard se, kowos ac ku in fahk nu sin eol soko inge, ‘Fahsrot liki acn se inge nu ingo!’ na ac som. Kowos ac ku in oru kutena ma!” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	MAT 17:21 “Tusruktu pre ac lalo mukena pa ku in sisla kain inge; wangin ma saya ku in sisla.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAT 18:10 “Liyaung tuh kowos in tia pilesru kutena selos su srik inge. Nga fahk nu suwos, tuh lipufan lalos elos mutana ye mutun Papa tumuk inkusrao pacl e nukewa.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	MAT 18:11 Tuh Wen nutin Mwet el tuku in tuh molelosla su tuhlac.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAT 21:43 Na Jesus el fahk pac nu selos, “Ke ma inge nga fahk nu suwos: Tokosrai lun God ac fah itukla liki kowos, ac itukyang nu sin mwet su ac orala fahko pwaye.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	MAT 21:44 Kutena mwet su putatla nu fin eot se inge ac fah musalsalu mano. Ac eot se inge fin putatla nu fin sie mwet, manol ac fah pusraksrakelik.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 “We nu suwos, mwet luti Ma Sap ac mwet Pharisee! Kowos mwet wosounkas! Kowos kaliya nien utyak nu in Tokosrai lun kusrao nu sin mwet uh, a kowos sifacna tia utyak nu we ku fuhlela mwet su lungse utyak in utyak! [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 We nu suwos, kowos mwet luti Ma Sap ac mwet Pharisee. Kowos mwet wosounkas! Kowos kiapu katinmas ac pusrala lohm selos, tari kowos filangkin pre loeloes lowos! Ke kowos oru ouinge ac fah arulana yohk kaiyuk nu suwos!]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (Tuh mwet Pharisee ac mwet Jew nukewa elos oru oana ke mwet matu lalos tuh luti nu selos: elos tia ku in mongo elos fin tia aknasnasye paolos oana oakwuk lalos;	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 ku tia pac kang kutena ma su tuku nien kuka me elos fin tia aknasnasye meet. Ac elos akfalye pac ouiya puspis ma elos eis sin mwet matu lalos, oana ouiya nu ke aknasnasye cup, tup, ahlu bronze, ac mwe oan.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAR 9:43 La poum fin aktukulkulye kom, pakela! Ac wo nu sum kom in utyak nu in moul wi la na poum, liki in oasr po luo lom ac kom som nu in hell, nu in e se koflana kunla. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	MAR 9:44 “Yen wet ma kang manolos tiana misa, ac e uh tiana kunla.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAR 9:45 Ac la niom fin aktukulkulye kom, pakela! Wo kom in ilyak nu in moul ke lac ne liki in oasr niom kewa ac sisila kom nu in hell. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	MAR 9:46 Yen wet ma kang manolos tiana misa, ac e uh tiana kunla.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAR 11:25 Ac ke kowos tuyak pre, kowos in nunak munas nu sin kutena mwet su aktoasrye kowos, tuh Papa tomowos su inkusrao Elan oayapa nunak munas nu suwos ke ma koluk lowos. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	MAR 11:26 A kowos fin tia nunak munas, Papa tomowos su inkusrao El fah oayapa tia nunak munas nu suwos ke ma koluk lowos.]”	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAR 15:27 Elos oayapa srupusrak mwet pisrapasr sulallal luo welul — sie lac paol layot ac sie lac paol lasa. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	MAR 15:28 Akpwayeuk Ma Simusla su fahk, “Elos oakulang yurin mwet koluk.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	MAR 16:9 [Tukun Jesus el sifil moulyak liki misa, ke toang na ke len se meet in wik, el sikyang nu sel Mary Magdalene, su Jesus el tuh sisla demon itkosr lukel.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[4/5]	MAR 16:20 Na mwet tumal lutlut elos som ac luti yen nukewa. Leum Jesus el welulos ke orekma elos oru, ac el akpwayeye luti lalos ke mwe akul ma elos oru.] [[SIE PAC KAS IN AKSAFYE BUK SE INGE IN PACL EMEET [9] Mutan ah som ac fahk nu sel Peter ac elos su oelul, ma nukewa ma fwackyang nu seltal. [10] Tukun ma inge, Jesus el sifacna supwalik mwet tumal lutlut in fahkak kas mutal, kas in loango ke moul ma pahtpat nu fin faclu nufon.]]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	LUK 22:42 El fahk, “Papa, fin ou lungse lom, eisla cup in keok se inge likiyu. Tusruktu, in tia ou lungse luk, a lela ma lungse lom in orek.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	LUK 22:44 Ke arulana yohk keok lal ke nunkeya, el kwafeang na in pre; ac fio kacl uh tultul oana srah nu fin fohk uh.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	LUK 23:16 Ke ma inge, nga ac sang in sringsring el, tari nga fah tulalla. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	LUK 23:17 Ke pacl in Kufwen Alukela nukewa oasr oakwuk se lal Pilate in tulala sie mwet kapir ma mwet uh siyuk in taltalla.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	LUK 23:18 Ac un mwet nufon sac tukeni wowoyak ac fahk, “Unilya! Tulalla Barabbas nu sesr!” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	LUK 23:19 Barabbas el muta in kapir ke sripen sie alein ma sikyak in siti uh lain government, oayapa ke sripen akmas ma el oru.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	LUK 24:11 A mwet sap elos nunku mu mutan inge sramsram wel, oru elos tiana lulalfongelos. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	LUK 24:12 Tusruktu Peter el tuyak ac kasrusr nu ke kulyuk uh. El kui nu ten ac liyauk nuknuk linen mukena. Na el folokla nu lohm sel ac arulana fwefela ke ma sikyak uh.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	LUK 24:39 Ngetma liye pouk ac niuk, ac liye lah nga pa inge. Kahlyuwi na kowos ac fah etu na pwaye, tuh inut uh wangin ikwa ac sri kac oana ke kowos liye keik uh.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	LUK 24:40 El fahk ma inge, ac kolang paol ac nial nu selos.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	JOH 5:3 Mwet mas puspis oan fin sawalsrisr inge — mwet kun, mwet maskin nia, ac mwet ul. [Elos soano kof uh in noanoayak,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	JOH 5:4 mweyen kutu pacl uh, sie lipufan lun Leum ac oatui nu in lulu sac ac oru kof uh in noanoayak. Mwet mas se ma ac sroang oemeet nu in lulu uh tukun kof uh noanoayak uh ac kwela liki mas lal uh.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	JOH 7:52 Na elos fahk, “Mea, kom sie pac mwet Galilee? Riti Ma Simusla ac kom ac etu lah wangin mwet palu ku in sikyak Galilee me.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 Mutan sac topuk, “Leum, wanginna.” Na Jesus el fahk, “Kwal, nga ac tia pac nununkekom. Kom ku in som, tusruktu nimet sifilpa oru ma koluk.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JOH 11:29 Ke Mary el lohng, el tuyak ac sulaklak som in osun nu sel. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JOH 11:30 Jesus el soenna tuku nu yen mwet uh walil we, a el srakna oasr yen se Martha el sonol we ah.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JOH 12:32 Pacl se nga ac sripsripyak liki faclu, nga fah kolma mwet nukewa nu yuruk.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JOH 12:33 Ke el fahk ma inge el akkalemye luman misa se su el ac keok kac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JOH 13:10 Jesus el fahk, “Kutena mwet su yihla tari el nasnas, ac el tia enenu in oul kutena acn ke manol sayen nial. Kowos nukewa nasnas — sayen sie.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JOH 13:11 Jesus el etu tari lah su ac tukakunulak uh, pa oru el fahk mu, “Kowos nukewa nasnas, sayen sie.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JOH 18:8 Jesus el fahk, “Nga fahk tari nu suwos lah nga pa el. Fin nga pa kowos suk an, fuhlela mwet inge in som.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JOH 18:9 El fahk ouinge tuh in akpwayeiyuk kas se el tuh fahk meet: “Papa, tia sie selos su kom ase nu sik tuhlac likiyu.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JOH 18:31 Pilate el fahk nu selos, “Fin angan, kowos sifacna usal ac nununkal fal nu ke ma sap lowos an.” Elos topuk ac fahk, “Ma sap lowos, mwet Rome, tia lela nu sesr in wotela sie mwet in anwuki.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JOH 18:32 Ma inge sikyak in akpwayei ma Jesus el fahk ke el fahkak luman misa ma el ac misa kac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JOH 19:34 Ne ouinge, sie sin mwet mweun el fakisang osra natul ah nu ke la sial Jesus, ac in pacl sacna srah ac kof tukenina sororla kacl. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JOH 19:35 Mwet se ma liye ke ma inge sikyak el orek loh kac, tuh kowos in ku pac in wi lulalfongi. Ma el fahk kac ma pwaye, ac el etu lah el kaskas pwaye.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	JOH 20:8 Na mwet lutlut se ngia ma sun kulyuk ah meet, el utyak pac nu in luf uh. El liye ac lulalfongi. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	JOH 20:9 Eltal soenna kalem ke Ma Simusla ma fahk mu el enenu na in moulyak liki misa.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	ACT 1:18 (Mani se ma Judas el tuh eis ke sripen ma koluk se ma el orala, el sang molela sie ipin acn. Acn sacna pa el tuh putatla ac misa we, ac sial fokelik ac koanonsial nufon raki.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 Mwet nukewa su muta Jerusalem elos lohng ke ma inge, ouinge in kas lalos sifacna elos pangon ipin acn sac Akeldama, su kalmac pa “Acn Moulla ke Srah.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	ACT 7:24 Ke el som el liye lah sie selos tuh orek arulana koluk sin mwet Egypt se, sruk wangin mwatal. Ouinge Moses el som in kasrel, na el foloksak nu sin mwet Egypt sac ac unilya. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	ACT 7:25 El nunku mu mwet lal uh ac kalem kac lah God El orekmakunul in aksukosokyalosla, tuh elos tiana kalem kac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	ACT 8:36 Eltal kasrusr nwe sun sie acn ma oasr kof we. Na mwet fulat sac fahk, “Liye, kof pa inge. Ya oasr ma ac ikolyuwi nga in baptaisla?” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	ACT 8:37 Philip el fahk nu sel, “Kom fin lulalfongi ke insiom kewa, kom ku in baptaisla.” Ac el topuk, “Nga lulalfongi lah Jesus Christ El Wen nutin God.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	ACT 15:33 Tukun eltal muta yorolos ke kutu pacl, na mwet lulalfongi elos supwalosla in misla, ac elos folokla nu yurin mwet ma supwalosme ah. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	ACT 15:34 Tusruktu Silas el sulela elan muta we.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	ACT 17:20 Kutu ma kut lohng kom fahk uh luman sakirik sesr in lohng, ac kut ke etu lah mea kalmac.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	ACT 17:21 Mweyen mwet Athens nukewa, ac mwetsac su muta we, lungse sisla pacl lalos in sramsramkin ac lohng ke kutena pweng sasu.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	ACT 21:28 Na elos wowoyak ac fahk, “Mwet Israel, kasrekut! Pa inge mwet se forfor yen nukewa ac luti nu sin mwet nukewa in lain mwet Israel, ac lain Ma Sap lal Moses, ac lain Tempul se inge. Ac inge el use pac mwet pegan nu in Tempul uh ac akfohkfokyela acn mutal se inge!” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	ACT 21:29 Elos fahk ma inge mweyen elos tuh liyalak Trophimus, sie mwet Ephesus ke el welul Paul in siti uh, ac elos nunku mu Paul el usalak nu in Tempul.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	ACT 23:7 Pacl se na el fahkla ma se inge ah, na mwet Pharisee ac mwet Sadducee mutawauk in akukuin, ac u sac nunak luoelik. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	ACT 23:8 Tuh mwet Sadducee elos fahk mu mwet misa uh ac tia sifil moulyak liki misa, ac elos fahk pac mu wangin lipufan ku ngun, a mwet Pharisee elos lulalfongi ke ma tolu inge kewa.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	ACT 28:28 Na Paul el aksafye sramsram lal uh ac fahk, “Kowos in etu lah pweng ke molela sin God me uh supweyukla tari nu sin mwet sayen mwet Jew, ac elos ac fah porongo!” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	ACT 28:29 Tukun Paul el fahk ma inge, na mwet Jew elos fahsrelik, akukuin na upa inmasrlolos.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[1/0]	ROM 16:23 Gaius el paing kowos. El pa nga muta yoro, ac mwet in church yenu elos toeni in lohm sel. Erastus, mwet liyaung mani lun siti se inge, oayapa Quartus, mwet lili wiasr, eltal paing kowos. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	[0/1]	ROM 16:24 Lungkulang lun Leum lasr Jesus Christ in wi kowos nukewa. Amen.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	EPH 3:3 God El ikasla pwapa lukma lal nu sik tuh nga in kalem kac. (Nga sim tari ke ma inge ke kas pu,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	EPH 3:4 ac kowos fin rit ke ma nga simusla inge, kowos ac etu ke ma nga kalem kac ke ouiyen pwapa lun God su tia eteyuk meet, a sikyak inge ke Christ.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(1/0)	EPH 5:29 (Wangin mwet srunga manol sifacna, a el kitaung ac arulana karinganang, oana ke Christ el oru nu ke church.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Source	(0/1)	EPH 5:30 Kut etu lah ouinge mweyen kut lahn manol.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	001 GEN 005 001 Pa inge takin fwilin tulik natul Adam. (Ke God El tuh orala mwet uh, El oralosla in lumahl.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 005 002 El oralosla mukul ac mutan, ac akinsewowoyalos, ac sang inelos “Mwet.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	001 GEN 029 023 Tusruktu in fong sac, el tia usal Rachel, a el eisalang Leah nu sel Jacob, ac Jacob el ona yorol. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 029 024 Laban el eisalang Zilpah, mutan kulansap lal, nu sel Leah, acn natul, tuh elan mutan kulansap lal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	001 GEN 029 028 Jacob el insese nu kac, ac ke safla wik in akfulat ke marut uh, Laban el eisalang Rachel, acn natul, tuh elan mutan pac kial. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 029 029 Laban el eisalang Bilhah, mutan kulansap lal, nu sel Rachel, acn natul, tuh elan mutan kulansap lal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 016 035 Mwet Israel elos mongo manna ke yac angngaul, nwe ke elos sun sisken facl Canaan, acn elos oakwuki we. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 016 036 Mwe srikasrak flao in pacl meet pangpang “omer,” na omer se oana quart luo.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 018 003 oayapa Gershom ac Eliezer, wen luo natul Zipporah. (Moses el tuh fahk, “Nga sie mwetsac in sie pacna facl,” pa oru el sang inen sie wen natul ah Gershom.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 018 004 El tuh oayapa fahk, “God lun papa tumuk El kasreyu moliyula ngan tia anwuki sin tokosra Egypt,” pa oru el sang inen tulik se ngia Eliezer.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	003 LEV 023 036 Kais sie len ke len itkosr inge kowos fah oru kisa ke mwe mongo. Ke len se akoalkosr, kowos sifilpa tukeni in alu ac oru sie kisa ke mwe mongo. Len in alu se pa inge, ac kowos fah tia oru kutena orekma.’” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	003 LEV 023 038 Len in kufwa inge ac orek pacna sayen oakwuk lun len Sabbath uh, ac kisa inge ac weang pacna mwe sang lowos, ac kisa in akfalye wuleang, ac kisa ma orek na ke insewowo lowos sifacna, ma kowos sang nu sin LEUM GOD uh.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 011 006 A inge kut ngulngul ke wangin na pwaye ma kut in kang sayen manna se inge len nukewa!” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 011 009 Ke aunfong uh apunla nien aktuktuk uh ke fong, manna uh putati pac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 012 002 Eltal fahk, “Mea, LEUM GOD El kaskas nu sin mwet uh sel Moses mukena? Ya El tia kaskas pac kacsr?” LEUM GOD El lohng ma eltal fahk. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 012 003 Moses el mwet na fakpap se, yohk liki kutena mwet fin faclu.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 013 023 Elos tuku nu Infahlfal Eshcol, ac pakela lah se su ungin grape na toasr se oan kac. Ke sripen arulana toasr, enenu mwet luo in polongya us ke soko srenenu. Elos oayapa us kutu pomegranate ac fig. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 013 024 Elos sang inen acn sac Infahlfal Eshcol ke sripen ungin grape se mwet Israel pakela we.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 026 009 ac wen natul inge: Nemuel, Dathan, ac Abiram. (Dathan ac Abiram pa tuh solla in mwet kol lun mwet uh. Eltal tuh lainul Moses ac Aaron ke eltal srola wela mwet ke u lal Korah ke pacl se elos tunyuna lain LEUM GOD.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 026 011 Tusruktu wen natul Korah tiana anwukla.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 001 001 Pa inge kas lal Moses nu sin mwet Israel ke pacl se elos oasr yen mwesis, kutulap in Infacl Jordan. Elos muta ke Infahlfal lun Jordan tulanang acn Suph, inmasrlon siti Paran ac siti Tophel, Laban, Hazeroth, ac Dizahab. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 001 002 Mwet uh fahsr ut ke fulan eol Edom ke lusen len singoul sie, Fineol Sinai nu Kadesh Barnea.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 009 LEUM GOD El fahk nu sik, ‘Nimet aklokoalokye mwet Moab, su fwilin tulik natul Lot, ac nimet mweun nu selos. Nga sang tari siti Ar nu selos, ac nga ac tia sot nu suwos kutena acn selos.’” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Mwet Hor elos tuh muta Edom in pacl meet, tusruktu fwilin tulik natul Esau luselosla, kunausla mutunfacl selos, ac oakwuki we, oapana ma mwet Israel elos tuh oru tok ke elos lusla mwet lokoalok lalos liki acn ma LEUM GOD El tuh sang selos.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 019 Na kowos ac fah apkuran nu ke facl sin mwet Ammon, su fwilin tulik natul Lot. Nikmet aklokoalokyalos ku mweun nu selos, mweyen nga ac tia sot kutena acn lowos ke acn ma nga sang tari nu selos.’” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Acn ma oan weacn Meoa Mediterranean oakwuki tari sin mwet tuku liki tuka Crete. Elos onela mwet Avvim, su mwet na pwaye we, ac eisla acn nukewa lalos, som na nwe siti Gaza in acn eir.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 003 008 “In pacl sac, kut eisla sin tokosra luo lun mwet Amor inge, acn nukewa kutulap in Infacl Jordan, mutawauk Infacl Arnon lac nwe ke Eol Hermon. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 009 Mwet Sidon elos pangon Eol Hermon “Eol Sirion” ac mwet Amor elos pangon “Eol Senir.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 003 010 Kut eisla acn nukewa sel Tokosra Og lun Bashan: siti nukewa yen tupasrpasr uh, wi acn nukewa lun Gilead ac Bashan, som na nwe ke siti Salecah ac Edrei, su oan kutulap.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 011 Tokosra Og pa safla ke mwet ma pangpang Rephaim. Box in misa lal orekla ke eot, fit onkosr sralap ac apkuran in fit singoul akosr lusa, fal nu ke srikasrak oakwuki in pacl sac. Box sac srakna ku in liyeyuk in siti Rabbah lun mwet Ammon.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 Nga sang nu sin tafu sruf lal Manasseh acn lula Gilead ac oayapa acn Bashan nufon, acn ma Tokosra Og el tuh leumi, aok, nufonna acn Argob.” (Eteyuk acn Bashan mu acn sin mwet Rephaim.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 Jair, sie mwet in sruf lal Manasseh, el eis acn Argob, nufon — acn inge pa Bashan, som na nwe ke masrol lun Geshur ac Maacah. El sang inel sifacna nu ke acn inge, na srakna pangpang acn we “Siti Srisrik lal Jair.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 005 ac nga forla ac tufoki. Na, in oana ke LEUM GOD El sapkin, nga filiya in tuptup se ma nga orala — na oanna loac nwe misenge.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Pa inge sripa se oru sruf lal Levi tia wi eis acn selos in oana sruf ngia. Mwe insemowo lalos pa elos mukena ku in mwet tol lun LEUM GOD, oana LEUM GOD lowos El wulela kac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 011 029 Ke pacl se LEUM GOD El uskowosme nu in facl se su kowos ac oakwuki we, kowos in sulkakin mwe insewowo liki Fineol Gerizim, ac mwe selnga liki Fineol Ebal. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 011 030 Kowos etu lah fineol lukwa inge oasr layen roto ke infacl Jordan, ke facl sin mwet Canaan su muta infahlfal Jordan. Fineol inge oan nget nu roto, ac tia loes liki sak oal Moreh, fototo nu ke siti Gilgal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Ac mwet Israel elos siyuk sin LEUM GOD (tuh Tuptup in Wuleang lun God oan in acn Bethel in pacl sac,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 ac Phinehas, wen natul Eleazar su ma natul Aaron, pa karingin tuptup sac in pacl sac.) Na mwet elos siyuk sin LEUM GOD, “Ya fal kut in sifil som lain mwet Benjamin wiasr, ku kut ac tia som?” Ac LEUM GOD El topuk ac fahk, “Kowos som. Lutu nga ac sot kutangla nu suwos.”	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	009 1SA 004 014 Ke Eli el lohng pusren mwet uh el siyuk, “Mea kalmen wowon ingan?” Na mwet sac sulaklak nu yorol ac fahkak ma sikyak nu sel. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	009 1SA 004 015 Eli el yac eungoul oalkosr in pacl se inge, ac apkuran in kunla na pwaye mutal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	009 1SA 013 019 Wangin mwet orekma ke osra fin acn Israel nufon, mweyen mwet Philistia elos tiana lela mwet Hebrew in orek osra in fakfuk ku cutlass. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	009 1SA 013 021 Molin tete tuhla ac mitmit pa ipin mani se. Molin tete mwe kulkul ac mwe pukpuk pa ipin mani luo.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 Oasr mwet luo lal Ishbosheth su kol un mwet orek lokoalok. Inen mwet luo inge pa Baanah ac Rechab, wen natul Rimmon mwet Beeroth in sruf lal Benjamin. (Acn Beeroth oaoa nu ke ip lun Benjamin.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 Mwet muta we meet ah elos tuh kaingla nu Gittaim, ac elos mutana we in pacl sac me.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 017 024 Ke pacl se Absalom ac mwet lal ah tupalla Infacl Jordan, David el sun tari acn Mahanaim. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 017 025 Absalom el eisalang Amasa elan captain lun un mwet mweun, aolul Joab. Amasa el wen natul Jether mwet Ishmael, ac nina kial pa Abigail acn natul Nahash, ac tamtael lal Zeruiah, nina kial Joab.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 021 001 In we lal Tokosra David, oasr sracl na upa se, yac tolu lusa. Na David el lolngok nu sin LEUM GOD kac, ac LEUM GOD El fahk, “Oasr mwatal Saul ac sou lal ke akmas. El tuh uniya mwet in acn Gibeon.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 021 002 Mwet Gibeon elos tia mwet Israel — elos mwet Amor, sie u srisrik su mwet Israel elos tuh wulela mu elos ac karinganulos, tuh pa Saul el tuh srike elan kunauselosla ke sripen moniyuk lal in nunku ke mwet Israel ac mwet Judah.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 009 015 Tokosra Solomon el orekmakin mwet in kumak lal in musai Tempul ac inkul fulat sin tokosra, ac in koanela layen nu kutulap in Jerusalem, ac orala pot kuhlusyen siti uh. El orekmakunulos pac in akwoyela siti Hazor, Megiddo, ac Gezer. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 009 017 Na tok, Solomon el sifilpa musaela.) El orekmakin pa mwet in kumak lal, ac sifil musaela Beth Horon Ten,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (Un oak okoal Hiram ma tuh use gold Ophir me, elos oayapa use lupa na yohk ke sak juniper ac wek saok we me.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 Solomon el orekmakin sak inge in orala kalkal ke nien fan ke Tempul ac ke lohm sin tokosra, oayapa el sang in orek harp ac lyre nutin mwet on. Sak juniper inge pa wo emeet ke sak ma utuku nu Israel, ac wangin pac ma sifilpa liyeyuk in oana ma inge.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Ouinge Ahab el solalma Obadiah, su mwet kol fin mwet karingin inkul fulat sin tokosra. (Obadiah el sie mwet su akfulatye LEUM GOD ke inse pwaye.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Ke Jezebel el mutawauk in uniya mwet palu lun LEUM GOD, Obadiah el okanla siofok selos in luf luo, kais lumngaul ke luf se, ac kitalos mwe mongo ac mwe nim.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 024 Kutena mwet in sou lom su misa in siti uh, ac fah mongola sin kosro ngalngul, ac kutena su misa likin siti uh, ac fah mongola sin won vulture.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 El tuh oru mwe mwekin na yohk ke el alu nu ke ma sruloala, oana ma mwet Amor elos oru, aok elos su LEUM GOD El lusla liki facl sac ke mwet Israel elos utyak nu we.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Pa inge fil natul Reuben, wen se emeet natul Jacob. (Ke sripen oasr tafongla lal Reuben yurin sie sin mutan kulansap kien papa tumal ah, oru itukla wal lun wounse se lukel ac itukyang nu sel Joseph.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Tusruktu tok, sruf lal Judah tuh ku liki nukewa, ac sie leum fin sruf nukewa tuh sikyak in sruf lal uh.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 023 013 Amram el wounse, ac el pa papa tumal Aaron ac Moses. (Aaron ac fwil natul elos sriyukla in karinganang ma mutal ke Tempul ma pahtpat, oayapa elos in akosak mwe kisa keng ke pacl in alu nu sin LEUM GOD, ac kulansupwal, ac akinsewowoye mwet uh Inel.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 023 014 Tusruktu wen natul Moses [mwet se su pangpang mwet lun God] elos oaoa in mwet Levi.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 Ke mwet tol elos illa liki acn mutal uh (mwet tol nukewa su oasr in acn sac elos tuh akmutalyalos sifacna, mansis u se su lalos,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 ac mwet on nukewa lun mwet Levi — Asaph, Heman, Jeduthun, ac wen natulos ac sou lalos — los nukewa nukum nuknuk linen. Mwet Levi elos tu apkuran nu ke layen kutulap in loang sac, wi cymbal ac harp natulos, ac oayapa wi mwet tol siofok longoul su uk mwe ukuk.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (Mwet lal Tokosra Hiram ac mwet lal Tokosra Solomon su use gold Ophir me, elos oayapa use sak juniper ac wek saok.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 Solomon el orekmakin sak inge nu ke nien fan nu ke Tempul, ac nu ke lohm sin tokosra, oayapa el sang in orek harp ac lyre nutin mwet on. Tufahna liyeyuk ma ouinge in acn Judah omeet me.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	023 ISA 016 004 Lela kut in muta in acn suwos. Molikutla liki mwet su kena unikutla.” (Mwe akkeok ac kunausten ac fah tui, ac mwet ma kunausla facl se inge ac fah som.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	023 ISA 016 005 In pacl sacn, sie sin fwilin tulik natul David ac fah tokosra, ac el ac fah kol mwet uh ke inse pwaye ac ke lungse. El ac fah sa na in oru ma pwaye, ac el ac liye tuh nununku suwohs in orek.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 004 026 Acn ma imaiyukla ekla yen mwesis. Siti nukewa kunausyukla Ke sripen kasrkusrak upa lun LEUM GOD. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 004 027 LEUM GOD El fahk mu faclu nufon ac fah mwesisla ac wangin ma oan fac, tusruktu El fah tia kunausla nufon.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 010 010 Tusruktu kom, LEUM GOD, pa God pwaye Ac kom God moul Ac tokosra ma pahtpat. Ke pacl se kom kasrkusrak, faclu kusrusr; Mutanfahl uh tia ku in muteng mulat lom. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 010 011 Kowos enenu in fahkang nu selos lah god ma tia orala faclu ac kusrao, ac fah kunausyukla. Elos fah wanginla liki acn nukewa fin faclu.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 015 011 LEUM GOD, lela selnga nukewa lalos uh in akpwayeiyuk nga fin tia kulansupwekom wo, ac nga fin tia kwafe sum ke mwet lokoalok luk in pacl elos sun ma upa ac ongoiya nu selos. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 015 012 Wangin mwet ku in koteya osra uh, yokna osra ma tuku epang me ma karyak ke bronze.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 026 019 Tokosra Hezekiah ac mwet Judah tuh tiana unilya Micah, a Hezekiah el tuh akfulatye LEUM GOD ac kwafe tuh Elan pakoten nu sel. Na LEUM GOD El aolla nunak lal liki kunausten ma El tuh fahk mu El ac use nu faclos. Ac inge, kut apkuran in sifacna use sie kunausten lulap nu facsr.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 026 023 Elos folokunulma nu yorol Tokosra Jehoiakim, su sap in anwuki el, ac manol sisiyang nu in kulyuk lun mwet pusisel.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 027 018 Elos fin mwet palu pwaye, ac fin kas luk pa oasr selos, lela elos in siyuk sik, LEUM GOD Kulana, in tia fuhlela ma saok lula in Tempul ac inkul fulat lun tokosra, in utukla nu Babylonia.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 027 020 Tokosra Nebuchadnezzar lun Babylonia el tuh tia usla ma inge ke pacl se el usalla Tokosra Jehoiachin lun Judah, wen natul Jehoiakim, ac mwet leum nukewa lun Judah ac Jerusalem, liki Jerusalem nu in sruoh in acn Babylonia.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 039 002 Ke len se akeu in malem akakosr in yac aksingoul sie ma Zedekiah el tokosra, mwet Babylonia elos fukulya pot uh ac utyak. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 039 003 Ke pacl se sruoh Jerusalem, mwet fulat nukewa lun tokosra Babylonia elos tuku ac tu yen srisrngiyuk nu selos ke Mutunpot Infulwa. Kutu sin mwet inge pa Nergal Sarezer, Samgar Nebo, Sarsechim, ac sie pac Nergal Sarezer.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 048 009 Tulokunak sie eot in kulyuk lun acn Moab. Ac tia paht el musalla. Siti we ac fah filfilla in kulawi, Ac wangin mwet fah sifilpa muta we.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 048 010 Selngawiyuk mwet se su tia oru orekma lun LEUM GOD ke insial nufon! Selngawiyuk mwet se su sruokya cutlass natul in tia aksororye srah!)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 050 027 Uniya mwet mweun lal nukewa! Pakelosi! We nu sin mwet Babylonia! Pa inge pacl in kalya nu selos!” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 050 028 Mwet ma kaingla liki Babylonia in suk moul lalos elos tuku nu Jerusalem ac srumun luman foloksak lun LEUM GOD lasr ke ma mwet Babylonia elos tuh oru nu ke Tempul lal.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	026 EZE 023 020 Arulana yokla lung koluk lal nu sin mukul ma lungse orekma koluk uh ac moul lalos oana donkey mukul ku horse mukul uh.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	026 EZE 023 021 Oholibah, ya kom lungse sifil kalweni moul koluk su kom tuh moulkin in facl Egypt, yen ma mukul uh tuh sritalkin titi lom an, ac kom eteya mwet uh we?)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	034 NAH 002 001 Nineveh, ac mweuniyuk kom pa nge! Ku se ma ac ipsrikikomi tuku tari. Akoela mwet loang lom an! Taran inkanek an! Akola in mweun! (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	034 NAH 002 002 LEUM GOD El akola in folokonak ku ac wolana lun Israel, in oana woiyen acn we meet liki mwet lokoalok elos kunausla.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 017 020 Na Jesus el fahk, “Mweyen srikla lulalfongi lowos. Pwayena nga fahk nu suwos, lulalfongi lowos fin oana luman fiten mustard se, kowos ac ku in fahk nu sin eol soko inge, ‘Fahsrot liki acn se inge nu ingo!’ na ac som. Kowos ac ku in oru kutena ma!” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 017 021 “Tusruktu pre ac lalo mukena pa ku in sisla kain inge; wangin ma saya ku in sisla.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 018 010 “Liyaung tuh kowos in tia pilesru kutena selos su srik inge. Nga fahk nu suwos, tuh lipufan lalos elos mutana ye mutun Papa tumuk inkusrao pacl e nukewa.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 018 011 Tuh Wen nutin Mwet el tuku in tuh molelosla su tuhlac.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 021 043 Na Jesus el fahk pac nu selos, “Ke ma inge nga fahk nu suwos: Tokosrai lun God ac fah itukla liki kowos, ac itukyang nu sin mwet su ac orala fahko pwaye.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 021 044 Kutena mwet su putatla nu fin eot se inge ac fah musalsalu mano. Ac eot se inge fin putatla nu fin sie mwet, manol ac fah pusraksrakelik.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 “We nu suwos, mwet luti Ma Sap ac mwet Pharisee! Kowos mwet wosounkas! Kowos kaliya nien utyak nu in Tokosrai lun kusrao nu sin mwet uh, a kowos sifacna tia utyak nu we ku fuhlela mwet su lungse utyak in utyak! [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 023 014 We nu suwos, kowos mwet luti Ma Sap ac mwet Pharisee. Kowos mwet wosounkas! Kowos kiapu katinmas ac pusrala lohm selos, tari kowos filangkin pre loeloes lowos! Ke kowos oru ouinge ac fah arulana yohk kaiyuk nu suwos!]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Tuh mwet Pharisee ac mwet Jew nukewa elos oru oana ke mwet matu lalos tuh luti nu selos: elos tia ku in mongo elos fin tia aknasnasye paolos oana oakwuk lalos;	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 ku tia pac kang kutena ma su tuku nien kuka me elos fin tia aknasnasye meet. Ac elos akfalye pac ouiya puspis ma elos eis sin mwet matu lalos, oana ouiya nu ke aknasnasye cup, tup, ahlu bronze, ac mwe oan.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 043 La poum fin aktukulkulye kom, pakela! Ac wo nu sum kom in utyak nu in moul wi la na poum, liki in oasr po luo lom ac kom som nu in hell, nu in e se koflana kunla. [ (Geenna g1067)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 044 “Yen wet ma kang manolos tiana misa, ac e uh tiana kunla.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 045 Ac la niom fin aktukulkulye kom, pakela! Wo kom in ilyak nu in moul ke lac ne liki in oasr niom kewa ac sisila kom nu in hell. [ (Geenna g1067)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 046 Yen wet ma kang manolos tiana misa, ac e uh tiana kunla.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 011 025 Ac ke kowos tuyak pre, kowos in nunak munas nu sin kutena mwet su aktoasrye kowos, tuh Papa tomowos su inkusrao Elan oayapa nunak munas nu suwos ke ma koluk lowos. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 011 026 A kowos fin tia nunak munas, Papa tomowos su inkusrao El fah oayapa tia nunak munas nu suwos ke ma koluk lowos.]”	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 015 027 Elos oayapa srupusrak mwet pisrapasr sulallal luo welul — sie lac paol layot ac sie lac paol lasa. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 015 028 Akpwayeuk Ma Simusla su fahk, “Elos oakulang yurin mwet koluk.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Tukun Jesus el sifil moulyak liki misa, ke toang na ke len se meet in wik, el sikyang nu sel Mary Magdalene, su Jesus el tuh sisla demon itkosr lukel.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[2/3]	041 MAR 016 020 Na mwet tumal lutlut elos som ac luti yen nukewa. Leum Jesus el welulos ke orekma elos oru, ac el akpwayeye luti lalos ke mwe akul ma elos oru.] [[SIE PAC KAS IN AKSAFYE BUK SE INGE IN PACL EMEET Mutan ah som ac fahk nu sel Peter ac elos su oelul, ma nukewa ma fwackyang nu seltal. Tukun ma inge, Jesus el sifacna supwalik mwet tumal lutlut in fahkak kas mutal, kas in loango ke moul ma pahtpat nu fin faclu nufon.]]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 022 042 El fahk, “Papa, fin ou lungse lom, eisla cup in keok se inge likiyu. Tusruktu, in tia ou lungse luk, a lela ma lungse lom in orek.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 022 044 Ke arulana yohk keok lal ke nunkeya, el kwafeang na in pre; ac fio kacl uh tultul oana srah nu fin fohk uh.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 023 016 Ke ma inge, nga ac sang in sringsring el, tari nga fah tulalla. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 023 017 Ke pacl in Kufwen Alukela nukewa oasr oakwuk se lal Pilate in tulala sie mwet kapir ma mwet uh siyuk in taltalla.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	042 LUK 023 018 Ac un mwet nufon sac tukeni wowoyak ac fahk, “Unilya! Tulalla Barabbas nu sesr!” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	042 LUK 023 019 Barabbas el muta in kapir ke sripen sie alein ma sikyak in siti uh lain government, oayapa ke sripen akmas ma el oru.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 024 011 A mwet sap elos nunku mu mutan inge sramsram wel, oru elos tiana lulalfongelos. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 024 012 Tusruktu Peter el tuyak ac kasrusr nu ke kulyuk uh. El kui nu ten ac liyauk nuknuk linen mukena. Na el folokla nu lohm sel ac arulana fwefela ke ma sikyak uh.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 024 039 Ngetma liye pouk ac niuk, ac liye lah nga pa inge. Kahlyuwi na kowos ac fah etu na pwaye, tuh inut uh wangin ikwa ac sri kac oana ke kowos liye keik uh.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 024 040 El fahk ma inge, ac kolang paol ac nial nu selos.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 003 Mwet mas puspis oan fin sawalsrisr inge — mwet kun, mwet maskin nia, ac mwet ul. [Elos soano kof uh in noanoayak,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 005 004 mweyen kutu pacl uh, sie lipufan lun Leum ac oatui nu in lulu sac ac oru kof uh in noanoayak. Mwet mas se ma ac sroang oemeet nu in lulu uh tukun kof uh noanoayak uh ac kwela liki mas lal uh.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 007 052 Na elos fahk, “Mea, kom sie pac mwet Galilee? Riti Ma Simusla ac kom ac etu lah wangin mwet palu ku in sikyak Galilee me.” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 Mutan sac topuk, “Leum, wanginna.” Na Jesus el fahk, “Kwal, nga ac tia pac nununkekom. Kom ku in som, tusruktu nimet sifilpa oru ma koluk.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 011 029 Ke Mary el lohng, el tuyak ac sulaklak som in osun nu sel. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 011 030 Jesus el soenna tuku nu yen mwet uh walil we, a el srakna oasr yen se Martha el sonol we ah.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 012 032 Pacl se nga ac sripsripyak liki faclu, nga fah kolma mwet nukewa nu yuruk.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 012 033 Ke el fahk ma inge el akkalemye luman misa se su el ac keok kac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 013 010 Jesus el fahk, “Kutena mwet su yihla tari el nasnas, ac el tia enenu in oul kutena acn ke manol sayen nial. Kowos nukewa nasnas — sayen sie.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 013 011 Jesus el etu tari lah su ac tukakunulak uh, pa oru el fahk mu, “Kowos nukewa nasnas, sayen sie.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 018 008 Jesus el fahk, “Nga fahk tari nu suwos lah nga pa el. Fin nga pa kowos suk an, fuhlela mwet inge in som.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 018 009 El fahk ouinge tuh in akpwayeiyuk kas se el tuh fahk meet: “Papa, tia sie selos su kom ase nu sik tuhlac likiyu.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 018 031 Pilate el fahk nu selos, “Fin angan, kowos sifacna usal ac nununkal fal nu ke ma sap lowos an.” Elos topuk ac fahk, “Ma sap lowos, mwet Rome, tia lela nu sesr in wotela sie mwet in anwuki.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 018 032 Ma inge sikyak in akpwayei ma Jesus el fahk ke el fahkak luman misa ma el ac misa kac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 019 034 Ne ouinge, sie sin mwet mweun el fakisang osra natul ah nu ke la sial Jesus, ac in pacl sacna srah ac kof tukenina sororla kacl. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 019 035 Mwet se ma liye ke ma inge sikyak el orek loh kac, tuh kowos in ku pac in wi lulalfongi. Ma el fahk kac ma pwaye, ac el etu lah el kaskas pwaye.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 020 008 Na mwet lutlut se ngia ma sun kulyuk ah meet, el utyak pac nu in luf uh. El liye ac lulalfongi. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 020 009 Eltal soenna kalem ke Ma Simusla ma fahk mu el enenu na in moulyak liki misa.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Mani se ma Judas el tuh eis ke sripen ma koluk se ma el orala, el sang molela sie ipin acn. Acn sacna pa el tuh putatla ac misa we, ac sial fokelik ac koanonsial nufon raki.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Mwet nukewa su muta Jerusalem elos lohng ke ma inge, ouinge in kas lalos sifacna elos pangon ipin acn sac Akeldama, su kalmac pa “Acn Moulla ke Srah.”)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 007 024 Ke el som el liye lah sie selos tuh orek arulana koluk sin mwet Egypt se, sruk wangin mwatal. Ouinge Moses el som in kasrel, na el foloksak nu sin mwet Egypt sac ac unilya. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 007 025 El nunku mu mwet lal uh ac kalem kac lah God El orekmakunul in aksukosokyalosla, tuh elos tiana kalem kac.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 008 036 Eltal kasrusr nwe sun sie acn ma oasr kof we. Na mwet fulat sac fahk, “Liye, kof pa inge. Ya oasr ma ac ikolyuwi nga in baptaisla?” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 008 037 Philip el fahk nu sel, “Kom fin lulalfongi ke insiom kewa, kom ku in baptaisla.” Ac el topuk, “Nga lulalfongi lah Jesus Christ El Wen nutin God.”]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 015 033 Tukun eltal muta yorolos ke kutu pacl, na mwet lulalfongi elos supwalosla in misla, ac elos folokla nu yurin mwet ma supwalosme ah. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 015 034 Tusruktu Silas el sulela elan muta we.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 017 020 Kutu ma kut lohng kom fahk uh luman sakirik sesr in lohng, ac kut ke etu lah mea kalmac.” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 017 021 Mweyen mwet Athens nukewa, ac mwetsac su muta we, lungse sisla pacl lalos in sramsramkin ac lohng ke kutena pweng sasu.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 021 028 Na elos wowoyak ac fahk, “Mwet Israel, kasrekut! Pa inge mwet se forfor yen nukewa ac luti nu sin mwet nukewa in lain mwet Israel, ac lain Ma Sap lal Moses, ac lain Tempul se inge. Ac inge el use pac mwet pegan nu in Tempul uh ac akfohkfokyela acn mutal se inge!” (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 021 029 Elos fahk ma inge mweyen elos tuh liyalak Trophimus, sie mwet Ephesus ke el welul Paul in siti uh, ac elos nunku mu Paul el usalak nu in Tempul.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 023 007 Pacl se na el fahkla ma se inge ah, na mwet Pharisee ac mwet Sadducee mutawauk in akukuin, ac u sac nunak luoelik. (	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 023 008 Tuh mwet Sadducee elos fahk mu mwet misa uh ac tia sifil moulyak liki misa, ac elos fahk pac mu wangin lipufan ku ngun, a mwet Pharisee elos lulalfongi ke ma tolu inge kewa.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 028 028 Na Paul el aksafye sramsram lal uh ac fahk, “Kowos in etu lah pweng ke molela sin God me uh supweyukla tari nu sin mwet sayen mwet Jew, ac elos ac fah porongo!” [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 028 029 Tukun Paul el fahk ma inge, na mwet Jew elos fahsrelik, akukuin na upa inmasrlolos.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[1/0]	045 ROM 016 023 Gaius el paing kowos. El pa nga muta yoro, ac mwet in church yenu elos toeni in lohm sel. Erastus, mwet liyaung mani lun siti se inge, oayapa Quartus, mwet lili wiasr, eltal paing kowos. [	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	[0/1]	045 ROM 016 024 Lungkulang lun Leum lasr Jesus Christ in wi kowos nukewa. Amen.]	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 God El ikasla pwapa lukma lal nu sik tuh nga in kalem kac. (Nga sim tari ke ma inge ke kas pu,	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 ac kowos fin rit ke ma nga simusla inge, kowos ac etu ke ma nga kalem kac ke ouiyen pwapa lun God su tia eteyuk meet, a sikyak inge ke Christ.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 005 029 (Wangin mwet srunga manol sifacna, a el kitaung ac arulana karinganang, oana ke Christ el oru nu ke church.	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 005 030 Kut etu lah ouinge mweyen kut lahn manol.)	WARN
+Kosraean---Kosraean-Bible	ENCLOSURES	Summary	lines	156 / 156	NOTICE
+
+# UNEXPECTED
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Kosraean---Kosraean-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NUM 1:20 Simla inen mukul nukewa ma yac longoulyak matwa ma ku in wi mweun, fal nu ke sruf ac sou lalos, mutawauk ke sruf lal Reuben, su matu emeet sin tulik natul Israel. Pa inge takla lun sruf ac pisalos: Sruf Pisalos Reuben 46,500 Simeon 59,300 Gad 45,650 Judah 74,600 Issachar 54,400 Zebulun 57,400 Ephraim 40,500 Manasseh 32,200 Benjamin 35,400 Dan 62,700 Asher 41,500 Naphtali 53,400 Pisa lulap: mukul onfoko tolu tausin ac lumfoko lumngaul.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NUM 2:3 Elos su tulokinya nien aktuktuk selos layen kutulap, yen faht uh takak we, ac fah mwet ye flag lun u lulap lal Judah, ke kais sie u lalos. Mwet kol lun u tolu uh pa takla ten inge: Sruf Mwet Kol Pisalos Judah Nahshon wen natul Amminadab 74,600 Issachar Nethanel wen natul Zuar 54,400 Zebulun Eliab wen natul Helon 57,400 Pisa lulap: mukul siofok oalngoul onkosr tausin ac angfoko. U lulap lal Judah inge pa ac fahsr meet uh.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NUM 2:10 Nu layen nu eir, elos su wi muta ye flag lun u lulap lal Reuben fah mutangan aktuktuk in u tolu lalos, ye koko lun mwet kol lalos inge: Sruf Mwet Kol Pisalos Reuben Elizur wen natul Shedur 46,500 Simeon Shelumiel wen natul Zurishaddai 59,300 Gad Eliasaph wen natul Deuel 45,650 Pisa lulap: mukul tausin siofok lumngaul sie ac angfoko lumngaul. U lulap lal Reuben pa ac fahsr akluo uh.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NUM 2:18 Nu layen nu roto, elos su wi muta ye flag lun u lulap lal Ephraim fah mutangan aktuktuk in u tolu lalos, ye koko lun mwet kol lalos inge: Sruf Mwet Kol Pisalos Ephraim Elishama wen natul Ammihud 40,500 Manasseh Gamaliel wen natul Pedahzur 32,200 Benjamin Abidan wen natul Gideoni 35,400 Pisa lulap: mukul siofok oalkosr tausin ac siofok. U lulap lal Ephraim pa ac fahsr aktolu uh.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NUM 2:25 Nu layen nu epang, elos su wi muta ye flag lun u lulap lal Dan fah mutangan aktuktuk in u tolu lalos, ye koko lun mwet kol lalos inge: Sruf Mwet Kol Pisalos Dan Ahiezer wen natul Ammishaddai 62,700 Asher Pagiel wen natul Ochran 41,500 Naphtali Ahira wen natul Enan 53,400 Pisa lulap: mukul siofok lumngaul itkosr tausin ac onfoko. U lulap lal Dan pa ac fahsr oetok uh.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	9	EZR 1:9 Pa inge koanon oaoa sac: ahlu gold mwe neinyuk mwe sang 30 ahlu silver mwe neinyuk mwe sang 1,000 ahlu saya 29	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 1:10 ahlu gold srisrik 30 ahlu silver srisrik 410 ahlu saya 1,000	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 1:11 Ma inge nukewa toeni orala 5,400 ahlu gold ac silver ac kutu pac ma saya ma Sheshbazzar el us ke el ac mwet sruoh wial elos illa liki Babylon ac som nu Jerusalem.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:3 Sou lal Parosh — mwet 2,172	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:4 Sou lal Shephatiah — 372	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	EZR 2:5 Sou lal Arah — 775	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:6 Sou lal Pahath Moab (fwil nutin Jeshua ac Joab) — 2,812	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	4	EZR 2:7 Sou lal Elam — 1,254	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	EZR 2:8 Sou lal Zattu — 945	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 2:9 Sou lal Zaccai — 760	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:10 Sou lal Bani — 642	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	EZR 2:11 Sou lal Bebai — 623	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:12 Sou lal Azgad — 1,222	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	6	EZR 2:13 Sou lal Adonikam — 666	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	6	EZR 2:14 Sou lal Bigvai — 2,056	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	4	EZR 2:15 Sou lal Adin — 454	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	EZR 2:16 Sou lal Ater (pangpang pac Hezekiah) — 98	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	EZR 2:17 Sou lal Bezai — 323	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:18 Sou lal Jorah — 112	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	EZR 2:19 Sou lal Hashum — 223	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	EZR 2:20 Sou lal Gibbar — 95	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	EZR 2:21 Mwet su papa matu tumalos tuh muta in acn takla ten inge elos wi pac folokla: Mwet Bethlehem — 123	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	6	EZR 2:22 Mwet Netophah — 56	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	EZR 2:23 Mwet Anathoth — 128	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:24 Mwet Azmaveth — 42	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	EZR 2:25 Mwet Kiriath Jearim, Chephirah, ac Beeroth — 743	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	1	EZR 2:26 Mwet Ramah ac Geba — 621	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:27 Mwet Michmash — 122	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	EZR 2:28 Mwet Bethel ac Ai — 223	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:29 Mwet Nebo — 52	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	6	EZR 2:30 Mwet Magbish — 156	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	4	EZR 2:31 Mwet Elam se ngia — 1,254	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 2:32 Mwet Harim — 320	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	EZR 2:33 Mwet Lod, Hadid, ac Ono — 725	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	EZR 2:34 Mwet Jericho — 345	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 2:35 Mwet Senaah — 3,630	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	EZR 2:36 Pa inge inen sou in mwet tol su folokla liki sruoh: Sou lal Jedaiah (in fwil natul Jeshua) — mwet 973	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:37 Sou lal Immer — 1,052	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	7	EZR 2:38 Sou lal Pashhur — 1,247	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	7	EZR 2:39 Sou lal Harim — 1,017	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	4	EZR 2:40 Sou lun mwet Levi su folok liki sruoh: Sou lal Jeshua ac Kadmiel (in fwil natul Hodaviah) — mwet 74	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	EZR 2:41 Mwet on ke Tempul (in fwil natul Asaph) — 128	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	9	EZR 2:42 Mwet topang su forfor taran Tempul (in fwil natul Shallum, Ater, Talmon, Akkub, Hatita, ac Shobai) — 139	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:58 Pisa lulap lun mwet in fwil nutin mwet orekma ke Tempul oayapa mwet kulansap lal Solomon su folokla liki sruoh pa mwet 392.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 2:60 Sou lal Delaiah, Tobiah, ac Nekoda — elos mwet 652.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 2:64 Pisa lulap lun mwet su folokla liki sruoh — mwet 42,360	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 2:65 Mwet kulansap lalos, mukul ac mutan — mwet 7,337 Mwet on, mukul ac mutan — mwet 200	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	EZR 2:66 Horse — 736 Miul — 245	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 2:67 Camel — 435 Donkey — 6,720	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:3 Zechariah ke fwil natul Parosh wi mwet 150 ke sou lulap lal (simisyukla inen mwet in sou lalos ke sramsram matu)	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:4 Eliehoenai, wen natul Zerahiah, ke fwil natul Pahath Moab, wi mukul 200	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:5 Shecaniah, wen natul Jahaziel, ke fwil natul Zattu, wi mukul 300	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:6 Ebed, wen natul Jonathan, ke fwil natul Adin, wi mukul 50	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:7 Jeshaiah, wen natul Athaliah, ke fwil natul Elam, wi mukul 70	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:8 Zebadiah, wen natul Michael, ke fwil natul Shephatiah, wi mukul 80	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	EZR 8:9 Obadiah, wen natul Jehiel, ke fwil natul Joab, wi mukul 218	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:10 Shelomith, wen natul Josiphiah, ke fwil natul Bani, wi mukul 160	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	EZR 8:11 Zechariah, wen natul Bebai, ke fwil natul Bebai, wi mukul 28	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:12 Johanan, wen natul Hakkatan, ke fwil natul Azgad, wi mukul 110	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:13 Eliphelet, Jeuel, ac Shemaiah ke fwil natul Adonikam, wi mukul 60, (elos folokla ke sie pacl tok)	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:14 Uthai ac Zaccur ke fwil natul Bigvai, wi mukul 70	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	EZR 8:26 Pa inge ma nga sang nu selos: silver — ton 25 100 ahlu silver, kufwen mwe orekma — paun 150 gold — paun 7,500	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 8:27 20 ahlu gold — paun 16 tafu 2 ahlu bronze wowo — lupan molo uh oana molin ahlu gold.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	EZR 8:35 Na mwet nukewa su foloko liki sruoh elos use mwe sang lalos tuh in mwe kisa firir nu sin God lun Israel. Elos sang cow mukul 12 ke Israel nufon, wi sheep mukul 96, ac sheep fusr 77. Elos oayapa sang nani 12 mwe aknasnasyalos liki ma koluk. Ma inge nukewa mwe kisa firir nu sin LEUM GOD.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:8 Pa inge inen sou lulap lun Israel ac pisen mwet in kais sie sou su foloko liki sruoh: Parosh — 2,172	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:9 Shephatiah — 372	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:10 Arah — 652	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:11 Pahath Moab (in fwil natul Jeshua ac Joab) — 2,818	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	4	NEH 7:12 Elam — 1,254	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	NEH 7:13 Zattu — 845	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NEH 7:14 Zaccai — 760	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:15 Binnui — 648	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:16 Bebai — 628	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:17 Azgad — 2,322	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	7	NEH 7:18 Adonikam — 667	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	7	NEH 7:19 Bigvai — 2,067	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	NEH 7:20 Adin — 655	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:21 Ater (su pangpang pac Hezekiah) — 98	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:22 Hashum — 328	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	4	NEH 7:23 Bezai — 324	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:24 Hariph — 112	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	NEH 7:25 Gibeon — 95	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:26 Mwet su mwet matu lalos tuh muta in siti inge wi pac foloko: mwet Bethlehem ac Netophah — 188	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:27 mwet Anathoth — 128	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:28 mwet Beth Azmaveth — 42	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	NEH 7:29 mwet Kiriath Jearim, Chephirah ac Beeroth — 743	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	1	NEH 7:30 mwet Ramah ac Geba — 621	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:31 mwet Michmash — 122	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	NEH 7:32 mwet Bethel ac Ai — 123	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:33 mwet Nebo se ngia — 52	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	4	NEH 7:34 mwet Elam se ngia — 1,254	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NEH 7:35 mwet Harim — 320	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	NEH 7:36 mwet Jericho — 345	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	1	NEH 7:37 mwet Lod, Hadid, ac Ono — 721	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NEH 7:38 mwet Senaah — 3,930	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	3	NEH 7:39 Pa inge inen sou lun mwet tol su foloko liki sruoh: Jedaiah (fwil natul Jeshua) — 973	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	2	NEH 7:40 Immer — 1,052	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	7	NEH 7:41 Pashhur — 1,247	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	7	NEH 7:42 Harim — 1,017	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	4	NEH 7:43 Sou lun mwet Levi su foloko liki sruoh: Jeshua ac Kadmiel (fwil natul Hodaviah) — 74	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:44 Mwet on lun Tempul, (fwil natul Asaph) — 148	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	8	NEH 7:45 Mwet topang ke mutunpot lun Tempul (fwil natul Shallum, Ater, Talmon, Akkub, Hatita, ac Shobai) — 138	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NEH 7:66 Pisa lulap ke mwet foloko liki sruoh — 42,360.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	NEH 7:67 Mukul ac mutan kulansap lalos — 7,337 Mwet on mukul ac mutan — 245	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	NEH 7:68 Horse — 736 Miul — 245	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NEH 7:69 Camel — 435 Donkey — 6,720	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	NEH 7:70 Mwet puspis elos orani mwe kasru in sang moli orekma in sifil musaeak Tempul: Governor 270 ounce in gold 50 pol lulap in alu 530 nuknuk loeloes lun mwet tol	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	5	NEH 7:71 Sifen sou 337 paun in gold 3,215 paun in silver	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	7	NEH 7:72 Mwet lula 337 paun in gold 2,923 paun in silver 67 nuknuk loeloes lun mwet tol	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	1	EZE 45:11 “Srikasrak fal uh pa sie ephah fah oana lupan sie bath. bath 10, ku ephah, oana lufan 1 homer Pa inge oakwuk kalem ke mwe srikasrak.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	1	EZE 45:12 “Srikasrak ke mwe paun pa inge: 20 gerah orala 1 shekel 60 shekel orala 1 mina	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	1	EZE 45:14 Oil in olive: sie tafu siofok ke sak olive sunowos. (Srikeya ke bath: bath 10 orala 1 homer, su oana 1 kor.)	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	0	MAR 16:20 Na mwet tumal lutlut elos som ac luti yen nukewa. Leum Jesus el welulos ke orekma elos oru, ac el akpwayeye luti lalos ke mwe akul ma elos oru.] [[SIE PAC KAS IN AKSAFYE BUK SE INGE IN PACL EMEET [9] Mutan ah som ac fahk nu sel Peter ac elos su oelul, ma nukewa ma fwackyang nu seltal. [10] Tukun ma inge, Jesus el sifacna supwalik mwet tumal lutlut in fahkak kas mutal, kas in loango ke moul ma pahtpat nu fin faclu nufon.]]	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Source	count	118	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	46	004-NUM-001-020 Simla inen mukul nukewa ma yac longoulyak matwa ma ku in wi mweun, fal nu ke sruf ac sou lalos, mutawauk ke sruf lal Reuben, su matu emeet sin tulik natul Israel. Pa inge takla lun sruf ac pisalos: Sruf Pisalos Reuben 46,500 Simeon 59,300 Gad 45,650 Judah 74,600 Issachar 54,400 Zebulun 57,400 Ephraim 40,500 Manasseh 32,200 Benjamin 35,400 Dan 62,700 Asher 41,500 Naphtali 53,400 Pisa lulap: mukul onfoko tolu tausin ac lumfoko lumngaul.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	74	004-NUM-002-003 Elos su tulokinya nien aktuktuk selos layen kutulap, yen faht uh takak we, ac fah mwet ye flag lun u lulap lal Judah, ke kais sie u lalos. Mwet kol lun u tolu uh pa takla ten inge: Sruf Mwet Kol Pisalos Judah Nahshon wen natul Amminadab 74,600 Issachar Nethanel wen natul Zuar 54,400 Zebulun Eliab wen natul Helon 57,400 Pisa lulap: mukul siofok oalngoul onkosr tausin ac angfoko. U lulap lal Judah inge pa ac fahsr meet uh.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	46	004-NUM-002-010 Nu layen nu eir, elos su wi muta ye flag lun u lulap lal Reuben fah mutangan aktuktuk in u tolu lalos, ye koko lun mwet kol lalos inge: Sruf Mwet Kol Pisalos Reuben Elizur wen natul Shedur 46,500 Simeon Shelumiel wen natul Zurishaddai 59,300 Gad Eliasaph wen natul Deuel 45,650 Pisa lulap: mukul tausin siofok lumngaul sie ac angfoko lumngaul. U lulap lal Reuben pa ac fahsr akluo uh.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	40	004-NUM-002-018 Nu layen nu roto, elos su wi muta ye flag lun u lulap lal Ephraim fah mutangan aktuktuk in u tolu lalos, ye koko lun mwet kol lalos inge: Sruf Mwet Kol Pisalos Ephraim Elishama wen natul Ammihud 40,500 Manasseh Gamaliel wen natul Pedahzur 32,200 Benjamin Abidan wen natul Gideoni 35,400 Pisa lulap: mukul siofok oalkosr tausin ac siofok. U lulap lal Ephraim pa ac fahsr aktolu uh.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	62	004-NUM-002-025 Nu layen nu epang, elos su wi muta ye flag lun u lulap lal Dan fah mutangan aktuktuk in u tolu lalos, ye koko lun mwet kol lalos inge: Sruf Mwet Kol Pisalos Dan Ahiezer wen natul Ammishaddai 62,700 Asher Pagiel wen natul Ochran 41,500 Naphtali Ahira wen natul Enan 53,400 Pisa lulap: mukul siofok lumngaul itkosr tausin ac onfoko. U lulap lal Dan pa ac fahsr oetok uh.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	30	015-EZR-001-009 Pa inge koanon oaoa sac: ahlu gold mwe neinyuk mwe sang 30 ahlu silver mwe neinyuk mwe sang 1,000 ahlu saya 29	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	30	015-EZR-001-010 ahlu gold srisrik 30 ahlu silver srisrik 410 ahlu saya 1,000	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	5	015-EZR-001-011 Ma inge nukewa toeni orala 5,400 ahlu gold ac silver ac kutu pac ma saya ma Sheshbazzar el us ke el ac mwet sruoh wial elos illa liki Babylon ac som nu Jerusalem.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	2	015-EZR-002-003 Sou lal Parosh — mwet 2,172	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	372	015-EZR-002-004 Sou lal Shephatiah — 372	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	775	015-EZR-002-005 Sou lal Arah — 775	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	2	015-EZR-002-006 Sou lal Pahath Moab (fwil nutin Jeshua ac Joab) — 2,812	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	015-EZR-002-007 Sou lal Elam — 1,254	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	945	015-EZR-002-008 Sou lal Zattu — 945	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	760	015-EZR-002-009 Sou lal Zaccai — 760	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	642	015-EZR-002-010 Sou lal Bani — 642	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	623	015-EZR-002-011 Sou lal Bebai — 623	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	015-EZR-002-012 Sou lal Azgad — 1,222	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	666	015-EZR-002-013 Sou lal Adonikam — 666	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	2	015-EZR-002-014 Sou lal Bigvai — 2,056	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	454	015-EZR-002-015 Sou lal Adin — 454	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	98	015-EZR-002-016 Sou lal Ater (pangpang pac Hezekiah) — 98	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	323	015-EZR-002-017 Sou lal Bezai — 323	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	112	015-EZR-002-018 Sou lal Jorah — 112	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	223	015-EZR-002-019 Sou lal Hashum — 223	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	95	015-EZR-002-020 Sou lal Gibbar — 95	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	123	015-EZR-002-021 Mwet su papa matu tumalos tuh muta in acn takla ten inge elos wi pac folokla: Mwet Bethlehem — 123	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	56	015-EZR-002-022 Mwet Netophah — 56	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	128	015-EZR-002-023 Mwet Anathoth — 128	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	42	015-EZR-002-024 Mwet Azmaveth — 42	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	743	015-EZR-002-025 Mwet Kiriath Jearim, Chephirah, ac Beeroth — 743	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	621	015-EZR-002-026 Mwet Ramah ac Geba — 621	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	122	015-EZR-002-027 Mwet Michmash — 122	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	223	015-EZR-002-028 Mwet Bethel ac Ai — 223	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	52	015-EZR-002-029 Mwet Nebo — 52	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	156	015-EZR-002-030 Mwet Magbish — 156	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	015-EZR-002-031 Mwet Elam se ngia — 1,254	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	320	015-EZR-002-032 Mwet Harim — 320	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	725	015-EZR-002-033 Mwet Lod, Hadid, ac Ono — 725	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	345	015-EZR-002-034 Mwet Jericho — 345	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	3	015-EZR-002-035 Mwet Senaah — 3,630	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	973	015-EZR-002-036 Pa inge inen sou in mwet tol su folokla liki sruoh: Sou lal Jedaiah (in fwil natul Jeshua) — mwet 973	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	015-EZR-002-037 Sou lal Immer — 1,052	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	015-EZR-002-038 Sou lal Pashhur — 1,247	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	015-EZR-002-039 Sou lal Harim — 1,017	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	74	015-EZR-002-040 Sou lun mwet Levi su folok liki sruoh: Sou lal Jeshua ac Kadmiel (in fwil natul Hodaviah) — mwet 74	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	128	015-EZR-002-041 Mwet on ke Tempul (in fwil natul Asaph) — 128	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	139	015-EZR-002-042 Mwet topang su forfor taran Tempul (in fwil natul Shallum, Ater, Talmon, Akkub, Hatita, ac Shobai) — 139	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	392	015-EZR-002-058 Pisa lulap lun mwet in fwil nutin mwet orekma ke Tempul oayapa mwet kulansap lal Solomon su folokla liki sruoh pa mwet 392.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	652	015-EZR-002-060 Sou lal Delaiah, Tobiah, ac Nekoda — elos mwet 652.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	42	015-EZR-002-064 Pisa lulap lun mwet su folokla liki sruoh — mwet 42,360	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	7	015-EZR-002-065 Mwet kulansap lalos, mukul ac mutan — mwet 7,337 Mwet on, mukul ac mutan — mwet 200	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	736	015-EZR-002-066 Horse — 736 Miul — 245	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	435	015-EZR-002-067 Camel — 435 Donkey — 6,720	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	150	015-EZR-008-003 Zechariah ke fwil natul Parosh wi mwet 150 ke sou lulap lal (simisyukla inen mwet in sou lalos ke sramsram matu)	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	200	015-EZR-008-004 Eliehoenai, wen natul Zerahiah, ke fwil natul Pahath Moab, wi mukul 200	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	300	015-EZR-008-005 Shecaniah, wen natul Jahaziel, ke fwil natul Zattu, wi mukul 300	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	50	015-EZR-008-006 Ebed, wen natul Jonathan, ke fwil natul Adin, wi mukul 50	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	70	015-EZR-008-007 Jeshaiah, wen natul Athaliah, ke fwil natul Elam, wi mukul 70	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	80	015-EZR-008-008 Zebadiah, wen natul Michael, ke fwil natul Shephatiah, wi mukul 80	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	218	015-EZR-008-009 Obadiah, wen natul Jehiel, ke fwil natul Joab, wi mukul 218	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	160	015-EZR-008-010 Shelomith, wen natul Josiphiah, ke fwil natul Bani, wi mukul 160	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	28	015-EZR-008-011 Zechariah, wen natul Bebai, ke fwil natul Bebai, wi mukul 28	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	110	015-EZR-008-012 Johanan, wen natul Hakkatan, ke fwil natul Azgad, wi mukul 110	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	60	015-EZR-008-013 Eliphelet, Jeuel, ac Shemaiah ke fwil natul Adonikam, wi mukul 60, (elos folokla ke sie pacl tok)	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	70	015-EZR-008-014 Uthai ac Zaccur ke fwil natul Bigvai, wi mukul 70	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	25	015-EZR-008-026 Pa inge ma nga sang nu selos: silver — ton 25 100 ahlu silver, kufwen mwe orekma — paun 150 gold — paun 7,500	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	20	015-EZR-008-027 20 ahlu gold — paun 16 tafu 2 ahlu bronze wowo — lupan molo uh oana molin ahlu gold.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	12	015-EZR-008-035 Na mwet nukewa su foloko liki sruoh elos use mwe sang lalos tuh in mwe kisa firir nu sin God lun Israel. Elos sang cow mukul 12 ke Israel nufon, wi sheep mukul 96, ac sheep fusr 77. Elos oayapa sang nani 12 mwe aknasnasyalos liki ma koluk. Ma inge nukewa mwe kisa firir nu sin LEUM GOD.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	2	016-NEH-007-008 Pa inge inen sou lulap lun Israel ac pisen mwet in kais sie sou su foloko liki sruoh: Parosh — 2,172	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	372	016-NEH-007-009 Shephatiah — 372	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	652	016-NEH-007-010 Arah — 652	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	2	016-NEH-007-011 Pahath Moab (in fwil natul Jeshua ac Joab) — 2,818	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	016-NEH-007-012 Elam — 1,254	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	845	016-NEH-007-013 Zattu — 845	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	760	016-NEH-007-014 Zaccai — 760	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	648	016-NEH-007-015 Binnui — 648	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	628	016-NEH-007-016 Bebai — 628	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	2	016-NEH-007-017 Azgad — 2,322	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	667	016-NEH-007-018 Adonikam — 667	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	2	016-NEH-007-019 Bigvai — 2,067	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	655	016-NEH-007-020 Adin — 655	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	98	016-NEH-007-021 Ater (su pangpang pac Hezekiah) — 98	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	328	016-NEH-007-022 Hashum — 328	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	324	016-NEH-007-023 Bezai — 324	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	112	016-NEH-007-024 Hariph — 112	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	95	016-NEH-007-025 Gibeon — 95	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	188	016-NEH-007-026 Mwet su mwet matu lalos tuh muta in siti inge wi pac foloko: mwet Bethlehem ac Netophah — 188	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	128	016-NEH-007-027 mwet Anathoth — 128	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	42	016-NEH-007-028 mwet Beth Azmaveth — 42	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	743	016-NEH-007-029 mwet Kiriath Jearim, Chephirah ac Beeroth — 743	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	621	016-NEH-007-030 mwet Ramah ac Geba — 621	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	122	016-NEH-007-031 mwet Michmash — 122	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	123	016-NEH-007-032 mwet Bethel ac Ai — 123	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	52	016-NEH-007-033 mwet Nebo se ngia — 52	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	016-NEH-007-034 mwet Elam se ngia — 1,254	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	320	016-NEH-007-035 mwet Harim — 320	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	345	016-NEH-007-036 mwet Jericho — 345	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	721	016-NEH-007-037 mwet Lod, Hadid, ac Ono — 721	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	3	016-NEH-007-038 mwet Senaah — 3,930	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	973	016-NEH-007-039 Pa inge inen sou lun mwet tol su foloko liki sruoh: Jedaiah (fwil natul Jeshua) — 973	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	016-NEH-007-040 Immer — 1,052	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	016-NEH-007-041 Pashhur — 1,247	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	1	016-NEH-007-042 Harim — 1,017	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	74	016-NEH-007-043 Sou lun mwet Levi su foloko liki sruoh: Jeshua ac Kadmiel (fwil natul Hodaviah) — 74	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	148	016-NEH-007-044 Mwet on lun Tempul, (fwil natul Asaph) — 148	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	138	016-NEH-007-045 Mwet topang ke mutunpot lun Tempul (fwil natul Shallum, Ater, Talmon, Akkub, Hatita, ac Shobai) — 138	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	42	016-NEH-007-066 Pisa lulap ke mwet foloko liki sruoh — 42,360.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	7	016-NEH-007-067 Mukul ac mutan kulansap lalos — 7,337 Mwet on mukul ac mutan — 245	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	736	016-NEH-007-068 Horse — 736 Miul — 245	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	435	016-NEH-007-069 Camel — 435 Donkey — 6,720	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	270	016-NEH-007-070 Mwet puspis elos orani mwe kasru in sang moli orekma in sifil musaeak Tempul: Governor 270 ounce in gold 50 pol lulap in alu 530 nuknuk loeloes lun mwet tol	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	337	016-NEH-007-071 Sifen sou 337 paun in gold 3,215 paun in silver	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	337	016-NEH-007-072 Mwet lula 337 paun in gold 2,923 paun in silver 67 nuknuk loeloes lun mwet tol	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	10	026-EZE-045-011 “Srikasrak fal uh pa sie ephah fah oana lupan sie bath. bath 10, ku ephah, oana lufan 1 homer Pa inge oakwuk kalem ke mwe srikasrak.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	20	026-EZE-045-012 “Srikasrak ke mwe paun pa inge: 20 gerah orala 1 shekel 60 shekel orala 1 mina	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	10	026-EZE-045-014 Oil in olive: sie tafu siofok ke sak olive sunowos. (Srikeya ke bath: bath 10 orala 1 homer, su oana 1 kor.)	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Tukun Jesus el sifil moulyak liki misa, ke toang na ke len se meet in wik, el sikyang nu sel Mary Magdalene, su Jesus el tuh sisla demon itkosr lukel.	WARN
+Kosraean---Kosraean-Bible	NUMERALS	Aionian	count	118	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

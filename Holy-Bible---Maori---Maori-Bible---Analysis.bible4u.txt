@@ -1,0 +1,397 @@
+# File Name: Holy-Bible---Holy-Bible---Maori---Maori-Bible---Analysis.txt
+# File Size: 31628       
+# File Date: 12/13/2025 05:47:34
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Te Paipera Tapu
+# Bible Name English: Maori Bible
+# Bible Language: Māori
+# Bible Language English: Māori
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: William Colenso
+# Bible Source Version: 10/23/2025
+# Bible Source Link: https://bible4u.net/en/download#MAORI
+# Bible Source Year: 1837
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Maori---Maori-Bible	ENCODING	Source	Holy-Bible---Maori---Maori-Bible---Source-Edition.B4U.txt	ASCII	WARNING
+Maori---Maori-Bible	ENCODING	Aionian	Holy-Bible---Maori---Maori-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Maori---Maori-Bible	BYTES	Source	bytes / chars	4757382 / 4757382 (single-byte)	NOTICE
+Maori---Maori-Bible	BYTES	Aionian	bytes / chars	4952987 / 4952797 (multi-byte)	NOTICE
+Maori---Maori-Bible	BYTES	SourceClean	bytes / chars	4755327 / 4755327 (single-byte)	NOTICE
+Maori---Maori-Bible	BYTES	AionianClean	bytes / chars	4949581 / 4949393 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Maori---Maori-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Maori---Maori-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Maori---Maori-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Maori---Maori-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Maori---Maori-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Maori---Maori-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Maori---Maori-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Maori---Maori-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Maori---Maori-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Maori---Maori-Bible	UNICODE	Summary	(-)Orginal	68	NOTICE
+Maori---Maori-Bible	UNICODE	Summary	(+)Aionian	65	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (T)	3318	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (e)	307360	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : ( )	976400	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (P)	7172	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (a)	770787	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (i)	359097	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (p)	47983	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (r)	172218	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (u)	183654	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (|)	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (M)	6592	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (o)	288127	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (B)	2	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (b)	1469	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (l)	752	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31178	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (-)	160	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (c)	1789	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (D)	1319	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (m)	94352	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (n)	194031	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (E)	7767	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (v)	2186	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (y)	7	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (s)	7939	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (t)	285926	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (d)	1890	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (,)	85316	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (f)	6	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (h)	192111	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (g)	81977	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (')	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (.)	58204	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (:)	40965	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (/)	7	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (4)	9146	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (2)	21679	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (3)	12266	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (q)	2	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (w)	70190	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (j)	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (z)	1556	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (x)	1215	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (C)	2559	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (@)	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (G)	1699	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (1)	30451	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (H)	12835	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (A)	15304	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (k)	248734	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (N)	11913	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (K)	17285	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (5)	7041	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (6)	6465	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (7)	5911	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (8)	5769	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (R)	4159	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (9)	5632	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (0)	5298	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (I)	17221	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (U)	240	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (O)	1035	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (L)	2167	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (J)	4987	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (S)	1626	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (()	73	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : ())	2	NOTICE
+Maori---Maori-Bible	UNICODE	Source(-)	Basic Latin : (Z)	266	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	2365	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	15364	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	13848	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	16358	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	298477	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	945812	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	90589	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	765066	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	187333	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	191119	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	79873	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	281320	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	179461	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	358834	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	166507	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	70185	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	27023	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	23303	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	245627	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	281555	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	85321	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	47764	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	18434	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	9861	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	7376	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	7393	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	8742	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	19206	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3748	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	5689	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	7704	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (()	341	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	6461	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	70	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : ())	340	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2585	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1263	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	1959	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4975	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4320	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	1450	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	17	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	114	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Maori---Maori-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (T)	3318	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (e)	307360	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : ( )	976400	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (P)	7172	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (a)	770787	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (i)	359097	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (p)	47983	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (r)	172218	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (u)	183654	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (|)	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (M)	6592	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (o)	288127	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (B)	2	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (b)	1469	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (l)	752	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (\n)	31178	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (-)	160	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (c)	1789	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (D)	1319	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (m)	94352	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (n)	194031	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (E)	7767	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (v)	2186	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (y)	7	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (s)	7939	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (t)	285926	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (d)	1890	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (,)	85316	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (f)	6	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (h)	192111	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (g)	81977	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (')	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (.)	58204	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (:)	40965	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (/)	7	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (4)	9146	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (2)	21679	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (3)	12266	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (q)	2	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (w)	70190	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (j)	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (z)	1556	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (x)	1215	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (C)	2559	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (@)	1	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (G)	1699	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (1)	30451	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (H)	12835	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (A)	15304	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (k)	248734	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (;)	13709	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (N)	11913	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (W)	1089	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (K)	17285	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (5)	7041	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (6)	6465	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (7)	5911	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (8)	5769	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (R)	4159	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (9)	5632	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (0)	5298	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (I)	17221	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (U)	240	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (?)	3299	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (O)	1035	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (!)	438	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (L)	2167	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (J)	4987	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (S)	1626	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (()	73	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : ())	2	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (Z)	266	NOTICE
+Maori---Maori-Bible	UNICODE	Source	Basic Latin : (`)	1	NOTICE
+
+# VERSIFICATION
+Maori---Maori-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Maori---Maori-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Maori---Maori-Bible	ENCLOSURES	Source	()	73 / 2	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Maori---Maori-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Maori---Maori-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Maori---Maori-Bible	ENCLOSURES	Aionian	()	341 / 340	WARN
+Maori---Maori-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Maori---Maori-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Maori---Maori-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.3:2 He tokomaha te mea ana ki toku wairua, hore rawa he whakaoranga mona i te Atua. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.3:4 I karanga toku reo ki a Ihowa: a whakahoki kupu mai ana ia ki ahau i tona maunga tapu. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.3:8 Na Ihowa te whakaoranga: kei runga i tau iwi tau manaaki. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.4:2 E nga tama a te tangata, kia pehea te roa o ta koutou mea i toku kororia hei whakama, o ta koutou aroha ki te horihori, o ta koutou whai i te teka? (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.4:4 Kia oho koutou, a kaua e hara: korerorero ki o koutou ngakau i runga i o koutou moenga, me te ata takoto ano. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.7:5 Kia arumia toku wairua e te hoariri, a kia mau; kia takahia hoki toku ora e ia ki te whenua, kia whakatokotoria ano toku kororia ki te puehu. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.9:16 Kua matauria a Ihowa ki te whakawa e whakaritea ana e ia: he mahanga mo te tangata kino te mahi a ona ringa. (Hikaiono. Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.9:20 E Ihowa, meinga ratou kia wehi: kia matau nga tauiwi he tangata nei ano ratou. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.20:3 Mana e mahara ki au whakahere katoa, e manako ki au tahunga tinana. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.21:2 Kua homai e koe ki a ia ta tona ngakau i hiahia ai; kihai ano i kaiponuhia e koe ta ona ngutu i inoi ai. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.24:6 Ko te whakatupuranga tenei o te hunga e rapu ana ki a ia, e rapu nei i tou mate, e Hakopa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.24:10 Ko wai tenei Kingi kororia? Ko Ihowa o nga mano, ko ia te Kingi kororia. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.32:4 No tou ringa i taimaha ki ahau i te ao, i te po; kua whakaputaina ketia toku makukuranga, ano na te maroketanga o te raumati. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.32:5 I whakina e ahau toku hara ki a koe, kihai hoki i huna i toku kino: i mea ahau, Ka whakina aku mahi tutu ki a Ihowa; a murua ana e koe te kino o toku hara. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.32:7 Ko koe toku piringa; mau ahau e whakaora i te pouri, mau ahau e karapoti ki nga waiata whakaora. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.39:5 Nana, he whanuitanga ringa oku ra kua homai nei e koe; he kahore noa iho ano oku tau i tou aroaro: ahakoa u noa te tu o nga tangata katoa, he mea memeha kau. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.39:11 Ka pakia e koe te tangata, ka whakatupehupehutia mo te hara, ka meinga e koe tona ataahua kia memeha, kia pera me te purehurehu: he pono he mea teka noa nga tangata katoa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.44:8 Ko te Atua ta matou e whakamanamana ai i te roa o te ra: ka whakamoemiti ano matou ki tou ingoa ake ake. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.46:3 Ahakoa rara, taupatupatu noa ona wai, ahakoa wiri nga maunga i tona huamo. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.46:7 Kei a tatou a Ihowa o nga mano, ko te Atua o Hakopa to tatou piringa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.46:11 Kei a tatou a Ihowa o nga mano: ko te Atua o Hakopa to tatou piringa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.47:4 Mana e whiriwhiri to tatou nohoanga mo tatou, te mea pai rawa o Hakopa, o tana i aroha ai. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.48:8 Rite tonu ki ta matou i rongo ai, ta matou i kite ai i roto i te pa o Ihowa o nga mano, i te pa o to tatou Atua: ma te Atua e whakapumau ake ake. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.49:13 Ko to ratou ara tenei, ara ko to ratou poauau: heoi e whakapai ana to ratou uri ki a ratou korero. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.49:15 Ma te Atua ia toku wairua e hoko mai i te reinga: ko ia hoki hei tukunga atu moku. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.50:6 A ma nga rangi e whakakite tona tika: ko te Atua ake nei hoki te kaiwhakawa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.52:3 E arohaina rawatia ana e koe te kino i te pai, te teka i te korero tika. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.52:5 Ka whakangaro hoki te Atua i a koe ake tonu atu; ka tangohia atu koe e ia, ka takiritia atu i tou nohoanga, ka hutia atu hoki koe i te whenua o te ora. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.54:3 No te mea kua whakatika mai nga tangata iwi ki ki ahau, a e whaia ana toku wairua e te hunga tukino: kahore i waiho e ratou te Atua ki to ratou aroaro. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.55:7 Katahi ahau ka rere ki tawhiti; a noho rawa atu i te koraha. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.57:6 Kua whakatakotoria e ratou he kupenga mo oku takahanga, kua piko toku wairua: kua keria e ratou he poka ki toku aroaro, a taka iho ko ratou ano ki roto. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.59:5 Ae ra, maranga, e Ihowa, e te Atua o nga mano, e te Atua o Iharaira, tirohia iho nga tauiwi katoa: kaua e tohungia tetahi o te hunga kino, e poka ke nei. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.59:13 Whakamotitia i runga i te riri, kia kahore ai ratou: a kia matau ratou ko te Atua te Kawana o Hakopa puta noa ki nga pito o te whenua. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.60:4 Kua homai e koe he kara ki te hunga e wehi ana i a koe: kia whakakitea hei mea mo te pono. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.61:4 Ka noho ahau ki tou tapenakara ake ake, ka okioki ki ou pakau hei piringa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.62:4 Heoi ano ta ratou e runanga ai ko te turaki i a ia i tona wahi teitei: e ahuareka ana ki te teka; e manaaki ana o ratou mangai, a e kanga ana a roto i a ratou. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.62:8 Whakawhirinaki ki a ia i nga wa katoa, e te iwi, ringihia to koutou ngakau ki tona aroaro: hei piringa mo tatou te Atua (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.66:4 E koropiko katoa te whenua ki a koe; ka himene ki a koe; ka himene ratou ki tou ingoa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.66:7 Ko tona kawanatanga tuturu tonu i runga i tona kaha; e titiro ana ona kanohi ki nga tauiwi; kei whakakake te hunga tutu. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.66:15 Ka whakaekea e ahau mau nga mea momona hei tahunga tinana, ngatahi ano me te mea kakara o nga hipi toa; ka tukua e ahau he puru, he koati. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.67:1 Ki te tino kaiwhakatangi. Nekinoto. He himene, he waiata. Ma te Atua tatou e atawhai, mana tatou e manaaki; mana e mea kia tiaho tona mata ki a tatou; (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.67:4 Kia koa nga tauiwi, kia waiata i te hari: no te mea ka tika tau whakawa mo nga iwi, a ka kawana koe i nga tauiwi o te whenua. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.68:7 E te Atua, i tou haerenga atu i mua i tau iwi: i tou haerenga i te koraha; (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.68:19 Kia whakapaingia te Ariki, e whakawaha nei i ta tatou pikaunga i tenei ra, i tenei ra, te Atua o to tatou whakaoranga. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.68:32 Waiata ki te Atua, e nga rangatiratanga o te whenua: himene ki te Ariki: (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.75:3 Kuteretere noa iho te whenua me ona tangata katoa; naku i whakatu ona pou. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.76:3 I whati i a ia i reira nga pere o te kopere, te whakangungu rakau, te hoari, me nga mea mo te whawhai. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.76:9 I te aranga ake o te Atua ki te whakawa, ki te whakaora i te hunga mahaki katoa o te whenua. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.77:3 E mahara ana ahau ki te Atua, a e pouri ana: kei te whakaaroaro, a ngaro iho toku wairua. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.77:9 Kua wareware ranei te Atua ki te atawhai? Kua riri ranei ia, a tutakina atu ana e ia tona aroha? (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.77:15 Hokona ana e tou ringa tau iwi, nga tama a Hakopa raua ko Hohepa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.81:7 I karanga koe ki ahau i te pouritanga, a kua ora koe i ahau; i whakahoki kupu ahau ki a koe i te wahi ngaro o te whatitiri; i whakamatau i a koe ki nga wai o Meripa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.82:2 Kia pehea ake te roa o ta koutou whakawa he, o ta koutou whakapai ki nga kanohi o te hunga kino. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.83:8 Kua uru hoki a Ahiria ki roto ki a ratou; kua awhinatia e ratou nga tamariki a Rota. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.84:4 Ka hari te hunga e noho ana i tou whare: he whakamoemiti tonu ta ratou ki a koe. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.84:8 E Ihowa, e te Atua o nga mano, whakarongo ki taku inoi: tahuri mai tou taringa, e te Atua o Hakopa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.85:2 Kua murua e koe te kino o tau iwi, kua hipokina e koe o ratou hara katoa (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.87:3 He mea kororia nga mea e korerotia ana mou, e te pa o te Atua. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.87:6 Ka korerotia e Ihowa, ina tuhituhia nga iwi, I whanau tenei ki reira. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.88:7 E pehia ana ahau e tou riri, e pakia ana hoki e koe ki au ngaru katoa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.88:10 Tera ranei koe e mahi merekara ki nga tupapaku? E ara koia te hunga kua mate ki te whakamoemiti ki a koe? (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.89:4 Ka pumau i ahau ou uri ake ake: ka hanga tou torona ki nga whakatupuranga katoa. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.89:37 Ka rite tona pumau ki to te marama ake ake: hei kaiwhakaatu pono ano i runga i te rangi. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.89:45 Kua poroa e koe nga ra o tona taitamarikitanga: kua hipokina ia e koe ki te whakama. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.89:48 Ko wai tena tangata e ora nei, a e kore e kite i te mate? E mawhiti koia i a ia tona wairua i te kaha o te reinga? (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.140:3 Kua whakakoia to ratou arero, ano he nakahi: kei raro i o ratou ngutu te wai whakamate o te neke. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.140:5 Kua huna e te hunga whakakake te mahanga moku, me nga aho; kua horahia e ratou he kupenga ki te taha o te ara: kua whakapikoa e ratou he rore moku. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.140:8 Aua e whakaaetia, e Ihowa, nga hiahia o te tangata kino: kei taea tona whakaaro koroke; kei whakakake ratou. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Ps.143:6 Totoro tonu atu oku ringa ki a koe: e hiainu ana toku wairua ki a koe, ano he whenua mauiui. (Hera.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Hab.3:3 I haere mai te Atua i Temana, te Mea Tapu i Maunga Parana. (Hera. Hei hipoki tona kororia mo nga rangi; ki tonu te whenua i te whakamoemiti ki a ia.	WARN
+Maori---Maori-Bible	ENCLOSURES	Source	(1/0)	Hab.3:9 I meinga tau kopere kia noho tahanga: ko nga oati ki nga hapu he kupu pono. (Hera. Wahia ana e koe te whenua ki nga awa.	WARN
+Maori---Maori-Bible	ENCLOSURES	Aionian	(2/1)	019 PSA 009 016 Kua matauria a Ihowa ki te whakawa e whakaritea ana e ia: he mahanga mo te tangata kino te mahi a ona ringa. (Hikaiono. (Hera)	WARN
+Maori---Maori-Bible	ENCLOSURES	Summary	lines	71 / 1	WARN
+
+# UNEXPECTED
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(`)	1/1	WARN
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(@)	1/0	WARN
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(|)	1/0	WARN
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	(/)	7/0	WARN
+Maori---Maori-Bible	UNEXPECTED	Source/Aionian	Summary	10/1	WARN
+
+# NUMERALS
+Maori---Maori-Bible	NUMERALS	Source	count	0	NOTICE
+Maori---Maori-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Na, i tona aranga ake i te atatu o te ra tuatahi o te wiki, ka whakakite tuatahi ia ki a Meri Makarini, i peia nei e ia e whitu nga rewera i roto i a ia.	WARN
+Maori---Maori-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,1434 @@
+# File Name: Holy-Bible---Holy-Bible---Spanish---Free-Bible---Analysis.txt
+# File Size: 195209      
+# File Date: 12/13/2025 05:59:47
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Biblia Libre
+# Bible Name English: Spanish Free Bible Version
+# Bible Language: Español
+# Bible Language English: Spanish
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Jonathan Gallagher and Shelly Barrios de Avila
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=spavbl
+# Bible Source Year: 2018
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Spanish---Free-Bible	ENCODING	Source	Holy-Bible---Spanish---Free-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Spanish---Free-Bible	ENCODING	Aionian	Holy-Bible---Spanish---Free-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Spanish---Free-Bible	BYTES	Source	bytes / chars	4486685 / 4350911 (multi-byte)	NOTICE
+Spanish---Free-Bible	BYTES	Aionian	bytes / chars	4700607 / 4564625 (multi-byte)	NOTICE
+Spanish---Free-Bible	BYTES	SourceClean	bytes / chars	4485868 / 4350094 (multi-byte)	NOTICE
+Spanish---Free-Bible	BYTES	AionianClean	bytes / chars	4697055 / 4561093 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Spanish---Free-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Spanish---Free-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Spanish---Free-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Spanish---Free-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Spanish---Free-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Spanish---Free-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Spanish---Free-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Spanish---Free-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Spanish---Free-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Spanish---Free-Bible	UNICODE	Summary	(-)Orginal	53	NOTICE
+Spanish---Free-Bible	UNICODE	Summary	(+)Aionian	57	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (G)	3509	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : ( )	759347	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (1)	30656	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (:)	37442	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (n)	201953	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (e)	418821	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (l)	171652	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (p)	68235	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (r)	212411	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (i)	157591	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (c)	104161	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (o)	298882	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (,)	46539	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (s)	259645	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (y)	37281	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (a)	350885	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (t)	127642	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (.)	40282	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31102	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (2)	21939	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (L)	7886	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (d)	157090	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (m)	78643	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (b)	44725	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (u)	135544	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (g)	31537	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (3)	12412	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (h)	36313	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (4)	9279	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (q)	37141	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (5)	7203	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (A)	16727	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (6)	6576	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (7)	6023	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (8)	5838	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (9)	5671	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (0)	6279	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (H)	6888	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (T)	7575	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (R)	5456	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (M)	8500	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (C)	8558	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (S)	21367	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (P)	10291	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (()	489	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : ())	489	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (J)	11965	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (?)	3293	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (U)	4614	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (-)	591	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (O)	7280	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (k)	31	NOTICE
+Spanish---Free-Bible	UNICODE	Source(-)	Basic Latin : (K)	2730	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	131516	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42638	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124344	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3521	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	202155	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	697587	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	418920	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	171721	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	68236	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	212422	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	157838	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	104163	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	299031	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	46547	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	259759	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	37295	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	351084	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	127649	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	40206	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31085	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31352	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	7889	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	157107	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	78650	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	44735	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	135547	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	31750	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17329	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	6342	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	36442	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20143	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	37142	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10431	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	16724	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10837	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7555	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7924	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9331	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	6898	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	7570	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	5450	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	8492	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	8554	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	21431	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	10296	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (()	827	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : ())	827	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	11964	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	3292	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	4612	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	592	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	7278	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	32	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2728	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Spanish---Free-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (G)	3509	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (E)	23001	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (N)	7333	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : ( )	759347	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (1)	30656	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (:)	37442	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (n)	201953	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (e)	418821	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (l)	171652	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (p)	68235	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (r)	212411	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (i)	157591	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (c)	104161	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (o)	298882	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (,)	46539	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (D)	10711	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (s)	259645	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	19631	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (y)	37281	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (a)	350885	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (t)	127642	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (.)	40282	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (\n)	31102	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (2)	21939	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (L)	7886	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (í)	22841	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (d)	157090	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (f)	17084	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (m)	78643	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (b)	44725	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (v)	31386	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (;)	2522	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (u)	135544	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (g)	31537	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (3)	12412	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (Y)	2034	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (j)	18951	NOTICE
+Spanish---Free-Bible	UNICODE	Source	General Punctuation : (“)	7889	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (¡)	3218	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (Q)	1500	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (h)	36313	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (z)	10176	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (!)	3331	NOTICE
+Spanish---Free-Bible	UNICODE	Source	General Punctuation : (”)	6541	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (4)	9279	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (q)	37141	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (5)	7203	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (A)	16727	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (ñ)	11644	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (6)	6576	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (x)	2372	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (7)	6023	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (8)	5838	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (9)	5671	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (á)	19705	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (0)	6279	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (H)	6888	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (T)	7575	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (é)	15885	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	5131	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (R)	5456	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (M)	8500	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (C)	8558	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (S)	21367	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (P)	10291	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (()	489	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : ())	489	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (É)	749	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (J)	11965	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (ü)	119	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (¿)	3295	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (?)	3293	NOTICE
+Spanish---Free-Bible	UNICODE	Source	General Punctuation : (‘)	1019	NOTICE
+Spanish---Free-Bible	UNICODE	Source	General Punctuation : (’)	1019	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (F)	666	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (U)	4614	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (V)	2339	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (I)	5781	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (-)	591	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (B)	3375	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (ò)	2	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (Z)	2319	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (O)	7280	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (W)	10	NOTICE
+Spanish---Free-Bible	UNICODE	Source	General Punctuation : (—)	172	NOTICE
+Spanish---Free-Bible	UNICODE	Source	General Punctuation : (–)	108	NOTICE
+Spanish---Free-Bible	UNICODE	Source	General Punctuation : (…)	16	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (Á)	14	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (Ú)	9	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (k)	31	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin-1 Supplement: (º)	1	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (K)	2730	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Basic Latin : (w)	1	NOTICE
+Spanish---Free-Bible	UNICODE	Source	Latin Extended-A : (ī)	2	NOTICE
+
+# VERSIFICATION
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Spanish---Free-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Spanish---Free-Bible	VERSIFICATION	Summary	missing	16	WARN
+Spanish---Free-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Spanish---Free-Bible	ENCLOSURES	Source	()	489 / 489	NOTICE
+Spanish---Free-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Spanish---Free-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Spanish---Free-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Spanish---Free-Bible	ENCLOSURES	Aionian	()	827 / 827	NOTICE
+Spanish---Free-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Spanish---Free-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Spanish---Free-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	EXO 9:31 (El lino y la cebada fueron destruidos, porque la cebada estaba madura y el lino estaba floreciendo.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	EXO 9:32 Sin embargo, el trigo y la escanda no fueron destruidos porque crecen más tarde).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	NUM 26:9 y los hijos de Eliab eran Nemuel, Datán y Abiram. (Fueron Datán y Abiram, líderes escogidos por los israelitas, los que se unieron a la rebelión contra Moisés y Aarón con los seguidores de Coré cuando se rebelaron contra el Señor.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	NUM 26:11 Pero los hijos de Coré no murieron).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (Un pueblo fuerte y numeroso llamado los Emim vivió una vez allí. Ellos eran tan altos como los anaceos,	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 Anteriormente los horeos vivían en Seir, pero los descendientes de Esaú se apoderaron de sus tierras. Mataron a los horeos y se establecieron allí, como hizo Israel cuando ocuparon la tierra que el Señor les había dado).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Esta tierra era considerada anteriormente como el país de los Refaim que solían vivir allí. Sin embargo, los amonitas los llamaban Zamzumitas.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 Los Avvim, que vivían en aldeas tan lejanas como Gaza, fueron destruidos por los filisteos, quienes vinieron desde Creta, y se establecieron en el lugar donde solían vivir).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	1KI 10:11 (La flota de barcos de Hiram trajo oro de Ofir, y también llevó madera de sándalo y piedras preciosas.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	1KI 10:12 El rey utilizó la madera de sándalo para hacer escalones para el Templo y para el palacio real, y en liras y arpas para los músicos. Nunca se había visto nada igual en la tierra de Judá).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 Acab convocó a Abdías, el administrador de su palacio (Abdías era un creyente muy sincero en el Señor.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 Mientras Jezabel estaba ocupada matando a los profetas del Señor, Abdías había tomado a cien profetas y los había escondido, cincuenta en cada una de dos cuevas, y les había proporcionado comida y agua).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	1KI 21:25 (Nadie fue tan malo como Acab, que se vendió para hacer lo que es malo a los ojos del Señor, porque su esposa Jezabel lo animó.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	1KI 21:26 Hizo las cosas más despreciables, adorando a los ídolos como los amorreos que el Señor había expulsado delante de Israel).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	1CH 5:1 Los hijos de Rubén, el primogénito de Israel. (Aunque era el primogénito, su primogenitura fue entregada a los hijos de José hijo de Israel porque había profanado el lecho de su padre. Por eso Rubén no figura en la genealogía según la primogenitura,	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	1CH 5:2 y aunque Judá llegó a ser el más fuerte de sus hermanos y de él salió un gobernante, la primogenitura le pertenecía a José).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	2CH 9:10 (Hiram y los hombres de Salomón, que trajeron oro de Ofir, también trajeron madera de algum y piedras preciosas.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	2CH 9:11 El rey utilizó la madera de algum para hacer escalones para el Templo y para el palacio real, y en liras y arpas para los músicos. Nunca se había visto nada igual en el país de Judá).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	NEH 11:3 Esta es una lista de los líderes de la provincia que vinieron a vivir a Jerusalén. (La mayoría de los israelitas vivían en su propia propiedad en las ciudades de Judá. Esto incluía a los sacerdotes, los levitas, los servidores del Templo y los descendientes de los servidores de Salomón que vivían en sus ciudades de origen.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	NEH 11:4 Sin embargo, algunos de los habitantes de Judá y Benjamín se trasladaron a Jerusalén). De la tribu de Judá Ataías, hijo de Uzías, hijo de Zacarías, hijo de Amarías, hijo de Sefatías, hijo de Mahalalel, de los hijos de Fares;	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	PRO 7:11 (Era ruidosa y provocativa, sin deseo de quedarse en casa.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	PRO 7:12 Por momentos caminaba por las calles, luego andaba por las plazas, vagabundeando en cada esquina).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	SOL 3:9 (La litera de Salomón fue hecha para él con madera del Líbano.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	SOL 3:10 Sus soportes estaban cubiertos de plata, y el respaldo estaba cubierto de oro. El cojín del asiento era de color púrpura. El interior estaba decorado con detalle.) ¡Mujeres de Jerusalén,	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	EZE 1:2 (En el quinto día del mes del quinto año del exilio del rey Joaquín,	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	EZE 1:3 un mensaje del Señor fue dado al sacerdote Ezequiel, hijo de Buzi, en la tierra de Babilonia junto al río Quebar. Allí le llegó el poder del Señor).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	DAN 4:28 (Sin embargo, todo esto le sucedió al rey Nabucodonosor.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	DAN 4:33 Inmediatamente se cumplió el decreto, y Nabucodonosor fue expulsado de la sociedad humana. Comió hierba como el ganado, y su cuerpo se empapó del rocío del cielo. Sus cabellos crecieron enmarañados como los de un buitre, y sus uñas como las de un pájaro).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (Los fariseos y los judíos no comen sin lavarse las manos previamente, siguiendo la tradición de sus ancestros.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 De la misma manera, no comen cuando regresan del mercado hasta que no se hayan lavado. Observan muchos otros rituales, como lavar las tazas, las ollas y los recipientes).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	MAR 14:51 (Uno de sus seguidores era un joven que usaba solamente un vestido de lino.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	MAR 14:52 Ellos lo sujetaron por la fuerza, pero él salió corriendo desnudo, dejando allí tirado su vestido).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	ACT 1:18 (Judas había comprado un campo con sus ganancias ilícitas. Allí cayó de cabeza, y su cuerpo estalló, derramando todos sus intestinos.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 Todos los que vivían en Jerusalén oyeron acerca de esto, así que este campo fue llamado en su idioma “Acéldama”, que quiere decir “Campo de Sangre”).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	GAL 2:4 (Ese asunto solo surgió porque algunos falsos cristianos se habían infiltrado para espiar la libertad que tenemos en Cristo Jesús, tratando de convertirnos en esclavos.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	GAL 2:5 Pero nunca cedimos a ellos, ni siquiera por un momento, sino que queríamos asegurarnos de mantener la verdad de la buena noticia intacta para ustedes).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	EPH 4:9 (En cuanto a esto: dice que ascendió, pero eso indica que también descendió primero a nuestro mundo inferior.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	EPH 4:10 El que descendió es el mismo que también ascendió a lo más alto del cielo, a fin de poder hacer que todo el universo estuviera completo).	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(1/0)	1JO 5:16 Si ves a tu hermano en la fe cometiendo un pecado que no es mortal, debes orar y Dios le otorgará vida al que ha pecado. (Pero no por un pecado mortal. Porque hay un pecado que es mortal, y no quiero decir que la gente deba orar por eso.	WARN
+Spanish---Free-Bible	ENCLOSURES	Source	(0/1)	1JO 5:17 Sí, todo lo que no es recto es pecado, pero hay un pecado que no es mortal).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (El lino y la cebada fueron destruidos, porque la cebada estaba madura y el lino estaba floreciendo.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 Sin embargo, el trigo y la escanda no fueron destruidos porque crecen más tarde).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 026 009 y los hijos de Eliab eran Nemuel, Datán y Abiram. (Fueron Datán y Abiram, líderes escogidos por los israelitas, los que se unieron a la rebelión contra Moisés y Aarón con los seguidores de Coré cuando se rebelaron contra el Señor.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 026 011 Pero los hijos de Coré no murieron).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Un pueblo fuerte y numeroso llamado los Emim vivió una vez allí. Ellos eran tan altos como los anaceos,	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Anteriormente los horeos vivían en Seir, pero los descendientes de Esaú se apoderaron de sus tierras. Mataron a los horeos y se establecieron allí, como hizo Israel cuando ocuparon la tierra que el Señor les había dado).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Esta tierra era considerada anteriormente como el país de los Refaim que solían vivir allí. Sin embargo, los amonitas los llamaban Zamzumitas.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Los Avvim, que vivían en aldeas tan lejanas como Gaza, fueron destruidos por los filisteos, quienes vinieron desde Creta, y se establecieron en el lugar donde solían vivir).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (La flota de barcos de Hiram trajo oro de Ofir, y también llevó madera de sándalo y piedras preciosas.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 El rey utilizó la madera de sándalo para hacer escalones para el Templo y para el palacio real, y en liras y arpas para los músicos. Nunca se había visto nada igual en la tierra de Judá).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Acab convocó a Abdías, el administrador de su palacio (Abdías era un creyente muy sincero en el Señor.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Mientras Jezabel estaba ocupada matando a los profetas del Señor, Abdías había tomado a cien profetas y los había escondido, cincuenta en cada una de dos cuevas, y les había proporcionado comida y agua).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Nadie fue tan malo como Acab, que se vendió para hacer lo que es malo a los ojos del Señor, porque su esposa Jezabel lo animó.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 Hizo las cosas más despreciables, adorando a los ídolos como los amorreos que el Señor había expulsado delante de Israel).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Los hijos de Rubén, el primogénito de Israel. (Aunque era el primogénito, su primogenitura fue entregada a los hijos de José hijo de Israel porque había profanado el lecho de su padre. Por eso Rubén no figura en la genealogía según la primogenitura,	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 y aunque Judá llegó a ser el más fuerte de sus hermanos y de él salió un gobernante, la primogenitura le pertenecía a José).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (Hiram y los hombres de Salomón, que trajeron oro de Ofir, también trajeron madera de algum y piedras preciosas.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 El rey utilizó la madera de algum para hacer escalones para el Templo y para el palacio real, y en liras y arpas para los músicos. Nunca se había visto nada igual en el país de Judá).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	016 NEH 011 003 Esta es una lista de los líderes de la provincia que vinieron a vivir a Jerusalén. (La mayoría de los israelitas vivían en su propia propiedad en las ciudades de Judá. Esto incluía a los sacerdotes, los levitas, los servidores del Templo y los descendientes de los servidores de Salomón que vivían en sus ciudades de origen.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	016 NEH 011 004 Sin embargo, algunos de los habitantes de Judá y Benjamín se trasladaron a Jerusalén). De la tribu de Judá Ataías, hijo de Uzías, hijo de Zacarías, hijo de Amarías, hijo de Sefatías, hijo de Mahalalel, de los hijos de Fares;	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (Era ruidosa y provocativa, sin deseo de quedarse en casa.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 Por momentos caminaba por las calles, luego andaba por las plazas, vagabundeando en cada esquina).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	022 SOL 003 009 (La litera de Salomón fue hecha para él con madera del Líbano.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	022 SOL 003 010 Sus soportes estaban cubiertos de plata, y el respaldo estaba cubierto de oro. El cojín del asiento era de color púrpura. El interior estaba decorado con detalle.) ¡Mujeres de Jerusalén,	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	026 EZE 001 002 (En el quinto día del mes del quinto año del exilio del rey Joaquín,	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	026 EZE 001 003 un mensaje del Señor fue dado al sacerdote Ezequiel, hijo de Buzi, en la tierra de Babilonia junto al río Quebar. Allí le llegó el poder del Señor).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	027 DAN 004 028 (Sin embargo, todo esto le sucedió al rey Nabucodonosor.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	027 DAN 004 033 Inmediatamente se cumplió el decreto, y Nabucodonosor fue expulsado de la sociedad humana. Comió hierba como el ganado, y su cuerpo se empapó del rocío del cielo. Sus cabellos crecieron enmarañados como los de un buitre, y sus uñas como las de un pájaro).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Los fariseos y los judíos no comen sin lavarse las manos previamente, siguiendo la tradición de sus ancestros.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 De la misma manera, no comen cuando regresan del mercado hasta que no se hayan lavado. Observan muchos otros rituales, como lavar las tazas, las ollas y los recipientes).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 014 051 (Uno de sus seguidores era un joven que usaba solamente un vestido de lino.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 014 052 Ellos lo sujetaron por la fuerza, pero él salió corriendo desnudo, dejando allí tirado su vestido).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (Judas había comprado un campo con sus ganancias ilícitas. Allí cayó de cabeza, y su cuerpo estalló, derramando todos sus intestinos.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 Todos los que vivían en Jerusalén oyeron acerca de esto, así que este campo fue llamado en su idioma “Acéldama”, que quiere decir “Campo de Sangre”).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	048 GAL 002 004 (Ese asunto solo surgió porque algunos falsos cristianos se habían infiltrado para espiar la libertad que tenemos en Cristo Jesús, tratando de convertirnos en esclavos.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	048 GAL 002 005 Pero nunca cedimos a ellos, ni siquiera por un momento, sino que queríamos asegurarnos de mantener la verdad de la buena noticia intacta para ustedes).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (En cuanto a esto: dice que ascendió, pero eso indica que también descendió primero a nuestro mundo inferior.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 El que descendió es el mismo que también ascendió a lo más alto del cielo, a fin de poder hacer que todo el universo estuviera completo).	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(1/0)	062 1JO 005 016 Si ves a tu hermano en la fe cometiendo un pecado que no es mortal, debes orar y Dios le otorgará vida al que ha pecado. (Pero no por un pecado mortal. Porque hay un pecado que es mortal, y no quiero decir que la gente deba orar por eso.	WARN
+Spanish---Free-Bible	ENCLOSURES	Aionian	(0/1)	062 1JO 005 017 Sí, todo lo que no es recto es pecado, pero hay un pecado que no es mortal).	WARN
+Spanish---Free-Bible	ENCLOSURES	Summary	lines	40 / 40	NOTICE
+
+# UNEXPECTED
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Spanish---Free-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:3 Cuando Adán cumplió la edad de 130 años, tuvo un hijo semejante a él, hecho a su imagen, y le puso el nombre de Set.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:4 Después del nacimiento de Set, Adán vivió 800 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:5 Y Adán vivió en total 930 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 5:6 Cuando Set cumplió la edad de 105 años, tuvo a Enoc.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	GEN 5:7 Después del nacimiento de Enoc, Set vivió 807 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	GEN 5:8 Enós vivió en total 912 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:9 Cuando Enóc cumplió la edad de 90 años, tuvo a Cainán.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 5:10 Después del Nacimiento de Cainán, Enoc vivió 815 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 5:11 Enoc vivió en total 905 años y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:12 Cuando Cainán cumplió la edad de 70 años, tuvo a Malalel.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:13 Después del Nacimiento de Malalel, Cainán vivió 840 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:14 Y Cainán vivió en total 910 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 5:15 Cuando Malalel cumplió la edad de 65 años, tuvo a Jared.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:16 Y después del Nacimiento de Jared, Malalel vivió 830 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 5:17 Y Malalel vivió en total 895 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	GEN 5:18 Cuando Jared cumplió la edad de 162 años, tuvo a Enoc.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:19 Después del Nacimiento de Enoc, Jared vivió 800 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	GEN 5:20 Y Jared vivió en total 962 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 5:21 Cuando Enoc cumplió 65 años, tuvo a Matusalén.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:22 Y Enoc tuvo una relación muy estrecha con Dios. Después del nacimiento de Matusalén, Enoc vivió 300 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 5:23 Y Enoc vivió en total 365 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	GEN 5:25 Cuando Matusalén cumplió la edad de 187 años, tuvo a Lamec.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	GEN 5:26 Después del Nacimiento de Lamec, Matusalén vivió 782 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	GEN 5:27 Y Maturalén vivió en total 969 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	GEN 5:28 Cuando Lamec cumplió 182 años, tuvo un hijo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 5:30 Después del Nacimiento de Noé, Lamec vivió 595 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	GEN 5:31 Y Lamec vivió en total 777 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 5:32 Noé vivió 500 años antes de tener a Sem, Cam y Jafet.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 6:3 Entonces el Señor dijo: “Mi espíritu de vida no permanecerá con este pueblo para siempre, porque son mortales. Ahora el tiempo de vida será de 120 años”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 6:15 Y así es como deberás construirla: El arca debe medir 300 codos de largo, 50 codos de ancho, y 30 codos de alto.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 7:6 Noé tenía 600 años cuando las aguas inundaron la tierra.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 7:11 Noé había cumplido 600 años, cuando en el día número diecisiete del segundo mes, todas las aguas que estaban debajo de la tierra estallaron y atravesaron el suelo, y una fuerte lluvia cayó del cielo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 7:24 Y la tierra permaneció inundada por 150 días.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 8:3 Poco a poco, las aguas comenzaron a retirarse de la tierra. Bajaron tanto que 150 días después del diluvio	WARN
+Spanish---Free-Bible	NUMERALS	Source	1	GEN 8:13 Noé había cumplido ahora 601 años, y era el primer día del primer mes, cuando las aguas se habían secado por completo. Noé retiró la cubierta del arca y pudo ver que el suelo se estaba secando.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 9:28 Y después del diluvio, Noé vivió 350 años más.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 9:29 Noé vivió en total 950 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 11:10 La siguiente es la genealogía de Sem. Cuando Sem tuvo 100 años, nació su hijo Arfaxad. Esto sucedió dos años después del diluvio.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 11:11 Después del nacimiento de Arfaxad, Sem vivió 500 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 11:12 Cuando Arfaxad tuvo 35 años, nació su hijo Selaj.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	GEN 11:13 Después del nacimiento de Selaj, Arfaxad vivió 403 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 11:14 Cuando Selaj tuvo 30 años, nació su hijo Éber.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	GEN 11:15 Después del nacimiento de Éber, Selaj vivió 403 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	GEN 11:16 Cuando Éber tuvo 34 años, nació su hijo Peleg.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 11:17 Después del nacimiento de Peleg, Éber vivió 430 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 11:18 Cuando Peleg tuvo 30 años, nació su hijo Reú.	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	GEN 11:19 Después del nacimiento de Reú, Peleg vivió 209 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	GEN 11:20 Cuando Reú tuvo 32 años, nació su hijo Serug.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	GEN 11:21 Después del nacimiento de Serug, Reú vivió 207 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 11:22 Cuando Serug tuvo 30 años, nació su hijo Nacor.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 11:23 Después del nacimiento de Nacor, Serug vivió 200 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	GEN 11:24 Cuando Nacor tuvo 29 años, nació su hijo Téraj.	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	GEN 11:25 Después del nacimiento de Téraj, Nacor vivió 119 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 11:26 Cuando Téraj tuvi 70 años, nacieron sus hijos Abram, Nacor y Harán.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 11:32 Téraj vivió 205 años y murió en Harán.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 12:4 Así que Abram siguió las instrucciones del Señor, y Lot también se fue con él. Abram tenía 75 años cuando se fue de Harán.	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	GEN 14:14 Cuando Abram se enteró de que su sobrino había sido capturado, convocó a 318 hombres guerreros que habían nacido en su hogar para que los persiguieran hasta llegar a Dan.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 15:13 Entonces el Señor le explicó a Abram: “Puedes estar seguro de que tus descendientes serán extranjeros en otras naciones, donde sufrirán esclavitud y maltratados por 400 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	GEN 16:16 Cuando Agar tuvo a Ismael, Abram tenían 86 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	GEN 17:1 Cuando Abram tenía 99 años, el Señor se le apreció y le dijo: “Yo soy el Dios Altísimo. Vive en mi presencia y haz el bien.	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	GEN 17:12 Desde ahora y por todas las generaciones, todo hombre entre ustedes será circuncidado a los 8 días después de nacer. Esto no solo se aplicará a tus hijos sino a todo varón que nazca en tu casa, o que sea comprado de los extranjeros.	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	GEN 17:24 Abraham tenían 99 años cuando fue circuncidado,	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	GEN 17:25 y su hijo Ismael tenía 13 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 18:31 “Debo admitir que he sido osado en hablar de esta manera con mi Señor”, dijo Abraham. “¿Qué sucedería si solo hubiera veinte personas buenas?” “No lo haré por causa de las 20 personas”, respondió el Señor.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 21:5 Y Abraham tenía 100 años cuando nació Isaac.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	GEN 23:1 Sara vivió hasta los 127 años,	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	GEN 25:7 Abraham vivió hasta la edad de 175 años	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	GEN 25:17 Ismael vivió hasta la edad de 137 años. Entonces dio un último suspiro, y se unió a sus antepasados en la muerte.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 25:20 Cuando Isaac cumplió los 40 años, se casó con Rebeca, la hija de Betuel el arameo de Padán-Harán y hermana de Labán el arameo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 25:26 Luego salió su hermano gemelo, quien salió de la matriz agarrando el talón de Esaú. Por eso lo llamaron Jacob. Isaac tenía 60 años cuando sus dos hijos nacieron.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 26:34 Cuando Esaú cumplió 40 años, se casó con Judit, hija de Beri, el hitita, y también con Basemat, hija de Elón, el hitita.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 32:6 Los mensajeros volvieron a Jacob y le dijeron: “¡Su hermano Esaú viene a recibirle con 400 hombres armados!”	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 32:14 200 cabras hembras, 20 cabras machos; 200 ovejas, 20 carneros;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 32:15 30 camellos hembras con sus crías, 40 vacas, 10 toros; 20 burros hembras, 10 burros machos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 33:19 Compró el terreno donde acampaba a los hijos de Hamor, el fundador de Siquem, por 100 monedas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 35:28 Isaac vivió hasta la edad de 180 años,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 45:22 Les dio a cada uno de ellos ropa nueva. Pero a Benjamín le dio cinco juegos de ropa y 300 piezas de plata.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 47:9 “He estado andando de aquí para allá durante 130 años”, respondió Jacob. “Mi vida ha sido corta y difícil; no he vivido tanto como mis antepasados que también vagaban de un lugar a otro”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	GEN 47:28 Jacob vivió en Egipto durante diecisiete años, por lo que vivió en total 147 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 50:3 Esto tomó 40 días, el tiempo normal para el proceso, y los egipcios lloraron por él durante 70 días.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 50:22 Y José permaneció en Egipto, junto con toda la familia de su padre. Vivió hasta los 110 años,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	GEN 50:26 José murió cuando tenía 110 años. Después de que su cuerpo fue embalsamado, fue colocado en un ataúd en Egipto.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 1:5 Allí Jacob tuvo 70 descendientes, incluyendo a José, que ya estaba en Egipto.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	EXO 6:16 Estos fueron los nombres de los hijos de Leví según sus registros genealógicos: Gersón, Coat y Merari. Leví vivió durante 137 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	EXO 6:18 Los hijos de Coat fueron Amram, Izar, Hebrón y Uziel. Coat vivió durante 133 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	EXO 6:20 Amram se casó con la hermana de su padre, Jocabed, y ella tuvo sus hijos Aarón y Moisés. Amram vivió durante 137 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 12:37 Los israelitas partieron a pie desde Ramsés hacia Sucot y fueron unos 600.000 hombres, así como mujeres y niños.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 12:40 Los israelitas habían vivido en Egipto durante 430 años.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 12:41 El mismo día en que terminaron los 430 años, todas las tribus del Señor, por sus respectivas divisiones, salieron de Egipto.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 14:7 Tomó 600 de sus mejores carros junto con todos los demás carros de Egipto, cada uno con su oficial a cargo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	EXO 26:2 Cada cortina debe medir 28 codos de largo por 4 codos de ancho, y todas las cortinas deben ser del mismo tamaño.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	EXO 26:8 Cada una de las once cortinas debe ser del mismo tamaño: 30 codos de largo por 4 codos de ancho.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 27:13 El lado este del patio que da al amanecer tendrá 50 codos de ancho.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 30:23 “Toma las especias de mejor calidad: 500 siclos de mirra líquida, 250 siclos de canela de olor dulce, 250 siclos de caña aromática,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 30:24 500 siclos de casia, (pesos usando el estándar del siclo del santuario), y un hin de aceite de oliva.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 32:28 Los levitas hicieron lo que Moisés les había dicho, y ese día alrededor de 3.000 hombres fueron asesinados.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	EXO 36:9 Cada cortina tenía 28 codos de largo por 4 codos de ancho, y todas eran del mismo tamaño.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	EXO 36:15 Cada una de las once cortinas era del mismo tamaño, 30 codos de largo por 4 codos de ancho.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EXO 38:18 La cortina de la entrada al patio estaba bordada con hilos azules, púrpura y carmesí, y con lino finamente hilado. Tenía 20 codos de largo por 5 codos de alto, la misma altura que las cortinas del patio.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 38:24 La cantidad total de oro de la ofrenda que se utilizó para el trabajo en el santuario fue de 29 talentos y 730 siclos, (usando el estándar de siclos del santuario).	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EXO 38:25 La cantidad total de plata de los que habían sido contados en el censo era de 100 talentos y 1.775 siclos (usando el estándar del siclo del santuario).	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 38:26 Esto representa un beka por persona, o medio siclo, (usando el estándar del siclo del santuario) de cada persona de veinte años o más que había sido censada, un total de 603.550 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 38:27 Los cien talentos de plata se usaron para fundir los soportes del santuario y los soportes de las cortinas, 100 bases de los 100 talentos, o un talento por base.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EXO 38:28 Bezalel usó los 1.775 siclos de plata para hacer los ganchos de los postes, cubrir sus tapas y hacer bandas para ellos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EXO 38:29 La cantidad total de bronce de la ofrenda fue de 70 talentos y 2.400 siclos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	LEV 25:11 El 50º año será un jubileo para ti. No siembren la tierra, no cosechen lo que haya podido crecer en sus campos, ni recojan las uvas de sus viñedos que no hayan cuidado.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:21 n la tribu de Rubén sumaron 46.500.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:23 de la tribu de Simeón, sumaron 59.300.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:25 de la tribu de Gad, sumaron 45.650.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:27 de la tribu de Judá, sumaron 74.600.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:29 de la tribu de Isacar, sumaron 54.400.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:31 de la tribu de Zabulón, sumaron 57.400.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:33 de la tribu de Efraín, sumaron 40.500.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:35 de la tribu de Manasés, sumaron 32.200.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:37 de la tribu de Benjamín, totalizaban 35.400.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:39 de la tribu de Dan, sumaron 62.700.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:41 de la tribu de Aser, sumaron 41.500.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:43 de la tribu de Neftalí, sumaron 53.400.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 1:46 La suma total de los registrados fue de 603.550.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:4 tiene 74.600 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:6 y tiene 54.400 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:8 y tiene 57.400 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:9 Así que el total de hombres en el territorio de Judá e de 186.400. Y cuando llegue la hora de marcharse, ellos irán a la cabeza.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:11 cuenta con 46.500 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:13 y cuenta con 59.300 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:15 y cuenta con 45.650 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:16 Así que el número total de hombres en el área del campamento de Rubén es de 151.450. Ellos marcharán en segundo lugar.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:19 y cuenta con 40.500 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:21 y cuenta con 32.200 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:23 y cuenta con 35.400 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:24 Así que el número total de hombres en el área del campamento de Efraín es de 108.100. Ellos marcharán en tercer lugar.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:26 y cuenta con 62.700 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:28 y cuenta con 41.500 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:30 y cuenta con 53.400 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:31 Así que el total de hombres en el área del campamento de Dan es de 157.600. Ellos marcharán en último lugar, con sus banderas”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 2:32 Este es un resumen del censo de los israelitas, hecho por familia. El total final de los contados en los campamentos por tribus fue de 603.550.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 3:22 El total de todos los varones de un mes o más era de 7.500.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 3:28 El total de todos los varones de un mes o más era de 8.600. Su responsabilidad asignada era cuidar del santuario.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 3:34 El total de todos los varones de un mes o más era de 6.200.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 3:39 La suma total de levitas registrados por Moisés y Aarón como el Señor ordenó fue de 22.000. Esto incluía a todos los varones de un mes o mayores.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	NUM 3:43 La suma total de los primogénitos varones de un mes o más, registrados por nombre, fue de 22.273.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	NUM 3:46 Para poder comprar los 273 primogénitos de Israel que son más que el número de levitas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	NUM 3:50 Recolectó el dinero dado en nombre de los primogénitos de los israelitas. Llegó a recolectar 1.365 siclos, (usando el estándar del siclo del santuario).	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 4:36 El total por familias fue de 2.750.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 4:40 El total por familias y linaje paterno fue de 2.630.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 4:44 El total por familias fue de 3.200.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 4:48 La suma total fue de 8.580.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 11:21 Pero Moisés respondió: “Estoy aquí con 600.000 personas y me dices: ‘Les voy a dar carne y la comerán durante un mes’?	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 16:2 Istos se rebelaron contra Moisés, y se les unieron 250 respetados líderes israelitas y miembros de la asamblea.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 16:17 Cada uno tomará su quemador de incienso, lo pondrá en él y lo ofrecerá ante el Señor. Los 250 usarán sus quemadores de incienso y Aarón también”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 16:35 Entonces fuego salió del Señor y quemó a los 250 hombres que ofrecían incienso.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 16:49 Sin embargo, 14.700 personas murieron por la plaga además de los que murieron por culpa de Coré.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 25:9 pero ya habían muerto 24.000.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:7 Estas fueron las familias descendientes de Rubén y fueron 43.730.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:10 La tierra se abrió y se los tragó, junto con Coré. Sus seguidores murieron cuando el fuego quemó a 250 hombres. Lo que les sucedió fue una advertencia para los israelitas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:14 Estas eran las familias descendientes de Simeón y eran 22.200.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:18 Estas eran las familias descendientes de Gad y eran 40.500.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:22 Estas eran las familias descendientes de Judá y sumaban 76.500.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:25 Estas eran las familias descendientes de Isacar y sumaban 64.300.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:27 Estas eran las familias descendientes de Zabulón, y eran 60.500.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:34 Estas eran las familias que descendían de Manasés, y eran 52.700.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:37 Estas eran las familias descendientes de Efraín, y sumaban 32.500. Estas familias eran descendientes de José.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:41 Estas fueron las familias descendientes de Benjamín, y sumaban 45.600.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:43 Todas eran familias suhamitas, y eran 64.400.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:47 Estas eran las familias descendientes de Aser, y sumaban 53.400.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:50 Estas eran las familias descendientes de Neftalí, y sumaban 45.400.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:51 El total de todos los contados fue de 601.730.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 26:62 El número de los levitas censados ascendía a 23.000. Esto incluía a todos los varones de un mes o más. Sin embargo, no fueron contados con los otros israelitas, porque no se les dio ninguna asignación de tierras con los otros israelitas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:32 Esta era la lista de los botines que quedaban y que habían sido saqueados por las tropas: 675.000 ovejas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:33 72.000 vacas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:34 61.000 burros,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:35 y 32.000 vírgenes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:36 Esta era la mitad de los que habían ido a luchar: 337.500 ovejas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	NUM 31:37 con una contribución para el Señor de 675	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NUM 31:38 36.000 bovinos, con una contribución para el Señor de 72,	WARN
+Spanish---Free-Bible	NUMERALS	Source	1	NUM 31:39 30.500 burros, con una contribución para el Señor de 61,	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NUM 31:40 y 16.000 personas, con una contribución para el Señor de 32.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:43 consistió en: 337.500 ovejas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:44 36.000 vacas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:45 30.500 burros,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:46 y 16.000 personas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NUM 31:52 El oro que los comandantes de miles y cientos de personas dieron como ofrenda al Señor pesaba en total 16.750 siclos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	NUM 33:39 Aarón tenía 123 años cuando murió en el Monte Hor.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	DEU 34:7 Moisés tenía 120 años cuando murió, pero aún veía claramente y era fuerte.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	JOS 3:4 Así sabrán qué camino tomar, ya que no han estado aquí antes. Mantengan una distancia de 3.000 pies entre ustedes y el Arca. ¡No se acerquen!”	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	JOS 4:13 Fueronunos 40.000 hombres, armados y listos para la batalla, los que cruzaron en presencia del Señor a las llanuras de Jericó.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	JOS 5:10 Los israelitas acamparon en Gilgal y celebraron allí la Pascua en la tarde del día 14 del primer mes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	1	JOS 12:24 El rey de Tirsa. El total de todos los reyes es de 31.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	JDG 3:29 Luego atacaron a los moabitas y mataron a unos 10.000 de sus mejores y más fuertes combatientes. Ni uno solo escapó.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	JDG 8:26 El peso de los pendientes que recibió Gedeón era de 1.700 siclos, sin incluir los adornos, sino los colgantes y las prendas de color púrpura que llevaban los reyes madianitas ni las cadenas que llevaban al cuello de sus camellos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	JDG 12:6 le decían: “Di Shibboleth”. Y los que eran de Efraín, dirían“Sibboleth” porque ellos no podían pronunciarlo bien, y así los agarrarían y los matarían allí en los vados del Jordán. Un total de 42.000 fueron asesinados en esa ocasión.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1SA 4:2 Los filisteos atacaron a los israelitas en formación, y cuando la batalla se extendió, los filisteos derrotaron a los israelitas, matando a 4.000 de ellos en el campo de batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1SA 11:8 Cuando Saúl los contó en Bezek, había 300.000 hombres de Israel y 30.000 de Judá.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1SA 15:4 Saúl convocó a su ejército en Telem. Había 200.000 infantes israelitas y 10.000 hombres de Judá.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2SA 8:4 David capturó 1.000 de sus carros, 7.000 jinetes y 20.000 soldados de a pie. Ató por las patas a todos los caballos que llevaban carros, pero dejó suficientes caballos para 100 carros de guerra.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2SA 10:18 Pero el ejército arameo huyó de los israelitas, y David mató a 700 aurigas y a 40.000 soldados de infantería. También atacó a Sobac, el comandante de su ejército, y allí murió.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2SA 23:18 Abisai, hermano de Joab, era el líder del segundo Tres. Usando su lanza, una vez mató a 300 hombres, y se hizo famoso entre los Tres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2SA 24:9 Joab informó al rey del número de personas que habían sido contadas. En Israel había 800.000 hombres combatientes que podían usar la espada, y en Judá había 500.000.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 4:26 Salomón tenía 40.000 establos para los caballos de sus carros y 12.000 auriculares.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 5:11 Salomón le dio a Hiram 20.000 coros de trigo para la comida y 20.000 coros de aceite de oliva para su casa. Salomón le proporcionaba esto a Hiram cada año.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 5:13 El rey Salomón reclutó una fuerza de trabajo de 30.000 personas de todo Israel.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 5:14 Los enviaba en turnos de 10.000 cada mes al Líbano, de modo que estaban un mes en el Líbano y dos meses en casa, mientras Adoniram estaba a cargo de todo el personal que trabajaba en la obra.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 5:15 Salomón tenía 70.000 hombres para transportar piedras, y 80.000 canteros en la región montañosa,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 5:16 así como 3.300 capataces a quienes puso a cargo de los trabajadores.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 8:63 Salomón presentó como ofrendas de paz al Señor 22.000 bueyes y 120.000 ovejas. De este modo, el rey y todo el pueblo de Israel dedicaron el Templo del Señor.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 9:14 Aun así, Hiram le envió al rey 120 talentos de oro como pago.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 9:23 También eran los principales oficiales a cargo de los programas de Salomón: 550 al mando de la gente que realizaba las obras.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 9:28 Navegaron hasta Ofir y trajeron de allí 420 talentos de oro y se los entregaron a Salomón.	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	1KI 10:14 El peso del oro que Salomón recibía cada año era de 666 talentos,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 10:26 Salomón acumuló 1.400 carros y 12.000 jinetes. Los tenía en las ciudades de los carros, y también con él en Jerusalén.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 12:21 Cuando Roboam llegó a Jerusalén, reunió a los hombres de las familias de Judá y Benjamín – 180.000 guerreros elegidos – parair a luchar contra Israel y devolver el reino a Roboam, hijo de Salomón.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 20:15 Así que Acab convocó a los 232 oficiales jóvenes de los comandantes de distrito y reunió a los 7.000 soldados que formaban el ejército de Israel.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 20:29 Los ejércitos acamparon uno frente al otro durante siete días. Al séptimo día tuvo lugar la batalla. Los israelitas mataron a 100.000 de la infantería aramea en un solo día.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1KI 20:30 El resto huyó a la ciudad de Afec, donde un muro se derrumbó sobre 27.000 de los que quedaron. Ben Adad también corrió a la ciudad y se escondió en una habitación interior.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2KI 19:35 Aquella noche el ángel del Señor fue al campamento asirio y mató a 185.000 personas. Cuando los supervivientes se despertaron por la mañana, estaban rodeados de cadáveres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 5:18 La tribu de Rubén, la tribu de Gad y la media tribu de Manasés tenían 44.760 guerreros fuertes y listos para la batalla, capaces de usar escudos, espadas y arcos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 7:2 Los hijos de Tola: Uzi, Refaías, Jeriel, Jahmai, Ibsam y Samuel, quienes eran jefes de sus familias. En la época de David, los descendientes de Tola enumeraban en su genealogía un total de 22.600 guerreros.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 7:4 Tenían muchas esposas e hijos, por lo que en su genealogía figuran 36.000 hombres de combate listos para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 7:5 Los parientes guerreros de todas las familias de Isacar, según su genealogía, eran 87.000 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	1CH 7:7 Los hijos de Bela: Ezbón, Uzi, Uziel, Jerimot e Iri, quienes eran jefes de sus familias, y eran un total de cinco. Tenían 22.034 combatientes según su genealogía.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 7:9 Su genealogía incluía a los jefes de familia y a 20.200 combatientes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 7:11 Todos estos hijos de Jediael eran jefes de sus familias. Tenían 17.200 guerreros listos para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 7:40 Todos ellos eran descendientes de los jefes de familia de Aser, hombres selectos, fuertes guerreros y grandes líderes. Según su genealogía, tenían 26.000 guerreros listos para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 8:40 Los hijos de Ulam eran fuertes guerreros y hábiles arqueros. Tuvieron muchos hijos y nietos, un total de 150. Todos ellos fueron los hijos de Benjamín.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 9:6 De los zeraítas: Jeuel y sus parientes, con un total de 690.	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	1CH 9:9 Todos ellos eran jefes de familia, según consta en sus genealogías, y en total sumaban 956.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 9:13 Los sacerdotes, que eran jefes de familia, sumaban 1.760. Eran hombres fuertes y capaces que servían en la casa de Dios.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 9:22 En total hubo 212 elegidos para ser porteros en las entradas. Registraron sus genealogías en sus ciudades de origen. David y el profeta Samuel habían seleccionado a sus antepasados por su fidelidad.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 11:11 Esta es la lista de los principales guerreros que apoyaron a David: Jasobeam, hijo de Hacmoni, líder de los Tres. Con su lanza, una vez mató a 300 hombres en una sola batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 11:20 Abisai, hermano de Joab, era el líder de los segundos Tres. Usando su lanza, una vez mató a 300 hombres, y se hizo famoso entre los Tres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:14 Estos guerreros de Gad eran oficiales del ejército. El menos hábil de ellos estaba a cargo de 100 hombres; y el mejor estaba a cargo de 1.000.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:24 De la tribu de Judá, 6.800 guerreros con escudos y lanzas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:25 De la tribu de Simeón, 7.100 guerreros fuertes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:26 De la tribu de Leví, 4.600,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:27 incluyendo a Joiada, jefe de la familia de Aarón, y con él 3.700,	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 12:28 y Sadoc, un joven guerrero fuerte, con 22 miembros de su familia, todos oficiales.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:29 De la tribu de Benjamín, de entre los parientes de Saúl, 3.000, la mayoría de los cuales habían permanecido leales a Saúl hasta ese momento.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:30 De la tribu de Efraín, 20.800 guerreros fuertes, cada uno de ellos muy apreciado en su propio clan.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:31 De la media tribu de Manasés, 18.000 hombres designados por su nombre para venir a hacer rey a David.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:32 De la tribu de Isacar vinieron líderes que conocían y podían entender los signos de los tiempos y lo que Israel debía hacer: un total de 200 líderes de la tribu junto con sus parientes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:33 De la tribu de Zabulón, 50.000 guerreros. Estaban completamente armados y listos para la batalla, y totalmente dedicados.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:34 De la tribu de Neftalí, 1.000 oficiales y 37.000 guerreros con escudos y lanzas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:35 De la tribu de Dan, 28.600 guerreros, todos preparados para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:36 De la tribu de Aser, 40.000 guerreros experimentados, todos listos para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 12:37 De la parte oriental del río Jordán, de las tribus de Rubén, Gad y la media tribu de Manasés, 120.000 guerreros con todo tipo de armas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 15:5 De los hijos de Coat, Uriel (el jefe de familia), y 120 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 15:6 de los hijos de Merari, Asaías (el jefe de familia), con 220 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 15:7 de los hijos de Gersón, Joel (el jefe de familia), con 130 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 15:8 de los hijos de Elizafán, Semaías (el jefe de familia), con 200 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 15:9 de los hijos de Hebrón, Eliel (el jefe de familia), con 80 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 15:10 de los hijos de Uziel, Aminadab (el jefe de familia), con 112 de sus parientes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 18:4 David le capturó 1.000 carros, 7.000 auriculares y 20.000 soldados de a pie. David ató a todos los caballos de los carros, pero guardó lo suficiente para 100 carros.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 18:5 Cuando los arameos de Damasco vinieron a ayudar a Hadad-Ezer, rey de Soba, David mató a 22.000 de ellos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 18:12 Abisai, hijo de Sarvia, mató a 18.000 edomitas en el Valle de la Sal.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 19:7 También contrataron 32.000 carros y al rey de Maaca con su ejército. Vinieron a acampar cerca de Medeba. Los amonitas también fueron llamados desde sus ciudades y se prepararon para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 19:18 Pero el ejército arameo huyó de los israelitas, y David mató a 7.000 aurigas y 40.000 soldados de infantería, así como a Sobac, su comandante.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 21:5 y le dio a David el número de personas censadas. En Israel había 1.100.000 hombres combatientes que podían manejar una espada, y 470.000 en Judá.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 21:14 Entonces el Señor lanzó una plaga sobre Israel, y murieron 70.000 israelitas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 22:14 “Mira, me he tomado muchas molestias para proveer la casa del Señor: 100.000 talentos de oro, 1.000.000 de talentos de plata, y bronce y hierro, más de lo que se puede pesar.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 23:3 Se contaron los levitas mayores de treinta años, y fueron 38.000 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 23:4 “De ellos, 24.000 estarán a cargo de las obras de la casa del Señor, mientras que 6.000 serán oficiales y jueces”, instruyó David.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 23:5 “Y 4.000 serán porteros, mientras que 4.000 alabarán al Señor usando los instrumentos musicales que he proporcionado para la alabanza”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	1CH 25:7 Junto con sus parientes, todos ellos entrenados y hábiles en el canto al Señor, sumaban 288.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:9 La primera suerte, que era para Asaf, recayó en José, sus hijos y su hermano, 12 en total. La segunda recayó en Gedalías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:10 La tercera cayó en manos de Zacur, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:11 La cuarta cayó en manos de Izri, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:12 La quinta cayó en manos de Netanías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:13 La sexta cayó en manos de Buquías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:14 La séptima cayó en manos de Jesarela, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:15 La octava cayó en manos de Jesaías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:16 La novena cayó en manos de Matanías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:17 La décima cayó en manos de Simei, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:18 La undécima cayó en manos de Azarel, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:19 La duodécima cayó en manos de Hasabías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:20 La decimotercera cayó en manos de Subael, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:21 El decimocuarto cayó en manos de Matatías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:22 La decimoquinta cayó en manos de Jerimot, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:23 La decimosexta cayó en manos de Hananías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:24 La decimoséptima cayó en manos de Josbecasa, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:25 La decimoctava cayó en manos de Hanani sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:26 La decimonovena cayó en manos de Maloti, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:27 La vigésima cayó en manos de Eliata, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:28 El vigésimo primero cayó en manos de Hotir, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:29 El vigésimo segundo cayó en manos de Gidalti, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:30 El vigésimo tercero cayó en manos de Mahaziot, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	1CH 25:31 El vigésimo cuarto cayó en manos de Romanti-Ezer, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 26:30 De los hebronitas: Hasabías y sus parientes, 1.700 hombres capaces, fueron puestos a cargo del Israel al oeste del Jordán, responsables de todo lo relacionado con la obra del Señor y el servicio del rey.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 26:32 Entre los parientes de Jericó había 2.700 hombres capaces que eran líderes familiares. El rey David los puso a cargo de las tribus de Rubén y Gad y de la media tribu de Manasés. Eran responsables de todo lo relacionado con la obra del Señor y el servicio del rey.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:1 Esta es una lista de los israelitas, de los jefes de familia, de los comandantes de millares y de los comandantes de centenas, y de sus oficiales que servían al rey en todo lo relacionado con las divisiones que estaban de servicio cada mes durante el año. Había 24.000 hombres en cada división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:2 Al mando de la primera división para el primer mes, estaba Jashobeam, hijo de Zabdiel. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:4 Al mando de la división para el segundo mes estaba Dodai el ahohita. Miclot era su jefe de división. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:5 El tercer comandante del ejército para el tercer mes era Benaía, hijo del sacerdote Joiada. Era el jefe y había 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:7 El cuarto, para el cuarto mes, era Asael, hermano de Joab. Su hijo Zebadías fue su sucesor. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:8 El quinto, para el quinto mes, era el comandante del ejército Shamhuth el Izrahita. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:9 El sexto, para el sexto mes, era Ira, hijo de Iqués de Tecoa. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:10 El séptimo, para el séptimo mes, era Heles el pelonita de la tribu de Efraín. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:11 El octavo, para el octavo mes, era Sibecai de Husa, de la tribu de Zera. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:12 El noveno, para el noveno mes, era Abiezer, de Anatot, de la tribu de Benjamín. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:13 El décimo, para el décimo mes, era Maharai de Netofa, de la tribu de Zera. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:14 El undécimo, para el undécimo mes, era Benaía, de Piratón, de la tribu de Efraín. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 27:15 El duodécimo, para el duodécimo mes, era Heldai de Netofa, de la familia de Otoniel. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 29:4 3.000 talentos de oro -el oro de Ofir- y 7.000 talentos de plata refinada irán a cubrir las paredes de los edificios,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CH 29:7 Dieron para el servicio de la casa de Dios 5.000 talentos y 10.000 dáricos de oro, 10.000 talentos de plata, 18.000 talentos de bronce y 100.000 talentos de hierro.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 1:14 Salomón construyó un ejército de carros y caballos. Tenía 1.400 carros y 12.000 caballos, que colocó en las ciudades de los carros, y también con él en Jerusalén.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 2:2 Asignó 70.000 hombres como obreros, 80.000 como cortadores de piedra en las montañas y 3.600 como capataces.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 2:10 Pagaré a tus trabajadores, los cortadores de madera, 20.000 cors de trigo triturado, 20.000 cors de cebada, 20.000 baños de vino y 20.000 baños de aceite de oliva”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 2:17 Salomón mandó hacer un censo de todos los extranjeros en la tierra de Israel, como el censo que había hecho su padre David, y encontró que había 153.600.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 2:18 Asignó 70.000 como obreros, 80.000 como canteros en las montañas y 3.600 como capataces.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 7:5 El rey Salomón ofreció un sacrificio de 22.000 reses y 120.000 ovejas. De este modo, el rey y todo el pueblo dedicaron el Templo de Dios.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 8:10 También eran los principales oficiales del rey Salomón, 250 hombres que supervisaban al pueblo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 8:18 Hiram le envió barcos al mando de sus propios oficiales, junto con marineros experimentados. Fueron con los hombres de Salomón a Ofir, donde cargaron 450 talentos de oro, que luego llevaron al rey Salomón.	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	2CH 9:13 El peso del oro que Salomón recibía cada año era de 666 talentos,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 11:1 Cuando Roboam llegó a Jerusalén, reunió a los hombres de las familias de Judá y Benjamín - 180.000 guerreros elegidos - para ir a luchar contra Israel y devolver el reino a Roboam.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 12:3 Vino de Egipto con 1.200 carros, 60.000 jinetes y un ejército que no se podía contar Egipto: libios, siquenos y cusitas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 13:3 Abías salió a luchar con un ejército de 400.000 valientes guerreros, mientras que Jeroboam se le opuso con su ejército de 800.000 guerreros elegidos de gran fuerza.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 13:17 Abías y sus hombres los golpearon duramente, y 500.000 de los mejores guerreros de Israel murieron.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 17:11 Algunos de los filisteos incluso le trajeron regalos y plata, mientras que los árabes le trajeron 7.700 carneros y 7.700 cabras.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 17:14 Este es un recuento de ellos, según sus líneas familiares: de Judá, los comandantes de miles: Adná, el comandante, y 300.000 guerreros poderosos con él;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 17:15 luego Johanán, el comandante, y 280.000 con él;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 17:16 luego Amasías, hijo de Zicrí, que se ofreció como voluntario para servir al Señor, y 200.000 guerreros poderosos con él;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 17:17 de Benjamín, Eliada, poderoso guerrero, y 200.000 con él, armados con arcos y escudos;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 17:18 luego Jozabad, y 180.000 con él, listos para la batalla;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 24:15 Joiada envejeció y murió a la edad de 130 años, habiendo vivido una vida plena.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 25:5 Entonces Amasías convocó al pueblo de Judá para el servicio militar, y los asignó por familias a comandantes de millares y de centenas. También hizo un censo de los mayores de veinte años en todo Judá y Benjamín, y descubrió que había 300.000 hombres de combate de primera categoría que sabían usar la lanza y el escudo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 25:6 También contrató a 100.000 combatientes de Israel listos para la batalla por cien talentos de plata.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 25:23 Joás, rey de Israel, capturó a Amasías, rey de Judá, hijo de Joás, hijo de Ocozías, en Bet Semes. Lo llevó a Jerusalén y derribó la muralla de Jerusalén a lo largo de 400 codos, desde la Puerta de Efraín hasta la Puerta de la Esquina.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 26:12 El número total de jefes de familia era de 2.600 combatientes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 26:13 Bajo su mando había un ejército de 307.500 entrenados para la batalla, que tenían el poder de ayudar al rey a luchar contra el enemigo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 28:6 En un solo día, Peka, hijo de Remalías, mató a 120.000 combatientes en Judá, porque habían abandonado al Señor, el Dios de sus padres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 28:8 Los israelitas capturaron a 200.000 de sus “hermanos”—mujeres, hijos e hijas. También tomaron una gran cantidad de botín y lo llevaron a Samaria.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 35:7 Josías aportó como ofrendas pascuales para todo el pueblo presente 30.000 corderos y cabras, y 3.000 toros, todos de sus propios rebaños y manadas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 35:8 Sus funcionarios contribuyeron libremente con el pueblo, los sacerdotes y los levitas. Hilcías, Zacarías y Jehiel, que estaban a cargo del Templo de Dios, dieron a los sacerdotes como ofrendas de Pascua 2.600 corderos de Pascua y 300 toros.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	2CH 35:9 Los jefes de los levitas, Conanías, Semaías y Netanel, sus hermanos, y Hasabías, Jeiel y Jozabad, dieron a los levitas como ofrendas de Pascua 5.000 corderos y cabritos y 500 toros.	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	EZR 1:9 Esta era la lista: 30 cuencas de oro, 1.000 cuencas de plata, 29 cubiertos de plata,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 1:10 30 cuencos de oro, 410 cuencos de plata a juego y otros 1.000 artículos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 1:11 En total había 5.400 objetos de oro y plata. Cuando los exiliados salieron de Babilonia para ir a Jerusalén Sesbasar se llevó todo esto con ellos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:3 los hijos de Paros, 2.172;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:4 los hijos de Sefatías, 372;	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EZR 2:5 los hijos de Ara, 775;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:6 los hijos de Pahat-moab (hijos de Jesúa y Joab), 2.812;	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	EZR 2:7 los hijos de Elam, 1.254;	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EZR 2:8 los hijos de Zatu, 945;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 2:9 los hijos de Zacai, 760;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:10 los hijos de Bani, 642;	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	EZR 2:11 los hijos de Bebai, 623	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:12 los hijos de Azgad, 1.222;	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	EZR 2:13 los hijos de Adonicam, 666;	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	EZR 2:14 los hijos de Bigvai, 2.056;	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	EZR 2:15 los hijos de Adin, 454;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	EZR 2:16 los hijos de Ater, (hijos de Ezequías), 98;	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	EZR 2:17 los hijos de Bezai, 323;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:18 los hijos de Jora, 112;	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	EZR 2:19 los hijos de Hasum, 223;	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EZR 2:20 los hijos de Gibar, 95;	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	EZR 2:21 el pueblo de Belén, 123;	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	EZR 2:22 el pueblo de Netofa, 56;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	EZR 2:23 el pueblo de Anatot, 128;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:24 el pueblo de Bet-azmavet, 42;	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	EZR 2:25 el pueblo de Quiriat-jearim, Cafira y Beerot, 743;	WARN
+Spanish---Free-Bible	NUMERALS	Source	1	EZR 2:26 el pueblo de Ramá y Geba, 621;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:27 el pueblo de Micmas, 122	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	EZR 2:28 el pueblo de Betel y de Hai, 223;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:29 los hijos de Nebo, 52;	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	EZR 2:30 los hijos de Magbis, 156;	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	EZR 2:31 los hijos de Elam, 1.254;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 2:32 los hijos de Harim, 320;	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EZR 2:33 los hijos de Lod, Hadid y Ono, 725;	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EZR 2:34 los hijos de Jericó, 345;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 2:35 los hijos de Senaa, 3.630.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	EZR 2:36 Este es el número de los sacerdotes: los hijos de Jedaías (por la familia de Jesúa), 973;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:37 los hijos de Imer, 1.052;	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	EZR 2:38 los hijos de Pasur, 1.247;	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	EZR 2:39 los hijos de Harim, 1.017.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	EZR 2:40 Este es el número de los levitas: los hijos de Jesúa y Cadmiel (hijos de Hodavías), 74;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	EZR 2:41 los cantores de los hijos de Asaf, 128;	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	EZR 2:42 los porteros de las familias de Salum, Ater, Talmón, Acub, Hatita y Sobai, 139.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:58 El total de los siervos del Templo y de los descendientes de los siervos de Salomón era de 392.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	EZR 2:60 Entre ellos estaban las familias de Delaía, Tobías y Necoda, 652 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 2:64 El total de personas que regresaron fue de 42.360.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 2:65 Además había 7.337 sirvientes y 200 cantores y cantoras.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	EZR 2:66 Tenían 736 caballos, 245 mulas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 2:67 435 camellos y 6.720 asnos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 2:69 Dieron según lo que tenían, poniendo su donativo en el tesoro. El total ascendió a 61.000 dáricos de oro, 5.000 minas de plata y 100 túnicas para los sacerdotes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:3 hijo de Secanías. De los hijos de Paros, Zacarías, y con él se registraron 150 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:4 De los hijos de Pahat-moab, Elioenai, hijo de Zeraías, y con él 200 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:5 De los hijos de Zatu, Secanías, hijo de Jahaziel, y con él 300 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:6 De los hijos de Adín, Ebed, hijo de Jonatán, y con él 50 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:7 De los hijos de Elam, Jesaías, hijo de Atalía, y con él 70 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:8 De los hijos de Sefatías, Zebadías, hijo de Micael, y con él 80 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	EZR 8:9 De los hijos de Joab, Abdías, hijo de Jehiel, y con él 218 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:10 De los hijos de Bani, Selomit, hijo de Josifías, y con él 160 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	EZR 8:11 De los hijos de Bebai, Zacarías, hijo de Bebai, y con él 28 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:12 De los hijos de Azgad, Johanán, hijo de Hacatán, y con él 110 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:13 De los hijos de Adonicam, los últimos, sus nombres eran Elifelet, Jeuel y Semaías, y con ellos 60 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:14 De los hijos de Bigvai, Utai y Zacur, y con ellos 70 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:20 Además, trajeron a 220 de los sirvientes del Templo, un grupo designado por David y sus funcionarios para ayudar a los levitas. Todos ellos estaban registrados por su nombre.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:26 Pesé y puse en sus manos 650 talentos de plata, artículos de plata del Templo que pesaban 100 talentos, 100 talentos de oro,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZR 8:27 20 cuencos de oro que valían 1.000 dáricos, y dos artículos de bronce muy pulido, tan valiosos como el oro.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NEH 5:17 Tenía a 150 judíos y funcionarios comiendo en mi mesa, así como a visitantes de los países cercanos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:8 Los hijos de Paros, 2.172;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:9 los hijos de Sefatías, 372;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:10 los hijos de Ara, 652;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:11 los hijos de Pahat-moab, (los hijos de Jesúa y Joab), 2.818;	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	NEH 7:12 los hijos de Elam, 1.254;	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	NEH 7:13 los hijos de Zatu, 845;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NEH 7:14 los hijos de Zacai, 760;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:15 los hijos de Binui, 648;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:16 los hijos de Bebai, 628;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:17 los hijos de Azgad, 2.322;	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	NEH 7:18 los hijos de Adonicam, 667;	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	NEH 7:19 los hijos de Bigvai, 2.067.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	NEH 7:20 Los hijos de Adin, 655.	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:21 Los hijos de Ater, (hijos de Ezequías), 98;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:22 los hijos de Hasum, 328;	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	NEH 7:23 los hijos de Bezai, 324;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:24 los hijos de Harif, 112;	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	NEH 7:25 los hijos de Gabaón, 95;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:26 el pueblo de Belén y Netofa, 188;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:27 el pueblo de Anatot, 128;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:28 el pueblo de Bet-azmavet 42;	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	NEH 7:29 el pueblo de Quiriat-jearim, Cafira y Beerot, 743;	WARN
+Spanish---Free-Bible	NUMERALS	Source	1	NEH 7:30 el pueblo de Ramá y Geba, 621;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:31 el pueblo de Micmas, 122;	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	NEH 7:32 el pueblo de Bet-el y Ai, 123;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:33 el pueblo del otro Nebo, 52;	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	NEH 7:34 los hijos del otro Elam, 1.254;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NEH 7:35 los hijos de Harim, 320;	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	NEH 7:36 los hijos de Jericó, 345;	WARN
+Spanish---Free-Bible	NUMERALS	Source	1	NEH 7:37 los hijos de Lod, Hadid y Ono, 721;	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NEH 7:38 los hijos de Senaa, 3.930.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	NEH 7:39 Este es el número de los sacerdotes: los hijos de Jedaías (por la familia de Jesúa), 973;	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:40 los hijos de Imer, 1.052;	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	NEH 7:41 los hijos de Pasur, 1.247;	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	NEH 7:42 los hijos de Harim, 1.017.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	NEH 7:43 Este es el número de los levitas: los hijos de Jesúa por Cadmiel (hijos de Hodavías), 74;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:44 los cantores de los hijos de Asaf, 148;	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 7:45 los porteros de las familias de Salum, Ater, Talmón, Acub, Hatita y Sobai, 138.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:60 El total de los siervos del Templo y de los descendientes de los siervos de Salomón era de 392.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 7:62 Entre ellos estaban las familias de Delaía, Tobías y Necoda, 642 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NEH 7:66 El total de personas que regresaron fue de 42.360.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	NEH 7:67 Además había 7.337 sirvientes y 245 cantores y cantoras.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	NEH 7:68 Tenían 736 caballos, 245 mulas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NEH 7:69 435 camellos y 6.720 burros.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NEH 7:70 Algunos de los jefes de familia hicieron contribuciones voluntarias para el trabajo. El gobernador entregó a la tesorería 1.000 dáricos de oro, 50 cuencos y 530 conjuntos de ropa para los sacerdotes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	NEH 7:71 Algunos de los jefes de familia donaron al tesoro para la obra 20.000 dáricos de oro y 2.200 minas de plata.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	NEH 7:72 El resto del pueblo donó 20.000 dáricos de oro, 2.000 minas de plata y 67 conjuntos de ropa para los sacerdotes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 11:6 El total de los hijos de Fares que vivieron en Jerusalén fue de 468 hombres hábiles.	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 11:8 y después de él Gabbai y Salai, en total 928.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 11:12 y sus compañeros sacerdotes que servían en el Templo, un total de 822; Adaía hijo de Jeroham, hijo de Pelaliah, hijo de Amzi, hijo de Zacarías, hijo de Pasur, hijo de Malquías,	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 11:13 y los que trabajaban con él, jefes de familia, un total de 242; y Amasai, hijo de Azarel, hijo de Ahzai, hijo de Mesilemot, hijo de Imer,	WARN
+Spanish---Free-Bible	NUMERALS	Source	8	NEH 11:14 y los que trabajaban con él, un total de 128 guerreros fuertes. Zabdiel, hijo de Gedolim, estaba a cargo de ellos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	4	NEH 11:18 El número total de sacerdotes en la ciudad santa era de 284.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	NEH 11:19 Los porteros: Acub, Talmón y sus compañeros, que custodiaban las puertas: un total de 172.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	EST 1:1 Este es un relato de lo que sucedió durante la época del rey Jerjes, el Jerjes que gobernaba 127 provincias desde la India hasta Etiopía.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EST 3:9 “Si le place a Su Majestad, emita un decreto para destruirlos, y yo personalmente contribuiré con 10.000 talentos de plata a los que llevan a cabo los negocios del rey para que sean depositados en el tesoro real”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	EST 8:9 Los secretarios del rey fueron convocados y el día veintitrés del tercer mes, el mes de Siván, y escribieron un decreto con todas las órdenes de Mardoqueo a los judíos y a los oficiales principales del rey, los gobernadores y los nobles de las 127 provincias desde la India hasta Etiopía. Escribió a cada provincia en su propia escritura, a cada pueblo en su propia lengua, y a los judíos en su propia escritura y lengua.	WARN
+Spanish---Free-Bible	NUMERALS	Source	7	EST 9:30 También se enviaron cartas expresando paz y tranquilidad a todos los judíos de las 127 provincias del imperio del rey Jerjes.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	JOB 42:12 El Señor bendijo la última parte de la vida de Job más que la primera. Ahora era dueño de 14.000 ovejas, 6.000 camellos, 1.000 yuntas de bueyes y 1.000 asnas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	JOB 42:16 Después de esto, Job vivió 140 años, viendo a sus hijos y a sus nietos. En realidad, cuatro generaciones.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	PSA 43:1 (Los Salmos 42 y 43 eran originalmente uno solo). Dios, ¡Por favor reivindícame! Aboga por mi caso contra una nación infiel; sálvame de esa gente malvada y deshonesta.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	PSA 60:1 Para el director del coro. Según “El lirio del testimonio”. Un salmo (mictam) de David, útil para enseñar, acerca de la vez que peleó con Harán-Naharaim y Harán-Zobah, y cuando Joab regresó y mató a 12.000 Edomitas en el valle de sal. ¡Tú, Dios, nos has rechazado! ¡Nos has quebrantado, te has enojado con nosotros; pero ahora nos recibes nuevamente!	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	PSA 144:9 Dios, a tu cantaré una canción nueva, acompañada de un arpa de 10 cuerdas,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	ISA 37:36 Entonces el ángel del Señor fue al campamento asirio y mató a 185.000 de ellos. Cuando los supervivientes se despertaron por la mañana, estaban rodeados de cadáveres.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	JER 52:28 Este es un registro del número de personas que Nabucodonosor llevó al exilio. En el séptimo año de su reinado se llevó a 3.023 judíos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	JER 52:29 En su decimoctavo año, Nabucodonosor se llevó a otros 832 de Jerusalén.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	JER 52:30 En el año veintitrés del reinado de Nabucodonosor, Nabuzaradán, el comandante de la guardia, se llevó a otros 745 judíos, haciendo un total de 4.600.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 4:5 Te haré permanecer allí durante 390 días, que representan el número de años de sus pecados. Llevarás los pecados de los israelitas.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 4:6 “Una vez que hayas terminado de hacer esto durante estos días, entonces te acostarás de nuevo, pero esta vez sobre tu lado derecho, y llevarás los pecados del pueblo de Judá. Te haré permanecer allí durante 40 días, un día por cada año.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 4:9 “Consigue trigo, cebada, frijoles, lentejas, mijo y espelta, y mézclalos en una vasija. Utilízalos para hacer pan para ti. Esto es lo que debes comer durante los 390 días que permanezcas acostado.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 45:1 Cuando asignes la propiedad de la tierra por sorteo, debes hacer una provisión para el Señor, una asignación sagrada de la tierra que mida 25.000 codos de largo y 20.000 codos de ancho. Toda esta zona es sagrada.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 45:2 Dentro de ella está la sección para el santuario que mide 500 codos cuadrados, con un área abierta alrededor de 50 codos de ancho.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 45:3 A partir de esta zona santa, mide una sección de 25.000 codos por 10.000 codos. Aquí estará el santuario, el Lugar Santísimo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 45:5 La otra sección que mide 25.000 codos por 10.000 codos será asignada a los levitas que trabajan en el Templo, donde podrán vivir.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 45:6 Asigna a la ciudad un área de 5.000 codos de ancho y 25.000 de largo junto a la sección del santuario. Es para todo el pueblo de Israel.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:8 Junto a la asignación de Judá, de este a oeste, está la zona especial para la que debes hacer provisión. Tendrá 25.000 codos de ancho y se extenderá la misma longitud que una asignación tribal de este a oeste. El santuario estará en medio de ella.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:9 El territorio especial que hagas será para el Señor y tendrá 25.000 codos por 10.000 codos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:10 Este será el territorio sagrado para los sacerdotes. Tendrá 25.000 codos de largo en los lados norte y sur, y 11.000 codos de ancho en los lados oeste y este. El santuario estará en medio de él.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:13 Los levitas tendrán un área de 25.000 codos por 10.000 codos adyacente a la asignación de los sacerdotes. Su longitud total será de 25.000 codos, y su anchura de 10.000 codos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:15 El resto, de 5.000 codos por 25.000 codos, es para uso ordinario de la ciudad para casas y pastos. La ciudad estará en medio de ella,	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:16 y estas serán sus medidas 4.500 codos por todos los lados, al norte, al sur, al este y al oeste.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:17 Los pastos de la ciudad la rodearán por 250 codos por todos los lados, al norte, al sur, al este y al oeste.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:18 Lo que queda de la tierra que bordea el territorio sagrado y que corre a su lado será de 10.000 codos por el lado este y por el lado oeste. Las cosechas que produzca servirán de alimento a los que trabajen en la ciudad.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:20 Todoel territorio será un cuadrado de 25.000 codos por 25.000 codos. Debes hacer una provisión para el territorio sagrado, junto con el área para la ciudad.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:21 La tierra que quede a ambos lados del territorio sagrado y del área para la ciudad pertenecerá al príncipe. Esta tierra estará junto a los territorios de las tribus y se extenderá al este desde los 25.000 codos de la sección santa hasta el límite oriental, y al otro lado al oeste desde los 25.000 codos hasta el límite occidental. En medio de ellos estará la sección santa y el santuario del Templo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:30 Estas serán las salidas de la ciudad, comenzando por el lado norte, que tiene una longitud de 4.500 codos.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:32 Habrá tres puertas en el lado este, (también de 4.500 codos de largo): las puertas de José, Benjamín y Dan.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:33 Habrá tres puertas en el lado sur, (también de 4.500 codos de largo): las puertas de Simeón, Isacar y Zabulón.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:34 En el lado oeste habrá tres puertas (también de 4.500 codos): la puerta de Gad, la puerta de Aser y la puerta de Neftalí.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	EZE 48:35 La distancia alrededor del exterior de la ciudad será de 18.000 codos. Desde ese día el nombre de la ciudad será “El Señor está allí”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	MAT 14:25 Cerca de las 3 a.m. Jesús los alcanzó, caminando sobre el mar.	WARN
+Spanish---Free-Bible	NUMERALS	Source	9	MAT 20:3 Cerca de las 9 a.m. salió y vio a otros que estaban sin trabajar en la plaza del mercado.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	MAT 20:5 Entre el medio día y las 3 p.m. salió e hizo lo mismo.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	MAT 20:6 A las 5 p.m. salió y encontró a otros que estaban allí. ‘¿Por qué están por ahí todo el día sin hacer nada?’ les preguntó.	WARN
+Spanish---Free-Bible	NUMERALS	Source	5	MAT 20:9 Cuando entraron los que fueron contratados a las 5 p.m., cada uno recibió un denario.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	JOH 21:11 Simón Pedro subió a la barca y jaló la red llena de peces hacia la orilla. Había 153 peces grandes, y sin embargo la red no se había roto.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	ACT 3:1 Pedro y Juan iban de camino, subiendo hacia el Templo, a la hora de la oración de la tarde, cerca de las 3 p.m.	WARN
+Spanish---Free-Bible	NUMERALS	Source	3	ACT 10:3 Un día, cerca de las 3 p.m. Cornelio tuvo una visión en la que vio claramente a un ángel de Dios que venía hacia él y lo llamaba, diciendo: “¡Cornelio!”	WARN
+Spanish---Free-Bible	NUMERALS	Source	2	ACT 13:33 que ahora ha cumplido en nuestro favor al levantar a Jesús de los muertos. Tal como está escrito en el libro de Salmos 2: ‘Tú eres mi Hijo, y hoy me he convertido en tu Padre’.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	1CO 10:8 No debemos cometer pecados sexuales, como lo hicieron algunos de ellos, y en consecuencia 23:000 murieron en un día.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	REV 9:16 Se me dijo el número de los soldados del ejército a caballo: era 200 millones.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	REV 11:3 “Le daré poder a mis dos testigos, y profetizarán durante 1.260 días, vestidos de silicio”.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	REV 12:6 Entonces la mujer huyó corriendo al desierto, donde Dios había preparado un lugar para ella, donde recibiría cuidado durante 1.260 días.	WARN
+Spanish---Free-Bible	NUMERALS	Source	6	REV 13:18 Aquí se requiere sabiduría. Y todo el que tenga entendimiento debe calcular el número de la bestia, pues es el número de un hombre. Y su número es 666.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	REV 14:1 Luego miré, y vi al Cordero en pie sobre el Monte de Sión. Y con él había 144:000 que tenían en sus frentes su nombre, y el nombre de su Padre.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	REV 14:3 Y cantaban un cántico nuevo frente al trono, así como de las cuatro criaturas vivientes y los ancianos. Y nadie más conocía el cántico, excepto los 144:000, los que habían sido redimidos de la tierra.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	REV 14:20 Y fueron pisoteadas en el lagar, afuera de la ciudad. Y del lagar brotaba sangre que llegaba hasta los frenos de un caballo, y hasta una distancia de 1.600 estadios.	WARN
+Spanish---Free-Bible	NUMERALS	Source	0	REV 21:16 La ciudad era cuadrada. La longitud era la misma que la anchura. Midió la ciudad con una vara, y era de 12:000 estadios. La longitud, la anchura y la altura, eran iguales.	WARN
+Spanish---Free-Bible	NUMERALS	Source	count	507	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Cuando Adán cumplió la edad de 130 años, tuvo un hijo semejante a él, hecho a su imagen, y le puso el nombre de Set.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	800	001-GEN-005-004 Después del nacimiento de Set, Adán vivió 800 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	930	001-GEN-005-005 Y Adán vivió en total 930 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	105	001-GEN-005-006 Cuando Set cumplió la edad de 105 años, tuvo a Enoc.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	807	001-GEN-005-007 Después del nacimiento de Enoc, Set vivió 807 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	912	001-GEN-005-008 Enós vivió en total 912 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Cuando Enóc cumplió la edad de 90 años, tuvo a Cainán.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	815	001-GEN-005-010 Después del Nacimiento de Cainán, Enoc vivió 815 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Enoc vivió en total 905 años y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Cuando Cainán cumplió la edad de 70 años, tuvo a Malalel.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Después del Nacimiento de Malalel, Cainán vivió 840 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Y Cainán vivió en total 910 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Cuando Malalel cumplió la edad de 65 años, tuvo a Jared.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	830	001-GEN-005-016 Y después del Nacimiento de Jared, Malalel vivió 830 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Y Malalel vivió en total 895 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Cuando Jared cumplió la edad de 162 años, tuvo a Enoc.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	800	001-GEN-005-019 Después del Nacimiento de Enoc, Jared vivió 800 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Y Jared vivió en total 962 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Cuando Enoc cumplió 65 años, tuvo a Matusalén.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	001-GEN-005-022 Y Enoc tuvo una relación muy estrecha con Dios. Después del nacimiento de Matusalén, Enoc vivió 300 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Y Enoc vivió en total 365 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Cuando Matusalén cumplió la edad de 187 años, tuvo a Lamec.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	782	001-GEN-005-026 Después del Nacimiento de Lamec, Matusalén vivió 782 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Y Maturalén vivió en total 969 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Cuando Lamec cumplió 182 años, tuvo un hijo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Después del Nacimiento de Noé, Lamec vivió 595 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Y Lamec vivió en total 777 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	500	001-GEN-005-032 Noé vivió 500 años antes de tener a Sem, Cam y Jafet.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	120	001-GEN-006-003 Entonces el Señor dijo: “Mi espíritu de vida no permanecerá con este pueblo para siempre, porque son mortales. Ahora el tiempo de vida será de 120 años”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	001-GEN-006-015 Y así es como deberás construirla: El arca debe medir 300 codos de largo, 50 codos de ancho, y 30 codos de alto.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	600	001-GEN-007-006 Noé tenía 600 años cuando las aguas inundaron la tierra.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	600	001-GEN-007-011 Noé había cumplido 600 años, cuando en el día número diecisiete del segundo mes, todas las aguas que estaban debajo de la tierra estallaron y atravesaron el suelo, y una fuerte lluvia cayó del cielo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	150	001-GEN-007-024 Y la tierra permaneció inundada por 150 días.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	150	001-GEN-008-003 Poco a poco, las aguas comenzaron a retirarse de la tierra. Bajaron tanto que 150 días después del diluvio	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	601	001-GEN-008-013 Noé había cumplido ahora 601 años, y era el primer día del primer mes, cuando las aguas se habían secado por completo. Noé retiró la cubierta del arca y pudo ver que el suelo se estaba secando.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	350	001-GEN-009-028 Y después del diluvio, Noé vivió 350 años más.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	950	001-GEN-009-029 Noé vivió en total 950 años, y entonces murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	001-GEN-011-010 La siguiente es la genealogía de Sem. Cuando Sem tuvo 100 años, nació su hijo Arfaxad. Esto sucedió dos años después del diluvio.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	500	001-GEN-011-011 Después del nacimiento de Arfaxad, Sem vivió 500 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	35	001-GEN-011-012 Cuando Arfaxad tuvo 35 años, nació su hijo Selaj.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	403	001-GEN-011-013 Después del nacimiento de Selaj, Arfaxad vivió 403 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	001-GEN-011-014 Cuando Selaj tuvo 30 años, nació su hijo Éber.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	403	001-GEN-011-015 Después del nacimiento de Éber, Selaj vivió 403 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Cuando Éber tuvo 34 años, nació su hijo Peleg.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	430	001-GEN-011-017 Después del nacimiento de Peleg, Éber vivió 430 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Cuando Peleg tuvo 30 años, nació su hijo Reú.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	209	001-GEN-011-019 Después del nacimiento de Reú, Peleg vivió 209 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Cuando Reú tuvo 32 años, nació su hijo Serug.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	207	001-GEN-011-021 Después del nacimiento de Serug, Reú vivió 207 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	001-GEN-011-022 Cuando Serug tuvo 30 años, nació su hijo Nacor.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	001-GEN-011-023 Después del nacimiento de Nacor, Serug vivió 200 años más y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Cuando Nacor tuvo 29 años, nació su hijo Téraj.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	119	001-GEN-011-025 Después del nacimiento de Téraj, Nacor vivió 119 años más, y tuvo más hijos e hijas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	001-GEN-011-026 Cuando Téraj tuvi 70 años, nacieron sus hijos Abram, Nacor y Harán.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Téraj vivió 205 años y murió en Harán.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	75	001-GEN-012-004 Así que Abram siguió las instrucciones del Señor, y Lot también se fue con él. Abram tenía 75 años cuando se fue de Harán.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Cuando Abram se enteró de que su sobrino había sido capturado, convocó a 318 hombres guerreros que habían nacido en su hogar para que los persiguieran hasta llegar a Dan.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	400	001-GEN-015-013 Entonces el Señor le explicó a Abram: “Puedes estar seguro de que tus descendientes serán extranjeros en otras naciones, donde sufrirán esclavitud y maltratados por 400 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	86	001-GEN-016-016 Cuando Agar tuvo a Ismael, Abram tenían 86 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	99	001-GEN-017-001 Cuando Abram tenía 99 años, el Señor se le apreció y le dijo: “Yo soy el Dios Altísimo. Vive en mi presencia y haz el bien.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	8	001-GEN-017-012 Desde ahora y por todas las generaciones, todo hombre entre ustedes será circuncidado a los 8 días después de nacer. Esto no solo se aplicará a tus hijos sino a todo varón que nazca en tu casa, o que sea comprado de los extranjeros.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	99	001-GEN-017-024 Abraham tenían 99 años cuando fue circuncidado,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	13	001-GEN-017-025 y su hijo Ismael tenía 13 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	001-GEN-018-031 “Debo admitir que he sido osado en hablar de esta manera con mi Señor”, dijo Abraham. “¿Qué sucedería si solo hubiera veinte personas buenas?” “No lo haré por causa de las 20 personas”, respondió el Señor.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	001-GEN-021-005 Y Abraham tenía 100 años cuando nació Isaac.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	127	001-GEN-023-001 Sara vivió hasta los 127 años,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	175	001-GEN-025-007 Abraham vivió hasta la edad de 175 años	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	137	001-GEN-025-017 Ismael vivió hasta la edad de 137 años. Entonces dio un último suspiro, y se unió a sus antepasados en la muerte.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	001-GEN-025-020 Cuando Isaac cumplió los 40 años, se casó con Rebeca, la hija de Betuel el arameo de Padán-Harán y hermana de Labán el arameo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	60	001-GEN-025-026 Luego salió su hermano gemelo, quien salió de la matriz agarrando el talón de Esaú. Por eso lo llamaron Jacob. Isaac tenía 60 años cuando sus dos hijos nacieron.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	001-GEN-026-034 Cuando Esaú cumplió 40 años, se casó con Judit, hija de Beri, el hitita, y también con Basemat, hija de Elón, el hitita.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	400	001-GEN-032-006 Los mensajeros volvieron a Jacob y le dijeron: “¡Su hermano Esaú viene a recibirle con 400 hombres armados!”	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	001-GEN-032-014 200 cabras hembras, 20 cabras machos; 200 ovejas, 20 carneros;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	001-GEN-032-015 30 camellos hembras con sus crías, 40 vacas, 10 toros; 20 burros hembras, 10 burros machos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	001-GEN-033-019 Compró el terreno donde acampaba a los hijos de Hamor, el fundador de Siquem, por 100 monedas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	180	001-GEN-035-028 Isaac vivió hasta la edad de 180 años,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	001-GEN-045-022 Les dio a cada uno de ellos ropa nueva. Pero a Benjamín le dio cinco juegos de ropa y 300 piezas de plata.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	130	001-GEN-047-009 “He estado andando de aquí para allá durante 130 años”, respondió Jacob. “Mi vida ha sido corta y difícil; no he vivido tanto como mis antepasados que también vagaban de un lugar a otro”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	147	001-GEN-047-028 Jacob vivió en Egipto durante diecisiete años, por lo que vivió en total 147 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	001-GEN-050-003 Esto tomó 40 días, el tiempo normal para el proceso, y los egipcios lloraron por él durante 70 días.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	110	001-GEN-050-022 Y José permaneció en Egipto, junto con toda la familia de su padre. Vivió hasta los 110 años,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	110	001-GEN-050-026 José murió cuando tenía 110 años. Después de que su cuerpo fue embalsamado, fue colocado en un ataúd en Egipto.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	002-EXO-001-005 Allí Jacob tuvo 70 descendientes, incluyendo a José, que ya estaba en Egipto.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	137	002-EXO-006-016 Estos fueron los nombres de los hijos de Leví según sus registros genealógicos: Gersón, Coat y Merari. Leví vivió durante 137 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	133	002-EXO-006-018 Los hijos de Coat fueron Amram, Izar, Hebrón y Uziel. Coat vivió durante 133 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	137	002-EXO-006-020 Amram se casó con la hermana de su padre, Jocabed, y ella tuvo sus hijos Aarón y Moisés. Amram vivió durante 137 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	600	002-EXO-012-037 Los israelitas partieron a pie desde Ramsés hacia Sucot y fueron unos 600.000 hombres, así como mujeres y niños.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	430	002-EXO-012-040 Los israelitas habían vivido en Egipto durante 430 años.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	430	002-EXO-012-041 El mismo día en que terminaron los 430 años, todas las tribus del Señor, por sus respectivas divisiones, salieron de Egipto.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	600	002-EXO-014-007 Tomó 600 de sus mejores carros junto con todos los demás carros de Egipto, cada uno con su oficial a cargo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	28	002-EXO-026-002 Cada cortina debe medir 28 codos de largo por 4 codos de ancho, y todas las cortinas deben ser del mismo tamaño.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	002-EXO-026-008 Cada una de las once cortinas debe ser del mismo tamaño: 30 codos de largo por 4 codos de ancho.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	50	002-EXO-027-013 El lado este del patio que da al amanecer tendrá 50 codos de ancho.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	500	002-EXO-030-023 “Toma las especias de mejor calidad: 500 siclos de mirra líquida, 250 siclos de canela de olor dulce, 250 siclos de caña aromática,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	500	002-EXO-030-024 500 siclos de casia, (pesos usando el estándar del siclo del santuario), y un hin de aceite de oliva.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	002-EXO-032-028 Los levitas hicieron lo que Moisés les había dicho, y ese día alrededor de 3.000 hombres fueron asesinados.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	28	002-EXO-036-009 Cada cortina tenía 28 codos de largo por 4 codos de ancho, y todas eran del mismo tamaño.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	002-EXO-036-015 Cada una de las once cortinas era del mismo tamaño, 30 codos de largo por 4 codos de ancho.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	002-EXO-038-018 La cortina de la entrada al patio estaba bordada con hilos azules, púrpura y carmesí, y con lino finamente hilado. Tenía 20 codos de largo por 5 codos de alto, la misma altura que las cortinas del patio.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	29	002-EXO-038-024 La cantidad total de oro de la ofrenda que se utilizó para el trabajo en el santuario fue de 29 talentos y 730 siclos, (usando el estándar de siclos del santuario).	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	002-EXO-038-025 La cantidad total de plata de los que habían sido contados en el censo era de 100 talentos y 1.775 siclos (usando el estándar del siclo del santuario).	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	603	002-EXO-038-026 Esto representa un beka por persona, o medio siclo, (usando el estándar del siclo del santuario) de cada persona de veinte años o más que había sido censada, un total de 603.550 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	002-EXO-038-027 Los cien talentos de plata se usaron para fundir los soportes del santuario y los soportes de las cortinas, 100 bases de los 100 talentos, o un talento por base.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	002-EXO-038-028 Bezalel usó los 1.775 siclos de plata para hacer los ganchos de los postes, cubrir sus tapas y hacer bandas para ellos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	002-EXO-038-029 La cantidad total de bronce de la ofrenda fue de 70 talentos y 2.400 siclos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	50	003-LEV-025-011 El 50º año será un jubileo para ti. No siembren la tierra, no cosechen lo que haya podido crecer en sus campos, ni recojan las uvas de sus viñedos que no hayan cuidado.	ERROR
+Spanish---Free-Bible	NUMERALS	Aionian	46	004-NUM-001-021 n la tribu de Rubén sumaron 46.500.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	59	004-NUM-001-023 de la tribu de Simeón, sumaron 59.300.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	45	004-NUM-001-025 de la tribu de Gad, sumaron 45.650.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	74	004-NUM-001-027 de la tribu de Judá, sumaron 74.600.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	54	004-NUM-001-029 de la tribu de Isacar, sumaron 54.400.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	57	004-NUM-001-031 de la tribu de Zabulón, sumaron 57.400.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	004-NUM-001-033 de la tribu de Efraín, sumaron 40.500.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	32	004-NUM-001-035 de la tribu de Manasés, sumaron 32.200.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	35	004-NUM-001-037 de la tribu de Benjamín, totalizaban 35.400.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	62	004-NUM-001-039 de la tribu de Dan, sumaron 62.700.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	41	004-NUM-001-041 de la tribu de Aser, sumaron 41.500.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	53	004-NUM-001-043 de la tribu de Neftalí, sumaron 53.400.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	603	004-NUM-001-046 La suma total de los registrados fue de 603.550.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	74	004-NUM-002-004 tiene 74.600 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	54	004-NUM-002-006 y tiene 54.400 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	57	004-NUM-002-008 y tiene 57.400 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	186	004-NUM-002-009 Así que el total de hombres en el territorio de Judá e de 186.400. Y cuando llegue la hora de marcharse, ellos irán a la cabeza.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	46	004-NUM-002-011 cuenta con 46.500 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	59	004-NUM-002-013 y cuenta con 59.300 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	45	004-NUM-002-015 y cuenta con 45.650 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	151	004-NUM-002-016 Así que el número total de hombres en el área del campamento de Rubén es de 151.450. Ellos marcharán en segundo lugar.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	004-NUM-002-019 y cuenta con 40.500 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	32	004-NUM-002-021 y cuenta con 32.200 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	35	004-NUM-002-023 y cuenta con 35.400 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	108	004-NUM-002-024 Así que el número total de hombres en el área del campamento de Efraín es de 108.100. Ellos marcharán en tercer lugar.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	62	004-NUM-002-026 y cuenta con 62.700 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	41	004-NUM-002-028 y cuenta con 41.500 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	53	004-NUM-002-030 y cuenta con 53.400 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	157	004-NUM-002-031 Así que el total de hombres en el área del campamento de Dan es de 157.600. Ellos marcharán en último lugar, con sus banderas”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	603	004-NUM-002-032 Este es un resumen del censo de los israelitas, hecho por familia. El total final de los contados en los campamentos por tribus fue de 603.550.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	7	004-NUM-003-022 El total de todos los varones de un mes o más era de 7.500.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	8	004-NUM-003-028 El total de todos los varones de un mes o más era de 8.600. Su responsabilidad asignada era cuidar del santuario.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	6	004-NUM-003-034 El total de todos los varones de un mes o más era de 6.200.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	004-NUM-003-039 La suma total de levitas registrados por Moisés y Aarón como el Señor ordenó fue de 22.000. Esto incluía a todos los varones de un mes o mayores.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	004-NUM-003-043 La suma total de los primogénitos varones de un mes o más, registrados por nombre, fue de 22.273.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	273	004-NUM-003-046 Para poder comprar los 273 primogénitos de Israel que son más que el número de levitas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	004-NUM-003-050 Recolectó el dinero dado en nombre de los primogénitos de los israelitas. Llegó a recolectar 1.365 siclos, (usando el estándar del siclo del santuario).	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	004-NUM-004-036 El total por familias fue de 2.750.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	004-NUM-004-040 El total por familias y linaje paterno fue de 2.630.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	004-NUM-004-044 El total por familias fue de 3.200.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	8	004-NUM-004-048 La suma total fue de 8.580.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	600	004-NUM-011-021 Pero Moisés respondió: “Estoy aquí con 600.000 personas y me dices: ‘Les voy a dar carne y la comerán durante un mes’?	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	250	004-NUM-016-002 Istos se rebelaron contra Moisés, y se les unieron 250 respetados líderes israelitas y miembros de la asamblea.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	250	004-NUM-016-017 Cada uno tomará su quemador de incienso, lo pondrá en él y lo ofrecerá ante el Señor. Los 250 usarán sus quemadores de incienso y Aarón también”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	250	004-NUM-016-035 Entonces fuego salió del Señor y quemó a los 250 hombres que ofrecían incienso.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	14	004-NUM-016-049 Sin embargo, 14.700 personas murieron por la plaga además de los que murieron por culpa de Coré.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	004-NUM-025-009 pero ya habían muerto 24.000.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	43	004-NUM-026-007 Estas fueron las familias descendientes de Rubén y fueron 43.730.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	250	004-NUM-026-010 La tierra se abrió y se los tragó, junto con Coré. Sus seguidores murieron cuando el fuego quemó a 250 hombres. Lo que les sucedió fue una advertencia para los israelitas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	004-NUM-026-014 Estas eran las familias descendientes de Simeón y eran 22.200.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	004-NUM-026-018 Estas eran las familias descendientes de Gad y eran 40.500.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	76	004-NUM-026-022 Estas eran las familias descendientes de Judá y sumaban 76.500.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	64	004-NUM-026-025 Estas eran las familias descendientes de Isacar y sumaban 64.300.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	60	004-NUM-026-027 Estas eran las familias descendientes de Zabulón, y eran 60.500.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	52	004-NUM-026-034 Estas eran las familias que descendían de Manasés, y eran 52.700.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	32	004-NUM-026-037 Estas eran las familias descendientes de Efraín, y sumaban 32.500. Estas familias eran descendientes de José.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	45	004-NUM-026-041 Estas fueron las familias descendientes de Benjamín, y sumaban 45.600.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	64	004-NUM-026-043 Todas eran familias suhamitas, y eran 64.400.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	53	004-NUM-026-047 Estas eran las familias descendientes de Aser, y sumaban 53.400.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	45	004-NUM-026-050 Estas eran las familias descendientes de Neftalí, y sumaban 45.400.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	601	004-NUM-026-051 El total de todos los contados fue de 601.730.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	23	004-NUM-026-062 El número de los levitas censados ascendía a 23.000. Esto incluía a todos los varones de un mes o más. Sin embargo, no fueron contados con los otros israelitas, porque no se les dio ninguna asignación de tierras con los otros israelitas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	675	004-NUM-031-032 Esta era la lista de los botines que quedaban y que habían sido saqueados por las tropas: 675.000 ovejas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	72	004-NUM-031-033 72.000 vacas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	61	004-NUM-031-034 61.000 burros,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	32	004-NUM-031-035 y 32.000 vírgenes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	337	004-NUM-031-036 Esta era la mitad de los que habían ido a luchar: 337.500 ovejas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	675	004-NUM-031-037 con una contribución para el Señor de 675	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	36	004-NUM-031-038 36.000 bovinos, con una contribución para el Señor de 72,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	004-NUM-031-039 30.500 burros, con una contribución para el Señor de 61,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	16	004-NUM-031-040 y 16.000 personas, con una contribución para el Señor de 32.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	337	004-NUM-031-043 consistió en: 337.500 ovejas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	36	004-NUM-031-044 36.000 vacas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	004-NUM-031-045 30.500 burros,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	16	004-NUM-031-046 y 16.000 personas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	16	004-NUM-031-052 El oro que los comandantes de miles y cientos de personas dieron como ofrenda al Señor pesaba en total 16.750 siclos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	123	004-NUM-033-039 Aarón tenía 123 años cuando murió en el Monte Hor.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	120	005-DEU-034-007 Moisés tenía 120 años cuando murió, pero aún veía claramente y era fuerte.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	006-JOS-003-004 Así sabrán qué camino tomar, ya que no han estado aquí antes. Mantengan una distancia de 3.000 pies entre ustedes y el Arca. ¡No se acerquen!”	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	006-JOS-004-013 Fueronunos 40.000 hombres, armados y listos para la batalla, los que cruzaron en presencia del Señor a las llanuras de Jericó.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	14	006-JOS-005-010 Los israelitas acamparon en Gilgal y celebraron allí la Pascua en la tarde del día 14 del primer mes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	31	006-JOS-012-024 El rey de Tirsa. El total de todos los reyes es de 31.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	10	007-JDG-003-029 Luego atacaron a los moabitas y mataron a unos 10.000 de sus mejores y más fuertes combatientes. Ni uno solo escapó.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	007-JDG-008-026 El peso de los pendientes que recibió Gedeón era de 1.700 siclos, sin incluir los adornos, sino los colgantes y las prendas de color púrpura que llevaban los reyes madianitas ni las cadenas que llevaban al cuello de sus camellos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	42	007-JDG-012-006 le decían: “Di Shibboleth”. Y los que eran de Efraín, dirían“Sibboleth” porque ellos no podían pronunciarlo bien, y así los agarrarían y los matarían allí en los vados del Jordán. Un total de 42.000 fueron asesinados en esa ocasión.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	4	009-1SA-004-002 Los filisteos atacaron a los israelitas en formación, y cuando la batalla se extendió, los filisteos derrotaron a los israelitas, matando a 4.000 de ellos en el campo de batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	009-1SA-011-008 Cuando Saúl los contó en Bezek, había 300.000 hombres de Israel y 30.000 de Judá.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	009-1SA-015-004 Saúl convocó a su ejército en Telem. Había 200.000 infantes israelitas y 10.000 hombres de Judá.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	010-2SA-008-004 David capturó 1.000 de sus carros, 7.000 jinetes y 20.000 soldados de a pie. Ató por las patas a todos los caballos que llevaban carros, pero dejó suficientes caballos para 100 carros de guerra.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	700	010-2SA-010-018 Pero el ejército arameo huyó de los israelitas, y David mató a 700 aurigas y a 40.000 soldados de infantería. También atacó a Sobac, el comandante de su ejército, y allí murió.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	010-2SA-023-018 Abisai, hermano de Joab, era el líder del segundo Tres. Usando su lanza, una vez mató a 300 hombres, y se hizo famoso entre los Tres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	800	010-2SA-024-009 Joab informó al rey del número de personas que habían sido contadas. En Israel había 800.000 hombres combatientes que podían usar la espada, y en Judá había 500.000.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	011-1KI-004-026 Salomón tenía 40.000 establos para los caballos de sus carros y 12.000 auriculares.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	011-1KI-005-011 Salomón le dio a Hiram 20.000 coros de trigo para la comida y 20.000 coros de aceite de oliva para su casa. Salomón le proporcionaba esto a Hiram cada año.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	011-1KI-005-013 El rey Salomón reclutó una fuerza de trabajo de 30.000 personas de todo Israel.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	10	011-1KI-005-014 Los enviaba en turnos de 10.000 cada mes al Líbano, de modo que estaban un mes en el Líbano y dos meses en casa, mientras Adoniram estaba a cargo de todo el personal que trabajaba en la obra.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	011-1KI-005-015 Salomón tenía 70.000 hombres para transportar piedras, y 80.000 canteros en la región montañosa,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	011-1KI-005-016 así como 3.300 capataces a quienes puso a cargo de los trabajadores.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	011-1KI-008-063 Salomón presentó como ofrendas de paz al Señor 22.000 bueyes y 120.000 ovejas. De este modo, el rey y todo el pueblo de Israel dedicaron el Templo del Señor.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	120	011-1KI-009-014 Aun así, Hiram le envió al rey 120 talentos de oro como pago.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	550	011-1KI-009-023 También eran los principales oficiales a cargo de los programas de Salomón: 550 al mando de la gente que realizaba las obras.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	420	011-1KI-009-028 Navegaron hasta Ofir y trajeron de allí 420 talentos de oro y se los entregaron a Salomón.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	666	011-1KI-010-014 El peso del oro que Salomón recibía cada año era de 666 talentos,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	011-1KI-010-026 Salomón acumuló 1.400 carros y 12.000 jinetes. Los tenía en las ciudades de los carros, y también con él en Jerusalén.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	180	011-1KI-012-021 Cuando Roboam llegó a Jerusalén, reunió a los hombres de las familias de Judá y Benjamín – 180.000 guerreros elegidos – parair a luchar contra Israel y devolver el reino a Roboam, hijo de Salomón.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	232	011-1KI-020-015 Así que Acab convocó a los 232 oficiales jóvenes de los comandantes de distrito y reunió a los 7.000 soldados que formaban el ejército de Israel.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	011-1KI-020-029 Los ejércitos acamparon uno frente al otro durante siete días. Al séptimo día tuvo lugar la batalla. Los israelitas mataron a 100.000 de la infantería aramea en un solo día.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	27	011-1KI-020-030 El resto huyó a la ciudad de Afec, donde un muro se derrumbó sobre 27.000 de los que quedaron. Ben Adad también corrió a la ciudad y se escondió en una habitación interior.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	185	012-2KI-019-035 Aquella noche el ángel del Señor fue al campamento asirio y mató a 185.000 personas. Cuando los supervivientes se despertaron por la mañana, estaban rodeados de cadáveres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	44	013-1CH-005-018 La tribu de Rubén, la tribu de Gad y la media tribu de Manasés tenían 44.760 guerreros fuertes y listos para la batalla, capaces de usar escudos, espadas y arcos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	013-1CH-007-002 Los hijos de Tola: Uzi, Refaías, Jeriel, Jahmai, Ibsam y Samuel, quienes eran jefes de sus familias. En la época de David, los descendientes de Tola enumeraban en su genealogía un total de 22.600 guerreros.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	36	013-1CH-007-004 Tenían muchas esposas e hijos, por lo que en su genealogía figuran 36.000 hombres de combate listos para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	87	013-1CH-007-005 Los parientes guerreros de todas las familias de Isacar, según su genealogía, eran 87.000 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	013-1CH-007-007 Los hijos de Bela: Ezbón, Uzi, Uziel, Jerimot e Iri, quienes eran jefes de sus familias, y eran un total de cinco. Tenían 22.034 combatientes según su genealogía.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	013-1CH-007-009 Su genealogía incluía a los jefes de familia y a 20.200 combatientes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	17	013-1CH-007-011 Todos estos hijos de Jediael eran jefes de sus familias. Tenían 17.200 guerreros listos para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	26	013-1CH-007-040 Todos ellos eran descendientes de los jefes de familia de Aser, hombres selectos, fuertes guerreros y grandes líderes. Según su genealogía, tenían 26.000 guerreros listos para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	150	013-1CH-008-040 Los hijos de Ulam eran fuertes guerreros y hábiles arqueros. Tuvieron muchos hijos y nietos, un total de 150. Todos ellos fueron los hijos de Benjamín.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	690	013-1CH-009-006 De los zeraítas: Jeuel y sus parientes, con un total de 690.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	956	013-1CH-009-009 Todos ellos eran jefes de familia, según consta en sus genealogías, y en total sumaban 956.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	013-1CH-009-013 Los sacerdotes, que eran jefes de familia, sumaban 1.760. Eran hombres fuertes y capaces que servían en la casa de Dios.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	212	013-1CH-009-022 En total hubo 212 elegidos para ser porteros en las entradas. Registraron sus genealogías en sus ciudades de origen. David y el profeta Samuel habían seleccionado a sus antepasados por su fidelidad.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	013-1CH-011-011 Esta es la lista de los principales guerreros que apoyaron a David: Jasobeam, hijo de Hacmoni, líder de los Tres. Con su lanza, una vez mató a 300 hombres en una sola batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	013-1CH-011-020 Abisai, hermano de Joab, era el líder de los segundos Tres. Usando su lanza, una vez mató a 300 hombres, y se hizo famoso entre los Tres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	013-1CH-012-014 Estos guerreros de Gad eran oficiales del ejército. El menos hábil de ellos estaba a cargo de 100 hombres; y el mejor estaba a cargo de 1.000.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	6	013-1CH-012-024 De la tribu de Judá, 6.800 guerreros con escudos y lanzas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	7	013-1CH-012-025 De la tribu de Simeón, 7.100 guerreros fuertes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	4	013-1CH-012-026 De la tribu de Leví, 4.600,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	013-1CH-012-027 incluyendo a Joiada, jefe de la familia de Aarón, y con él 3.700,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	013-1CH-012-028 y Sadoc, un joven guerrero fuerte, con 22 miembros de su familia, todos oficiales.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	013-1CH-012-029 De la tribu de Benjamín, de entre los parientes de Saúl, 3.000, la mayoría de los cuales habían permanecido leales a Saúl hasta ese momento.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	013-1CH-012-030 De la tribu de Efraín, 20.800 guerreros fuertes, cada uno de ellos muy apreciado en su propio clan.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	18	013-1CH-012-031 De la media tribu de Manasés, 18.000 hombres designados por su nombre para venir a hacer rey a David.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	013-1CH-012-032 De la tribu de Isacar vinieron líderes que conocían y podían entender los signos de los tiempos y lo que Israel debía hacer: un total de 200 líderes de la tribu junto con sus parientes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	50	013-1CH-012-033 De la tribu de Zabulón, 50.000 guerreros. Estaban completamente armados y listos para la batalla, y totalmente dedicados.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	013-1CH-012-034 De la tribu de Neftalí, 1.000 oficiales y 37.000 guerreros con escudos y lanzas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	28	013-1CH-012-035 De la tribu de Dan, 28.600 guerreros, todos preparados para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	013-1CH-012-036 De la tribu de Aser, 40.000 guerreros experimentados, todos listos para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	120	013-1CH-012-037 De la parte oriental del río Jordán, de las tribus de Rubén, Gad y la media tribu de Manasés, 120.000 guerreros con todo tipo de armas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	120	013-1CH-015-005 De los hijos de Coat, Uriel (el jefe de familia), y 120 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	220	013-1CH-015-006 de los hijos de Merari, Asaías (el jefe de familia), con 220 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	130	013-1CH-015-007 de los hijos de Gersón, Joel (el jefe de familia), con 130 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	013-1CH-015-008 de los hijos de Elizafán, Semaías (el jefe de familia), con 200 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	80	013-1CH-015-009 de los hijos de Hebrón, Eliel (el jefe de familia), con 80 de sus parientes;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	112	013-1CH-015-010 de los hijos de Uziel, Aminadab (el jefe de familia), con 112 de sus parientes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	013-1CH-018-004 David le capturó 1.000 carros, 7.000 auriculares y 20.000 soldados de a pie. David ató a todos los caballos de los carros, pero guardó lo suficiente para 100 carros.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	013-1CH-018-005 Cuando los arameos de Damasco vinieron a ayudar a Hadad-Ezer, rey de Soba, David mató a 22.000 de ellos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	18	013-1CH-018-012 Abisai, hijo de Sarvia, mató a 18.000 edomitas en el Valle de la Sal.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	32	013-1CH-019-007 También contrataron 32.000 carros y al rey de Maaca con su ejército. Vinieron a acampar cerca de Medeba. Los amonitas también fueron llamados desde sus ciudades y se prepararon para la batalla.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	7	013-1CH-019-018 Pero el ejército arameo huyó de los israelitas, y David mató a 7.000 aurigas y 40.000 soldados de infantería, así como a Sobac, su comandante.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	013-1CH-021-005 y le dio a David el número de personas censadas. En Israel había 1.100.000 hombres combatientes que podían manejar una espada, y 470.000 en Judá.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	013-1CH-021-014 Entonces el Señor lanzó una plaga sobre Israel, y murieron 70.000 israelitas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	013-1CH-022-014 “Mira, me he tomado muchas molestias para proveer la casa del Señor: 100.000 talentos de oro, 1.000.000 de talentos de plata, y bronce y hierro, más de lo que se puede pesar.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	38	013-1CH-023-003 Se contaron los levitas mayores de treinta años, y fueron 38.000 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-023-004 “De ellos, 24.000 estarán a cargo de las obras de la casa del Señor, mientras que 6.000 serán oficiales y jueces”, instruyó David.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	4	013-1CH-023-005 “Y 4.000 serán porteros, mientras que 4.000 alabarán al Señor usando los instrumentos musicales que he proporcionado para la alabanza”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	288	013-1CH-025-007 Junto con sus parientes, todos ellos entrenados y hábiles en el canto al Señor, sumaban 288.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-009 La primera suerte, que era para Asaf, recayó en José, sus hijos y su hermano, 12 en total. La segunda recayó en Gedalías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-010 La tercera cayó en manos de Zacur, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-011 La cuarta cayó en manos de Izri, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-012 La quinta cayó en manos de Netanías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-013 La sexta cayó en manos de Buquías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-014 La séptima cayó en manos de Jesarela, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-015 La octava cayó en manos de Jesaías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-016 La novena cayó en manos de Matanías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-017 La décima cayó en manos de Simei, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-018 La undécima cayó en manos de Azarel, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-019 La duodécima cayó en manos de Hasabías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-020 La decimotercera cayó en manos de Subael, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-021 El decimocuarto cayó en manos de Matatías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-022 La decimoquinta cayó en manos de Jerimot, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-023 La decimosexta cayó en manos de Hananías, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-024 La decimoséptima cayó en manos de Josbecasa, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-025 La decimoctava cayó en manos de Hanani sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-026 La decimonovena cayó en manos de Maloti, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-027 La vigésima cayó en manos de Eliata, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-028 El vigésimo primero cayó en manos de Hotir, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-029 El vigésimo segundo cayó en manos de Gidalti, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-030 El vigésimo tercero cayó en manos de Mahaziot, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	013-1CH-025-031 El vigésimo cuarto cayó en manos de Romanti-Ezer, sus hijos y sus hermanos, 12 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	013-1CH-026-030 De los hebronitas: Hasabías y sus parientes, 1.700 hombres capaces, fueron puestos a cargo del Israel al oeste del Jordán, responsables de todo lo relacionado con la obra del Señor y el servicio del rey.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	013-1CH-026-032 Entre los parientes de Jericó había 2.700 hombres capaces que eran líderes familiares. El rey David los puso a cargo de las tribus de Rubén y Gad y de la media tribu de Manasés. Eran responsables de todo lo relacionado con la obra del Señor y el servicio del rey.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-001 Esta es una lista de los israelitas, de los jefes de familia, de los comandantes de millares y de los comandantes de centenas, y de sus oficiales que servían al rey en todo lo relacionado con las divisiones que estaban de servicio cada mes durante el año. Había 24.000 hombres en cada división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-002 Al mando de la primera división para el primer mes, estaba Jashobeam, hijo de Zabdiel. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-004 Al mando de la división para el segundo mes estaba Dodai el ahohita. Miclot era su jefe de división. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-005 El tercer comandante del ejército para el tercer mes era Benaía, hijo del sacerdote Joiada. Era el jefe y había 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-007 El cuarto, para el cuarto mes, era Asael, hermano de Joab. Su hijo Zebadías fue su sucesor. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-008 El quinto, para el quinto mes, era el comandante del ejército Shamhuth el Izrahita. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-009 El sexto, para el sexto mes, era Ira, hijo de Iqués de Tecoa. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-010 El séptimo, para el séptimo mes, era Heles el pelonita de la tribu de Efraín. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-011 El octavo, para el octavo mes, era Sibecai de Husa, de la tribu de Zera. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-012 El noveno, para el noveno mes, era Abiezer, de Anatot, de la tribu de Benjamín. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-013 El décimo, para el décimo mes, era Maharai de Netofa, de la tribu de Zera. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-014 El undécimo, para el undécimo mes, era Benaía, de Piratón, de la tribu de Efraín. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	24	013-1CH-027-015 El duodécimo, para el duodécimo mes, era Heldai de Netofa, de la familia de Otoniel. Tenía 24.000 hombres en su división.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	013-1CH-029-004 3.000 talentos de oro -el oro de Ofir- y 7.000 talentos de plata refinada irán a cubrir las paredes de los edificios,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	5	013-1CH-029-007 Dieron para el servicio de la casa de Dios 5.000 talentos y 10.000 dáricos de oro, 10.000 talentos de plata, 18.000 talentos de bronce y 100.000 talentos de hierro.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	014-2CH-001-014 Salomón construyó un ejército de carros y caballos. Tenía 1.400 carros y 12.000 caballos, que colocó en las ciudades de los carros, y también con él en Jerusalén.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	014-2CH-002-002 Asignó 70.000 hombres como obreros, 80.000 como cortadores de piedra en las montañas y 3.600 como capataces.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	014-2CH-002-010 Pagaré a tus trabajadores, los cortadores de madera, 20.000 cors de trigo triturado, 20.000 cors de cebada, 20.000 baños de vino y 20.000 baños de aceite de oliva”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	153	014-2CH-002-017 Salomón mandó hacer un censo de todos los extranjeros en la tierra de Israel, como el censo que había hecho su padre David, y encontró que había 153.600.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	014-2CH-002-018 Asignó 70.000 como obreros, 80.000 como canteros en las montañas y 3.600 como capataces.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	22	014-2CH-007-005 El rey Salomón ofreció un sacrificio de 22.000 reses y 120.000 ovejas. De este modo, el rey y todo el pueblo dedicaron el Templo de Dios.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	250	014-2CH-008-010 También eran los principales oficiales del rey Salomón, 250 hombres que supervisaban al pueblo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	450	014-2CH-008-018 Hiram le envió barcos al mando de sus propios oficiales, junto con marineros experimentados. Fueron con los hombres de Salomón a Ofir, donde cargaron 450 talentos de oro, que luego llevaron al rey Salomón.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	666	014-2CH-009-013 El peso del oro que Salomón recibía cada año era de 666 talentos,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	180	014-2CH-011-001 Cuando Roboam llegó a Jerusalén, reunió a los hombres de las familias de Judá y Benjamín - 180.000 guerreros elegidos - para ir a luchar contra Israel y devolver el reino a Roboam.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	014-2CH-012-003 Vino de Egipto con 1.200 carros, 60.000 jinetes y un ejército que no se podía contar Egipto: libios, siquenos y cusitas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	400	014-2CH-013-003 Abías salió a luchar con un ejército de 400.000 valientes guerreros, mientras que Jeroboam se le opuso con su ejército de 800.000 guerreros elegidos de gran fuerza.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	500	014-2CH-013-017 Abías y sus hombres los golpearon duramente, y 500.000 de los mejores guerreros de Israel murieron.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	7	014-2CH-017-011 Algunos de los filisteos incluso le trajeron regalos y plata, mientras que los árabes le trajeron 7.700 carneros y 7.700 cabras.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	014-2CH-017-014 Este es un recuento de ellos, según sus líneas familiares: de Judá, los comandantes de miles: Adná, el comandante, y 300.000 guerreros poderosos con él;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	280	014-2CH-017-015 luego Johanán, el comandante, y 280.000 con él;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	014-2CH-017-016 luego Amasías, hijo de Zicrí, que se ofreció como voluntario para servir al Señor, y 200.000 guerreros poderosos con él;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	014-2CH-017-017 de Benjamín, Eliada, poderoso guerrero, y 200.000 con él, armados con arcos y escudos;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	180	014-2CH-017-018 luego Jozabad, y 180.000 con él, listos para la batalla;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	130	014-2CH-024-015 Joiada envejeció y murió a la edad de 130 años, habiendo vivido una vida plena.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	014-2CH-025-005 Entonces Amasías convocó al pueblo de Judá para el servicio militar, y los asignó por familias a comandantes de millares y de centenas. También hizo un censo de los mayores de veinte años en todo Judá y Benjamín, y descubrió que había 300.000 hombres de combate de primera categoría que sabían usar la lanza y el escudo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	100	014-2CH-025-006 También contrató a 100.000 combatientes de Israel listos para la batalla por cien talentos de plata.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	400	014-2CH-025-023 Joás, rey de Israel, capturó a Amasías, rey de Judá, hijo de Joás, hijo de Ocozías, en Bet Semes. Lo llevó a Jerusalén y derribó la muralla de Jerusalén a lo largo de 400 codos, desde la Puerta de Efraín hasta la Puerta de la Esquina.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	014-2CH-026-012 El número total de jefes de familia era de 2.600 combatientes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	307	014-2CH-026-013 Bajo su mando había un ejército de 307.500 entrenados para la batalla, que tenían el poder de ayudar al rey a luchar contra el enemigo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	120	014-2CH-028-006 En un solo día, Peka, hijo de Remalías, mató a 120.000 combatientes en Judá, porque habían abandonado al Señor, el Dios de sus padres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	014-2CH-028-008 Los israelitas capturaron a 200.000 de sus “hermanos”—mujeres, hijos e hijas. También tomaron una gran cantidad de botín y lo llevaron a Samaria.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	014-2CH-035-007 Josías aportó como ofrendas pascuales para todo el pueblo presente 30.000 corderos y cabras, y 3.000 toros, todos de sus propios rebaños y manadas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	014-2CH-035-008 Sus funcionarios contribuyeron libremente con el pueblo, los sacerdotes y los levitas. Hilcías, Zacarías y Jehiel, que estaban a cargo del Templo de Dios, dieron a los sacerdotes como ofrendas de Pascua 2.600 corderos de Pascua y 300 toros.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	5	014-2CH-035-009 Los jefes de los levitas, Conanías, Semaías y Netanel, sus hermanos, y Hasabías, Jeiel y Jozabad, dieron a los levitas como ofrendas de Pascua 5.000 corderos y cabritos y 500 toros.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	015-EZR-001-009 Esta era la lista: 30 cuencas de oro, 1.000 cuencas de plata, 29 cubiertos de plata,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	30	015-EZR-001-010 30 cuencos de oro, 410 cuencos de plata a juego y otros 1.000 artículos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	5	015-EZR-001-011 En total había 5.400 objetos de oro y plata. Cuando los exiliados salieron de Babilonia para ir a Jerusalén Sesbasar se llevó todo esto con ellos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	015-EZR-002-003 los hijos de Paros, 2.172;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	372	015-EZR-002-004 los hijos de Sefatías, 372;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	775	015-EZR-002-005 los hijos de Ara, 775;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	015-EZR-002-006 los hijos de Pahat-moab (hijos de Jesúa y Joab), 2.812;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	015-EZR-002-007 los hijos de Elam, 1.254;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	945	015-EZR-002-008 los hijos de Zatu, 945;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	760	015-EZR-002-009 los hijos de Zacai, 760;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	642	015-EZR-002-010 los hijos de Bani, 642;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	623	015-EZR-002-011 los hijos de Bebai, 623	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	015-EZR-002-012 los hijos de Azgad, 1.222;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	666	015-EZR-002-013 los hijos de Adonicam, 666;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	015-EZR-002-014 los hijos de Bigvai, 2.056;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	454	015-EZR-002-015 los hijos de Adin, 454;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	98	015-EZR-002-016 los hijos de Ater, (hijos de Ezequías), 98;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	323	015-EZR-002-017 los hijos de Bezai, 323;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	112	015-EZR-002-018 los hijos de Jora, 112;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	223	015-EZR-002-019 los hijos de Hasum, 223;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	95	015-EZR-002-020 los hijos de Gibar, 95;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	123	015-EZR-002-021 el pueblo de Belén, 123;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	56	015-EZR-002-022 el pueblo de Netofa, 56;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	128	015-EZR-002-023 el pueblo de Anatot, 128;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	42	015-EZR-002-024 el pueblo de Bet-azmavet, 42;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	743	015-EZR-002-025 el pueblo de Quiriat-jearim, Cafira y Beerot, 743;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	621	015-EZR-002-026 el pueblo de Ramá y Geba, 621;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	122	015-EZR-002-027 el pueblo de Micmas, 122	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	223	015-EZR-002-028 el pueblo de Betel y de Hai, 223;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	52	015-EZR-002-029 los hijos de Nebo, 52;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	156	015-EZR-002-030 los hijos de Magbis, 156;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	015-EZR-002-031 los hijos de Elam, 1.254;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	320	015-EZR-002-032 los hijos de Harim, 320;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	725	015-EZR-002-033 los hijos de Lod, Hadid y Ono, 725;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	345	015-EZR-002-034 los hijos de Jericó, 345;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	015-EZR-002-035 los hijos de Senaa, 3.630.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	973	015-EZR-002-036 Este es el número de los sacerdotes: los hijos de Jedaías (por la familia de Jesúa), 973;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	015-EZR-002-037 los hijos de Imer, 1.052;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	015-EZR-002-038 los hijos de Pasur, 1.247;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	015-EZR-002-039 los hijos de Harim, 1.017.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	74	015-EZR-002-040 Este es el número de los levitas: los hijos de Jesúa y Cadmiel (hijos de Hodavías), 74;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	128	015-EZR-002-041 los cantores de los hijos de Asaf, 128;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	139	015-EZR-002-042 los porteros de las familias de Salum, Ater, Talmón, Acub, Hatita y Sobai, 139.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	392	015-EZR-002-058 El total de los siervos del Templo y de los descendientes de los siervos de Salomón era de 392.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	652	015-EZR-002-060 Entre ellos estaban las familias de Delaía, Tobías y Necoda, 652 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	42	015-EZR-002-064 El total de personas que regresaron fue de 42.360.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	7	015-EZR-002-065 Además había 7.337 sirvientes y 200 cantores y cantoras.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	736	015-EZR-002-066 Tenían 736 caballos, 245 mulas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	435	015-EZR-002-067 435 camellos y 6.720 asnos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	61	015-EZR-002-069 Dieron según lo que tenían, poniendo su donativo en el tesoro. El total ascendió a 61.000 dáricos de oro, 5.000 minas de plata y 100 túnicas para los sacerdotes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	150	015-EZR-008-003 hijo de Secanías. De los hijos de Paros, Zacarías, y con él se registraron 150 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	015-EZR-008-004 De los hijos de Pahat-moab, Elioenai, hijo de Zeraías, y con él 200 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	300	015-EZR-008-005 De los hijos de Zatu, Secanías, hijo de Jahaziel, y con él 300 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	50	015-EZR-008-006 De los hijos de Adín, Ebed, hijo de Jonatán, y con él 50 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	015-EZR-008-007 De los hijos de Elam, Jesaías, hijo de Atalía, y con él 70 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	80	015-EZR-008-008 De los hijos de Sefatías, Zebadías, hijo de Micael, y con él 80 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	218	015-EZR-008-009 De los hijos de Joab, Abdías, hijo de Jehiel, y con él 218 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	160	015-EZR-008-010 De los hijos de Bani, Selomit, hijo de Josifías, y con él 160 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	28	015-EZR-008-011 De los hijos de Bebai, Zacarías, hijo de Bebai, y con él 28 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	110	015-EZR-008-012 De los hijos de Azgad, Johanán, hijo de Hacatán, y con él 110 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	60	015-EZR-008-013 De los hijos de Adonicam, los últimos, sus nombres eran Elifelet, Jeuel y Semaías, y con ellos 60 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	70	015-EZR-008-014 De los hijos de Bigvai, Utai y Zacur, y con ellos 70 hombres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	220	015-EZR-008-020 Además, trajeron a 220 de los sirvientes del Templo, un grupo designado por David y sus funcionarios para ayudar a los levitas. Todos ellos estaban registrados por su nombre.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	650	015-EZR-008-026 Pesé y puse en sus manos 650 talentos de plata, artículos de plata del Templo que pesaban 100 talentos, 100 talentos de oro,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	015-EZR-008-027 20 cuencos de oro que valían 1.000 dáricos, y dos artículos de bronce muy pulido, tan valiosos como el oro.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	150	016-NEH-005-017 Tenía a 150 judíos y funcionarios comiendo en mi mesa, así como a visitantes de los países cercanos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	016-NEH-007-008 Los hijos de Paros, 2.172;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	372	016-NEH-007-009 los hijos de Sefatías, 372;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	652	016-NEH-007-010 los hijos de Ara, 652;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	016-NEH-007-011 los hijos de Pahat-moab, (los hijos de Jesúa y Joab), 2.818;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	016-NEH-007-012 los hijos de Elam, 1.254;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	845	016-NEH-007-013 los hijos de Zatu, 845;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	760	016-NEH-007-014 los hijos de Zacai, 760;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	648	016-NEH-007-015 los hijos de Binui, 648;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	628	016-NEH-007-016 los hijos de Bebai, 628;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	016-NEH-007-017 los hijos de Azgad, 2.322;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	667	016-NEH-007-018 los hijos de Adonicam, 667;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	016-NEH-007-019 los hijos de Bigvai, 2.067.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	655	016-NEH-007-020 Los hijos de Adin, 655.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	98	016-NEH-007-021 Los hijos de Ater, (hijos de Ezequías), 98;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	328	016-NEH-007-022 los hijos de Hasum, 328;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	324	016-NEH-007-023 los hijos de Bezai, 324;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	112	016-NEH-007-024 los hijos de Harif, 112;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	95	016-NEH-007-025 los hijos de Gabaón, 95;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	188	016-NEH-007-026 el pueblo de Belén y Netofa, 188;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	128	016-NEH-007-027 el pueblo de Anatot, 128;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	42	016-NEH-007-028 el pueblo de Bet-azmavet 42;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	743	016-NEH-007-029 el pueblo de Quiriat-jearim, Cafira y Beerot, 743;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	621	016-NEH-007-030 el pueblo de Ramá y Geba, 621;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	122	016-NEH-007-031 el pueblo de Micmas, 122;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	123	016-NEH-007-032 el pueblo de Bet-el y Ai, 123;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	52	016-NEH-007-033 el pueblo del otro Nebo, 52;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	016-NEH-007-034 los hijos del otro Elam, 1.254;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	320	016-NEH-007-035 los hijos de Harim, 320;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	345	016-NEH-007-036 los hijos de Jericó, 345;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	721	016-NEH-007-037 los hijos de Lod, Hadid y Ono, 721;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	016-NEH-007-038 los hijos de Senaa, 3.930.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	973	016-NEH-007-039 Este es el número de los sacerdotes: los hijos de Jedaías (por la familia de Jesúa), 973;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	016-NEH-007-040 los hijos de Imer, 1.052;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	016-NEH-007-041 los hijos de Pasur, 1.247;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	016-NEH-007-042 los hijos de Harim, 1.017.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	74	016-NEH-007-043 Este es el número de los levitas: los hijos de Jesúa por Cadmiel (hijos de Hodavías), 74;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	148	016-NEH-007-044 los cantores de los hijos de Asaf, 148;	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	138	016-NEH-007-045 los porteros de las familias de Salum, Ater, Talmón, Acub, Hatita y Sobai, 138.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	392	016-NEH-007-060 El total de los siervos del Templo y de los descendientes de los siervos de Salomón era de 392.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	642	016-NEH-007-062 Entre ellos estaban las familias de Delaía, Tobías y Necoda, 642 en total.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	42	016-NEH-007-066 El total de personas que regresaron fue de 42.360.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	7	016-NEH-007-067 Además había 7.337 sirvientes y 245 cantores y cantoras.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	736	016-NEH-007-068 Tenían 736 caballos, 245 mulas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	435	016-NEH-007-069 435 camellos y 6.720 burros.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	016-NEH-007-070 Algunos de los jefes de familia hicieron contribuciones voluntarias para el trabajo. El gobernador entregó a la tesorería 1.000 dáricos de oro, 50 cuencos y 530 conjuntos de ropa para los sacerdotes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	016-NEH-007-071 Algunos de los jefes de familia donaron al tesoro para la obra 20.000 dáricos de oro y 2.200 minas de plata.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	20	016-NEH-007-072 El resto del pueblo donó 20.000 dáricos de oro, 2.000 minas de plata y 67 conjuntos de ropa para los sacerdotes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	468	016-NEH-011-006 El total de los hijos de Fares que vivieron en Jerusalén fue de 468 hombres hábiles.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	928	016-NEH-011-008 y después de él Gabbai y Salai, en total 928.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	822	016-NEH-011-012 y sus compañeros sacerdotes que servían en el Templo, un total de 822; Adaía hijo de Jeroham, hijo de Pelaliah, hijo de Amzi, hijo de Zacarías, hijo de Pasur, hijo de Malquías,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	242	016-NEH-011-013 y los que trabajaban con él, jefes de familia, un total de 242; y Amasai, hijo de Azarel, hijo de Ahzai, hijo de Mesilemot, hijo de Imer,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	128	016-NEH-011-014 y los que trabajaban con él, un total de 128 guerreros fuertes. Zabdiel, hijo de Gedolim, estaba a cargo de ellos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	284	016-NEH-011-018 El número total de sacerdotes en la ciudad santa era de 284.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	172	016-NEH-011-019 Los porteros: Acub, Talmón y sus compañeros, que custodiaban las puertas: un total de 172.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	127	017-EST-001-001 Este es un relato de lo que sucedió durante la época del rey Jerjes, el Jerjes que gobernaba 127 provincias desde la India hasta Etiopía.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	10	017-EST-003-009 “Si le place a Su Majestad, emita un decreto para destruirlos, y yo personalmente contribuiré con 10.000 talentos de plata a los que llevan a cabo los negocios del rey para que sean depositados en el tesoro real”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	127	017-EST-008-009 Los secretarios del rey fueron convocados y el día veintitrés del tercer mes, el mes de Siván, y escribieron un decreto con todas las órdenes de Mardoqueo a los judíos y a los oficiales principales del rey, los gobernadores y los nobles de las 127 provincias desde la India hasta Etiopía. Escribió a cada provincia en su propia escritura, a cada pueblo en su propia lengua, y a los judíos en su propia escritura y lengua.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	127	017-EST-009-030 También se enviaron cartas expresando paz y tranquilidad a todos los judíos de las 127 provincias del imperio del rey Jerjes.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	14	018-JOB-042-012 El Señor bendijo la última parte de la vida de Job más que la primera. Ahora era dueño de 14.000 ovejas, 6.000 camellos, 1.000 yuntas de bueyes y 1.000 asnas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	140	018-JOB-042-016 Después de esto, Job vivió 140 años, viendo a sus hijos y a sus nietos. En realidad, cuatro generaciones.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	42	019-PSA-043-001 (Los Salmos 42 y 43 eran originalmente uno solo). Dios, ¡Por favor reivindícame! Aboga por mi caso contra una nación infiel; sálvame de esa gente malvada y deshonesta.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	019-PSA-060-001 Para el director del coro. Según “El lirio del testimonio”. Un salmo (mictam) de David, útil para enseñar, acerca de la vez que peleó con Harán-Naharaim y Harán-Zobah, y cuando Joab regresó y mató a 12.000 Edomitas en el valle de sal. ¡Tú, Dios, nos has rechazado! ¡Nos has quebrantado, te has enojado con nosotros; pero ahora nos recibes nuevamente!	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	10	019-PSA-144-009 Dios, a tu cantaré una canción nueva, acompañada de un arpa de 10 cuerdas,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	185	023-ISA-037-036 Entonces el ángel del Señor fue al campamento asirio y mató a 185.000 de ellos. Cuando los supervivientes se despertaron por la mañana, estaban rodeados de cadáveres.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	024-JER-052-028 Este es un registro del número de personas que Nabucodonosor llevó al exilio. En el séptimo año de su reinado se llevó a 3.023 judíos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	832	024-JER-052-029 En su decimoctavo año, Nabucodonosor se llevó a otros 832 de Jerusalén.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	745	024-JER-052-030 En el año veintitrés del reinado de Nabucodonosor, Nabuzaradán, el comandante de la guardia, se llevó a otros 745 judíos, haciendo un total de 4.600.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	390	026-EZE-004-005 Te haré permanecer allí durante 390 días, que representan el número de años de sus pecados. Llevarás los pecados de los israelitas.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	40	026-EZE-004-006 “Una vez que hayas terminado de hacer esto durante estos días, entonces te acostarás de nuevo, pero esta vez sobre tu lado derecho, y llevarás los pecados del pueblo de Judá. Te haré permanecer allí durante 40 días, un día por cada año.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	390	026-EZE-004-009 “Consigue trigo, cebada, frijoles, lentejas, mijo y espelta, y mézclalos en una vasija. Utilízalos para hacer pan para ti. Esto es lo que debes comer durante los 390 días que permanezcas acostado.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-045-001 Cuando asignes la propiedad de la tierra por sorteo, debes hacer una provisión para el Señor, una asignación sagrada de la tierra que mida 25.000 codos de largo y 20.000 codos de ancho. Toda esta zona es sagrada.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	500	026-EZE-045-002 Dentro de ella está la sección para el santuario que mide 500 codos cuadrados, con un área abierta alrededor de 50 codos de ancho.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-045-003 A partir de esta zona santa, mide una sección de 25.000 codos por 10.000 codos. Aquí estará el santuario, el Lugar Santísimo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-045-005 La otra sección que mide 25.000 codos por 10.000 codos será asignada a los levitas que trabajan en el Templo, donde podrán vivir.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	5	026-EZE-045-006 Asigna a la ciudad un área de 5.000 codos de ancho y 25.000 de largo junto a la sección del santuario. Es para todo el pueblo de Israel.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-048-008 Junto a la asignación de Judá, de este a oeste, está la zona especial para la que debes hacer provisión. Tendrá 25.000 codos de ancho y se extenderá la misma longitud que una asignación tribal de este a oeste. El santuario estará en medio de ella.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-048-009 El territorio especial que hagas será para el Señor y tendrá 25.000 codos por 10.000 codos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-048-010 Este será el territorio sagrado para los sacerdotes. Tendrá 25.000 codos de largo en los lados norte y sur, y 11.000 codos de ancho en los lados oeste y este. El santuario estará en medio de él.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-048-013 Los levitas tendrán un área de 25.000 codos por 10.000 codos adyacente a la asignación de los sacerdotes. Su longitud total será de 25.000 codos, y su anchura de 10.000 codos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	5	026-EZE-048-015 El resto, de 5.000 codos por 25.000 codos, es para uso ordinario de la ciudad para casas y pastos. La ciudad estará en medio de ella,	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	4	026-EZE-048-016 y estas serán sus medidas 4.500 codos por todos los lados, al norte, al sur, al este y al oeste.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	250	026-EZE-048-017 Los pastos de la ciudad la rodearán por 250 codos por todos los lados, al norte, al sur, al este y al oeste.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	10	026-EZE-048-018 Lo que queda de la tierra que bordea el territorio sagrado y que corre a su lado será de 10.000 codos por el lado este y por el lado oeste. Las cosechas que produzca servirán de alimento a los que trabajen en la ciudad.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-048-020 Todoel territorio será un cuadrado de 25.000 codos por 25.000 codos. Debes hacer una provisión para el territorio sagrado, junto con el área para la ciudad.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	25	026-EZE-048-021 La tierra que quede a ambos lados del territorio sagrado y del área para la ciudad pertenecerá al príncipe. Esta tierra estará junto a los territorios de las tribus y se extenderá al este desde los 25.000 codos de la sección santa hasta el límite oriental, y al otro lado al oeste desde los 25.000 codos hasta el límite occidental. En medio de ellos estará la sección santa y el santuario del Templo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	4	026-EZE-048-030 Estas serán las salidas de la ciudad, comenzando por el lado norte, que tiene una longitud de 4.500 codos.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	4	026-EZE-048-032 Habrá tres puertas en el lado este, (también de 4.500 codos de largo): las puertas de José, Benjamín y Dan.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	4	026-EZE-048-033 Habrá tres puertas en el lado sur, (también de 4.500 codos de largo): las puertas de Simeón, Isacar y Zabulón.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	4	026-EZE-048-034 En el lado oeste habrá tres puertas (también de 4.500 codos): la puerta de Gad, la puerta de Aser y la puerta de Neftalí.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	18	026-EZE-048-035 La distancia alrededor del exterior de la ciudad será de 18.000 codos. Desde ese día el nombre de la ciudad será “El Señor está allí”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	040-MAT-014-025 Cerca de las 3 a.m. Jesús los alcanzó, caminando sobre el mar.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	9	040-MAT-020-003 Cerca de las 9 a.m. salió y vio a otros que estaban sin trabajar en la plaza del mercado.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	040-MAT-020-005 Entre el medio día y las 3 p.m. salió e hizo lo mismo.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	5	040-MAT-020-006 A las 5 p.m. salió y encontró a otros que estaban allí. ‘¿Por qué están por ahí todo el día sin hacer nada?’ les preguntó.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	5	040-MAT-020-009 Cuando entraron los que fueron contratados a las 5 p.m., cada uno recibió un denario.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Cuando Jesús se levantó de entre los muertos el domingo por la mañana, se le apareció primero a María Magdalena, de quien había expulsado siete demonios.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	153	043-JOH-021-011 Simón Pedro subió a la barca y jaló la red llena de peces hacia la orilla. Había 153 peces grandes, y sin embargo la red no se había roto.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	044-ACT-003-001 Pedro y Juan iban de camino, subiendo hacia el Templo, a la hora de la oración de la tarde, cerca de las 3 p.m.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	3	044-ACT-010-003 Un día, cerca de las 3 p.m. Cornelio tuvo una visión en la que vio claramente a un ángel de Dios que venía hacia él y lo llamaba, diciendo: “¡Cornelio!”	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	2	044-ACT-013-033 que ahora ha cumplido en nuestro favor al levantar a Jesús de los muertos. Tal como está escrito en el libro de Salmos 2: ‘Tú eres mi Hijo, y hoy me he convertido en tu Padre’.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	23	046-1CO-010-008 No debemos cometer pecados sexuales, como lo hicieron algunos de ellos, y en consecuencia 23:000 murieron en un día.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	200	066-REV-009-016 Se me dijo el número de los soldados del ejército a caballo: era 200 millones.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	066-REV-011-003 “Le daré poder a mis dos testigos, y profetizarán durante 1.260 días, vestidos de silicio”.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	066-REV-012-006 Entonces la mujer huyó corriendo al desierto, donde Dios había preparado un lugar para ella, donde recibiría cuidado durante 1.260 días.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	666	066-REV-013-018 Aquí se requiere sabiduría. Y todo el que tenga entendimiento debe calcular el número de la bestia, pues es el número de un hombre. Y su número es 666.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	144	066-REV-014-001 Luego miré, y vi al Cordero en pie sobre el Monte de Sión. Y con él había 144:000 que tenían en sus frentes su nombre, y el nombre de su Padre.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	144	066-REV-014-003 Y cantaban un cántico nuevo frente al trono, así como de las cuatro criaturas vivientes y los ancianos. Y nadie más conocía el cántico, excepto los 144:000, los que habían sido redimidos de la tierra.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	1	066-REV-014-020 Y fueron pisoteadas en el lagar, afuera de la ciudad. Y del lagar brotaba sangre que llegaba hasta los frenos de un caballo, y hasta una distancia de 1.600 estadios.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	12	066-REV-021-016 La ciudad era cuadrada. La longitud era la misma que la anchura. Midió la ciudad con una vara, y era de 12:000 estadios. La longitud, la anchura y la altura, eran iguales.	WARN
+Spanish---Free-Bible	NUMERALS	Aionian	count	508	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

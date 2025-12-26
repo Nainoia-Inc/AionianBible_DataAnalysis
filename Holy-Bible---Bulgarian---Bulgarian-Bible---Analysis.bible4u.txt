@@ -1,0 +1,766 @@
+# File Name: Holy-Bible---Holy-Bible---Bulgarian---Bulgarian-Bible---Analysis.txt
+# File Size: 109377      
+# File Date: 12/13/2025 05:12:57
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Българска Библия
+# Bible Name English: Bulgarian Bible
+# Bible Language: Българска
+# Bible Language English: Bulgarian
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Translator unknown
+# Bible Source Version: 10/23/2025
+# Bible Source Link: https://bible4u.net/en/download#BULG
+# Bible Source Year: 
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Bulgarian---Bulgarian-Bible	ENCODING	Source	Holy-Bible---Bulgarian---Bulgarian-Bible---Source-Edition.B4U.txt	UTF-8	NOTICE
+Bulgarian---Bulgarian-Bible	ENCODING	Aionian	Holy-Bible---Bulgarian---Bulgarian-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Bulgarian---Bulgarian-Bible	BYTES	Source	bytes / chars	6744233 / 3914711 (multi-byte)	NOTICE
+Bulgarian---Bulgarian-Bible	BYTES	Aionian	bytes / chars	6934702 / 4105994 (multi-byte)	NOTICE
+Bulgarian---Bulgarian-Bible	BYTES	SourceClean	bytes / chars	6741973 / 3912532 (multi-byte)	NOTICE
+Bulgarian---Bulgarian-Bible	BYTES	AionianClean	bytes / chars	6930882 / 4102602 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Bulgarian---Bulgarian-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Bulgarian---Bulgarian-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Bulgarian---Bulgarian-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Bulgarian---Bulgarian-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Bulgarian---Bulgarian-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Bulgarian---Bulgarian-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Bulgarian---Bulgarian-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Bulgarian---Bulgarian-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Bulgarian---Bulgarian-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Bulgarian---Bulgarian-Bible	UNICODE	Summary	(-)Orginal	121	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Summary	(+)Aionian	117	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Б)	4726	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (ъ)	46082	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (л)	76779	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (г)	45443	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (а)	332043	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (р)	112719	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (с)	136811	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (к)	79633	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : ( )	644988	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (и)	257759	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (б)	35103	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (я)	60906	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (|)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (B)	3	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (u)	4182	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (l)	734	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (g)	2312	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (a)	5893	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (r)	5701	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (i)	472	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (n)	3081	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (b)	1486	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (e)	8938	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31172	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (-)	2442	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (P)	3671	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (c)	1780	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (D)	1317	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (o)	6684	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (m)	3753	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (E)	3335	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (v)	2181	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (y)	4	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (s)	7897	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (p)	214	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (t)	4593	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (d)	1886	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (,)	71486	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (f)	5	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (h)	4875	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (')	8	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (.)	57168	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (:)	39358	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (/)	4	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (4)	9184	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (2)	21727	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (3)	12311	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (q)	2	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (w)	3	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (j)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (z)	1553	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (x)	1214	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (C)	2554	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (@)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (т)	216692	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (е)	270500	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (G)	1682	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (1)	30547	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (В)	3678	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (н)	146996	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (ч)	28767	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (о)	266985	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (з)	63344	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (д)	107786	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (м)	70479	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (А)	8941	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (п)	70546	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (у)	36200	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (;)	15187	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (в)	129159	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (ж)	19011	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Д)	3810	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (х)	28384	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (И)	18294	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (5)	7071	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Н)	6317	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (щ)	26172	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (6)	6497	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (й)	20005	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (7)	5940	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (8)	5798	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (9)	5658	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (0)	5334	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (М)	5922	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (П)	3562	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (С)	7559	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Т)	7918	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Е)	4440	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Ф)	605	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (*)	520	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (ф)	2116	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (О)	2339	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Ч)	576	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (К)	4202	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Р)	891	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Л)	615	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Я)	717	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Ю)	935	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (ю)	3805	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (()	835	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : ())	827	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Ц)	188	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (L)	2164	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (N)	1764	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (J)	4972	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (R)	922	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (S)	1621	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (K)	1535	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Cyrillic : (Й)	175	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (I)	1292	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (k)	3101	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : ([)	172	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (])	174	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (H)	594	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (A)	1153	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (O)	87	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (M)	1909	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (Z)	265	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (_)	176	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (F)	22	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source(-)	Basic Latin : (T)	422	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130575	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42448	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124384	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	2350	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	10927	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	3689	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (В)	3669	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	613457	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (н)	146966	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (а)	331875	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (ч)	28765	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (л)	76621	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (о)	266789	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (т)	216658	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Б)	4723	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (г)	45441	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (с)	136653	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (ъ)	46070	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (з)	63341	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (д)	107782	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (е)	270464	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (б)	35105	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (и)	257694	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (м)	70468	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (я)	60885	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	25718	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31095	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31082	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (А)	8937	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (п)	70542	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (у)	36193	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (р)	112681	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (;)	15185	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (к)	79624	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (в)	129002	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (ж)	19009	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Д)	3808	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (х)	28380	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17183	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (И)	18291	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	8260	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20026	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	71480	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10275	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Н)	6314	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (щ)	26174	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (й)	20000	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7450	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9297	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (М)	5919	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	2085	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (П)	3409	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (С)	7555	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Т)	7913	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Е)	4435	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Ф)	602	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (ф)	2114	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (О)	2337	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Ч)	574	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (К)	4199	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Р)	889	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Л)	611	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Я)	716	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Ю)	934	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (ю)	3806	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (()	918	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : ())	909	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Ц)	184	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	6461	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	129	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	101	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	149	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	69	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	6719	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2585	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1263	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3508	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	4064	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	1959	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4973	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4159	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2772	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	9151	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2686	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	3278	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4316	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	4121	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	1450	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	3884	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	184	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (])	186	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (')	7	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Cyrillic : (Й)	165	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	202	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	17	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	114	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	247	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	7	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	3	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (F)	10	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Б)	4726	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (ъ)	46082	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (л)	76779	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (г)	45443	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (а)	332043	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (р)	112719	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (с)	136811	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (к)	79633	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : ( )	644988	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (и)	257759	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (б)	35103	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (я)	60906	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (|)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (B)	3	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (u)	4182	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (l)	734	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (g)	2312	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (a)	5893	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (r)	5701	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (i)	472	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (n)	3081	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (b)	1486	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (e)	8938	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (\n)	31172	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (-)	2442	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (P)	3671	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (c)	1780	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (D)	1317	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (o)	6684	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (m)	3753	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (E)	3335	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (v)	2181	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (y)	4	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (s)	7897	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (p)	214	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (t)	4593	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (d)	1886	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (,)	71486	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (f)	5	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (h)	4875	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (')	8	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (.)	57168	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (:)	39358	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (/)	4	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (4)	9184	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (2)	21727	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (3)	12311	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (q)	2	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (w)	3	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (j)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (z)	1553	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (x)	1214	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (C)	2554	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (@)	1	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (т)	216692	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (е)	270500	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (G)	1682	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (1)	30547	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (В)	3678	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (н)	146996	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (ч)	28767	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (о)	266985	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (з)	63344	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (д)	107786	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (м)	70479	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (А)	8941	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (ш)	18384	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (п)	70546	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (у)	36200	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (;)	15187	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (в)	129159	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (ж)	19011	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Д)	3810	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (х)	28384	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (И)	18294	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (5)	7071	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Н)	6317	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (щ)	26172	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (6)	6497	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (й)	20005	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (7)	5940	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (8)	5798	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (9)	5658	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (0)	5334	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (З)	4242	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (М)	5922	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (ц)	17382	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (П)	3562	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (С)	7559	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Т)	7918	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Г)	9550	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Е)	4440	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Ф)	605	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Х)	1255	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (*)	520	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (ф)	2116	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (О)	2339	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Ж)	121	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (?)	3136	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Ч)	576	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (К)	4202	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Щ)	1129	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Р)	891	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Л)	615	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Я)	717	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Ю)	935	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (!)	1225	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (ю)	3805	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Ш)	81	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (()	835	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : ())	827	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Ц)	188	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (У)	394	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (ь)	118	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (L)	2164	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (N)	1764	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (J)	4972	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (R)	922	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (S)	1621	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (K)	1535	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Й)	175	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	General Punctuation : (”)	37	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	General Punctuation : (“)	35	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (I)	1292	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (k)	3101	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : ([)	172	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (])	174	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (H)	594	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (A)	1153	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (O)	87	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (M)	1909	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (Z)	265	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (")	387	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (_)	176	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (F)	22	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Basic Latin : (T)	422	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (э)	5	NOTICE
+Bulgarian---Bulgarian-Bible	UNICODE	Source	Cyrillic : (Ъ)	1	NOTICE
+
+# VERSIFICATION
+Bulgarian---Bulgarian-Bible	VERSIFICATION	Aionian	missing	044-ACT-002-010	WARN
+Bulgarian---Bulgarian-Bible	VERSIFICATION	Aionian	missing	044-ACT-002-020	WARN
+Bulgarian---Bulgarian-Bible	VERSIFICATION	Aionian	missing	044-ACT-002-030	WARN
+Bulgarian---Bulgarian-Bible	VERSIFICATION	Aionian	missing	044-ACT-021-040	WARN
+Bulgarian---Bulgarian-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-028	WARN
+Bulgarian---Bulgarian-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-029	WARN
+Bulgarian---Bulgarian-Bible	VERSIFICATION	Summary	missing	6	WARN
+Bulgarian---Bulgarian-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	()	835 / 827	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[]	172 / 174	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	()	918 / 909	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[]	184 / 186	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Exod.9:31 (Ленът и ечемикът бидоха изпобити, защото ечемикът беше на класове, и ленът връзваше семе;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Exod.9:32 но пшеницата и бялото жито оцеляха, защото бяха късни).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Exod.11:1 (А Господ беше казал на Моисея: Още една язва ще нанеса на Фараона и на Египет, подир което ще ви пусне от тука; когато ви пусне, съвсем ще ви изпъди от тука.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Exod.11:3 И Господ беше дал на людете да продибият благоволението на египтяните. При това, Моисей беше станал твърде велик човек в Египетската земя пред Фараоновите слуги и пред людете).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Exod.11:9 (А Господ беше казал на Моисея: Фараон няма да ви послуша, за да се умножат Моите чудеса в Египетската земя.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Exod.11:10 И Моисей и Аарон бяха извършили всички тия чудеса пред Фараона, и той не беше пуснал израилтяните из земята си).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Exod.18:3 и двата й сина, (от които на единия името бе Гирсом, защото Моисей беше казал: Пришелец станах в чужда земя;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Exod.22:2 (Ако се завари крадецът когато подкопава, и го ударят та умре, няма да се пролее кръв за него.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Exod.22:3 Но ако слънцето е било изгряло над него, тогава ще се пролее кръв за него). Крадецът трябва непременно да плати; но ако няма с какво, то да се продаде той за откраднатото.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Exod.33:11 И Господ говореше на Моисея лице с лице, както човек говори с приятеля си; а, като се връщаше Моисей в стана, слугата му, младежът Исус Навиевият син, не се отдалечаваше от шатъра).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Exod.40:31 (и Моисей и Аарон и синовете му миеха от него ръцете си и нозете си;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Lev.4:9 двата бъбрека с тлъстината, която е около тях към кръста, и булото на дроба (което да извади до бъбреците,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Lev.4:10 както се изважда от юнеца, за примирителна жертва); и свещеникът да ги изгори на олтара за всеизгаряне.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Num.2:8 (а неговото множество, сиреч, преброените от тях, бяха петдесет и седем хиляди и четиристотин души.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Num.2:9 Всичките преброени в Юдовия стан бяха сто и осемдесет и шест хиляди и четиристотин души, според устроените им войнства). Те да се дигат първи.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Num.2:15 (а неговото войнство, сиреч, преброените от тях, бяха четиридесет и пет хиляди шестстотин и петдесет души.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Num.2:16 Всичките преброени в Рувимовия стан бяха сто и петдесет и една хиляда и петдесет души, според устроените им войнства). Те да се вдигат втори.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Num.2:23 (а неговото войнство, сиреч, преброените от тях, бяха тридесет и пет хиляди и четиристотин души.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Num.2:24 Всичките преброени от Ефремовия стан бяха сто и осем хиляди и сто души, според устроените си войнства). Те да се дигат трети.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Num.2:30 (а неговото войнство, сиреч, преброените от тях бяха петдесет и три хиляди и четиристотин души.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Num.2:31 Всичките преброени в Дановия стан бяха сто и петдесет и седем хиляди и шестстотин души). Те да се дигат последни при знамената си.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Num.11:7 (А манната приличаше на кориандрово семе и беше на вид като бделий.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Num.11:9 Когато падаше росата в стана нощем, падаше с нея и манна).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Deut.2:10 (А по-напред живееха там емимите, люде велики и многочислени и високи като енакимите.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Deut.2:12 Също и хорейците живееха по-напред в Сиир; но исавците ги заместиха, изтребиха ги от пред себе си и се заселиха на мястото им, както направи Израил в земята на своето наследство, която им даде Господ.)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Deut.2:20 (Също и тя се считаше земя на исполините: исполини по-напред живееха там, а амонците ги наричаха замзумими;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Deut.2:23 и кафторците излязоха из Кафтор та изтребиха авейците, които живееха в села дори до Газа, и заселиха се на мястото им.)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Deut.10:6 (След това израилтяните отпътуваха от Вирот-Венеякан до Мосера. Там умря Аарон, и там бе погребан; а синът му Елеазар свещенодействува вместо него.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Deut.10:9 по която причина левийците нямат дял или наследство между братята си; Господ им е наследство, според както Господ, твоят Бог им обеща).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Deut.11:2 И признайте днес, - (защото не говоря на чадата ви, които не познаха и които не видяха наказанието нанесено от Господа вашия Бог, величията Му, силната Му ръка и издигнатата Му мишца,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Deut.11:7 но на вас говоря, чиито очи видяха всичките велики дела, които Господ извърши), -	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Deut.19:8 (а когато Господ твоят Бог разшири пределите ти, както се е клел на бащите ти, и ти даде цялата земя, която се обеща да даде на бащите ти,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Deut.19:9 ако пазиш и вършиш всички тия заповеди, които днес ти заповядвам, да любиш Господа твоя Бог и да ходиш всякога в Неговите пътища, тогава при тия три града да си притуриш още три;)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Deut.29:16 (защото вие знаехте как живяхме в Египетската земя, и как минахме всред народите през които пропътувахме;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Deut.29:17 и видяхме мерзостите им, и дървените им и каменни, сребърни и златни кумири, които са между тях);	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Josh.4:22 ( Тогава да разправите на чадата си, като речете: По сухо премина Израил тоя Иордан;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Judg.9:17 (защо баща ми воюва за вас и тури в опасност живота си та ви избави от ръката на Мадиама;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Judg.9:18 а днес сте въстанали против бащиния ми дом, и сте изклали върху един камък синовете му, седемдесет мъже, и сте поставили Авимелеха, син на слугинята му, цар на сихемските мъже, защото ви е брат), -	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Judg.20:27 После израилтяните се допитаха до Господа, (защото през ония дни ковчегът на Божия завет беше там,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Judg.20:28 и Финеес, син на Елеазара, Аароновият син, служеше пред него през ония дни), и запитаха: Да възлезем ли пак на бой против потомците на брата ни Вениамина? или да престанем? И Господ каза: Възлезте, защото утре ще ги предам в ръката ви.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Sam.4:2 А тоя Саулов син имаше двама мъже пълководци, от които името на единия беше Ваана, а името на другия Рихав, синове на виротянина Римон от вениаминците; (защото и Вирот се числеше към Вениамина;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Sam.4:3 а виротяните бяха побягнали в Гетаим, дето са били пришелци до днес).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Sam.17:25 И Авесалом постави Амаса за военачалник вместо Иоава. А Амаса бе син на един човек на име Итра, израилтянин*, който беше влязъл при Авигея Наасовата дъщеря, сестра на Саруия Иоавовата майка).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Kgs.18:3 А Ахав беше повикал домоуправителя Авдия. (А Авдия се боеше много от Господа;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	1Kgs.18:4 защото, когато Езавел изтребваше Господните пророци, Авдия бе взел сто пророка та бе ги скрил, петдесет в една пещера и петдесет в друга, и беше ги хранил с хляб и вода).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Kgs.21:25 (Никой, наистина, не биде подобен на Ахаава, който продаде себе си да върши зло пред Господа, като го подбуждаше жена му Езавел,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	1Kgs.21:26 и който извърши много мерзости, като следваше идолите, съвсем, както вършеха аморейците, които Господ бе изгонил пред израилтяните).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Kgs.9:14 Така Ииуй, син на Иосафата, Немесиевият син, направи заговор против Иорама. (А Иорам с целия Израил пазеше Рамот-галаад от сирийския цар Азаил;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Kgs.9:15 а цар Иорам беше се върнал в Езраел за да се цери от раните които сирийците му баха нанесли, когато войваше протви сирийския цар Азаил). И рече Ииуй: Ако това е вашето мнение, то да не излезе никой да побегне из града за да отиде и извести това в Езраел.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Kgs.13:5 (И Господ даде избевител на Израиля, така щото се отърваха изпод ръката на сирийците, та израилтяните живееха в жилищата си, както по-напред;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Kgs.13:6 обаче не се оставиха от греховете на дома на Еровоама, с които направи Израиля да греши, а в тях ходиха; и ашерата още стоеше в Самария).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Kgs.14:15 (А останалите дела, които извърши Иоас и Юначествата му, и как войва с Юдовия цар Амасия, не са ли написани в Книгата на летописите на Израилевите царе?	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Kgs.14:16 И Иоас заспа с бащите си, и биде погребан в Самария с Израилевите царе; и вместо него се възцари син му Еровоам).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Chr.2:6 А Зарови синове: Зимрий*, Етан, Еман, Халкол и Дара( ; всичко петима.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Chr.4:29 във Вела, Есем и Толад(,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Chr.5:1 И синовете на първородния на Израиля, Рувим, (защото той бе първородният; но, понеже оскверни леглото на баща си, неговото първородство се даде на синовете на Израилевия син Иосифа, а родословието не се смята според първородството;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	1Chr.5:2 защото Юда превъзмогна над братята си, и от него се определи да произлезе вождът; първородството, обаче, беше на Иосифа,)-	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Chr.7:14 Манасиеви синове: Асриил, когото му роди жена му; (а наложницата му сирианката роди Махира Галаадовия баща;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	1Chr.7:15 а Махир взе за жена сестрата на Уфама и Суфама, и името на сестра им бе Мааха); а името на втория бе Салпаад; и Салпаад роди дъщеря.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Chr.5:11 А щом излязоха свещениците из светилището, (защото всичките свещеници, които се намираха там, бяха се осветили без да чакат реда на отредите си;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Chr.5:12 е всичките певци левити - Асаф, Еман, Едутун и синовете им и братята им облечени във висон, и държащи кимвали, псалтири и арфи стояха на изток от олтара, и с тях сто и двадесет свещеника, които свиреха с тръби),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Chr.9:10 (Още и Хирамовите слуги и Соломоновите слуги, които донасяха злато от Офир, донасяха и алмугови дървета и скъпоценни камъни.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Chr.9:11 А от алмуговите дървета царят направи подпорки* за Господния дом и за царската къща, тоже и арфи и псалтири за певците; такива дървета не бяха се виждали по-напред в Юдовата земя).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Chr.12:10 (А вместо тях цар Ровоам направи медни щитове и ги предаде в ръцете на началниците на телохранителите, които пазеха вратата на царската къща.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Chr.12:11 И когато влизаше царят в Господния дом, телохранителите дохождаха та ги вземаха; после пак ги занасяха в залата на телохранителите).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Chr.24:25 А като заминаха от него, (и го оставиха страдащ с тежки рани, собствените му слуги направиха заговор против него, поради кръвта на сина* на свещеник Иодай, и убиха го на леглото му, та умря; и погребаха го в Давидовия град, но не го погребаха в царските гробища.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Esth.1:13 Тогава рече царят на мъдреците, които познаваха времената, (защото царят имаше обичай така да се носи спрямо всички, които знаеха закон и съд;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Esth.1:14 А втори след него бяха Карсена, Сетар, Адмата, Тарсис, Мерес, Марсена и Мемукан, седем персийски и мидийски първенци, които имаха достъп при царя* и заемаха първо място в царството):	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Job.15:18 (Което мъдрите не скриха, но възвестиха, Както бяха чули от бащите си;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Job.15:19 На които биде дадена земята, и само на тях, И чужденец не замина между тях;)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Job.31:35 (О, да имаше някой да ме слуша! - Ето виж тука подписа ми; Всемогъщият нека ми отговори!- И да имах акта* който противникът ми е написал!	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Job.31:37 Щях да му дам отчет за стъпките си; Като княз щях да се приближа при него-)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Prov.2:17 (Която е оставила другаря на младостта си, И е забравила завета на своя Бог,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Prov.2:19 Никой от ония, които влизат при нея, не се връща, Нито стига пътищата на живота,) -	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Prov.7:11 (Бъбрица и упорита, - Нозете й не остават в къщи	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Prov.7:12 Кога по улиците кога по площадите, Тя причаква при всеки ъгъл);	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Ezek.28:3 (ето, ти си по-мъдър от Даниила; никаква тайна не се укрива от тебе;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Ezek.28:5 с голямата си мъдрост ти си придобил богатството си чрез търговията си, и сърцето ти се е надигнало поради богатството ти);	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Dan.10:2 (В онова време аз Даниил жалеех цели три седмици;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Dan.10:3 вкусен хляб не ядях, месо и вино не влизаше в устата ми, и ни веднъж не помазах себе си, додето не се навършиха цели три седмици.)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Zeph.2:2 Преди да произведе указът действието си, - (Денят минава като плява, - Преди да ви сполети лютият гняв Господен, Преди да ви постигне денят на гнева Господен.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Matt.27:18 (Понеже знаеше, че от завист го предаваха.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Matt.27:19 При това, като седеше на съдийския престол, жена му изпрати до него да кажат: Не струвай нищо на Тоя праведник; защото днес много пострадах насъне поради Него).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Mark.7:3 (Защото фарисеите и всички юдеи, държейки преданието на старейшините, не ядат ако не си омият ръцете до лактите;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Mark.7:4 и когато се връщат от пазар; не ядат ако се не омият. Има и много други неща, които са приели да държат, - измивания на чаши, шулета и медни съдове [и одрове]).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Luke.2:36 Имаше и някоя си Анна, Фануилова дъщеря, от Асировото племе; (тя беше в много напреднала възраст, като бе живяла с мъжа си седем години от девството си.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Luke.2:37 И беше вдовица за цели осемдесет и четири години), която не се отделяше от храма, дето нощем и денем служеше Богу в пост и молитва.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Luke.7:29 (И всички люде и бирници, като чуха това, признаха Божията правда, като бяха се кръстили с Иоановото кръщение.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Luke.7:30 А фарисеите и законниците осуетиха Божията воля спрямо себе си, като не бяха се кръстили от него).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[0/1]	Luke.17:36 Двама ще бъдат на нива; единият ще се вземе, а другият ще се остави].	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/2)	Luke.21:2 А видя и една бедна вдовица, че пускаше там две лепти*(Две лепти са равни на 2 1)2 стотинки.)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[0/1]	Luke.23:17 А той се задължаваше да им пуща на всеки празник по един затворник].	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[1/0]	John.5:3 В тях лежаха множество болни, слепи, куци и изсъхнали, [които чакаха да се раздвижи водата.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[0/1]	John.5:4 Защото от време на време ангел слизаше в къпалнята и размътваше водата; а който пръв влизаше след раздвижването на водата оздравяваше от каквато и болест да беше болен].	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[1/0]	Acts.5:12 И чрез ръцете на апостолите ставаха много знамения и чудеса между людете, [и те всички бяха единодушни в Соломоновия Трем;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[0/1]	Acts.5:14 и още по-голямо множество повярвали в Господа мъже и жени се прибавяха],	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Acts.23:19 (А хилядникът го взе за ръка, и като се оттегли настрана, попита го насаме; Какво да ми обадиш?	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[1/0]	Acts.24:6 който се опита и храма да оскверни; но ние го уловихме, [и поискахме да го съдим по нашия закон;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	[0/1]	Acts.24:7 но хилядникът Лисий дойде и с голямо насилство го изтръгна от ръцете ни, и заповяда на обвинителите му, да дойдат при тебе].	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Rom.2:14 (понеже, когато езичниците, които нямат закон, по природа вършат това, което се изисква от закона, то, и без да имат закон, те сами са закон за себе си,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Rom.2:15 по това, че те показват действието на закона написано на сърцата им, на което свидетелствува и съвестта им, а помислите им или ги осъждат помежду си, или ги оправдават),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Rom.5:13 (защото и преди закона грехът беше в света, грях, обаче, не се вменява, когато няма закон;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Rom.5:17 защото, ако чрез прегрешението на единия смъртта царува чрез тоя един, то много повече тия, които получават изобилието на благодатта и на дарбата, сиреч, правдата, ще царуват в живот чрез единия, Исус Христос),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Rom.11:30 Защото както вие някога се непокорявахте (Или: Неповярвахте	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	1Cor.10:30 Ако аз с благодарение Богу участвувам в яденето, защо да ме злословят за онова, за което благодаря?)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Cor.11:8 (Защото мъжът не е от жената, а жената е от мъжа;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	1Cor.11:9 понеже, мъжът не бе създаден за жената, а жената за мъжа).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Cor.11:11 (Обаче, нито жената е без мъжа, нита мъжът без жената, в Господа;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	1Cor.11:12 защото, както жената е от мъжа, така и мъжът е чрез жената; а всичко е от Бога).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	1Cor.11:18 Защото, първо, слушам, че когато се събирате в църква, ставали разделения помежду ви; (и отчасти вярвам това;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	1Cor.11:19 защото е нужно да има и разцепление между вас, за да се яви, кои са удобрените помежду ви);	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Cor.6:2 (Защото казва:	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Cor.11:17 (Това, което казвам, не го казвам по Господа, но като в безумие, в тая моя увереност на хваленето.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Cor.11:18 Тъй като мнозина се хвалят по плът, ще се похваля и аз).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	2Cor.11:32 (В Дамаск областният управител на цар Арета тури стража в град Дамаск за да ме улови;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	2Cor.11:33 и през прозорец по стената ме спуснаха с кош, та избягах от ръцете му).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Eph.3:3 че по откровение ми стана известна тайната, (както и по-преди вкратце ви писах,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Eph.3:4 от което, като прочитате, може да разберете моето проумяване в Христовата тайна)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Eph.4:9 (А това "възлезе" що друго значи, освен че бе и [по-напред] слязъл в местата по-долни от земята.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Eph.4:10 Тоя, Който е слязъл е същият, Който и възлезе по-горе от всичките небеса, за да изпълни всичко).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Col.1:3 Благодарим на Бога, Отец на нашия Господ Исус Христос, (като се молим винаги за вас,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Col.1:4 понеже чухме за вашата вяра в Христа Исуса и за любовта ви към всички светии),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(2/1)	Heb.7:21 (защото те ставаха свещеници без заклеване, а Той със заклеване от страна на Този, Който Му казва: "Господ се закле (и не ще се разкае), като каза: Ти си свещеник до века,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Heb.12:20 (защото не можаха да изтърпят онова, що им се заповядваше: "Даже животно, ако се допре до планината, ще се убие с камъни";	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(0/1)	Heb.12:21 и толкоз страшна беше гледката, щото Моисей рече: "Много съм уплашен и разтреперан");	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Source	(1/0)	Rev.2:27 (и той "Ще ги управлява с желязна тояга; Те ще се строшат като грънчарски съдове",	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (Ленът и ечемикът бидоха изпобити, защото ечемикът беше на класове, и ленът връзваше семе;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 но пшеницата и бялото жито оцеляха, защото бяха късни).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 011 001 (А Господ беше казал на Моисея: Още една язва ще нанеса на Фараона и на Египет, подир което ще ви пусне от тука; когато ви пусне, съвсем ще ви изпъди от тука.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 011 003 И Господ беше дал на людете да продибият благоволението на египтяните. При това, Моисей беше станал твърде велик човек в Египетската земя пред Фараоновите слуги и пред людете).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 011 009 (А Господ беше казал на Моисея: Фараон няма да ви послуша, за да се умножат Моите чудеса в Египетската земя.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 011 010 И Моисей и Аарон бяха извършили всички тия чудеса пред Фараона, и той не беше пуснал израилтяните из земята си).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 018 003 и двата й сина, (от които на единия името бе Гирсом, защото Моисей беше казал: Пришелец станах в чужда земя;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 022 002 (Ако се завари крадецът когато подкопава, и го ударят та умре, няма да се пролее кръв за него.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 022 003 Но ако слънцето е било изгряло над него, тогава ще се пролее кръв за него). Крадецът трябва непременно да плати; но ако няма с какво, то да се продаде той за откраднатото.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 033 011 И Господ говореше на Моисея лице с лице, както човек говори с приятеля си; а, като се връщаше Моисей в стана, слугата му, младежът Исус Навиевият син, не се отдалечаваше от шатъра).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 040 031 (и Моисей и Аарон и синовете му миеха от него ръцете си и нозете си;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	003 LEV 004 009 двата бъбрека с тлъстината, която е около тях към кръста, и булото на дроба (което да извади до бъбреците,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	003 LEV 004 010 както се изважда от юнеца, за примирителна жертва); и свещеникът да ги изгори на олтара за всеизгаряне.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 002 008 (а неговото множество, сиреч, преброените от тях, бяха петдесет и седем хиляди и четиристотин души.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 002 009 Всичките преброени в Юдовия стан бяха сто и осемдесет и шест хиляди и четиристотин души, според устроените им войнства). Те да се дигат първи.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 002 015 (а неговото войнство, сиреч, преброените от тях, бяха четиридесет и пет хиляди шестстотин и петдесет души.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 002 016 Всичките преброени в Рувимовия стан бяха сто и петдесет и една хиляда и петдесет души, според устроените им войнства). Те да се вдигат втори.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 002 023 (а неговото войнство, сиреч, преброените от тях, бяха тридесет и пет хиляди и четиристотин души.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 002 024 Всичките преброени от Ефремовия стан бяха сто и осем хиляди и сто души, според устроените си войнства). Те да се дигат трети.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 002 030 (а неговото войнство, сиреч, преброените от тях бяха петдесет и три хиляди и четиристотин души.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 002 031 Всичките преброени в Дановия стан бяха сто и петдесет и седем хиляди и шестстотин души). Те да се дигат последни при знамената си.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 011 007 (А манната приличаше на кориандрово семе и беше на вид като бделий.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 011 009 Когато падаше росата в стана нощем, падаше с нея и манна).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (А по-напред живееха там емимите, люде велики и многочислени и високи като енакимите.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Също и хорейците живееха по-напред в Сиир; но исавците ги заместиха, изтребиха ги от пред себе си и се заселиха на мястото им, както направи Израил в земята на своето наследство, която им даде Господ.)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Също и тя се считаше земя на исполините: исполини по-напред живееха там, а амонците ги наричаха замзумими;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 и кафторците излязоха из Кафтор та изтребиха авейците, които живееха в села дори до Газа, и заселиха се на мястото им.)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (След това израилтяните отпътуваха от Вирот-Венеякан до Мосера. Там умря Аарон, и там бе погребан; а синът му Елеазар свещенодействува вместо него.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 по която причина левийците нямат дял или наследство между братята си; Господ им е наследство, според както Господ, твоят Бог им обеща).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 011 002 И признайте днес, - (защото не говоря на чадата ви, които не познаха и които не видяха наказанието нанесено от Господа вашия Бог, величията Му, силната Му ръка и издигнатата Му мишца,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 011 007 но на вас говоря, чиито очи видяха всичките велики дела, които Господ извърши),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 019 008 (а когато Господ твоят Бог разшири пределите ти, както се е клел на бащите ти, и ти даде цялата земя, която се обеща да даде на бащите ти,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 019 009 ако пазиш и вършиш всички тия заповеди, които днес ти заповядвам, да любиш Господа твоя Бог и да ходиш всякога в Неговите пътища, тогава при тия три града да си притуриш още три;)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (защото вие знаехте как живяхме в Египетската земя, и как минахме всред народите през които пропътувахме;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 и видяхме мерзостите им, и дървените им и каменни, сребърни и златни кумири, които са между тях);	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	006 JOS 004 022 (Тогава да разправите на чадата си, като речете: По сухо премина Израил тоя Иордан;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (защо баща ми воюва за вас и тури в опасност живота си та ви избави от ръката на Мадиама;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 а днес сте въстанали против бащиния ми дом, и сте изклали върху един камък синовете му, седемдесет мъже, и сте поставили Авимелеха, син на слугинята му, цар на сихемските мъже, защото ви е брат),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 После израилтяните се допитаха до Господа, (защото през ония дни ковчегът на Божия завет беше там,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 и Финеес, син на Елеазара, Аароновият син, служеше пред него през ония дни), и запитаха: Да възлезем ли пак на бой против потомците на брата ни Вениамина? или да престанем? И Господ каза: Възлезте, защото утре ще ги предам в ръката ви.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 А тоя Саулов син имаше двама мъже пълководци, от които името на единия беше Ваана, а името на другия Рихав, синове на виротянина Римон от вениаминците; (защото и Вирот се числеше към Вениамина;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 а виротяните бяха побягнали в Гетаим, дето са били пришелци до днес).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 017 025 И Авесалом постави Амаса за военачалник вместо Иоава. А Амаса бе син на един човек на име Итра, израилтянин, който беше влязъл при Авигея Наасовата дъщеря, сестра на Саруия Иоавовата майка).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 А Ахав беше повикал домоуправителя Авдия. (А Авдия се боеше много от Господа;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 защото, когато Езавел изтребваше Господните пророци, Авдия бе взел сто пророка та бе ги скрил, петдесет в една пещера и петдесет в друга, и беше ги хранил с хляб и вода).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Никой, наистина, не биде подобен на Ахаава, който продаде себе си да върши зло пред Господа, като го подбуждаше жена му Езавел,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 и който извърши много мерзости, като следваше идолите, съвсем, както вършеха аморейците, които Господ бе изгонил пред израилтяните).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Така Ииуй, син на Иосафата, Немесиевият син, направи заговор против Иорама. (А Иорам с целия Израил пазеше Рамот-галаад от сирийския цар Азаил;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 а цар Иорам беше се върнал в Езраел за да се цери от раните които сирийците му баха нанесли, когато войваше протви сирийския цар Азаил). И рече Ииуй: Ако това е вашето мнение, то да не излезе никой да побегне из града за да отиде и извести това в Езраел.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 013 005 (И Господ даде избевител на Израиля, така щото се отърваха изпод ръката на сирийците, та израилтяните живееха в жилищата си, както по-напред;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 обаче не се оставиха от греховете на дома на Еровоама, с които направи Израиля да греши, а в тях ходиха; и ашерата още стоеше в Самария).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 014 015 (А останалите дела, които извърши Иоас и Юначествата му, и как войва с Юдовия цар Амасия, не са ли написани в Книгата на летописите на Израилевите царе?	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 014 016 И Иоас заспа с бащите си, и биде погребан в Самария с Израилевите царе; и вместо него се възцари син му Еровоам).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 002 006 А Зарови синове: Зимрий, Етан, Еман, Халкол и Дара(; всичко петима.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 004 029 във Вела, Есем и Толад(,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 И синовете на първородния на Израиля, Рувим, (защото той бе първородният; но, понеже оскверни леглото на баща си, неговото първородство се даде на синовете на Израилевия син Иосифа, а родословието не се смята според първородството;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 защото Юда превъзмогна над братята си, и от него се определи да произлезе вождът; първородството, обаче, беше на Иосифа,)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 007 014 Манасиеви синове: Асриил, когото му роди жена му; (а наложницата му сирианката роди Махира Галаадовия баща;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 007 015 а Махир взе за жена сестрата на Уфама и Суфама, и името на сестра им бе Мааха); а името на втория бе Салпаад; и Салпаад роди дъщеря.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 А щом излязоха свещениците из светилището, (защото всичките свещеници, които се намираха там, бяха се осветили без да чакат реда на отредите си;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 е всичките певци левити - Асаф, Еман, Едутун и синовете им и братята им облечени във висон, и държащи кимвали, псалтири и арфи стояха на изток от олтара, и с тях сто и двадесет свещеника, които свиреха с тръби),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (Още и Хирамовите слуги и Соломоновите слуги, които донасяха злато от Офир, донасяха и алмугови дървета и скъпоценни камъни.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 А от алмуговите дървета царят направи подпорки за Господния дом и за царската къща, тоже и арфи и псалтири за певците; такива дървета не бяха се виждали по-напред в Юдовата земя).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 012 010 (А вместо тях цар Ровоам направи медни щитове и ги предаде в ръцете на началниците на телохранителите, които пазеха вратата на царската къща.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 012 011 И когато влизаше царят в Господния дом, телохранителите дохождаха та ги вземаха; после пак ги занасяха в залата на телохранителите).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 024 025 А като заминаха от него, (и го оставиха страдащ с тежки рани, собствените му слуги направиха заговор против него, поради кръвта на сина на свещеник Иодай, и убиха го на леглото му, та умря; и погребаха го в Давидовия град, но не го погребаха в царските гробища.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Тогава рече царят на мъдреците, които познаваха времената, (защото царят имаше обичай така да се носи спрямо всички, които знаеха закон и съд;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 А втори след него бяха Карсена, Сетар, Адмата, Тарсис, Мерес, Марсена и Мемукан, седем персийски и мидийски първенци, които имаха достъп при царя и заемаха първо място в царството):	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	018 JOB 015 018 (Което мъдрите не скриха, но възвестиха, Както бяха чули от бащите си;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	018 JOB 015 019 На които биде дадена земята, и само на тях, И чужденец не замина между тях;)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	018 JOB 031 035 (О, да имаше някой да ме слуша! - Ето виж тука подписа ми; Всемогъщият нека ми отговори!- И да имах акта който противникът ми е написал!	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	018 JOB 031 037 Щях да му дам отчет за стъпките си; Като княз щях да се приближа при него-)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(2/1)	019 PSA 009 016 Господ е станал познат чрез правосъдието, което е извършил; Нечестивият се впримчва в делото на своите си ръце. (Игаион: (Села)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 002 017 (Която е оставила другаря на младостта си, И е забравила завета на своя Бог,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 002 019 Никой от ония, които влизат при нея, не се връща, Нито стига пътищата на живота,)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (Бъбрица и упорита, - Нозете й не остават в къщи	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 Кога по улиците кога по площадите, Тя причаква при всеки ъгъл);	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	026 EZE 028 003 (ето, ти си по-мъдър от Даниила; никаква тайна не се укрива от тебе;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	026 EZE 028 005 с голямата си мъдрост ти си придобил богатството си чрез търговията си, и сърцето ти се е надигнало поради богатството ти);	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	027 DAN 010 002 (В онова време аз Даниил жалеех цели три седмици;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	027 DAN 010 003 вкусен хляб не ядях, месо и вино не влизаше в устата ми, и ни веднъж не помазах себе си, додето не се навършиха цели три седмици.)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	036 ZEP 002 002 Преди да произведе указът действието си, - (Денят минава като плява, - Преди да ви сполети лютият гняв Господен, Преди да ви постигне денят на гнева Господен.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	040 MAT 027 018 (Понеже знаеше, че от завист го предаваха.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	040 MAT 027 019 При това, като седеше на съдийския престол, жена му изпрати до него да кажат: Не струвай нищо на Тоя праведник; защото днес много пострадах насъне поради Него).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Защото фарисеите и всички юдеи, държейки преданието на старейшините, не ядат ако не си омият ръцете до лактите;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 и когато се връщат от пазар; не ядат ако се не омият. Има и много други неща, които са приели да държат, - измивания на чаши, шулета и медни съдове [и одрове]).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	042 LUK 002 036 Имаше и някоя си Анна, Фануилова дъщеря, от Асировото племе; (тя беше в много напреднала възраст, като бе живяла с мъжа си седем години от девството си.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	042 LUK 002 037 И беше вдовица за цели осемдесет и четири години), която не се отделяше от храма, дето нощем и денем служеше Богу в пост и молитва.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	042 LUK 007 029 (И всички люде и бирници, като чуха това, признаха Божията правда, като бяха се кръстили с Иоановото кръщение.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	042 LUK 007 030 А фарисеите и законниците осуетиха Божията воля спрямо себе си, като не бяха се кръстили от него).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 017 036 Двама ще бъдат на нива; единият ще се вземе, а другият ще се остави].	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/2)	042 LUK 021 002 А видя и една бедна вдовица, че пускаше там две лепти(Две лепти са равни на 2 1)2 стотинки.)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 023 017 А той се задължаваше да им пуща на всеки празник по един затворник].	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 003 В тях лежаха множество болни, слепи, куци и изсъхнали, [които чакаха да се раздвижи водата.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 005 004 Защото от време на време ангел слизаше в къпалнята и размътваше водата; а който пръв влизаше след раздвижването на водата оздравяваше от каквато и болест да беше болен].	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 005 012 И чрез ръцете на апостолите ставаха много знамения и чудеса между людете, [и те всички бяха единодушни в Соломоновия Трем;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 005 014 и още по-голямо множество повярвали в Господа мъже и жени се прибавяха],	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 023 019 (А хилядникът го взе за ръка, и като се оттегли настрана, попита го насаме; Какво да ми обадиш?	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 024 006 който се опита и храма да оскверни; но ние го уловихме, [и поискахме да го съдим по нашия закон;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 024 007 но хилядникът Лисий дойде и с голямо насилство го изтръгна от ръцете ни, и заповяда на обвинителите му, да дойдат при тебе].	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 014 (понеже, когато езичниците, които нямат закон, по природа вършат това, което се изисква от закона, то, и без да имат закон, те сами са закон за себе си,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 по това, че те показват действието на закона написано на сърцата им, на което свидетелствува и съвестта им, а помислите им или ги осъждат помежду си, или ги оправдават),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 005 013 (защото и преди закона грехът беше в света, грях, обаче, не се вменява, когато няма закон;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 005 017 защото, ако чрез прегрешението на единия смъртта царува чрез тоя един, то много повече тия, които получават изобилието на благодатта и на дарбата, сиреч, правдата, ще царуват в живот чрез единия, Исус Христос),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 011 030 Защото както вие някога се непокорявахте (Или: Неповярвахте	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	046 1CO 010 030 Ако аз с благодарение Богу участвувам в яденето, защо да ме злословят за онова, за което благодаря?)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	046 1CO 011 008 (Защото мъжът не е от жената, а жената е от мъжа;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	046 1CO 011 009 понеже, мъжът не бе създаден за жената, а жената за мъжа).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	046 1CO 011 011 (Обаче, нито жената е без мъжа, нита мъжът без жената, в Господа;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	046 1CO 011 012 защото, както жената е от мъжа, така и мъжът е чрез жената; а всичко е от Бога).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	046 1CO 011 018 Защото, първо, слушам, че когато се събирате в църква, ставали разделения помежду ви; (и отчасти вярвам това;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	046 1CO 011 019 защото е нужно да има и разцепление между вас, за да се яви, кои са удобрените помежду ви);	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	047 2CO 006 002 (Защото казва:	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	047 2CO 011 017 (Това, което казвам, не го казвам по Господа, но като в безумие, в тая моя увереност на хваленето.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	047 2CO 011 018 Тъй като мнозина се хвалят по плът, ще се похваля и аз).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	047 2CO 011 032 (В Дамаск областният управител на цар Арета тури стража в град Дамаск за да ме улови;	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	047 2CO 011 033 и през прозорец по стената ме спуснаха с кош, та избягах от ръцете му).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 че по откровение ми стана известна тайната, (както и по-преди вкратце ви писах,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 от което, като прочитате, може да разберете моето проумяване в Христовата тайна)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (А това "възлезе" що друго значи, освен че бе и [по-напред] слязъл в местата по-долни от земята.	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 Тоя, Който е слязъл е същият, Който и възлезе по-горе от всичките небеса, за да изпълни всичко).	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	051 COL 001 003 Благодарим на Бога, Отец на нашия Господ Исус Христос, (като се молим винаги за вас,	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	051 COL 001 004 понеже чухме за вашата вяра в Христа Исуса и за любовта ви към всички светии),	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(3/2)	058 HEB 007 021 (защото те ставаха свещеници без заклеване, а Той със заклеване от страна на Този, Който Му казва: "Господ се закле (и не ще се разкае), като каза: Ти си свещеник до века, (aiōn g165)	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 012 020 (защото не можаха да изтърпят онова, що им се заповядваше: "Даже животно, ако се допре до планината, ще се убие с камъни";	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 и толкоз страшна беше гледката, щото Моисей рече: "Много съм уплашен и разтреперан");	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Aionian	(1/0)	066 REV 002 027 (и той "Ще ги управлява с желязна тояга; Те ще се строшат като грънчарски съдове",	WARN
+Bulgarian---Bulgarian-Bible	ENCLOSURES	Summary	lines	126 / 127	WARN
+
+# UNEXPECTED
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(@)	1/0	WARN
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(*)	520/0	WARN
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(_)	176/0	WARN
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(|)	1/0	WARN
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	(/)	4/0	WARN
+Bulgarian---Bulgarian-Bible	UNEXPECTED	Source/Aionian	Summary	702/0	WARN
+
+# NUMERALS
+Bulgarian---Bulgarian-Bible	NUMERALS	Source	count	0	NOTICE
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	7	013-1CH-029-027 И времето, през което царува над Израиля, бе четиридесет години7 седем години царува в Хеврон, и тридесет и три в Ерусалим.	ERROR
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	9	019-PSA-010-001 (По славянски, част от 9-ий). Защо Господи, стоиш надалеч? Защо се криеш във времена на неволя?	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	60	040-MAT-018-024 И когато почна да преглежда докараха при него един, който му дължеше десет хиляди таланта(Равно на 60 000 000 лева зл.).	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	90	040-MAT-018-028 Но тоя слуга, като излезе, намери един от съслужителите си, който му дължеше сто пеняза(Равно близо на 90 лева зл.); хвана го и го душеше, и каза: Плати това, което ми дължиш.	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) И като възкръсна рано в първия ден на седмицата, Исус се яви първо на Мария Магдалина, от която бе изгонил седем беса.	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	2	042-LUK-021-002 А видя и една бедна вдовица, че пускаше там две лепти(Две лепти са равни на 2 1)2 стотинки.)	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	11	042-LUK-024-013 И, ето, в същия ден двама от тях отиваха в едно село на име Емаус, шестдесет стадии(Около 11 километра.) далеч от Ерусалим.	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	8	044-ACT-024-014 Но това ти изповядвам че, според учението което те наричат ерес, така служа на бащиния ни Бог, като вярвам8всичко що е по закона и е писано в пророците,	ERROR
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	2	048-GAL-003-013 Христос ни изкупи от проклетията на закона, като стана проклет (Гръцки: Проклетия. Виж. 2 Кор-5:21) за нас; защото е писано: "Проклет всеки, който виси на дърво";	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	4	058-HEB-004-009 Следователно, за Божиите люде остава една съботна почивка. (Виж. ст. 4.)	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	14	062-1JO-002-001 Дечица мои, това ви пиша, за да не съгрешите; но ако съгреши някой, имаме ходатай (Или утешител Вж. Йоан 14:16) при Отца, Исуса Христа праведния.	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	19	065-JUD-001-007 както и Содом, Гомор и околните им градове, които, подобно на тях, се предадоха на блудство и изпаднаха в противоестествени пороци (Гръцки: И следваха след чужда плът. Бит. 19:5), са поставени за пример, като носят наказанието на вечния огън. 	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	10	066-REV-002-010 Не бой се от това, което скоро ще пострадаш. Ето, дяволът скоро ще тури някои от вас в тъмницата, за да бъдете под изпитание, и ще имате скръб 10 дни. Бъди верен до смърт, и Аз ще ти дам венеца на живота.	WARN
+Bulgarian---Bulgarian-Bible	NUMERALS	Aionian	count	13	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

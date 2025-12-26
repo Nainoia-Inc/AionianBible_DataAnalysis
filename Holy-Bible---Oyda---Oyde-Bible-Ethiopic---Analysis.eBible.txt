@@ -1,0 +1,701 @@
+# File Name: Holy-Bible---Holy-Bible---Oyda---Oyde-Bible-Ethiopic---Analysis.txt
+# File Size: 86015       
+# File Date: 12/13/2025 05:52:28
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: ክለ ጫቆ
+# Bible Name English: Oyda Bible (Ethiopic)
+# Bible Language: Oyda
+# Bible Language English: Oyda
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: The Word for the World International
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=oyde
+# Bible Source Year: 2025
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Oyda---Oyde-Bible-Ethiopic	ENCODING	Source	Holy-Bible---Oyda---Oyde-Bible-Ethiopic---Source-Edition.VPL.txt	UTF-8	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCODING	Aionian	Holy-Bible---Oyda---Oyde-Bible-Ethiopic---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Oyda---Oyde-Bible-Ethiopic	BYTES	Source	bytes / chars	1356936 / 584702 (multi-byte)	NOTICE
+Oyda---Oyde-Bible-Ethiopic	BYTES	Aionian	bytes / chars	1415127 / 642859 (multi-byte)	NOTICE
+Oyda---Oyde-Bible-Ethiopic	BYTES	SourceClean	bytes / chars	1356111 / 583877 (multi-byte)	NOTICE
+Oyda---Oyde-Bible-Ethiopic	BYTES	AionianClean	bytes / chars	1412771 / 640745 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	missing-verse	043-JOH-003-015	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	missing-verse	044-ACT-015-018	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	missing-verse	049-EPH-001-021	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	missing-verse	3	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	aionian-verses	197	NOTICE
+Oyda---Oyde-Bible-Ethiopic	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 3:4 ዋሐንሳ ግማለ እስንፓ ኦችንትደ አፉላ ማአነ። ፋ ቃዝንተን ዳፈ ሳቀ ዳንጫነ። ኤ ሙእዘ ካꬅታን ቦለን ደከራ ሽዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 5:4 ዬክዙንꬅ አንጅንትዱንꬃና፥ ኡን ምንꬅ ደንጎዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 12:49 ፋ ኩሽትራ ታማሩንꬃና ማልተራ፥ «ቦኦተ፥ ታ እንታን ታ እሹንꬅን Ꮉንሳና።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 13:23 የዝን አራዳ ሳአ ቡዱንንትደ ቡዱ ቆፋራ ቃልቶ ስእዘ አስ። ኤ ኣፈ አፋነ፤ ፈታይ ጼት፥ ፈታይ እዝፑንታም ፈታይ ማህ Ꮉስታም አፋነ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 14:25 ዎንትማላ የሱሳ አባላ የꬍተራ ፋ ታማሩንꬃጎ ይእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 14:30 የዝን ዎልቃማ ጎተ ብእ ዣሽትዳ። Ꮉꬅታን ቆ አይክደ ዎደ «ላꬆ፥ ታና አሾያ» ያጋእ ኡክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 15:2 «ነ ታማሩንꬅ አኮስ ኑ አዱንꬅ ዎግቶ መን? ኡን ካꬃ ማአደፓ ቲኖ ፋ ኩሽቶ ሜጭንቶስ» ያጋእ ኦጭዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 15:18 የዝን ዶናራ ከዘ ባዝ ዎዝናፓ ከዛነ። አስ ቱንዘ ባዝ የንሳና።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 15:19 ኡንትን አስ ዎዝና ግዳፓ ከዝዘ ኢታ ቆፋ፥ ዎ፥ ኦላለ፥ ጎመ ዎይኤ፥ ካይዞ፥ ዎርዶ ማርክ፥ ጫሽ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 15:20 የንሳና አዝዘ ባዝታ አስ ቱንዛነፕ አትን ሜጭንትካይዘ ኩሸራ ሙዛና ቱንዞስ» ጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 16:9 Ꮉተን ይን ቲሮስተ? እችን ሙኩል አሱንꬅ እችን በሸ ቦራ ግሽዳኖን ኡን ሙእ ምዥን ይን ዋንꬅ ሌማተ ኩሙꬅ ደንዛኮ ቦትዳተ?	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 16:10 ይኒ ጋራን፥ ላፑን ቦራ ኦይዲ ሙኩል አሱንꬅስ ግሽዳኖ ኡን ሙእ ምዥን፥ ይን ዋንꬅ ሌማተ ኩሙꬅ ደንዛኮ ቲሮስተ?	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 19:14 የዝን የሱሳ፥ «ሳሎ ካእቱሞ Ꮉንስ ፋና የዙንꬅስ ማቅደ ግሾ ኤራꬅ ናኡንꬅ ታጎ የእዛኖ ካይፐተ፤ ዮኦ ጋኦተ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 20:12 ‹Ꮉንስ ሱባፓ ይእ ፈቲ ሳተ ጻላላ ኦችዳ። የዝን አዋራ ፌሾ ላቢ ፌዥደ ኑራ ኡን ዋይዝ ፈቶ ማቀ› ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 21:16 ኡን የሱሳጎ፥ «Ꮉንስ ጋዛኖ ነ ስእነ?» ያጋይዳ። የሱሳ፥ «ዬ ስእነ፥ ጾዘ ቃልተ፥ ‹ዦጋ ናኡንꬅ ዶንተን ꬋንግዘ ናኡንꬅ ዶንተ ጋላታ ጊግዛነ› ጋእንት ጻፍንትዳኖ ይን ናባብካተ?» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 21:41 ኡን ማህ፥ «ኤ የ ኢታ አሱንꬃና ኢታ ዎ ዎꬊ፥ ዎይንዘ ኣፍዘ ዎደ ኤዛ የልዘ ባግቶ ዎደራ ዎደራ እንግዘ መለ አስስ ኮꬄ እንጎዳ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 22:26 ይኒ ፋና፥ የ ላምአንን፥ Ꮉይꬓንን፥ Ꮉንግ ላፑኑንꬆ የሎደስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 23:17 ይን፥ ኤዩንꬆ፥ ቆቁንꬆ፥ ዎርቃ አꬋነነ? ዎርቂዛ ጌሽዘ ጾዘ ኬꬅታ አ?	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 23:19 ይን፥ ቆቁንꬆ፥ ዣርሽታ አꬋነነ? ዣርሽቶ ጌሽዘ በስታ አ?	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 23:23 «ይን፥ ጩቡንꬆ፥ ህገ አስታማሩንꬆን ፋርሳዉንꬆ፥ ይንታና ባደ። ይን ካርꬅ ጋላፓ፥ ናትራፓን ጻሎተፓ አስራታ ከሳነ። የዝን ህግተ የዘ ኣꬊ ኮሽዙንꬃና አሽዳ። ይናን ሉለ ፍርዳ፥ ማሮትꬅን ኡባ ባዛ አማንንተ። መሉንꬃናን አሽካይዛራ Ꮉንሳና ይን ኦቾደስ ቤዛነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 24:49 ፋ ላገ ኦችዙንꬃና Ꮉ አይክኮ፥ ማꬅንትዙንꬃራ ሙይኮ ኡዥኮ፥	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 26:10 የሱሳ ኡን ጋዛኖ ኤሪ፥ ኡንታጎ፥ «Ꮉና ማችቶ አኮስ ዋይተ? እዛ ታስ ሎኦ ባዝ ኦችዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 26:62 ካህኑንꬅ Ꮉላቅዘ ደንዲ ኤቂ የሱሳጎ፥ «Ꮉንስ ነና ሞትዘ ሞትስ ነ ማህዘባዝ ባ?» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 27:13 የ ዎደ ጵላጦሳ የሱሳጎ፥ «Ꮉንስ ነና ሞትዘ ሞቶ ኡባ ስኦሶ?» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAT 27:24 ካች ደንꬅፓ መለ አኮ ባዝን ኦቾደስ ዳንዳኦሳኖ ጵላጦሳ ብእ፥ Ꮉꬅ ኤኪ፥ «Ꮉይ ጽሎ አꬄ ሱꬅተ ታ ባያ። Ꮉኖ ኦችዘ ይንታና» ያጋእ አሱንꬅ ቲኖ ፋ ኩሽቶ ማትዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 1:6 ዋሐንሳ ግማለ እስንፓ ዳድንትደ አፉላ ማእዳ። ፋ ቃዝንተ ሳቀ ዳንጭዳ፤ ማህ ቦለን ደከራ ሽዳ ሙእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 1:35 የሱሳ ዎንት ማ ደንዲ፥ አስ ባይዘ በሳ Ꮉንግ፥ እዘ ጾዝ ዎስዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 3:16 ኤ ዶርደ ታጶ ላምኡንꬅ Ꮉንሳና፦ ጴጥሮሳ ጋእ ሱንꬅደ ስሞና፥	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 3:34 ፋ ካልተ በትደ አሱንꬃና ዉቱꬂ ዳኪ ብእ፥ «ይኬ፥ ታ እንታን ታ እሹንꬅን Ꮉንሳና።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 4:19 የዝን Ꮉና ሳአ የሲስ ይርጋን፥ ዱርቱሞ ካን ዱማ ዱማ አሞትꬅ ኡን ዎዝንተ ገሊ ቃልቶ ጩልዘ ግሾ ኣፈ አፍካይዛራ አትዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 6:48 ባቆ ኤ ታማሩንꬃጎ ባቅዘ ግሾ አባ ፍዽዛና ዋይስዛኖ የሱሳ ብእዳ። ዎንት ማ ሉኩለ ኦሎደስ ይእዘ ዎደ ኤ አባላ አፋ የꬍተራ ኡንታጎ ይእ፥ ኡንታና ኦሊ አꬋደስ ኮይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 7:21 አስ ዎዝና ግዳፓ ከዘ ባዝ ኢታ ቆፋ፥ ጎመ ዎይኤ፥ ካይዞ፥ አስ ዎ፥	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 9:37 «Ꮉንስ ጋር ኤራꬅ ናኡንꬃፓ ፈታ ታ ሱንꬅተ ሞክዘ ኦደን ታና ሞካነ፤ ማህ ታና ሞክዘ ኦደን ታና ኪተዛያን ሞካነፕ አትን ታና ጻላላ ሞኮስ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 10:14 የሱሳ ይኖ ብእ፥ ፋ ታማሩንꬃና ካጪ፤ ኡንታጎ፥ «ኤራꬅ ናኡንꬅ ታጎ ይእዛኖ ካይፐተ፤ ጾዘ ካእቱሞ የንስ ጋርዙንꬅስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 12:31 ማህ ኪታ ኡባፓ አꬍዘ ላምእንꬃ ኪትዘ፤ ‹አስ ኡባ ነ ኦምት ጋር ካꬎ› ያጋዛኖ፤ Ꮉንሳፓ አꬍዘ መለ ኪታ ባያ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 14:6 የዝን የሱሳ «Ꮉና ማችቶ አኮን ጋእፐተ፤ እዞ አኮስ ዋይተ? እዛ ታስ ሎኦ ባዝ ኦችዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	MAR 14:60 ካህኑንꬅ Ꮉላቅዘ አስ ኡቡንꬅ ቲንተ ደንዲ ኤቂ፥ «Ꮉንስ ነና ሞትዘ ሞትስ ነ ማህዘባዝ ባ?» ያጋእ የሱሳ ኦጭዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 1:29 ማይራማ ኤ ኦህተ ጋማ ታኒ፥ «Ꮉና አኮ ሳር» ጋእ ቆፕዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 1:61 ኡንትን፥ «ነ እግኑꬃፓ Ꮉይ ሱንራ ጼግንትደ ኦደን ባያ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 2:52 የሱሳ፥ ጭንጫትራ፥ ኡደ ድቻራን ሳባራ ጾዝ ቲኖን አስ ቲኖ ድጫነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 4:34 ኤ፥ «ናዝረተ የሱሳ ኑና አኮስ ዋይ ኑፓ Ꮉኮ፤ ነ ይእዳና ኑና ꬋብሶደስነ? ነ ኦና የዛኮ ታ ኤራነ። ኔኒ ጾዘፓ ይእደ ጌሽ» ያጋእ ኡክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 6:20 ፋ ታማሩንꬃጎ ብእ Ꮉንጋራ ያጋይዳ፦ «Ꮉንሶ፥ ዳሁንꬆ፥ ይን አንጅንትዱንꬃና፤ ጾዘ ካእቱሞ ይንትስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 10:31 ሱባፓ፥ አይሁደ ካህነ ፈተ ይና ኦግትራ ፋ አ ጋእ አꬍተራ አꬃ ብእ ደሽ ጋእ አꬍዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 11:42 «ፋርሳዉንꬆ ይንታና ባደ፥ ካርꬅ ጋላፓ፥ ጻሎተፓ፥ ይኒ ፋና የዘ ባዛፓ አስራታ ከሳነ። የዝን ጽሎትꬅን ጾዝ ካꬎ ይን ግዳ ባያ። መሉንꬃና አሽካይዛራ Ꮉንሳና ኦቾደስ ቤዛነ፥ የዝን አሽዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 11:43 «ፋርሳዉንꬆ ይንታና ባደ፥ አይሁደ ዎሳ ኬꬅተ ቦንቾ ኦይዳ፥ ጋበ ግዳ ቦንቾ ሳሮ ካꬋነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 12:27 አነ ፉ ዋይዝ ድጭዛኮ ቦኦተ። ዋዮስ ሱቆስ። መለ አቶ የዝን፥ ሶሎሞናን ፋ የዘ ቦንችተ ኡባነ ኡንታፓ ፈተ ጋርዛን ማእካያ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 12:38 ላꬂ ግዲ ብላሄ ማቅን ዎይ ዎንት ማ ማቅን ይእ፥ ይኒ ፋና ገንትካይዛራ ናግዝን ደንግደ የንꬅ አሩንꬅ አንጅንትዱንꬃና።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 14:14 Ꮉንስ ኩሸ ማሆደስ ዳንዳኦሰ ግሾ ኩሸ ማህታ ጌሹንꬅ ደንድዘ ቃማ ኔስ ማቃዳ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 18:21 አꬃይን፥ «የንሳና ኡባ ታኒ ናአትꬃፓ አይኪ ናግተራ ጋምእዳ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 20:2 «ነ Ꮉንሳና አኮ አደትꬅ ወልቃራ ኦችዛኮ ኑስ ኦሆ። Ꮉና አደትꬅ ዎልቅቶ ኔስ እንግደ ኦደ?» ያጋእ ኦጭዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 20:8 የሱሳ ማህ፥ «ይኬ፥ ታንን አኮ አደትꬅ ወልቃራ Ꮉንሳና ኦችዛኮ ይንትስ ኦሆስ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 20:46 «ጳርጎ ማኦ ማእ ዉታ ካꬍዙንꬃፓ፥ ጋበ ቦንቾ ሳሮ፥ አይሁደ ዎሳ ኬꬅተ ቦንቾ ኦይዳ፥ ሞኩንትዘ ኬꬃን ቦንቾ በሲ ኮይዘ ህገ አስታማሩንꬃፓ ናግንቶተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 21:34 «ይኬ፥ ቦረ ባይዘ የሳራ፥ ኡሽ ጋንራ የስ ባዝስ ኡንእንተራ ይን ዎዝንታ አይክንታመ ጋራን ይና ቃምታ ቲርካይዝን ጽኬ ፋና ይንታና አይካመ ፋና ናግንቶተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 22:27 ዬዝን፥ ሞክዘፓን ሞክንትዘፓ አየ አ? ሞክንትዛ ባነ? የዝን ታኒ ይን ግዳ ሞክዘ ፋና።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 22:63 የሱሳ ናግዘ አሱንꬅ ኤዛ ለቀን Ꮉ አይክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	LUK 23:22 ጵላጦሳ Ꮉይꬓንꬆ፥ «Ꮉይ አꬄ ቆህደ ባዝ አኮ? ዎስ የልꬅዘ ባላ ታ ደንግካያ። ይኒ ግሾ፥ ጋራፊ ዳኪ አሾዳ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 4:52 ኤ ፋ አሩንꬃና ፋ ናአይስ አኮ ሳተ ሎኤዛኮ ኦጭዳ። ኡን ማህ፥ «ኦማ ላፑን ሳተ ምችታ አሽዳ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 7:4 ፋስ ቆንጪ ኤርንቶደስ ኮይዘ አስ ኦደን ፋ ኦችቶ አቾስ። ነ Ꮉንሳና ኦቺ ነባዝ አላመስ ቆንጭዞ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 10:32 የሱሳ ኡንታጎ፥ «ታኒ ኦቾደ ጋር ታ አዳይ ታስ እንግደ ጋማ ሎኦ ኦችቶ ይንታና ኦቺ ቤዝዳ። የንሳፓ አየ ግሾ ታና ሹቻራ ꬎጎደስ ኮየ?» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 11:36 ይኒ ግሾ፥ አይሁዱንꬅ፥ «ኤ አላዛረ አኮ ጋር ካዛኮ ቦኦተ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 17:11 ታ ይኬፓ ሱባ አላምተ ጋምኦስ፤ ኡን አላምተ የነ። ታ Ꮉተ ኔጎ ቅታነ። ጌሽ አዳዮ፥ Ꮉንስ ነ ታስ እንግዱንꬅ ኔራን ታራን ፈቶ ማቅዳን ጋራ ኡን ፈቶ ማቃደ ጋር ኡንታና ነ ታስ እንግደ ነ ሱንꬅተ ናጎ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 17:25 «ጌሽ ታ አዳዮ፥ አላመ ነና ኤሮስ፥ የዝን ነና ታ ኤራነ። ማህ ነ ታና ኪተዛኖ Ꮉንስ ኤራነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 18:8 ኤ ማህ፥ «ታኒ የሱሳ ማቅዛኖ ይንትስ ኦህዳ። ይኬ፥ ይን ታና ኮይዘ ባዝ ማቅኮ Ꮉንስ ቅቶ ጋኦ አሾተ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 21:15 ኡን ዳይጽቶ ሙእዳንፓ ሱባ፥ የሱሳ ስሞን ጴጥሮሳጎ፥ «ዮና ናአ ስሞና፥ ታና Ꮉንሳፓ አꬂ ካꬋነ?» ያጋይዳ። ስሞን ጴጥሮሳ፥ «ዬ ላꬆ፥ ታ ነና ካꬍዛኖ ነ ኤራነ» ያጋይዳ። የሱሳ ኤጎ፥ «ታ ꬋንግዘ ዱሮ ናኡንꬃና ዬንጎ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 21:22 የሱሳ ኤጎ፥ «ታ የኦደ ዎንꬅስ ኤ ሸምፖራ የሳደ ጋር ታ ኮይኮ፥ ነና አኮ ማ? ነ ታና ካሎ» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JOH 21:23 ይኒ ግሾ፥ የ ታማርዘ Ꮉይቆስ ጋዘ ኦሄ እሹንꬃና ኡባ የልዳ። የዝን የሱሳ፥ «ታ የኦደ ዎንꬅስ፥ ኤ ሸምፖራ የሳደ ጋር ታ ኮይኮ ነና አኮ ማ?» ጋይዳፕ አትን «Ꮉይቆስ» ጋይካያ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 1:14 Ꮉንስ ኡቡንꬅ ማቹንꬃራ፥ የሱሳ እንታ ማይራምራን የሱሳ እሹንꬃራን ኡባ ፈቲ ዎዝና ማቂ ምንꬂ ዎሳነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 1:25 ይሁዳ ፋ በሳ ቅቲ፥ አሽደ ኦችተ ሐዋረትꬅ ኦቻ ኤኮደ ጋር Ꮉንሳፓ ኑስ ሻጎ» ጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 2:13 የዝን መሉንꬅ፥ «Ꮉንስ ካጽካይዘ ዎይነ ኡዢ ማꬅንትዳ» ያጋእ ለቂዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 3:8 አꬃይ ዶሊ ደንዲ ኤቅዳ። ጎደን Ꮉንካን የ አይክዳ። ይንፓ ማቂ፥ የꬍተራ፥ ዶልተራን ጾዝ ጋላትተራ ኡንታራ ዎላ ጾዘ ኬꬃ ገልዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 7:28 ነ ኦማ ግብጸ አꬃ ዎꬍዳንጋራ ታና ዎꬎደስ ኮያነ?› ያጋእ ሙሴ ኡርቂ ዳክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 8:1 ሳዉላ እስጢፋኖሳ ዎ ቆፍተ ገልዳ። የ ዎደ የሩሳላመ የዘ ዎሳ ኬꬅተ ዳማ ባይኤ ደንድዳ። ሐዋሩንꬃፕ አትን አማንዘ ኡቡንꬅ ይሁዳ ሳአን ሳማራ ሳአ ላልንትዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 10:12 እዛ በስተ ኦይዲ ቶሄራ የዘ ጉርደ ጾꬅ፥ ሳዛራ ጎችንትዘ መትꬅን ሳሎ ላንዳ ኡባ የነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 10:47 «Ꮉንስ ማህ ኑ ጋር ጌሽ አያና ኤክዱንꬅ ጻማቅንታመ ጋር Ꮉꬅ ካዮደ ኦደ?» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 14:10 ፋ ቃልቶ ꬎቅ ዪዚ፥ «ሞሊ ነ ቶህትራ ኤቆ» ያጋይዳ። ዬዝን፥ ዶሊ ደንዲ ኤቂ የ አይክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 14:13 ካታማፓ ጋጻ የዘ ድያ ጎይኖ ኬꬃ ካህንዘን አሱንꬅ ኮርማን ቦንቾ ፉ ሐዋሩንꬅስ ዣርሾደስ ኮይ ካታማ ፉርꬃ ክእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 16:17 ጳዉሎሳን ኑናን ካሊ፥ «Ꮉንስ ኡባፓ ካታራ ጾዘ አሩንꬃና! ኡን ይን አቶደ ኦግቶ ኦህዙንꬃና» ጋእ ኡክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 16:20 ዳይኑንꬅ ቲኖ ኡንታና ካንግ፥ «Ꮉንስ አይሁደ አስ ማቂ ኑ ካታማ አሱንꬃና ጋማ ዋይꬃነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 17:6 ጳዉሎሳን ስላሰን ኡንትስ በንታንጽን፥ ኢያሶነን ፈቲ ፈቲ አማንዙንꬃና ካታማ Ꮉላቁንꬃጎ ጎቺ ካንግ፥ «Ꮉንስ ሳእቶ ኡባ ቡቅዙንꬅ Ꮉተ ኑጎ ይእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 17:7 ኢያሶነ ኡንታና ፋ ካራ ጋድዳ። Ꮉንስ፥ ‹የሱሳ ጋዘ መለ ካት የነ› ጋእ ቄሳረ ኪቶ እጻነ» ጋእ ꬎቅ ጋይደ ቃላራ ኦህዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 20:5 Ꮉንስ ቲኖ Ꮉንግ ኑና ጢሮአዳላ ካፋነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 22:12 «ዳማስቆ የዘ አይሁዱንꬅ ኡባ ማርክዘን ጋማ ቦንችዘ ፈቲ ሀናንያ ጋዘ አꬄ፥ ኑ ህግቶ ቦንችዘን ጾዝ ምንꬂ ዎስዘ የነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 24:12 አይሁዱንꬅ ታና ጾዘ ኬꬃ ማቅን አይሁዱንꬅ ዎሳ ኬꬃ ማቅን ካታማ ማቅን ኦደራን ላሎደራ ዎይ አስ ሺሺ ቡቁስ ደንꬅꬆደራ ፈቲ አስን ደንግካያ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 24:20 ዎይ ታኒ ሻንጎ ቲኖ ሺቅደ ዎደ ኦችደ ባላ የዝኮ Ꮉንስ ነ ቲኖ የዙንꬅ ኦሆ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 26:11 ጋማ ዎደ አይሁደ ዎሳ ኬꬃ ኡባ ኡን ሴርንቶደ ጋራን የሱሳ ጫዦደ ፋና ዎልቂስ ቆፕዳ። ታኒ ዎጋባዝ ኡንታና ካጪ መለ አቶ የዝን፥ ባለ ሳአ ካታማ የሎደስ ኡንታና ባይአነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 27:31 ጳዉሎሳ ማቶ Ꮉላቅዘጎን ዎታዳሩንꬃጎ፥ «Ꮉንስ ማርካብተ ሸምፒ በታንጽኮ ይን አቶደስ ዳንዳኦስ» ጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ACT 27:40 የይዝ፥ ማርካብዘ ቅታመ ጋር አይክዘ መቅቶ ብሊ አባ ኦልዳ። የ ዎደ እዥዘ ምንጻ አጭዘ ጋድዛ ብልዳ። ይንፓ ሱባ፥ ባቅታ ማርካብዛ ቲኖ ኡርቆደ ጋር ማርካብዛ ካንግዘ ሻራ ቲኖ ዛላራ ꬎቅ ዪዚ የ አይክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 1:20 አላመ መꬍንትደፓ ደንꬂ፥ አስስ በንቶሰ ጾዘ Ꮉኖ፥ ይናን ኤ መዽና ዎልቃን ጾዘትꬅ ኤ መትꬅተ ቆንጪ የዘ ግሾ አሱንꬅ ፋ ኢታትꬅትስ ምክናተ ማቅዘ ባዝ ባያ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 1:29 ኡን ቆሄራ፥ ኢታትꬃራ፥ ዥምባራራ፥ ገነራ፥ ቅናተራ፥ ሸምፖ ዎራ፥ ላለራ፥ ጭሞራን ኢታ አሞራ ኩምዳ። ኡን ዝግርዙንꬃና፥	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 1:32 Ꮉንስ ፋና ኦችዙንꬅስ Ꮉይቆ ቤዛነ ጋዘ ጾዘ ህገ ኤርተራ፥ Ꮉኖ ኦቻነ። ኡን ፋ ፋስ ኦችዛኖ ጻላላ ማቅካይዝን ኦችዘ መሉንꬃናን ልከ ጋእ ናሻነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 4:15 ህገ ጾዘ ካች ከእነ፥ የዝን ህገ ባይዘ በሳ ህገ አን አሸን ባያ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 7:7 ዬዝን፥ ኑኒ ዋጋዉደ? ህገ ናጋራነ? አደ! የዝን ህገ ናጋራ አኮ የዛኮ ታና ኤርስዳ። ህገ፥ «አሙꬍፐ» ጋይካይዛኮ፥ አሙ አኮ የዛኮ ታ ኤሮስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 8:19 መትꬅ ኡባ ጾዘ ናአ ቆንጭꬅቶ ጋማ አሙꬊ ካፋነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 8:20 መትꬅ ኡባ Ꮉሪ ማቅዳ፤ ይናን፥ መትꬅታ ዶሮር ባይዝን ኡፋይሳራ ናጎደ ፋና ኦችደ ጾዘ ቆፋ Ꮉንዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 8:21 መትꬅ ፋ ኦምተ ꬋበ አሮትꬃፓ ኬዚ፥ ጾዘ ናኡንꬃራ ዋሎ ቦንቾ ግሽንቶዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 8:22 መትꬅ ዎላ Ꮉይኖ የሎደስ የሎ ꬋኤ አይክደ ማችት ፋና እንጽጸራን ኡንአራ የዛኖ ኑ ኤራነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 8:23 ማህ ይኖ መትꬅት ጻላላ ባይዝን ጌሽ አያና እሞ ኤክደ ኑኒ፥ ኑ ኦምተ ኑ አሳትꬅትስ ዎዞ ማቅደ ጾዘ ናአ ማቅዘ ኡፋይስቶ ናግተራ ኑ አሳትꬅተ እንጽጻነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 8:39 ꬎቃ ማቅን ዝቃ ማቅን አኮ መትꬅ ማቅን ኑ ላꬄ፥ ክርስቶስ የሱሳራ የዘ ጾዘ ሲቆፓ ኑና ሻኮደስ ዳንዳኦሳኖ ታኒ ኤርዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 12:8 ኑ እሞታ መሉንꬃና ምንꬅ ማቅኮ፥ ሚንግ ምንꬅꬆደስ ቤዛነ። ኑ እሞታ ኑስ የዘ ባዛፓ መሉንꬅስ እንገ ማቅኮ፥ ዎዝናፓ እንጎደስ ቤዛነ። ኑ እሞታ አሄ ማቅኮ፥ ሚንግ አሆደስ ቤዛነ። ኑ እሞታ መሉንꬅስ ኬሄ ማቅኮ፥ ኡፋይሳራ ኬሆደስ ቤዛነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	ROM 15:4 ጌሽ ማጻፍተ እንግዘ ገንጮን ምንꬅራ ኑ ኡፋይስቶ ኤኮደ ፋና ጌሽ ማጻፍተ ጻፍንትደ ኡባና ኑና ታማርሶደስ ጻፍንትዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 4:7 ኔኒ መሉንꬃፓ አኮራ አ? ኔኒ ኤክካይዘባዝ አኮ የዘ? ዬዝን፥ ኔኒ ኡባ ባዝ መለ አሳፓ ኤክደባዝ ማቅኮ፥ ኤክካይዘ አስ ፋና አኮስ ጬቅንተ?	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 5:11 የዝን አማናነ ጋእተ ኦላለ Ꮉንትዙንꬃራ ዎይ ዣርꬍዙንꬃራ ዎይ ኤቃ ጎይንዙንꬃራ ዎይ ጫዥዙንꬃራ ዎይ ማꬅንትዙንꬃራ ዎይ ካይስትዙንꬃራ የልንትፐተ ጋእ ይንትስ ኦህነ። የንስ ጋርዘ አሳራ መለ አቶ የዝን፥ ካꬃን ሙእፐተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 5:12 ዎሳ ኬꬃፓ ባለራ የዙንꬃላ አፋ ፍርዶደስ ታና አኮ ማ? ዎሳ ኬꬅተ የዙንꬃላ አፋ ይን ፍርዶሳነ?	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 7:39 ማችታ ፋ አዝንዘ ፋጻ የዘ ዎደ ኡባ ኤራ አጭንትዳ። የዝን እ አዝንዘ Ꮉይቂኮ፥ ፋ ኮይደ አዝኒ ገሎደስ ዳንዳአነ። ማቆየዝን፥ እዛ ገልዘ ꬊራ አማንዘ አስ ማቃደስ ቤዛነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 11:14 ꬊራꬅ ፋ ኦምቶ ድችኮ ኤስ ቦርሶ ማቅዳኖ መለ አቶ የዝን መትꬅ ይንታና ታማርሶሶ?	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 13:13 ይኬ፥ አማኖ፥ ኡፋይስን ሲቆ፥ Ꮉንꬅ Ꮉይꬑንꬅ ሚንግ የሳዳ። የዝን Ꮉንሳፓ አꬍዘ ሲቆ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 14:23 ዎሳ ኬꬃ አሱንꬅ ፈትላ ሺቅዘ ዎደ ኡቡንꬅ ዱማ ዱማ ዶናራ ኦህንትኮ ኤሮሰ ዎይ አማኖሰ አሱንꬅ ይን ሺቅተ ይእ፥ «Ꮉንስ ዣሽታነ» ጋኦሳነ?	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 15:44 መትꬅ ጋላ ቡዱንቲ፥ አያና ጋላ ማቂ ደንዶዳ። መꬎ ጋላ የዝኮ፥ አያና ጋላ የነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1CO 15:46 የዝን መትꬅ አስ ቲኖ ይእን፥ ሱባፓ አያና አስ ይእዳ ፋትን አያና አስ ቲኖ ይእካያ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 5:17 ይኒ ግሾ፥ ኦንን ክርስቶሳ ግዳ የዝኮ ክለ መꬎ፤ ጋልአ መትꬅታ አꬍዳ፤ ኡባ ክለ ማቅዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 7:11 ይን አዛንታ ይን ግዳ አፍዝደ ኣፍቶ ቦኦተ። ይና አዛንታ ይንታና አኮ ጋር ደንꬅዛኮ አኮ ጋር ማሄ እንገዛኮ፥ አኮ ጋር ኤልሲ ካጭዛኮ፥ አኮ ጋር ዣሽዘዛኮ፥ አኮ ጋር ሱክዘዛኮ፥ አኮ ጋር ታስ ቃናትዘዛኮ፥ አኮ ጋር ሴርꬅ ካልꬅዛኮ ቦኦተ። Ꮉና ኡባነ ይን ጌሽ ማቅዛኖ ማርክꬍዝዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 8:10 ታኒ Ꮉና ኦህተ ይንታና ማድዘ ዞረ ዞሮደስ ኮያነ። ይን ኦማ በረ እማደስ ጻላላ ማቅካይዝን ይኖ ኦቾደስ አሞትꬃራን ይን ቲናነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 8:18 ዎንገለ ማርክራ ዎሳ ኬꬃ ኡባነ ጋማ ኤርንትደ እሻ፥ ኑኒ ትቶራ ዳካነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 9:2 ይን ማዶደስ ሎይꬂ አሙꬍዛኖ ታ ኤራነ። ይን አካያ አሱንꬅ፥ ኦማ በረፓ አይኪ ማዶደስ ጊግንትዳኖ ታኒ መቀዶንያ አሱንꬅስ ዶና ኩንꬅ ኦህዳ። ይን ዳማ አሞትꬅታ ኡንታፓ ጋሙንꬃና ደንꬅꬅዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 9:5 ይኒ ግሾ፥ Ꮉንꬅ እሹንꬅ ታፓ ቲንꬊ ይንታጎ Ꮉንግ፥ ይን እንጎዳ ጋይደ እሞትꬅቶ ቲንꬊ ጊግሳደ ጋር ታ ኡንታና ኪትዳ። ታ የእዘ ዎደ ይና እሞታ ጊጊ በቶ። የ ዎደ ይና ኬሃትꬅ እሞታ ዎልቃራ ማቅካይዝን ካራ ማቅዛኖ ኤርሳነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 9:7 ጾዚ ኡፋይሳራ እንግዘ አꬃ ካዽዘ ግሾ ዎልቃራ ዎይ ካꬎ ባይዝን ማቅካይዝን ፈቲ ፈቲ አስ ፋ ዎዝንተ ቆፕዳንጋራ ካራ እንጎደስ ቤዛነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 9:12 Ꮉና ይን እንግዘ እሞታ አማንዘ አስ ፋጭቶ ኩን ጻላላ ማቅካይዝን አሱንꬅ ጾዝ ጋላቶደስ ምክናተ ማቃነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 11:2 ጾዚ ይንታና ቡዞ ማሆደስ ቆፕዳንጋራ፥ ታንን ይንትስ ቆፓነ። ታኒ ይንታና ጌሽ ዉዱርትጋራ ፈቲ ꬊራ፥ ክርስቶሳስ እንጎደስ ኦጪ ጋድዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2CO 12:20 ታ ይንታጎ Ꮉንግዘ ዎደ ኦደ ኤርደ ይን ታ ኮይዛንጋራ ይአንጽኮ፥ ማህ ታንን ይን ኮይዛንጋራ ይእ የልንታንጽኮ ጋእ ዣሽታነ። ማህ ኦደ ኤርደ ይን ግዳ ላለ፥ ቃናተ፥ ዥሎ፥ ፋና ካ፥ ዝግርስ፥ አስ ሱንꬅ ኢሰ፥ ኡቱራን ካችን የዛንጽ አታማ ጋእ ዣሽታነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	GAL 2:14 የዝን ኡን ዎንገለ ቱርራ ሉለ የꬎሳኖ ብእ፥ ጴጥሮሳ አስ ኡባ ቲኖ፥ «ኔኒ አይሁደ ማቅተራ፥ አይሁደ ዎጋ ፋና ማቅካይዝን አይሁደ ማቆሰ አሱንꬅ ፋና የነ፤ ዬዝን፥ ዋይዝ አይሁደ ማቆሱንꬃና፥ ‹አይሁደ ዎጋራ የዞተ› ጋእ ዎልቂ?» ያጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	GAL 5:20 ኤቃስ ጎይነ፥ ብታ፥ ሞርከትꬅ፥ ካች፥ ቃናተ፥ ዥሎ፥ ዛዛእንተ፥ ፋና ካ፥ ሻክንተ፥ ኢታ ዞረ	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	EPH 1:10 ዎደ ዉርሱꬅተ ጾዚ ፎሎደስ ቆፕደ ቆፍታ፥ ሳሎን ሳአ የዘ መትꬅ ኡባ ክርስቶሳራ ጻጾደስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	EPH 5:4 ዬልዘ ባዝን ቦዛ ኦሄ ዎይ ቅ ይንትስ ቤዞሰ ግሾ የዝፐተ፤ አꬊ ጾዝ ጋላቶተ ፋትን።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	EPH 5:7 ይኬ የንሳራ ዎላ ኢታ ባዝ ኦችዙንꬃና ማቅፈተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	PHI 1:17 የዝን Ꮉንኩንꬅ ታ አችትላ አፋ መለ ማꬋ ኮኦደባዝ ኡንትስ አዝን ፋና ካፓ ደንዲ ክርስቶአባዝ ኦህነፕ አትን ቱሪ ዎዝናፓ ኦሆስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	PHI 2:3 ይንታና ካራ ዎይ ጬቅንትዘ ፋꬆሰ አሞራ ፈቲ ባዝን ኦችፐተ። የዝን ይን ፈታይ ፈታይፓ ዳማነ ያጋእ ቆፕካይዛራ ይንታና ካዉሾተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	COL 2:17 Ꮉንስ ቲኖፓ ዮኦደስ የዘ ባዝስ ዳሾ፥ የዝን ቱርዘ ክርስቶሳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	COL 3:5 ይኒ ግሾ፥ ይን ግዳ የዘ አላመ አሞትꬅቶ ዎꬎተ። የንስን ኦላለ፥ ቱናትꬅ፥ ኦላሎደስ አሙ፥ ኤቃ ጎይኖ ፋና ማቅደ ቂር።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	COL 3:6 Ꮉንስ ባጋራ ጾዘ ባድꬅ ኪትንቶሰ አሳላ አፋ የኦዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	COL 3:7 ይንትን ዛጋ ይና ኢታ ኦግተ Ꮉንትተራ Ꮉንሳና ኦችተራ የሻ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	COL 3:8 Ꮉተ ይን Ꮉንሳና ባድꬅ፥ እጻ፥ ካች፥ ዝግርስ፥ ቦርስዘ ኦሄ ይንታፓ Ꮉሶተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	COL 3:11 Ꮉና ክለ መትꬅተ፥ ግርኬ አስ ዎይ አይሁደ አስ፥ ጋራዝንትደ ዎይ ጋራዝንትካይዘ፥ ባርባረ አስ ዎይ እስኩተ አስ አሮ ዎይ ቦንቾ አስ ባያ። ክርስቶሳ ኡባ፤ ኤ ኡባነ የነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1TH 2:3 ኑኒ ይንታና ዞርደ ባልራ ዎይ ጭሞራ ዎይ ገነራ ባያ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1TH 4:6 ኑ ዛጋ ይንትስ ኦህዳን ፋና ምንꬂ ዞሪዳንፋና ላꬂ ይኒ ፋና ኦችዛ ኡባ ፍርድዘ ግሾ ኦንን Ꮉንሳራ ፋ አማንዘ እሻያ ቆሆደስን ጭሞደስ ቤዞስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2TH 2:11 ይኒ ግሾ፥ ኡን ዎርዶ ማቅዘ ባዝ አማኖደ ፋና ጾዚ ዎልቃማ ባል ኡንታላ ዳኮዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2TH 2:16 ኑ ላꬄ የሱስ ክርስቶሳን ኑና ካꬍደ ፋ አꬎ ኬሃትꬅተ መዽና ምንꬅራ ሎኦ ኡፋይስ እንግደ ጾዘ ኑ አዳይ ኑ ዎዝንቶ ምንꬅꬆ፤ ሎኦ ኦቻራን ቃላራ ኡባ ምንꬅꬆ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2TH 3:12 ኑኒ የንስ ፋና አሱንꬅ ዎጋ የስ የሳደ ፋናን ኮሽዘ ባዝ ኦቺ ደንጎደ ፋና ላꬄ የሱስ ክርስቶሳ ቲኖ ኡንታና ኪታነን ዞራነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1TI 6:5 የንስ ጊጎሰ ላለ ካልꬃነ። ማህ ኡንትስ ኢታ ዎዝና የነ፤ ቱርን ꬋብዳ፤ ኡን ጾዝ አማንዛና ዱረትꬅስ ኦገ ጋእ ቆፓነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2TI 2:20 ፈቲ ዳማ ኬꬃ ዎርቃፓ ዎይ ብራፓ ኦችንትደ ሚሸ ጻላላ ባይዝን ምንጻፓ ዎይ ሎቃፓ ኦችንትደ ሚሸ የነ። የንሳፓ ባጉንꬅ ቦንቾስ፥ ማህ ባጉንꬅ ቦርንትደ ኦቻስ ፌዣነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	TIT 3:8 Ꮉይ ቃልዘ አምንንትደ ቃላ። ጾዛ አማንዙንꬅ ሎኦ ኦቻ ኦቾደስ ጊግዱንꬃና ማቃደ ፋና ነ Ꮉና ቃልቶ ምንꬂ ኦሆደ ፋና ታ ኮያነ። Ꮉንስ አስ ኡባስ ሎኦን ማድዘ ባዝ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	HEB 1:11 የንስ ኡባ ꬋቦዳ፤ የዝን ነ የሳዳ። ኡን ኡባ አፉላ ፋና Ꮉልኦዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	HEB 4:13 ጾዘ ቲኖ አችንትደ አኮ መትꬅን ባያ። ኤ ኣፍት ቲኖ ኡባ ባዝ ቆንጨን ካሎ የነ። ኑኒ ማሄ እንጎደስ ቤዘ ኤ ቲኖ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	HEB 7:5 ካህነ ማቅደ ሌወ ኮች እስራኤለ አሳፓ፥ የንስን አብራሃማ ኮች ማቅደ ፋ እሹንꬃፓ አስራታ ኤኮደ ጋር ህግታ ኪታነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	HEB 9:10 የንስ ሙንታ ባዝ፥ ኡሽባዝ ዱማ ዱማ ሜች ዎግቶ ኦህዙንꬃና። ኡን ክለ ዎጋ የኦደ ዎንꬅስ ኦችንትዘ ባለ ዎጋ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	HEB 9:19 ሙሴ ህገ ኪታ ኡባ አስስ ኦህዳንፓ ሱባ ዱሮ ሱꬅን ዴሽ ሱꬅ Ꮉꬃራ ዎርቂ፥ ዞቆ ዱሮ እስንን ህሶጰ ታሸ ኤኪ፥ ማጻፍዘ ጋልቶን አሱንꬅ ጋልቶ ዉጹርካነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	HEB 11:12 ይኒ ግሾ፥ Ꮉይቂደ አስ አዝዘ ፈቲ ꬊራፓ ሳሎ ጾልንቶ ጋራን አባ ጋጻ የዘ ፋይዶ ባይዘ ሻፈ ፋና ኮች የልንትዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	HEB 13:8 የሱስ ክርስቶሳ ኦማን Ꮉይኖን መꬍናስ ላምንቶስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	JAM 1:10 ማህ አማንዘ ዱሩንꬅ ጾዚ ኡንታና ዝቂ ኦችዘ ዎደ ኡፋይቶ። ዱረ አሱንꬅ ፉ ፋና ꬋቦዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1PE 1:22 ይን ቱርስ ኪትንትተራ ጩቦ ባይዘ እሽቱሞ ካ ይን ሸምፕተ ምንꬂ ፈታይ ፈታያ ዎዝናፓ ዎል ካꬎተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1PE 1:24 ጾዘ ቃላ፥ «አስ ኡባ ማታ ፋና፤ ኤ ቦንችታ ኡባ ፉ ፋና። ማታ መላነ፥ ፉꬍታን ጉፋነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1PE 3:3 ይን፥ ይን ኦማ ዳደራን ዎርቃ አራ ዎይ ሎኦ አፉላ ማኤራ ማቅፈ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1PE 5:2 ይንትስ አደትꬃራ እንግንትደ ጾዘ ዉድቶ የንጎተ። ጾዚ ኮይዛን ፋና ካራ ፋትን ኡንእራ የንግፐተ። ማህ ሚሸ ኮይ ባይዝን ካꬊ ማዶዳ ጋእ ሎኦ ቆፋራ የንጎተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 1:7 ጾዛ ኡፋይስ የዘሳላ አፋ እሽትሞ ካ፥ እሽትሞ ካላ አፋ አስ ኡባ ሲቀ ጉጆተ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 1:8 Ꮉንስ ይንትስ ጋንግ የዝኮ፥ ላꬂ የሱስ ክርስቶሳ ኤረራ ማድዘ አስን ኣፈራ የዘ አስ ማቆዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 1:9 የዝን Ꮉንስ ባይዘ ኦንን ኡከ የዘ ባዝ ጻላላ በእዘ ቆቀ። ኤ ፋ ቲኖ ናጋርትፓ ጌዥዳኖ ቦትዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 1:10 ይኒ ግሾ፥ ታ እሹንꬆ፥ ይን ጼግንቶን ይን ዶርንቶ ምንꬆደስ ካሰንፓ አꬂ ምንጎተ። ይን Ꮉንሳና ኦችዘባዝ ማቅኮ፥ ꬉቡንታማ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 1:12 ይኒ ግሾ፥ ይን Ꮉንሳና ኤርዘ ባዝን ይና አይክደ ቱርተ ሚንግ የዘ ባዝ ማቅኮ፥ ታኒ Ꮉንሳና ኡባ ዎደ ይንታና ቆፍዘ አሾስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 1:15 ታኒ ይንታፓ ሻክንትኮን ይን Ꮉንሳና ኡባ ዎደ ቆፖደ ፋና ታስ ዳንዳእንትዘ ባዝ ኡባ ኦቾዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 2:10 ኡባፓ አꬂ ቱና አሞራ አሾ ቆፋ ካልዙንꬃናን ጾዘ አደትꬅ ዎልቃ ቦርዙንꬃና፥ ፍርዳ ቃማ የሎደስ ላꬂ ናግዝዳ። የንꬅ አሱንꬅስ ዎዝና ምንꬅን ኡቱርትዙንꬃና ማቅደ ግሾ ሳሎ መቱንꬃናን ጫዥተራ ዣሽቶስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 2:11 የዝን ኪታንቹንꬅ ዎርዶ አስታማሩንꬃፓ ዎልቃራን ጻላትꬃራ ጋማ አꬋነ የዝን ላꬄ ቲኖ አደትꬅ ዎልቃ የዘ ሳሎ መቱንꬃና ጫዦስ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	2PE 3:10 የዝን ላꬄ ቃምታ ካይዞ ፋና ዮኦዳ። ይና ቃምተ ሳሎ ዳማ ꬎገራ ꬋቦዳ፤ ሳሎ መቱንꬅ ታማራ ኤጽንቶዳ፤ ሳአን እዝላ አፋ የዘ ኡባና ꬋቦዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	1JO 5:8 የንስ፥ ጌሽ አያና፥ Ꮉꬅን ሱꬅ። Ꮉንꬅ Ꮉይꬑንꬅ ማርካትꬅታ ፈቶ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 1:14 ኤ ኦምታን ኤ ኦማ እስንꬅታ ቦꬅ ዱሮ እስን ፋናን ሻች ፋና ቦꬅ፤ ኤ አፉንꬂ ታማ ሎጸ አዛነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 3:14 «ሎዶቅያ ዎሳ ኬꬃ ኪታንቾስ Ꮉንጋራ ጋእ ጻፎ። ‹አምንኤ› ማቅደ አማንንትደ ቱሮ ማርካ ማቅዳይ፥ ጾዚ መትꬅ ኡባስ በንተ ማቅዳይ Ꮉንጋራ ጋነ:	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 4:6 አራትዘ ቲኖ ብርለ አዝዘ ፎእዘ ቡርጩቆ አዘ አባ የነ። ቲኖራን ሱባራ ኣፈ ኩምደ ኦይዲ ጾꬅ መቱንꬅ አራትዘ ካንተ የነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 5:6 ይንፓ ሱባ፥ ሹክንትደ ዱርዛይ አራትዘላ፥ ኦይዲ ሸምፖራ የዘ መቱንꬅስን ጭሙንꬅስ ግዳ፥ ኤቅዳያ ብእዳ። ኤስ ላፑን ጉሙርን ላፑን አፉንꬅ የነ። የንስ አላመ ኡባስ ኪትንትደ ጾዘ ላፑን አያኑꬃና።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 5:8 ኤ የ ጻጽንትደ ማጻፍዛ ኤክደ ዎደ ኦይዲ ሸምፖራ የዘ መቱንꬅስን ላምእታም ኦይዲ ጭሙንꬅ ዱርዘ ቲኖ ጎልእዳ። ኡን ፈተ ፈተ ዲꬅን ጌሹንꬅ ዎሳ ማቅደ እጻነ ኩምደ ዎርቃ ሻተ አይክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 5:11 ታ ብእደ ዎደ ሙኩል ቶሄ ሙኩልን ታጶ ሙኩል ቶሄ ታጶ ሙኩል ማቃደ ኪታንቹንꬅ ኦꬅ ስእዳ። ኡንትን አራትዘስ፥ ኦይዲ ሸምፖራ የዘ መቱንꬅን፥ ጭሙንꬅ ካንቶ ዉትዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 5:13 ይንፓ ሱባ፥ ሳአን፥ ሳሎ፥ ሳአፓ ኦሞራ አባ ግዳ የዘ መትꬅ ኡባ፥ «አራትዘላ አፋ በትዳይስን ዱርዘስ፥ ጋላታ፥ ቦንቾ፥ ሳባን ዎልቃ መꬊ መꬍናስ ማቀ» ጋእ የጾደራ ስእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 5:14 ኦይዲ ሸምፖራ የዘ መቱንꬅ፥ «አምንኤ» ያጋይዳ፤ ማህ ጭሙንꬅ ስኖራ ዙጊ ጎይንዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 6:1 ዱርዘ ላፑን ማህታሙንꬃፓ ፈታ ቡጎደራ ብእዳ። ማህ ኦይዲ ሸምፖራ የዘ መቱንꬃፓ ፈተ፥ ዳዳ ꬎገ ፋና ኦꬃራ፥ «ዮኦ!» ያጋዝን ስእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 6:3 ማህ ዱርዘ ላምእንꬃ ማህታምዛ ቡግደ ዎደ ላምእንꬃ ሸምፖራ የዘ መትꬅዘ፥ «ዮኦ!» ጋዝን ስእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 6:5 ዱርዘ Ꮉይꬕንꬃ ማህታምዛ ቡግደ ዎደ Ꮉይꬕንꬃ ሸምፖራ የዘ መትꬅዘ፥ «ዮኦ!» ጋዝን ስእዳ። ይኬ ካርꬅ ፋራ ብእዳ፤ ኤዝን ፋ ኩሽተ ምዛነ አይክዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 6:6 ኦይዲ ሸምፖራ የዘ መቱንꬅ ግዳፓ፥ «ፈቲ ዎደ ኦቻስ ዳሞዘ፥ ባጋ ክሎ ዛርጋ፤ ማህ ፈቲ ዎደ ኦቻስ ዳሞዘ፥ ፈቲ ክሎን ባጋ ባንጋ ማቀ። የዝን ዛይተን ዎይነ ቆህፐ» ጋዝን ስእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 6:7 ዱርዘ ኦይድንꬃ ማህታምዛ ቡግደ ዎደ ኦይድንꬃ ሸምፖራ የዘ መትꬅዘ፥ «ዮኦ!» ጋዝን ስእዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 7:11 ኪታንቹንꬅ ኡባ፥ አራትዘን፥ ጭሙንꬅን ኦይዲ መቱንꬅ ካንቶ ዉቲ ኤቅዳ። ኡን አራትዘ ቲኖ ዙጊ ጾዝ ጎይንዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 7:14 ታኒ ማህ፥ «ላꬆ፥ ነ ኤራነ» ጋይዳ። ኤዝን ታጎ፥ «Ꮉንስ ጋማ ዋየ ዋይ አꬍዱንꬃና። ኡን ፋ ማእቶ ዱርዘ ሱꬅተ ሜጪ ቦꬅዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 8:9 አባ ግዳ ሸምፖራ የዘ መትꬅ Ꮉይꬓፓ ፈቲ ኩሸ Ꮉይቂዳ፤ ማርካቡንꬅ Ꮉይꬓፓ ፈቲ ኩሸ ꬋብዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 9:8 ኡን ኦማ እስንꬅታን ማች ኦማ እስን ፋና ጳርጎ። ኡን አችታን ጋሞ አች አዛነ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 11:4 የንስ አላመ ላꬄ ቲኖ ኤቅዘ ላምእ ሻማሄ ምንጻን ላምእ ጾምፐ ጋድዘ ኮጩንꬃና።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 14:3 አትደ 144,000 አሱንꬅ አራትዘ ቲኖ፥ ኦይዲ መቱንꬅ ቲኖን ጭሙንꬅ ቲኖ ኤቅደ ኡንታፓ መለ ኦደን ታማሮደስ ዳንዳኦሰ ክለ ማዝሙረ የጽዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 14:4 የንስ ማችራ ፋና ቱንዝካይዛራ ናግደ ጌሹንꬃና። ኡን ዱርዘ Ꮉንግዘ በሳ ኡባ ካላነ። ኡን ጾዘስን ዱርዘስ አንግስ ማቂ፥ ሺቆደስ ሳአ አስ ግዳፓ ዎዝንትዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 15:7 ኦይዲ መቱንꬃፓ ፈታይ፥ መꬍናስ የዘ ጾዘ Ꮉንቆ ኩምደ ላፑን ዎርቃ ጹኡቶ ላፑን ኪታንቹንꬅስ እንግዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 16:3 ላምእንꬃ ኪታንችዘ ፋ ጹእተ የዛኖ አባ ላልን፥ አብዘ Ꮉይቂደ አስ ሱꬅ ላንትደ ባዝ አዝዳ። ማህ አባ የዘ መትꬅ ኡባ Ꮉይቂዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 16:14 የንስን ማላ ኦችዘ ቱና አያኑንꬃና። የንስ Ꮉይꬕ ቱና አያኑንꬅ ኡባፓ ዎልቃማ ጾዘ ቃምተ Ꮉኖደስ የዘ ኦላስ ሺሾደስ አላመ ኡባ ካቱንꬃጎ ከዞዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 17:9 «ጭንጫትꬅን ቆፋ ኮሽዘ Ꮉነ። ላፑን ኦሙንꬅ ማችታ በትደ ላፑን ደሩንꬃና፤ የንስ ማህ ላፑን ካቱንꬃና።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 18:8 ይኒ ግሾ፥ Ꮉንቆ፥ Ꮉርገ፥ አዛኖን ናየ እዞ ፈቲ ቃማር አይኮዳ። ማህ እዛ ታማር ሙእንቶዳ፤ አኮስ ጋይኮ፥ ኢላ አፋ ፍርድዘ ላ ጾዘ ምንꬅ» ጋይዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	REV 19:4 ላምእታም ኦይዲ ጭሙንꬅን ኦይዲ መቱንꬅ አራትዘላ በትደ ጾዘስ ቡንቅቲ፥ «አምንኤ! ጾዛ ጋላታ የሎ» ያጋእ ጎይንዳ።	()	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Source	count	188	WARN
+Oyda---Oyde-Bible-Ethiopic	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Summary	(-)Orginal	32	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Summary	(+)Aionian	53	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (M)	2306	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (A)	3003	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (T)	2495	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : ( )	129455	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (1)	8027	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (:)	7937	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (\n)	7931	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (2)	5130	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (3)	2724	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (4)	2199	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (5)	1807	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (6)	1562	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (7)	1388	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (8)	1283	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (9)	1241	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (0)	1202	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Private Use Area : ()	115	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Private Use Area : ()	83	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (R)	1512	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (()	10	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : ())	10	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (L)	1390	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (J)	1140	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (O)	2230	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (H)	1592	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (-)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (G)	149	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (E)	1023	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (P)	443	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (.)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (V)	404	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source(-)	Basic Latin : (,)	4	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (0)	32792	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (4)	9546	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (\t)	31716	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (M)	2307	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (A)	3012	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (T)	2497	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (1)	9051	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : ( )	114139	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (\n)	7928	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (2)	6487	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (3)	3663	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (5)	3457	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (6)	3434	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (7)	1680	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (8)	1745	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (9)	1501	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (()	211	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (G)	161	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (e)	33	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (n)	201	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : ())	211	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (H)	1603	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (d)	16	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (s)	113	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (i)	246	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (:)	8	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (o)	84	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (R)	1511	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (,)	12	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (t)	6	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (h)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (l)	5	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (u)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (-)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (.)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (L)	1395	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (J)	1139	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (O)	2229	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (E)	1022	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (P)	448	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Aionian(+)	Basic Latin : (V)	403	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (M)	2306	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (A)	3003	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (T)	2495	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : ( )	129455	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (1)	8027	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (:)	7937	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Cherokee : (Ꮉ)	3938	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ን)	30779	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፓ)	3172	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ካ)	3700	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሊ)	298	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጻ)	1175	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፍ)	1201	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ት)	7171	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ደ)	9855	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዳ)	12100	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዉ)	804	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ተ)	4421	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ና)	9601	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (አ)	13203	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ብ)	1392	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ራ)	5945	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሃ)	291	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ማ)	9428	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቅ)	2569	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (የ)	7509	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሱ)	4052	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ስ)	11495	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ክ)	2205	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ር)	5416	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቶ)	4562	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሳ)	6629	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ል)	3171	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (።)	10574	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (\n)	7931	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (2)	5130	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ይ)	13596	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቃ)	2011	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (፤)	1416	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ያ)	4203	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቆ)	2210	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ባ)	5313	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሁ)	597	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኤ)	5542	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (እ)	6683	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሹ)	441	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬃ)	3050	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (3)	2724	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፋ)	5009	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ረ)	500	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሰ)	711	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ነ)	4941	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዛ)	3923	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሮ)	1450	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (መ)	1664	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (4)	2199	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ም)	2326	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (በ)	1291	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሶ)	477	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሞ)	1091	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (5)	1807	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቦ)	1048	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኡ)	4712	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሩ)	799	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዮ)	673	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቤ)	507	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (6)	1562	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኦ)	5985	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ች)	1612	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሎ)	1936	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (7)	1388	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (8)	1283	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጠ)	67	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዝ)	5318	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (9)	1241	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ታ)	9324	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሕ)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (0)	1202	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ለ)	1344	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬅ)	6631	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ድ)	1047	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጋ)	7930	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዘ)	6652	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ግ)	4601	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዎ)	4558	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኮ)	3236	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቲ)	1940	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቂ)	860	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ላ)	5159	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዩ)	22	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቀ)	266	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዶ)	925	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኒ)	2146	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኬ)	1413	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (፥)	8443	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጶ)	169	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዲ)	326	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሪ)	258	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ከ)	391	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኖ)	2760	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጭ)	889	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጌ)	625	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሽ)	1365	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጽ)	810	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሾ)	1809	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዞ)	496	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቺ)	86	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፕ)	459	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጾ)	2493	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኪ)	1240	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቾ)	715	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቡ)	731	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጪ)	63	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Latin-1 Supplement: («)	2313	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዣ)	468	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፐ)	393	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Latin-1 Supplement: (»)	1933	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬊ)	300	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዥ)	220	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጼ)	283	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጎ)	2068	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬄ)	651	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኢ)	431	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዱ)	1106	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኑ)	1982	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፎ)	450	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዚ)	810	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ገ)	1241	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቹ)	213	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሄ)	365	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዋ)	757	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (?)	1044	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ህ)	2858	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቁ)	224	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጊ)	377	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	General Punctuation : (‹)	402	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሙ)	794	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኔ)	451	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሆ)	319	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	General Punctuation : (›)	398	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬂ)	720	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጥ)	275	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሺ)	418	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬎ)	604	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሲ)	463	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጸ)	71	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬍ)	834	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጉ)	351	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቱ)	1038	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኩ)	600	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዬ)	352	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሐ)	295	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፈ)	1690	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዪ)	168	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሉ)	267	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Private Use Area : ()	115	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፉ)	211	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጫ)	344	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሸ)	421	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዙ)	798	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬆ)	627	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቻ)	422	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (!)	176	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጵ)	173	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኣ)	278	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሻ)	554	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬋ)	575	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቼ)	45	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዽ)	173	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬉ)	113	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዡ)	18	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጴ)	234	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቢ)	142	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጮ)	104	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (፦)	79	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጅ)	117	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሴ)	184	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፖ)	168	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጂ)	34	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጆ)	53	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጩ)	95	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጨ)	108	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : ([)	17	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (])	17	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሜ)	49	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዦ)	45	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሚ)	237	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጁ)	8	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጹ)	90	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዹ)	5	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ው)	38	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፒ)	59	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጺ)	94	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፊ)	41	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዠ)	6	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሌ)	86	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፌ)	40	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጰ)	36	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጢ)	66	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዴ)	26	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቸ)	7	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬕ)	102	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዌ)	5	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፑ)	160	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Private Use Area : ()	83	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሬ)	12	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬁ)	88	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬒ)	3	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬓ)	36	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጳ)	307	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቴ)	26	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዜ)	12	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጃ)	17	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጦ)	110	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሀ)	27	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጀ)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (R)	1512	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ወ)	25	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዊ)	3	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (()	10	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : ())	10	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዢ)	19	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic Extended-A : (ꬑ)	5	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ቄ)	36	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (L)	1390	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (U)	1171	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (K)	1146	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጣ)	16	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጤ)	7	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጡ)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጬ)	91	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጲ)	7	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፀ)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ጱ)	6	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሂ)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ኛ)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሼ)	4	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ፔ)	6	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (J)	1140	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (O)	2230	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (H)	1592	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (C)	1793	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (-)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዺ)	2	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዕ)	3	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (G)	149	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (E)	1023	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (P)	443	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (I)	346	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ሣ)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (B)	303	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (.)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (D)	25	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (V)	404	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Ethiopic : (ዻ)	1	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNICODE	Source	Basic Latin : (,)	4	NOTICE
+
+# VERSIFICATION
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	040-MAT-002-018	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	040-MAT-003-002	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	040-MAT-007-029	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	041-MAR-012-011	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	041-MAR-014-058	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	041-MAR-015-043	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	042-LUK-020-043	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	042-LUK-022-030	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	042-LUK-023-045	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	042-LUK-024-007	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	043-JOH-003-015	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	043-JOH-010-015	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	043-JOH-012-015	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	043-JOH-012-040	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	044-ACT-001-002	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	044-ACT-002-035	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	044-ACT-015-018	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	049-EPH-001-019	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	049-EPH-001-021	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	049-EPH-006-015	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	053-2TH-002-017	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	057-PHM-001-005	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	057-PHM-001-013	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	059-JAM-001-008	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	060-1PE-002-003	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	060-1PE-003-002	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Aionian	missing	066-REV-001-005	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Summary	missing	28	WARN
+Oyda---Oyde-Bible-Ethiopic	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	()	10 / 10	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	[]	17 / 17	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	()	211 / 211	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	[]	17 / 17	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	[1/0]	MAT 21:43 «ይኒ ግሾ፥ ታኒ ይንትስ ኦህነ፤ ጾዘ ካእቱሞ ይንታፓ ኤክንቲ ሎኦ ኣፈ ኣፍዘ አሱንꬅስ እንግንቶዳ። [	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	[0/1]	MAT 21:44 Ꮉይ ሹችዘላ አፋ ጎልእዘ ኡባ መቆዳ። ማህ Ꮉይ ሹችዘ ኤላ አፋ ዎꬍዘ አꬄን ጋጭንቶዳ»] ያጋይዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	[1/0]	ACT 24:6 መለ አቶ የዝን፥ ጾዘ ኬꬅቶ ቱንሳደስ ይአደራ ኑኒ ኤዛ አይክዳ፤ [ኑ ህግትጋራ ኤዛላ ፍርዶደስ ቆፕዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	[0/1]	ACT 24:8 ኤዛ ሞትዙንꬅን ኔጎ የኦደ ጋር ኪትዳ]። ኔኒ ነ ኦምተ Ꮉይ አꬃ ቁርች ኑኒ ኤዛ ሞትዘ ሞቶ ኡባ ኤሮደስ ዳንዳአነ» ጋይዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	[1/0]	ROM 16:23 ታና ሞክዘ ዎሳ ኬꬅቶ ኡባ ኤ ካራ ሺቅዘ ጋዮሳ፥ ይንታና ሳሮ ጋይዳ። ካታማ ሚሸ አይክዘ ኤራስጾሳን ኑ እሸ ቃርጾሳ ይንታና ሳሮ ጋነ። [	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Source	[0/1]	ROM 16:24 ኑ ላꬄ የሱስ ክርስቶሳ አꬎ ኬሃትꬅ ይን ኡባራ ማቀ። አምንኤ።]	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	[1/0]	040 MAT 021 043 «ይኒ ግሾ፥ ታኒ ይንትስ ኦህነ፤ ጾዘ ካእቱሞ ይንታፓ ኤክንቲ ሎኦ ኣፈ ኣፍዘ አሱንꬅስ እንግንቶዳ። [	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	[0/1]	040 MAT 021 044 Ꮉይ ሹችዘላ አፋ ጎልእዘ ኡባ መቆዳ። ማህ Ꮉይ ሹችዘ ኤላ አፋ ዎꬍዘ አꬄን ጋጭንቶዳ»] ያጋይዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	[1/0]	044 ACT 024 006 መለ አቶ የዝን፥ ጾዘ ኬꬅቶ ቱንሳደስ ይአደራ ኑኒ ኤዛ አይክዳ፤ [ኑ ህግትጋራ ኤዛላ ፍርዶደስ ቆፕዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	[0/1]	044 ACT 024 008 ኤዛ ሞትዙንꬅን ኔጎ የኦደ ጋር ኪትዳ]። ኔኒ ነ ኦምተ Ꮉይ አꬃ ቁርች ኑኒ ኤዛ ሞትዘ ሞቶ ኡባ ኤሮደስ ዳንዳአነ» ጋይዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	[1/0]	045 ROM 016 023 ታና ሞክዘ ዎሳ ኬꬅቶ ኡባ ኤ ካራ ሺቅዘ ጋዮሳ፥ ይንታና ሳሮ ጋይዳ። ካታማ ሚሸ አይክዘ ኤራስጾሳን ኑ እሸ ቃርጾሳ ይንታና ሳሮ ጋነ። [	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Aionian	[0/1]	045 ROM 016 024 ኑ ላꬄ የሱስ ክርስቶሳ አꬎ ኬሃትꬅ ይን ኡባራ ማቀ። አምንኤ።]	WARN
+Oyda---Oyde-Bible-Ethiopic	ENCLOSURES	Summary	lines	6 / 6	NOTICE
+
+# UNEXPECTED
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Oyda---Oyde-Bible-Ethiopic	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Source	6	LUK 16:7 «ይንፓ ካሊ ላምአንꬅዘጎ፥ ‹ኔስ ዋንꬅ የዘ?› ያጋይዳ። «ኤ፥ ‹370 ኩንታለ ዛርጋ ጋለ የነ› ያጋይዳ። «ሹምዘ፥ ‹ነ ዉለ ዋርቃተ Ꮉተ፥ ኤልሲ፥ 296 ኩንታለ ያጋእ ጻፎ› ያጋይዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Source	0	REV 11:3 ታኒ ላምእ ማርኩንꬅ አዛኖ ማኦ ማእ 1,260 ቃማ ትንቢተ ኦሆደ ፋና ዎልቃ እንጎዳ»።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Source	0	REV 12:6 ማችታ 1,260 ቃማ የሎደስ እዞ ናጎደ ፋና ጾዚ ኢስ ጊግዚ ጋድደ በሳ አኮ ባይዘ ሳአ አችንትዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Source	0	REV 14:1 ዱርዘ ጽዮነ ደርዘላ አፋ ኤቀዝን ብእዳ። ኤራ ኤ ሱንꬅታን ኤ አዳይ ሱንꬅታ ኡን ስንተ ጻፍንትደ፥ 144,000 አሱንꬅ የነ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Source	0	REV 14:3 አትደ 144,000 አሱንꬅ አራትዘ ቲኖ፥ ኦይዲ መቱንꬅ ቲኖን ጭሙንꬅ ቲኖ ኤቅደ ኡንታፓ መለ ኦደን ታማሮደስ ዳንዳኦሰ ክለ ማዝሙረ የጽዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Source	count	5	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) የሱሳ Ꮉይቆፓ ደንድዳንፓ ማቂ ዎጋ ዎደ ዎንታ፥ ላፑን ቱና አያኑንꬃና ኬስደ ማግደላ ማይራምስ ቲንꬊ በንትዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Aionian	370	042-LUK-016-007 «ይንፓ ካሊ ላምአንꬅዘጎ፥ ‹ኔስ ዋንꬅ የዘ?› ያጋይዳ። «ኤ፥ ‹370 ኩንታለ ዛርጋ ጋለ የነ› ያጋይዳ። «ሹምዘ፥ ‹ነ ዉለ ዋርቃተ Ꮉተ፥ ኤልሲ፥ 296 ኩንታለ ያጋእ ጻፎ› ያጋይዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Aionian	1	066-REV-011-003 ታኒ ላምእ ማርኩንꬅ አዛኖ ማኦ ማእ 1,260 ቃማ ትንቢተ ኦሆደ ፋና ዎልቃ እንጎዳ»።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Aionian	1	066-REV-012-006 ማችታ 1,260 ቃማ የሎደስ እዞ ናጎደ ፋና ጾዚ ኢስ ጊግዚ ጋድደ በሳ አኮ ባይዘ ሳአ አችንትዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Aionian	144	066-REV-014-001 ዱርዘ ጽዮነ ደርዘላ አፋ ኤቀዝን ብእዳ። ኤራ ኤ ሱንꬅታን ኤ አዳይ ሱንꬅታ ኡን ስንተ ጻፍንትደ፥ 144,000 አሱንꬅ የነ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Aionian	144	066-REV-014-003 አትደ 144,000 አሱንꬅ አራትዘ ቲኖ፥ ኦይዲ መ ቱንꬅ ቲኖን ጭሙንꬅ ቲኖ ኤቅደ ኡንታፓ መለ ኦደን ታማሮደስ ዳንዳኦሰ ክለ ማዝሙረ የጽዳ።	WARN
+Oyda---Oyde-Bible-Ethiopic	NUMERALS	Aionian	count	6	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

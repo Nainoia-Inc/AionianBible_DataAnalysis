@@ -1,0 +1,476 @@
+# File Name: Holy-Bible---Holy-Bible---Polish---Polish-Gdansk---Analysis.txt
+# File Size: 46160       
+# File Date: 12/13/2025 05:53:49
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Święta Biblia
+# Bible Name English: Polish Gdansk Bible 1881
+# Bible Language: Polskie
+# Bible Language English: Polish
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Daniel Mikołajewski, Jan Turnowsk, and others
+# Bible Source Version: 7/17/2013
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=PolGdanska
+# Bible Source Year: 1881
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Polish---Polish-Gdansk	ENCODING	Source	Holy-Bible---Polish---Polish-Gdansk---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Polish---Polish-Gdansk	ENCODING	Aionian	Holy-Bible---Polish---Polish-Gdansk---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Polish---Polish-Gdansk	BYTES	Source	bytes / chars	4432838 / 4168884 (multi-byte)	NOTICE
+Polish---Polish-Gdansk	BYTES	Aionian	bytes / chars	4510174 / 4246037 (multi-byte)	NOTICE
+Polish---Polish-Gdansk	BYTES	SourceClean	bytes / chars	4431001 / 4167047 (multi-byte)	NOTICE
+Polish---Polish-Gdansk	BYTES	AionianClean	bytes / chars	4506585 / 4242468 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Polish---Polish-Gdansk	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Polish---Polish-Gdansk	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Polish---Polish-Gdansk	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Polish---Polish-Gdansk	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Polish---Polish-Gdansk	AIONIAN	Aionian	missing-verse	0	NOTICE
+Polish---Polish-Gdansk	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Polish---Polish-Gdansk	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Polish---Polish-Gdansk	UNPRINTABLE	Source	count	0	NOTICE
+Polish---Polish-Gdansk	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Polish---Polish-Gdansk	UNICODE	Summary	(-)Orginal	73	NOTICE
+Polish---Polish-Gdansk	UNICODE	Summary	(+)Aionian	77	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (G)	3357	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (e)	266464	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (n)	138888	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (s)	157657	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (i)	297180	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : ( )	639156	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (0)	5424	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (:)	39937	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (1)	27008	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (M)	5032	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (o)	229353	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (j)	66992	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Latin Extended-A : (ż)	30422	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (z)	176186	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (w)	131719	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (a)	256685	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (\n)	31139	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (N)	4910	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (p)	63363	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (c)	110136	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (t)	102744	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (k)	83054	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (u)	66550	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (r)	121927	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (y)	118244	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (B)	7516	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Latin-1 Supplement: (ó)	38731	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (g)	52609	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (b)	59246	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (m)	107719	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Latin Extended-A : (ę)	48036	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (.)	26812	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (2)	18962	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (A)	13783	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (,)	81168	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Latin Extended-A : (ś)	21167	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (d)	108740	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (D)	4107	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (h)	43517	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (3)	12229	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (I)	19477	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (4)	9124	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (5)	7038	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Latin Extended-A : (ń)	5975	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (6)	6462	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (P)	15791	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (l)	68057	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (7)	5906	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (8)	5765	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (9)	5625	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (R)	2066	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (U)	552	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (Z)	1891	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (S)	6585	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (O)	2529	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (T)	4438	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (E)	5747	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (F)	992	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (H)	1795	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (C)	5037	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (f)	4238	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (L)	3342	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Latin Extended-A : (Ż)	461	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (K)	3418	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (J)	13368	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (()	411	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : ())	410	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Latin Extended-A : (Ł)	61	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (!)	2169	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (x)	1214	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (v)	2181	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (\t)	1	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source(-)	Basic Latin : (-)	3	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (0)	130589	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (1)	42442	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (\t)	124404	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (G)	4023	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (E)	13343	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (N)	6845	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (a)	240908	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : ( )	570188	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (p)	62941	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (o)	216804	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (c)	105680	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (z)	174598	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (t)	95322	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (k)	79769	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (u)	58022	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (s)	134395	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (w)	130316	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (r)	112209	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (y)	117084	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (B)	8966	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin-1 Supplement: (ó)	38717	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (g)	50470	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (n)	127810	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (i)	282366	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (e)	242395	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (b)	55607	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (m)	98493	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin Extended-A : (ę)	48035	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (.)	26739	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (\n)	31100	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (2)	31088	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (A)	21778	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin Extended-A : (ż)	30417	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (,)	81171	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin Extended-A : (ś)	21165	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (d)	106871	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (D)	4746	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (h)	32869	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (3)	17182	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (I)	12589	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (:)	8800	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin Extended-A : (ń)	5974	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (P)	15993	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (l)	59356	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (7)	7448	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (j)	66974	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (R)	5298	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (U)	4060	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (Z)	3441	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (S)	11301	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (O)	9196	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (T)	6805	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (F)	990	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (H)	5318	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (M)	7174	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (C)	6801	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (f)	3714	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (L)	3760	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin Extended-A : (Ż)	460	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (K)	4559	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (J)	12954	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (()	751	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : ())	749	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin Extended-A : (Ł)	60	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (!)	2166	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (V)	1263	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (-)	4	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Basic Latin : (q)	2	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Polish---Polish-Gdansk	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (G)	3357	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (e)	266464	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (n)	138888	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (s)	157657	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (i)	297180	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : ( )	639156	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (0)	5424	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (:)	39937	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (1)	27008	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (M)	5032	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (o)	229353	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (j)	66992	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ż)	30422	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (z)	176186	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (w)	131719	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (a)	256685	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (\n)	31139	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (N)	4910	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (p)	63363	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (c)	110136	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ą)	33015	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (t)	102744	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (k)	83054	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (u)	66550	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (r)	121927	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (y)	118244	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ł)	70117	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (B)	7516	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin-1 Supplement: (ó)	38731	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (g)	52609	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (b)	59246	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (m)	107719	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ę)	48036	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (.)	26812	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (2)	18962	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (A)	13783	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (,)	81168	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ś)	21167	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ć)	11767	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (d)	108740	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (D)	4107	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (h)	43517	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (3)	12229	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (I)	19477	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (;)	12509	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (4)	9124	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (5)	7038	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ń)	5975	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (6)	6462	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (P)	15791	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (l)	68057	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (7)	5906	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (8)	5765	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (9)	5625	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (R)	2066	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (U)	552	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (Z)	1891	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (S)	6585	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (O)	2529	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (T)	4438	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (W)	2182	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (E)	5747	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (F)	992	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (H)	1795	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (C)	5037	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (f)	4238	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (L)	3342	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (?)	3248	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (Ż)	461	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (K)	3418	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ź)	3927	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (J)	13368	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (()	411	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : ())	410	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (Ł)	61	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (!)	2169	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (Ś)	261	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (x)	1214	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (Y)	1	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (v)	2181	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (\t)	1	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (Ć)	4	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin-1 Supplement: (Ü)	1	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (-)	3	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin-1 Supplement: (×)	2	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin-1 Supplement: (í)	4	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin-1 Supplement: (Ç)	1	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin-1 Supplement: (â)	1	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Latin Extended-A : (ő)	1	NOTICE
+Polish---Polish-Gdansk	UNICODE	Source	Basic Latin : (")	8	NOTICE
+
+# VERSIFICATION
+Polish---Polish-Gdansk	VERSIFICATION	Aionian	missing	013-1CH-007-023	WARN
+Polish---Polish-Gdansk	VERSIFICATION	Summary	missing	1	WARN
+Polish---Polish-Gdansk	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Polish---Polish-Gdansk	ENCLOSURES	Source	()	411 / 410	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Polish---Polish-Gdansk	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Polish---Polish-Gdansk	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	()	751 / 749	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Numbers 31:43 (A połowa należąca zgromadzeniu, była: Owiec trzy kroć sto tysięcy, i trzydzieści tysięcy, siedem tysięcy i pięć set;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Numbers 31:46 A ludu szesnaście tysięcy.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Deuteronomy 2:10 (Emitowie pierwej mieszkali w niej, lud potężny i wielki, i wysokiego wzrostu, jako Enakimowie;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Deuteronomy 2:12 Także w Seir mieszkali Horejczycy przedtem, które synowie Ezawowi wygnali, i wygładzili je przed sobą, a mieszkali na miejscu ich, jako uczynił Izrael w ziemi osiadłości swojej, którą im dał Pan.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Deuteronomy 2:20 (Tę też ziemię za ziemię olbrzymów miano; albowiem olbrzymowie mieszkali w niej przedtem, które Ammonitowie nazywali Zomzomim;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Deuteronomy 2:23 Hewejczyki także, którzy mieszkali w Aserym aż do Gazy, Kaftorytowie, którzy wyszli z Kaftor, wytracili je, i mieszkali na miejscu ich.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Deuteronomy 29:22 Tak, że rzecze naród potomny, synowie wasi, którzy powstaną po was, i cudzoziemiec, który przyjdzie z ziemi dalekiej ( gdy obaczą plagi ziemi tej, i niemoce jej, któremi ją zarazi Pan;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Deuteronomy 29:23 Bo siarka i sól wypali tę wszystkę ziemię, że nie będzie osiewana, ani też rodzić będzie, i nie zrośnie na niej żadna trawa, na kształt podwrócenia Sodomy i Gomorry, Adamy i Seboim, które podwrócił Pan w gniewie swym, i w popędliwości swej.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Joshua 4:1 A gdy się wszystek lud przeprawił za Jordan, (bo rzekł był Pan do Jozuego, mówiąc:	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Joshua 4:4 Tedy wezwał Jozue dwanaście mężów, które był wybrał z synów Izraelskich, po jednym mężu z każdego pokolenia.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Judges 9:17 (Albowiem walczył ojciec mój za was, i podał duszę swą w niebezpieczeństwo, aby was wyrwał z ręki Madyjańczyków;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Judges 9:18 Aleście wy powstali przeciw domowi ojca mego dziś, i pobiliście syny jego, siedmdziesiąt mężów na jednym kamieniu, i obraliście królem Abimelecha, syna służebnicy jego, nad mężami Sychem, iż bratem waszym jest.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Judges 20:27 I pytali synowie Izraelscy Pana, (bo tam była skrzynia przymierza Bożego na on czas;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Judges 20:28 A Finees, syn Eleazara, syna Aaronowego, stał przed nią na ten czas,) mówiąc: Mamyli jeszcze wynijść na wojnę przeciwko synom Benjamina, brata naszego, czyli zaniechać? I odpowiedział Pan: Idźcie; bo jutro dam je w ręce wasze.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Judges 20:36 A widząc synowie Benjaminowi, że byli porażeni, (bo mężowie Izraelscy ustępowali z placu przed Benjaminem, ufając zasadzkom, które byli uczynili przeciw Gabaa;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Judges 20:40 Ale gdy płomień i dym jako słup począł wzgórę wstępować z miasta, tedy obejrzawszy się synowie Benjaminowi nazad, uderzyli, a oto, ogień z miasta, wstępował aż ku niebu.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Judges 21:5 Zatem rzekli synowie Izraelscy: Któż jest, co nie przyszedł do zgromadzenia ze wszystkich pokoleń Izraelskich do Pana? (Bo się byli wielką przysięgą zawiązali przeciw temu, któryby nie przyszedł do Pana do Masfa, mówiąc: Śmiercią umrze.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Judges 21:7 Cóż uczynimy tym, co pozostali, aby mieli żony, gdyżeśmy przysięgli przez Pana, że im nie mamy dać córek naszych za żony?)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	I Samuel 17:12 (A Dawid był synem męża Efratejczyka z Betlehem Juda, którego imię Isaj, który miał ośm synów, a ten był za dni Saulowych stary i podeszły w leciech.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	I Samuel 17:14 Lecz Dawid był najmłodszy; a tak trzej najstarsi poszli byli za Saulem.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	I Samuel 25:21 (A Dawid był rzekł: Zaprawdę darmom strzegł wszystkiego, co ten miał na puszczy, że nic nie zginęło ze wszystkiego, co ma; bo mi oddał złem za dobre.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	I Samuel 25:22 To niech uczyni Bóg nieprzyjaciołom Dawidowym, i to niech przyczyni, jeźli co do zarania zostawię ze wszystkiego co ma, aż do najmniejszego szczenięcia).	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	I Kings 18:3 I zawołał Achab Abdyjasza, który był sprawcą domu jego. (A Abdyjasz się bardzo Pana bał;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	I Kings 18:4 Bo gdy mordowała Jezabel proroki Pańskie, tedy wziął Abdyjasz sto proroków, i skrył ich po pięćdziesiąt do jaskini, i żywił je chlebem i wodą.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	II Kings 9:14 Tedy się sprzysiągł Jehu, syn Jozafata, syna Namsy, przeciw Joramowi. (A na ten czas Joram strzegł Ramot Galaadskiego, on i wszystek Izrael, przed Hazaelem, królem Syryjskim.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	II Kings 9:15 Ale się był wrócił król Joram, aby się leczył na rany, które mu byli zadali Syryjczycy, gdy walczył z Hazaelem, królem Syryjskim.) I rzekł Jehu: Jeźli się wam zda, niech nie wychodzi nikt z miasta, żeby szedł co oznajmić w Jezreelu.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	I Chronicles 5:1 A synowie Rubena pierworodnego Izraelowego, (ten bowiem był pierworodny; ale gdy zgwałcił łoże ojca swego, dane jest pierworodztwo jego synom Józefa, syna Izraelowego, tak jednak, że go nie poczytano za pierworodnego:	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	I Chronicles 5:2 Bo Judas był najmężniejsz między braćmi swymi, a książęciem między nimi; ale pierworodztwo należało Józefowi.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	I Chronicles 7:14 A synowie Manasesowi: Asryjel, którego mu urodziła Zona, (a założnica jego Syryjanka urodziła Machyra, ojca Galaadowego.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	I Chronicles 7:15 A Machyr wziął sobie za żonę siostrę Ofimową i Suppimową, której imię było Maacha;) a imię drugiego Salfaad, i miał Salfaad córki.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	I Chronicles 14:3 (I pojął Dawid więcej żon w Jeruzalemie, a spłodził Dawid więcej synów i córek.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	I Chronicles 14:7 I Elisama, i Beelijada, i Elifelet.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	II Chronicles 7:9 (Potem uczynili dnia ósmego święto; albowiem poświęcenie ołtarza sprawowali przez siedm dni, i święto uroczyste obchodzili przez siedm dni.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	II Chronicles 11:14 Bo opuściwszy Lewitowie przedmieścia swoje, i osiadłości swoje, szli do Judy i do Jeruzalemu; (gdyż był ich wyrzucił Jeroboam i synowie jego, aby nie odprawowali urzędu kapłańskiego Panu.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	II Chronicles 11:15 I postanowił sobie kapłanów po wyżynach, i dyjabłom, i cielcom, których był naczynił.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Esther 1:13 Tedy rzekł król do mędrców, rozumiejących czasy: (bo taki był zwyczaj przedkładać sprawy królewskie wszystkim biegłym w prawach i w sądach;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Esther 1:14 A najbliższymi jego byli Charsena, Setar, Admata, Tarsys, Meres, Marsena, Memuchan, siedm książąt Perskich i Medskich, którzy patrzali na oblicze królewskie, i siadali na pierwszem miejscu w królestwie.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Job 31:14 (Bo cóżbym czynił, gdyby powstał Bóg? albo gdyby pytał, cobym mu odpowiedział?	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Job 31:15 Izaż nie ten, który mię w żywocie uczynił, nie uczynił też i onego? a nie onże nas sam w żywocie wykształtował?)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Job 36:29 (Nadto, któż zrozumie rozciągnienie obłoków, i grzmot namiotu jego.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Job 36:32 Obłokami nakrywa światłość, i rozkazuje jej ukrywać się za obłok następujący.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Psalms 78:36 (Aczkolwiek pochlebiali mu usty swemi, i językiem swoim kłamali mu;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Psalms 78:37 A serce ich nie było szczere przed nim, ani wiernymi byli w przymierzu jego.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Jeremiah 32:2 (A wtenczas wojsko króla Babilońskiego obległo było Jeruzalem, a Jeremijasz prorok zamknięty był w sieni ciemnicy, która była w domu króla Judzkiego.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Jeremiah 32:5 I zawiedzie Sedekijasza do Babilonu, aby tam był, aż go nawiedzę, mówi Pan; ponieważ walczycie z Chaldejczykami, nie poszczęści się wam.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Ezekiel 10:3 (A Cherubowie stali po prawej stronie domu, gdy wchodził on mąż, a obłok napełnił sień wnętrzną.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Ezekiel 10:5 A szum skrzydeł Cherubinów słyszany był aż do sieni zewnętrznej, jako głos Boga wszechmocnego, gdy mówi.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Matthew 9:20 (A oto niewiasta, która płynienie krwi ode dwunastu lat cierpiała, przystąpiwszy z tyłu, dotknęła się podołka szat jego;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Matthew 9:22 Ale Jezus obróciwszy się i ujrzawszy ją, rzekł: Ufaj, córko! wiara twoja ciebie uzdrowiła; i uzdrowiona była niewiasta od onej godziny.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Acts 5:12 Lecz przez ręce apostolskie działo się wiele znamion i cudów między ludem, (a byli wszyscy jednomyślnie w przysionku Salomonowym.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Acts 5:14 I owszem przybywało mnóstwo wierzących Panu, mężów i niewiast).	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Ephesians 3:3 Iż mi Bóg przez objawienie oznajmił tajemnicę, (jakom wam przedtem krótko napisał,	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Ephesians 3:4 Skąd czytając możecie obaczyć wiadomość moję w tajemnicy Chrystusowej).	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(1/0)	Hebrews 12:20 (Albowiem nie mogli znieść tego, co im rozkazywano: Gdyby się i bydlę góry dotknęło, będzie ukamionowane, albo pociskiem przebite.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Source	(0/1)	Hebrews 12:21 A tak straszne to było, co widzieli, że też Mojżesz rzekł: Uląkłem się i drżę.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (A połowa należąca zgromadzeniu, była: Owiec trzy kroć sto tysięcy, i trzydzieści tysięcy, siedem tysięcy i pięć set;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 A ludu szesnaście tysięcy.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Emitowie pierwej mieszkali w niej, lud potężny i wielki, i wysokiego wzrostu, jako Enakimowie;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Także w Seir mieszkali Horejczycy przedtem, które synowie Ezawowi wygnali, i wygładzili je przed sobą, a mieszkali na miejscu ich, jako uczynił Izrael w ziemi osiadłości swojej, którą im dał Pan.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Tę też ziemię za ziemię olbrzymów miano; albowiem olbrzymowie mieszkali w niej przedtem, które Ammonitowie nazywali Zomzomim;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Hewejczyki także, którzy mieszkali w Aserym aż do Gazy, Kaftorytowie, którzy wyszli z Kaftor, wytracili je, i mieszkali na miejscu ich.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	005 DEU 029 022 Tak, że rzecze naród potomny, synowie wasi, którzy powstaną po was, i cudzoziemiec, który przyjdzie z ziemi dalekiej (gdy obaczą plagi ziemi tej, i niemoce jej, któremi ją zarazi Pan;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	005 DEU 029 023 Bo siarka i sól wypali tę wszystkę ziemię, że nie będzie osiewana, ani też rodzić będzie, i nie zrośnie na niej żadna trawa, na kształt podwrócenia Sodomy i Gomorry, Adamy i Seboim, które podwrócił Pan w gniewie swym, i w popędliwości swej.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	006 JOS 004 001 A gdy się wszystek lud przeprawił za Jordan, (bo rzekł był Pan do Jozuego, mówiąc:	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	006 JOS 004 004 Tedy wezwał Jozue dwanaście mężów, które był wybrał z synów Izraelskich, po jednym mężu z każdego pokolenia.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (Albowiem walczył ojciec mój za was, i podał duszę swą w niebezpieczeństwo, aby was wyrwał z ręki Madyjańczyków;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 Aleście wy powstali przeciw domowi ojca mego dziś, i pobiliście syny jego, siedmdziesiąt mężów na jednym kamieniu, i obraliście królem Abimelecha, syna służebnicy jego, nad mężami Sychem, iż bratem waszym jest.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 I pytali synowie Izraelscy Pana, (bo tam była skrzynia przymierza Bożego na on czas;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 A Finees, syn Eleazara, syna Aaronowego, stał przed nią na ten czas,) mówiąc: Mamyli jeszcze wynijść na wojnę przeciwko synom Benjamina, brata naszego, czyli zaniechać? I odpowiedział Pan: Idźcie; bo jutro dam je w ręce wasze.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	007 JDG 020 036 A widząc synowie Benjaminowi, że byli porażeni, (bo mężowie Izraelscy ustępowali z placu przed Benjaminem, ufając zasadzkom, które byli uczynili przeciw Gabaa;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	007 JDG 020 040 Ale gdy płomień i dym jako słup począł wzgórę wstępować z miasta, tedy obejrzawszy się synowie Benjaminowi nazad, uderzyli, a oto, ogień z miasta, wstępował aż ku niebu.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	007 JDG 021 005 Zatem rzekli synowie Izraelscy: Któż jest, co nie przyszedł do zgromadzenia ze wszystkich pokoleń Izraelskich do Pana? (Bo się byli wielką przysięgą zawiązali przeciw temu, któryby nie przyszedł do Pana do Masfa, mówiąc: Śmiercią umrze.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	007 JDG 021 007 Cóż uczynimy tym, co pozostali, aby mieli żony, gdyżeśmy przysięgli przez Pana, że im nie mamy dać córek naszych za żony?)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	009 1SA 017 012 (A Dawid był synem męża Efratejczyka z Betlehem Juda, którego imię Isaj, który miał ośm synów, a ten był za dni Saulowych stary i podeszły w leciech.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	009 1SA 017 014 Lecz Dawid był najmłodszy; a tak trzej najstarsi poszli byli za Saulem.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	009 1SA 025 021 (A Dawid był rzekł: Zaprawdę darmom strzegł wszystkiego, co ten miał na puszczy, że nic nie zginęło ze wszystkiego, co ma; bo mi oddał złem za dobre.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	009 1SA 025 022 To niech uczyni Bóg nieprzyjaciołom Dawidowym, i to niech przyczyni, jeźli co do zarania zostawię ze wszystkiego co ma, aż do najmniejszego szczenięcia).	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 I zawołał Achab Abdyjasza, który był sprawcą domu jego. (A Abdyjasz się bardzo Pana bał;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 Bo gdy mordowała Jezabel proroki Pańskie, tedy wziął Abdyjasz sto proroków, i skrył ich po pięćdziesiąt do jaskini, i żywił je chlebem i wodą.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Tedy się sprzysiągł Jehu, syn Jozafata, syna Namsy, przeciw Joramowi. (A na ten czas Joram strzegł Ramot Galaadskiego, on i wszystek Izrael, przed Hazaelem, królem Syryjskim.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 Ale się był wrócił król Joram, aby się leczył na rany, które mu byli zadali Syryjczycy, gdy walczył z Hazaelem, królem Syryjskim.) I rzekł Jehu: Jeźli się wam zda, niech nie wychodzi nikt z miasta, żeby szedł co oznajmić w Jezreelu.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 A synowie Rubena pierworodnego Izraelowego, (ten bowiem był pierworodny; ale gdy zgwałcił łoże ojca swego, dane jest pierworodztwo jego synom Józefa, syna Izraelowego, tak jednak, że go nie poczytano za pierworodnego:	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Bo Judas był najmężniejsz między braćmi swymi, a książęciem między nimi; ale pierworodztwo należało Józefowi.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	013 1CH 007 014 A synowie Manasesowi: Asryjel, którego mu urodziła Zona, (a założnica jego Syryjanka urodziła Machyra, ojca Galaadowego.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	013 1CH 007 015 A Machyr wziął sobie za żonę siostrę Ofimową i Suppimową, której imię było Maacha;) a imię drugiego Salfaad, i miał Salfaad córki.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	013 1CH 014 003 (I pojął Dawid więcej żon w Jeruzalemie, a spłodził Dawid więcej synów i córek.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	013 1CH 014 007 I Elisama, i Beelijada, i Elifelet.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	014 2CH 007 009 (Potem uczynili dnia ósmego święto; albowiem poświęcenie ołtarza sprawowali przez siedm dni, i święto uroczyste obchodzili przez siedm dni.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	014 2CH 011 014 Bo opuściwszy Lewitowie przedmieścia swoje, i osiadłości swoje, szli do Judy i do Jeruzalemu; (gdyż był ich wyrzucił Jeroboam i synowie jego, aby nie odprawowali urzędu kapłańskiego Panu.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	014 2CH 011 015 I postanowił sobie kapłanów po wyżynach, i dyjabłom, i cielcom, których był naczynił.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Tedy rzekł król do mędrców, rozumiejących czasy: (bo taki był zwyczaj przedkładać sprawy królewskie wszystkim biegłym w prawach i w sądach;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 A najbliższymi jego byli Charsena, Setar, Admata, Tarsys, Meres, Marsena, Memuchan, siedm książąt Perskich i Medskich, którzy patrzali na oblicze królewskie, i siadali na pierwszem miejscu w królestwie.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	018 JOB 031 014 (Bo cóżbym czynił, gdyby powstał Bóg? albo gdyby pytał, cobym mu odpowiedział?	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	018 JOB 031 015 Izaż nie ten, który mię w żywocie uczynił, nie uczynił też i onego? a nie onże nas sam w żywocie wykształtował?)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	018 JOB 036 029 (Nadto, któż zrozumie rozciągnienie obłoków, i grzmot namiotu jego.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	018 JOB 036 032 Obłokami nakrywa światłość, i rozkazuje jej ukrywać się za obłok następujący.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(2/1)	019 PSA 055 019 Wysłucha Bóg i utrapi ich, (jako ten, który siedzi od wieku. (Sela) przeto, że nie masz w nich poprawy, ani się Boga boją.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	019 PSA 078 036 (Aczkolwiek pochlebiali mu usty swemi, i językiem swoim kłamali mu;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	019 PSA 078 037 A serce ich nie było szczere przed nim, ani wiernymi byli w przymierzu jego.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	024 JER 032 002 (A wtenczas wojsko króla Babilońskiego obległo było Jeruzalem, a Jeremijasz prorok zamknięty był w sieni ciemnicy, która była w domu króla Judzkiego.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	024 JER 032 005 I zawiedzie Sedekijasza do Babilonu, aby tam był, aż go nawiedzę, mówi Pan; ponieważ walczycie z Chaldejczykami, nie poszczęści się wam.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	026 EZE 010 003 (A Cherubowie stali po prawej stronie domu, gdy wchodził on mąż, a obłok napełnił sień wnętrzną.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	026 EZE 010 005 A szum skrzydeł Cherubinów słyszany był aż do sieni zewnętrznej, jako głos Boga wszechmocnego, gdy mówi.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	040 MAT 009 020 (A oto niewiasta, która płynienie krwi ode dwunastu lat cierpiała, przystąpiwszy z tyłu, dotknęła się podołka szat jego;	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	040 MAT 009 022 Ale Jezus obróciwszy się i ujrzawszy ją, rzekł: Ufaj, córko! wiara twoja ciebie uzdrowiła; i uzdrowiona była niewiasta od onej godziny.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	044 ACT 005 012 Lecz przez ręce apostolskie działo się wiele znamion i cudów między ludem, (a byli wszyscy jednomyślnie w przysionku Salomonowym.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	044 ACT 005 014 I owszem przybywało mnóstwo wierzących Panu, mężów i niewiast).	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 Iż mi Bóg przez objawienie oznajmił tajemnicę, (jakom wam przedtem krótko napisał,	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 Skąd czytając możecie obaczyć wiadomość moję w tajemnicy Chrystusowej).	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(1/0)	058 HEB 012 020 (Albowiem nie mogli znieść tego, co im rozkazywano: Gdyby się i bydlę góry dotknęło, będzie ukamionowane, albo pociskiem przebite.	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 A tak straszne to było, co widzieli, że też Mojżesz rzekł: Uląkłem się i drżę.)	WARN
+Polish---Polish-Gdansk	ENCLOSURES	Summary	lines	55 / 56	WARN
+
+# UNEXPECTED
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Polish---Polish-Gdansk	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Polish---Polish-Gdansk	NUMERALS	Source	1	Genesis 0:0 1 Mojżeszowa	WARN
+Polish---Polish-Gdansk	NUMERALS	Source	2	Exodus 0:0 2 Mojżeszowa	WARN
+Polish---Polish-Gdansk	NUMERALS	Source	3	Leviticus 0:0 3 Mojżeszowa	WARN
+Polish---Polish-Gdansk	NUMERALS	Source	4	Numbers 0:0 4 Mojżeszowa	WARN
+Polish---Polish-Gdansk	NUMERALS	Source	5	Deuteronomy 0:0 5 Mojżeszowa	WARN
+Polish---Polish-Gdansk	NUMERALS	Source	count	5	WARN
+Polish---Polish-Gdansk	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) A Jezus, gdy zmartwychwstał raniuczko pierwszego dnia po sabacie, ukazał się naprzód Maryi Magdalenie, z której był wygnał siedm dyjabłów.	WARN
+Polish---Polish-Gdansk	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

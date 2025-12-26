@@ -1,0 +1,384 @@
+# File Name: Holy-Bible---Holy-Bible---Portuguese---Almeida-NewOrthography---Analysis.txt
+# File Size: 35068       
+# File Date: 12/13/2025 05:54:18
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Almeida Bíblia, Ortografia Nova
+# Bible Name English: Portuguese Bible 1911, New Spelling
+# Bible Language: Língua Portuguesa
+# Bible Language English: Portuguese
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: João Ferreira de Almeida, new orthography by Max Borges
+# Bible Source Version: 12/16/2021
+# Bible Source Link: https://sourceforge.net/projects/manuscript4u/files
+# Bible Source Year: 1681, 1911, 2020
+# Bible Description: Orthographic modernization and improvement
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Portuguese---Almeida-NewOrthography	ENCODING	Source	Holy-Bible---Portuguese---Almeida-NewOrthography---Source-Edition.UNBOUND.txt	UTF-8	NOTICE
+Portuguese---Almeida-NewOrthography	ENCODING	Aionian	Holy-Bible---Portuguese---Almeida-NewOrthography---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Portuguese---Almeida-NewOrthography	BYTES	Source	bytes / chars	4297862 / 4204045 (multi-byte)	NOTICE
+Portuguese---Almeida-NewOrthography	BYTES	Aionian	bytes / chars	4428899 / 4334862 (multi-byte)	NOTICE
+Portuguese---Almeida-NewOrthography	BYTES	SourceClean	bytes / chars	4296946 / 4203129 (multi-byte)	NOTICE
+Portuguese---Almeida-NewOrthography	BYTES	AionianClean	bytes / chars	4425227 / 4331222 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Portuguese---Almeida-NewOrthography	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Portuguese---Almeida-NewOrthography	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Portuguese---Almeida-NewOrthography	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Portuguese---Almeida-NewOrthography	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Portuguese---Almeida-NewOrthography	AIONIAN	Aionian	missing-verse	0	NOTICE
+Portuguese---Almeida-NewOrthography	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Portuguese---Almeida-NewOrthography	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Portuguese---Almeida-NewOrthography	UNPRINTABLE	Source	count	0	NOTICE
+Portuguese---Almeida-NewOrthography	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Portuguese---Almeida-NewOrthography	UNICODE	Summary	(-)Orginal	60	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Summary	(+)Aionian	64	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (0)	99482	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (1)	38832	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (O)	25819	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (\t)	93315	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (N)	10476	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (o)	327211	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : ( )	676698	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (p)	63420	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (r)	195703	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (i)	156200	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (n)	130180	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (c)	74542	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (u)	135693	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (D)	7269	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (e)	390792	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (s)	268648	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (a)	347278	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (t)	123144	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (.)	25408	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (\n)	31104	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (2)	28378	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (E)	17813	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (m)	127983	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (;)	10265	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (h)	51336	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (b)	29511	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (d)	145733	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (:)	15113	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (g)	25710	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (3)	17165	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (H)	1236	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (l)	72809	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (4)	20014	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (q)	36432	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (5)	10047	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (,)	75037	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (6)	10470	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (7)	7373	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (8)	7784	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (C)	2306	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (A)	6113	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (-)	10190	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (T)	2168	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (M)	3382	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (P)	5767	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (S)	12088	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (U)	340	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (G)	1006	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (k)	570	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (y)	267	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (I)	3231	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (L)	792	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (Z)	616	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (J)	6390	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (V)	768	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (R)	847	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (K)	225	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (B)	1869	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : (()	369	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source(-)	Basic Latin : ())	368	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (G)	3356	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (E)	28727	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (N)	6198	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (o)	327361	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : ( )	677237	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (p)	63421	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (r)	195714	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (i)	156448	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (n)	130383	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (c)	74544	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (u)	135697	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (D)	9228	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (e)	390893	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (s)	268763	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (a)	347476	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (t)	123152	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (.)	25345	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (m)	127990	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (;)	10264	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (h)	51465	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (b)	29521	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (d)	145751	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (:)	15115	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (g)	25923	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (H)	5357	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (l)	72878	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (q)	36434	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (,)	75043	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (C)	6626	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (A)	15268	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (-)	10191	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (T)	4924	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (M)	7446	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (P)	9651	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (S)	18549	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (U)	3848	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (O)	9362	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (k)	571	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (y)	281	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (I)	6509	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (L)	3377	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (Z)	2433	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (J)	11365	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (V)	2031	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (R)	5006	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (K)	2911	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (B)	3319	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (()	636	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : ())	635	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (0)	99482	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (1)	38832	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (O)	25819	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (\t)	93315	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (N)	10476	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (o)	327211	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : ( )	676698	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (p)	63420	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (r)	195703	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (i)	156200	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (n)	130180	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (c)	74542	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (í)	5303	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (u)	135693	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (D)	7269	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (e)	390792	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (s)	268648	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (é)	16445	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (a)	347278	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (t)	123144	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (.)	25408	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (\n)	31104	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (2)	28378	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (E)	17813	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (m)	127983	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (f)	30170	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (v)	45271	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (z)	14561	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (;)	10265	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (h)	51336	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (b)	29511	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (d)	145733	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (:)	15113	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (á)	16518	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (g)	25710	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (3)	17165	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (H)	1236	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (j)	8814	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (l)	72809	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (4)	20014	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (q)	36432	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (ç)	11390	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (ã)	28203	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (5)	10047	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (à)	3062	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (,)	75037	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (6)	10470	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (x)	3956	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (7)	7373	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (8)	7784	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (C)	2306	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (9)	9295	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (A)	6113	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (-)	10190	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (T)	2168	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (M)	3382	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (P)	5767	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (ê)	2016	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (ô)	1349	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (F)	977	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (S)	12088	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (U)	340	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (ó)	5883	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (É)	169	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (G)	1006	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (k)	570	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (y)	267	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (?)	3233	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (ú)	1052	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (Q)	1194	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (I)	3231	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (L)	792	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (Z)	616	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (J)	6390	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (õ)	1784	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (V)	768	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (â)	500	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (R)	847	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (K)	225	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (B)	1869	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (()	369	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : ())	368	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (Á)	34	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (')	242	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (!)	499	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (Ó)	100	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (À)	6	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Basic Latin : (")	5	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (Í)	2	NOTICE
+Portuguese---Almeida-NewOrthography	UNICODE	Source	Latin-1 Supplement: (Ê)	1	NOTICE
+
+# VERSIFICATION
+Portuguese---Almeida-NewOrthography	VERSIFICATION	Summary	missing	0	NOTICE
+Portuguese---Almeida-NewOrthography	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	()	369 / 368	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	()	636 / 635	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	04O 021 017 (Então Israel cantou este cântico: Sobe, poço, cantai dele:	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	04O 021 018 Tu, poço, que cavaram os príncipes, que escavaram os nobres do povo, e o legislador com os seus bordões): e do deserto partiram para Mattana;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	04O 031 043 (A metade para a congregação foi, das ovelhas, trezentas e trinta e sete mil e quinhentas;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	04O 031 046 E das almas humanas dezeseis mil),	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	05O 002 010 (Os emeos de antes habitaram nela: um povo grande e numeroso, e alto como os gigantes;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	05O 002 020 (também esta foi contada por terra de gigantes; de antes nela habitavam gigantes, e os ammonitas os chamavam zamzummeus:	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	05O 002 023 Também os caftoreus, que sairam de Caftor, destruiram os aveus, que habitavam em Kazerim até Gaza, e habitaram no seu lugar).	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	07O 020 027 E os filhos de Israel perguntaram ao Senhor (porquanto a arca do concerto de Deus estava ali naqueles dias;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	07O 020 028 E Phineas, filho de Eleazar, filho de Aarão, estava perante ele naqueles dias), dizendo: Sairei ainda mais a pelejar contra os filhos de Benjamin, meu irmão, ou pararei? E disse o Senhor; Subi, que amanhã eu to entregarei na mão	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	13O 007 014 Os filhos de Manassés: Asriel, que a mulher de Gilead pariu (porém a sua concubina, a syra, pariu a Machir, pai de Gilead.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	13O 007 015 E Machir tomou a irmã de Huppim e Suppim por mulher, e era o seu nome Maaca), e foi o nome do segundo Selophad; e Selophad teve filhas.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	14O 005 011 E sucedeu que, saindo os sacerdotes do santuário (porque todos os sacerdotes, que se acharam, se santificaram, sem guardarem as suas turmas.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	14O 005 012 E os levitas, cantores de todos eles, d'Asaph, d'Heman, de Jeduthun, e de seus filhos, e de seus irmãos, vestidos de linho fino, com címbalos, e com alaúdes, e com harpas, estavam em pé para o oriente do altar; e com eles até cento e vinte sacerdotes, que tocavam as trombetas),	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	14O 011 014 Porque os levitas deixaram os seus arrabaldes, e a sua possessão, e vieram a Judá e a Jerusalém (porque Jeroboão e seus filhos os lançaram fora para que não ministrassem ao Senhor.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	14O 011 015 E ele constituiu para si sacerdotes, para os altos, e para os demônios, e para os bezerros, que fizera.)	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	17O 001 013 Então disse o rei aos sábios que entendiam dos tempos (porque assim se tratavam os negócios do rei na presença de todos os que sabiam a lei e o direito;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	17O 001 014 E os mais chegados a ele eram: Carsena, Sethar, Admatha, Tarsis, Meres, Marsena, Memuchan, os sete príncipes dos persas e dos medos, que viam a face do rei, e se assentavam os primeiros no reino)	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	18O 015 018 (O que os sábios anunciaram, ouvindo-o de seus pais, e o não ocultaram.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	18O 015 019 Aos quais somente se dera a terra, e nenhum estranho passou por meis deles):	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	24O 032 002 (Cercava, porém, então o exército do rei de Babilônia a Jerusalém; e Jeremias, o profeta, estava encerrado no pátio da guarda que estava na casa do rei de Judá;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	24O 032 005 E levará Zedekias para Babilônia, e ali estará, até que eu visite, diz o Senhor, e, ainda que pelejeis contra os caldeus, não ganhareis?)	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	49N 003 003 Como me foi este mistério manifestado pela revelação (como acima em poucas palavras vos escrevi;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	49N 003 004 Pelo que, lendo, podeis entender a minha ciência neste mistério de Christo),	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(1/0)	58N 007 020 E porquanto não foi feito sem juramento (porque certamente aqueles sem juramento foram feitos sacerdotes,	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Source	(0/1)	58N 007 021 Mas este com juramento, por aquele que lhe disse: Jurou o Senhor, e não se arrependerá: Tu és sacerdote eternamente, segundo a ordem de Melchisedec),	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	004 NUM 021 017 (Então Israel cantou este cântico: Sobe, poço, cantai dele:	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	004 NUM 021 018 Tu, poço, que cavaram os príncipes, que escavaram os nobres do povo, e o legislador com os seus bordões): e do deserto partiram para Mattana;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (A metade para a congregação foi, das ovelhas, trezentas e trinta e sete mil e quinhentas;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 E das almas humanas dezeseis mil),	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Os emeos de antes habitaram nela: um povo grande e numeroso, e alto como os gigantes;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (também esta foi contada por terra de gigantes; de antes nela habitavam gigantes, e os ammonitas os chamavam zamzummeus:	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Também os caftoreus, que sairam de Caftor, destruiram os aveus, que habitavam em Kazerim até Gaza, e habitaram no seu lugar).	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 E os filhos de Israel perguntaram ao Senhor (porquanto a arca do concerto de Deus estava ali naqueles dias;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 E Phineas, filho de Eleazar, filho de Aarão, estava perante ele naqueles dias), dizendo: Sairei ainda mais a pelejar contra os filhos de Benjamin, meu irmão, ou pararei? E disse o Senhor; Subi, que amanhã eu to entregarei na mão	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	013 1CH 007 014 Os filhos de Manassés: Asriel, que a mulher de Gilead pariu (porém a sua concubina, a syra, pariu a Machir, pai de Gilead.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	013 1CH 007 015 E Machir tomou a irmã de Huppim e Suppim por mulher, e era o seu nome Maaca), e foi o nome do segundo Selophad; e Selophad teve filhas.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 E sucedeu que, saindo os sacerdotes do santuário (porque todos os sacerdotes, que se acharam, se santificaram, sem guardarem as suas turmas.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 E os levitas, cantores de todos eles, d'Asaph, d'Heman, de Jeduthun, e de seus filhos, e de seus irmãos, vestidos de linho fino, com címbalos, e com alaúdes, e com harpas, estavam em pé para o oriente do altar; e com eles até cento e vinte sacerdotes, que tocavam as trombetas),	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	014 2CH 011 014 Porque os levitas deixaram os seus arrabaldes, e a sua possessão, e vieram a Judá e a Jerusalém (porque Jeroboão e seus filhos os lançaram fora para que não ministrassem ao Senhor.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	014 2CH 011 015 E ele constituiu para si sacerdotes, para os altos, e para os demônios, e para os bezerros, que fizera.)	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Então disse o rei aos sábios que entendiam dos tempos (porque assim se tratavam os negócios do rei na presença de todos os que sabiam a lei e o direito;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 E os mais chegados a ele eram: Carsena, Sethar, Admatha, Tarsis, Meres, Marsena, Memuchan, os sete príncipes dos persas e dos medos, que viam a face do rei, e se assentavam os primeiros no reino)	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	018 JOB 015 018 (O que os sábios anunciaram, ouvindo-o de seus pais, e o não ocultaram.	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	018 JOB 015 019 Aos quais somente se dera a terra, e nenhum estranho passou por meis deles):	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	024 JER 032 002 (Cercava, porém, então o exército do rei de Babilônia a Jerusalém; e Jeremias, o profeta, estava encerrado no pátio da guarda que estava na casa do rei de Judá;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	024 JER 032 005 E levará Zedekias para Babilônia, e ali estará, até que eu visite, diz o Senhor, e, ainda que pelejeis contra os caldeus, não ganhareis?)	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 Como me foi este mistério manifestado pela revelação (como acima em poucas palavras vos escrevi;	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 Pelo que, lendo, podeis entender a minha ciência neste mistério de Christo),	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 E porquanto não foi feito sem juramento (porque certamente aqueles sem juramento foram feitos sacerdotes,	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 Mas este com juramento, por aquele que lhe disse: Jurou o Senhor, e não se arrependerá: Tu és sacerdote eternamente, segundo a ordem de Melchisedec), (aiōn g165)	WARN
+Portuguese---Almeida-NewOrthography	ENCLOSURES	Summary	lines	25 / 25	NOTICE
+
+# UNEXPECTED
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Portuguese---Almeida-NewOrthography	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Portuguese---Almeida-NewOrthography	NUMERALS	Source	count	0	NOTICE
+Portuguese---Almeida-NewOrthography	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) E Jesus, tendo resuscitado na manhã do primeiro dia da semana, apareceu primeiramente a Maria Magdalena, da qual tinha expulsado sete demônios.	WARN
+Portuguese---Almeida-NewOrthography	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

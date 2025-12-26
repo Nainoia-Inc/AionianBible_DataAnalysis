@@ -1,0 +1,372 @@
+# File Name: Holy-Bible---Holy-Bible---Latin---Clementine-Vulgate-Conte---Analysis.txt
+# File Size: 29180       
+# File Date: 12/13/2025 05:44:15
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Bibbia Vulgata Clementina
+# Bible Name English: Clementine Vulgate, Conte
+# Bible Language: Latine
+# Bible Language English: Latin
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Saint Jerome, revised by Sixtus V and Clement VIII, Ronald Conte
+# Bible Source Version: 1/15/2014
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=VulgConte
+# Bible Source Year: 405, 2009
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Latin---Clementine-Vulgate-Conte	ENCODING	Source	Holy-Bible---Latin---Clementine-Vulgate-Conte---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCODING	Aionian	Holy-Bible---Latin---Clementine-Vulgate-Conte---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Latin---Clementine-Vulgate-Conte	BYTES	Source	bytes / chars	4664434 / 4641271 (multi-byte)	NOTICE
+Latin---Clementine-Vulgate-Conte	BYTES	Aionian	bytes / chars	4041718 / 4021262 (multi-byte)	NOTICE
+Latin---Clementine-Vulgate-Conte	BYTES	SourceClean	bytes / chars	4545374 / 4522211 (multi-byte)	NOTICE
+Latin---Clementine-Vulgate-Conte	BYTES	AionianClean	bytes / chars	4037948 / 4017503 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Latin---Clementine-Vulgate-Conte	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Latin---Clementine-Vulgate-Conte	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Latin---Clementine-Vulgate-Conte	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Latin---Clementine-Vulgate-Conte	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Latin---Clementine-Vulgate-Conte	AIONIAN	Aionian	missing-verse	0	NOTICE
+Latin---Clementine-Vulgate-Conte	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Latin---Clementine-Vulgate-Conte	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Latin---Clementine-Vulgate-Conte	UNPRINTABLE	Source	count	0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Latin---Clementine-Vulgate-Conte	UNICODE	Summary	(-)Orginal	76	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Summary	(+)Aionian	75	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : ([)	2	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : ( )	659912	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (T)	3179	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (e)	406062	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (s)	267937	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (t)	299491	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (a)	257250	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (m)	192449	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (n)	216696	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (1)	31654	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (H)	3253	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (d)	96293	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (i)	392221	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (g)	34845	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (])	2	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (\n)	37153	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (G)	3343	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (0)	7662	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (:)	65485	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (L)	3681	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (b)	54932	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (r)	200905	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (I)	25208	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (p)	72342	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (c)	121423	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (o)	187012	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (v)	48458	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (D)	18325	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (u)	276513	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Latin-1 Supplement: (æ)	21330	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (l)	97295	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (,)	75515	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (.)	31295	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (2)	21639	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (f)	29929	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (y)	4762	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (S)	11165	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (q)	41516	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (3)	14617	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (x)	16234	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (F)	1691	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (E)	14369	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (4)	10963	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (5)	8294	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (A)	8318	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (N)	5650	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (6)	7596	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (7)	6981	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (h)	38709	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (8)	6809	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (V)	1934	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (C)	6982	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (9)	6243	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (M)	7090	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (P)	8171	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (B)	2342	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (;)	141	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Latin-1 Supplement: (Æ)	867	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (Q)	3819	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (?)	3191	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (z)	3141	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (U)	679	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (R)	2627	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Latin Extended-A : (œ)	960	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (()	230	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : ())	230	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (O)	1601	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (Z)	638	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (!)	78	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (J)	5974	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (K)	1585	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (k)	3418	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (W)	459	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (X)	15	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (Y)	1	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source(-)	Basic Latin : (w)	1416	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (0)	130566	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (1)	42437	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (\t)	124384	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (G)	3798	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (E)	20576	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (N)	7063	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (I)	14606	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (n)	177801	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : ( )	506427	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (p)	62327	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (r)	165360	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (i)	326104	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (c)	97304	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (o)	151700	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (e)	331160	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (a)	206538	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (v)	40894	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (t)	252694	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (D)	17433	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (u)	235181	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (s)	211580	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Latin-1 Supplement: (æ)	18557	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (l)	76150	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (m)	159529	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (,)	66114	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (.)	27535	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (\n)	31095	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (2)	31082	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (T)	4924	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (b)	43334	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (f)	25895	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (y)	3198	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (:)	25883	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (S)	13577	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (q)	37191	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (3)	17180	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (x)	13008	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (F)	1586	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (4)	20029	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (d)	82877	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (A)	15611	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (6)	10729	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (h)	22778	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (8)	7858	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (V)	3063	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (C)	8298	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (9)	9293	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (g)	28535	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (M)	7384	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (P)	7786	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (B)	3352	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (H)	6549	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (;)	129	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Latin-1 Supplement: (Æ)	831	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (Q)	3513	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (?)	3001	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (z)	1421	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (U)	4118	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (R)	5652	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (L)	3923	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Latin Extended-A : (œ)	863	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (()	488	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : ())	488	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (O)	8101	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (Z)	2164	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (!)	60	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (X)	1215	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (J)	4973	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (K)	2686	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Basic Latin : (k)	40	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : ( )	659912	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (T)	3179	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (e)	406062	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (s)	267937	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (t)	299491	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (a)	257250	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (m)	192449	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (n)	216696	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (1)	31654	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (H)	3253	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (d)	96293	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (i)	392221	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (g)	34845	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (])	2	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (\n)	37153	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (G)	3343	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (0)	7662	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (:)	65485	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (L)	3681	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (b)	54932	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (r)	200905	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (I)	25208	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (p)	72342	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (c)	121423	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (o)	187012	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (v)	48458	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (D)	18325	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (u)	276513	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Latin-1 Supplement: (æ)	21330	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (l)	97295	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (,)	75515	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (.)	31295	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (2)	21639	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (f)	29929	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (y)	4762	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (S)	11165	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (q)	41516	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (3)	14617	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (x)	16234	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (F)	1691	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (E)	14369	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (4)	10963	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (5)	8294	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (A)	8318	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (N)	5650	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (6)	7596	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (7)	6981	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (h)	38709	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (8)	6809	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (V)	1934	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (C)	6982	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (9)	6243	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (M)	7090	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (P)	8171	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (B)	2342	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (;)	141	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Latin-1 Supplement: (Æ)	867	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (Q)	3819	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (?)	3191	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (z)	3141	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (U)	679	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (R)	2627	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Latin Extended-A : (œ)	960	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (()	230	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : ())	230	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (O)	1601	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (Z)	638	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (!)	78	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (J)	5974	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (-)	8	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (K)	1585	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (k)	3418	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (W)	459	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (X)	15	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (Y)	1	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Basic Latin : (w)	1416	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Greek and Coptic : (α)	3	NOTICE
+Latin---Clementine-Vulgate-Conte	UNICODE	Source	Greek and Coptic : (ω)	3	NOTICE
+
+# VERSIFICATION
+Latin---Clementine-Vulgate-Conte	VERSIFICATION	Aionian	missing	001-GEN-049-032	WARN
+Latin---Clementine-Vulgate-Conte	VERSIFICATION	Aionian	missing	002-EXO-040-013	WARN
+Latin---Clementine-Vulgate-Conte	VERSIFICATION	Aionian	missing	002-EXO-040-014	WARN
+Latin---Clementine-Vulgate-Conte	VERSIFICATION	Aionian	missing	006-JOS-021-038	WARN
+Latin---Clementine-Vulgate-Conte	VERSIFICATION	Aionian	missing	006-JOS-021-039	WARN
+Latin---Clementine-Vulgate-Conte	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+Latin---Clementine-Vulgate-Conte	VERSIFICATION	Summary	missing	6	WARN
+Latin---Clementine-Vulgate-Conte	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	()	230 / 230	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	[]	2 / 2	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	()	488 / 488	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	(1/0)	I Kings 8:41 Insuper et alienigena, qui non est de populo tuo Israel, cum venerit de terra longinqua propter nomen tuum (audietur enim nomen tuum magnum, et manus tua fortis, et brachium tuum	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	(0/1)	I Kings 8:42 extentum ubique) cum venerit ergo, et oraverit in hoc loco,	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	(1/0)	I Kings 10:11 (Sed et classis Hiram, quæ portabat aurum de Ophir, attulit ex Ophir ligna thyina multa nimis, et gemmas pretiosas.	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	(0/1)	I Kings 10:12 Fecitque rex de lignis thyinis fulcra domus Domini, et domus regiæ, et citharas lyrasque cantoribus: non sunt allata huiuscemodi ligna thyina, neque visa usque in præsentem diem.)	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	(1/0)	I Chronicles 5:1 Filii quoque Ruben primogeniti Israel (Ipse quippe fuit primogenitus eius: sed cum violasset thorum patris sui, data sunt primogenita eius filiis Ioseph filii Israel, et non est ille reputatus in primogenitum.	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	(0/1)	I Chronicles 5:2 Porro Iudas, qui erat fortissimus inter fratres suos, de stirpe eius principes germinati sunt: primogenita autem reputata sunt Ioseph.)	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	(1/0)	Hebrews 7:20 Et quantum est non sine iureiurando (alii quidem sine iureiurando sacerdotes facti sunt,	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Source	(0/1)	Hebrews 7:21 hic autem cum iureiurando per eum, qui dixit ad illum: Iuravit Dominus, et non pœnitebit eum: tu es sacerdos in æternum):	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	(1/0)	011 1KI 008 041 Insuper et alienigena, qui non est de populo tuo Israel, cum venerit de terra longinqua propter nomen tuum (audietur enim nomen tuum magnum, et manus tua fortis, et brachium tuum	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	(0/1)	011 1KI 008 042 extentum ubique) cum venerit ergo, et oraverit in hoc loco,	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (Sed et classis Hiram, quæ portabat aurum de Ophir, attulit ex Ophir ligna thyina multa nimis, et gemmas pretiosas.	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 Fecitque rex de lignis thyinis fulcra domus Domini, et domus regiæ, et citharas lyrasque cantoribus: non sunt allata huiuscemodi ligna thyina, neque visa usque in præsentem diem.)	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Filii quoque Ruben primogeniti Israel (Ipse quippe fuit primogenitus eius: sed cum violasset thorum patris sui, data sunt primogenita eius filiis Ioseph filii Israel, et non est ille reputatus in primogenitum.	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Porro Iudas, qui erat fortissimus inter fratres suos, de stirpe eius principes germinati sunt: primogenita autem reputata sunt Ioseph.)	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 Et quantum est non sine iureiurando (alii quidem sine iureiurando sacerdotes facti sunt,	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 hic autem cum iureiurando per eum, qui dixit ad illum: Iuravit Dominus, et non pœnitebit eum: tu es sacerdos in æternum): (aiōn g165)	WARN
+Latin---Clementine-Vulgate-Conte	ENCLOSURES	Summary	lines	8 / 8	NOTICE
+
+# UNEXPECTED
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Latin---Clementine-Vulgate-Conte	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Latin---Clementine-Vulgate-Conte	NUMERALS	Source	8	Esther 9:17 (Textus alternus de Hebraico, versus 17-18:)Die autem tertio induta est Esther regalibus vestimentis, et stetit in atrio domus regiæ, quod erat interius, contra basilicam regis: at ille sedebat super solium suum in consistorio palatii contra ostium domus.	WARN
+Latin---Clementine-Vulgate-Conte	NUMERALS	Source	count	1	WARN
+Latin---Clementine-Vulgate-Conte	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Surgens autem mane, prima Sabbati, apparuit primo Mariæ Magdalene, de qua eiecerat septem dæmonia.	WARN
+Latin---Clementine-Vulgate-Conte	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,655 @@
+# File Name: Holy-Bible---Holy-Bible---Finnish---Open-Living-News---Analysis.txt
+# File Size: 52082       
+# File Date: 12/13/2025 05:27:27
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Suomi Avoin Elävä Uutinen
+# Bible Name English: Finnish Open Living News
+# Bible Language: Suomen Kieli
+# Bible Language English: Finnish
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=fin
+# Bible Source Year: 1976
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Finnish---Open-Living-News	ENCODING	Source	Holy-Bible---Finnish---Open-Living-News---Source-Edition.VPL.txt	UTF-8	NOTICE
+Finnish---Open-Living-News	ENCODING	Aionian	Holy-Bible---Finnish---Open-Living-News---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Finnish---Open-Living-News	BYTES	Source	bytes / chars	1127691 / 1072314 (multi-byte)	NOTICE
+Finnish---Open-Living-News	BYTES	Aionian	bytes / chars	1184258 / 1128690 (multi-byte)	NOTICE
+Finnish---Open-Living-News	BYTES	SourceClean	bytes / chars	1126868 / 1071491 (multi-byte)	NOTICE
+Finnish---Open-Living-News	BYTES	AionianClean	bytes / chars	1181945 / 1126380 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Finnish---Open-Living-News	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Finnish---Open-Living-News	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Finnish---Open-Living-News	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Finnish---Open-Living-News	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Finnish---Open-Living-News	AIONIAN	Aionian	missing-verse	0	NOTICE
+Finnish---Open-Living-News	AIONIAN	Aionian	aionian-verses	200	NOTICE
+Finnish---Open-Living-News	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Finnish---Open-Living-News	UNPRINTABLE	Source	count	0	NOTICE
+Finnish---Open-Living-News	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Finnish---Open-Living-News	UNICODE	Summary	(-)Orginal	55	NOTICE
+Finnish---Open-Living-News	UNICODE	Summary	(+)Aionian	60	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (M)	4320	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (A)	3498	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (T)	3689	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : ( )	139840	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (1)	7774	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (:)	9459	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (J)	6840	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (e)	74860	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (s)	58845	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (u)	41155	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (K)	3377	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (r)	14068	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (i)	83640	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (t)	80686	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (o)	38037	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (l)	47031	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (k)	40163	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (n)	74356	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (g)	813	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (a)	101655	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (D)	128	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (d)	6353	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (b)	397	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (h)	18632	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (m)	27925	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (.)	10872	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (-)	135	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (\n)	7638	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (2)	4944	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (I)	876	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (,)	11953	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (3)	2630	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (P)	1747	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (()	34	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : ())	34	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (H)	3888	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (R)	1816	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (4)	2115	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (5)	1748	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (B)	428	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (O)	2878	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (6)	1502	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (U)	1191	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (7)	1330	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (8)	1241	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (9)	1197	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (0)	1178	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (p)	12434	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (y)	11592	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (E)	1841	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (V)	912	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (L)	1614	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (G)	251	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (C)	1729	NOTICE
+Finnish---Open-Living-News	UNICODE	Source(-)	Basic Latin : (c)	1	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (0)	31631	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (4)	9172	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (\t)	30588	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (M)	4321	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (A)	3507	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (T)	3693	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (1)	8783	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (J)	6841	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (e)	74895	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (s)	58959	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (u)	41158	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : ( )	124767	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (K)	3379	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (r)	14079	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (i)	83887	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (t)	80693	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (o)	38122	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (l)	47036	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (k)	40164	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (n)	74558	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (g)	1026	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (a)	101854	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (D)	129	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (d)	6370	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (b)	407	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (h)	18633	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (m)	27932	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (.)	10873	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (-)	136	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (:)	1823	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (\n)	7646	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (2)	6237	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (I)	877	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (,)	11961	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (3)	3549	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (P)	1753	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (()	236	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : ())	236	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (H)	3902	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (R)	1815	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (5)	3351	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (B)	430	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (O)	2881	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (6)	3341	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (U)	1194	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (7)	1615	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (8)	1685	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (9)	1449	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (p)	12435	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (y)	11606	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (E)	1843	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (V)	911	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (L)	1623	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (G)	263	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (c)	3	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (C)	1732	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Finnish---Open-Living-News	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (M)	4320	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (A)	3498	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (T)	3689	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : ( )	139840	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (1)	7774	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (:)	9459	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (J)	6840	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (e)	74860	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (s)	58845	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (u)	41155	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (K)	3377	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (r)	14068	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (i)	83640	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (t)	80686	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (o)	38037	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (l)	47031	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (k)	40163	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (n)	74356	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (g)	813	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (a)	101655	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (D)	128	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (v)	18700	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (d)	6353	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (j)	14329	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (b)	397	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (h)	18632	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (m)	27925	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Latin-1 Supplement: (ä)	46939	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (.)	10872	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (N)	641	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (-)	135	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (\n)	7638	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (2)	4944	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (I)	876	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (,)	11953	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (3)	2630	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (P)	1747	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (S)	1756	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (()	34	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : ())	34	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (H)	3888	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (R)	1816	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (4)	2115	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (5)	1748	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (B)	428	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (O)	2878	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (6)	1502	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	General Punctuation : (–)	579	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (U)	1191	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (7)	1330	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (8)	1241	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (f)	435	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (9)	1197	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (0)	1178	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (p)	12434	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (y)	11592	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (E)	1841	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Latin-1 Supplement: (»)	3698	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Latin-1 Supplement: (ö)	2261	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	General Punctuation : (’)	522	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (!)	762	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (?)	884	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (V)	912	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (L)	1614	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (G)	251	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Latin-1 Supplement: (Ä)	253	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (Y)	145	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (F)	104	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Latin-1 Supplement: (Ö)	16	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	General Punctuation : (…)	4	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (;)	43	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : ([)	59	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (])	59	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (C)	1729	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (Z)	3	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (x)	9	NOTICE
+Finnish---Open-Living-News	UNICODE	Source	Basic Latin : (c)	1	NOTICE
+
+# VERSIFICATION
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-004-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-005-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-005-012	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-005-016	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-005-026	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-006-017	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-006-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-006-029	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-006-033	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-008-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-009-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-010-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-011-030	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-012-031	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-012-044	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-012-045	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-012-047	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-013-050	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-013-054	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-014-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-015-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-015-038	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-019-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-020-012	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-022-035	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-022-039	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-023-030	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-024-039	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-025-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-025-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-025-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	040-MAT-026-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-004-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-004-017	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-004-028	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-005-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-005-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-006-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-006-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-006-023	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-006-036	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-006-044	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-007-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-007-012	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-008-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-009-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-009-031	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-010-044	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-014-067	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	041-MAR-016-011	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-001-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-001-012	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-001-040	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-001-047	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-001-071	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-001-073	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-001-075	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-001-079	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-002-030	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-002-031	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-002-035	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-002-037	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-003-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-004-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-004-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-004-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-004-011	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-004-015	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-004-019	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-004-026	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-005-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-005-019	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-006-015	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-006-016	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-006-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-006-048	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-007-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-007-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-007-022	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-008-044	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-010-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-011-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-011-030	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-011-038	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-011-054	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-012-036	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-012-043	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-012-044	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-013-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-013-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-014-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-015-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-016-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-016-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-017-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-017-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-017-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-018-005	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-018-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-018-017	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-019-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-019-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-019-037	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-020-028	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-020-038	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-020-043	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-021-035	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-021-038	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-022-042	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-022-064	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-022-068	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-023-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-023-033	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-023-041	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-023-052	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-024-020	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-024-023	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	042-LUK-024-034	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-001-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-001-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-003-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-003-024	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-004-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-004-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-004-023	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-004-024	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-004-047	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-006-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-006-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-006-023	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-008-031	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-009-023	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-010-029	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-011-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-011-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-011-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-011-052	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-012-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-013-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-013-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-015-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-016-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-017-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-017-022	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-017-023	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	043-JOH-019-024	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-001-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-001-014	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-001-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-003-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-003-022	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-004-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-004-026	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-004-035	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-005-027	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-007-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-007-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-007-049	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-008-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-008-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-008-011	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-009-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-010-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-010-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-010-041	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-010-047	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-013-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-013-020	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-013-033	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-014-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-014-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-015-027	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-015-029	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-015-035	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-015-041	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-016-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-017-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-017-015	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-018-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-018-026	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-019-019	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-020-011	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-020-012	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-020-027	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-021-027	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-021-038	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-022-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-022-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-023-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-023-024	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-025-011	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-027-015	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-028-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-001-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-001-012	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-001-027	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-002-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-002-014	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-002-015	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-003-022	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-003-026	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-004-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-004-005	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-006-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-007-024	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-007-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-008-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-009-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-009-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-009-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-009-011	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-009-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-009-024	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-012-005	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-013-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-015-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-015-016	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	045-ROM-016-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-005-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-005-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-006-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-006-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-010-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-011-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-011-015	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-014-030	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	046-1CO-015-056	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-001-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-001-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-001-014	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-001-016	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-002-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-005-014	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-011-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-011-020	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	047-2CO-012-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	048-GAL-001-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	048-GAL-002-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	048-GAL-002-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	048-GAL-003-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	048-GAL-003-022	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	048-GAL-004-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-001-016	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-001-017	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-001-020	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-002-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-002-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-003-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-003-015	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-005-016	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-005-030	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	049-EPH-006-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	051-COL-001-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	052-1TH-002-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	052-1TH-002-020	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	052-1TH-003-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	052-1TH-003-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	052-1TH-004-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	052-1TH-004-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	053-2TH-001-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	053-2TH-002-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	054-1TI-001-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	054-1TI-001-011	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	054-1TI-002-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	054-1TI-004-010	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	057-PHM-001-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-001-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-003-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-005-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-005-003	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-005-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-007-013	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-007-014	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-008-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-009-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-011-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-011-038	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	058-HEB-013-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	059-JAM-001-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	059-JAM-001-011	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	061-2PE-001-014	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	061-2PE-001-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	061-2PE-001-021	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	061-2PE-002-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	061-2PE-003-002	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	061-2PE-003-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	061-2PE-003-016	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	062-1JO-001-004	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	062-1JO-005-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	062-1JO-005-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-002-025	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-007-005	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-007-006	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-007-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-007-008	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-008-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-009-018	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-011-009	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-021-019	WARN
+Finnish---Open-Living-News	VERSIFICATION	Aionian	missing	066-REV-022-007	WARN
+Finnish---Open-Living-News	VERSIFICATION	Summary	missing	310	WARN
+Finnish---Open-Living-News	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Finnish---Open-Living-News	ENCLOSURES	Source	()	34 / 34	NOTICE
+Finnish---Open-Living-News	ENCLOSURES	Source	[]	59 / 59	NOTICE
+Finnish---Open-Living-News	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Finnish---Open-Living-News	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Finnish---Open-Living-News	ENCLOSURES	Aionian	()	236 / 236	NOTICE
+Finnish---Open-Living-News	ENCLOSURES	Aionian	[]	59 / 59	NOTICE
+Finnish---Open-Living-News	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Finnish---Open-Living-News	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Finnish---Open-Living-News	ENCLOSURES	Source	(1/0)	LUK 3:18 Johannes käytti usein tällaisia varoittavia esimerkkejä julistaessaan ihmisille hyvää uutista. (	WARN
+Finnish---Open-Living-News	ENCLOSURES	Source	(0/1)	LUK 3:20 Silloin Herodes panetti Johanneksen vankilaan.)	WARN
+Finnish---Open-Living-News	ENCLOSURES	Source	(1/0)	JOH 12:32 Kun minut ylennetään ristille, vedän kaikki luokseni.» (	WARN
+Finnish---Open-Living-News	ENCLOSURES	Source	(0/1)	JOH 12:33 Hän sanoi tämän ilmoittaakseen, millä tavalla hän kuolisi.)	WARN
+Finnish---Open-Living-News	ENCLOSURES	Aionian	(1/0)	042 LUK 003 018 Johannes käytti usein tällaisia varoittavia esimerkkejä julistaessaan ihmisille hyvää uutista. (	WARN
+Finnish---Open-Living-News	ENCLOSURES	Aionian	(0/1)	042 LUK 003 020 Silloin Herodes panetti Johanneksen vankilaan.)	WARN
+Finnish---Open-Living-News	ENCLOSURES	Aionian	(1/0)	043 JOH 012 032 Kun minut ylennetään ristille, vedän kaikki luokseni.» (	WARN
+Finnish---Open-Living-News	ENCLOSURES	Aionian	(0/1)	043 JOH 012 033 Hän sanoi tämän ilmoittaakseen, millä tavalla hän kuolisi.)	WARN
+Finnish---Open-Living-News	ENCLOSURES	Summary	lines	4 / 4	NOTICE
+
+# UNEXPECTED
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Finnish---Open-Living-News	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Finnish---Open-Living-News	NUMERALS	Source	4	LUK 2:36 Temppelissä oli sinä päivänä myös 84-vuotias profeetta Hanna. Hänen isänsä oli juutalaiseen Asserin heimoon kuuluva Fanuel. Hanna oli aikoinaan mennyt nuorena naimisiin, mutta jäänyt leskeksi seitsemän avioliittovuoden jälkeen. Hän oli jatkuvasti temppelissä, rukoili yötä päivää ja paastosi usein.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	0	LUK 16:5 Hän pyysi kaikkia, jotka olivat hänen työnantajalleen velkaa, tulemaan puheilleen. Ensimmäiseltä hän kysyi: ’Paljonko olet velkaa?’ ’3 600 litraa oliiviöljyä’, mies vastasi. ’Tässä onkin velkakirjasi. Revi se ja kirjoita uusi, jossa velaksesi ilmoitetaan vain puolet siitä’, talouspäällikkö sanoi.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	9	LUK 16:7 ’Mitä sinä olet velkaa?’ hän kysyi sitten seuraa valta. ’36 tonnia vehnää’, tämä vastasi. ’Tehdään uusi sopimus ja merkitään velaksesi vain 29 tonnia’, talouspäällikkö sanoi.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	8	JOH 5:5 Yksi siellä makaavista miehistä oli ollut liikuntakyvytön 38 vuotta.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	3	JOH 21:11 Pietari kahlasi vetämään verkkoa maalle. Se oli täynnä. Hän laski siinä 153 suurta kalaa, eikä verkko ollut kuitenkaan repeytynyt.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	0	ACT 19:18 Monet Jeesukseen uskovat, jotka olivat harjoittaneet noituutta, tunnustivat asian ja polttivat loitsukirjansa suuressa yhteisessä roviossa. Kirjoja arvioitiin olleen 50 000 hopearahan arvosta.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	6	ACT 27:37 Meitä oli kaikkiaan 276 henkeä.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	0	1CO 10:8 Entä mitä tapahtui, kun siveetön elämä sai monet miehet valtaansa? Yhtenä päivänä kuoli 23 000 ihmistä.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	0	REV 7:4 Miten moni tuon merkin sai? Kuulin lukumäärän: 144 000 kaikista Israelin heimoista. Juudan, Ruubenin, Gaadin, Asserin, Naftalin, Manassen, Simeonin, Leevin, Isaskarin, Sebulonin, Joosefin ja Benjaminin heimoista merkittiin kustakin 12 000.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	6	REV 13:18 Tässä onkin arvoitus, jonka ratkaiseminen vaatii viisautta. Ne jotka osaavat, tulkitkoot tämän luvun: nimen kirjainten lukuarvo on 666.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	0	REV 14:1 Näin Karitsan seisovan Jerusalemissa Siionin vuorella. Hänen kanssaan olivat ne 144 000, joiden otsaan oli kirjoitettu Karitsan ja hänen Isänsä nimi.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	0	REV 14:3 Tuo valtava kuoro, jossa oli 144 000 ihmistä, lauloi ihmeellistä uutta virttä Jumalan valtaistuimen, neljän olennon ja vanhinten edessä. Heidät oli pelastettu maasta, ja vain he osasivat tuon laulun.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	0	REV 21:16 Kaupunki oli neliön muotoinen: 2 300 kilometriä pitkä ja leveä. Se oli oikeastaan kuutio, sillä sen korkeuskin oli sama.	WARN
+Finnish---Open-Living-News	NUMERALS	Source	count	13	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Jeesuksen ylösnousemus tapahtui varhain sunnuntaiaamuna. Ensimmäinen ihminen, joka hänet näki, oli Maria Magdaleena – nainen, jonka hän oli vapauttanut seitsemästä riivaajahengestä.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	84	042-LUK-002-036 Temppelissä oli sinä päivänä myös 84-vuotias profeetta Hanna. Hänen isänsä oli juutalaiseen Asserin heimoon kuuluva Fanuel. Hanna oli aikoinaan mennyt nuorena naimisiin, mutta jäänyt leskeksi seitsemän avioliittovuoden jälkeen. Hän oli jatkuvasti temppelissä, rukoili yötä päivää ja paastosi usein.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	3	042-LUK-016-005 Hän pyysi kaikkia, jotka olivat hänen työnantajalleen velkaa, tulemaan puheilleen. Ensimmäiseltä hän kysyi:’Paljonko olet velkaa?’’3 600 litraa oliiviöljyä’, mies vastasi.’Tässä onkin velkakirjasi. Revi se ja kirjoita uusi, jossa velaksesi ilmoitetaan vain puolet siitä’, talouspäällikkö sanoi.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	36	042-LUK-016-007 ’Mitä sinä olet velkaa?’ hän kysyi sitten seuraa valta.’36 tonnia vehnää’, tämä vastasi.’Tehdään uusi sopimus ja merkitään velaksesi vain 29 tonnia’, talouspäällikkö sanoi.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	38	043-JOH-005-005 Yksi siellä makaavista miehistä oli ollut liikuntakyvytön 38 vuotta.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	153	043-JOH-021-011 Pietari kahlasi vetämään verkkoa maalle. Se oli täynnä. Hän laski siinä 153 suurta kalaa, eikä verkko ollut kuitenkaan repeytynyt.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	50	044-ACT-019-018 Monet Jeesukseen uskovat, jotka olivat harjoittaneet noituutta, tunnustivat asian ja polttivat loitsukirjansa suuressa yhteisessä roviossa. Kirjoja arvioitiin olleen 50 000 hopearahan arvosta.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	276	044-ACT-027-037 Meitä oli kaikkiaan 276 henkeä.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	23	046-1CO-010-008 Entä mitä tapahtui, kun siveetön elämä sai monet miehet valtaansa? Yhtenä päivänä kuoli 23 000 ihmistä.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	144	066-REV-007-004 Miten moni tuon merkin sai? Kuulin lukumäärän: 144 000 kaikista Israelin heimoista. Juudan, Ruubenin, Gaadin, Asserin, Naftalin, Manassen, Simeonin, Leevin, Isaskarin, Sebulonin, Joosefin ja Benjaminin heimoista merkittiin kustakin 12 000.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	666	066-REV-013-018 Tässä onkin arvoitus, jonka ratkaiseminen vaatii viisautta. Ne jotka osaavat, tulkitkoot tämän luvun: nimen kirjainten lukuarvo on 666.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	144	066-REV-014-001 Näin Karitsan seisovan Jerusalemissa Siionin vuorella. Hänen kanssaan olivat ne 144 000, joiden otsaan oli kirjoitettu Karitsan ja hänen Isänsä nimi.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	144	066-REV-014-003 Tuo valtava kuoro, jossa oli 144 000 ihmistä, lauloi ihmeellistä uutta virttä Jumalan valtaistuimen, neljän olennon ja vanhinten edessä. Heidät oli pelastettu maasta, ja vain he osasivat tuon laulun.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	2	066-REV-021-016 Kaupunki oli neliön muotoinen: 2 300 kilometriä pitkä ja leveä. Se oli oikeastaan kuutio, sillä sen korkeuskin oli sama.	WARN
+Finnish---Open-Living-News	NUMERALS	Aionian	count	14	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

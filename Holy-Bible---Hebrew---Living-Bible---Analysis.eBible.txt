@@ -1,0 +1,613 @@
+# File Name: Holy-Bible---Holy-Bible---Hebrew---Living-Bible---Analysis.txt
+# File Size: 54428       
+# File Date: 12/13/2025 05:37:43
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: הברית החדשה/הדרך זכויות פתוחות
+# Bible Name English: Hebrew Living New Testament
+# Bible Language: עברית
+# Bible Language English: Hebrew
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0, International
+# Bible Source: Biblica, Inc.
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=heblb
+# Bible Source Year: 2009
+# Bible Description: Original work available for free at www.biblica.com and open.bible
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Hebrew---Living-Bible	ENCODING	Source	Holy-Bible---Hebrew---Living-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Hebrew---Living-Bible	ENCODING	Aionian	Holy-Bible---Hebrew---Living-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Hebrew---Living-Bible	BYTES	Source	bytes / chars	1359592 / 789934 (multi-byte)	NOTICE
+Hebrew---Living-Bible	BYTES	Aionian	bytes / chars	1414253 / 844548 (multi-byte)	NOTICE
+Hebrew---Living-Bible	BYTES	SourceClean	bytes / chars	1358760 / 789102 (multi-byte)	NOTICE
+Hebrew---Living-Bible	BYTES	AionianClean	bytes / chars	1411339 / 842056 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Hebrew---Living-Bible	AIONIAN	Aionian	missing-verse	040-MAT-012-032	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	missing-verse	042-LUK-001-055	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	missing-verse	056-TIT-001-002	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	missing-verse	065-JUD-001-025	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	missing-verse	066-REV-001-006	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	missing-verse	5	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	aionian-verses	195	NOTICE
+Hebrew---Living-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Hebrew---Living-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Hebrew---Living-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Hebrew---Living-Bible	UNICODE	Summary	(-)Orginal	28	NOTICE
+Hebrew---Living-Bible	UNICODE	Summary	(+)Aionian	51	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (M)	2220	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (A)	2883	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (T)	2426	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : ( )	139167	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (1)	7879	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (:)	9214	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (,)	10215	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (\n)	7727	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (2)	5032	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (3)	2650	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (()	193	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : ())	198	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (4)	2145	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (5)	1767	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (6)	1516	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (.)	8228	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (7)	1357	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (8)	1250	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (9)	1216	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (0)	1316	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	General Punctuation : ( )	62	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	General Punctuation : (‏)	219	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (L)	1359	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (J)	1118	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (O)	2193	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (H)	1567	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (G)	141	NOTICE
+Hebrew---Living-Bible	UNICODE	Source(-)	Basic Latin : (P)	434	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	32075	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	9285	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	30904	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	2221	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	2892	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2428	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	8850	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	121824	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	10223	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	1489	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	7725	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	6366	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	3572	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (()	394	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : ())	399	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	3393	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	3360	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	8229	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	1643	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	1702	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1470	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	153	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	35	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	201	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	198	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	212	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	1578	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	17	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	114	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	246	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	167	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	85	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	7	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	1	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	5	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	3	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	1364	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	1117	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	2192	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	439	NOTICE
+Hebrew---Living-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (M)	2220	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (A)	2883	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (T)	2426	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : ( )	139167	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (1)	7879	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (:)	9214	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ל)	42402	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (פ)	7487	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (נ)	19072	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (י)	62129	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (כ)	17347	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ם)	26811	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ס)	5774	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ר)	24535	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ק)	8347	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ו)	65241	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ת)	28771	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ח)	13812	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ש)	29782	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ע)	17815	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ה)	45418	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (מ)	26547	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (,)	10215	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (א)	43195	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (צ)	4863	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ד)	14732	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ך)	3860	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ב)	25684	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (\n)	7727	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (2)	5032	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (;)	637	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ֶ)	20	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ָ)	39	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (3)	2650	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ץ)	526	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ז)	4322	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (()	193	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : ())	198	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ן)	5792	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (4)	2145	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (5)	1767	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (6)	1516	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (.)	8228	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (7)	1357	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (8)	1250	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ט)	3852	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (9)	1216	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (0)	1316	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ג)	4923	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ף)	1001	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (־)	1887	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (׳)	430	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : (”)	2593	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (!)	1366	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : (’)	320	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : (‘)	320	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : (“)	2209	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (?)	1006	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : ( )	62	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : (–)	741	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (״)	19	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : (…)	17	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ַ)	39	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ּ)	41	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : (‎)	35	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ְ)	46	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ֵ)	30	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	General Punctuation : (‏)	219	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ִ)	13	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ֹ)	16	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (R)	1451	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (L)	1359	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (U)	1149	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (K)	1125	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (J)	1118	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (O)	2193	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (H)	1567	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (C)	1748	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ׁ)	3	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ֲ)	2	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (G)	141	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (E)	1006	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (P)	434	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Hebrew : (ֱ)	1	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (I)	340	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (B)	300	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (D)	24	NOTICE
+Hebrew---Living-Bible	UNICODE	Source	Basic Latin : (V)	397	NOTICE
+
+# VERSIFICATION
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-005-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-005-016	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-006-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-008-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-009-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-011-030	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-032	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-040	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-044	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-012-045	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-013-032	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-014-024	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-015-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-015-038	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-016-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-017-027	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-020-012	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-022-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-022-035	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-030	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-025-025	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-061	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-026-066	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-027-010	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-027-058	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	040-MAT-028-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-033	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-037	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-002-010	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-002-026	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-015	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-017	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-018	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-019	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-032	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-004-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-004-012	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-004-032	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-042	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-018	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-023	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-028	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-036	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-040	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-044	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-006-054	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-007	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-037	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-008-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-031	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-050	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-010-007	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-011-005	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-011-028	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-012-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-013-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-013-016	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-013-036	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-013-037	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-005	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-052	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-067	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-017	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-043	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	041-MAR-016-011	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-040	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-055	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-075	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-031	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-035	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-037	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-042	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-003-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-004-007	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-005-010	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-008-036	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-010-042	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-030	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-031	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-032	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-038	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-054	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-013-025	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-014-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-016-028	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-021-038	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-022-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-024-007	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	042-LUK-024-023	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-001-025	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-002-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-002-025	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-003-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-022	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-023	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-024	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-041	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-006-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-009-023	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-011-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-011-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-012-011	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-014-031	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-019-024	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	043-JOH-020-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-014	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-025	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-003-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-003-020	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-004-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-004-035	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-005-027	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-007-049	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-010	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-011	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-009-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-010-010	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-010-037	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-010-041	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-010-047	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-014-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-027	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-035	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-041	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-016-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-018-022	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-018-026	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-019-019	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-020-011	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-020-012	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-022-018	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-023-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-023-024	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-025-011	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-027-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-027-015	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-007	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-008-021	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-013-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	045-ROM-016-010	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-006-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-011-015	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-014-030	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-056	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-014	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-016	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-002-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-008-014	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-012-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	047-2CO-013-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-016	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-002-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-002-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-003-022	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-004-013	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-004-025	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	048-GAL-006-012	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-001-017	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-001-020	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-003-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-005-016	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-005-030	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	049-EPH-006-007	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-005	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-017	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	051-COL-001-027	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	051-COL-003-023	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-003-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	052-1TH-004-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	053-2TH-003-018	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-001-011	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	054-1TI-003-015	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	056-TIT-001-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	056-TIT-001-007	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-007-014	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-009-005	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	058-HEB-011-038	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-011	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-003-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	059-JAM-005-020	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-002-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	060-1PE-003-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-001-014	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-001-018	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-002-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	061-2PE-003-002	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	062-1JO-005-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	063-2JO-001-003	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	063-2JO-001-011	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	065-JUD-001-025	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-001-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-002-025	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-011-009	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-013-017	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-015-004	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-018-008	WARN
+Hebrew---Living-Bible	VERSIFICATION	Aionian	missing	066-REV-019-006	WARN
+Hebrew---Living-Bible	VERSIFICATION	Summary	missing	231	WARN
+Hebrew---Living-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Hebrew---Living-Bible	ENCLOSURES	Source	()	193 / 198	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Hebrew---Living-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Hebrew---Living-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Hebrew---Living-Bible	ENCLOSURES	Aionian	()	394 / 399	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Hebrew---Living-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Hebrew---Living-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Hebrew---Living-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (במסורת היהודית של אז, במיוחד אצל הפרושים, נהגו ליטול ידיים עד למרפק לפני כל ארוחה.	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 גם בשובם מן השוק עליהם ליטול ידיים לפני שהם נוגעים באוכל. זוהי רק דוגמה אחת ממנהגים רבים שהם מקיימים מאות שנים. דוגמה נוספת היא הכשרת סירים, מחבתות וכלים.)	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	(1/0)	JOH 5:3 על רציפים אלה שכבו חולים רבים, עיוורים, פיסחים, משותקים וכדומה (כשהם מחכים שהמים יסערו,	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	(0/1)	JOH 5:4 כי מדי פעם ירד מלאך ה׳ אל הברכה והסעיר את המים, והחולה הראשון שנכנס אל המים לאחר מכן נרפא).	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	(0/1)	HEB 7:4 הבה נבחן את גדולתו של מלכי־צדק: א) אפילו אברהם אבינו העניק לו מעשר משללו.	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	(0/1)	HEB 7:6 מלכי־צדק לא השתייך למשפחת בני־לוי, ובכל זאת נתן לו אברהם מעשר. ב) מלכי־צדק ברך את אברהם – שלו ניתנה הבטחת ה׳ –	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	(0/1)	HEB 7:7 וכפי שאנו יודעים, גדול מי שמברך ממקבל הברכה. ג)	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	(0/1)	HEB 7:8 בכהונת הלויים היו מקבלי המעשר אנשים של בשר ודם, אשר מתו בבוא העת, ואילו על מלכי־צדק אנו קוראים כאילו הוא חי לעולם. ד)	WARN
+Hebrew---Living-Bible	ENCLOSURES	Source	(0/1)	HEB 7:10 כיצד יתכן הדבר? אמנם לוי טרם נולד, אולם בהיותו זרע אברהם הוא היה בחלציו כשיצא מלכי־צדק לקראת אברהם. ה)	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (במסורת היהודית של אז, במיוחד אצל הפרושים, נהגו ליטול ידיים עד למרפק לפני כל ארוחה.	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 גם בשובם מן השוק עליהם ליטול ידיים לפני שהם נוגעים באוכל. זוהי רק דוגמה אחת ממנהגים רבים שהם מקיימים מאות שנים. דוגמה נוספת היא הכשרת סירים, מחבתות וכלים.)	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 005 003 על רציפים אלה שכבו חולים רבים, עיוורים, פיסחים, משותקים וכדומה (כשהם מחכים שהמים יסערו,	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 005 004 כי מדי פעם ירד מלאך ה׳ אל הברכה והסעיר את המים, והחולה הראשון שנכנס אל המים לאחר מכן נרפא).	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 007 004 הבה נבחן את גדולתו של מלכי־צדק: א) אפילו אברהם אבינו העניק לו מעשר משללו.	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 007 006 מלכי־צדק לא השתייך למשפחת בני־לוי, ובכל זאת נתן לו אברהם מעשר. ב) מלכי־צדק ברך את אברהם – שלו ניתנה הבטחת ה׳ –	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 007 007 וכפי שאנו יודעים, גדול מי שמברך ממקבל הברכה. ג)	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 007 008 בכהונת הלויים היו מקבלי המעשר אנשים של בשר ודם, אשר מתו בבוא העת, ואילו על מלכי־צדק אנו קוראים כאילו הוא חי לעולם. ד)	WARN
+Hebrew---Living-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 007 010 כיצד יתכן הדבר? אמנם לוי טרם נולד, אולם בהיותו זרע אברהם הוא היה בחלציו כשיצא מלכי־צדק לקראת אברהם. ה)	WARN
+Hebrew---Living-Bible	ENCLOSURES	Summary	lines	9 / 9	NOTICE
+
+# UNEXPECTED
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Hebrew---Living-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 20:2 האיכר הבטיח לפועלים 100 שקלים תמורת יום עבודה, ושלח אותם אל הכרם.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 20:9 כל אחד מהפועלים שנשכרו בשעה חמש קיבל 100 שקלים.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 20:10 בהגיע תורם של הפועלים שנשכרו מוקדם יותר הם ציפו לקבל הרבה יותר, אולם גם הם קיבלו 100 שקלים כל אחד.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 20:13 ” ’ידידי‘, ענה האיכר לאחד מהם, ’לא גרמתי לך שום עוול! האם לא הסכמנו מראש שתעבוד כל היום תמורת 100 שקלים?	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 25:15 הוא נתן לאחד 50,000 שקלים, לשני – 20,000 שקלים ולשלישי – 10,000 שקלים. הוא חילק את הכסף בהתאם לכישרונו של כל אחד ויצא לדרכו.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 25:16 האיש שקיבל 50,000 שקלים החל מיד לקנות ולמכור, ותוך זמן קצר הרוויח עוד 50,000 שקלים.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 25:17 גם האיש שקיבל 20,000 שקלים ניגש מיד לעבודה והרוויח עוד 20,000 שקלים.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 25:18 אך האיש שקיבל 10,000 שקלים חפר בור באדמה והטמין בתוכו את הכסף.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 25:20 האיש שקיבל 50,000 שקלים החזיר לאדוניו 100,000 שקלים.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 25:22 ”אחריו בא האיש שקיבל 20,000 שקלים והצהיר: ’אדוני, נתת לי 20,000 שקלים, ועכשיו אני מחזיר לך סכום כפול‘.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	MAT 25:28 קחו ממנו את הכסף, ותנו לאיש שיש לו כבר 100,000	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	LUK 14:31 ”או איזה מלך יאיים במלחמה נגד מלך אחר, לפני שיישב תחילה וישקול בכובד ראש אם צבאו המונה 10,000 חיילים, מסוגל להביס את 20,000 חיילי האויב?	WARN
+Hebrew---Living-Bible	NUMERALS	Source	3	JOH 21:11 שמעון פטרוס משך את הרשת ליבשה, וכאשר ספר את השלל הוא מנה 153 דגים גדולים. למרות מספרם ומשקלם לא נקרעה הרשת!	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	ACT 5:36 אל תשכחו שלפני זמן־מה קם אותו ברנש תודס, והעמיד פנים שהוא איש חשוב. כ־400 איש הצטרפו אליו, אולם לאחר שנהרג התפזרו תלמידיו לכל עבר.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	ACT 13:19 לאחר שהשמיד שבעה עמים בארץ כנען, הוא נתן לעם ישראל את הארץ לנחלה. כל זה ארך כ־450 שנה.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	7	ACT 27:28 הם הורידו אנך וגילו שעומק המים תחתם היה כ־36 מטר. כעבור זמן קצר שבו והורידו את האנך, והפעם היה עומק המים 27 מטר בלבד.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	6	ACT 27:37 כולנו יחד מנינו 276 איש.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	1CO 10:8 אנו יכולים ללמוד לקח נוסף: אחדים מהגברים בקרב העם קיימו יחסים עם נשים זרות, ומשום כך ה׳ הענישם והשמיד 23,000 מהם ביום אחד!	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 7:4 שמעתי שמספר החתומים היה 144,000 מכל שבטי ישראל:	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 7:5 12,000 משבט יהודה 12,000 משבט ראובן 12,000 משבט גד	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 7:6 12,000 משבט אשר 12,000 משבט נפתלי 12,000 משבט מנשה	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 7:7 12,000 משבט שמעון 12,000 משבט לוי 12,000 משבט יששכר	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 7:8 12,000 משבט זבולון 12,000 משבט יוסף 12,000 משבט בנימין.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 9:16 שמעתי שהנהיגו צבא של 200,000,000 פרשים.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 11:3 אני אתן כוח וסמכות לשני העדים שלי לנבא 1260 יום בלבוש שק.“	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 11:13 באותה שעה תהיה רעידת אדמה נוראה; עשירית העיר תיהרס ו־7000 איש ייהרגו. הנשארים בחיים יהיו אחוזי חלחלה ויתנו כבוד לאלוהי השמים.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 12:6 ואילו האישה ברחה אל המדבר, שם הכין לה אלוהים מקום מבטחים וכלכלה למשך 1260 יום.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	6	REV 13:18 כאן דרושה תבונה. מי שיכול יפענח את מספר החיה, שהיא אדם והערך הגמטרי של שמו 666.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 14:1 לאחר מכן ראיתי שה עומד על הר־ציון בירושלים, ואיתו 144,000 אנשים שנשאו על מצחם את שמו ואת שם אביו.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 14:3 האנשים הרבים האלה שרו שיר חדש לפני כיסא אלוהים, לפני ארבע החיות ולפני עשרים־וארבעה הזקנים. איש לא יכול היה ללמוד את השיר, מלבד 144,000 האנשים אשר נפדו ונגאלו מן הארץ.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 14:20 הענבים נדרכו ביקב מחוץ לעיר, ודם רב זרם מהיקב למרחק של כ־330 קילומטרים, ועומק הזרם כגובה רסן הסוס.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 16:21 ומן השמים הומטרו על האנשים אבני־ברד שמשקלם כ־50 קילוגרם. בני־האדם חרפו וגידפו את אלוהים בגלל מכת הברד הנוראה.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	0	REV 21:16 במדדו את העיר הוא נוכח לדעת שצורתה ריבועית – אורכה שווה לרוחבה. למעשה, צורת העיר כקובייה; כל הצלעות שוות – אורך, רוחב וגובה, כל צלע כ־2400 קילומטרים.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	5	REV 21:17 המלאך מדד את עובי החומה ונוכח לדעת שעובייה כ־65 מטרים.	WARN
+Hebrew---Living-Bible	NUMERALS	Source	count	34	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	100	040-MAT-020-002 האיכר הבטיח לפועלים 100 שקלים תמורת יום עבודה, ושלח אותם אל הכרם.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	100	040-MAT-020-009 כל אחד מהפועלים שנשכרו בשעה חמש קיבל 100 שקלים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	100	040-MAT-020-010 בהגיע תורם של הפועלים שנשכרו מוקדם יותר הם ציפו לקבל הרבה יותר, אולם גם הם קיבלו 100 שקלים כל אחד.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	100	040-MAT-020-013 ”’ידידי‘, ענה האיכר לאחד מהם,’לא גרמתי לך שום עוול! האם לא הסכמנו מראש שתעבוד כל היום תמורת 100 שקלים?	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	50	040-MAT-025-015 הוא נתן לאחד 50,000 שקלים, לשני – 20,000 שקלים ולשלישי – 10,000 שקלים. הוא חילק את הכסף בהתאם לכישרונו של כל אחד ויצא לדרכו.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	50	040-MAT-025-016 האיש שקיבל 50,000 שקלים החל מיד לקנות ולמכור, ותוך זמן קצר הרוויח עוד 50,000 שקלים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	20	040-MAT-025-017 גם האיש שקיבל 20,000 שקלים ניגש מיד לעבודה והרוויח עוד 20,000 שקלים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	10	040-MAT-025-018 אך האיש שקיבל 10,000 שקלים חפר בור באדמה והטמין בתוכו את הכסף.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	50	040-MAT-025-020 האיש שקיבל 50,000 שקלים החזיר לאדוניו 100,000 שקלים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	20	040-MAT-025-022 ”אחריו בא האיש שקיבל 20,000 שקלים והצהיר:’אדוני, נתת לי 20,000 שקלים, ועכשיו אני מחזיר לך סכום כפול‘.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	10	040-MAT-025-024 לאחר מכן בא האיש שקיבל 10,000 שקלים ואמר:’אדוני, ידעתי שאתה איש קשה, שמצליח לקצור במקום שלא זרעת ולאסוף במקום שלא פיזרת. משום כך פחדתי והסתרתי את הכסף באדמה – והנה הוא!‘	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	100	040-MAT-025-028 קחו ממנו את הכסף, ותנו לאיש שיש לו כבר 100,000	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	12	041-MAR-005-041 ישוע אחז בידה של הילדה וקרא:”טליתא, קומי!“(כלומר:”קומי, ילדה!“) היא הייתה בת 12 והיא אכן קמה ממיטתה והתהלכה בבית. הוריה התפלאו מאוד,	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) כאשר קם ישוע לתחייה ביום ראשון השכם בבוקר, פגש תחילה את מרים המגדלית שממנה גירש שבעה שדים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	84	042-LUK-002-036 בבית־המקדש הייתה גם נביאה זקנה בשם חנה בת־פנואל, משבט אשר. היא הייתה אלמנה כבת 84 שנים, אך נישואיה לבעלה נמשכו שבע שנים בלבד. חנה לא עזבה את המקדש לרגע; היא אהבה את אלוהים ושרתה אותו יומם ולילה בצום, בתפילה ובתחנונים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	10	042-LUK-014-031 ”או איזה מלך יאיים במלחמה נגד מלך אחר, לפני שיישב תחילה וישקול בכובד ראש אם צבאו המונה 10,000 חיילים, מסוגל להביס את 20,000 חיילי האויב?	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	153	043-JOH-021-011 שמעון פטרוס משך את הרשת ליבשה, וכאשר ספר את השלל הוא מנה 153 דגים גדולים. למרות מספרם ומשקלם לא נקרעה הרשת!	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	400	044-ACT-005-036 אל תשכחו שלפני זמן־מה קם אותו ברנש תודס, והעמיד פנים שהוא איש חשוב. כ־400 איש הצטרפו אליו, אולם לאחר שנהרג התפזרו תלמידיו לכל עבר.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	450	044-ACT-013-019 לאחר שהשמיד שבעה עמים בארץ כנען, הוא נתן לעם ישראל את הארץ לנחלה. כל זה ארך כ־450 שנה.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	100	044-ACT-019-018 מאמינים רבים שעסקו לפנים במעשי כישוף למיניהם התוודו על מעשיהם בפומבי. הם הביאו את ספרי הכישופים ואת הקמעות שלהם, ושרפו אותם באש לעיני כולם (מישהו העריך את שווי הספרים האלה בכ־100,000 שקלים).	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	36	044-ACT-027-028 הם הורידו אנך וגילו שעומק המים תחתם היה כ־36 מטר. כעבור זמן קצר שבו והורידו את האנך, והפעם היה עומק המים 27 מטר בלבד.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	276	044-ACT-027-037 כולנו יחד מנינו 276 איש.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	23	046-1CO-010-008 אנו יכולים ללמוד לקח נוסף: אחדים מהגברים בקרב העם קיימו יחסים עם נשים זרות, ומשום כך ה׳ הענישם והשמיד 23,000 מהם ביום אחד!	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	144	066-REV-007-004 שמעתי שמספר החתומים היה 144,000 מכל שבטי ישראל:	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	12	066-REV-007-005 12,000 משבט יהודה 12,000 משבט ראובן 12,000 משבט גד	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	12	066-REV-007-006 12,000 משבט אשר 12,000 משבט נפתלי 12,000 משבט מנשה	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	12	066-REV-007-007 12,000 משבט שמעון 12,000 משבט לוי 12,000 משבט יששכר	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	12	066-REV-007-008 12,000 משבט זבולון 12,000 משבט יוסף 12,000 משבט בנימין.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	200	066-REV-009-016 שמעתי שהנהיגו צבא של 200,000,000 פרשים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	1260	066-REV-011-003 אני אתן כוח וסמכות לשני העדים שלי לנבא 1260 יום בלבוש שק.“	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	7000	066-REV-011-013 באותה שעה תהיה רעידת אדמה נוראה; עשירית העיר תיהרס ו־7000 איש ייהרגו. הנשארים בחיים יהיו אחוזי חלחלה ויתנו כבוד לאלוהי השמים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	1260	066-REV-012-006 ואילו האישה ברחה אל המדבר, שם הכין לה אלוהים מקום מבטחים וכלכלה למשך 1260 יום.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	666	066-REV-013-018 כאן דרושה תבונה. מי שיכול יפענח את מספר החיה, שהיא אדם והערך הגמטרי של שמו 666.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	144	066-REV-014-001 לאחר מכן ראיתי שה עומד על הר־ציון בירושלים, ואיתו 144,000 אנשים שנשאו על מצחם את שמו ואת שם אביו.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	144	066-REV-014-003 האנשים הרבים האלה שרו שיר חדש לפני כיסא אלוהים, לפני ארבע החיות ולפני עשרים־וארבעה הזקנים. איש לא יכול היה ללמוד את השיר, מלבד 144,000 האנשים אשר נפדו ונגאלו מן הארץ.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	330	066-REV-014-020 הענבים נדרכו ביקב מחוץ לעיר, ודם רב זרם מהיקב למרחק של כ־330 קילומטרים, ועומק הזרם כגובה רסן הסוס.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	50	066-REV-016-021 ומן השמים הומטרו על האנשים אבני־ברד שמשקלם כ־50 קילוגרם. בני־האדם חרפו וגידפו את אלוהים בגלל מכת הברד הנוראה.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	2400	066-REV-021-016 במדדו את העיר הוא נוכח לדעת שצורתה ריבועית – אורכה שווה לרוחבה. למעשה, צורת העיר כקובייה; כל הצלעות שוות – אורך, רוחב וגובה, כל צלע כ־2400 קילומטרים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	65	066-REV-021-017 המלאך מדד את עובי החומה ונוכח לדעת שעובייה כ־65 מטרים.	WARN
+Hebrew---Living-Bible	NUMERALS	Aionian	count	39	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

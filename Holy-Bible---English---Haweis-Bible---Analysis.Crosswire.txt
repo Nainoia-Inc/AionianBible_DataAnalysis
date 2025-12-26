@@ -1,0 +1,334 @@
+# File Name: Holy-Bible---Holy-Bible---English---Haweis-Bible---Analysis.txt
+# File Size: 22141       
+# File Date: 12/13/2025 05:20:56
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Haweis New Testament
+# Bible Name English: Haweis New Testament
+# Bible Language: English
+# Bible Language English: English
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Rector of All-Saints, Aldwinckle, Northamptonshire
+# Bible Source Version: 9/13/2022
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=Haweis
+# Bible Source Year: 1795
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+English---Haweis-Bible	ENCODING	Source	Holy-Bible---English---Haweis-Bible---Source-Edition.SWORD.txt	UTF-8	NOTICE
+English---Haweis-Bible	ENCODING	Aionian	Holy-Bible---English---Haweis-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+English---Haweis-Bible	BYTES	Source	bytes / chars	1177565 / 1176267 (multi-byte)	NOTICE
+English---Haweis-Bible	BYTES	Aionian	bytes / chars	1106634 / 1105148 (multi-byte)	NOTICE
+English---Haweis-Bible	BYTES	SourceClean	bytes / chars	1086531 / 1085233 (multi-byte)	NOTICE
+English---Haweis-Bible	BYTES	AionianClean	bytes / chars	1104436 / 1102950 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+English---Haweis-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+English---Haweis-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+English---Haweis-Bible	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+English---Haweis-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+English---Haweis-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+English---Haweis-Bible	AIONIAN	Aionian	aionian-verses	200	NOTICE
+English---Haweis-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+English---Haweis-Bible	UNPRINTABLE	Source	count	0	NOTICE
+English---Haweis-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+English---Haweis-Bible	UNICODE	Summary	(-)Orginal	62	NOTICE
+English---Haweis-Bible	UNICODE	Summary	(+)Aionian	63	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : ([)	1	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : ( )	196858	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (T)	2163	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (e)	101247	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (s)	49432	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (t)	76254	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (a)	61459	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (m)	20290	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (n)	56497	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (2)	4750	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (H)	927	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (d)	33785	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (i)	50445	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (g)	13234	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (])	1	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (\n)	8245	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (M)	2299	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (h)	64060	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (w)	18649	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (0)	1526	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (:)	10284	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (1)	7321	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (E)	521	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (b)	11173	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (o)	61619	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (k)	5965	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (f)	17538	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (l)	26592	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (y)	15530	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (J)	3371	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (u)	21835	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (C)	1587	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (r)	41705	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (,)	18274	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (D)	265	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (v)	8409	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (A)	3870	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (.)	6300	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (I)	4582	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (c)	15408	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (3)	2755	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (P)	976	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (4)	2232	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (5)	1845	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (B)	1168	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (R)	1046	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (O)	241	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (6)	1583	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (U)	43	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (7)	1407	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (8)	1303	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (p)	11042	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (9)	1257	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (L)	2111	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (G)	1936	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (q)	241	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (V)	69	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (K)	59	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (-)	380	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (()	109	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : ())	109	NOTICE
+English---Haweis-Bible	UNICODE	Source(-)	Basic Latin : (\)	27	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	32900	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	9572	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	31828	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	2820	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	5856	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	4262	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	9080	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	2222	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	1387	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	174958	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	10866	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	57624	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	4095	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	17111	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	71281	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	60114	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	96687	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	13446	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	52054	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	57014	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	25632	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	15336	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	2904	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	45526	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	20585	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	2558	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	39803	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	47638	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	18282	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	290	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	7982	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	33774	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	19497	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	6301	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	7956	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	6508	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	3009	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	14374	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	3678	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	1119	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	3473	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	1471	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	1684	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	2474	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	3436	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	17232	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	1219	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	1684	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	1749	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	10636	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1506	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	2042	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2335	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	1941	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	242	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (()	311	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : ())	311	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	473	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	1210	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	381	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+English---Haweis-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : ([)	1	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : ( )	196858	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (T)	2163	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (e)	101247	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (s)	49432	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (t)	76254	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (a)	61459	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (m)	20290	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (n)	56497	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (2)	4750	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (H)	927	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (d)	33785	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (i)	50445	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (g)	13234	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (])	1	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (\n)	8245	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (M)	2299	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (h)	64060	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (w)	18649	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (0)	1526	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (:)	10284	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (1)	7321	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (E)	521	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (b)	11173	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (o)	61619	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (k)	5965	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (f)	17538	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (l)	26592	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (y)	15530	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (J)	3371	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (u)	21835	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (C)	1587	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (r)	41705	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (,)	18274	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (D)	265	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (v)	8409	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (A)	3870	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (.)	6300	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (I)	4582	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (c)	15408	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (3)	2755	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (P)	976	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (Z)	38	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (;)	2091	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (4)	2232	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (N)	569	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (S)	998	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (5)	1845	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (B)	1168	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (z)	226	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (R)	1046	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (O)	241	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (6)	1583	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (U)	43	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (7)	1407	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (8)	1303	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (p)	11042	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (9)	1257	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (j)	686	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (x)	589	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (L)	2111	NOTICE
+English---Haweis-Bible	UNICODE	Source	General Punctuation : (“)	189	NOTICE
+English---Haweis-Bible	UNICODE	Source	General Punctuation : (”)	189	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (G)	1936	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (W)	654	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (!)	286	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (?)	1026	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (q)	241	NOTICE
+English---Haweis-Bible	UNICODE	Source	General Punctuation : (’)	255	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (F)	1055	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (Y)	152	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (V)	69	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (K)	59	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (-)	380	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (()	109	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : ())	109	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (\)	27	NOTICE
+English---Haweis-Bible	UNICODE	Source	General Punctuation : (―)	16	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (X)	2	NOTICE
+English---Haweis-Bible	UNICODE	Source	Basic Latin : (Q)	2	NOTICE
+
+# VERSIFICATION
+English---Haweis-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+English---Haweis-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+English---Haweis-Bible	ENCLOSURES	Source	()	109 / 109	NOTICE
+English---Haweis-Bible	ENCLOSURES	Source	[]	1 / 1	NOTICE
+English---Haweis-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+English---Haweis-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+English---Haweis-Bible	ENCLOSURES	Aionian	()	311 / 311	NOTICE
+English---Haweis-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+English---Haweis-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+English---Haweis-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+English---Haweis-Bible	ENCLOSURES	Source	(1/0)	Acts 5:12 But by the hands of the apostles were many signs and miracles done among the people; (and they were all with one accord in the portico of Solomon.	WARN
+English---Haweis-Bible	ENCLOSURES	Source	(0/1)	Acts 5:14 But believers on the Lord were abundantly added to them, multitudes, both of men and women.)	WARN
+English---Haweis-Bible	ENCLOSURES	Source	(1/0)	Romans 2:14 (for when the Gentiles, who have not the law naturally, do the things of the law, these, though not having the law, are a law unto themselves:	WARN
+English---Haweis-Bible	ENCLOSURES	Source	(0/1)	Romans 2:15 which exhibit the practice of the law written on their hearts, their conscience also bearing its testimony, and their mutual reasonings at intervals bringing accusations or forming excuses;)	WARN
+English---Haweis-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 005 012 But by the hands of the apostles were many signs and miracles done among the people; (and they were all with one accord in the portico of Solomon.	WARN
+English---Haweis-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 005 014 But believers on the Lord were abundantly added to them, multitudes, both of men and women.)	WARN
+English---Haweis-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 014 (for when the Gentiles, who have not the law naturally, do the things of the law, these, though not having the law, are a law unto themselves:	WARN
+English---Haweis-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 which exhibit the practice of the law written on their hearts, their conscience also bearing its testimony, and their mutual reasonings at intervals bringing accusations or forming excuses;)	WARN
+English---Haweis-Bible	ENCLOSURES	Summary	lines	4 / 4	NOTICE
+
+# UNEXPECTED
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(\)	27/0	WARN
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+English---Haweis-Bible	UNEXPECTED	Source/Aionian	Summary	27/0	WARN
+
+# NUMERALS
+English---Haweis-Bible	NUMERALS	Source	1	Ephesians 3:13 Wherefore 1 beseech you, that ye faint not at my tribulations for you, which is your glory.	WARN
+English---Haweis-Bible	NUMERALS	Source	count	1	WARN
+English---Haweis-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Now being arisen early, on the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.	WARN
+English---Haweis-Bible	NUMERALS	Aionian	1	049-EPH-003-013 Wherefore 1 beseech you, that ye faint not at my tribulations for you, which is your glory.	WARN
+English---Haweis-Bible	NUMERALS	Aionian	count	2	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

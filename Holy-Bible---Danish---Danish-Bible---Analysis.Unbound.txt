@@ -1,0 +1,1008 @@
+# File Name: Holy-Bible---Holy-Bible---Danish---Danish-Bible---Analysis.txt
+# File Size: 138844      
+# File Date: 12/13/2025 05:17:24
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Dansk Bibel
+# Bible Name English: Danish Bible
+# Bible Language: Dansk
+# Bible Language English: Danish
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Authorized by the Danish King
+# Bible Source Version: 2/7/2021
+# Bible Source Link: https://unbound.biola.edu
+# Bible Source Year: 1819-1931
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Danish---Danish-Bible	ENCODING	Source	Holy-Bible---Danish---Danish-Bible---Source-Edition.UNBOUND.txt	UTF-8	NOTICE
+Danish---Danish-Bible	ENCODING	Aionian	Holy-Bible---Danish---Danish-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Danish---Danish-Bible	BYTES	Source	bytes / chars	3970329 / 3879313 (multi-byte)	NOTICE
+Danish---Danish-Bible	BYTES	Aionian	bytes / chars	4153311 / 4062099 (multi-byte)	NOTICE
+Danish---Danish-Bible	BYTES	SourceClean	bytes / chars	3969347 / 3878331 (multi-byte)	NOTICE
+Danish---Danish-Bible	BYTES	AionianClean	bytes / chars	4149804 / 4058600 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Danish---Danish-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Danish---Danish-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Danish---Danish-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Danish---Danish-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Danish---Danish-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Danish---Danish-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Danish---Danish-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Danish---Danish-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Danish---Danish-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Danish---Danish-Bible	UNICODE	Summary	(-)Orginal	60	NOTICE
+Danish---Danish-Bible	UNICODE	Summary	(+)Aionian	63	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (0)	17919	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (1)	39153	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (O)	30824	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (\t)	93306	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (I)	8230	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : ( )	625468	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (B)	10708	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (e)	426346	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (g)	138034	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (y)	17825	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (n)	176345	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (d)	209032	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (l)	123226	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (s)	148090	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (k)	63671	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (a)	159096	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (b)	28301	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (t)	144366	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (G)	9467	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (u)	43019	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (H)	24359	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (i)	138163	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (m)	83121	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (o)	127973	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (J)	9365	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (r)	209365	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (.)	21049	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (\r)	31102	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31102	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (2)	28684	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (,)	66439	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (M)	13890	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (V)	6625	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (3)	17351	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (:)	8166	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (D)	13816	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (L)	7915	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (4)	20166	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (S)	22766	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (5)	10230	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (h)	55078	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (N)	17888	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (A)	7636	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (6)	10601	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (p)	18947	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (7)	7512	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (8)	7863	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (9)	9332	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (U)	1539	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (K)	9403	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (T)	9046	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (P)	4555	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (E)	18008	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (R)	17682	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (-)	834	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (Z)	915	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (()	220	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : ())	224	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (C)	182	NOTICE
+Danish---Danish-Bible	UNICODE	Source(-)	Basic Latin : (c)	311	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	132155	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42767	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	11817	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	28922	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	13610	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	11508	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	626133	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	12158	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	426443	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	138247	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	17839	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	176546	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	209048	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	123295	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	148203	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	63672	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	159295	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	28311	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	144372	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	43021	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	28480	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	138409	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	83128	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	128121	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	14340	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	209376	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	20954	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31399	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	14370	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	66430	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	17954	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	7888	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17371	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	8168	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	15775	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	10500	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20186	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	29227	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10459	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	55207	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	16790	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10863	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	18948	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7587	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7938	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9333	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	5047	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	12089	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	11802	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	8439	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	21841	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	764	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	2732	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (()	556	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : ())	560	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4502	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	313	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Danish---Danish-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (0)	17919	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (1)	39153	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (O)	30824	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (\t)	93306	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (I)	8230	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : ( )	625468	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (B)	10708	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (e)	426346	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (g)	138034	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (y)	17825	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (n)	176345	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (d)	209032	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (l)	123226	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (s)	148090	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (k)	63671	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (a)	159096	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (b)	28301	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (t)	144366	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (G)	9467	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (u)	43019	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (H)	24359	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (i)	138163	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (m)	83121	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (o)	127973	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (J)	9365	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (r)	209365	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (.)	21049	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (\r)	31102	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (\n)	31102	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (2)	28684	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (v)	63240	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Latin-1 Supplement: (ø)	28282	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (,)	66439	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (M)	13890	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (V)	6625	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Latin-1 Supplement: (Å)	2046	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Latin-1 Supplement: (æ)	26989	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (3)	17351	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (:)	8166	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (")	10714	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (D)	13816	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (L)	7915	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (!)	6212	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (4)	20166	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Latin-1 Supplement: (å)	30267	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (S)	22766	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (5)	10230	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (h)	55078	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (N)	17888	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (A)	7636	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (f)	51073	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (6)	10601	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (p)	18947	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (7)	7512	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (j)	26352	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (;)	10127	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (8)	7863	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (9)	9332	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (U)	1539	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (F)	11625	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (K)	9403	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (T)	9046	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (P)	4555	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (E)	18008	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (R)	17682	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Latin-1 Supplement: (Ø)	1941	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (-)	834	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (?)	2624	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (Z)	915	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (')	1402	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (z)	1786	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Latin-1 Supplement: (Æ)	1485	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (()	220	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : ())	224	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (C)	182	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (Y)	277	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (c)	311	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Basic Latin : (x)	34	NOTICE
+Danish---Danish-Bible	UNICODE	Source	Latin-1 Supplement: (é)	6	NOTICE
+
+# VERSIFICATION
+Danish---Danish-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Danish---Danish-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Danish---Danish-Bible	ENCLOSURES	Source	()	220 / 224	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Danish---Danish-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Danish---Danish-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Danish---Danish-Bible	ENCLOSURES	Aionian	()	556 / 560	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Danish---Danish-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Danish---Danish-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Danish---Danish-Bible	ENCLOSURES	Source	(1/2)	14O 20 2 Og man kom og bragte Josafat den Efterretning: "En vældig Menneskemængde rykker frem imod dig fra Egnene binsides Havet), fra Edom, og de står allerede i Hazazon-Tamar (det er En-Gedi)!" 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(1/0)	26O 40 30 (Der var Forhaller rundt om, fem og tyve Alen lange og fem Alenbrede. 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(1/2)	27O 2 4 Kaldæerne svarede Kongen (på Aramaisk") ): "Kongen leve evindelig! Sig dine Trælle Drømmen, så skal vi tyde den." 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(1/0)	38O 11 10 Så tog jeg Staven, som hed "Liflighed". og sønderbrød den for at bryde den Overenskomst, jeg havde sluttet (med alle Folkeslag; 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(0/1)	38O 11 11 og den blev brudt samme Dag, og Fåreprangerne, som holdt Øje med mig, kendte, at det var HERRENs Ord). 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(0/1)	41N 9 49 Thi enhver skal saltes med Ild, og alt Offer skal saltes med Salt.) 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(1/0)	43N 5 3 I dem lå der en Mængde syge, blinde, lamme, visne, (som ventede på, at Vandet skulde røres. 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(0/1)	43N 5 4 Thi på visse Tider for en Engel ned i Dammen og oprørte Vandet. Den, som da, efter at Vandet var blevet oprørt, steg først ned, blev rask, hvilken Sygdom han end led af.) 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(0/1)	45N 16 24 Vor Herres Jesu Kristi Nåde være med eder alle! Amen.) 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(1/0)	46N 8 1 Men hvad Kødet fra Afgudsofrene angår, da vide vi, fordi vi alle have Kundskab (Kundskaben opblæser, men Kærligheden opbygger. 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(0/1)	46N 8 3 Men dersom nogen elsker Gud, han er kendt af ham.) 	WARN
+Danish---Danish-Bible	ENCLOSURES	Source	(0/1)	65N 1 7 ligesom Sodoma og Gomorra og de omliggende Stæder, der på samme Måde som disse vare henfaldne til Utugt og gik efter fremmed Kød), ere satte til et Eksempel, idet de bære en evig Ilds Straf. 	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(1/2)	014 2CH 020 002 Og man kom og bragte Josafat den Efterretning: "En vældig Menneskemængde rykker frem imod dig fra Egnene binsides Havet), fra Edom, og de står allerede i Hazazon-Tamar (det er En-Gedi)!"	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(1/0)	026 EZE 040 030 (Der var Forhaller rundt om, fem og tyve Alen lange og fem Alenbrede.	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(1/2)	027 DAN 002 004 Kaldæerne svarede Kongen (på Aramaisk")): "Kongen leve evindelig! Sig dine Trælle Drømmen, så skal vi tyde den."	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(1/0)	038 ZEC 011 010 Så tog jeg Staven, som hed "Liflighed". og sønderbrød den for at bryde den Overenskomst, jeg havde sluttet (med alle Folkeslag;	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(0/1)	038 ZEC 011 011 og den blev brudt samme Dag, og Fåreprangerne, som holdt Øje med mig, kendte, at det var HERRENs Ord).	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 009 049 Thi enhver skal saltes med Ild, og alt Offer skal saltes med Salt.)	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 005 003 I dem lå der en Mængde syge, blinde, lamme, visne, (som ventede på, at Vandet skulde røres.	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 005 004 Thi på visse Tider for en Engel ned i Dammen og oprørte Vandet. Den, som da, efter at Vandet var blevet oprørt, steg først ned, blev rask, hvilken Sygdom han end led af.)	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 016 024 Vor Herres Jesu Kristi Nåde være med eder alle! Amen.)	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(1/0)	046 1CO 008 001 Men hvad Kødet fra Afgudsofrene angår, da vide vi, fordi vi alle have Kundskab (Kundskaben opblæser, men Kærligheden opbygger.	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(0/1)	046 1CO 008 003 Men dersom nogen elsker Gud, han er kendt af ham.)	WARN
+Danish---Danish-Bible	ENCLOSURES	Aionian	(1/2)	065 JUD 001 007 ligesom Sodoma og Gomorra og de omliggende Stæder, der på samme Måde som disse vare henfaldne til Utugt og gik efter fremmed Kød), ere satte til et Eksempel, idet de bære en evig Ilds Straf. (aiōnios g166)	WARN
+Danish---Danish-Bible	ENCLOSURES	Summary	lines	12 / 12	NOTICE
+
+# UNEXPECTED
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Danish---Danish-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Danish---Danish-Bible	NUMERALS	Source	count	0	NOTICE
+Danish---Danish-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Da Adam havde levet i 130 År, avlede han en Søn, som var ham lig og i hans Billede, og han kaldte ham Set;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	800	001-GEN-005-004 og efter at Adam havde avlet Set, levede han 800 År og avlede Sønner og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	930	001-GEN-005-005 således blev hans fulde Levetid 930 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	105	001-GEN-005-006 Da Set havde levet 105 År, avlede han Enosj;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	807	001-GEN-005-007 og efter at Set havde avlet Enosj, levede han 807 År og avlede Sønner og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	912	001-GEN-005-008 således blev Sets fulde Levetid 912 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Da Enosj havde levet 90 År, avlede han Henan;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	815	001-GEN-005-010 og efter at Enosj havde avlet Kenan, levede han 815 År og avlede Sønner og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	905	001-GEN-005-011 således blev Enosjs fulde Levetid 905 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Da Kenan havde levet 70 År, avlede han Mahalal'el;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	840	001-GEN-005-013 og efter at Kenan havde avlet Mahalal'el, levede han 840 År og avlede Sønner og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	910	001-GEN-005-014 således blev Kenans fulde Levetid 910 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Da Mahalal'el havde levet 65 År, avlede han Jered;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	830	001-GEN-005-016 og efter at Mahalal'el havde avlet Jered, levede han 830 År og avlede Sønner. og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	895	001-GEN-005-017 således blev Mahalal'els fulde Levetid 895 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Da Jered havde levet 162 År, avlede han Enok;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	800	001-GEN-005-019 og efter at Jered havde avlet Enok, levede han 800 År og avlede Sønner og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	962	001-GEN-005-020 således blev Jereds fulde Levetid 962 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Da Enok havde levet 65 År, avlede han Metusalem,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	001-GEN-005-022 og Enok vandrede med Gud; og efter at han havde avlet Metusalem, levede han 300 År og avlede Sønner og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	365	001-GEN-005-023 således blev Enoks fulde Levetid 365 År;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Da Metusalem havde levet 187 År, avlede han Lemek;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	782	001-GEN-005-026 og efter at Metusalem havde avlet Lemek, levede han 782 År og avlede Sønner og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	969	001-GEN-005-027 således blev Metusalems fulde Levetid 969 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Da Lemek havde levet 182 År, avlede han en Søn,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Og efter at Lemek havde avlet Noa, levede han 595 År og avlede Sønner og Døtre;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	777	001-GEN-005-031 således blev Lemeks fulde Levetid 777 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	001-GEN-005-032 Da Noa var 500 År gammel, avlede han Sem, Kam og Jafet.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	001-GEN-006-003 Da sagde HERREN: "Min Ånd: skal ikke for evigt blive i Menneskene, eftersom de jo dog er Kød; deres Dage skal være 120 År."	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	001-GEN-006-015 og således skal du bygge Arken: Den skal være 300 Alen lang, 50 Alen bred og 30 Alen høj;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	001-GEN-007-006 Noa var 600 År gammel, da Vandfloden kom over Jorden.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	001-GEN-007-011 i Noas 600de Leveår på den syttende Dag i den anden Måned, den Dag brast det store Verdensdybs Kilder, og Himmelens Sluser åbnedes,	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	150	001-GEN-007-024 Vandet steg over Jorden i 150 Dage.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	150	001-GEN-008-003 og Vandet veg lidt efter lidt bort fra Jorden, og Vandet tog af efter de 150 Dages Forløb.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	601	001-GEN-008-013 I Noas 601ste Leveår på den første Dag i den første Måned var Vandet tørret bort fra Jorden. Da tog Noa Dækket af Arken, og da han så sig om, se, da var Jordens Overflade tør.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	350	001-GEN-009-028 Noa levede 350 År efter Vandfloden;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	950	001-GEN-009-029 således blev Noas fulde Levetid 950 År, og derpå døde han.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	001-GEN-011-010 Dette er Sems Slægtebog. Da Sem var 100 År gammel, avlede han Arpaksjad, to År efter Vandfloden;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	001-GEN-011-011 og efter at Sem havde avlet Arpaksjad, levede han 500 År og avlede Sønner og Døtre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	35	001-GEN-011-012 Da Atpaksjad havde levet 35 År, avlede han Sjela;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	403	001-GEN-011-013 og efter at Arpaksjad havde avlet Sjela, levede han 403 År og avlede Sønner og Døtre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30	001-GEN-011-014 Da Sjela havde levet 30 År, avlede han Eber;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	403	001-GEN-011-015 og efter at Sjela havde avlet Eber, levede han 403 År og avlede Sønner og Døtre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Da Eber havde levet 34 År, avlede han Peleg;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	430	001-GEN-011-017 og efter at Eber havde avlet Peleg, levede han 430 År og avlede Sønner og Døtre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Da Peleg havde levet 30 År, avlede han Re'u;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	209	001-GEN-011-019 og efter at Peleg havde avlet Re'u, levede han 209 År og avlede Sønner og Døtre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Da Re'u havde levet 32 År, avlede han Serug;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	207	001-GEN-011-021 og efter at Re'u havde avlet Serug, levede han 207 År og avlede Sønner og Døtre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30	001-GEN-011-022 Da Serug havde levet 30 År, avlede han Nakor;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	001-GEN-011-023 og efter at Serug havde avlet Nakor, levede han 200 År og avlede Sønner og Døtre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Da Nakor havde levet 29 År, avlede han Tara;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	119	001-GEN-011-025 og efter at Nakor havde avlet Tara, levede han 119 År og avlede Sønner og Døtre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70	001-GEN-011-026 Da Tara havde levet 70 År, avlede han Abram, Nakor og Haran.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Taras Levetid var 205 År; og Tara døde i Karan.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Da nu Abram hørte, at hans Frænde var taget til Fange, mønstrede han sine Husfolk, de hjemmefødte Trælle, 318 Mand, og satte efter Fjenden til Dan;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	001-GEN-015-013 Og han sagde til Abram: "Vide skal du, at dit Afkom skal bo som fremmede i et Land, der ikke er deres eget; de skal trælle for dem og mishandles af dem i 400 År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	001-GEN-020-016 Men til Sara sagde han: "Jeg har givet din Broder 1000 Sekel Sølv, det skal være dig Godtgørelse for alt, hvad der er tilstødt dig. Hermed har du fået fuld Oprejsning."	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	001-GEN-021-005 Abraham var 100 År gammel, da hans Søn Isak fødtes ham.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	127	001-GEN-023-001 Sara levede 127 År, så mange var Saras Leveår.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	001-GEN-023-015 "Gid min Herre vilde høre mig! Et Stykke Land til 400 Sekel Sølv, hvad har det at sige mellem mig og dig? Jord du kun din døde!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	001-GEN-023-016 Og Abraham forstod Efron og tilvejede ham den Sum, han havde nævnet i Hetiternes Påhør, 400 Sekel Sølv i gangbar Mønt.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	175	001-GEN-025-007 De År, Abraham levede, udgjorde 175;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	137	001-GEN-025-017 Ismaels Leveår udgjorde 137; så udåndede han; han døde og samledes til sin Slægt.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	001-GEN-026-012 Isak såede der i Landet og fik samme År 100 Fold; og HERREN velsignede ham,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	001-GEN-032-006 Men Sendebudene kom tilbage til Jakob og meldte: "Vi kom til din Broder Esau, og nu drager han dig i Møde med 400 Mand!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	001-GEN-032-014 200 Geder og 20 Bukke, 200 Får og 20 Vædre,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	34	001-GEN-032-015 34 diegivende Kamelhopper med deres Føl, 40 Køer og 10 Tyre, 20 Aseninder og 10 Æselhingste;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	001-GEN-033-001 Da Jakob så op, fik han Øje på Esau, der kom fulgt af 400 Mand. Så delte han Børnene mellem Lea, Rakel og de to Trælkvinder,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	001-GEN-033-019 og han købte det Stykke Jord, hvor han havde rejst sit Telt, af Sikems Pader Hamors Sønner for 100 Kesita	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	180	001-GEN-035-028 Isaks Leveår var 180;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	001-GEN-045-022 hver især gav han dem et Sæt Festklæder, men Benjamin gav han 300 Sekel Sølv og fem Sæt Festklæder;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	001-GEN-047-009 Jakob svarede ham: "Min Udlændigheds År er 130 År; få og onde var mine Leveår, og ikke når de op til mine Fædres År i deres Udlændigheds Tid."	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	147	001-GEN-047-028 Jakob levede i Ægypten i sytten År, så at Jakobs Levetid blev 147 År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	110	001-GEN-050-022 Josef blev nu i Ægypten, både han og hans Faders Hus, og Josef blev 110 År gammel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	110	001-GEN-050-026 Josef døde 110 År gammel, og man balsamerede ham og lagde ham i Kiste i Ægypten.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7	002-EXO-003-013 Men Moses sagde til Gud: "Når jeg kommer til Israeliterne og siger dem, at deres Fædres Gud har sendt mig til dem, hvad skal jeg så svare dem, hvis de spørger om hans Navn7"	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	137	002-EXO-006-016 Følgende er Navnene på Levis Sønner efter deres Nedstamning: Gerson, Kehat og Merari. Levis Levetid var 137 År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	133	002-EXO-006-018 Hehats Sønner var Amram, Jizhar, Hebon og Uzziel. Hehats Levetid var 133 År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	137	002-EXO-006-020 Amram tog sin Faster Jokebed til Ægte; og hun fødte ham Aron og Moses. Amrams Levetid var 137 År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	002-EXO-012-037 Så brød Israeliterne op fra Rameses til Sukkot, henved 600.000 Mand til Fods foruden Kvinder og Børn.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	430	002-EXO-012-040 Den Tid, Israeliterne havde boet i Ægypten, udgjorde 430 År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	430	002-EXO-012-041 Netop på den Dag da de 430 År var til Ende, drog alle HERRENs Hærskarer ud af Ægypten.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	002-EXO-014-007 han tog 600 udsøgte Stridsvogne og alle Ægyptens Krigsvogne, alle bemandede med Vognkæmpere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	002-EXO-019-018 Men hele Sinaj Bjerg hylledes i Røg, fordi HERREN steg ned derpå i Ild, og Røgen stod i Vejret som Røg fra en Smelteovn; og hele Folket skælvede så1e.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	1	002-EXO-025-011 og overtrække den med pu1t Guld; indvendig og udvendig skal du overtrække den og sætte en gylden Krans rundt om den;	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	14	002-EXO-028-011 med Stenskærerarbejde, som ved Gravering af Signeter, skal du indgravere Israels Sønners Navne i de 14 Sten, og du skal indfatte dem i Guldfletværk.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	002-EXO-030-023 Du skal tage dig vellugtende Stoffer af den bedste Slags, 500 Sekel ædel Myrra, halvt så meget. 250 Sekel, vellugtende Kanelbark, 250 Sekel vellugtende Kalmus	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	002-EXO-030-024 og 500 Sekel Kassia, efter hellig Vægt, og en Hin Olivenolie.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	002-EXO-032-028 Og Leviterne gjorde, som Moses havde sagt, og på den Dag faldt der af Folket henved 3000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	002-EXO-033-022 Når da min Herlighed drager forbi, vil jeg lade dig stå i Klippehulen, og jeg vil dække dig 1ned min Hånd, indtil jeg er kommet forbi.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	01	002-EXO-034-024 Thi jeg vil drive Folkeslag bort foran dig og gøre dine Landemærker vide, og ingen skal attrå dit Land, medens du drager hen for at stedes for HERREN din Guds Åsyn tre Gange 01n Året.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	29	002-EXO-038-024 Hvad angår Guldet, der anvendtes til Arbejdet, under hele Arbejdet på Helligdommen, så løb det som Gave viede Guld op til 29 Talenter og 730 Sekel efter hellig Vægt.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	002-EXO-038-025 Det ved Menighedens Mønstring indkomne Sølv løb op til 100 Talenter og 1775 Sekel efter hellig Vægt	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	603	002-EXO-038-026 en, Beka, det halve af en Sekel efter hellig Vægt, af enhver, der måtte lade sig mønstre, altså fra Tyveårsalderen og opefter, i alt 603 550 Mand:	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	002-EXO-038-027 De 100 Talenter Sølv medgik til Støbningen af Helligdommens og Forhængets Fodstykker, 100 Talenter til 100 Fodstykker, en Talent til hvert Fodstykke.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1775	002-EXO-038-028 Men de 1775 Sekel anvendte han til Knager til Pillerne, til at overtrække deres Hoveder med og til Bånd på dem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70	002-EXO-038-029 Det som Gave viede Kobber udgjorde 70 Talenter og 2400 Sekel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	003-LEV-007-015 Kødet af hans Lovprisningstakoffer skal spises på selve Offerdagen, intet de1af må gemmes til næste Morgen.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	1	003-LEV-013-045 Den, der er spedalsk, den, som lider af Sygdommen, skal gå med sønder1evne Klæder, hans Hår skal vokse frit, han skal tilhylle sit Skæg, og: "uren, uren!" skal han råbe.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	1	003-LEV-014-014 Derpå skal Præsten tage noget af Skyldofferets Blod, og Præsten skal stryge det på højre Øreflip af den, der skal renses, og på hans højre Tomme1finger og højre Tommeltå;	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	1	003-LEV-017-010 Om nogen af Israels Hus eller af de fremmede, der bor iblandt dem, nyder noget Blod, så vender jeg mit Åsyn mod den, der nyder Blodet, og udrydde1 ham af hans Folk.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	1	003-LEV-019-034 som en af eders egne skal I regne den fremmede, der bor hos eder, og du1 skal elske ham som dig selv, thi I var selv fremmede i Ægypten. Jeg et HERREN eders Guld!	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	46500	004-NUM-001-021 de, som mønstredes af Rubens Stamme, udgjorde 46500.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	59	004-NUM-001-023 de, som mønstredes af Simeons Stamme, udgjorde 59 300.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	45650	004-NUM-001-025 de, som mønstredes af Gads Stamme, udgjorde 45650.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	74600	004-NUM-001-027 de, som mønstredes af Judas Stamme, udgjorde 74600.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	54	004-NUM-001-029 de, som mønstredes af Issakars Stamme, udgjorde 54 400.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	57	004-NUM-001-031 de, som mønstredes af Zebulons Stamme, udgjorde 57 400.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	40500	004-NUM-001-033 de, som mønstredes af Efraims Stamme, udgjorde 40500;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	32200	004-NUM-001-035 de, som mønstredes af Manasses Stamme, udgjorde 32200.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	35400	004-NUM-001-037 de, som mønstredes at Benjamins Stamme, udgjorde 35400.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	62	004-NUM-001-039 de, som mønstredes af Dans Stamme, udgjorde 62 700.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	41	004-NUM-001-041 de, som mønstredes af Asers Stamme, udgjorde 41 500.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	53	004-NUM-001-043 de, som mønstredes af Naftalis Stamme, udgjorde 53 400.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	603	004-NUM-001-046 alle, som mønstredes, udgjorde 603 550.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	74600	004-NUM-002-004 de mønstrede, som udgør hans Hærafdeling, løber op til 74600 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	54	004-NUM-002-006 de mønstrede, som udgør hans Hærafdeling, løber op til 54 400 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	57	004-NUM-002-008 de mønstrede, som udgør hans Hærafdeling, løber op til 57 400 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	186	004-NUM-002-009 De mønstrede i Judas Lejr udgør i alt 186 400 Mand, Hærafdeling for Hærafdeling. De skal bryde op først.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	46	004-NUM-002-011 de mønstrede, som udgør hans Hærafdeling, løber op til 46 500 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	59300	004-NUM-002-013 de mønstrede, som udgør hans Hærafdeling, løber op til 59300 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	45	004-NUM-002-015 de mønstrede, som udgør hans Hærafdeling, løber op til 45 650 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	151	004-NUM-002-016 De mønstrede i Rubens Lejr udgør i alt 151 450 Mand, Hærafdeling for Hærafdeling. De skal bryde op i anden Række.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	40	004-NUM-002-019 de mønstrede, som udgør hans Hærafdeling, løber op til 40 500 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	32	004-NUM-002-021 de mønstrede, som udgør hans Hærafdeling, løber op til 32 200 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	35	004-NUM-002-023 de mønstrede, som udgør hans Hærafdeling, løber op til 35 400 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	108	004-NUM-002-024 De mønstrede i Efraims Lejr udgør i alt 108 100 Mand, Hærafdeling for Hærafdeling. De skal bryde op i tredje Række.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	62	004-NUM-002-026 de mønstrede, som udgør hans Hærafdeling, løber op til 62 700 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	41	004-NUM-002-028 de mønstrede, som udgør hans Hærafdeling, løber op til 41 500 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	53	004-NUM-002-030 de mønstrede, som udgør hans Hærafdeling, løber op fil 53 400 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	157600	004-NUM-002-031 De mønstrede i Dans Lejr udgør i alt 157600 Mand. De skal bryde op sidst, Felttegn for Felttegn.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	603	004-NUM-002-032 Det var de mønstrede af Israeliterne efter deres Fædrenehuse, alle de mønstrede i Lejrene, Hærafdeling for Hærafdeling, 603 550 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7500	004-NUM-003-022 De, som mønstredes af dem, da alle af Mandkøn fra en Måned og opefter blev optalt, de, som mønstredes af dem, udgjorde 7500.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	8600	004-NUM-003-028 De, der mønstredes af dem, da alle af Mandkøn fra en Måned og opefter blev optalt, udgjorde 8600, som tog Vare på, hvad der var at varetage ved Helligdommen.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	6200	004-NUM-003-034 De, som mønstredes af dem, da alle af Mandkøn fra en Måned og opefter blev optalt, udgjorde 6200.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22	004-NUM-003-039 De mønstrede af Leviterne, de, som Moses og Aron mønstrede på HERRENs Bud efter deres Slægter, alle af Mandkøn fra en Måned og opefter, udgjorde i alt 22 000.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22	004-NUM-003-043 og da Navnene på dem fra en Måned og opefter optaltes, udgjorde de førstefødte af Mandkøn, alle de, som mønstredes i alt 22 273.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	273	004-NUM-003-046 Men til Udløsning af de 273, hvormed Antallet af Israelitternes førstefødte overstiger Leviternes Antal,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1365	004-NUM-003-050 af Israelitternes førstefødte tog han Pengene, 1365 Sekel efter hellig Vægt.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2750	004-NUM-004-036 og de, der mønstredes af dem efter deres Slægter, udgjorde 2750.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2630	004-NUM-004-040 de, der mønstredes af dem efter deres Slægter, efter deres Fædrenehuse, udgjorde 2630.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3200	004-NUM-004-044 de, der mønstredes af dem efter deres Slægter, udgjorde 3200.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	8580	004-NUM-004-048 de, der mønstredes af dem, udgjorde 8580.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-013 Og hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	004-NUM-007-014 en Kande på 10 Guldsekel, fyldt med Røgelse,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-019 han bragte som Offergave et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	004-NUM-007-020 en Kande på 10 Guldsekel, fyldt med Røgelse,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-025 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	004-NUM-007-026 en Kande på 10 Guldsekel, fyldt med Røgelse,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-031 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	004-NUM-007-032 en Kande på 10 Guldsekel, fyldt med Røgelse,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-037 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	004-NUM-007-038 en Kande på 10 Guldsekel, fyldt med Røgelse,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-043 hans Offergaver et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-049 hans offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-055 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-061 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-067 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-073 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	004-NUM-007-074 en Kande på 10 Guldsekel, fyldt med Røgelse,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-079 hans Offergave var et Sølvfad, der vejede 130 Sekel, og en Sølvskål på 70 Sekel efter hellig Vægt, begge fyldte med fint Hvedemel, rørt i Olie, til Afgrødeoffer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	12	004-NUM-007-084 Det var Gaverne fra Israelitternes Øverster til Alterets Indvielse, dengang det blev salvet: 12 Sølvfade, 12 Sølvskåle, 12 Guldkander,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	004-NUM-007-085 hvert Sølvfad på 130 Sekel og hver Sølvskål på 70 Sekel, alle Sølvkar tilsammen 2400 Sekel efter hellig Vægt;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	12	004-NUM-007-086 12 Guldkander, fyldte med Røgelse, hver på 10 Sekel efter hellig Vægt, alle Guldkander tilsammen 120 Sekel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	12	004-NUM-007-087 Kvæget til Brændofferet var i alt 12 unge Tyre, 12 Vædre, 12 årgamle Lam med tilhørende Afgrødeofre, 12 Gedebukke til Syndoffer;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24	004-NUM-007-088 Kvæget til Takofferet var i alt 24 unge Tyre, 60 Vædre, 60 Bukke og 60 årgamle lam. Det var Gaverne til Alterets indvielse, efter at det var salvet.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600000	004-NUM-011-021 Moses svarede: "600000 Fodfolk tæller det Folk, jeg bar om mig, og du siger: Jeg vil skaffe dem Kød, så de har nok at spise en hel Måned!	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	250	004-NUM-016-002 De gjorde Oprør mod Moses sammen med 250 israelitiske Mænd, Øverster for Menigheden, udvalgte i Folkeforsamlingen, ansete Mænd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	250	004-NUM-016-017 og enhver af eder skal tage sin Pande, lægge Gløder på og komme Røgelse på og frembære sin Pande for HERRENs Åsyn, 250 Pander, du selv og Aron skal også tage hver sin Pande!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	250	004-NUM-016-035 Og Ild for ud fra HERREN og fortærede de 250 Mænd, der frembar Røgelse.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	14700	004-NUM-016-049 Men de, der omkom ved Plagen, udgjorde 14700 Mennesker foruden dem, der omkom for Koras Skyld.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	004-NUM-025-009 Men Tallet på dem, Plagen havde kostet Livet, løb op til 24000.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	43730	004-NUM-026-007 Det var Rubeniternes Slægter, og de af dem, som mønstredes, udgjorde 43730.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	250	004-NUM-026-010 og Jorden åbnede sit Gab og slugte dem sammen med Kora, da hans Tilhængere omkom, idet Ilden fortærede de 250 Mænd, og de blev et Tegn til Advarsel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22200	004-NUM-026-014 Det var Simeoniternes Slægter, 22200.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	40500	004-NUM-026-018 Det var Gads Sønners Slægter, de af dem, som mønstredes, 40500.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	76500	004-NUM-026-022 Det var Judas Slægter, de af dem, som mønstredes, 76500.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	64	004-NUM-026-025 Det var Issakars Slægter, de af dem, som mønstredes, 64 300.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	60	004-NUM-026-027 Det var Zebuloniternes Slægter, de af dem, som mønstredes, 60 508	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	52700	004-NUM-026-034 Det var Manasses Slægter, og de af dem, som mønstredes, udgjorde 52700.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	32500	004-NUM-026-037 Detvar Efraimiternes Slægter, de af dem, som mønstedes, 32500. Det var Josefs Sønners Slægter.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	45600	004-NUM-026-041 Det var Benjamins Sønners Slægter, og de af dem, som mønstredes, udgjorde 45600.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	64	004-NUM-026-043 Alle Sjuhamiternes Slægter, de af dem, som mønstredes, udgjorde 64 400.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	53400	004-NUM-026-047 Det var Asers Sønners Slægter, og de af dem, som mønsttedes, udgjorde 53400.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	45400	004-NUM-026-050 Det var Naftalis Slægter, Slægt for Slægt, og de af dem, som mønstredes, udgjorde 45400.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	601730	004-NUM-026-051 Det var dem af Israeliterne, som mønstredes, 601730.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	23000	004-NUM-026-062 De af dem, der mønstredes, udgjorde 23000, alle af Mandkøn fra en Måned og opefter. De mønstredes nemlig ikke sammen med de andre Israeliter, da der ikke var givet dem nogen Arvelod blandt Israeliterne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	004-NUM-031-004 1000 Mand af hver af Israels Stammer skal I sende i Kamp!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	004-NUM-031-005 Af Israels Tusinder udtoges da 1000 af hver Stamme, i alt 12.000 Mand, rustede til Kamp.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	004-NUM-031-006 Og Moses sendte dem i kamp, 1000 af hver Stamme, og sammen med dem Pinehas, Præsten Eleazars Søn, der medbragte de hellige Redskaber og Alarmtrompeterne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	675000	004-NUM-031-032 Og det, de havde taget, det tiloversblevne af Byttet, som Krigsfolket havde gjort, udgjorde 675000 Stykker Småkvæg,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	72	004-NUM-031-033 72 000 Stykker Hornkvæg,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	61	004-NUM-031-034 61 000 Æsler	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	32008	004-NUM-031-035 og 32008 Mennesker, Kvinder, der ikke havde haft Samleje med Mænd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	337500	004-NUM-031-036 Den Halvdel, der tilfaldt dem, der havde været i Kamp, udgjorde altså et Tal af 337500 Stykker Småkvæg,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	675	004-NUM-031-037 hvoraf Afgiften til HERREN udgjorde 675 Stykker Småkvæg,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	36000	004-NUM-031-038 36000 Stykker Hornkvæg, hvoraf 72 i Afgift til HERREN,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30500	004-NUM-031-039 30500 Æsler, hvoraf til i Afgift til HERREN,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	16000	004-NUM-031-040 og 16000 Mennesker, hvoraf 32 i Afgift til HERREN.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	337	004-NUM-031-043 denne Menighedens Halvdel udgjorde 337 500 Stykker Småkvæg,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	36	004-NUM-031-044 36 000 Stykker Hornkvæg,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30	004-NUM-031-045 30 500 Æsler	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	16000	004-NUM-031-046 og 16000 Mennesker	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	16750	004-NUM-031-052 og alt Offerydelsesguldet, som de ydede HERREN, udgjorde 16750 Sekel, hvilket Tusindførerne og Hundredførerne bragte som Gave.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	123	004-NUM-033-039 og Aron var 123 År gammel, da han døde på Bjerget Hor.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	004-NUM-035-004 Græsmarkerne om Byerne, som I skal give Leviterne, skal strække sig 1000 Alen fra Bymuren ud til alle Sider;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2000	004-NUM-035-005 og uden for Byen skal I til Østside opmåle 2000 Alen, til Sydside 2000, til Vestside 2000 og til Nordside 2000, med Byen i Midten. Det skal tilfalde dem som Græsgange til Byerne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	005-DEU-031-002 sagde han til dem: "Jeg er nu 120 År gammel og kan ikke mere færdes som før; og HERREN har sagt til mig: Du skal ikke komme over Jordan der!	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	005-DEU-034-007 Moses var 120 År, da han døde; hans Øje var ikke sløvet og hans Livskraft ikke svundet.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2000	006-JOS-003-004 dog skal der være en Afstand af 2000 Alen mellem eder og den; I må ikke komme den for nær for at I kan vide, hvilken Vej I skal gå; thi I er ikke kommet den Vej før!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	40000	006-JOS-004-013 henved 40000 Mand i Tal, rustede til Strid, drog de foran HERREN over til Jerikos Sletter til Hamp.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	006-JOS-007-004 Så drog henved 3000 Mand af Folket derop; men de blev slået på Flugt af Ajjiterne,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	006-JOS-007-021 Jeg så imellem Byttet en prægtig babylonisk Kappe, 200 Sekel Sølv og en Guldtunge på halvtredsindstyve Sekel; det fik jeg Lyst til, og jeg tog det; se, det ligger nedgravet i Jorden midt i mit Telt, Sølvet nederst."	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30000	006-JOS-008-003 Derpå brød Josua op og drog med alt Krigsfolket op mod Aj; og Josua udvalgte sig 30000 tapre Mænd og sendte dem bort om Natten,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	5000	006-JOS-008-012 Derpå tog han henved 5000 Mand og lagde dem i Baghold mellem Betel og Aj, vesten for Byen;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	12000	006-JOS-008-025 Alle de, der faldt på den Dag, Mænd og Kvinder, udgjorde 12000, alle Indbyggerne i Aj.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	006-JOS-019-046 Me-Ja1'kon og Rakkon og Egnen hen imod Jafo.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	110	006-JOS-024-029 Efter disse Begivenheder døde HERRENs Tjener Josua, Nuns Søn 110 År gammel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10000	007-JDG-001-004 Juda drog nu op, og HERREN gav Kana'anæerne og Perizziterne i deres Hånd, så de slog dem i Bezek, 10000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	110	007-JDG-002-008 Og Josua, Nuns Søn, HERRENs Tjener, døde, 110 År gammel;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10000	007-JDG-003-029 Ved den Lejlighed nedhuggede de omtrent 10000 Moabiter, lutter stærke og dygtige Mænd, ikke een undslap.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	007-JDG-003-031 Efter ham kom Sjamgar, Anats Søn. Han nedhuggede Filisterne, 600 Mand, med en Oksedriverstav; også han frelste Israel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	900	007-JDG-004-003 Da råbte Israelitterne til HERREN. Thi Jabin havde 900 Jernvogne, og han trængte Israelitterne hårdt i tyve År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10000	007-JDG-004-006 Hun sendte nu Bud efter Barak, Abinoams Søn fra Kedesj i Naftali, og sagde til ham: "Har ikke HERREN, Israels Gud, budt: Bryd op, drag hen på Tabors Bjerg og tag 10000 Mand af Naftali og Zebulon med dig;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10000	007-JDG-004-010 Barak stævnede nu Zebulon og Naftali sammen i Kedesj, og 10000 Mand fulgte med ham derop; også Debora gik med.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	900	007-JDG-004-013 stævnede han alle sine Stridsvogne, 900 jernbeslagne Vogne, og hele sin Krigsstyrke fra Harosjet Haggojim til Kisjonbækken.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10000	007-JDG-004-014 Da sagde Debora til Barak: "Bryd nu op! Thi det er i Dag. HERREN vil give Sisera i din Hånd. Er HERREN ikke draget foran dig?" Barak steg da ned fra Tabors Bjerg, fulgt af de 10000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22000	007-JDG-007-003 Lad derfor udråbe for Folket: Enhver, som er ræd og angst, skal vende hjem!" Gideon sigtede dem da, og 22000 Mand af Folket vendte hjem, medens 10000 blev tilbage.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	007-JDG-007-006 Og Tallet på dem, der labede, var 300; derimod lagde Resten af Folket sig på Knæ for at drikke af Vandet, idet de førte det til Munden med Hånden.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	007-JDG-007-007 Da sagde HERREN til Gideon: "Med de 300 Mand, som labede, vil jeg frelse eder og give Midjaniterne i din Hånd; men Resten af Folket skal drage hver til sit!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	007-JDG-007-008 Derpå tog han Folkets Krukker og deres Horn fra dem; og alle Israelitterne lod han drage hjem, hver til sit, men de 300 Mand beholdt han hos sig. Og Midjaniternes Lejr var nede på Sletten.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	007-JDG-007-016 Derpå delte han de 300 Mand i tre Afdelinger og gav dem alle Horn og tomme Krukker med Fakler i;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	007-JDG-007-019 Da nu Gideon og de 100 Mand. der var hos ham, kom hen til Udkanten af Lejren ved Begyndelsen af den midterste Nattevagt, lige som man havde stillet Vagtposterne ud, stødte de i Hornene og slog deres Krukker itu.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	007-JDG-007-022 Og da de blæste i de 300 Horn, satte HERREN den enes Sværd mod den andens i hele Lejren, og de flygtede til Bet Sjitta hen imod Zerera, til Bredden ved Abel Mehola over for Tabbat.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	007-JDG-008-004 Da Gideon nåede Jordan, gik han og de 300 Mand, der var med ham, over, udmattede og sultne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	15000	007-JDG-008-010 Zeba og Zalmunna befandt sig imidlertid med deres Hær i Karkor, henved 15000 Mand; det var alle dem, der var tilbage af Østens Stammers, Hær; de faldne udgjorde 120000 våbenføre Mænd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1700	007-JDG-008-026 Vægten af Guldringene, som han havde bedt om, udgjorde 1700 Sekel Guld bortset fra Halvmånerne, Ørenringene og Purpurklæderne, som Midjaniterkongerne bar, og Kæderne på Kamelernes Halse.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	007-JDG-009-049 Alle Folkene afhuggede da også hver sit Knippe og fulgte efter Abimelek og lagde det oven på Kælderrummet og stak Ild på Kælderrummet oven over dem. Således omkom også hele Besætningen i Sikems Tårn, henved 1000 Mænd og Kvinder.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	007-JDG-011-026 da Israelitterne bosatte sig i Hesjbon med Småbyer, i Aroer med Småbyer og i alle Byerne langs Arnon nu har de boet der i 300 År? Hvorfor tilrev I eder dem ikke dengang?	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	42000	007-JDG-012-006 sagde de til ham: "Sig Sjibbolet!" Og når han da sagde Sibbolet, fordi han ikke kunde udtale Ordet rigtigt, greb de ham og huggede ham ned ved Jordans Vadesteder. Ved den Lejlighed faldt 42000 Efraimiter.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	007-JDG-015-004 Så gik Samson hen og fangede 300 Ræve; derpå tog han Fakler, bandt Halerne sammen to og to og fastgjorde en Fakkel midt imellem;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	007-JDG-015-011 Så steg 3000 Mand fra Juda ned til Fjeldkløften ved Etam og sagde til Samson: "Ved du ikke, at Filisterne har Magten over os? Hvad er det dog, du har voldt os?" Han svarede dem: "Som de har handlet mod mig, har jeg handlet mod dem!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	007-JDG-015-015 Og da han fik Øje på en frisk Æselkæbe, rakte han sin Hånd ud, greb den og huggede 1000 Mand ned med den.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	007-JDG-015-016 Da sagde Samson: "Med en Æselkæbe har jeg flået dem sønder og sammen, med en Æselkæbe har jeg fældet 1000 Mand!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1100	007-JDG-016-005 Da kom Filisternes Fyrster til hende og sagde til hende: "Se at lokke ud af ham, hvad det er, der giver ham hans vældige Kræfter, og hvorledes vi kan få Bugt med ham, så vi kan binde og kue ham, så vil vi hver give dig 1100 Sekel Sølv!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	007-JDG-016-027 Hallen var fuld af Mænd og Kvinder; der var alle Filisternes Fyrster, og på Taget var der henved 3000 Mænd og Kvinder, som så til, medens de morede sig over Samson.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1100	007-JDG-017-002 Han sagde til sin Moder: "De 1100 Sekel Sølv, du har mistet, og for hvis Skyld du udtalte en Forbandelse, som jeg selv hørte, se, de Penge er hos mig; jeg har taget dem, men nu vil jeg give dig dem tilbage." Da sagde hans Moder: "HERREN velsigne dig, min Søn!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1100	007-JDG-017-003 Så gav han sin Moder de 1100 Sekel Sølv tilbage; og Moderen sagde: "Disse Penge helliger jeg HERREN og giver min Søn, for at han kan lave et udskåret og støbt Billede."	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	007-JDG-017-004 Så gav han sin Moder Pengene tilbage; og Moderen tog 200 Sekel Sølv deraf og gav dem til Guldsmeden, som lavede et udskåret og støbt Billede deraf, og det fik sin Plads i Mikas Hus.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	007-JDG-018-011 Så brød 600 væbnede Mænd af Daniternes Slægt op fra Zora og Esjtaol,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	007-JDG-018-016 medens de 600 væbnede danitiske Mænd stod ved Porten.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	007-JDG-018-017 Og de fem Mænd, der havde været henne at udspejde Landet, gik op og tog det udskårne og støbte Billede, Efoden og Husguden, medens Præsten og de 600 væbnede Mænd stod ved Porten.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400000	007-JDG-020-002 Alle Folkets Støtter, alle Israels Stammer indfandt sig i Guds Folks Forsamling, 400000 Mand Fodfolk, væbnet med Sværd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25000	007-JDG-020-015 Da Benjaminiterne fra Byerne mønstredes den bag, udgjorde de 25000 våbenføre Mænd, foruden dem af Gibeas Indbyggere, der mønstredes, 700 udsøgte Krigere;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	700	007-JDG-020-016 af alle disse Krigsfolk var 700 udvalgte Krigere kejthåndede; de kunde alle slynge med Sten, så de ramte på et Hår uden at fejle.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400000	007-JDG-020-017 Da Israels Mænd mønstredes, fraregnet Benjamin, udgjorde de 400000 våbenføre Mænd, der alle var Krigere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22000	007-JDG-020-021 Men Benjaminiterne gjorde Udfald fra Gibea og fældede den Dag 22000 Mand af Israel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	18000	007-JDG-020-025 Men Benjaminiterne gjorde Udfald fra Gibea for at møde dem den anden Dag, og de fældede yderligere 18000 Mand af Israelitterne, alle sammen våbenføre Mænd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10000	007-JDG-020-034 Nu rykkede 10000 Mand, udvalgte Folk af hele Israel, frem for Gibea, og Kampen blev hård; men de vidste ikke, at Ulykken var ved at ramme dem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25100	007-JDG-020-035 Så slog HERREN Benjamin foran Israel, og Israelitterne fældede den Dag 25100 Mand af Benjamin, alle våbenføre Mænd;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	18000	007-JDG-020-044 Af Benjamin faldt 18000 Mand, lutter dygtige Krigere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	5000	007-JDG-020-045 De gjorde omkring og flygtede og deres Forfølgere gjorde på Vejene en Efterhøst på 5000 Mand: de forfulgte dem skarpt, til de fik dem tilintetgjort, og huggede 2000 Mand ned af dem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25000	007-JDG-020-046 De, der faldt af Benjamin den Dag, var således i alt 25000 våbenføre Mænd, alle tapre Folk.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	007-JDG-020-047 De gjorde omkring og flygtede ud i Ørkenen til Rimmons Klippe, 600 Mand stærke, og blev der i fire Måneder.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	12000	007-JDG-021-010 Da sendte Menigheden 12000 Mand af de tapreste Folk derhen med den Befaling: "Drag hen og hug Indbyggerne i Jabesj i Gilead ned med Sværdet tillige med deres Kvinder og Børn.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	007-JDG-021-012 De fandt så hos Indbyggerne i Jabesj i Gilead 400 unge Piger, der var Jomfruer og ikke havde haft Omgang med nogen Mand, og dem førte de til Lejren i Silo i Kana'ans Land.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4	009-1SA-003-021 Og HERREN vedblev at lade sig til Syne i Silo; thi HERREN åbenbarede sig for Samuel. 4,1 Og Samuels Ord nåede ud til hele Israel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4000	009-1SA-004-002 Filisterne stillede sig op til Kamp mod Israel, og Kampen blev hed; Israel blev slået af Filisterne, og de dræbte i Slaget på åben Mark omtrent 4000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30000	009-1SA-004-010 Så begyndte Filisterne Kampen, og Israel blev slået, og de flygtede hver til sit; Nederlaget blev meget stort; der faldt 30000 Mand af det israelitiske Fodfolk,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300000	009-1SA-011-008 Og han mønstrede dem i Bezek, og der var 300000 Israeliter og 30000 Judæere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	009-1SA-013-002 Saul udvalgte sig 3000 Mand af Israel; af dem var 2000 hos Saul i Mikmas og i Bjergene ved Betel, 1000 hos Jonatan i Gibea i Benjamin; Resten af Krigerne lod han gå hver til sit.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	009-1SA-013-005 men Filisterne havde samlet sig til Kamp mod Israel, 3000 Stridsvogne, 6000 Ryttere og Fodfolk så talrigt som Sandet ved Havets Bred, og de drog op og lejrede sig i Mikmas lige over for Bet-Aven.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	009-1SA-013-015 Derpå brød Samuel op og gik bort fra Gilgal; men den tilbageblevne Del af Folket drog op i Følge med Saul for at støde til Krigerne, og de kom fra Gilgal til Gibea i Benjamin. Da mønstrede Saul de Folk, han havde hos sig, omtrent 600 Mand;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	009-1SA-014-002 Saul sad just ved Udkanten af Geba under Granatæbletræet ved Tærskepladsen, og folkene, som var hos ham, var omtrent 600 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10000	009-1SA-014-024 alle Krigerne var med Saul, omtrent 10000 Mand, og Kampen bredte sig over Efraims Bjerge begik Saul den Dag en stor Dårskab, idet han tog Folket i Ed og sagde: "Forbandet være hver den, som nyder noget før Aften, før jeg får taget Hævn over mine Fjender!" Og alt Folket afholdt sig fra at spise.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200000	009-1SA-015-004 Så stævnede Saul Folket sammen og mønstrede dem i Telaim, 200000 Mand Fodfolk og 10000 Mand af Juda.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	5000	009-1SA-017-005 Han havde en Kobberhjelm på Hovedet, var iført en Skælbrynje, hvis Kobber vejede 5000 Sekel,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	009-1SA-017-007 Hans Spydstage var som en Væverbom, og hans Spydsod var af Jern og vejede 600 Sekel; hans Skjolddrager gik foran ham.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	009-1SA-018-025 Da sagde Saul: "Således skal I sige til David: Kongen ønsker ikke andet i Brudekøb end 100 Filisterforhuder, så at han kan få Hævn over sine Fjender!" Saul gjorde nemlig Regning på at få David fældet ved Filisternes Hånd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	009-1SA-018-027 Derpå brød David op og drog ud med sine Mænd og dræbte 200 Filistere, og David kom med deres Forhuder og leverede Kongen dem fuldtallige for at blive hans Svigersøn. Så gav Saul ham sin Datter Mikal til Ægte.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	009-1SA-022-002 Og alle Slags Mennesker, som var i Nød, flokkede sig om ham, forgældede Mennesker og Folk, som var bitre i Hu, og han blev deres Høvding. Henved 400 Mand sluttede sig til ham.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	009-1SA-023-013 Da brød David op med sine Mænd, henved 600 i Tal, og de drog bort fra Ke'ila og flakkede om fra Sted til Sted. Men da Saul fik at vide, at David var sluppet bort fra Ke'ila, opgav han sit Togt.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	009-1SA-024-002 Så tog Saul 3000 Krigere, udsøgte af hele Israel, og drog ud for at søge efter David og hans Mænd østen for Stenbukke klipperne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	009-1SA-025-002 I Maon boede en Mand, som havde sin Bedrift i Karmel; denne Mand var hovedrig, han havde 3000 får og 1000 Geder; og han var netop i Karmel til Fåreklipning.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	009-1SA-025-013 Da sagde David til sine Folk:"Spænd alle eders Sværd ved Lænd!" Da spændte de alle deres Sværd om, også David. Og henved 400 Mand fulgte David, medens 200 blev ved Trosset.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	009-1SA-025-018 Så gik Abigajil straks hen og tog 200 Brød, to Dunke Vin, fem tillavede Får, fem Sea ristet Korn, 100 Rosinkager og 200 Figenkager, lagde det på Æslerne	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	009-1SA-026-002 Da brød Saul op og drog ned til Zifs Ørken med 3000 udsøgte Mænd af Israel for at søge efter David i Zifs Ørken;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	009-1SA-027-002 David brød da op og drog med sine 600 Mænd over til Maoks Søn, Kong Akisj af Gat;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	009-1SA-030-009 Så drog David af Sted med de 600 Mand, som var hos ham, og de kom til Besorbækken, hvor de, som skulde lades tilbage, blev stående;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	009-1SA-030-010 men David begyndte Forfølgelsen med 400 Mand, medens 200 Mand, som var for udmattede til at gå over Besorbækken, blev tilbage.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	009-1SA-030-017 David huggede dem da ned fra Dæmring til Aften; og ingen af dem undslap undtagen 400 unge Mænd, som svang sig på Kamelerne og flygtede.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	009-1SA-030-021 Da David kom til de 200 Mand, som havde været for udmattede til at følge ham, og som han havde ladet blive ved Besorbækken, gik de David og hans Folk i Møde, og David gik hen til Folkene og hilste på dem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	360	010-2SA-002-031 medens Davids Folk havde slået 360 Mand ihjel af Benjaminiterne, Abners Folk.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	010-2SA-003-014 David sendte derpå Bud til Isjbosjet, Sauls Søn, og lod sige:"Giv mig min Hustru Mikal, som jeg blev trolovet med for 100 Filisterforhuder!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30000	010-2SA-006-001 David samlede alt udsøgt Mandskab i Israel, 30000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1700	010-2SA-008-004 David fratog ham 1700 Ryttere og 20000 Mand Fodfolk og lod alle Stridshestene lamme på hundrede nær, som han skånede.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22000	010-2SA-008-005 Og da Aramæerne fra Damaskus kom Hadad'ezer af Zoba til Hjælp, slog David 22000 Mand af Aramæerne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	18000	010-2SA-008-013 Og David vandt sig et Navn. Da han vendte tilbage fra Sejren over Aram, slog han Edom i Saltdalen, 18000 Mand;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	20000	010-2SA-010-006 Men da Ammoniterne så, at de havde lagt sig for Had hos David, sendte de Bud og lejede Aramæerne fra Bef-Rehob og Zoba, 20000 Mand Fodfolk, Kongen af Ma'aka med 1000 Mand og Folkene fra Tob, 12000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	700	010-2SA-010-018 Men Aramæerne flygtede for Israel, og David nedhuggede 700 Stridsheste og 40000 Mand af Aram; også deres Hærfører Sjobak slog han ihjel der.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	010-2SA-014-026 Og når han lod sit Hår klippe - han lod det klippe, hver Gang der var gået et År, fordi det blev ham for tungt, derfor måtte han lade det klippe - vejede det 200 Sekel efter kongelig Vægt.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	010-2SA-015-011 Og med Absalon fulgte fra Jerusalem 200 Mænd, som han havde indbudt, og som drog med i god Tro uden at vide af noget.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	010-2SA-015-018 og alle Krigerne gik forbi ham, ligeledes alle Kreterne og Pleterne; også alle Gatiten Ittajs Mænd, 600 Mand, som havde fulgt ham fra Gat, gik forbi Kongen.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	010-2SA-016-001 Da David var kommet lidt på den anden Side af Bjergets Top, Kom Mefibosjets Tjener Ziba ham i Møde med et Par opsadlede Æsler, som bar 200 Brød, 100 Rosinkager, 100 Frugter og en Dunk Vin.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	12000	010-2SA-017-001 Derpå sagde Akitofel til Absalon; " Lad mig udvælge 12000 Mand og bryde op i Nat og sætte efter David.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200000	010-2SA-018-007 Der blev Israels Hær slået af Davids Folk, og der fandt et stort Mandefald Sted den Dag; der faldt 200000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	010-2SA-021-016 Da fremstod Dod, som var af Rafaslægten, og hvis Spyd vejede 300 Sekel Kobber; han var iført en ny Rustning, og han havde i Sinde at slå David ihjel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	800	010-2SA-023-008 Navnene på Davids Helte var følgende: Hakmoniten Isjbosjet, Anføreren for de tre; det var ham, der engang svang sit Spyd over 800 faldne på een Gang.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	010-2SA-023-018 Abisjaj, Joabs Broder, Zerujas Søn, var Anfører for de tredive. Han svang sit Spyd over 300 faldne, og han var navnkundig iblandt de tredive;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	800000	010-2SA-024-009 Joab opgav derpå Kongen Tallet, der var fundet ved Folktællingen, og Israel talte 800000 kraftige, våbenføre Mænd, Juda 500000 Mænd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70000	010-2SA-024-015 Så valgte David da Pesten. Ved Hvedehøstens Tid begyndte Soten at ramme Folket; og der døde 70000 Mand af Folket fra Dan til Be'ersjeba.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	40	011-1KI-004-026 Og Salomo havde 40 000 Spand Heste til sit Vognhold og 12 000 Ryttere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	011-1KI-004-032 Han fremsagde 3000 Tanke sprog, og Tallet på hans Sange var 1 005"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	20	011-1KI-005-011 og Salomo sendte Hiram 20 000 Kor Hvede til Underhold for hans Hof og 20 Kor Olie af knuste Oliven. Så meget sendte Salomo Hiram År efter År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30	011-1KI-005-013 Kong Salomo udskrev nu Hoveriarbejdere overalt i Israel, og Hoveriarbejderne udgjorde 30 000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	011-1KI-005-014 Dem sendte han så til Libanon, et Hold på 10 000 om Måneden, således at de var en Måned på Libanon og to Måneder hjemme. Adoniram havd Tilsyn med Hoveriarbejderne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70	011-1KI-005-015 Salomo havde 70 000 Lastdragere og 80 000 Stenhuggere i Bjergene	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3	011-1KI-005-016 foruden Overfogeder, der ledede Arbejdet, 3 300 Mand, som havde Opsyn med Folkene, der arbejdede.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	480	011-1KI-006-001 480 År efter at Israeliterne var vandret ud af Ægypten, i Ziv Måned, det er den anden Måned, i det fjerde År Salomo herskede i Israel, begyndte han at bygge HERREN Templet.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	011-1KI-007-018 og han lavede Granatæblerne, to Rækker rundt om det ene Fletværk; der var 200 Granatæbler i Rækker rundt om det ene Søjlehoved; på samme Måde gjorde han også ved det andet.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2000	011-1KI-007-026 Det var en Håndsbred tykt, og Randen var formet som Randen på et Bæger, som en udsprungen Lilje. Det tog 2000 Bat.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	011-1KI-007-042 de 400 Granatæbler til de to Fletværker, to Rækker Granatæbler til hvert Fletværk til at dække de to kugleformede Søjlehoveder på de to Søjler,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22	011-1KI-008-063 Til de Takofre, Salomo ofrede til HERREN, tog han 22 000 Stykker Hornkvæg og 12 000 Stykker Småkvæg. Således indviede Kongen og alle Israeliterne HERRNs Hus.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	011-1KI-009-014 Men Hiram sendte Kongen 120 Guldtalenter.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	550	011-1KI-009-023 Tallet på Overfogederne, der ledede Arbejdet for Salomo, var 550; de havde Tilsyn med Folkene, der arbejdede.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	420	011-1KI-009-028 De sejlede til Ofir, hvor de hen tede 420 Talenter Guld, som de bragte Kong Salomo.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	011-1KI-010-010 Derpå gav hun Kongen 120 Guldtalenter, Røgelse i store Mængder og Ædelsten; og aldrig er der siden kommet så megen Røgelse til Landet som den, Dronningen af Saba gav Kong Salomo.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	666	011-1KI-010-014 Vægten af det Guld, som i et År indførtes af Salomo, udgjorde 666 Guldtalenter,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	011-1KI-010-016 Kong Salomo lod hamre 200 Guldskjolde, hvert på 600 Sekel Guld,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	011-1KI-010-017 og 300 mindre Guldskjolde, hvert på tre Miner Guld; dem lod Kongen henlægge i Libanonskovhuset.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	011-1KI-010-026 Salomo anskaffede sig Stridsvogne og Ryttere, og han havde 1.400 Vogne og 12.000 Ryttere; dem lagde han dels i Vognbyerne, dels hos sig i Jerusalem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	011-1KI-010-029 En Vogn udførtes fra Mizrajim for 600 Sekel Sølv, en Hest for 150 Ligeledes udførtes de ved Handelsfolkene fil alle Hetiternes og Arams Konger.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	700	011-1KI-011-003 Han havde 700 fyrsfelige Hustruer og 300 Medhustruer, og hans Hustruer drog hans Hjerte bort fra Herren.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	180	011-1KI-012-021 Da Rehabeam var kommet til Jerusalem, samlede han hele Judas Hus og Benjamins Stamme, 180 000 udsøgte Folk, øvede Krigere, til at føre Krig med Israels Hus og vinde Riget tilbage til Rehabeam, Salomos Søn.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	450	011-1KI-018-019 Men send nu Bud og kald hele Israel sammen til mig på Karmels Bjerg og tillige de 450 Ba'alsprofeter og de 400 Asjeraprofeter, som spiser ved Jesabels Bord!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	450	011-1KI-018-022 Da sagde Elias til Folket: "Jeg er den eneste af HERRENs Profeter, der er tilbage, og Ba'als Profeter er 450 Mand;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	232	011-1KI-020-015 Så mønstrede han Fogedernes Folk, og de var 232; derefter mønstrede han hele Hæren, alle Israeliterne, 7000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	011-1KI-020-029 De lå nu lejret over for hinanden i syv Dage, men Syvendedagen kom det til Kamp, og Israeliterne huggede Aramæerne ned, 100.000 Mand Fodfolk på een Dag.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	27000	011-1KI-020-030 De, der blev tilovers, flygtede til Byen Afek, men Muren styrtede ned over dem, der var tilbage, 27000 Mand. Benhadad flygtede ind i Byen, hvor han løb fra Kammer til Kammer.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	011-1KI-022-006 Da lod Israels Konge Profeterne kalde sammen, henved 400 Mand, og spurgte dem: "Skal jeg drage i Krig mod Ramot i Gilead, eller skal jeg lade være?" De svarede: "Drag derop, så skal HERREN give det i Kongens Hånd!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	012-2KI-003-004 Kong Mesja af Moab drev Kvægavl og svarede Israels Konge en Afgift på 100.000 Lam og Ulden af 100.000 Vædre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	700	012-2KI-003-026 Da Moabs Konge så, at han ikke kunde modstå Angrebet, samlede han 700 sværdvæbnede Mænd for at bryde igennem hen til Kongen af Edom. men det lykkedes ikke.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	6000	012-2KI-005-005 Da sagde Arams Konge: "Rejs derhen! Jeg skal sende etBrevmed til Israels Konge!" Så rejste han og tog ti Talenter Sølv, 6000 Sekel Guld og ti Sæt Festklæder med.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	012-2KI-014-007 Det var ham, der slog Edom i Saltdalen, 10.000 Mand, og indtog Sela, og han kaldte det Jokte'el, som det hedder den Dag i Dag.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	012-2KI-014-013 Men Kong Joas af Israel tog Ahazjas Søn Joas's Søn. Kong Amazja af Juda, til Fange ved BetSjemesj og førte ham til Jerusalem. Derpå nedrev han Jerusalems Mur på en Strækning af 400 Alen, fra Efraimsporten til Hjørneporten;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	012-2KI-015-019 faldt Kong Pul af Assyrien ind i Landet. Men Menahem gav Pul 1000 Talenter Sølv, for at han skulde støtfe ham og sikre ham Magten;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	012-2KI-018-014 Da sendte Kong Ezekias af Juda Bud til Assyrerkongen i Lakisj og lod sige: "Jeg har forbrudt mig; drag bort fra mig igen! Hvad du pålægger mig, vil jeg tage på mig!" Da pålagde Assyrerkongen Kong Ezekias af Juda at udrede 300 Talenter Sølv og 300 talenter Guld;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	185000	012-2KI-019-035 Samme Nat gik HERRENs Engel ud og ihjelslog i Assyrernes Lejr 185000 Mand; og se, næste Morgen tidlig lå de alle døde.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	012-2KI-024-014 Og han førte hele Jerusalem, alle Øversterne og de velhavende, 10.000 i Tal, bort som Fanger, ligeledes Grovsmede og Låsesmede, så der ikke blev andre tilbage end de fattigste af Folket fra Landet.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7000	012-2KI-024-016 fremdeles alle de velbavende, 7000 i Tal, Grovsmedene og Låsesmedene, 1800 i Tal, alle øvede Krigere - dem førte Babels Konge som Fanger til Babel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	013-1CH-004-042 Af dem, af Simeoniterne, drog 500 Mand til Se'irs Bjerge under Ledelse af Pelatja, Nearj'a, Refaja og Uzziel, Jisj'is Sønner,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	44760	013-1CH-005-018 Rubeniterne, Gaditerne og Manasses halve Stamme, alle de krigsdygtige Mænd, der har Skjold og Sværd, spændte Bue og var øvet i Kamp, 44760 Mand, der kunde drage i Kamp,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	50	013-1CH-005-021 Så tog de deres Hjorde, 50.000 Kameler, 250.000 Stykker Småkvæg, 2.000 Æsler og 100.000 Mennesker som Bytte.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22600	013-1CH-007-002 Tolas Sønner: Uzzi, Refaja, Jeriel, Jamaj, Jibsam og Sjemuel, Overhoveder for Tolas Fædrenehuse, dygtige Krigere. Efter deres Slægtebøger udgjorde deres Tal på Davids Tid 22600.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	36000	013-1CH-007-004 Til dem hørte efter deres Slægtebøger, efter deres Fædrenehuse, krigsrustede Skarer, 36000; de havde nemlig mange kvinder og Børn.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	87	013-1CH-007-005 Deres Brødre, alle Issakars Slægter, var dygtige Krigere; de, som var indført i deres Slægtebog, udgjorde i alt 87 000.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22034	013-1CH-007-007 Belas Sønner: Ezbon, Uzzi, Uzziel Jerimot og Iri, fem, Overhoveder for Fædrenehuse, dygtige Krigere; de, som var indført i deres Slægtebog, udgjorde 22034.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	20	013-1CH-007-009 de, som var indført i deres Slægtebog efter deres Slægter, Overhovederne for Fædrenehusene, dygtige Krigere, udgjorde 20 200.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	17200	013-1CH-007-011 alle disse var Jediaels Sønner, Overhoveder for deres Fædrenehuse, dygtige Krigere, 17200 øvede Krigere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	26000	013-1CH-007-040 Alle disse var Asers Sønner. Overhoveder for Fædrenehusene, udsøgte dygtige Krigere, Overhoveder for Øversterne. De, der var indført i Slægtebogen som brugelige til Krigstjeneste, talte 26000.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	690	013-1CH-009-006 Af Zeraiterne: Je'uel og deres Brødre, 690.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	956	013-1CH-009-009 desuden deres Brødre efter deres Slægter, 956. Alle disse Mænd var Overhoveder for deres Fædrenehuse.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1760	013-1CH-009-013 desuden deres Brødre, Overhovederne for deres Fædrenehuse, 1760, dygtige Mænd til Tjenesten i Guds Hus.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	212	013-1CH-009-022 Tilsammen udgjorde de, der var udvalgt til at holde Vagt ved Tærsklerne, 212. De indførtes i de res Slægtebøger i deres Landsbyer. David og Seeren Samuel indsatte dem i deres Embede;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	013-1CH-011-011 Navnene på Davids Helte var følgende: Isjba'al, Hakmonis Søn, Anføreren for de tre; det var ham, som engang svang sit Spyd over 300 faldne på een Gang.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	6800	013-1CH-012-024 Af Judæere, der har Skjold og Spyd, 6800 væbnede Krigere;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7100	013-1CH-012-025 af Simeoniterne 7100 dygfige Krigshelte;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4600	013-1CH-012-026 af Leviterne 4600,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3700	013-1CH-012-027 dertil Øverstenover Arons Slægt, Jojada, fulgt af 3700,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22	013-1CH-012-028 og Zadok, en ung, dygtig Kriger, med sit Fædrenehus, 22 Førere;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	013-1CH-012-029 af Benjaminiterne, Sauls Brødre, 3000, men de fleste af dem holdt endnu fast ved Sauls Hus;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	20800	013-1CH-012-030 af Efraimiterne 20800 dygtige Krigere, navnkundige Mænd i deres Fædrenehuse;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	18	013-1CH-012-031 af Manasses halve Stamme 18.000 navngivne Mænd, der skulde gå hen og gøre David til Konge;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	013-1CH-012-032 af Issakariterne, der forstod sig på Tiderne, så de skønnede, hvad Israel havde at gøre, 200 Førere og alle deres Brødre, der stod under dem;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	50	013-1CH-012-033 af Zebulon 50.000, øvede Krigere, udrustet med alle Hånde Våben, med een Vilje rede til Kamp;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	013-1CH-012-034 af Naftali 1.000 Førere, fulgt af 37.000 Mænd med Skjold og Spyd;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	28	013-1CH-012-035 af Daniterne 28.600, udrustede Mænd;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	40	013-1CH-012-036 af Aser 40.000, øvede Krigere, rustet til Kamp;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	013-1CH-012-037 fra den anden Side af Jordan, fra Rubeniterne, Gaditerne og Manasses halve Stamme, 120.000 Mænd med alle Hånde Krigsvåben.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	013-1CH-014-006 Noga, Nefeg, Jaf1a,	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	120	013-1CH-015-005 Af Kehatiterne Øversten Uriel og hans Brødre, 120;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	220	013-1CH-015-006 af Merariterne Øversten Asaja og hans Brødre, 220;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	013-1CH-015-007 af Gersoniterne Øversten Joel og hans Brødre, 130;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	013-1CH-015-008 af Elizafans Sønner Øversten Sjemaja og hans Brødre, 200;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	80	013-1CH-015-009 af Hebrons Sønner Øversten Eliel og hans Brødre, 80;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	112	013-1CH-015-010 af Uzziels Sønner Øversten Amminadab og hans Brødre, 112.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	013-1CH-018-004 David fratog ham 1.000 Vogne, 7.008 Ryttere og 20.000 Mand Fodfolk og lod alle Hestene lamme på hundrede nær, som han skånede.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22	013-1CH-018-005 Og da Aramæerne fra Darmaskus kom Kong Hadar'ezer af Zoba til Hjælp, slog David 22.000 Mand af Aramæerne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	18000	013-1CH-018-012 Og Absjaj, Zerujas Søn, slog Edom i Saltdalen, 18000 Mand;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	013-1CH-019-006 Men da Ammoniterne så, at de havde lagt sig for Had hos David, sendte Hanun og Ammoniterne 1000 Talenter Sølv for at leje Vogne og Ryttere i Aram-Naharajim, Aram Ma'aka og Zoba;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	32000	013-1CH-019-007 og de lejede 32000 Vogne og Kongen af Ma'aka med hans Folk, og de kom og slog Lejr uden for Medeba; imidlertid havde Ammoniterne samlet sig fra deres Byer og rykkede ud til Kamp.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7	013-1CH-019-018 Men Aramæerne flygtede for Israel, og David nedhuggede 7.000 Stridsheste og 40.000 Mand Fodfolk af Aram; også Hærføreren Sjofak huggede han ned.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	013-1CH-021-005 Joab opgav derpå David Tallet, der var fundet ved Folketællingen, og hele Israel talte 1.100.000 kraftige Mænd, Juda 470.000.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70	013-1CH-021-014 Så sendte HERREN Pest over Israel, og af Israel døde 70.000 Mennesker.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	013-1CH-021-025 Så gav David Ornan Guld til en Vægt af 600 Sekel for Pladsen;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	013-1CH-022-014 Se, med stor Møje har jeg til HERRENs Hus tilvejebragt 100.000 Talenter Guld og en Million Talenter Sølv og desuden Kobber og Jern, som ikke er til at veje, så meget er der; dertil har jeg tilvejebragt Bjælker og Sten; og du skal sørge for flere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	38000	013-1CH-023-003 Og Leviterne blev talt fra Trediveårsalderen og opefter, og deres Tal udgjorde, Hoved for Hoved, Mand for Mand, 38000.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-023-004 "Af dem," sagde han, "skal 24000 forestå Arbejdet ved HERRENs Hus, 6000 være Tilsynsmænd og Dommere,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4000	013-1CH-023-005 4000 være Dørvogtere og 4000 love HERREN med de instrumenter, jeg har ladet lave til Lovsangen."	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	288	013-1CH-025-007 Deres Tal, sammenregnet med deres Brødre, der var oplært til at synge HERRENs Sange, var 288, kyndige Folk til Hobe.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1700	013-1CH-026-030 Af Hebroniterne var Hasjabja og hans Brødre, 1700 dygtige Folk, sat til at varetage alt, hvad der vedrørte HERRENs Tjeneste og Kongens Tjeneste i Israel vesten for Jordan.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2700	013-1CH-026-032 og hans Brødre, 2700 dygtige Folk, Overhoveder for Fædrenehusene; dem satte Kong David over Rubeniteme, Gaditerne og Manasses halve Stamme til at varetage alle Sager, som vedrørte Gud og Kongen.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-001 Israeliterne efter deres Tal: Fædrenehusenes Overhoveder, Tusind- og Hundredførerne og deres Fogeder, som tjente Kongen i alle Sager vedrørende Skifterne, de, der skiftevis trådte til og fra hver Måned hele Året rundt, hvert Skifte på 24000 Mand:	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-002 Over det første Skifte, den første Måneds Skifte stod Isjba'al, Zabdiels Søn - til hans Skifte hørte 24000 Mand	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-004 Over den anden Måneds Skifte stod Ahohiten El'azar, Dodajs Søn; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-005 Den tredje Hærfører, ham i den tredje Måned, var Benaja, Ypperstepræsten Jojadas Søn; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-007 Den fjerde, ham i den fjerde Måned, var Joabs Broder Asa'el og efter ham hans Søn Zebadja; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-008 Den femte, ham i den femte Måned, var Hærføreren Zeraiten Sjamhut; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-009 Den sjette, ham i den sjette Måned, var Ira, Ikkesjs Søn, fra Tekoa; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-010 Den syvende, ham i den syvende Måned, var Peloniten Helez af Efraimiterne; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-011 Den ottende, ham i den ottende Måned, var Husjatiten Sibbekaj af Zeras Slægt; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-012 Den niende, ham i den niende Måned, var Abiezer fra Anatot at Benjaminiterne; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-013 Den tiende, ham i den tiende Måned, var Maharaj fra Netofa af Zeras Slægt, til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-014 Den ellevte, ham i den ellevte Måned, var Benaja fra Pir'aton af Efraimiterne; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	24000	013-1CH-027-015 Den tolvte, ham i den tolvte Måned, var Heldaj fra Netofa af Otniels Slægt; til hans Skifte hørte 24000 Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3	013-1CH-029-004 3.000 Talenter Guld, Offrguld, og 7.000 Talenter lutret Sølv til at overtrække Bygningernes Vægge med,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	5	013-1CH-029-007 og gav til Arbejdet på Guds Hus 5.000 Talenter og 10.000 Darejker Guld, 10.000 Talenter Sølv, 18.000 Talenter Kobber og 100.000 Talenter Jern;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	013-1CH-029-021 Så ofrede de Slagtofre til HERREN, og Dagen efter bragte de ham som Brændoffer 1000 Tyre, 1000 Vædre og 1000 Lam med tilhørende Drikofre og en Mængde Slagtofre for hele Israel;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	014-2CH-001-006 Og Salomo ofrede der på Åbenbaringsteltets Kobberalter, som stod foran HERRENs Åsyn, han ofrede 1000 Brændofre derpå.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1400	014-2CH-001-014 Salomo anskaffede sig Stridsvogne og Ryttere, og han havde 1400 Vogne og 12000 Ryttere; dem lagde han dels i Vognbyerne, dels hos sig i Jerusalem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	014-2CH-001-017 De udførte en Vogn fra Mizrajim for 600 Sekel Sølv, en Hest for150 Ligeledes udførtes de ved Handelsfolkenes Hjælp til alle Hetiternes og Arams Konger.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	70	014-2CH-002-002 Salomo lod derfor udskrive 70.000 Mand til Lastdragere og 80.000 Mand til Stenhuggere i Bjergene og 3600 til at føre Tilsyn med dem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	20	014-2CH-002-010 For Tømrerne, som fælder Træerne, vil jeg til Underhold for dine Folk give 20.000 Kor Hvede, 20.000 Kor Byg, 20.000 Bat Vin og 20.000 Bat Olie."	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	153	014-2CH-002-017 Salomo lod da alle fremmede Mænd, der boede i Israels Land, tælle - allerede tidligere havde hans fader David ladet dem tælle - og de fandtes at udgøre 153.600.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70	014-2CH-002-018 Af dem gjorde han 70.000 til Lastdragere, 80.000 til Stenhuggere i Bjergene og 3.600 til Opsynsmænd til at lede Folkenes Arbejde.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	014-2CH-003-008 Han byggede fremdeles det Allerhelligste; dets Længde på tværs af Templet var tyve Alen, dets Bredde tyve; og han overtrak det med ægte Guld til en Vægt af 600 Talenter.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	014-2CH-003-016 Så lavede han Kranse som en Halskæde og anbragte dem øverst på Søjlerne, og fremdeles lavede han 100 Granatæbler og satte dem på Kransene.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3000	014-2CH-004-005 Det var en Håndsbred tykt, og Randen var formet som Randen på et Bæger, som en udsprungen Lilje. Det tog 3000 Bat.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	014-2CH-004-008 Fremdeles lavede han ti Borde og satte dem i Helligdommen, fem til højre og fem til venstre; fillige lavede han 100 Skåle af Guld.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	014-2CH-004-013 de 400 Granatæbler til de to Fletværker, to Rækker Granatæbler til hvert Fletværk til at dække de to kugleformede Søjlehoveder på de to Søjler,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	014-2CH-005-012 og alle de levitiske Sangere, Asaf, Heman og Jedutun tillige med deres Sønner og Brødre stod østen for Alteret i Klæder af fint Linned med Cymbler, Harper og Citre, og sammen med dem stod 120 Præster, der blæste i Trompeter -	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	22	014-2CH-007-005 Til Slagtofferet tog Kong Salomo 22.000 Stykker Hornkvæg og 120.000 Stykker Småkvæg. Således indviede Kongen og alt Folket Guds Hus.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	250	014-2CH-008-010 Tallet på Kong Salomos Overfogeder var 250; de havde Tilsyn med Folkene.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	450	014-2CH-008-018 og Huram sendte ham Folk med Skibe og befarne Søfolk, der sammen med Salomos Folk sejlede til Ofir, hvor de hentede 450 Talenter Guld, som de bragte Kong Salomo.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	014-2CH-009-009 Derpå gav hun Kongen 120 Guldtalenter, Røgelse i store Mængder og Ædelsten; og aldrig har der siden været så megen Røgelse i Landet som den, Dronningen af Saba gav Kong Salomo.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	666	014-2CH-009-013 Vægten af det Guld, som i eet År indførtes af Salomo, udgjorde 666 Guldtalenter,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	014-2CH-009-015 Kong Salomo lod hamre 200 Guldskjolde, hvert på 600 Sekel Guld,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	014-2CH-009-016 og 300 mindre Guldskjolde, hvert på 300 Sekel Guld; dem lod Kongen henlægge i Libanonskovhuset.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4000	014-2CH-009-025 Salomo havde 4000 Spand Heste og Vogne og 12000 Ryttere; dem lagde han dels i Vognbyerne, dels hos sig i Jerusalem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	180	014-2CH-011-001 Da Rehabeam var kommet til Jerusalem, samlede han hele Judas og Benjamins Hus, 180.000 udsøgte Folk, øvede Krigere, til at føre Krig med Israel og vinde Kongedømmet tilbage til Rehabeam.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1200	014-2CH-012-003 med 1200 Stridsvogne og 60.000 Ryttere, og der var ikke Tal på Krigerne, der drog med ham fra Ægypten, Libyere, Sukkijiter og Ætiopere;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	014-2CH-013-003 Abija åbnede Krigen med en krigsdygtig Hær, 400.000 udsøgte Mænd, og Jeroboam mødte ham med 800.000 udsøgte Mænd, dygtige Krigere,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	014-2CH-013-017 og Abija og hans Folk tilføjede dem et stort Nederlag, så der af Israeliterne faldt 500.000 udsøgte Krigere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	014-2CH-014-008 Asa havde en Hær, af Juda 300.000 væbnet med Skjold og Spyd, og af Benjamin 280.000, der har Småskjolde og spændte Buer, alle sammen dygtige Krigere.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	014-2CH-014-009 Men Kusjiten Zera drog ud imod dem med en Hær på 1.000.000 Mand og 300 Stridsvogne. Da han havde nået Maresja,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	700	014-2CH-015-011 og ofrede den Dag HERREN Ofre af Byttet, de havde medbragt, 700 Stykker Hornkvæg og 7000 Stykker Småkvæg.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7700	014-2CH-017-011 Fra Filisterne kom der Folk, som bragte Josafat Gaver og svarede Sølv i Skat; også Araberne bragte ham Småkvæg, 7700 Vædre og 7700 Bukke.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	014-2CH-017-014 Her følger en Fortegnelse over dem efter deres Fædrenehuse. Til Juda hørte følgende Tusindførere: Øversten Adna med 300.000 dygtige Krigere;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	280	014-2CH-017-015 ved Siden af ham Øversten Johanan med 280.000 Mand;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	014-2CH-017-016 ved Siden af ham Amasja, Zikris Søn, der frivilligt gav sig i HERRENs Tjeneste, med 200.000 dygtige Krigere;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	014-2CH-017-017 fra Benjamin var Eljada, en dygtig Koger, med 200.000 Mand, væbnet med Bue og Skjold;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	80	014-2CH-017-018 ved Siden af ham Jozabad med 80.000 vel rustede Mand.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	014-2CH-018-005 Da lod Israels Konge Profeterne kalde sammen, 400 Mand, og spurgte dem: "Skal jeg drage i Krig mod Ramot i Gilead, eller skal jeg lade være?" De svarede: "Drag derop, så vil Gud give det i Kongens Hånd!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	130	014-2CH-024-015 Men Jojada blev gammel og mæt af Dage og døde; han var ved sin Død 130 År gammel.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	014-2CH-025-005 Amazja samlede Judæerne og opstillede dem efter Fædrenehuse under Tusind- og Hundredførerne, hele Juda og Benjamin, og da han mnønstrede dem fra Tyveårsalderen og opefter, fandt han, at de udgjorde 300.000 udvalgte Folk, øvede Krigere, der har Skjold og Spyd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	014-2CH-025-006 Dertil lejede han i Israel 100.000 dygtige Krigere for 100 Sølvtalenter.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	014-2CH-025-009 Amazja spurgte den Guds Mand: "Hvad så med de 100 Sølvtalenter, jeg gav de israelitiske Krigsfolk?" Og den Guds Mand svarede: "HERREN kan give dig langt mere end det!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	014-2CH-025-011 Amazja tog nu Mod til sig og førte sine Krigere til Saltdalen og nedhuggede 10.000 af Se'iriterne;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	014-2CH-025-012 desuden tog Judæerne 10.000 levende til Fange; dem førte de op på Klippens Top og styrtede dem ned derfra, så de alle knustes.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3	014-2CH-025-013 Men de Krigsfolk, Amazja havde sendt hjem, så de ikke kom til at følge ham i Krigen, faldt ind i Judas Byer fra Samaria til Bet-Horon, huggede 3.000 af Indbyggerne ned og gjorde stort Bytte.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	400	014-2CH-025-023 Men Kong Joas af Israel tog Joahaz's Søn Joas's Søn, Kong Amazja af Juda, tifange ved Bet-Sjemesj og førte ham til Jerusalem. Derpå nedrev han Jerusalems Mur på en Strækning af 400 Alen, fra Efraimsporten til Hjørneporten;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2600	014-2CH-026-012 Det fulde Tal på de dygtige Krigere, som var Overhoveder for Fædrenehusene, var 2600.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	307500	014-2CH-026-013 Under deres Befaling stod en Hærstyrke på 307500 krigsvante Folk i deres fulde Kraft til at hjælpe Kongen mod Fjenden.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	014-2CH-027-005 Han førte Krig med Ammoniternes Konge og overvandt dem, så Ammoniterne det År måtte svare ham 100 Talenter Sølv, 10.000 Kor Hvede og 10.000 Kor Byg i Skat; og lige så meget svarede Ammoniterne ham det andet og tredje År.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	014-2CH-028-006 Peka, Remaljas Søn, dræbte i Juda 120.000 Mennesker på een Dag, lutter dygtige Krigsfolk, fordi de havde forladt HERREN, deres Fædres Gud.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	014-2CH-028-008 Israeliterne bortførte fra deres Brødre 200.000 Hustruer, Sønner og Døtre som Fanger og fratog dem et stort Bytte, som de førte til Samaria.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	014-2CH-029-031 Ezekias tog da til Orde og sagde: "I har nu indviet eder til HERREN; så træd da frem og bring Slagtofre og Lovprisningsofre til HERRENs Hus!" Så bragte Forsamlingen Slagtofre og Lovprisningsofre, og enhver, hvis Hje1te tilskyndede ham dertil, bragte Brændofre.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	70	014-2CH-029-032 De Brændofre, Forsamlingen bragte, udgjorde 70 Stykker Hornkvæg, 100 Vædre og 200 Lam, alt som Brændofre til HERREN;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	600	014-2CH-029-033 og Helligofrene udgjorde 600 Stykker Hornkvæg og 3000 Stykker Småkvæg.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	014-2CH-030-024 thi Kong Ezekias af Juda gav Forsamlingen en Ydelse af 1.000 Tyre og 7.000 Stykker Småkvæg, og Øversterne gav Forsamlingen 1.000 Tyre og 10.000 Stykker Småkvæg; og en Mængde Præster helligede sig.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30	014-2CH-035-007 Josias gav frivilligt Almuen, alle dem, der var til Stede, en Ydelse af Småkvæg, Lam og Gedekid, alt sammen til Påskeofferdyr, 30.000 Stykker i Tal, og 3.000 Stykker Hornkvæg, alt af Kongens Ejendom;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2	014-2CH-035-008 og hans Øverster gav frivilligt Folket, Præslerne og Leviterne en Ydelse; Hilkija, Zekarja og Jehiel, Guds Hus's Øverster, gav Præsterne til Påskeofferdyr 2.600 Stykker Småkvæg og 300 Stykker Hornkvæg.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	014-2CH-035-009 Leviternes Øverster Konanja og hans Brød1e Sjemaja og Netan'el, Hasjabja, Je'iel og Jozabad ydede Leviterne til Påskeofferdyr 5.000 Stykker Småkvæg og 500 Stykker Hornkvæg.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	81	014-2CH-035-014 Derefter gjorde de Påskedyr rede til sig selv og Præsterne, thi Præsterne, Arons Sønner, var sysselsatte med at ofre 81ændofrene og Fedtstykkerne lige til Nattens Frembrud; derfor gjorde Leviterne Ofre rede både for sig selv og Præsterne, Arons Sønner.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	30	015-EZR-001-009 Og Tallet på dem var følgende: 30 Guldbækkener, 1000 Sølvbakker, 29 Røgelsesskåle,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	30	015-EZR-001-010 30 Guldbægre, 410 Sølvbægre af ringere Art og 1000 andre Kar,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	5400	015-EZR-001-011 i alt 5400 Kar, dels af Guld og dels af Sølv. Alt dette bragte Sjesjbazzar med sig, da de landflygtige drog op fra Babel til Jerusalem.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2172	015-EZR-002-003 Par'osj's Efterkommere 2172,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	372	015-EZR-002-004 Sjefatjas Efterkommere 372,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	775	015-EZR-002-005 Aras Efterkommere 775,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2812	015-EZR-002-006 Pahat-Moabs Efterkommere, Jesuas og Joabs Efterkommere, 2812,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1254	015-EZR-002-007 Elams Efterkommere 1254,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	945	015-EZR-002-008 attus Efterkommere 945,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	760	015-EZR-002-009 Zakkajs Efterkommere 760,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	642	015-EZR-002-010 Banis Efterkommere 642,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	623	015-EZR-002-011 Bebajs Efterkommere 623,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1222	015-EZR-002-012 Azgads Efterkommere 1222,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	666	015-EZR-002-013 Adonikams Efterkommere 666,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2056	015-EZR-002-014 Bigvajs Efterkommere 2056,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	454	015-EZR-002-015 Adins Efterkommere 454,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	98	015-EZR-002-016 Aters Efterkommere gennem Hizkija 98,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	323	015-EZR-002-017 Bezajs Efterkommere 323,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	112	015-EZR-002-018 Joras Efterkommere 112,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	223	015-EZR-002-019 Hasjums Efterkommere 223,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	95	015-EZR-002-020 Gibbars Efterkommere 95,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	123	015-EZR-002-021 Betlehems Efterkommere 123,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	56	015-EZR-002-022 Mændene fra Netofa 56,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	128	015-EZR-002-023 Mændene fra Anatot 128,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	42	015-EZR-002-024 Azmavets Efterkommere 42,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	743	015-EZR-002-025 Kirjat-Jearims, Kefiras og Be'erots Efterkommere 743,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	621	015-EZR-002-026 Ramas og Gebas Efterkommere 621,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	122	015-EZR-002-027 Mændene fra Mikmas 122,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	223	015-EZR-002-028 Mændene fra Betel og Aj 223,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	52	015-EZR-002-029 Nebos Efterkommere 52,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	156	015-EZR-002-030 Magbisj's Efterkommere 156,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1254	015-EZR-002-031 det andet Elams Efterkommere 1254,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	320	015-EZR-002-032 Harims Efterkommere 320,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	725	015-EZR-002-033 Lods, Hadids og Onos Efterkommere 725,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	345	015-EZR-002-034 Jerikos Efterkommere 345,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3630	015-EZR-002-035 Sena'as Efterkommere 3630.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	973	015-EZR-002-036 Præsterne var: Jedajas Efterkommere af Jesuas Hus 973,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1052	015-EZR-002-037 Immers Efterkommere 1052,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1247	015-EZR-002-038 Pasjhurs Efterkommere 1247,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1017	015-EZR-002-039 Harims Efterkommere 1017.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	74	015-EZR-002-040 Leviterne var: Jesuas og Kadmiels Efterkommere af Hodavjas Efterkommere 74,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	128	015-EZR-002-041 Tempelsangerne var: Asafs Sønner 128.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	139	015-EZR-002-042 Dørvogterne var: Sjallums, Aters, Talmons, Akkubs, Hatitas og Sjobajs Efterkommere, i alt 139.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	392	015-EZR-002-058 Tempeltrællene og Efterkommerne af Salomos Trælle var i alt 392.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	652	015-EZR-002-060 Delajas, Tobijas og Nekodas Efterkommere 652.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	42360	015-EZR-002-064 Hele Menigheden udgjorde 42360	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7337	015-EZR-002-065 foruden deres Trælle og Trælkvinder, som udgjorde 7337, hvortil kom 200 Sangere og Sangerinder.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	736	015-EZR-002-066 Deres Heste udgjorde 736, deres Muldyr 245,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	435	015-EZR-002-067 deres Kameler 435 og deres Æsler 6720.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	61000	015-EZR-002-069 de gav efter deres Evne til Byggesummen 61000 Drakmer Guld, 5000 Miner Sølv og 100 Præstekjortler.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	015-EZR-006-017 og de ofrede ved Indvielsen 100 Tyre, 200 Vædre og 400 Lam og til Syndofre for hele Israel 12 Gedebukke efter Tallet på Israels Stammer;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	100	015-EZR-007-022 indtil 100 Sølvtalenter, 100 Kor Hvede, 100 Bat Vin, 100 Bat Olie og Salt i ubegrænset Mængde.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	150	015-EZR-008-003 Sjekanjas Søn; af Par'osj's Efterkommere Zekarja, i hvis Slægtsfortegnelse der var opført 150 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	015-EZR-008-004 af Pahat-Moabs Efterkommere Eljoenaj, Zerajas Søn, med 200 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	015-EZR-008-005 af Zattus Efterkommere Sjekanja, Jahaziels Søn, med 300 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	50	015-EZR-008-006 af Adins Efterkommere Ebed. Jonatans Søn, med 50 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70	015-EZR-008-007 af Elams Efterkommere Jesja'ja. Ataljas Søn, med 70 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	80	015-EZR-008-008 af Sjefatjas Efterkommere Zebadja, Nikaels Søn, med 80 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	218	015-EZR-008-009 af Joabs Efterkommere 'Obadja. Jehiels' Søn, med 218 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	160	015-EZR-008-010 af Banis Efterkommere Sjelomit, Josifjas Søn, med 160 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	28	015-EZR-008-011 af Bebajs Efterkommere Zekarja, Bebajs Søn, med 28 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	110	015-EZR-008-012 af Azgads Efterkommere Johanan, Hakkatans Søn, med 110 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	60	015-EZR-008-013 af Adonikams Efterkommere de sidst komne, nemlig Elifelet. Je'iel og Sjemaja, med 60 Mandspersoner;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	70	015-EZR-008-014 af Bigvajs Efterkommere Utaj og Zabud med 70 Mandspersoner.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	220	015-EZR-008-020 og af Tempeltrællene, som David og Øversterne havde stillet til Leviternes Tjeneste, 220 Tempeltrælle, alle med Navns Nævnelse.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	650	015-EZR-008-026 jeg tilvejede dem af Sølv 650 Talenter, Sølvkar til en Værdi af 100 Talenter, af Guld 100 Talenter,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	015-EZR-008-027 tyve Guldbægre til 1000 Darejker og to Kar af fint, guldglinsende Kobber, kostbare som Guld.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	12	015-EZR-008-035 bragte de, der kom fra Fangenskabet, de, der havde været i Landflygtighed, Brændofre til Israels Gud: 12 Tyre for hele tsrael, 96 Vædre, 77 Lam og 12 Gedebukke til Syndofre, alt sammen som Brændoffer til HERREN.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	016-NEH-003-013 Dalporten istandsatte Hanun og Folkene fra Zanoa; de byggede den og indsatte Portfløje, Kramper og Portslåer, og desuden 1000 Alen af Muren hen til Møgporten.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	150	016-NEH-005-017 Og Jøderne, både Forstanderne, 150 Mand, og de, der kom til os fra de omboende Hedningefolk, spiste ved mit Bord;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2172	016-NEH-007-008 Par'osj's Efterkommere 2172,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	372	016-NEH-007-009 Sjefatjas Efterkommere 372,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	652	016-NEH-007-010 Aras Efterkommere 652,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2818	016-NEH-007-011 Pahat-Moabs Efterkommere, Jesuas og Joabs Efterkommere, 2818,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1254	016-NEH-007-012 Elams Efterkommere 1254,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	845	016-NEH-007-013 Zattus Efterkommere 845,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	760	016-NEH-007-014 Zakkajs Efterkommere 760,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	648	016-NEH-007-015 Binnujs Efterkommere 648,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	628	016-NEH-007-016 Bebajs Efterkommere 628,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2322	016-NEH-007-017 Azgads Efterkommere 2322,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	667	016-NEH-007-018 Adonikams Efterkommere 667,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2067	016-NEH-007-019 Bigvajs Efterkommere 2067,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	655	016-NEH-007-020 Adins Efterkommere 655,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	98	016-NEH-007-021 Aters Efterkommere gennem Hizkija 98,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	328	016-NEH-007-022 Hasjums Efterkommere 328,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	324	016-NEH-007-023 Bezajs Efterkommere 324,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	112	016-NEH-007-024 Harifs Efterkommere 112,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	95	016-NEH-007-025 Gibeons Efterkommere 95,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	188	016-NEH-007-026 Mændene fra Betlehem og Netofa 188,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	128	016-NEH-007-027 Mændene fra Anatot 128,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	42	016-NEH-007-028 Mændene fra Bet-Azmavet 42,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	743	016-NEH-007-029 Mændene fra Hirjat-Jearim, Kefra og Be'erot 743;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	621	016-NEH-007-030 Mændene fra Rama og Geba 621,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	122	016-NEH-007-031 Mændene fra Mikmas 122,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	123	016-NEH-007-032 Mændene fra Betel og Aj 123,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	52	016-NEH-007-033 Mændene fra det andet Nebo 52,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1254	016-NEH-007-034 det andet Elams Efterkommere 1254,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	320	016-NEH-007-035 Harims Efterkommere 320,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	345	016-NEH-007-036 Jerikos Efterkommere 345,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	721	016-NEH-007-037 Lods, Hadids og Onos Efterkommere 721,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	3930	016-NEH-007-038 Sena'as Efterkommere 3930.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	973	016-NEH-007-039 Præsterne var: Jedajas Efterkommere af Jesuas Hus 973,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1052	016-NEH-007-040 Immers Efterkommere 1052,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1247	016-NEH-007-041 Pasjhurs Efterkommere 1247,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1017	016-NEH-007-042 Harims Efterkommere 1017.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	74	016-NEH-007-043 Leviterne var: Jesuas og Kadmiels Efterkommere af Hodavjas Efterkommere 74.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	148	016-NEH-007-044 Tempelsangerne var: Asafs Efterkommere 148.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	138	016-NEH-007-045 Dørvogterne var: Sjallums, Aters, Talmons, Akkubs, Hatitas og Sjobajs Efterkommere 138.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	392	016-NEH-007-060 Alle Tempeltrælle og Efferkommerne af Salomos Trælle var tilsammen 392.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	642	016-NEH-007-062 Delajas, Tobijas og Nekodas Efterkommere 642.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	42360	016-NEH-007-066 Hele Menigheden udgjorde 42360	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7337	016-NEH-007-067 foruden deres Trælle og Trælkvinder, som udgjorde 7337, hvor til kom 245 Sangere og Sangerinder.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	736	016-NEH-007-068 Deres Heste udgjorde 736, deres Mulddyr 245,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	435	016-NEH-007-069 deres Kameler 435 og deres Æsler 6720.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	016-NEH-007-070 En Del af Fædrenehusenes Overhoveder ydede Tilskud til Byggearbejdet. Statholderen gav til Byggesummen 1000 Drakmer Guld, 50 Skåle og 30 Præstekjortler.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	20	016-NEH-007-071 Af Fædrenehusenes Overhoveder gav nogle til Byggesummen 20.000 Drakmer Guld og 2.200 Miner Sølv.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	20	016-NEH-007-072 Og hvad det øvrige Folk gav, løb op til 20.000 Drakmer Guld, 2.000 Miner Sølv og 67 Præstekjortler.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	468	016-NEH-011-006 Alle Perez's Efterkommere, der boede i Jerusalem, udgjorde 468 dygtige Mænd.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	928	016-NEH-011-008 og hans Brødre, dygtige Krigere. 928.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	822	016-NEH-011-012 og deres Brødre, der udførte Tjenesten i Templet, 822; og Adaja, en Søn af Jeroham, en Søn af Pelalja, en Søn af Amzi, en Søn af Zekarja, en Søn af Pasjhur, en Søn af Malkija,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	242	016-NEH-011-013 og hans Brødre, Overhovederne for Fædrenehusene, 242; og Amasjsaj, en Søn af Azar'el, en Søn af Azaj, en Søn af Mesjillemot, en Søn af Immer,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	128	016-NEH-011-014 og hans Brødre, dygtige Mænd 128. Deres Befalingsmand var Zabdiel, Gedolims Søn.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	284	016-NEH-011-018 Alle Leviterne i den hellige By udgjorde 284.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	172	016-NEH-011-019 Af Dørvogterne: Akkub, Talmon og deres Brødre, der holdt Vagt ved Portene, 172.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	127	017-EST-001-001 I Ahasverus's Dage - den Ahasverus, der herskede over Landene fra Indien til Ætiopien, 127 Lande -	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	180	017-EST-001-004 og han udfoldede sin kongelige Herligheds Rigdom og sin Magts Glans og Pragt for dem i mange Dage, 180 Dage.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10	017-EST-003-009 Hvis Kongen synes, lad der så udgå skriftlig Befaling til at udrydde dem; jeg vil da kunne tilveje Embedsmændene 10.000 Talenter Sølv til at lægge i Kongens Skatkamre.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	127	017-EST-008-009 Så blev Kongens Skrivere med det samme tilkaldt på den tre og tyvende Dag i den tredje Måned, det er Sivan Måned, og der blev skrevet, ganske som Mordokaj bød, til Jøderne og til Satraperne og Statholderne og Fyrsterne i Landene fra Indien til Ætiopien, 127 Landsdele, til hver Landsdel med dens egen Skrift og til hvert Folk på dets eget Sprog, også til Jøderne med deres egen Skrift og på deres eget Sprog.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	017-EST-009-006 I Borgen Susan dræbte og tilintetgjorde Jøderne 500 Mand;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	017-EST-009-012 Da sagde Kongen til Dronning Ester: I Borgen Susan har Jøderne dræbt og tilintetgjort 500 Mand, også Hamans ti Sønner; hvad må de da ikke have gjort i de andre kongelige Landsdele! Dog, hvad er din Bøn? Du skal få den opfyldt. Og hvad er yderligere dit Ønske? Det skal tilstås dig!	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	300	017-EST-009-015 Så sluttede Jøderne i Susan sig også sammen på den fjortende Dag i Adar Måned og dræbte 300 Mand i Susan. Men efter Byttet rakte de ikke Hænderne ud.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	75000	017-EST-009-016 Men også de andre Jøder i Kongens Lande sluttede sig sammen og værgede deres Liv og tog Hævn over deres Fjender og dræbte blandt deres Avindsmænd 75000	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	127	017-EST-009-030 Og han sendte Breve til alle Jøder i de 127 Lande i Ahasverus's Rige med Freds og Sandheds Ord	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	7000	018-JOB-001-003 og hans Ejendom udgjorde 7000 Stykker Småkvæg, 3000 Kameler, 500 Spand Okser, 500 Aseninder og såre mange Trælle, så han var mægtigere end alle Østens Sønner.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	14000	018-JOB-042-012 Og HERREN velsignede Jobs sidste Tid mere end hans første. Han fk 14000 Stykker Småkvæg, og 1000 Aseninder.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	140	018-JOB-042-016 Siden levede Job 140 År og så sine Børn og Børnebørn, fire Slægtled.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	16	019-PSA-034-015 Mod dem, der gør ondt, er HERRENs Åsyn for at slette deres Minde af Jorden; (vers 16 og 17 har byttet plads)	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	12000	019-PSA-060-001 (Til sangmesteren. Al-sjusjan-edut. En miktam af David til til indøvelse, dengang han kæmpede med Aram-Naharajim og Aram-Zoba, og Joab vendte tilbage og slog edomitterne i Saltdalen, 12000 mand.) Gud, du har stødt os fra dig, nedbrudt os, du vredes - vend dig til os igen;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	185000	023-ISA-037-036 Så gik HERRENs Engel ud og ihjelslog i Assyrernes Lejr 185000 Mand; og se, næste Morgen tidlig lå de alle døde.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	024-JER-033-024 Har du ikke lagt Mærke til, hvorledes dette Folk siger: "De to Slægter, HERREN udvalgte, har han forkastet!" Og de smæder mit Folk, fordi det i deres Øjne ikke 1ner er et Folk.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	024-JER-035-007 ej heller bygge Huse eller så Korn eller plante eller eje Vingårde, men I skal bo i Telte hele eders Liv, for at I må leve længe i det Land, I bor i som frem1uede.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	3023	024-JER-052-028 Følgende er Tallet på de Folk, Nebukadrezar bortførte i Fangenskab: I hans syvende År 3023 Judæere,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	832	024-JER-052-029 i Nebukadrezars attende År 832 fra Jerusalem;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	745	024-JER-052-030 i Nebukadrezars tre og tyvende År bortførte Nebuzaradan, Øversten for Livvagten, 745 af Judæerne; tilsammen 4600.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	190	026-EZE-004-005 Deres Misgernings År gør jeg til lige så mange Dage for dig, 190 Dage; så længe skal du bære Israels Huss Misgerning.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	40	026-EZE-004-006 Og når de er til Ende, læg dig så på din højre Side og bær Judas Huss Misgerning 40 Dage; for hvert År giver jeg dig en Dag.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	190	026-EZE-004-009 Og tag du dig Hvede, Byg, Bønner, Linser, Hirse og Spelt, kom det i et og samme Kar og lav dig Brød deraf; alle de Dage du ligger på Siden, 190 Dage, skal det være din Mad;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	026-EZE-042-016 han målte med Målestangen Østsiden; den var efter Målestangen 500 Alen; så vendte han sig og	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	026-EZE-042-017 målte med Målestangen Nordsiden til 500 Alen;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	026-EZE-042-018 så vendte han sig og målte med Målestangen Sydsiden til 500 Alen;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	026-EZE-042-019 og han vendte sig og målte med Målestangen Vestsiden til 500 Alen.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	026-EZE-042-020 Til alle fire Sider målte han Pladsen; og der var en Mur rundt om, 500 Alen lang og 500 Alen bred, til at sætte Skel mellem det, som er helligt, og det, som ikke er helligt.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25	026-EZE-045-001 Når I udskifter landet ved lodkastning, skal I yde Herren en Offerydelse, en hellig Del af Landet, 25 000 Alen lang og 20 000 Alen bred; hellig skal den være i hele sin Udstrækning.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	500	026-EZE-045-002 Deraf skal til Helligdommen fratages et firkantet Stykke på 500 Alen til alle Sider, omgivet af en åben Plads på 50 Alen.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25000	026-EZE-045-003 Af denne Strækning skal du afmåle et Stykke på 25000 Alens Længde og 10000 Alens Bredde; der skal Helligdommen, den højhellige, ligge.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25000	026-EZE-045-005 Et Stykke på 25000 Alens Længde og 10000 Alens Bredde skal som Grundejendom tilfalde Leviteme, som gør Tjeneste i Templet, til Byer at bo i.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	5000	026-EZE-045-006 Byens Grundejendom skal I give en Bredde af 5000 Alen og en Længde af 25000 Alen, samme Længde som den hellige Offerydelse; den skal tilhøre hele Israels Hus.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	200	026-EZE-045-015 et Lam fra Småkvæget af hver 200 som Offerydelse fra alle Israels Slægter til Afgrødeofre, Brændofre og Takofre for at skaffe eder Soning, lyder det fra den Herre HERREN	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	026-EZE-047-003 Derpå gik Manden ud mod Øst med en Målesnor i Hånden, og da han havde målt 1000 Alen, lod han mig gå gennem Vandet, Vand til Anklerne.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	026-EZE-047-004 Da han atter havde målt 1000 Alen, lod han mig på ny gå gennem Vandet, Vand til Knæene; og da han atter havde målt 1000 Alen, lod han mig på ny gå gennem Vandet, som der nåede til Hoften.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1000	026-EZE-047-005 Da han atter havde målt 1000 Alen, var det en Strøm, som jeg ikke kunde vade over, thi Vandet gik så højt, at man måtte svømme over; det var en Strøm, man ikke kunde vade over,	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25000	026-EZE-048-008 Langs Judas Område fra Østsiden til Vestsiden skal Offerydelsen, som I yder, være 25000 Alen bred og lige så lang som hver Stammelod fra Østsiden til Vestsiden; og Helligdommen skal ligge i Midten.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25	026-EZE-048-009 Offerydelsen, som I skal yde HERREN, skal være 25 000 Alen lang og 20800 Alen bred;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25	026-EZE-048-010 og den hellige Offerydelse skal tilhøre følgende: Præsterne skal have et Stykke, som mod Nord er 25 000 Alen langt, mod Vest 10.000 Alen bredt, mod Øst 10000 Alen bredt og mod Syd 25.000 Alen langt; og HERRENs Helligdom skal ligge i Midten.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25000	026-EZE-048-013 Og Leviterne skal have et lige så stort Område som Præsterne, 25000 Alen langt og 10000 Alen bredt; den samlede Længde bliver således 25000 Alen, Bredden 20000.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	5000	026-EZE-048-015 Det Stykke på 5000 Alens Bredde, som er tilovers af Offerydelsens Bredde langs de 25000 Alen, skal være uindviet Land og tilfalde Byen til Boliger og Græsgang, og Byen skal ligge i Midten;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4500	026-EZE-048-016 dens Mål skal være følgende: Nordsiden 4500 Alen, Sydsiden 4500, Østsiden 4500 og Vestsiden 4500.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	250	026-EZE-048-017 Byens Græsgang skal være 250 Alen mod Nord, 250 mod Syd, 250 mod Øst og 250 mod Vest.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	10000	026-EZE-048-018 Af det Stykke, som endnu er tilovers langs med den hellige Offerydelse, 10000 Alen mod Øst og 10000 mod Vest, skal Afgrøden tjene Byens indbyggere til Mad.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25000	026-EZE-048-020 I alt skal I som Offerydelse yde en Firkant på 25000 Alen, den hellige Offerydelse foruden Byens Grundejendom.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	25000	026-EZE-048-021 Men Resten skal tilfalde Fyrsten; hvad der ligger på begge Sider af den hellige Offerydelse og Byens Grundejendom, østen for de 25000 Alen hen til Østgrænsen og vesten for de 25000 Alen hen til Vestgrænsen, langs Stammelodderne, skal tilhøre Fyrsten; den hellige Offerydelse, Templets Helligdomn i Midten	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4500	026-EZE-048-031 På Nordsiden, der måler 4500 Alen, er der tre Porte, den første Rubens, den anden Judas og den tredje Levis;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4500	026-EZE-048-032 på Østsiden, der måler 4500 Alen, er der tre Porte, den første Josefs, den anden Benjamins og den tredje Dans;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4500	026-EZE-048-033 på Sydsiden, der måler 4500 Alen, er der tre Porte, den første Simeons, den anden Issakars og den tredje Zebulons;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	4500	026-EZE-048-034 på Vestsiden, der måler 4500 Alen, er der tre Porte, den første Gads, den anden Asers og den tredje Naftalis.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	18000	026-EZE-048-035 Omkredsen er 18000 Alen. Og Byens Navn skal herefter være: HERREN er der.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	120	027-DAN-006-001 Darius fandt for godt at lægge riget under 120 satraper, fordelt over hele Riget;	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	2300	027-DAN-008-014 Han svarede: "2300 Aftener og Morgener; så skal Helligdommen komme til sin Ret igen!"	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1290	027-DAN-012-011 Fra den Tid det daglige Offer ophæves og Ødelæggelsens Vederstyggelighed rejses, skal der gå 1290 Dage.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1335	027-DAN-012-012 Salig er den, der holder ud og oplever 1335 Dage.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	028-HOS-014-002 Tag Angersord med og vend jer atter til HERREN; sig til ham: "Tilgiv al vor Brøde, vær nådig! Vi betaler med Læbernes F1ugt.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	10000	032-JON-004-011 Og jeg skulde ikke ynkes over Nineve, den store Stad med mer end tolv Gange 10000 Mennesker, som ikke kan skelne højre fra venstre, og meget Kvæg."	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	038-ZEC-012-010 Og så udgyder jeg over Davids Hus og Jerusalems Indbyg- gere Nådens og Bønnens Ånd, så de ser hen til ham, de har gennemstunget, og sørger over ham, som man sørger over en enbåren Søn, og holder Klage over ham, son1 man holder Klage over den førstefødte.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Men da han var opstanden årle den første Dag i Ugen, åbenbaredes han først for Maria Magdalene, af hvem han havde uddrevet syv onde Ånder.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	8	044-ACT-007-060 Men han faldt på Knæ og råbte med høj Røst: "Herre, tilregn dem ikke denne Synd!" Og som han sagde dette, sov han hen. (Kap.8) 1 Men Saulus fandt Behag i hans Mord.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	6	044-ACT-024-025 Men da han talte med ham om Retfærdighed og Afholdenhed og den kommende Dom, blev Feliks forfærdet 6g svarede: "Gå for denne Gang; men når jeg får Tid, vil jeg lade dig kalde til mig."	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	1	058-HEB-002-002 Thi når det Ord, som taltes ved Engle, blev urokket, og hver Overtrædelse og Ulydighed f1k velforskyldt Løn,	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	666	066-REV-013-018 Her gælder det Visdom! Den, som har Forstand, udregne Dyrets Tal; thi det er et Menneskes Tal, og dets Tal er 666.	WARN
+Danish---Danish-Bible	NUMERALS	Aionian	1	066-REV-017-003 Og han førte mig i Ånden ud i en Ørken; og jeg så en Kvinde siddende på et skarlagenfarvet Dyr, som var fuldt af Bespottelsens Navne; det havde syv Hoveder og ti Hor1m.	ERROR
+Danish---Danish-Bible	NUMERALS	Aionian	count	664	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

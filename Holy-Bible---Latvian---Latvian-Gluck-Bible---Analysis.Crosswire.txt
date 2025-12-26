@@ -1,0 +1,430 @@
+# File Name: Holy-Bible---Holy-Bible---Latvian---Latvian-Gluck-Bible---Analysis.txt
+# File Size: 39857       
+# File Date: 12/13/2025 05:44:56
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Latviešu Glück Bībele
+# Bible Name English: Latvian Glück Bible 8th edition
+# Bible Language: Latviešu
+# Bible Language English: Latvian
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Johann Ernst Glück 7th edition with orthographic updates
+# Bible Source Version: 4/29/2019
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=LvGluck8
+# Bible Source Year: 1898
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Latvian---Latvian-Gluck-Bible	ENCODING	Source	Holy-Bible---Latvian---Latvian-Gluck-Bible---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Latvian---Latvian-Gluck-Bible	ENCODING	Aionian	Holy-Bible---Latvian---Latvian-Gluck-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Latvian---Latvian-Gluck-Bible	BYTES	Source	bytes / chars	6148666 / 5821701 (multi-byte)	NOTICE
+Latvian---Latvian-Gluck-Bible	BYTES	Aionian	bytes / chars	4470286 / 4145141 (multi-byte)	NOTICE
+Latvian---Latvian-Gluck-Bible	BYTES	SourceClean	bytes / chars	4427496 / 4102609 (multi-byte)	NOTICE
+Latvian---Latvian-Gluck-Bible	BYTES	AionianClean	bytes / chars	4466214 / 4141173 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Latvian---Latvian-Gluck-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Latvian---Latvian-Gluck-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Latvian---Latvian-Gluck-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Latvian---Latvian-Gluck-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Latvian---Latvian-Gluck-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Latvian---Latvian-Gluck-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Latvian---Latvian-Gluck-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Latvian---Latvian-Gluck-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Latvian---Latvian-Gluck-Bible	UNICODE	Summary	(-)Orginal	70	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Summary	(+)Aionian	68	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : ([)	2	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : ( )	689674	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (T)	18471	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (e)	209486	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (s)	275033	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (t)	172094	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (a)	344832	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (m)	112463	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (n)	171210	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (1)	27534	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (H)	1622	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (d)	90909	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (i)	280570	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (g)	38593	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (])	2	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (\n)	32359	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (G)	3005	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (0)	6724	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (:)	40792	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (I)	13688	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (k)	89665	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (u)	196916	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (D)	8187	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (v)	95648	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (r)	127671	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (b)	51441	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (z)	54527	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (.)	28011	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (2)	19313	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (U)	12206	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (,)	71326	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (p)	70449	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (l)	81064	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (3)	12490	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (c)	35083	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (L)	3407	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (o)	82819	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (4)	9334	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Latin Extended-A : (ē)	57689	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (5)	7183	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (V)	6898	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (6)	6593	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (7)	6023	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (8)	5879	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (9)	5738	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (-)	1140	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (S)	6198	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (A)	4861	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (R)	2096	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (E)	9069	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (K)	13250	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (B)	4809	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (P)	5629	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (()	1033	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : ())	1033	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (h)	12749	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (M)	7151	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (f)	1598	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (N)	3553	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (C)	3964	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (J)	14769	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	General Punctuation : (”)	1686	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (Z)	941	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (O)	284	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (x)	1254	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (y)	1202	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Latin-1 Supplement: ( )	34	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (*)	8	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	Basic Latin : (w)	1417	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source(-)	General Punctuation : (’)	1	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3615	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	16541	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	5436	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	6387	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	184573	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	250814	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	86293	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	188121	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	102846	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	597971	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	8782	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	265187	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	93387	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	117613	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	328394	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	88981	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	47666	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	159721	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	52914	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	27941	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	15714	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	164416	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	71332	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	70013	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	71973	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	30462	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	8437	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	3769	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	69785	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	36372	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	20821	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	57707	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	8161	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1141	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	10845	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	12823	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	5288	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	14352	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	6259	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	5642	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	5111	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (()	1301	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : ())	1300	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	1667	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	9247	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	1045	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	5628	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	14150	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	General Punctuation : (”)	1687	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	2475	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	6952	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	2	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : ( )	689674	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (T)	18471	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (e)	209486	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (s)	275033	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (t)	172094	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (a)	344832	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (m)	112463	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (n)	171210	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (1)	27534	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (H)	1622	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (d)	90909	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (i)	280570	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (g)	38593	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (])	2	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (\n)	32359	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (G)	3005	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (0)	6724	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (:)	40792	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (I)	13688	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ā)	93006	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (k)	89665	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (u)	196916	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (D)	8187	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (v)	95648	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (r)	127671	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ī)	53606	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (j)	55746	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (b)	51441	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (z)	54527	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (.)	28011	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (2)	19313	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (U)	12206	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (š)	35677	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (,)	71326	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (p)	70449	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ļ)	12158	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (l)	81064	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ū)	20757	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ņ)	28383	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (3)	12490	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (c)	35083	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (L)	3407	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (o)	82819	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (4)	9334	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ē)	57689	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ķ)	6226	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (5)	7183	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (V)	6898	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (6)	6593	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (7)	6023	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (;)	5610	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (8)	5879	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (9)	5738	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (-)	1140	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ģ)	2156	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (S)	6198	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (A)	4861	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (R)	2096	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (E)	9069	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (K)	13250	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (B)	4809	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ē)	775	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (č)	775	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (P)	5629	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (()	1033	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : ())	1033	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ģ)	254	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (h)	12749	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (M)	7151	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (f)	1598	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (?)	2875	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ā)	838	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (ž)	3701	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (N)	3553	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ī)	268	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (C)	3964	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (J)	14769	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (!)	1343	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Š)	1114	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	General Punctuation : (“)	1750	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	General Punctuation : (”)	1686	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (Z)	941	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ķ)	277	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (F)	679	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (O)	284	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (')	31	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ņ)	68	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ļ)	19	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (x)	1254	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ū)	61	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Č)	10	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (y)	1202	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin-1 Supplement: ( )	34	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (*)	8	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	General Punctuation : („)	64	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin Extended-A : (Ž)	26	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Latin-1 Supplement: (Ê)	1	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	Basic Latin : (w)	1417	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	General Punctuation : (‘)	3	NOTICE
+Latvian---Latvian-Gluck-Bible	UNICODE	Source	General Punctuation : (’)	1	NOTICE
+
+# VERSIFICATION
+Latvian---Latvian-Gluck-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Latvian---Latvian-Gluck-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	()	1033 / 1033	NOTICE
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	[]	2 / 2	NOTICE
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	()	1301 / 1300	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 2:10 (Senāk tur dzīvoja Emieši, lieli un stipri un gari ļaudis, tā kā tie Enaķieši. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 2:12 Un Seīrā senāk dzīvoja Horieši, bet Ēsava bērni tos izdzina un tos izdeldēja savā priekšā un dzīvoja viņu vietā, itin kā Israēls ir darījis savā iemantotā zemē, ko Tas Kungs viņiem ir devis.) 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 2:20 (Šī arīdzan top turēta par milžu ļaužu zemi; milži senāk tur dzīvoja, un Ammonieši tos sauca par Zamzumiešiem,	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 2:23 Un Aviešus, kas ciemos dzīvoja līdz Gacai, Kaftorieši, kas no Kaftora nāca, ir izdeldējuši un dzīvojuši viņu vietā.) 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Judges 20:27 Un Israēla bērni vaicāja To Kungu, (jo tur tanīs dienās bija Dieva derības šķirsts,	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Judges 20:28 Un Pinehas, Ārona dēla, Eleazara, dēls stāvēja tanīs dienās priekš viņa) un sacīja: vai man vēl būs iet karā pret Benjamina, sava brāļa, bērniem, jeb vai man būs atstāties? Un Tas Kungs sacīja: ceļaties, jo rīt Es tos došu tavā rokā.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	II Samuel 4:2 Un Saula dēlam bija divi vīri, sirotāju virsnieki, un vienam bija vārds Baēna un otram Rekabs, Rimona dēli, no Beērotas, no Benjamina bērniem, (jo Beērota arīdzan Benjamina bērniem top pieskaitīta; 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	II Samuel 4:3 Un tie Beērotieši bija bēguši uz Ģetaīm un bija tur piemitēji līdz šai dienai.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	I Kings 21:25 (Tāds kā Ahabs neviens nav bijis, kas sevi bija pārdevies, ļaunu darīt Tā Kunga acīs, jo viņa sieva viņu tā paveda.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	I Kings 21:26 Un viņš darīja daudz negantības, staigādams pakaļ elkadieviem, tā kā bija darījuši Amorieši, ko Tas Kungs bija izdzinis Israēla bērnu priekšā.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(2/1)	I Chronicles 5:1 Un Rūbena, Israēla pirmdzimušā dēla, bērni, (jo viņš bija tas pirmdzimušais, bet tāpēc, ka tas bija sagānījis sava tēva gultu, viņa pirmdzimtība tapa dota Jāzepa, Israēla dēla, bērniem, bet to tik neskaitīja (cilts rakstos) par pirmdzimto. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	I Chronicles 5:2 Jo Jūda palika varens starp saviem brāļiem, un no viņa bija tas valdnieks, bet Jāzepam palika tā pirmdzimtība).	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Esther 1:13 Un ķēniņš sacīja uz tiem gudriem, kas tos laikus prata, - (jo tā ķēniņa lietas bija apspriežamas no visiem likumu un tiesu zinātājiem;	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Esther 1:14 Bet šie bija tie tuvākie pie viņa: Karzenus, Zetars, Admatus, Taršiš, Meres, Marzenus, Memukans, septiņi Persiešu un Mēdiešu lielkungi, kas drīkstēja redzēt ķēniņa vaigu un sēdēja tai augstākā vietā valstī):	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Proverbs 2:6 (Jo Tas Kungs dod gudrību, no viņa mutes nāk atzīšana un saprašana: 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Proverbs 2:8 Sargādams taisnības ceļus un pasargādams savu taisno tekas;) 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Proverbs 2:18 (Jo viņas nams pašķiebjās uz nāvi, un viņas ceļi pie miroņiem; 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Proverbs 2:19 Visi, kas pie tās ieiet, negriežas atpakaļ, nedz atrod dzīvības ceļus;) 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Jeremiah 39:1 Un notikās, kad Jeruzāleme bija uzņemta: (Cedeķijas, Jūda ķēniņa, devītā gadā, desmitā mēnesī, Nebukadnecars, Bābeles ķēniņš, un viss viņa karaspēks nāca pret Jeruzālemi un apmetās ap viņu; 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Jeremiah 39:2 Vienpadsmitā Cedeķijas gadā, ceturtā mēnesī, devītā mēneša dienā tie ielauzās pilsētā) 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Matthew 9:20 (Un redzi, viena sieva, kas divpadsmit gadus bijusi asins sērdzīga, nāca no aizmugures un aizskāra Viņa drēbju vīli. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Matthew 9:22 Tad Jēzus atgriezās un to ieraudzījis sacīja: “Ņemies drošu sirdi, Mana meita! Tava ticība tev palīdzējusi.” Un tā sieva palika vesela tanī pašā stundā.) 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	John 5:3 Tanīs gulēja liels pulks neveselu, aklu, tizlu, nokaltušu, (kas gaidīja uz ūdens kustēšanu. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	John 5:4 Jo savā laikā viens eņģelis nolaidās tai dīķī un to ūdeni pakustināja. Kurš tad iekāpa pirmais pēc ūdens kustināšanas, tas tapa vesels, lai gulēja kādā sērgā gulēdams.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	John 7:53 (Un ikviens nogāja savā namā. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	John 8:11 Un tā sacīja: “Neviens, Kungs!” Un Jēzus uz to sacīja: “Tad arī Es tevi nepazudinu: ej un negrēko vairs.”) 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Romans 1:3 Par Savu Dēlu, (kas pēc miesas ir cēlies no Dāvida sēklas. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Romans 1:4 Un pēc tā svētīšanas Gara caur augšāmcelšanos no miroņiem spēkā ir parādīts Dieva dēls), par Jēzu Kristu, mūsu Kungu, 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Romans 2:13 (Jo ne bauslības klausītāji Dieva priekšā taisni, bet bauslības darītāji taps taisnoti. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Romans 2:15 Tie tad parāda, bauslības darbu esam ierakstītu viņu sirdīs caur to, ka viņu zināma sirds tiem liecību dod, un tās domas savā starpā vai apsūdzēs, vai arī aizbildinās,) - 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	Ephesians 4:9 (Bet tas vārds: Viņš ir uzkāpis, ko citu tas saka nekā: Viņš arī papriekš ir nokāpis tais jo zemās zemes vietās? 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	Ephesians 4:10 Kas ir nokāpis, tas ir Tas Pats, kas arī uz augšu kāpis, tālu pār visām debesīm, ka Tas visu piepildītu.) 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(1/0)	I John 5:7 Jo trīs ir, kas liecību dod, (debesīs, Tas Tēvs, Tas Vārds un Tas Svētais Gars: un šie trīs ir viens. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Source	(0/1)	I John 5:8 Un trīs ir, kas liecību dod virs zemes,) Tas Gars un tas ūdens un tās asinis: un šie trīs ir kopā. 	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Senāk tur dzīvoja Emieši, lieli un stipri un gari ļaudis, tā kā tie Enaķieši.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Un Seīrā senāk dzīvoja Horieši, bet Ēsava bērni tos izdzina un tos izdeldēja savā priekšā un dzīvoja viņu vietā, itin kā Israēls ir darījis savā iemantotā zemē, ko Tas Kungs viņiem ir devis.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Šī arīdzan top turēta par milžu ļaužu zemi; milži senāk tur dzīvoja, un Ammonieši tos sauca par Zamzumiešiem,	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Un Aviešus, kas ciemos dzīvoja līdz Gacai, Kaftorieši, kas no Kaftora nāca, ir izdeldējuši un dzīvojuši viņu vietā.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Un Israēla bērni vaicāja To Kungu, (jo tur tanīs dienās bija Dieva derības šķirsts,	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 Un Pinehas, Ārona dēla, Eleazara, dēls stāvēja tanīs dienās priekš viņa) un sacīja: vai man vēl būs iet karā pret Benjamina, sava brāļa, bērniem, jeb vai man būs atstāties? Un Tas Kungs sacīja: ceļaties, jo rīt Es tos došu tavā rokā.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 Un Saula dēlam bija divi vīri, sirotāju virsnieki, un vienam bija vārds Baēna un otram Rekabs, Rimona dēli, no Beērotas, no Benjamina bērniem, (jo Beērota arīdzan Benjamina bērniem top pieskaitīta;	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 Un tie Beērotieši bija bēguši uz Ģetaīm un bija tur piemitēji līdz šai dienai.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Tāds kā Ahabs neviens nav bijis, kas sevi bija pārdevies, ļaunu darīt Tā Kunga acīs, jo viņa sieva viņu tā paveda.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 Un viņš darīja daudz negantības, staigādams pakaļ elkadieviem, tā kā bija darījuši Amorieši, ko Tas Kungs bija izdzinis Israēla bērnu priekšā.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(2/1)	013 1CH 005 001 Un Rūbena, Israēla pirmdzimušā dēla, bērni, (jo viņš bija tas pirmdzimušais, bet tāpēc, ka tas bija sagānījis sava tēva gultu, viņa pirmdzimtība tapa dota Jāzepa, Israēla dēla, bērniem, bet to tik neskaitīja (cilts rakstos) par pirmdzimto.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Jo Jūda palika varens starp saviem brāļiem, un no viņa bija tas valdnieks, bet Jāzepam palika tā pirmdzimtība).	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Un ķēniņš sacīja uz tiem gudriem, kas tos laikus prata, - (jo tā ķēniņa lietas bija apspriežamas no visiem likumu un tiesu zinātājiem;	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 Bet šie bija tie tuvākie pie viņa: Karzenus, Zetars, Admatus, Taršiš, Meres, Marzenus, Memukans, septiņi Persiešu un Mēdiešu lielkungi, kas drīkstēja redzēt ķēniņa vaigu un sēdēja tai augstākā vietā valstī):	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(2/1)	019 PSA 009 016 Tas Kungs ir parādījies, Viņš tiesu nesis, bezdievīgais ir satīstījies savā roku darbā: (kokļu skaņa. (Sela)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 002 006 (Jo Tas Kungs dod gudrību, no viņa mutes nāk atzīšana un saprašana:	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 002 008 Sargādams taisnības ceļus un pasargādams savu taisno tekas;)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 002 018 (Jo viņas nams pašķiebjās uz nāvi, un viņas ceļi pie miroņiem;	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 002 019 Visi, kas pie tās ieiet, negriežas atpakaļ, nedz atrod dzīvības ceļus;)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 039 001 Un notikās, kad Jeruzāleme bija uzņemta: (Cedeķijas, Jūda ķēniņa, devītā gadā, desmitā mēnesī, Nebukadnecars, Bābeles ķēniņš, un viss viņa karaspēks nāca pret Jeruzālemi un apmetās ap viņu;	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 039 002 Vienpadsmitā Cedeķijas gadā, ceturtā mēnesī, devītā mēneša dienā tie ielauzās pilsētā)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	040 MAT 009 020 (Un redzi, viena sieva, kas divpadsmit gadus bijusi asins sērdzīga, nāca no aizmugures un aizskāra Viņa drēbju vīli.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	040 MAT 009 022 Tad Jēzus atgriezās un to ieraudzījis sacīja: “Ņemies drošu sirdi, Mana meita! Tava ticība tev palīdzējusi.” Un tā sieva palika vesela tanī pašā stundā.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 005 003 Tanīs gulēja liels pulks neveselu, aklu, tizlu, nokaltušu, (kas gaidīja uz ūdens kustēšanu.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 005 004 Jo savā laikā viens eņģelis nolaidās tai dīķī un to ūdeni pakustināja. Kurš tad iekāpa pirmais pēc ūdens kustināšanas, tas tapa vesels, lai gulēja kādā sērgā gulēdams.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 007 053 (Un ikviens nogāja savā namā.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 008 011 Un tā sacīja: “Neviens, Kungs!” Un Jēzus uz to sacīja: “Tad arī Es tevi nepazudinu: ej un negrēko vairs.”)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 001 003 Par Savu Dēlu, (kas pēc miesas ir cēlies no Dāvida sēklas.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 001 004 Un pēc tā svētīšanas Gara caur augšāmcelšanos no miroņiem spēkā ir parādīts Dieva dēls), par Jēzu Kristu, mūsu Kungu,	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (Jo ne bauslības klausītāji Dieva priekšā taisni, bet bauslības darītāji taps taisnoti.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 Tie tad parāda, bauslības darbu esam ierakstītu viņu sirdīs caur to, ka viņu zināma sirds tiem liecību dod, un tās domas savā starpā vai apsūdzēs, vai arī aizbildinās,) -	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Bet tas vārds: Viņš ir uzkāpis, ko citu tas saka nekā: Viņš arī papriekš ir nokāpis tais jo zemās zemes vietās?	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 Kas ir nokāpis, tas ir Tas Pats, kas arī uz augšu kāpis, tālu pār visām debesīm, ka Tas visu piepildītu.)	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(1/0)	062 1JO 005 007 Jo trīs ir, kas liecību dod, (debesīs, Tas Tēvs, Tas Vārds un Tas Svētais Gars: un šie trīs ir viens.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Aionian	(0/1)	062 1JO 005 008 Un trīs ir, kas liecību dod virs zemes,) Tas Gars un tas ūdens un tās asinis: un šie trīs ir kopā.	WARN
+Latvian---Latvian-Gluck-Bible	ENCLOSURES	Summary	lines	34 / 35	WARN
+
+# UNEXPECTED
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(*)	8/0	WARN
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Latvian---Latvian-Gluck-Bible	UNEXPECTED	Source/Aionian	Summary	8/0	WARN
+
+# NUMERALS
+Latvian---Latvian-Gluck-Bible	NUMERALS	Source	0	Exodus 23:30 30, Es pamazām tos izdzīšu tavā priekšā, tiekams tu pieaugsi un to zemi varēsi turēt.	WARN
+Latvian---Latvian-Gluck-Bible	NUMERALS	Source	2	Psalms 11:1 Dāvida dziesma. Dziedātāju vadonim. 2. Es paļaujos uz To Kungu. Kā tad jūs sakāt uz manu dvēseli: skrej uz saviem kalniem kā putns! 	WARN
+Latvian---Latvian-Gluck-Bible	NUMERALS	Source	4	Zechariah 13:4 4, Un notiks tai dienā, ka pravieši kaunēsies ikviens par savu parādīšanu, to pasludināt, un vairs neapvilks spalvas mēteli uz meliem. 	WARN
+Latvian---Latvian-Gluck-Bible	NUMERALS	Source	count	3	WARN
+Latvian---Latvian-Gluck-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Bet kad Viņš bija uzcēlies pirmajā nedēļas dienā it agri, tad Viņš parādījās papriekš Marijai Madaļai, no kuras Viņš septiņus velnus bija izdzinis.	WARN
+Latvian---Latvian-Gluck-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

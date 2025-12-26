@@ -1,0 +1,384 @@
+# File Name: Holy-Bible---Holy-Bible---Serbian---Serbian-Ekavski-Bible---Analysis.txt
+# File Size: 30631       
+# File Date: 12/13/2025 05:57:48
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Сербиан Библе, Даничић Караџић
+# Bible Name English: Serbian Bible, Karadzic/Danicic
+# Bible Language: Cрпски
+# Bible Language English: Serbian
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Karadžić New Testament, Daničić Old Testament
+# Bible Source Version: 6/19/2017
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=SrKDEkavski
+# Bible Source Year: 1847, 1865
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Serbian---Serbian-Ekavski-Bible	ENCODING	Source	Holy-Bible---Serbian---Serbian-Ekavski-Bible---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCODING	Aionian	Holy-Bible---Serbian---Serbian-Ekavski-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Serbian---Serbian-Ekavski-Bible	BYTES	Source	bytes / chars	6170858 / 3701409 (multi-byte)	NOTICE
+Serbian---Serbian-Ekavski-Bible	BYTES	Aionian	bytes / chars	6129389 / 3658926 (multi-byte)	NOTICE
+Serbian---Serbian-Ekavski-Bible	BYTES	SourceClean	bytes / chars	6066615 / 3597166 (multi-byte)	NOTICE
+Serbian---Serbian-Ekavski-Bible	BYTES	AionianClean	bytes / chars	6124625 / 3654988 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Serbian---Serbian-Ekavski-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Serbian---Serbian-Ekavski-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Serbian---Serbian-Ekavski-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Serbian---Serbian-Ekavski-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Serbian---Serbian-Ekavski-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Serbian---Serbian-Ekavski-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Serbian---Serbian-Ekavski-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Serbian---Serbian-Ekavski-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Summary	(-)Orginal	61	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Summary	(+)Aionian	63	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : ([)	2	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : ( )	627783	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (T)	406	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (e)	24998	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (s)	24328	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (t)	7681	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (a)	16631	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (m)	9619	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (n)	11685	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (1)	27509	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (H)	631	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (d)	1946	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (i)	15621	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (g)	2433	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (])	2	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (\n)	32332	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (G)	1740	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (0)	6714	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (:)	40889	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (2)	19295	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (,)	48763	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (3)	12474	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (4)	9313	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (5)	7181	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (6)	6589	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (7)	6020	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (8)	5874	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (9)	5732	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (-)	417	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (E)	3437	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (x)	1254	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (o)	13163	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (u)	8796	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (()	72	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : ())	72	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (L)	2223	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (v)	2261	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (c)	4622	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (N)	1794	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (b)	3771	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (r)	10065	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (D)	1364	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (y)	1202	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (J)	5582	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (h)	11207	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (R)	967	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (I)	10577	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (S)	1811	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (l)	9152	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (K)	1584	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (C)	2654	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (z)	1608	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (P)	3870	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (f)	552	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (k)	3368	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (A)	1191	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (O)	23	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (M)	1967	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (Z)	283	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (p)	437	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source(-)	Basic Latin : (w)	1416	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130593	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42444	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124408	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	2350	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	10914	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	3679	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	554920	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31101	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31089	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	48771	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	8561	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	418	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (()	338	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	6461	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	129	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	99	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	149	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	69	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : ())	338	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	6691	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2585	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1263	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3508	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	4064	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	1959	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4975	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4159	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2756	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	9154	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2686	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	3278	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4320	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	4121	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	1450	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	3884	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	202	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	17	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	114	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	247	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	7	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	3	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : ( )	627783	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (T)	406	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (e)	24998	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (s)	24328	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (t)	7681	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (a)	16631	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (m)	9619	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (n)	11685	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (1)	27509	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (H)	631	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (d)	1946	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (i)	15621	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (g)	2433	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (])	2	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (\n)	32332	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (G)	1740	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (0)	6714	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (:)	40889	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (У)	1128	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (п)	55841	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (о)	244488	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (ч)	21017	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (е)	250443	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (т)	94634	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (к)	68385	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (у)	102146	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (с)	126347	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (в)	109611	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (р)	103837	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (и)	246501	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Б)	4826	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (г)	47552	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (н)	106811	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (б)	31285	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (з)	40492	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (м)	89313	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (љ)	15553	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (.)	26489	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (2)	19295	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (А)	11061	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (а)	264607	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (ш)	35647	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (л)	49554	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (ј)	67164	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (,)	48763	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (д)	106618	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (;)	9799	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (х)	23411	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (ж)	13285	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (3)	12474	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (И)	14350	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Н)	3346	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (4)	9313	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (5)	7181	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (ћ)	21258	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (6)	6589	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (П)	2535	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (7)	6020	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (8)	5874	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (9)	5732	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (О)	3318	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (ђ)	7687	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (њ)	17361	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (ц)	16227	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Р)	1094	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Д)	3230	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Е)	1615	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Т)	4503	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Г)	10217	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Ј)	8172	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Ф)	831	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Х)	1565	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (ф)	1674	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (С)	5097	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (З)	1848	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (?)	3222	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (М)	3578	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Ч)	335	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (К)	2654	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Ж)	120	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Ш)	571	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (!)	1188	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Л)	783	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (В)	2044	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (-)	417	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Њ)	1626	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Ц)	106	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Љ)	99	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (E)	3437	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (x)	1254	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (o)	13163	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (u)	8796	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (џ)	13	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (()	72	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : ())	72	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (L)	2223	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (v)	2261	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (c)	4622	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (N)	1794	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (b)	3771	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (r)	10065	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (D)	1364	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (y)	1202	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (J)	5582	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (h)	11207	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Ћ)	32	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (R)	967	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (I)	10577	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (S)	1811	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (l)	9152	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (K)	1584	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (C)	2654	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (z)	1608	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (P)	3870	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (")	66	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (f)	552	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (k)	3368	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (A)	1191	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (O)	23	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (M)	1967	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (Z)	283	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (p)	437	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Basic Latin : (w)	1416	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNICODE	Source	Cyrillic : (Ђ)	3	NOTICE
+
+# VERSIFICATION
+Serbian---Serbian-Ekavski-Bible	VERSIFICATION	Summary	missing	0	NOTICE
+Serbian---Serbian-Ekavski-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	()	72 / 72	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	[]	2 / 2	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	()	338 / 338	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 2:10 (Пре живљаху онде Емеји, народ велик и јак и висок као Енакими;	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 2:12 И Хореји живљаху пре у Сиру, али их синови Исавови истераше и истребише испред себе и населише се на њихово место, као што учини Израиљ у земљи свог наследства које му даде Господ.)	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	(1/0)	Deuteronomy 2:20 (И за њу се мислило да је земља дивовска; у њој пре живљаху дивови, које Амонци зваху Замзуми.	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	(0/1)	Deuteronomy 2:23 И Авеје, који живљаху у Асироту па до Газе, истребише Кафтореји, који изађоше од Кафтора, и населише се на њихово место.)	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	(1/0)	Esther 1:13 И рече цар мудрацима који разумеваху времена (јер тако цар изношаше ствари пред све који разумеваху закон и правду,	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	(0/1)	Esther 1:14 А најближи до њега беху Карсена, Сетар, Адмата, Тарсис, Мерес, Марсена и Мемукан, седам кнезова персијских и мидских, који гледаху лице царево и сеђаху на првим местима у царству):	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	(1/0)	Romans 2:13 (Јер пред Богом нису праведни они који слушају закон, него ће се они оправдати који га творе;	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Source	(0/1)	Romans 2:15 Они доказују да је оно написано у срцима њиховим што се чини по закону, будући да им савест сведочи, и мисли међу собом туже се или правдају)	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Пре живљаху онде Емеји, народ велик и јак и висок као Енакими;	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 И Хореји живљаху пре у Сиру, али их синови Исавови истераше и истребише испред себе и населише се на њихово место, као што учини Израиљ у земљи свог наследства које му даде Господ.)	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (И за њу се мислило да је земља дивовска; у њој пре живљаху дивови, које Амонци зваху Замзуми.	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 И Авеје, који живљаху у Асироту па до Газе, истребише Кафтореји, који изађоше од Кафтора, и населише се на њихово место.)	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 И рече цар мудрацима који разумеваху времена (јер тако цар изношаше ствари пред све који разумеваху закон и правду,	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 А најближи до њега беху Карсена, Сетар, Адмата, Тарсис, Мерес, Марсена и Мемукан, седам кнезова персијских и мидских, који гледаху лице царево и сеђаху на првим местима у царству):	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (Јер пред Богом нису праведни они који слушају закон, него ће се они оправдати који га творе;	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 Они доказују да је оно написано у срцима њиховим што се чини по закону, будући да им савест сведочи, и мисли међу собом туже се или правдају)	WARN
+Serbian---Serbian-Ekavski-Bible	ENCLOSURES	Summary	lines	8 / 8	NOTICE
+
+# UNEXPECTED
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Serbian---Serbian-Ekavski-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Serbian---Serbian-Ekavski-Bible	NUMERALS	Source	count	0	NOTICE
+Serbian---Serbian-Ekavski-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) А Исус уставши рано у први дан недеље јави се најпре Марији Магдалини, из које је истерао седам ђавола.	WARN
+Serbian---Serbian-Ekavski-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

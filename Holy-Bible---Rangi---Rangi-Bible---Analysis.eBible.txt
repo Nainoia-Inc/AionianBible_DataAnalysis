@@ -1,0 +1,493 @@
+# File Name: Holy-Bible---Holy-Bible---Rangi---Rangi-Bible---Analysis.txt
+# File Size: 60813       
+# File Date: 12/13/2025 05:55:12
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Kɨlaangi
+# Bible Name English: Rangi Bible
+# Bible Language: Kɨlaangi
+# Bible Language English: Rangi
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Wycliffe Bible Translators
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=lag
+# Bible Source Year: 2023
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Rangi---Rangi-Bible	ENCODING	Source	Holy-Bible---Rangi---Rangi-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Rangi---Rangi-Bible	ENCODING	Aionian	Holy-Bible---Rangi---Rangi-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Rangi---Rangi-Bible	BYTES	Source	bytes / chars	1370052 / 1210472 (multi-byte)	NOTICE
+Rangi---Rangi-Bible	BYTES	Aionian	bytes / chars	1427933 / 1268167 (multi-byte)	NOTICE
+Rangi---Rangi-Bible	BYTES	SourceClean	bytes / chars	1369243 / 1209663 (multi-byte)	NOTICE
+Rangi---Rangi-Bible	BYTES	AionianClean	bytes / chars	1425690 / 1265956 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Rangi---Rangi-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Rangi---Rangi-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Rangi---Rangi-Bible	AIONIAN	Aionian	book-defined-not-exist	64	NOTICE
+Rangi---Rangi-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Rangi---Rangi-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Rangi---Rangi-Bible	AIONIAN	Aionian	aionian-verses	200	NOTICE
+Rangi---Rangi-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Rangi---Rangi-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Rangi---Rangi-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Rangi---Rangi-Bible	UNICODE	Summary	(-)Orginal	50	NOTICE
+Rangi---Rangi-Bible	UNICODE	Summary	(+)Aionian	53	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (M)	10202	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (A)	5015	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (T)	3216	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : ( )	176261	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (1)	8093	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (:)	7964	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (h)	13753	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (n)	55494	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (o)	45015	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (k)	44790	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (m)	41086	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (b)	7349	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (r)	41668	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (a)	171127	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (y)	31360	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (i)	56835	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (l)	17857	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (e)	50292	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (s)	24948	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (u)	25016	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (t)	24760	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (,)	18549	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (d)	8858	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (.)	11046	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (\n)	7957	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (2)	5172	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (p)	3018	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (3)	2754	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (P)	1138	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (H)	2453	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (4)	2249	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (5)	1839	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (R)	1605	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (O)	2253	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (6)	1573	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (7)	1399	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (8)	1291	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (9)	1249	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (0)	1398	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (L)	1690	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (E)	1413	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (J)	1469	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (()	136	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : ())	136	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (V)	2102	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (c)	4853	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (g)	8336	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (G)	266	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	General Punctuation : ( )	17	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source(-)	Basic Latin : (-)	2	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	32892	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	9570	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	31820	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	10203	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	5024	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	3218	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	9077	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	13754	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	160655	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	55695	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	45099	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	44791	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	41093	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	7359	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	41679	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	171326	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	31374	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	57081	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	17862	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	50325	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	25061	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	25018	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	24766	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	18519	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	8874	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	11047	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	7954	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	6507	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	3019	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	3677	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	1143	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	2464	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	3473	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	1604	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	2252	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	3435	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	1685	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	1748	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1506	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	1695	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	1412	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	1468	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	2101	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	4855	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	8549	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	278	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	9	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (()	204	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : ())	204	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	3	NOTICE
+Rangi---Rangi-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (M)	10202	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (A)	5015	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (T)	3216	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : ( )	176261	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (1)	8093	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (:)	7964	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin Extended-B : (Ɨ)	192	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (h)	13753	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	IPA Extensions : (ɨ)	49707	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (n)	55494	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (o)	45015	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (k)	44790	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	IPA Extensions : (ʉ)	66027	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (m)	41086	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (b)	7349	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (r)	41668	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (a)	171127	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (y)	31360	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (i)	56835	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (l)	17857	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (w)	30971	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (Y)	3441	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin-1 Supplement: (é)	4533	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (e)	50292	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (s)	24948	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (u)	25016	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (K)	3875	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (t)	24760	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (,)	18549	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (D)	174	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	2513	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (d)	8858	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin-1 Supplement: (á)	9839	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (.)	11046	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (\n)	7957	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (2)	5172	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (j)	12116	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (v)	31359	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (I)	1152	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (p)	3018	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Combining Diacritical Marks : (́)	2606	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (3)	2754	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (P)	1138	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (S)	1656	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin-1 Supplement: (í)	2597	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (H)	2453	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	1555	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (4)	2249	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (N)	2090	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (5)	1839	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (B)	772	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (f)	3699	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (R)	1605	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (O)	2253	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (6)	1573	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (U)	1216	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (7)	1399	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin-1 Supplement: (Á)	33	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (8)	1291	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (9)	1249	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (0)	1398	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Spacing Modifier Letters : (ˆ)	9290	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (L)	1690	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (E)	1413	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (J)	1469	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (()	136	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : ())	136	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (V)	2102	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (c)	4853	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	General Punctuation : (“)	1896	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (g)	8336	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	General Punctuation : (”)	1896	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (?)	1066	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	General Punctuation : (‘)	417	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	General Punctuation : (’)	417	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Spacing Modifier Letters : (ʼ)	625	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin Extended-B : (Ʉ)	750	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (G)	266	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	General Punctuation : ( )	17	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (!)	607	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (F)	132	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (C)	1850	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (W)	193	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : ([)	26	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (])	26	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin-1 Supplement: (Í)	17	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (x)	1	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Latin-1 Supplement: (É)	8	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	General Punctuation : (…)	1	NOTICE
+Rangi---Rangi-Bible	UNICODE	Source	Basic Latin : (-)	2	NOTICE
+
+# VERSIFICATION
+Rangi---Rangi-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Rangi---Rangi-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-026	WARN
+Rangi---Rangi-Bible	VERSIFICATION	Summary	missing	2	WARN
+Rangi---Rangi-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Rangi---Rangi-Bible	ENCLOSURES	Source	()	136 / 136	NOTICE
+Rangi---Rangi-Bible	ENCLOSURES	Source	[]	26 / 26	NOTICE
+Rangi---Rangi-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Rangi---Rangi-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	()	204 / 204	NOTICE
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[]	26 / 26	NOTICE
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	MAT 18:10 Mʉlaange neeja, karɨ musínanalaa ʉmwɨ wa ava vadúúdi tʉkʉ, sa nɨ kʉvawyɨɨra niise, mirimʉ yaavo miija, sikʉ joosi yoónaa kisho cha Taáta waanɨ wa kurumwii. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	MAT 18:11 Sa Mwaana wa Mʉʉntʉ ʉʉja jo saakɨra no lamurirya kɨra ˆcharɨmɨra.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 Maa kaa, nɨ mpolaɨ kʉrɨ nyuunyu vakiindya va Miiro na nyuunyu Mafarisáayo, nyuunyu vakweembi! Nyuunyu mootuuba vachʉʉngɨra vaantʉ weerwii ya Ʉtemi wa Kurumwii. Nyuunyu veeneevyo sɨ mwɨɨ́ngɨraa tʉkʉ, na vara ˆvoosaaka kwɨɨngɨra mʉvakɨ́tɨraa. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 Nɨ mpolaɨ kʉrɨ nyuunyu vakiindya va Miiro na nyuunyu Mafarisáayo vakweembi. Nyuunyu mwanyáhɨraa nyuumba ja valala, na kwa ʉkweembi mwamʉlóombaa Mʉlʉʉngʉ vilɨɨhɨ. Sa jeyyo, heewa mʉrɨ irya ˆralookya.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	MAR 7:15 Kusiina kɨɨntʉ ˆkɨmwɨɨ́ngɨraa mʉʉntʉ ˆkɨdáhaa mʉbweeyya ave na njeo tʉkʉ. Kɨrɨ vyoova jeyyo, ˆkimufúmaa mutimii noo kɨmʉbwéeyyaa ave na njeo. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	MAR 7:16 ˆArɨ na matu nɨ ateere.]”	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	MAR 9:43 Na koonɨ iyaanja raako rakʉháandire ʉtʉmame ʉvɨ, rɨteme rɨdʉmʉke. Nɨ pwee kɨɨngɨra na nkaaswii ʉrɨ na iyaanja rɨmwɨ, kʉlookya kʉdoma na mootwii wa Jehénamu ʉra sɨ ˆurímaa, ʉrɨ na mayaanja yoosi. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	MAR 9:44 Ʉko noo kʉʉntʉ ngʼonyu sɨ ˆjikwíjaa na mooto sɨ ˆurímaa.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	MAR 9:45 Kei, koonɨ ijeo raako rakʉháandire ʉtʉmame ʉvɨ, rɨteme rɨdʉmʉke. Nɨ pwee kɨɨngɨra na nkaaswii ʉrɨ na ijeo rɨmwɨ, kʉlookya kʉfweitɨrwa na mootwii wa Jehénamu ʉrɨ na majeo yavɨrɨ. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	MAR 9:46 Ʉko noo kʉʉntʉ ngʼonyu sɨ ˆjikwíjaa na mooto sɨ ˆurímaa.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	MAR 11:25 Mpɨɨndɨ ˆmʉrɨ kɨɨma sa mʉmʉloombe Mʉlʉʉngʉ, koonɨ ʉrɨ na kɨɨntʉ mutimii kwa mʉʉntʉ wɨɨngɨ, mʉsei ʉwo mʉʉntʉ, ‘Ʉvɨ waako wasírire,’ sa Taáta waanyu wa kurumwii, avasee baa nyuunyu, ‘Ʉvɨ waanyu wasírire.’ [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	MAR 11:26 Maa kaa, koonɨ sɨ moovasea viivaanyu, ‘Ʉvɨ wasírire,’ baa Taáta waanyu wa kurumwii sɨ arɨ sea, ‘Ʉvɨ waanyu wasírire tʉkʉ.’”]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	MAR 15:27 Viívi vavɨrɨ vakaningʼiniwa mʉsaláabii ne, kɨra mʉʉntʉ mʉsaláabii waachwe, ʉmwɨ ivaru ra kʉlʉme na wɨɨngɨ ivaru ra kʉmooso. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	MAR 15:28 Masáare ˆYarɨ Mpeho yakakiimana ja ˆvyeene yalʉʉsa, “Avalwa hamwɨ na ˆvawúnaa miiro.”]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	LUK 17:35 Vaantʉ vaki vavɨrɨ ˆvoosha hamwɨ, ʉmwɨ sʉmʉlwa arɨ na wɨɨngɨ rekwa arɨ. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	LUK 17:36 Vaantʉ valʉme vavɨrɨ kʉva varɨ vootʉmama iwundii, ʉmwɨ sʉmʉlwa arɨ na wɨɨngɨ rekwa arɨ.]”	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	LUK 22:42 yoosea, “Taáta! Koonɨ viri kweerya mʉtɨma, nooloomba wʉʉnseyyirye ndʉvo ɨhɨ ya uturikiri. Maa kaa, karɨ vive ja ˆveene noosaaka tʉkʉ, vive ja ˆvyeene woosaaka weewe.” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	LUK 22:44 Yéesu akatuuba loomba mʉnʉmʉʉnʉ na ajáa atɨɨte uturikiri na alʉngʉrɨráa nɨ ʉsʉʉngʉ. Na mpɨɨndɨ ˆaloombáa, irʉtɨra raachwe rɨkava ja matóonti ya sakami yoowya na ɨsɨ.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	LUK 23:16 Haaha nɨ lairirya niise avawe mɨjeléedi, maa de nɨmʉrekere.” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	LUK 23:17 Piláato ajáa atɨɨte tʉʉva yo mʉchʉngʉrɨra mʉʉntʉ ʉmwɨ ˆachuungwa mpɨɨndɨ ja ngovi ya Paásika.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	JOH 5:3 Aho balásii, valaaláa valwɨ́ɨrɨ ˆvarɨ foo, baa ja vahoku, vivete, na vaantʉ ˆvaakwya iyandiyandi. [Vawojeráa maaji yatikʉlwe.	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	JOH 5:4 Sa kwatɨɨte mpɨɨndɨ jimwi murimʉ mʉʉja wa Ijʉva wakiimáa, ʉkatikʉla maaji. Na mʉʉntʉ ˆajáa wa ncholo kɨɨngɨra na luujii maaji ˆyakatɨkʉlwe, aholáa ʉlwɨ́ɨrɨ waachwe wowoosi ˆajáa nowo.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	ACT 8:36 Mpɨɨndɨ ˆvayeendáa, vakafika haantʉ ˆkʉjáa na maaji. Ʉra Mweesiópia akamʉsea Filíipi, “Laanga! Maaji naaya aha. Che kɨrɨ kʉʉnkɨtɨra ndɨɨre batisiwa?” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	ACT 8:37 Filíipi akamʉsea, “Koonɨ wooruma kwa mʉtɨma waako woosi daha ʉrɨ batisiwa.” Akamʉsea, “Narúmire, Yéesu Kirisitʉ nɨ Mwaana wa Mʉlʉʉngʉ.”]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	ACT 15:33 ˆVakiikale kwa mpɨɨndɨ, vaaniitʉ vakavarekera vahɨndʉke voovasea, “Hinduki na mwiikalo mʉʉja kwa vara ˆvavatʉma.” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	ACT 15:34 Maa kaa, Síila akoona vyabooha achaale kʉkʉra.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	ACT 24:6 Yeeye asaakáa kwiibweeyya Kaaya Njija ya Ijʉva ɨve na njeo, maa kaa, suusu tamʉkwaata chaangʉ. [Tasaakáa kʉmʉlamʉrɨra kwa Miiro yiiswi,	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	ACT 24:8 Akavalairirya vara ˆvamusitaakyáa vamʉreete na kwaako.] Weewe mweeneevyo koonɨ umuchúkurumire taanga ʉrɨ masáare yoosi ˆtoomusitaakya kwaako, nɨ ya kɨmáárɨ.”	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	ACT 28:28 Haaha taangi! Masáare aya ya ʉlamuriri wa Mʉlʉʉngʉ, yatwaalwa na kwa vaantʉ sɨ ˆvarɨ Vayahúudi, novo yahokera varɨ.” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	ACT 28:29 ˆAkahʉmʉle lʉʉsa ayo masáare, maa vara Vayahúudi vakalooka, kʉnʉ vookiiruta ndihi mʉnʉmʉʉnʉ.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[1/0]	ROM 16:23 Mulúumbiiwe nɨ Gáayo, mweenenyuumba kʉʉntʉ ˆniíkalaa, kei kʉʉntʉ mpuka yoosi ya vaantʉ ˆvamuruma Yéesu ˆvalʉ́manɨraa. Kei Erásto, yeeye ˆɨɨ́mɨrɨraa mpía ja múuji ʉhʉ, na Kwálito mwaaniitʉ vavalúumbiirye. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Source	[0/1]	ROM 16:24 Nduwo ya Mweenevyoosi wiitʉ, Yéesu Kirisitʉ, ɨve na nyuunyu voosi. Kɨkomi!]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 018 010 Mʉlaange neeja, karɨ musínanalaa ʉmwɨ wa ava vadúúdi tʉkʉ, sa nɨ kʉvawyɨɨra niise, mirimʉ yaavo miija, sikʉ joosi yoónaa kisho cha Taáta waanɨ wa kurumwii. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 018 011 Sa Mwaana wa Mʉʉntʉ ʉʉja jo saakɨra no lamurirya kɨra ˆcharɨmɨra.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 Maa kaa, nɨ mpolaɨ kʉrɨ nyuunyu vakiindya va Miiro na nyuunyu Mafarisáayo, nyuunyu vakweembi! Nyuunyu mootuuba vachʉʉngɨra vaantʉ weerwii ya Ʉtemi wa Kurumwii. Nyuunyu veeneevyo sɨ mwɨɨ́ngɨraa tʉkʉ, na vara ˆvoosaaka kwɨɨngɨra mʉvakɨ́tɨraa. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	040 MAT 023 014 Nɨ mpolaɨ kʉrɨ nyuunyu vakiindya va Miiro na nyuunyu Mafarisáayo vakweembi. Nyuunyu mwanyáhɨraa nyuumba ja valala, na kwa ʉkweembi mwamʉlóombaa Mʉlʉʉngʉ vilɨɨhɨ. Sa jeyyo, heewa mʉrɨ irya ˆralookya.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 007 015 Kusiina kɨɨntʉ ˆkɨmwɨɨ́ngɨraa mʉʉntʉ ˆkɨdáhaa mʉbweeyya ave na njeo tʉkʉ. Kɨrɨ vyoova jeyyo, ˆkimufúmaa mutimii noo kɨmʉbwéeyyaa ave na njeo. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 007 016 ˆArɨ na matu nɨ ateere.]”	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 043 Na koonɨ iyaanja raako rakʉháandire ʉtʉmame ʉvɨ, rɨteme rɨdʉmʉke. Nɨ pwee kɨɨngɨra na nkaaswii ʉrɨ na iyaanja rɨmwɨ, kʉlookya kʉdoma na mootwii wa Jehénamu ʉra sɨ ˆurímaa, ʉrɨ na mayaanja yoosi. [ (Geenna g1067)	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 044 Ʉko noo kʉʉntʉ ngʼonyu sɨ ˆjikwíjaa na mooto sɨ ˆurímaa.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 009 045 Kei, koonɨ ijeo raako rakʉháandire ʉtʉmame ʉvɨ, rɨteme rɨdʉmʉke. Nɨ pwee kɨɨngɨra na nkaaswii ʉrɨ na ijeo rɨmwɨ, kʉlookya kʉfweitɨrwa na mootwii wa Jehénamu ʉrɨ na majeo yavɨrɨ. [ (Geenna g1067)	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 009 046 Ʉko noo kʉʉntʉ ngʼonyu sɨ ˆjikwíjaa na mooto sɨ ˆurímaa.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 011 025 Mpɨɨndɨ ˆmʉrɨ kɨɨma sa mʉmʉloombe Mʉlʉʉngʉ, koonɨ ʉrɨ na kɨɨntʉ mutimii kwa mʉʉntʉ wɨɨngɨ, mʉsei ʉwo mʉʉntʉ, ‘Ʉvɨ waako wasírire,’ sa Taáta waanyu wa kurumwii, avasee baa nyuunyu, ‘Ʉvɨ waanyu wasírire.’ [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 011 026 Maa kaa, koonɨ sɨ moovasea viivaanyu, ‘Ʉvɨ wasírire,’ baa Taáta waanyu wa kurumwii sɨ arɨ sea, ‘Ʉvɨ waanyu wasírire tʉkʉ.’”]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 015 027 Viívi vavɨrɨ vakaningʼiniwa mʉsaláabii ne, kɨra mʉʉntʉ mʉsaláabii waachwe, ʉmwɨ ivaru ra kʉlʉme na wɨɨngɨ ivaru ra kʉmooso. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 015 028 Masáare ˆYarɨ Mpeho yakakiimana ja ˆvyeene yalʉʉsa, “Avalwa hamwɨ na ˆvawúnaa miiro.”]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 017 035 Vaantʉ vaki vavɨrɨ ˆvoosha hamwɨ, ʉmwɨ sʉmʉlwa arɨ na wɨɨngɨ rekwa arɨ. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 017 036 Vaantʉ valʉme vavɨrɨ kʉva varɨ vootʉmama iwundii, ʉmwɨ sʉmʉlwa arɨ na wɨɨngɨ rekwa arɨ.]”	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 022 042 yoosea, “Taáta! Koonɨ viri kweerya mʉtɨma, nooloomba wʉʉnseyyirye ndʉvo ɨhɨ ya uturikiri. Maa kaa, karɨ vive ja ˆveene noosaaka tʉkʉ, vive ja ˆvyeene woosaaka weewe.” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 022 044 Yéesu akatuuba loomba mʉnʉmʉʉnʉ na ajáa atɨɨte uturikiri na alʉngʉrɨráa nɨ ʉsʉʉngʉ. Na mpɨɨndɨ ˆaloombáa, irʉtɨra raachwe rɨkava ja matóonti ya sakami yoowya na ɨsɨ.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	042 LUK 023 016 Haaha nɨ lairirya niise avawe mɨjeléedi, maa de nɨmʉrekere.” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	042 LUK 023 017 Piláato ajáa atɨɨte tʉʉva yo mʉchʉngʉrɨra mʉʉntʉ ʉmwɨ ˆachuungwa mpɨɨndɨ ja ngovi ya Paásika.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	043 JOH 005 003 Aho balásii, valaaláa valwɨ́ɨrɨ ˆvarɨ foo, baa ja vahoku, vivete, na vaantʉ ˆvaakwya iyandiyandi. [Vawojeráa maaji yatikʉlwe.	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 005 004 Sa kwatɨɨte mpɨɨndɨ jimwi murimʉ mʉʉja wa Ijʉva wakiimáa, ʉkatikʉla maaji. Na mʉʉntʉ ˆajáa wa ncholo kɨɨngɨra na luujii maaji ˆyakatɨkʉlwe, aholáa ʉlwɨ́ɨrɨ waachwe wowoosi ˆajáa nowo.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 008 036 Mpɨɨndɨ ˆvayeendáa, vakafika haantʉ ˆkʉjáa na maaji. Ʉra Mweesiópia akamʉsea Filíipi, “Laanga! Maaji naaya aha. Che kɨrɨ kʉʉnkɨtɨra ndɨɨre batisiwa?” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 008 037 Filíipi akamʉsea, “Koonɨ wooruma kwa mʉtɨma waako woosi daha ʉrɨ batisiwa.” Akamʉsea, “Narúmire, Yéesu Kirisitʉ nɨ Mwaana wa Mʉlʉʉngʉ.”]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 015 033 ˆVakiikale kwa mpɨɨndɨ, vaaniitʉ vakavarekera vahɨndʉke voovasea, “Hinduki na mwiikalo mʉʉja kwa vara ˆvavatʉma.” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 015 034 Maa kaa, Síila akoona vyabooha achaale kʉkʉra.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 024 006 Yeeye asaakáa kwiibweeyya Kaaya Njija ya Ijʉva ɨve na njeo, maa kaa, suusu tamʉkwaata chaangʉ. [Tasaakáa kʉmʉlamʉrɨra kwa Miiro yiiswi,	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 024 008 Akavalairirya vara ˆvamusitaakyáa vamʉreete na kwaako.] Weewe mweeneevyo koonɨ umuchúkurumire taanga ʉrɨ masáare yoosi ˆtoomusitaakya kwaako, nɨ ya kɨmáárɨ.”	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	044 ACT 028 028 Haaha taangi! Masáare aya ya ʉlamuriri wa Mʉlʉʉngʉ, yatwaalwa na kwa vaantʉ sɨ ˆvarɨ Vayahúudi, novo yahokera varɨ.” [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	044 ACT 028 029 ˆAkahʉmʉle lʉʉsa ayo masáare, maa vara Vayahúudi vakalooka, kʉnʉ vookiiruta ndihi mʉnʉmʉʉnʉ.]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[1/0]	045 ROM 016 023 Mulúumbiiwe nɨ Gáayo, mweenenyuumba kʉʉntʉ ˆniíkalaa, kei kʉʉntʉ mpuka yoosi ya vaantʉ ˆvamuruma Yéesu ˆvalʉ́manɨraa. Kei Erásto, yeeye ˆɨɨ́mɨrɨraa mpía ja múuji ʉhʉ, na Kwálito mwaaniitʉ vavalúumbiirye. [	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Aionian	[0/1]	045 ROM 016 024 Nduwo ya Mweenevyoosi wiitʉ, Yéesu Kirisitʉ, ɨve na nyuunyu voosi. Kɨkomi!]	WARN
+Rangi---Rangi-Bible	ENCLOSURES	Summary	lines	32 / 32	NOTICE
+
+# UNEXPECTED
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Rangi---Rangi-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+Rangi---Rangi-Bible	NUMERALS	Source	4	MAT 1:17 Jeyyo, kʉjáa kwatɨɨte mbyaala ikimi na ine (14) fuma Aburaháamu fʉʉrʉ mʉtemi Daúdi. Kei, kʉjáa kwatɨɨte mbyaala ikimi na ine fuma mʉtemi Daúdi, fʉʉrʉ lʉsaamo lwa Viisiraéeli kʉtwaalwa na ɨsɨ ya ʉyenii ya Babéeli. Na mbyaala ikimi na ine fuma lʉsaamo lwa Viisiraéeli kʉtwaalwa na ɨsɨ ya ʉyenii ya Babéeli, fʉʉrʉ kʉvyaalwa kwa Masía.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 4:2 Yéesu ˆakiirekye kurya chɨrɨrɨ chobu kwa sikʉ makumi yanɨ (40), akoona njala.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 13:8 Maa kaa, jimwi jikawyɨɨra salwii ˆjiri na seve, jikamera, jikakʉla, jikavyaala maatʉkʉ vii, jimwi jikavyaala mara makumi ikimi (100), jimwi mara makumi mʉsasatʉ (60) na jimwi mara makumi yatatʉ (30).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 13:23 Mbeyʉ jira ˆjawyɨɨra sevii, noo vara vaantʉ ˆvarɨtéeraa ɨro isáare, vakarɨtaanga. Aho, ravíjaa na nkoonyo, jimwi jikavyaala mara makumi ikimi (100), jimwi mara makumi mʉsasatʉ (60) na jimwi mara makumi yatatʉ (30).”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 14:21 Vaantʉ valʉme voosi ˆvaarya sikʉ ɨyo nɨ mayana yasaano (5,000), vaantʉ vaki na vasinga sɨ vavalwa tʉkʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 15:38 Vaantʉ ˆvaarya nɨ vaantʉ valʉme mayana yanɨ (4,000) kʉreka vaantʉ vaki na vasinga.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 16:9 Mʉkaarɨ sɨ mʉnataanga vii tʉkʉ wʉʉ? Sɨ mookʉmbʉkɨra ɨra mɨkáate ɨsaano ˆyarɨɨwa nɨ vaantʉ mayana yasaano (5,000), na nɨ makápu yangaɨ mwatoorera ya mabéendʉ ya mɨkáate tʉkʉ wʉʉ?	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 16:10 Na ɨra mɨkáate mufungatɨ ˆyarɨɨwa nɨ vaantʉ mayana yanɨ (4,000), nɨ makápu yangaɨ mwatoorera ya mabéendʉ ya mɨkáate?	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	9	MAT 18:12 Joolɨ mookoona? Koonɨ ʉmwɨ waanyu arɨ na muundi makumi ikimi (100), na muundi ɨmwɨ yarɨ́mɨɨre, che arɨ bweeyya? Sɨ arɨ reka jira muundi makumi keenda na keenda (99) luulwii, adome akasaake ɨra ɨmwɨ ˆyatáahikire tʉkʉ wʉʉ?	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 18:22 Yéesu akamʉsea, “Sɨ nookʉsea mara mufungatɨ vii tʉkʉ, maa kaa, mufungatɨ mara makumi mufungatɨ (7x70).”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 18:24 ˆAkaande ʉwo mʉrɨmo, akareterwa mʉʉntʉ ʉmwɨ ˆajáa na noongwa ya taláanta mayana ikimi rɨmwɨ (10,000).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 18:28 Maa kaa, ʉra mʉtʉ́mwa ˆakafike weerwii, akalʉmana na mʉtʉ́mwa mwiiwaachwe ˆmweene ajáa na noongwa yaachwe ya mpía ja dináari igana rɨmwɨ (100). Aho, akamʉkwaata, maa akamukurukanʼya nkiingwii kʉnʉ yoomʉsea, ‘Rɨha noongwa yaanɨ!’	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 19:29 Na kɨra mʉʉntʉ ˆareka nyuumba, au vaanaavo, au marʉʉmbʉ, au taáta, au íyo, au vaana, au mawʉnda sa nɨɨnɨ, hokera arɨ mara igana rɨmwɨ (100) kʉlookererya, na hokera arɨ nkaasʉ ya sikʉ ˆjisiina ʉhero.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 26:15 akavasea, “Nɨ che mʉrɨ kʉʉmpeera koonɨ namʉválandukire Yéesu nɨmʉvɨɨke mɨkonwii yaanyu?” Vakamʉvarɨra mpía makumi yatatʉ (30).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 26:53 Sa che wookiisea sɨ ndɨrɨ daha kʉmʉloomba Taáta waanɨ aandetere haaha jei kʉlookya mayana ikimi na yavɨrɨ (12,000) ya valwi nkoondo va mirimʉ miija?	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAT 27:3 Haaha Yʉ́ʉda ʉhʉ ˆajáa amʉválandukire ˆakoone Yéesu ahʉ́mwɨɨre heewa irya, akiivairya mbiri, maa akavahɨndʉrɨra vakʉ́ʉ́lʉ va veeneɨsɨ va Ijʉva na vawosi jira mpía makumi yatatʉ (30).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 1:13 Akiikala ʉko ibaláángwii sikʉ makumi yanɨ (40) yooyerwa nɨ Irimʉ, ʉko iikaláa na maka ja isaka, mirimʉ miija noyo yamʉtʉmamɨráa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 4:8 Maa kaa, jimwaarɨ jimwi ˆjawyɨɨra salwii ˆjiri na seve, jikamera, jikakʉla, jikavyaala maatʉkʉ vii, jimwi jikavyaala mara makumi yatatʉ (30), jimwi mara makumi mʉsasatʉ (60) na jimwi mara makumi ikimi (100).”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 4:20 Na mbeyʉ jira ˆjahaandwa sevii, noo vara vaantʉ ˆvarɨtéeraa isáare ra Mʉlʉʉngʉ, vakarɨteengya, maa rɨkava na nkoonyo, jimwi jikavyaala mara makumi yatatʉ (30), jimwi mara makumi mʉsasatʉ (60), na jimwi mara makumi ikimi (100).”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 5:13 Yéesu akɨɨrekera ɨra mirimʉ mɨvɨ, ɨkafuma, ɨkɨɨta kɨɨngɨra jira nkaamba. Mirimʉ mɨvɨ ɨkɨɨngɨre ʉra ufya wa nkaamba mayana yavɨrɨ (2,000), nkaamba jikiihuunta, jikagirita, jikabʉrʉkɨra irivii, maa jikakwya joosi vʉʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 6:37 Maa kaa, Yéesu akavasea, “Vaheeri nyuunyu chóorya.” Novo vakamʉsea, “Hai tʉrɨ fumya mpía ja dináari magana yavɨrɨ (200) jo wʉrɨra chóorya cho viikutya vaantʉ voosi ava?”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 6:40 Vaantʉ novo vakiikala vitoonge vya vaantʉ makumi yasaanosaano (50) na makumi ikimikimi (100).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 6:44 Vaantʉ ˆvaarya vajáa vamema maatʉkʉ vii, vaantʉ valʉme vii nɨ mayana yasaano (5,000) vajáa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 8:9 Vaantʉ ˆvaarya nɨ ja mayana yanɨ (4,000) vajáa. Hara, maa akasuukya.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 8:19 Mpɨɨndɨ ˆmbéndwɨɨrembendwɨɨre ɨra mɨkáate ɨsaano nkavaheera vaantʉ mayana yasaano (5,000), nɨ vikápu yangaɨ mwamemya ya mabéendʉ ya mɨkáate?” Maa vakuuyirya, “Ikimi na vivɨrɨ.”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 8:20 “Ha mpɨɨndɨ ˆnkabendʉlebendʉle mɨkáate mufungatɨ, maa nkavaheera vaantʉ mayana yanɨ (4,000), mwatoorera vikápu vingaɨ vya mabéendʉ ya mɨkáate?” Vakasea, “Mufungatɨ.”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 10:30 hokera arɨ mara igana rɨmwɨ (100) kʉlookya mpɨɨndɨ iji, nyuumba, vandʉʉ, vaanaavo, marʉʉmbʉ, vasinga, mawʉnda au baa na uturikiri, na kei weerʉ ˆyookʉʉja, hokera arɨ nkaasʉ ya sikʉ ˆjisiina ʉhero.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	MAR 14:5 Jangaarɨ yaváirwe iyoombe jɨtooreke mpía ja dináari magana yatatʉ (300), maa mpía ijo vaheewe vakɨva?” Maa vakamwaamirirya ʉra mʉʉntʉ muki.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	LUK 2:37 Keende aho, akava mʉlala na ajáa afíkiirye myaaka makumi yanaanɨ na ɨne (84). Kwa mpɨɨndɨ joosi kʉʉntʉ ˆavijáa, nɨ Kaayii Njija uchikʉ na muusi yoomwiinamɨra Mʉlʉʉngʉ, no mʉloomba Mʉlʉʉngʉ, kʉnʉ iirékiirye kurya.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	5	LUK 3:1 Haaha, ʉjáa wafíkire mwaaka wa ikimi na ɨsaano (15) wa ʉtemi wa Kaisáari Tiberío. Mpɨɨndɨ ijo, Poontío Piláato noo ajáa gávana wa ɨsɨ ya Yudéea, Heróode Antípaasi noo ɨɨmɨrɨráa ɨsɨ ya Galiláaya na Filíipi mwaanaavo na Heróode noo ɨɨmɨrɨráa ɨsɨ ya Ituréa na ɨsɨ ya Tirakoníiti na Lisanía noo ɨɨmɨrɨráa ɨsɨ ya Abiléene.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	LUK 3:23 Yéesu ajáa afíkiirye myaaka makumi yatatʉ (30) de akaanda mʉrɨmo waachwe. Na vaantʉ viiririkanáa yeeye nɨ mwaana wa Yooséefu. Yooséefu nɨ mwaana wa Éeli ajáa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	LUK 4:2 Ʉko Ikʉ́ʉ́lʉ ra Mirimʉ Mɨvɨ rɨkamʉyera Yéesu kwa sikʉ makumi yanɨ (40). Na kwa sikʉ joosi ijo sɨ arijáa kɨɨntʉ chochoosi tʉkʉ, aho akiiteera njala.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	LUK 7:41 Yéesu akasea, “Kwajáa kwatɨɨte vaantʉ vavɨrɨ ˆvadaayiwáa noongwa nɨ mʉʉntʉ ʉmwɨ. Ʉmwɨ adaayiwáa mpía ja dináari magana yasaano (500) na wɨɨngɨ mpía ja dináari makumi yasaano (50).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	LUK 8:8 Maa kaa, jimwi jikawyɨɨra salwii ˆjiri na seve, jikamera, jikakʉla, jikavyaala maatʉkʉ vii, jimwi jikavyaala mara makumi ikimi (100).” ˆAkahʉmʉle kʉvawyɨɨra jeyyo, maa akasea na ngururu, “ˆArɨ na matu yo teerera, nɨ ateere!”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	LUK 9:14 Aho, kʉjáa kwatɨɨte vaantʉ valʉme ja mayana yasaano (5,000). Yéesu akavasea vapooji, “Viikaryi vaantʉ vitoonge vya vaantʉ makumi yasaanosaano (50).”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	2	LUK 10:1 Ayo ˆyakalooke, Yéesu Mweenevyoosi akavasaawʉla vapooji vɨɨngɨ makumi mufungatɨ na vavɨrɨ (72), maa akavatʉma vavɨrɨvɨrɨ. Voovo vakalongoola na kɨra múuji na kɨra haantʉ ˆasaakáa tamanya yeeye mweeneevyo.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	2	LUK 10:17 Vara vapooji makumi mufungatɨ na vavɨrɨ (72) ˆvakahɨndʉke, vakamuwyɨɨra Yéesu na cheerʉ voosea, “Aaɨ mʉkʉ́lʉ, baa mirimʉ mɨvɨ tookiikibirya kwa irina raako na yootʉteera!”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	8	LUK 13:4 Au vara ikimi na vanaanɨ (18) ˆveene valaarɨrwa nɨ mʉnáara vakakwya kʉra Siloáamu, nɨ kiisea mwiise nɨ vavɨ vajáa kʉlookya vaantʉ vɨɨngɨ voosi ˆveene viikaláa múujii wa Yerusaléemu wʉʉ?	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	8	LUK 13:11 Aho sinagóogii, kʉjáa kwatɨɨte mʉʉntʉ muki ʉmwɨ, ˆajáa na murimʉ mʉvɨ. Ʉwo murimʉ mʉvɨ ʉjáa wamukukumarya na sɨ adaháa woloka tʉkʉ kwa myaaka ikimi na ɨnaanɨ (18).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	LUK 14:31 Haaha iririkani mʉtemi ʉra ˆyoosaaka atamanye na nkoondwii noo lwa na mʉtemi wɨɨngɨ. Nɨ mʉtemi arɨkwɨ sɨ ˆarɨ kiikala ta iiririkane neeja, koonɨ arɨ daha kʉlwa na mʉtemi ˆarɨ na vaantʉ va nkoondo mayana makumi yavɨrɨ (20,000), na kʉnʉ yeeye arɨ na vaantʉ va nkoondo mayana ikimi rɨmwɨ (10,000) vii?	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	9	LUK 15:4 “Koonɨ ʉmwɨ waanyu arɨ na muundi igana rɨmwɨ (100), na koonɨ muundi ɨmwɨ yarɨ́mɨɨre, che arɨ bweeyya? Jireka arɨ jira muundi makumi keenda na keenda (99) ibaláángwii adome akasaake ɨra ˆyatáahikire mpaka ɨɨpate.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	9	LUK 15:7 Viivyo noovawyɨɨra, kʉva kʉrɨ na cheerʉ mʉnʉmʉʉnʉ kurumwii, haantʉ mʉʉntʉ ʉmwɨ mʉvɨ ˆarɨ mʉvalandʉkɨra Mʉlʉʉngʉ. Cheerʉ ɨkyo kʉva kɨrɨ nɨ kɨkʉʉlʉ kʉlookya vaantʉ makumi keenda na keenda (99) vara ˆviiyónaa voovo nɨ vawoloki, ˆvasiina kɨɨntʉ cho vabweeyya vamʉvalandʉkɨre Mʉlʉʉngʉ tʉkʉ.”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	LUK 16:6 Ne akasea, ‘Noongwa yaanɨ ndáayiwaa nɨ líita mayana yatatʉ na magana mufungatɨ (3,700) ya makuta ya saitúuni.’ Aho, mwiimiriri akamʉsea, ‘Toola karatáasi ɨhɨ ˆngʼeene yaandɨkwa noongwa yaako chaangʉ, andɨka noongwa yaako nɨ líita iyana rɨmwɨ, magana yanaanɨ na makumi yasaano (1,850).’	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	LUK 16:7 Aho, akamuurya wa kavɨrɨ akamʉsea, ‘Weewe viintʉ vingaɨ ʉdáayiwaa?’ Ʉra akamʉsea, ‘Magunía magana yatatʉ na makumi yatatʉ (330) ya ngáano.’ Mwiimiriri akamʉsea, ‘Toola karatáasi ɨhɨ ˆngʼeene yaandɨkwa noongwa yaako, andɨka magana yavɨrɨ na makumi mʉsasatʉ (260).’	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	6	JOH 2:20 Aho, Vayahúudi vakamʉsea, “Ɨhɨ Kaaya Njija yajeengwa kwa myaaka makumi yanɨ na mʉsasatʉ (46). Atɨ, weewe kɨɨjeenga ʉrɨ kwa sikʉ itatʉ?”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	8	JOH 5:5 Haaha, kʉjáa kwatɨɨte mʉʉntʉ ʉmwɨ ˆajáa mʉlwɨ́ɨrɨ kwa myaaka makumi yatatʉ na ɨnaanɨ (38).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	JOH 6:7 Filíipi akamʉsea, “Aaɨ baa na tʉwʉle mɨkáate ya mpía ja dináari magana yavɨrɨ (200), ava vaantʉ sɨ varɨ keenera kwa kɨra mʉʉntʉ kʉpata kiduudi tʉkʉ.”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	JOH 6:10 Yéesu akasea, “Vasei vaantʉ viikale ɨsɨ.” Aho haantʉ, kʉjáa kwatɨɨte masaambɨ ˆyarɨ foo, maa vaantʉ vakiikala. Aho mpukii, kʉjáa kwatɨɨte vaantʉ valʉme mayana yasaano (5,000).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	JOH 8:57 Aho, Vayahúudi vakamʉsea, “Weewe baa sɨ ʉnafikya myaaka makumi yasaano (50) tʉkʉ, joolɨ de wamoona Aburaháamu?”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	JOH 12:5 “Sa che aya makuta ˆyanyʉkɨra sɨ yaváirwe iyoombe ra mpía ja dináari magana yatatʉ (300), na mpía ijo vaheewe vakɨva?”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	JOH 19:39 Nikodéemu ʉra aho ncholo ˆajáa adoma na kwa Yéesu nuuchikʉ, akareeta makuta ya idumbaasi ˆyasaangiwa na manemáane ja kílo makumi yatatʉ (30).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	JOH 21:8 Vara vapooji vɨɨngɨ vakʉʉja na mashʉ́wa kʉnʉ vooruta njwaavu ˆjimémire soompa. Sɨ vajáa kʉlɨ na mbarɨmbarɨ tʉkʉ, nɨ ja mawʉlʉ igana rɨmwɨ (100) vii vajáa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	3	JOH 21:11 Simóoni Peéteri akaambʉka na mashúwii, akarʉta lʉra lwaavu fʉʉrʉ mbarɨmbarɨ haantʉ ˆhʉʉma. Lʉjáa lwamémire soompa nkʉʉlʉ igana rɨmwɨ, makumi yasaano na itatʉ (153). Baa neembe soompa jijáa jamema jeyyo, lwaavu sɨ lwaatʉka tʉkʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 1:3 Kwa sikʉ makumi yanɨ (40) keende ˆakafʉfʉke, avafʉmɨra vatumwi vaachwe ˆvarɨ foo kwa njɨra ˆjoonekya kɨkomi yeeye nɨ mooyo ajáa. Kei avakiindyáa masáare ya Ʉtemi wa Mʉlʉʉngʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 1:15 Sikʉ ɨmwɨ vaantʉ igana rɨmwɨ na makumi yavɨrɨ (120) vajáa viijíingire, aho, Peéteri akɨɨma katɨ na katɨ ya vaantʉ ˆvamuruma Yéesu. Akavasea,	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 2:41 Vaantʉ ˆvarɨ foo vakayaruma yara masáare, vakabatisiwa na vakasaangɨra na vaantʉ ˆvamuruma Yéesu. Vaantʉ avo nɨ ja mayana yatatʉ (3,000) jei vajáa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 4:4 Maa kaa, vaantʉ ˆvarɨ foo va vara ˆvateereráa isáare, vakamuruma Mʉlʉʉngʉ. Na ˆvamuruma Yéesu vakafika vaantʉ valʉme mayana yasaano (5,000).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 4:22 Ʉwo mʉʉntʉ ˆahoriwa kwa muujíisa nɨ kɨvete ajáa keende ˆavyaalwa, na ajáa atɨɨte myaaka makumi yanɨ (40) na kɨɨntʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 5:36 Sikʉ sɨ ˆjiri baa foo tʉkʉ, Teúuda, ajáa iibweeyya nɨ mʉʉntʉ wa kɨkomi na ajáa avalandʉka serekáali, baa kei ajáa aava na vapooji magana yanɨ (400). Maa kaa, ˆakʉʉlawe, vapooji vaachwe viipasa na mɨrɨmo yaavo ɨkarɨmɨra.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 7:6 Mʉlʉʉngʉ ajáa amʉsea, ‘Vaana vaako kʉva varɨ vayeni ɨsɨ ya vaantʉ vɨɨngɨ. Ʉko bweeyyiwa varɨ vatʉ́mwa na turikiriwa varɨ kwa myaaka magana yanɨ (400).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	5	ACT 7:14 Yooséefu akatʉma mʉlomo kwa taáta waavo Yaakúupu, adome na Mísiri hamwɨ na nyuumba yaachwe yoosi, novo nɨ vaantʉ makumi mufungatɨ na vasaano (75) vajáa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 7:23 Mʉ́sa ˆakafikye myaaka makumi yanɨ (40), akapata mpɨɨma yo koovalaanga Viisiraéeli viivaachwe.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 7:30 Myaaka makumi yanɨ (40) ˆɨkalooke, murimʉ mʉʉja ʉkamʉfʉmɨra Mʉ́sa ituundwii ˆrookorera mooto, ʉko ɨsɨ ya ibaláángwii heehi na Lʉʉlʉ lwa Sináai.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 7:36 Yeeye noo avalongoola vaantʉ va Isiraéeli fuma Mísiri kwa isháara na viintʉ ˆvihwáalaryaa ʉko Mísiri, mayiyii ya Sháamu, na ɨsɨ ya ibaláángʉ kwa myaaka makumi yanɨ (40).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 13:18 Kwa myaaka makumi yanɨ (40) akavayimirirya ʉko ɨsɨ ya ibaláángʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 13:20 Masáare aya yoosi yatʉmamwa kwa myaaka magana yanɨ na makumi yasaano (450). Sikʉ ˆjikaseese, Mʉlʉʉngʉ akavaheera vala baaba wiitʉ valamuli vo valongoola fʉʉrʉ mpɨɨndɨ ja Samwéeli mʉláali na mʉtwe avɨɨmɨrɨráa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 13:21 Aho, maa vakaloomba vave na mʉtemi. Mʉlʉʉngʉ akavaheera Saúli mwaana wa Kíisi wa lʉkolo lwa Bénjamini ave mʉtemi kwa myaaka makumi yanɨ (40).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 19:19 Vaantʉ ˆvarɨ foo vara ˆvabweeyyáa ʉsavɨ, vajiingáa vitáabu vyaavo na vavichɨmɨkáa mbere ya vaantʉ voosi. Vakavala iyoombe ra vitáabu vyoosi, rɨkafika mbwɨɨrʉ ja chʉʉ́ma cha mpía mayana makumi yasaano (50,000).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 21:38 Weewe sɨ ʉrɨ ʉra Mʉmísiri ˆareeta ntiribʉka, maa akavalongoola vʉʉlai mayana yanɨ (4,000) na ɨsɨ ya ibaláángwii tʉkʉ wʉʉ?”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 23:13 Na vaantʉ ˆveene vajáa vabweeyya ɨyo nchuungo nɨ makumi yanɨ (40) na kɨɨntʉ vajáa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 23:21 Maa kaa, karɨ ʉvarʉmɨre tʉkʉ, sa vamwaarɨ Vayahúudi makumi yanɨ (40) na kɨɨntʉ ˆvarɨ mugiida njirii. Ava viílahire varɨɨwe nɨ salʉ, sɨ varɨ kurya no nywa tʉkʉ mpaka vamʉʉlae Paúli. Haaha viímire neeja vooteerera vii, nɨ che ˆʉrɨ lʉʉsa.”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 23:23 Aho, maa ʉra mʉkʉ́ʉ́lʉ wa vakʉ́ʉ́lʉ akavaanɨrɨra vakʉ́ʉ́lʉ va valwi nkoondo vavɨrɨ akavasea, “Imyi neeja valwi nkoondo magana yavɨrɨ (200) vooyeenda na mawʉlʉ, valwi nkoondo ˆvaámbʉkaa faráasi makumi mufungatɨ (70), na vɨɨngɨ magana yavɨrɨ (200) ˆvarɨ na machimu. Ava voosi viinʉke mpɨɨndɨ jo kaala ndɨrɨ kugirita na múuji wa Kaisaría.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	ACT 27:27 Uchikʉ wa sikʉ ya ikimi na ine (14) ˆʉkafike, tʉjáa tʉkaarɨ toofiindwa nɨ rɨra ihúmbuuto kʉnʉ na kʉra haantʉ ha mayɨya ya Adiriáati. Kati na kati ya uchikʉ ʉwo, vatʉmami va méeli vakiisea vaséngerɨɨre fika ɨsɨ ɨmwɨ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ACT 27:28 Sa jeyyo, vakakiimya ludihi luujii sa vataange ʉlɨ́ɨ́hɨ wa maaji, vakashaana nɨ míita makumi yanɨ (40). ˆVakaseese na mbere kiduudi, vakashaana míita makumi yatatʉ (30).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	ACT 27:33 ˆKʉkasengerere kweera, Paúli avakalaamyáa voosi varye chákurya, kʉnʉ yoosea, “Isikʉ mufíkiirye sikʉ ikimi na ine (14) ntɨ ˆmoololokera vii baa kei sɨ mʉnaarya chochoosi tʉkʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	6	ACT 27:37 Na vaantʉ voosi tʉjáa aho méelii, nɨ magana yavɨrɨ, makumi mufungatɨ na vasasatʉ (276).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ROM 4:19 Baa neembe Aburaháamu ajáa adálahɨɨre, wa myaaka sengerera igana rɨmwɨ (100), kuruma kwaachwe sɨ kwasɨngɨsɨka tʉkʉ baa kei ataangáa mʉvɨrɨ waachwe nɨ ja ˆwaakwya, na ɨnda ya Sáara ɨjáa yaakwya.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	ROM 11:4 Nɨ joolɨ Mʉlʉʉngʉ amuuyirya? Amʉsea, “Niicheererya vaantʉ valʉme mayana mufungatɨ (7,000) ˆveene sɨ vanachwaama kwiinamɨra Baáli.”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	1CO 4:15 Baa koonɨ mʉrɨ kʉva na vakiindya masáare ya Yéesu mayana ikimi (10,000), mwatɨɨte taáta ʉmwɨ vii wa mɨtɨma yaanyu. Nɨɨnɨ nɨ taáta waanyu ko kʉndɨkaniwa na Kirisitʉ Yéesu kwa njɨra yo varetera Masáare Maaja.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	1CO 10:8 Tʉreke ʉhanguti ja ˆvyeene vamwɨ va vala baaba wiitʉ vajáa, ɨkɨ chabweeyya vaantʉ mayana makumi yavɨrɨ na yatatʉ (23,000) vakwye kwa sikʉ ɨmwɨ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	1CO 14:19 Maa kaa, nɨ vyabooha ndʉʉsɨke masáare yasaano ˆyarɨ taangwa, sa nɨvakiindye mpuka ya vaantʉ ˆvamuruma Yéesu, kʉlookya kʉlʉʉsɨka masáare mayana ikimi (10,000) ya ndʉʉsɨka ngʼeni ˆngʼeene vaantʉ sɨ varɨ taanga.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	1CO 15:6 Kei, avafʉmɨra vaaniitʉ magana yasaano (500) ˆveene vajáa hamwɨ na vamwɨ vaavo vamwaarɨ ˆvarɨ mooyo baa haaha, baa neembe vamwɨ vaavo valongoola.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	9	2CO 11:24 Nanʉswa vira vibóoko vya Vayahúudi makumi yatatʉ na keenda (39) mara kasaano.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	2CO 12:2 Namʉmányire mʉʉntʉ ʉmwɨ ˆamuruma Kirisitʉ myaaka ikimi na ɨne (14) ˆɨlóokire, asʉmʉlwa fʉʉrʉ kurumu ya katatʉ. Sɨ namányire koonɨ ajáa na mʉvɨrɨ ʉhʉ, au sɨ ajáa na mʉvɨrɨ ʉhʉ tʉkʉ mpɨɨndɨ ˆasʉmʉlwáa. Mʉlʉʉngʉ noo amányire.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	5	GAL 1:18 Myaaka ɨtatʉ ˆɨkalooke, maa nkadoma na Yerusaléemu sa nkalʉmane na Kéefa, noo kʉsea Peéteri. Niikala kwaachwe sikʉ ikimi na isaano (15).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	GAL 2:1 Myaaka ikimi na ɨne (14) ˆɨkalooke, nɨjáa naambʉka na Yerusaléemu na Barinába. Baa Tíito nɨjáa namʉsʉmʉla, nkaambʉkanʼya ne.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	GAL 3:17 ˆCheene noosaaka lʉʉsa nɨ ɨkɨ, Mʉlʉʉngʉ abweeyya mʉháko na ʉʉkʉndɨkanʼya myaaka magana yanɨ na makumi yatatʉ (430) Miiro sɨ ɨnaava. Sa jeyyo, Miiro ɨyo sɨ ɨrɨ wuna mʉháko ʉwo au baa kʉkʉvalandʉla ʉko kwiichuunga kwa Mʉlʉʉngʉ tʉkʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	1TI 5:9 Karɨ mʉmwaandɨke mʉlala yoyoosi ˆmweene sɨ anafikya myaaka makumi mʉsasatʉ (60) tʉkʉ. Ʉwo mʉlala ave nɨ ʉra ˆajáa aloolwa nɨ mʉlʉme ʉmwɨ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	HEB 3:9 Sa ʉko vala baaba waanyu vajáa vaanjera, baa neembe navabweeyyiryáa myuujíisa ˆɨrɨ foo kwa myaaka makumi yanɨ (40).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	HEB 3:17 Eri, nɨ vala ani Mʉlʉʉngʉ ˆavakalarɨra kwa myaaka makumi yanɨ (40)? Eri, sɨ vara voosi ˆvatʉmama ʉvɨ na vakakwya ɨsɨ ya ibaláángwii tʉkʉ wʉʉ?	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	2PE 3:8 Vanaviitʉ naveenda. Karɨ murímiryaa kɨɨntʉ kɨmwɨ, nocho nɨ ɨkɨ, sikʉ ɨmwɨ nɨ ja myaaka iyana rɨmwɨ (1,000) kwa Ijʉva, na myaaka iyana rɨmwɨ nɨ ja sikʉ ɨmwɨ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	REV 4:4 Ɨro ichuumbi rɨjáa rarɨ́ɨngɨrɨɨrwe nɨ machuumbi yɨɨngɨ makumi yavɨrɨ na yanɨ (24). Ayo machuumbi yajáa yiíkarɨɨrwe nɨ vawosi makumi yavɨrɨ na vanɨ (24) na vajáa viivɨ́kɨɨre ɨngo njerʉ chwee na mitwii vajáa viivɨ́kɨɨre matáaji ya saháabu.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	REV 5:8 ˆAkakɨtoole vii kɨra kɨtáabu, vira viúumbe vine na vara vawosi makumi yavɨrɨ na vanɨ (24), vakiinama fʉʉrʉ ɨsɨ mbere ya ʉra Mwaana wa Muundi. Kɨra ʉmwɨ waavo ajáa atɨɨte iwuumbi kʉnʉ vakwáatɨrɨɨre bakúuri ja saháabu ˆjimémire ngʼóóno ˆjinyʉ́kɨraa, noo kʉsea, kʉloomba kwa vaantʉ va Mʉlʉʉngʉ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	REV 5:11 Aho, nkalaanga, maa nkateera sawúti ya mirimʉ miija ˆɨrɨ foo mʉnʉmʉʉnʉ, mayana na mayana, baa sɨ ɨrɨ daha valwa tʉkʉ. Ɨyo mirimʉ ɨjáa yarɨ́ɨngɨrɨɨre rɨra ichuumbi ra kɨtemi na vira viúumbe na vara vawosi makumi yavɨrɨ na vanɨ (24).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 7:4 Aho, nkateera hesáabu ya vara vaantʉ ˆvavawa mʉtooso, fuma nkolo joosi ja Isiraéeli, avo nɨ mayana igana rɨmwɨ, makumi yanɨ na ine (144,000) vajáa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 7:5 Kufuma lʉkolo lwa Yʉ́ʉda vavawa mʉtooso, mayana ikimi na yavɨrɨ (12,000), kufuma lʉkolo lwa Rʉ́beni, mayana ikimi na yavɨrɨ, kufuma lʉkolo lwa Gáadi, mayana ikimi na yavɨrɨ,	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	REV 7:11 Mirimʉ miija yoosi ɨjáa yɨɨma mavaru yoosi, kʉrɨɨngɨrɨra rɨra ichuumbi ra kɨtemi, vara vawosi makumi yavɨrɨ na vanɨ (24), na vira viúumbe vine ˆviri mooyo. Vakalaala ɨsɨ na ɨnda mbere ya ichuumbi ra kɨtemi, maa vakamwiinamɨra Mʉlʉʉngʉ,	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 9:16 Aho, vakʉʉja valwi nkoondo ˆvarɨ foo ˆviivérekiirye faráasi. Nkateera hesáabu yaavo nɨ mayana magana yavɨrɨ mara iyana (200,000,000).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	2	REV 11:2 Maa kaa, karɨ upiime waama wa Kaaya Njija tʉkʉ, sa ʉwo waama vaheewa vaantʉ sɨ ˆvarɨ Vayahúudi. Voovo lwaatalwaata varɨ múujii mʉʉja kwa myeeri makumi yanɨ na ɨvɨrɨ (42).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 11:3 Nɨɨnɨ vaheera ndɨrɨ mashahíidi vaanɨ vavɨrɨ lʉvɨro valʉʉse ʉláali na mʉtwe kwa sikʉ ijo iyana rɨmwɨ, magana yavɨrɨ na makumi mʉsasatʉ (1,260), kʉnʉ viivɨ́kɨɨre magunía, koonekya ʉsʉʉngʉ.”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 11:13 Mpɨɨndɨ yɨɨyo, kʉkafʉmɨra kitiíntima kɨkʉʉlʉ, na ɨmwɨ ya ikimi ya múuji ɨkawya. Vaantʉ mayana mufungatɨ (7,000) vakʉʉlawa nɨ ɨkyo kitiíntima. Na vara ˆvachaala vakakwaatwa nɨ woowa maatʉkʉ vii, maa vakamʉbweeyyirya nkongojima Mʉlʉʉngʉ wa kurumwii.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	REV 11:16 Aho, vara vawosi makumi yavɨrɨ na vanɨ (24), vara ˆviíkalaa machuumbii yaavo ya kɨtemi mbere ya Mʉlʉʉngʉ, vakalaala ɨsɨ na ɨnda, vakamwiinamɨra Mʉlʉʉngʉ	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 12:6 Ʉra mʉʉntʉ muki ne akatɨɨja na ɨsɨ ya ibaláángwii, haantʉ Mʉlʉʉngʉ ˆahiimya neeja sa amʉlaangirirye ʉko kwa sikʉ iyana rɨmwɨ, magana yavɨrɨ na makumi mʉsasatʉ (1,260).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 12:14 Maa kaa, ʉra mʉʉntʉ muki akaheewa mbava ja ja mbeu nkʉʉlʉ, sa awʉlʉke na kʉlɨkʉʉlɨ ʉko ɨsɨ ya ibaláángwii kʉʉntʉ ˆiimiriwa neeja sa alaangiririwe neeja na ave kʉlɨ na ɨro ramʉʉntaɨra kwa sikʉ iyana rɨmwɨ, magana yavɨrɨ na makumi mʉsasatʉ (1,260).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	2	REV 13:5 Ɨra maka ɨkaheewa nkalo ɨlʉʉse masáare yo kiivaa kɨpeembe na yo mʉhɨɨntɨkɨra Mʉlʉʉngʉ. Ɨkaheewa ʉlo lʉvɨro lo kɨɨmɨrɨra kwa myeeri makumi yanɨ na ɨvɨrɨ (42).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	6	REV 13:18 Aha, noo hasaakwa tooti. Koonɨ ʉmwɨ arɨ na mɨryʉʉngʉ, ɨɨvale ɨyo náamba ya ɨra maka, sa nɨ náamba ya mʉʉntʉ. Náamba yaachwe nɨ magana mʉsasatʉ, makumi mʉsasatʉ na mʉsasatʉ (666).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 14:1 Aho, nkalaanga, maa nkoona Mwaana wa Muundi iímire mweeri ya Lʉʉlʉ lwa Sayúuni, arɨ hamwɨ na vaantʉ mayana igana rɨmwɨ, makumi yanɨ na ine (144,000). Ava noo vara ˆvaandɨkwa irina ra Mwaana wa Muundi, na irina ra Taáta wa Mwaana wa Muundi vipáamii vyaavo.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 14:20 Ijo sabíibu jikaminywa aho iduundwii ro mɨnyɨra sabíibu ˆrɨrɨ weerwii ya múuji na sakami fuma aho iduundwii, ʉlɨ́ɨ́hɨ waachwe ɨkafika matwii ya faráasi na ikiika kwa ʉlɨ́ɨ́hɨ wa kilomíita magana yatatʉ (300).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 16:21 Mawye makʉlʉkʉʉlʉ ya mbula ya uruto ja wa kílo makumi yanɨ (40), yakavawyɨɨra vaantʉ fuma kurumwii. Vaantʉ vakamʉtʉkɨra Mʉlʉʉngʉ sa ɨro irema ra mbula ya mawye, sa irema ɨro rɨjáa ravɨɨha maatʉkʉ vii.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	REV 19:4 Aho, vara vawosi makumi yavɨrɨ na vanɨ (24), na vira viúumbe vine ˆviri mooyo, vakamwiinamɨra Mʉlʉʉngʉ ˆiíkalaa ichuumbii ra kɨtemi, kʉnʉ voosea, “Kɨkomi! Adʉʉmbwe Mʉlʉʉngʉ!”	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 20:2 Ʉkarɨkwaata rɨra ramʉʉntaɨra, ɨra njoka ya kalɨ noo kʉsea Ikʉ́ʉ́lʉ ra Mirimʉ Mɨvɨ au Irimʉ, aho, ʉkarichuunga kwa myaaka iyana rɨmwɨ (1,000).	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 20:7 Ɨyo myaaka iyana rɨmwɨ (1,000) ˆɨrɨ kiimana, Irimʉ chʉngʉrɨrwa rɨrɨ fuma mʉnyololwii waachwe.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	0	REV 21:16 Ʉwo múuji mavaru yoosi yanɨ nɨ hamwɨ yajáa. Murimʉ mʉʉja ʉkapiima ʉra múuji na ɨra nkome ya saháabu. Ʉlɨ́ɨ́hɨ waachwe ʉkashaana nɨ maíli iyana rɨmwɨ na magana yanɨ (1,400), ʉlɨ́ɨ́hɨ waachwe mavaru yoosi na kʉdoma na mweeri nɨ hamwɨ ʉjáa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	4	REV 21:17 Murimʉ mʉʉja ʉkapiima lʉkaande, lʉkaande lʉjáa lwatɨɨte uyinuyinu, mɨkono fʉʉrʉ kɨkókooli, igana rɨmwɨ na makumi yanɨ na ɨne (144) kwa kipíimo cha vaantʉ ˆcheene ʉra murimʉ mʉʉja wapiimɨráa.	WARN
+Rangi---Rangi-Bible	NUMERALS	Source	count	114	WARN
+Rangi---Rangi-Bible	NUMERALS	Aionian	7	040-MAT-018-022 Yéesu akamʉsea, “Sɨ nookʉsea mara mufungatɨ vii tʉkʉ, maa kaa, mufungatɨ mara makumi mufungatɨ (7x70).”	ERROR
+Rangi---Rangi-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Yéesu ˆakafʉfʉke Jumapɨ́ɨrɨ namʉtóondo uchikʉ, mʉʉntʉ wa ncholo ˆamʉfʉmɨra nɨ Maríia Makɨdaléena. Ʉhʉ Maríia, Yéesu ajáa amʉseyya mirimʉ mɨvɨ mufungatɨ.	WARN
+Rangi---Rangi-Bible	NUMERALS	Aionian	count	2	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

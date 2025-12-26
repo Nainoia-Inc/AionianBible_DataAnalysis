@@ -1,0 +1,353 @@
+# File Name: Holy-Bible---Holy-Bible---English---Wycliffe-Bible---Analysis.txt
+# File Size: 22934       
+# File Date: 12/13/2025 05:26:26
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Wycliffe Bible
+# Bible Name English: Wycliffe Bible
+# Bible Language: English
+# Bible Language English: English
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: John Wycliffe and his followers
+# Bible Source Version: 8/22/2022
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=Wycliffe
+# Bible Source Year: 1395
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+English---Wycliffe-Bible	ENCODING	Source	Holy-Bible---English---Wycliffe-Bible---Source-Edition.SWORD.txt	ASCII	WARNING
+English---Wycliffe-Bible	ENCODING	Aionian	Holy-Bible---English---Wycliffe-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+English---Wycliffe-Bible	BYTES	Source	bytes / chars	5444328 / 5444328 (single-byte)	NOTICE
+English---Wycliffe-Bible	BYTES	Aionian	bytes / chars	4674671 / 4674483 (multi-byte)	NOTICE
+English---Wycliffe-Bible	BYTES	SourceClean	bytes / chars	5350280 / 5350280 (single-byte)	NOTICE
+English---Wycliffe-Bible	BYTES	AionianClean	bytes / chars	4671148 / 4670960 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+English---Wycliffe-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+English---Wycliffe-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+English---Wycliffe-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+English---Wycliffe-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+English---Wycliffe-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+English---Wycliffe-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+English---Wycliffe-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+English---Wycliffe-Bible	UNPRINTABLE	Source	count	0	NOTICE
+English---Wycliffe-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+English---Wycliffe-Bible	UNICODE	Summary	(-)Orginal	74	NOTICE
+English---Wycliffe-Bible	UNICODE	Summary	(+)Aionian	78	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : ([)	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : ( )	966761	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (T)	8491	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (e)	561412	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (s)	257631	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (t)	338566	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (a)	259814	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (m)	92326	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (n)	301261	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (1)	31946	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (H)	2813	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (d)	206832	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (i)	279710	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (g)	44869	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (])	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (\n)	37650	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (G)	8562	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (0)	7719	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (:)	37652	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (I)	18014	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (h)	306977	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (b)	54595	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (y)	94357	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (o)	294822	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (f)	103148	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (u)	118166	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (r)	184093	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (.)	31509	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (2)	21797	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (F)	5060	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (w)	69879	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (l)	134212	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (v)	9736	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (,)	99121	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (k)	26506	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (c)	85943	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (p)	40128	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (;)	20985	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (S)	8724	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (L)	11943	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (3)	14729	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (A)	19111	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (4)	11108	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (5)	8455	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (6)	7719	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (7)	7045	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (8)	6955	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (9)	6354	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (`)	6149	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (W)	3286	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (x)	3239	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (M)	6628	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (E)	6945	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (!)	1332	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (Y)	10404	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (j)	2041	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (B)	3878	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (?)	3029	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (C)	4752	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (N)	3387	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (J)	13119	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (O)	817	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (-)	260	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (R)	1806	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (D)	3559	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (V)	159	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (P)	4884	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (z)	2608	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (Z)	616	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (q)	448	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (K)	1715	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (U)	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (X)	3	NOTICE
+English---Wycliffe-Bible	UNICODE	Source(-)	Basic Latin : (Q)	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130562	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42436	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124380	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	8364	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	13623	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	5057	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	7704	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	247242	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	761454	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	283913	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	255177	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	460045	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	42656	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	224161	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	35667	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	80133	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	242399	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	175213	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	70416	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	205809	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	87791	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	93510	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	147486	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	26958	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31094	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31081	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (F)	4279	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	199226	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (w)	58449	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	107938	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	6233	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	86459	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	19801	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	67077	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	34231	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (;)	18321	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	11203	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	11550	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17178	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	24869	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20029	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10272	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10729	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	9533	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7858	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9293	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (`)	5530	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	2584	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (x)	1729	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	6931	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	1269	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (Y)	9872	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	1680	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	4699	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	2824	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	6225	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	11208	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	7375	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	218	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4884	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	6024	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	3784	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1404	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	4724	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	932	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	2130	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (()	265	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : ())	265	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	385	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1211	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2793	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	6	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3510	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Aionian(+)	Basic Latin : (Q)	1	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : ([)	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : ( )	966761	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (T)	8491	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (e)	561412	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (s)	257631	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (t)	338566	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (a)	259814	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (m)	92326	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (n)	301261	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (1)	31946	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (H)	2813	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (d)	206832	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (i)	279710	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (g)	44869	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (])	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (\n)	37650	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (G)	8562	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (0)	7719	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (:)	37652	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (I)	18014	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (h)	306977	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (b)	54595	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (y)	94357	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (o)	294822	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (f)	103148	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (u)	118166	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (r)	184093	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (.)	31509	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (2)	21797	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (F)	5060	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (w)	69879	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (l)	134212	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (v)	9736	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (,)	99121	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (k)	26506	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (c)	85943	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (p)	40128	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (;)	20985	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (S)	8724	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (L)	11943	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (3)	14729	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (A)	19111	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (4)	11108	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (5)	8455	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (6)	7719	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (7)	7045	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (8)	6955	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (9)	6354	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (`)	6149	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (W)	3286	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (x)	3239	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (M)	6628	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (E)	6945	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (!)	1332	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (Y)	10404	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (j)	2041	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (B)	3878	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (?)	3029	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (C)	4752	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (N)	3387	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (J)	13119	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (O)	817	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (-)	260	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (R)	1806	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (D)	3559	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (V)	159	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (P)	4884	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (z)	2608	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (Z)	616	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (q)	448	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (K)	1715	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (')	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (U)	2	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (X)	3	NOTICE
+English---Wycliffe-Bible	UNICODE	Source	Basic Latin : (Q)	2	NOTICE
+
+# VERSIFICATION
+English---Wycliffe-Bible	VERSIFICATION	Aionian	missing	001-GEN-049-032	WARN
+English---Wycliffe-Bible	VERSIFICATION	Aionian	missing	002-EXO-040-013	WARN
+English---Wycliffe-Bible	VERSIFICATION	Aionian	missing	002-EXO-040-014	WARN
+English---Wycliffe-Bible	VERSIFICATION	Aionian	missing	003-LEV-015-023	WARN
+English---Wycliffe-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-038	WARN
+English---Wycliffe-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-039	WARN
+English---Wycliffe-Bible	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+English---Wycliffe-Bible	VERSIFICATION	Summary	missing	7	WARN
+English---Wycliffe-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+English---Wycliffe-Bible	ENCLOSURES	Source	()	0 / 0	NOTICE
+English---Wycliffe-Bible	ENCLOSURES	Source	[]	2 / 2	NOTICE
+English---Wycliffe-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+English---Wycliffe-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+English---Wycliffe-Bible	ENCLOSURES	Aionian	()	265 / 265	NOTICE
+English---Wycliffe-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+English---Wycliffe-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+English---Wycliffe-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+English---Wycliffe-Bible	ENCLOSURES	Summary	lines	0 / 0	NOTICE
+
+# UNEXPECTED
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(`)	6149/5530	WARN
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+English---Wycliffe-Bible	UNEXPECTED	Source/Aionian	Summary	6149/5530	WARN
+
+# NUMERALS
+English---Wycliffe-Bible	NUMERALS	Source	count	0	NOTICE
+English---Wycliffe-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) And Jhesus roos eerli the firste dai of the woke, and apperid firste to Marie Maudeleyne, fro whom he had caste out seuene deuelis.	WARN
+English---Wycliffe-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

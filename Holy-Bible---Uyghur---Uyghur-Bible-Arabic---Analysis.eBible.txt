@@ -1,0 +1,823 @@
+# File Name: Holy-Bible---Holy-Bible---Uyghur---Uyghur-Bible-Arabic---Analysis.txt
+# File Size: 119058      
+# File Date: 12/13/2025 06:06:24
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: مۇقېددېس كالام (يەنگى يېزىق)
+# Bible Name English: Uyghur Bible (arabic script)
+# Bible Language: Uyghur tili
+# Bible Language English: Uyghur
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Mukeddes Kalam - Uyghur Bible Translation Committee
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=uigara
+# Bible Source Year: 2010
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Uyghur---Uyghur-Bible-Arabic	ENCODING	Source	Holy-Bible---Uyghur---Uyghur-Bible-Arabic---Source-Edition.VPL.txt	UTF-8	NOTICE
+Uyghur---Uyghur-Bible-Arabic	ENCODING	Aionian	Holy-Bible---Uyghur---Uyghur-Bible-Arabic---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Uyghur---Uyghur-Bible-Arabic	BYTES	Source	bytes / chars	8560807 / 4737689 (multi-byte)	NOTICE
+Uyghur---Uyghur-Bible-Arabic	BYTES	Aionian	bytes / chars	8772218 / 4948994 (multi-byte)	NOTICE
+Uyghur---Uyghur-Bible-Arabic	BYTES	SourceClean	bytes / chars	8559974 / 4736856 (multi-byte)	NOTICE
+Uyghur---Uyghur-Bible-Arabic	BYTES	AionianClean	bytes / chars	8767821 / 4945260 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Uyghur---Uyghur-Bible-Arabic	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	AIONIAN	Aionian	missing-verse	0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Uyghur---Uyghur-Bible-Arabic	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Uyghur---Uyghur-Bible-Arabic	UNPRINTABLE	Source	count	0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Summary	(-)Orginal	55	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Summary	(+)Aionian	55	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (G)	2294	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : ( )	598246	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (1)	30190	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (:)	38561	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (.)	28730	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (\n)	30824	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (2)	21497	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (3)	12151	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (!)	4674	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (4)	9060	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (5)	6979	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (6)	6415	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (-)	10282	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (7)	5844	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (8)	5721	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (9)	5588	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (0)	5257	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	General Punctuation : (‏)	254	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Latin-1 Supplement: ( )	60	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (()	705	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : ())	707	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (O)	6630	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (L)	2552	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (U)	3464	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (M)	4020	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (D)	1945	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (S)	6363	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (T)	2719	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (A)	9079	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (H)	4070	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (P)	3843	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (|)	354	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (א)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ב)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ג)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ד)	10	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ה)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ו)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ז)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ח)	12	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ט)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (י)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (כ)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ל)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (מ)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (נ)	8	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ס)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ע)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (פ)	10	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (צ)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ק)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ר)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ש)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Basic Latin : (,)	2	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source(-)	Hebrew : (ת)	6	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (0)	129402	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (1)	42077	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (\t)	123288	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (G)	2306	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : ( )	537023	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (.)	28727	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (\n)	30821	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (2)	30862	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (3)	17048	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (:)	7739	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (!)	4673	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (4)	19819	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (5)	10153	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (6)	10648	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (-)	10283	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (7)	7373	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (8)	7792	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (9)	9223	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (()	971	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : ())	973	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (S)	6425	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (h)	129	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (e)	99	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (o)	149	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (l)	69	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (O)	6629	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (L)	2557	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (U)	3465	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (M)	4021	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (D)	1946	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (T)	2721	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (A)	9086	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (H)	4081	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (P)	3847	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (,)	10	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (n)	202	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (d)	17	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (s)	114	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (i)	247	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (t)	7	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (u)	3	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	General Punctuation : (‏)	11	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (G)	2294	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (E)	10814	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (N)	3621	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : ( )	598246	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (1)	30190	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (:)	38561	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (م)	116843	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ۇ)	158976	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ق)	113480	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ە)	258383	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (د)	154383	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (خ)	18692	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ا)	334295	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ئ)	150774	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (س)	87159	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ن)	254219	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ل)	236004	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ر)	212829	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ب)	91035	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ى)	551252	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ز)	45781	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ې)	59951	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ي)	91202	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ت)	119498	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (.)	28730	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (\n)	30824	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (2)	21497	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (چ)	41412	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (غ)	57287	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (و)	58116	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ش)	61264	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ك)	87619	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ۋ)	37853	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (پ)	68888	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ھ)	43023	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (؛)	15062	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ڭ)	74355	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ۈ)	54373	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (3)	12151	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Latin-1 Supplement: («)	5100	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (!)	4674	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Latin-1 Supplement: (»)	4992	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (،)	48994	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (4)	9060	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ۆ)	29796	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (5)	6979	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ج)	11327	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (6)	6415	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ـ)	20525	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : ([)	3240	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (-)	10282	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (])	3240	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (گ)	40906	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (7)	5844	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (8)	5721	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (9)	5588	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (0)	5257	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	General Punctuation : (‏)	254	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Latin-1 Supplement: ( )	60	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ف)	1886	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (؟)	3459	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (()	705	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : ())	707	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (X)	1209	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (O)	6630	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	General Punctuation : (—)	404	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (L)	2552	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (V)	1260	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ژ)	26	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (U)	3464	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (M)	4020	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	General Punctuation : (‍)	195	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	General Punctuation : (‹)	27	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	General Punctuation : (›)	27	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ه)	11	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (D)	1945	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (٪)	1	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (J)	4943	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (S)	6363	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (R)	4121	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (T)	2719	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (A)	9079	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (K)	2663	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (I)	3257	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (C)	4272	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (H)	4070	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (Z)	1808	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (B)	1435	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (P)	3843	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (|)	354	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (א)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ב)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ג)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ד)	10	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ה)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ו)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ז)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ח)	12	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ט)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (י)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (כ)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ל)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (מ)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (נ)	8	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ס)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ע)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (פ)	10	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (צ)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ק)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ר)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ש)	9	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	General Punctuation : (“)	2	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	General Punctuation : (”)	2	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Basic Latin : (,)	2	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ُ)	2	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Arabic : (ع)	4	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNICODE	Source	Hebrew : (ת)	6	NOTICE
+
+# VERSIFICATION
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-001-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-005-029	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-007-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-007-009	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-008-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-009-009	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-009-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-009-013	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-009-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-010-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-015-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-017-027	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-018-009	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-020-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-021-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-023-006	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-024-065	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-025-008	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-026-029	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-027-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-028-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-029-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-030-039	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-031-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-032-014	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-032-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-032-020	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-036-011	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-036-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-036-013	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-036-021	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-036-030	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-036-041	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-036-042	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-036-043	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-037-024	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-041-046	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-045-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-046-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	001-GEN-050-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	002-EXO-018-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	002-EXO-028-014	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	002-EXO-028-034	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	002-EXO-040-032	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	003-LEV-017-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-004-023	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-004-035	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-004-039	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-004-043	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-004-047	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-005-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-005-022	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-007-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-015-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-016-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-016-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-021-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	004-NUM-027-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-001-033	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-004-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-004-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-009-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-010-013	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-011-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-013-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-013-013	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-016-014	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-017-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	005-DEU-028-057	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	006-JOS-001-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	006-JOS-002-013	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	006-JOS-003-011	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	006-JOS-013-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	006-JOS-023-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	007-JDG-020-028	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	010-2SA-007-011	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	010-2SA-008-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	010-2SA-023-033	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	011-1KI-011-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	011-1KI-011-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	012-2KI-010-033	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	012-2KI-022-006	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	013-1CH-004-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	013-1CH-008-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	013-1CH-010-014	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	013-1CH-017-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	014-2CH-002-009	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	014-2CH-015-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	014-2CH-030-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	014-2CH-036-022	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	014-2CH-036-023	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	015-EZR-009-011	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	016-NEH-001-009	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	016-NEH-004-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	016-NEH-011-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-003-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-010-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-010-021	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-010-022	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-013-028	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-016-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-037-022	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-037-023	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	018-JOB-038-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-007-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-010-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-033-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-044-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-046-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-049-008	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-049-009	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-064-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-076-009	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-077-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-077-011	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-078-043	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-096-013	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-102-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-102-020	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-102-022	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-103-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-132-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	019-PSA-132-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	020-PRO-006-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	020-PRO-007-023	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	020-PRO-008-023	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	020-PRO-008-026	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	020-PRO-008-028	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	020-PRO-008-029	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	020-PRO-026-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	021-ECC-008-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	021-ECC-008-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	023-ISA-003-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	023-ISA-018-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	023-ISA-025-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	023-ISA-036-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	023-ISA-057-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	023-ISA-064-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	023-ISA-065-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	024-JER-032-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	024-JER-032-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	024-JER-039-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	024-JER-044-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	024-JER-051-035	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	026-EZE-013-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	026-EZE-016-057	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	026-EZE-018-011	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	026-EZE-023-030	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	026-EZE-039-027	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	026-EZE-041-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	026-EZE-041-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	026-EZE-041-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	027-DAN-004-021	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	028-HOS-002-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	028-HOS-011-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	033-MIC-003-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	040-MAT-027-053	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-001-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-001-044	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-005-023	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-006-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-007-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-007-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-007-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-007-022	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	041-MAR-011-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-027	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-042	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-054	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-069	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-071	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-073	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-074	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-075	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-001-079	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-004-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-011-051	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-013-021	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-014-030	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-019-038	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-020-043	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-024-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	042-LUK-024-034	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	043-JOH-001-025	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	043-JOH-004-008	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	043-JOH-010-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	043-JOH-011-052	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	043-JOH-012-040	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	043-JOH-019-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	043-JOH-019-037	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-001-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-001-025	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-002-011	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-002-035	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-008-028	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-010-035	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-010-038	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-010-041	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-013-033	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-014-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-015-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-015-035	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-018-013	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-024-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-026-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-026-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-027-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-001-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-002-020	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-004-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-004-024	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-004-025	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-005-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-008-021	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-009-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-009-024	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-015-009	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-015-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	045-ROM-015-024	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	046-1CO-001-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	046-1CO-003-020	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	046-1CO-010-033	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	046-1CO-011-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	046-1CO-016-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	047-2CO-001-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	047-2CO-001-014	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	047-2CO-012-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	047-2CO-013-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	048-GAL-001-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	048-GAL-004-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	048-GAL-005-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	049-EPH-001-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	049-EPH-003-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	049-EPH-005-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	049-EPH-006-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	050-PHI-001-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	050-PHI-002-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	051-COL-001-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	051-COL-001-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	051-COL-001-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	051-COL-001-022	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	051-COL-002-021	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	052-1TH-001-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	052-1TH-002-012	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	052-1TH-004-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	053-2TH-001-007	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	053-2TH-002-017	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	054-1TI-001-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	054-1TI-001-019	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	054-1TI-006-015	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	055-2TI-001-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	055-2TI-003-011	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	056-TIT-001-014	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	056-TIT-002-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	057-PHM-001-005	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	058-HEB-006-001	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	058-HEB-006-004	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	058-HEB-006-006	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	058-HEB-007-020	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	058-HEB-011-018	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	058-HEB-012-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	059-JAM-001-010	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	059-JAM-001-024	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	059-JAM-002-016	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	059-JAM-005-008	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	060-1PE-002-003	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	060-1PE-002-008	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	060-1PE-002-014	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	060-1PE-003-002	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	063-2JO-001-001	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	066-REV-002-025	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Aionian	missing	066-REV-009-014	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Summary	missing	280	WARN
+Uyghur---Uyghur-Bible-Arabic	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	()	705 / 707	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	[]	3240 / 3240	NOTICE
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	()	971 / 973	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	[]	3240 / 3240	NOTICE
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	EXO 18:2‏ شۇنىڭ بىلەن مۇسانىڭ قېينئاتىسى يەترو مۇسانىڭ ئەسلىدە ئۆز يېنىغا ئەۋەتىۋەتكەن ئايالى زىپپوراھ ۋە ئۇنىڭ ئىككى ئوغلىنى ئېلىپ يولغا چىقتى (بىرىنچى ئوغلىنىڭ ئىسمى گەرشوم دەپ قويۇلغانىدى؛ چۈنكى مۇسا: «مەن ياقا يۇرتتا مۇساپىر بولۇپ تۇرۇۋاتىمەن» دېگەنىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	EXO 18:4 يەنە بىرىنىڭ ئىسمى ئەلىئېزەر دەپ قويۇلغانىدى؛ چۈنكى مۇسا: «ئاتامنىڭ خۇداسى ماڭا ياردەمدە بولۇپ، مېنى پىرەۋننىڭ قىلىچىدىن قۇتقۇزدى»، دېگەنىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 2:10 (ئەمىيلەر ئەسلىدە شۇ يەردە تۇراتتى؛ ئۇلار ئاناكىيلارغا ئوخشاش كۈچلۈك، سانى كۆپ، ئېگىز بويلۇق بىر خەلق ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 2:12 سېئىردا ئەسلىدە ھورىيلار تۇراتتى؛ لېكىن ئەساۋلار ھورىيلارنى زېمىنىدىن ھەيدىۋېتىپ، ئۇلارنى يوقىتىپ ئورنىغا ئولتۇراقلاشتى ــ خۇددى ئىسرائىللار مەنكى پەرۋەردىگار ئۇلارغا تەقدىم قىلغان، ئۇلارنىڭ تەۋەلىكى بولغان زېمىنغا قىلغىنىغا ئوخشاش).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 2:20 (بۇ زېمىنمۇ «گىگانتلارنىڭ زېمىنى» ھېسابلىنىدۇ؛ چۈنكى ئىلگىرى گىگانتلار شۇ يەردە تۇرغانىدى؛ ئاممونىيلار ئۇلارنى «زامزۇملار» دەپ ئاتايدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 2:23 ۋە گازا شەھىرىگىچە كەنت-قىشلاقلاردا ئولتۇراقلاشقان ئاۋۋىيلارنى بولسا، كافتوردىن چىققان كافتورىيلار يوقىتىپ، ئۇلارنىڭ ئورنىغا ئولتۇراقلاشتى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 3:13 گىلېئادنىڭ قالغان زېمىنى ۋە ئوگ پادىشاھنىڭ زېمىنى بولغان پۈتكۈل باشاننى مەن ماناسسەھنىڭ يېرىم قەبىلىسىگە تەقدىم قىلدىم (پۈتكۈل ئارگوب رايونى، يەنى پۈتكۈل باشان «گىگانتلارنىڭ زېمىنى» دېيىلىدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 3:14 ماناسسەھنىڭ ئوغلى يائىر پۈتكۈل ئارگوب رايونىنى، يەنى باشاننى گەشۇرىيلار ۋە مائاكاتىيلارنىڭ چېگرىسىغىچە ئىگىلىگەن ۋە ئۇنى ئۆز ئىسمى بىلەن «ھاۋۋوت-يائىر» دەپ ئاتىغان. بۈگۈنگە قەدەر ئۇ شۇنداق ئاتالماقتا).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 4:45 (بۇلار بولسا ئىسرائىللار مىسىردىن چىققاندا مۇسا [پەيغەمبەر] ئۇلارغا جاكارلىغان ئاگاھ-گۇۋاھلار، بەلگىلىمىلەر ھەم ھۆكۈملەردۇر؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 4:49 شۇنداقلا ئىئوردان دەرياسىنىڭ شەرق تەرىپىدىكى پۈتكۈل ئاراباھ تۈزلەڭلىكى ۋە پىسگاھ تېغىنىڭ باغرىغا جايلاشقان «تۈزلەڭلىكتىكى دېڭىز»غىچە ئىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 6:2 (شۇنىڭ بىلەن سىلەر، يەنى سەن ئۆزۈڭ، ئوغلۇڭ ۋە نەۋرەڭ بارلىق تىرىك كۈنلىرىڭلاردا پەرۋەردىگار خۇدايىڭلاردىن قورقۇپ، مەن سىلەرگە تاپىلاۋاتقان ئۇنىڭ بارلىق بەلگىلىمە ۋە ئەمرلىرىنى تۇتىسىلەر، شۇنداقلا ئۇزۇن كۈنلەرنى كۆرىسىلەر.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 6:3 سەن، ئى ئىسرائىل، ئۇلارنى ئاڭلاپ ئەمەل قىلىشقا كۆڭۈل قويۇڭلار؛ شۇنىڭ بىلەن ئاتا-بوۋىلىرىڭلارنىڭ خۇداسى پەرۋەردىگار سىلەرگە دېگىنىدەك، سۈت بىلەن ھەسەل ئېقىپ تۇرىدىغان مۇنبەت زېمىندا تۇرۇپ، ھالىڭلار ياخشى بولىدۇ ۋە سانىڭلار ئىنتايىن كۆپىيىدۇ): ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 8:15 (ئۇ سېنى بىپايان ۋە دەھشەتلىك چۆل-باياۋاندىن، يەنى زەھەرلىك يىلانلار ۋە چايانلار قاپلاپ كەتكەن، سۇسىراپ قاغجىراپ كەتكەن بىر چۆل-باياۋاندىن يېتەكلەپ چىققان، شۇ يەردە ساڭا چاقماق تېشىدىن سۇ چىقىرىپ بەرگەن،	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 8:16 سېنى ئۆزىنى تۆۋەن تۇتسۇن دەپ سىناپ، ساڭا ئاخىر راھەت-بەرىكەت كۆرسىتىش ئۈچۈن چۆل-باياۋاندا ئاتا-بوۋىلىرىڭ كۆرۈپ باقمىغان «ماننا» بىلەن ئوزۇقلاندۇرغان)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 9:22 (سىلەر يەنە تابەراھ، ماسساھ، كىبروت-ھاتتاۋاھدىمۇ پەرۋەردىگارنى غەزەپلەندۈردۈڭلار.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 9:24 مەن سىلەرنى تونۇغان كۈندىن تارتىپ سىلەر پەرۋەردىگار خۇدايىڭلارغا ئاسىيلىق قىلىپ كەلدىڭلار).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 11:4 (چۈنكى ئۇلار [پەرۋەردىگارنىڭ] مىسىرنىڭ قوشۇنى، ئۇلارنىڭ ئاتلىرى، ئۇلارنىڭ جەڭ ھارۋىلىرىغا قىلغان ئىشلىرى، يەنى قىزىل دېڭىزنىڭ سۇلىرى بىلەن ئۇلارنى غەرق قىلىپ، ئۈزۈل-كېسىل ھالاك قىلغانلىقى،	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 11:6 ئۇنىڭ رۇبەننىڭ ئەۋلادى، ئېلىئابنىڭ ئوغۇللىرى داتان ۋە ئابىرامغا نېمە قىلغانلىقى، يەنى پۈتۈن ئىسرائىللار ئارىسىدا يەر يۈزىنىڭ ئاغزىنى قانداق ئېچىپ ئۇلارنى ئائىلىسىدىكىلىرى ۋە چېدىرلىرى بىلەن قوشۇپ بارلىق تەئەللۇقاتلىرى بىلەن يۇتۇۋەتكەنلىكىنى كۆرمىگەنىدى)؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DEU 29:16 (چۈنكى سىلەر بىزنىڭ مىسىر زېمىنىدا قانداق تۇرغانلىقىمىز ۋە سەپىرىمىزدە ئەللەرنىڭ ئوتتۇرىسىدىن قانداق ئۆتۈپ كەلگىنىمىزنى ئوبدان بىلىسىلەر؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DEU 29:17 سىلەر ئۇلارنىڭ ئارىسىدىكى يىرگىنچلىك نەرسىلەرنى، ئۇلارنىڭ ئارىسىدىكى ياغاچ، تاش، ئالتۇن ۋە كۈمۈشتىن ياسالغان بۇتلارنى كۆردۈڭلار).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JDG 8:1 (كېيىن، ئەفرائىملار ئۇنىڭغا: ــ سەن نېمىشقا بىزگە شۇنداق مۇئامىلە قىلىسەن، مىدىيانىيلار بىلەن سوقۇشقا چىققاندا، بىزنى چاقىرمىدىڭغۇ، دەپ ئۇنىڭ بىلەن قاتتىق دېيىشىپ كەتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JDG 8:3 خۇدا مىدىياننىڭ ئەمىرلىرى ئورەب بىلەن زەئەبنى قولۇڭلارغا تاپشۇرغان يەردە، مېنىڭ قولۇمدىن كەلگىنىنى قانداقمۇ سىلەرنىڭ قىلغىنىڭلارغا تەڭلەشتۈرگىلى بولسۇن؟ ــ دېدى. شۇنداق دېۋىدى، ئۇلارنىڭ ئۇنىڭغا بولغان ئاچچىقى ياندى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JDG 9:17 (چۈنكى ئاتام سىلەر ئۈچۈن جەڭ قىلىپ، ئۆز جېنىنى خەتەرگە تەۋەككۇل قىلىپ سىلەرنى مىدىياننىڭ قولىدىن قۇتقۇزدى!	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JDG 9:18 لېكىن سىلەر بۈگۈن ئاتامنىڭ جەمەتىگە قارشى قوزغىلىپ، ئۇنىڭ ئوغۇللىرىنى، جەمئىي يەتمىش ئادەمنى بىر تاشنىڭ ئۈستىدە ئۆلتۈرۈپ، ئۇنىڭ دېدىكىنىڭ ئوغلى ئابىمەلەكنى تۇغقىنىڭلار بولغىنى ئۈچۈن شەكەم خەلقىنىڭ ئۈستىگە پادىشاھ قىلىپ تىكلەپسىلەر!)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	2SA 4:2 سائۇلنىڭ ئوغلىنىڭ قوشۇنىنىڭ ئالدىن يۈرەر قىسمىدا ئىككى سەردارى بولۇپ، بىرىنىڭ ئىسمى بائاناھ، يەنە بىرىنىڭ ئىسمى رەكاب ئىدى. ئۇلار بىنيامىن قەبىلىسىدىن بولغان بەئەروتلۇق رىمموننىڭ ئوغۇللىرى ئىدى (چۈنكى بەئەروت بىنيامىن قەبىلىسىگە تەۋە ھېسابلىناتتى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	2SA 4:3 لېكىن بەئەروتلۇقلار گىتتائىمغا قېچىپ بېرىپ ئۇ يەردە بۇ كۈنگىچە مۇساپىردەك ياشاۋاتىدۇ).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1KI 10:11 (ھىرامنىڭ ئوفىردىن ئالتۇن ئەپكېلىدىغان كېمىلىرىمۇ ئوفىردىن يەنە ئىنتايىن زور مىقداردىكى سەندەل ياغىچى ۋە ياقۇت-گۆھەرلەرنى ئېلىپ كەلدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	1KI 10:12 پادىشاھ سەندەل ياغىچىدىن پەرۋەردىگارنىڭ ئۆيى ئۈچۈن ۋە پادىشاھنىڭ ئوردىسى ئۈچۈن پەلەمپەي-سالاسۇنلار ياساتتى ھەم نەغمە-ناۋاچىلار ئۈچۈن چىلتارلار ۋە سازلارنى شۇنىڭدىن ياساتتى. شۇ ۋاقىتتىن كېيىن شۇنداق زور مىقداردىكى ئېسىل سەندەل ياغىچى بۇ ۋاقىتقىچە ھېچ كەلتۈرۈلمىدى يا كۆرۈلۈپ باقمىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1KI 18:3 ئاھاب ئوردىسىدىكى غوجىدار ئوبادىيانى چاقىردى (ئوبادىيا تولىمۇ تەقۋادار كىشى بولۇپ پەرۋەردىگاردىن ئىنتايىن قورقاتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	1KI 18:4 يىزەبەل پەرۋەردىگارنىڭ پەيغەمبەرلىرىنى ئۆلتۈرۈپ يوقىتىۋاتقاندا ئوبادىيا يۈز پەيغەمبەرنى ئېلىپ ئەللىكتىن-ئەللىكتىن ئايرىم-ئايرىم ئىككى غارغا يوشۇرۇپ، ئۇلارنى نان ۋە سۇ بىلەن باققانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1KI 21:25 (بەرھەق، خوتۇنى يىزەبەلنىڭ قۇترىتىشلىرى بىلەن پەرۋەردىگارنىڭ نەزىرىدە رەزىللىك قىلغىلى ئۆزىنى ساتقان ئاھابدەك ھېچكىم يوق ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	1KI 21:26 ئۇ پەرۋەردىگار ئىسرائىللارنىڭ ئالدىدىن ھەيدەپ قوغلىۋەتكەن ئامورىيلارنىڭ قىلغىنىدەك قىلىپ، يىرگىنچلىك بۇتلارغا تايىنىپ ئەگىشىپ، لەنەتلىك ئىشلارنى قىلاتتى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	2KI 20:7 (يەشايا بولسا: ــ «ئەنجۈر پوشكىلى تەييارلاڭلار، دېدى. ئۇلار ئۇنى ئېلىپ كېلىپ، يارىسىغا چاپلىۋىدى، ئۇ ساقايدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	2KI 20:11 شۇنىڭ بىلەن يەشايا پەيغەمبەر پەرۋەردىگارغا نىدا قىلدى ۋە ئۇ قۇياشنىڭ ئاھاز پادىشاھ قۇرغان پەلەمپەي باسقۇچىلىرى ئۈستىگە چۈشكەن سايىسىنى ياندۇرۇپ، ئون باسقۇچ كەينىگە ماڭدۇردى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1CH 5:1 ئىسرائىلنىڭ تۇنجى ئوغلى رۇبەننىڭ ئوغۇللىرى مۇنۇلار: ــ (رۇبەن گەرچە تۇنجى ئوغۇل بولغىنى بىلەن، لېكىن [ئاتىسىنىڭ توقىلى بىلەن] زىنا قىلغانلىقى ئۈچۈن، ئۇنىڭ چوڭ ئوغۇللۇق ھوقۇقى ئىسرائىلنىڭ ئوغلى بولغان يۈسۈپنىڭ ئوغۇللىرىغا ئۆتكۈزۈۋېتىلگەن. شۇڭا نەسەبنامە بويىچە ئۇ چوڭ ئوغۇل ھېسابلانمايدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	1CH 5:2 يەھۇدا قېرىنداشلىرى ئىچىدە ئۈستۈنلۈككە ئىگە بولغان بولسىمۇ ۋە ئىدارە قىلغۇچى ئۇنىڭدىن چىققان بولسىمۇ، لېكىن چوڭ ئوغۇللۇق ھوقۇقى يۈسۈپكە تەۋە بولۇپ كەتكەن): ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1CH 7:21 تاھاتنىڭ ئوغلى زاباد، زابادنىڭ ئوغلى شۇتىلاھ ئىدى (ئېزەر بىلەن ئېلىئاد گاتلىقلارنىڭ چارۋا ماللىرىنى بۇلاڭ-تالاڭ قىلغىلى چۈشكەندە، شۇ يەرلىك گاتلىقلار تەرىپىدىن ئۆلتۈرۈلگەن.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	1CH 7:24 ئۇنىڭ قىزى ئۈستۈن بەيت-ھورون بىلەن تۆۋەن بەيت-ھوروننى ۋە ئۇززەن-شەئەراھنى بىنا قىلغان).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1CH 9:22 دەرۋازىۋەنلىككە تاللانغان بۇ كىشىلەر جەمئىي ئىككى يۈز ئون ئىككى كىشى ئىدى؛ ئۇلار ئۆز يېزا-كەنتلىرىدە، نەسەبلىرى بويىچە تىزىملانغان (ئەسلىدە داۋۇت ۋە ئالدىن كۆرگۈچى سامۇئىل ئۇلارنى ئامانەت قىلىنغان ۋەزىپىلىرىگە بېكىتكەنىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	1CH 9:23 ئۇلار ۋە ئۇلارنىڭ ئەۋلادلىرى پەرۋەردىگارنىڭ ئۆيى، يەنى مۇقەددەس چېدىرنىڭ ئىشىك-دەرۋازىلىرىنى بېقىشقا بېكىتىلگەنىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1CH 12:1 داۋۇت كىشنىڭ ئوغلى سائۇلنىڭ بېسىمى سەۋەبىدىن زىكلاگدا يوشۇرۇنۇپ ياتقان چاغدا مۇنۇ كىشىلەر داۋۇتنىڭ يېنىغا كېلىشتى (ئۇلارنىڭ ھەممىسى داۋۇتقا جەڭ قىلىشتا ياردەم بەرگەن باتۇرلاردىن ئىدى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	1CH 12:2 ئوقيا بىلەن قوراللانغان بولۇپ، ئوڭ قولى بىلەنمۇ، سول قولى بىلەنمۇ ئوقيا ۋە سالغا ئاتالايتتى؛ ئۇلار سائۇلنىڭ بىنيامىن قەبىلىسىدىن بولغان تۇغقانلىرى ئىدى):	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	2CH 5:11 كاھىنلار مۇقەددەس جايدىن چىقىشتى (شۇ يەردە ھازىر بولغان بارلىق كاھىنلار، ئۆز نۆۋىتىگە قارىماي ئۆزلىرىنى خۇداغا ئاتاپ پاكىزلىغانىدى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	2CH 5:12 نەغمە-ناۋاچى بارلىق لاۋىيلار، جۈملىدىن ئاساف، ھېمان، يەدۇتۇن ۋە ئۇلارنىڭ ئوغۇللىرى ھەم قېرىنداشلىرى چەكمەن تونلىرىنى كىيىشىپ، قۇربانگاھنىڭ شەرقىدە تۇرۇپ جاڭ، تەمبۇر ۋە چىلتارلار چېلىشىۋاتقانىدى؛ ئۇلار بىلەن بىللە كاناي چېلىۋاتقان يەنە بىر يۈز يىگىرمە كاھىن بار ئىدى)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	2CH 9:10 (ئوفىردىن ئالتۇنلارنى ئەپكېلىدىغان ھۇرامنىڭ خىزمەتكارلىرى ۋە سۇلايماننىڭ خىزمەتكارلىرى يەنە ئىنتايىن زور مىقداردىكى سەندەل ياغىچىنى ۋە ياقۇت-گۆھەرلەرنىمۇ ئېلىپ كەلدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	2CH 9:11 پادىشاھ سەندەل ياغىچىدىن پەرۋەردىگارنىڭ ئۆيى ئۈچۈن ۋە پادىشاھنىڭ ئوردىسى ئۈچۈن پەلەمپەيلەر ياساپ ھەم نەغمە-ناۋاچىلار ئۈچۈن چىلتارلار ۋە سازلارنى شۇنىڭدىن ياساتتى. شۇنداق ئېسىل سەندەل ياغىچى يەھۇدا زېمىنىدا بۇ ۋاقىتقىچە ھېچ كۆرۈلۈپ باقمىغانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	2CH 30:2 (پادىشاھ، ئەمەلدارلىرى ۋە يېرۇسالېمدىكى بارلىق جامائەت بىلەن بىللە مەسلىھەتلىشىپ، ئىككىنچى ئايدا ئۆتۈپ كېتىش ھېيتىنى ئۆتكۈزەيلى دەپ قارارغا كېلىشتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	2CH 30:3 لېكىن پاكلانغان كاھىنلار يېتىشمىگەچكە، خەلقمۇ يېرۇسالېمغا يىغىلىپ بولمىغاچقا، ھېيتنى ۋاقتىدا ئۆتكۈزەلمىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JOB 32:15 (بۇ ئۈچەيلەن ھەيرانۇھەس بولۇپ، قايتا جاۋاب بېرىشمىدى؛ ھەممە سۆز ئۇلاردىن ئۇچۇپ كەتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JOB 32:16 مەن كۈتۈپ تۇراتتىم، چۈنكى ئۇلار گەپ قىلمىدى، بەلكى جىمجىت ئۆرە تۇرۇپ قايتا جاۋاب بەرمىدى)؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	ISA 38:21 (يەشايا بولسا: ــ «ئەنجۈر پوشكىلى تەييارلاپ، يارىسىغا چاپلاڭلار، ئۇ ئەسلىگە كېلىدۇ»، دېگەنىدى	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	ISA 38:22 ۋە ھەزەكىيا: ــ «مېنىڭ پەرۋەردىگارنىڭ ئۆيىگە چىقىدىغانلىقىمنى ئىسپاتلايدىغان قانداق بېشارەتلىك ئالامەت بېرىلىدۇ؟» دەپ سورىغانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	ISA 44:25 (ئۇ بولسا يالغان [پەيغەمبەرلەرنىڭ] بېشارەتلىرىنى بىكار قىلغۇچى، پالچىلارنى قايمۇقتۇرغۇچى، دانالارنى يولىدىن ياندۇرغۇچى، ئۇلارنىڭ بىلىملىرىنى نادانلىققا ئايلاندۇرغۇچى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	ISA 44:28 ھەم قورەش توغرىسىدا: «ئۇ مېنىڭ قوي پادىچىم، ئۇ مېنىڭ كۆڭلۈمدىكىگە تولۇق ئەمەل قىلىپ، يېرۇسالېمغا: «قۇرۇلىسەن»، ھەم ئىبادەتخانىغا: «سېنىڭ ئۇلۇڭ سېلىنىدۇ» دەيدۇ» ــ دېگۈچىدۇر): ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JER 21:3 يەرەمىيا ئۇلارغا: ــ زەدەكىياغا مۇنداق دەڭلار، ــ دېدى)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JER 26:20 (پەرۋەردىگارنىڭ نامىدا يەرەمىيانىڭ بارلىق دېگەنلىرىدەك بۇ شەھەرنى ۋە بۇ زېمىننى ئەيىبلەپ بېشارەت بەرگەن، كىرىئات-يېئارىملىق شەمايانىڭ ئوغلى ئۇرىيا ئىسىملىك يەنە بىر ئادەم بار ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JER 26:23 ئۇلار ئۇرىيانى مىسىردىن ئېلىپ چىقىپ پادىشاھ يەھوئاكىمنىڭ ئالدىغا ئاپارغان؛ ئۇ ئۇنى قىلىچلاپ، جەسىتىنى پۇقرالارنىڭ گۆرلۈكىگە تاشلىۋەتكەن).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JER 29:2 (خەت پادىشاھ يەكونىياھ، خانىش، ۋەزىرلەر، يەھۇدا ۋە يېرۇسالېمدىكى شاھزادە-ئەمىرلەر ۋە ھۈنەرۋەنلەر يېرۇسالېمدىن كەتكەندىن كېيىن،	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JER 29:3 شافاننىڭ ئوغلى ئەلاساھنىڭ ۋە ھىلقىيانىڭ ئوغلى گەمارىيانىڭ قولى بىلەن يوللانغان ــ يەھۇدا پادىشاھى زەدەكىيا بۇ كىشىلەرنى بابىل پادىشاھى نېبوقادنەسارنىڭ ئالدىغا يوللىغان). يوللىغان خەت مۇنداق: ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JER 29:28 چۈنكى ئۇ ھەتتا بابىلدا تۇرۇۋاتقان بىزلەرگىمۇ: «شۇ يەردە بولغان ۋاقتىڭلار ئۇزۇن بولىدۇ؛ شۇڭا ئۆيلەرنى سېلىڭلار، ئۇلاردا تۇرۇڭلار، باغلارنى بەرپا قىلىڭلار، ئۇلارنىڭ مېۋىسىنى يەڭلار» دەپ خەت يوللىدى!»)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JER 32:1 يەھۇدا پادىشاھى زەدەكىيانىڭ ئونىنچى يىلى، يەرەمىياغا پەرۋەردىگاردىن كەلگەن سۆز تۆۋەندە خاتىرىلەنگەن (شۇ يىل نېبوقادنەسارنىڭ ئون سەككىزىنچى يىلى ئىدى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JER 32:3‏ چۈنكى يەھۇدا پادىشاھى زەدەكىيا ئۇنى ئەيىبلەپ: «نېمىشقا سەن: «مانا، مەن بۇ شەھەرنى بابىل پادىشاھىنىڭ قولىغا تاپشۇرىمەن؛ ئۇ ئۇنى ئىشغال قىلىدۇ؛ يەھۇدا پادىشاھى زەدەكىيا كالدىيلەرنىڭ قولىدىن قېچىپ قۇتۇلالمايدۇ؛ چۈنكى ئۇ بابىل پادىشاھىنىڭ قولىغا تاپشۇرۇلماي قالمايدۇ؛ ئۇ ئۇنىڭ بىلەن يۈز تۇرانە سۆزلىشىدۇ، ئۆز كۆزى بىلەن ئۇنىڭ كۆزىگە قارايدۇ. ئۇ زەدەكىيانى بابىلغا ئاپىرىدۇ، ئۇ مەن ئۇنىڭغا يېقىنلىشىپ تولۇق بىر تەرەپ قىلغۇچە شۇ يەردە تۇرىدۇ، دەيدۇ پەرۋەردىگار؛ سىلەر كالدىيلەر بىلەن قارشىلاشساڭلارمۇ غەلىبە قىلالمايسىلەر! ــ دەيدۇ پەرۋەردىگار» ــ دەپ بېشارەت بېرىسەن؟» ــ دەپ ئۇنى قاماپ قويغانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JER 34:9 (ئەھدە بويىچە ھەربىرى ئۆز ئىبرانىي قۇللىرىنى، ئەر بولسۇن، قىز-ئايال بولسۇن، قويۇۋېتىشى كېرەك ئىدى؛ ھېچقايسىسى ئۆز قېرىندىشى بولغان يەھۇدىينى قۇللۇقتا قالدۇرماسلىقى كېرەك ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JER 34:11 لېكىن ئۇنىڭدىن كېيىن ئۇلار بۇ يولدىن يېنىپ قويۇۋەتكەن قۇل-دېدەكلەرنى ئۆزىگە قايتۇرۇۋالدى. ئۇلار بۇلارنى قايتىدىن مەجبۇرىي قۇل-دېدەك قىلىۋالدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JER 37:4 (شۇ چاغدا يەرەمىيا زىنداندا قاماقلىق ئەمەس ئىدى؛ ئۇ خەلق ئارىسىغا چىقىپ-كىرىشكە ئەركىن ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JER 37:5 پىرەۋننىڭ قوشۇنى مىسىردىن چىققانىدى؛ يېرۇسالېمنى قورشىۋالغان كالدىيلەر بۇلارنىڭ خەۋىرىنى ئاڭلاپ يېرۇسالېمدىن چېكىنىپ كەتكەنىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	DAN 8:11 (ئۇ تولىمۇ مەغرۇرلىنىپ، ھەتتا ساماۋىي قوشۇننىڭ سەردارى بىلەن تەڭ بولماقچى بولۇپ، ئىبادەتخانىدا سەردارغا ئاتاپ كۈندىلىك قۇربانلىق سۇنۇشنى ئەمەلدىن قالدۇردى، ھەمدە سەردارنىڭ ئىبادەتخانىسىدىكى «مۇقەددەس جاي»نى ۋەيران قىلىۋەتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	DAN 8:12 ئاسىيلىق تۈپەيلىدىن خۇدانىڭ خەلقى ۋە كۈندىلىك قۇربانلىق چوڭ مۈڭگۈزگە تاپشۇرۇلىدۇ). ئۇ ھەقىقەتنى ئاياغ ئاستى قىلىدۇ؛ ئۇنىڭ بارلىق ئىشلىرى ناھايىتى ئوڭۇشلۇق بولدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	HOS 3:2 (شۇڭا مەن ئون بەش كۈمۈش تەڭگە، بىر خومىر بۇغداي ۋە يېرىم خومىر ئارپىغا ئۆزۈمگە قايتۇرۇۋالدىم؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	HOS 3:3 مەن ئۇنىڭغا: «سەن مەن ئۈچۈن ئۇزۇن كۈنلەر كۈتىسەن؛ سەن پاھىشىلىك قىلمايسەن، سەن باشقا ئەرنىڭكى بولمايسەن؛ مەنمۇ سەن ئۈچۈن ئوخشاشلا سېنى كۈتىمەن» ــ دېدىم).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	LUK 7:29 (ئەمدى [يەھيانى] ئاڭلىغان پۇقرالار، ھەتتا باجگىرلارمۇ خۇدانىڭ يولىنى توغرا دەپ يەھيانىڭ چۆمۈلدۈرۈشى بىلەن چۆمۈلدۈرۈلگەنىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	LUK 7:30 لېكىن پەرىسىيلەر ۋە تەۋراتشۇناسلار يەھيانىڭ چۆمۈلدۈرۈشىنى قوبۇل قىلماي، خۇدانىڭ ئۆزلىرىگە بولغان مەقسەت-ئىرادىسىنى چەتكە قاققانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	JOH 13:28 (ئەمدى داستىخاندا ئولتۇرغانلارنىڭ ھېچقايسىسى ئۇنىڭ [يەھۇداغا] بۇ سۆزلەرنى نېمە ئۈچۈن دېگىنىنى بىلمىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	JOH 13:29 يەھۇدا ئۇلارنىڭ ئورتاق ھەميانىنى تۇتقىنى ئۈچۈن، بەزىلەر ئەيسا ئۇنىڭغا: «بىزگە كېرەكلىك ھېيتلىق نەرسىلەرنى ئېلىپ كەل» ياكى «كەمبەغەللەرگە بىرەر نەرسە بەر» دەۋاتسا كېرەك، دەپ ئويلاشتى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	ACT 1:18 (ئۇ قىلغان قەبىھلىكنىڭ ئىنئامىدىن ئېرىشكەن پۇلغا بىر پارچە يەر سېتىۋالغانىدى، ئۇ شۇ يەردە بېشىچىلاپ يىقىلىپ، ئۈچەي-قېرىنى چۇۋۇلۇپ كەتتى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	ACT 1:19 بۇ ئىش پۈتكۈل يېرۇسالېمدىكىلەرگە مەلۇم بولۇپ، ئۇلار ئۇ يەرنى ئۆز تىلى بىلەن «ھاقەلدەما» دەپ ئاتاشتى. بۇنىڭ مەنىسى «قان تۆكۈلگەن يەر» دېگەنلىكتۇر)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	ACT 5:12 روسۇللارنىڭ قولى ئارقىلىق خەلق ئىچىدە نۇرغۇن مۆجىزىلىك ئالامەتلەر ۋە كارامەتلەر كۆرسىتىلدى (بارلىق [ئېتىقادچىلار] بىر نىيەتتە بولۇپ ئىبادەتخانىدىكى «سۇلايمان پېشايۋىنى»دا دائىم جەم بولاتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	ACT 5:14 شۇنداقتىمۇ، ئېتىقاد قىلغۇچىلار بارغانسېرى كۆپىيىپ، ھەم ئەرلەر ھەم ئاياللار توپ-توپ بولۇپ رەبگە قوشۇلغىلى تۇردى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	ROM 2:13 (چۈنكى خۇدانىڭ ئالدىدا قانۇننى ئاڭلىغانلار ئەمەس، بەلكى قانۇنغا ئەمەل قىلغۇچىلار ھەققانىي ھېسابلىنىدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	ROM 2:15 ئۇلارنىڭ بۇ قىلغانلىرى ئۆز قەلبلىرىگە قانۇن تەلەپلىرىنىڭ پۈتۈكلۈك ئىكەنلىكىنى كۆرسىتىدۇ؛ شۇنىڭدەك، ئۇلارنىڭ ۋىجدانلىرىمۇ ئۆزلىرىگە ھەقىقەتنىڭ گۇۋاھچىسى بولۇپ، ئوي-پىكىرلىرى ئۆزىنى ئەيىبلەيدۇ ياكى ئۆزىنى ئاقلايدۇ)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	ROM 5:13 (چۈنكى تەۋرات قانۇنىدىن ئىلگىرىمۇ گۇناھ دۇنيادا بار ئىدى، ئەلۋەتتە؛ ھالبۇكى، قانۇن بولمىسا گۇناھنىڭ ھېسابى ئېلىنمايدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	ROM 5:14 شۇنداقتىمۇ، ئۆلۈم ئادەمئاتا ۋاقتىدىن مۇسا پەيغەمبەر ۋاقتىغىچە ئىنسانلارغىمۇ ھۆكۈم سۈردى؛ ئۇلار گەرچە ئادەمئاتىنىڭ سادىر قىلغان ئىتائەتسىزلىكىدەك گۇناھ سادىر قىلمىغان بولسىمۇ، بۇ ئىنسانلارمۇ ئۆلۈم ھۆكۈمىدىن خالىي بولمىدى). ئادەمئاتىنىڭ ئۆزى ــ كېيىن كېلىدىغان مەسىھنىڭ بىر بېشارەتلىك ئۈلگىسىدۇر؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	EPH 3:2 (سىلەر بەلكىم ماڭا تاپشۇرۇلغان، سىلەرگە خۇدانىڭ شەپقىتىنى ئېلىپ بارىدىغان غوجىدارلىقىم توغرۇلۇق،	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	EPH 3:3 يەنى ئۇنىڭ ماڭا ۋەھىي بىلەن سىرنى ئايان قىلغانلىقى توغرۇلۇق خەۋەردار بولۇشۇڭلار مۇمكىن (مەن بۇ توغرىسىدا ئىلگىرى ئاز-پاز يازغانىدىم؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	EPH 3:4 سىلەر ئۇنى ئوقۇغىنىڭلاردا، مەسىھنىڭ سىرى توغرۇلۇق يورۇتۇلغانلىقىمنى بىلىپ يېتىسىلەر)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	EPH 3:13 شۇنىڭ ئۈچۈن سىلەردىن ئۆتۈنىمەنكى، مېنىڭ سىلەر ئۈچۈن تارتقان جاپا-جەبىرلىرىم تۈپەيلىدىن پەرىشان بولماڭلار؛ چۈنكى بۇ ئىش سىلەرنىڭ شان-شەرىپىڭلار بولىدۇ).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1TH 2:5 چۈنكى سىلەر بىلگەندەك بىز ھېچقايسى ۋاقىتتا ئاراڭلارغا خۇشامەتچىلىك بىلەن ۋە ياكى تاماخورلۇققا نىقاب تاقاپ كەلمىدۇق ــ (بۇ ئىشتا خۇدا بىزگە گۇۋاھچىدۇر ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	TIT 1:2 (بۇ ئېتىقاد ۋە ھەقىقەت مەڭگۈلۈك ھاياتقا باغلانغان ئۈمىدنى ئېلىپ كېلىدۇ؛ بۇ مەڭگۈلۈك ھاياتنى مۇتلەق يالغان ئېيتمايدىغان خۇدا ھەممە دەۋر-زامانلاردىن ئىلگىرىلا ۋەدە قىلغانىدى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	TIT 1:3 لېكىن [ھازىر] ۋەدىسىنىڭ ۋاقتى كېلىپ قۇتقۇزغۇچىمىز خۇدا بۇنىڭ كالام-خەۋىرىنى ئۆز ئەمرى بىلەن ماڭا تاپشۇرغان جاكار ئارقىلىق ئاشكارىلىدى)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	HEB 3:16 (ئەمدى ئۇنىڭ ئاۋازىنى ئاڭلاپ تۇرۇپ، ئۇنى غەزەپلەندۈرگەنلەر كىملەر ئىدى؟ مۇسا پەيغەمبەرنىڭ يېتەكچىلىكىدە مىسىردىن [قۇتۇلۇپ] چىققان ئاشۇ [ئىسرائىللارنىڭ] ھەممىسى ئەمەسمۇ؟	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	HEB 3:19 شۇڭا بۇلاردىن كۆرۈۋالالايمىزكى، ئۇلارنىڭ [ئاراملىققا] كىرمەسلىكى ئېتىقادسىزلىقى تۈپەيلىدىن ئىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	HEB 12:19 (ئۇ جايدا كاناي ساداسى بىلەن سۆزلىگەن ئاۋاز يەتكۈزۈلگەندە، بۇلارنى ئاڭلىغانلار: «بىزگە يەنە سۆز قىلىنمىسۇن!» دەپ [خۇداغا] يالۋۇرۇشتى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	HEB 12:21 ئۇ كۆرۈنۈش شۇنداق قورقۇنچلۇق ئىدىكى، مۇسامۇ: «بەك قاتتىق قورقۇپ غال-غال تىترەپ كەتتىم» دېگەنىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(1/0)	1PE 4:1 ئەمدى مەسىھ تېنىدە ئازاب-ئوقۇبەت چەككەنىكەن، سىلەرمۇ شۇنداق ئىرادە بىلەن ئۆزۈڭلارنى قوراللاندۇرۇڭلار (چۈنكى [خۇدا يولىدا] ئۆز تېنىدە ئازاب-ئوقۇبەت چەككەن كىشى گۇناھتىن قول ئۈزگەن بولىدۇ؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	1PE 4:2 ئۇنداق كىشى تېنىدە قالغان ھاياتىنى يەنە ئىنسانىي نەپس-ھەۋەسلەرگە بېرىلىش بىلەن ئەمەس، بەلكى خۇدانىڭ ئىرادىسىگە مۇۋاپىق ئۆتكۈزىدۇ).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Source	(0/1)	REV 18:14 [ئى بابىل]، جېنىڭ مەستانە بولغان ئېسىل مېۋىلەر سەندىن كەتتى، بارلىق ھەشەمەتلىك ۋە ھەيۋەتلىك مال-دۇنيالىرىڭ سەندىن يوقالدى. ئۇلار بۇلارنى ئەمدى ھەرگىز تاپالمايدۇ!)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	002 EXO 018 002 شۇنىڭ بىلەن مۇسانىڭ قېينئاتىسى يەترو مۇسانىڭ ئەسلىدە ئۆز يېنىغا ئەۋەتىۋەتكەن ئايالى زىپپوراھ ۋە ئۇنىڭ ئىككى ئوغلىنى ئېلىپ يولغا چىقتى (بىرىنچى ئوغلىنىڭ ئىسمى گەرشوم دەپ قويۇلغانىدى؛ چۈنكى مۇسا: «مەن ياقا يۇرتتا مۇساپىر بولۇپ تۇرۇۋاتىمەن» دېگەنىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	002 EXO 018 004 يەنە بىرىنىڭ ئىسمى ئەلىئېزەر دەپ قويۇلغانىدى؛ چۈنكى مۇسا: «ئاتامنىڭ خۇداسى ماڭا ياردەمدە بولۇپ، مېنى پىرەۋننىڭ قىلىچىدىن قۇتقۇزدى»، دېگەنىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (ئەمىيلەر ئەسلىدە شۇ يەردە تۇراتتى؛ ئۇلار ئاناكىيلارغا ئوخشاش كۈچلۈك، سانى كۆپ، ئېگىز بويلۇق بىر خەلق ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 سېئىردا ئەسلىدە ھورىيلار تۇراتتى؛ لېكىن ئەساۋلار ھورىيلارنى زېمىنىدىن ھەيدىۋېتىپ، ئۇلارنى يوقىتىپ ئورنىغا ئولتۇراقلاشتى ــ خۇددى ئىسرائىللار مەنكى پەرۋەردىگار ئۇلارغا تەقدىم قىلغان، ئۇلارنىڭ تەۋەلىكى بولغان زېمىنغا قىلغىنىغا ئوخشاش).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (بۇ زېمىنمۇ «گىگانتلارنىڭ زېمىنى» ھېسابلىنىدۇ؛ چۈنكى ئىلگىرى گىگانتلار شۇ يەردە تۇرغانىدى؛ ئاممونىيلار ئۇلارنى «زامزۇملار» دەپ ئاتايدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 ۋە گازا شەھىرىگىچە كەنت-قىشلاقلاردا ئولتۇراقلاشقان ئاۋۋىيلارنى بولسا، كافتوردىن چىققان كافتورىيلار يوقىتىپ، ئۇلارنىڭ ئورنىغا ئولتۇراقلاشتى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 گىلېئادنىڭ قالغان زېمىنى ۋە ئوگ پادىشاھنىڭ زېمىنى بولغان پۈتكۈل باشاننى مەن ماناسسەھنىڭ يېرىم قەبىلىسىگە تەقدىم قىلدىم (پۈتكۈل ئارگوب رايونى، يەنى پۈتكۈل باشان «گىگانتلارنىڭ زېمىنى» دېيىلىدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 ماناسسەھنىڭ ئوغلى يائىر پۈتكۈل ئارگوب رايونىنى، يەنى باشاننى گەشۇرىيلار ۋە مائاكاتىيلارنىڭ چېگرىسىغىچە ئىگىلىگەن ۋە ئۇنى ئۆز ئىسمى بىلەن «ھاۋۋوت-يائىر» دەپ ئاتىغان. بۈگۈنگە قەدەر ئۇ شۇنداق ئاتالماقتا).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 004 045 (بۇلار بولسا ئىسرائىللار مىسىردىن چىققاندا مۇسا [پەيغەمبەر] ئۇلارغا جاكارلىغان ئاگاھ-گۇۋاھلار، بەلگىلىمىلەر ھەم ھۆكۈملەردۇر؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 004 049 شۇنداقلا ئىئوردان دەرياسىنىڭ شەرق تەرىپىدىكى پۈتكۈل ئاراباھ تۈزلەڭلىكى ۋە پىسگاھ تېغىنىڭ باغرىغا جايلاشقان «تۈزلەڭلىكتىكى دېڭىز»غىچە ئىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 006 002 (شۇنىڭ بىلەن سىلەر، يەنى سەن ئۆزۈڭ، ئوغلۇڭ ۋە نەۋرەڭ بارلىق تىرىك كۈنلىرىڭلاردا پەرۋەردىگار خۇدايىڭلاردىن قورقۇپ، مەن سىلەرگە تاپىلاۋاتقان ئۇنىڭ بارلىق بەلگىلىمە ۋە ئەمرلىرىنى تۇتىسىلەر، شۇنداقلا ئۇزۇن كۈنلەرنى كۆرىسىلەر.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 006 003 سەن، ئى ئىسرائىل، ئۇلارنى ئاڭلاپ ئەمەل قىلىشقا كۆڭۈل قويۇڭلار؛ شۇنىڭ بىلەن ئاتا-بوۋىلىرىڭلارنىڭ خۇداسى پەرۋەردىگار سىلەرگە دېگىنىدەك، سۈت بىلەن ھەسەل ئېقىپ تۇرىدىغان مۇنبەت زېمىندا تۇرۇپ، ھالىڭلار ياخشى بولىدۇ ۋە سانىڭلار ئىنتايىن كۆپىيىدۇ): ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 008 015 (ئۇ سېنى بىپايان ۋە دەھشەتلىك چۆل-باياۋاندىن، يەنى زەھەرلىك يىلانلار ۋە چايانلار قاپلاپ كەتكەن، سۇسىراپ قاغجىراپ كەتكەن بىر چۆل-باياۋاندىن يېتەكلەپ چىققان، شۇ يەردە ساڭا چاقماق تېشىدىن سۇ چىقىرىپ بەرگەن،	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 008 016 سېنى ئۆزىنى تۆۋەن تۇتسۇن دەپ سىناپ، ساڭا ئاخىر راھەت-بەرىكەت كۆرسىتىش ئۈچۈن چۆل-باياۋاندا ئاتا-بوۋىلىرىڭ كۆرۈپ باقمىغان «ماننا» بىلەن ئوزۇقلاندۇرغان)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 009 022 (سىلەر يەنە تابەراھ، ماسساھ، كىبروت-ھاتتاۋاھدىمۇ پەرۋەردىگارنى غەزەپلەندۈردۈڭلار.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 009 024 مەن سىلەرنى تونۇغان كۈندىن تارتىپ سىلەر پەرۋەردىگار خۇدايىڭلارغا ئاسىيلىق قىلىپ كەلدىڭلار).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 011 004 (چۈنكى ئۇلار [پەرۋەردىگارنىڭ] مىسىرنىڭ قوشۇنى، ئۇلارنىڭ ئاتلىرى، ئۇلارنىڭ جەڭ ھارۋىلىرىغا قىلغان ئىشلىرى، يەنى قىزىل دېڭىزنىڭ سۇلىرى بىلەن ئۇلارنى غەرق قىلىپ، ئۈزۈل-كېسىل ھالاك قىلغانلىقى،	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 011 006 ئۇنىڭ رۇبەننىڭ ئەۋلادى، ئېلىئابنىڭ ئوغۇللىرى داتان ۋە ئابىرامغا نېمە قىلغانلىقى، يەنى پۈتۈن ئىسرائىللار ئارىسىدا يەر يۈزىنىڭ ئاغزىنى قانداق ئېچىپ ئۇلارنى ئائىلىسىدىكىلىرى ۋە چېدىرلىرى بىلەن قوشۇپ بارلىق تەئەللۇقاتلىرى بىلەن يۇتۇۋەتكەنلىكىنى كۆرمىگەنىدى)؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (چۈنكى سىلەر بىزنىڭ مىسىر زېمىنىدا قانداق تۇرغانلىقىمىز ۋە سەپىرىمىزدە ئەللەرنىڭ ئوتتۇرىسىدىن قانداق ئۆتۈپ كەلگىنىمىزنى ئوبدان بىلىسىلەر؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 سىلەر ئۇلارنىڭ ئارىسىدىكى يىرگىنچلىك نەرسىلەرنى، ئۇلارنىڭ ئارىسىدىكى ياغاچ، تاش، ئالتۇن ۋە كۈمۈشتىن ياسالغان بۇتلارنى كۆردۈڭلار).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	007 JDG 008 001 (كېيىن، ئەفرائىملار ئۇنىڭغا: ــ سەن نېمىشقا بىزگە شۇنداق مۇئامىلە قىلىسەن، مىدىيانىيلار بىلەن سوقۇشقا چىققاندا، بىزنى چاقىرمىدىڭغۇ، دەپ ئۇنىڭ بىلەن قاتتىق دېيىشىپ كەتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	007 JDG 008 003 خۇدا مىدىياننىڭ ئەمىرلىرى ئورەب بىلەن زەئەبنى قولۇڭلارغا تاپشۇرغان يەردە، مېنىڭ قولۇمدىن كەلگىنىنى قانداقمۇ سىلەرنىڭ قىلغىنىڭلارغا تەڭلەشتۈرگىلى بولسۇن؟ ــ دېدى. شۇنداق دېۋىدى، ئۇلارنىڭ ئۇنىڭغا بولغان ئاچچىقى ياندى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (چۈنكى ئاتام سىلەر ئۈچۈن جەڭ قىلىپ، ئۆز جېنىنى خەتەرگە تەۋەككۇل قىلىپ سىلەرنى مىدىياننىڭ قولىدىن قۇتقۇزدى!	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 لېكىن سىلەر بۈگۈن ئاتامنىڭ جەمەتىگە قارشى قوزغىلىپ، ئۇنىڭ ئوغۇللىرىنى، جەمئىي يەتمىش ئادەمنى بىر تاشنىڭ ئۈستىدە ئۆلتۈرۈپ، ئۇنىڭ دېدىكىنىڭ ئوغلى ئابىمەلەكنى تۇغقىنىڭلار بولغىنى ئۈچۈن شەكەم خەلقىنىڭ ئۈستىگە پادىشاھ قىلىپ تىكلەپسىلەر!)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 سائۇلنىڭ ئوغلىنىڭ قوشۇنىنىڭ ئالدىن يۈرەر قىسمىدا ئىككى سەردارى بولۇپ، بىرىنىڭ ئىسمى بائاناھ، يەنە بىرىنىڭ ئىسمى رەكاب ئىدى. ئۇلار بىنيامىن قەبىلىسىدىن بولغان بەئەروتلۇق رىمموننىڭ ئوغۇللىرى ئىدى (چۈنكى بەئەروت بىنيامىن قەبىلىسىگە تەۋە ھېسابلىناتتى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 لېكىن بەئەروتلۇقلار گىتتائىمغا قېچىپ بېرىپ ئۇ يەردە بۇ كۈنگىچە مۇساپىردەك ياشاۋاتىدۇ).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (ھىرامنىڭ ئوفىردىن ئالتۇن ئەپكېلىدىغان كېمىلىرىمۇ ئوفىردىن يەنە ئىنتايىن زور مىقداردىكى سەندەل ياغىچى ۋە ياقۇت-گۆھەرلەرنى ئېلىپ كەلدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 پادىشاھ سەندەل ياغىچىدىن پەرۋەردىگارنىڭ ئۆيى ئۈچۈن ۋە پادىشاھنىڭ ئوردىسى ئۈچۈن پەلەمپەي-سالاسۇنلار ياساتتى ھەم نەغمە-ناۋاچىلار ئۈچۈن چىلتارلار ۋە سازلارنى شۇنىڭدىن ياساتتى. شۇ ۋاقىتتىن كېيىن شۇنداق زور مىقداردىكى ئېسىل سەندەل ياغىچى بۇ ۋاقىتقىچە ھېچ كەلتۈرۈلمىدى يا كۆرۈلۈپ باقمىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 ئاھاب ئوردىسىدىكى غوجىدار ئوبادىيانى چاقىردى (ئوبادىيا تولىمۇ تەقۋادار كىشى بولۇپ پەرۋەردىگاردىن ئىنتايىن قورقاتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 يىزەبەل پەرۋەردىگارنىڭ پەيغەمبەرلىرىنى ئۆلتۈرۈپ يوقىتىۋاتقاندا ئوبادىيا يۈز پەيغەمبەرنى ئېلىپ ئەللىكتىن-ئەللىكتىن ئايرىم-ئايرىم ئىككى غارغا يوشۇرۇپ، ئۇلارنى نان ۋە سۇ بىلەن باققانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (بەرھەق، خوتۇنى يىزەبەلنىڭ قۇترىتىشلىرى بىلەن پەرۋەردىگارنىڭ نەزىرىدە رەزىللىك قىلغىلى ئۆزىنى ساتقان ئاھابدەك ھېچكىم يوق ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 ئۇ پەرۋەردىگار ئىسرائىللارنىڭ ئالدىدىن ھەيدەپ قوغلىۋەتكەن ئامورىيلارنىڭ قىلغىنىدەك قىلىپ، يىرگىنچلىك بۇتلارغا تايىنىپ ئەگىشىپ، لەنەتلىك ئىشلارنى قىلاتتى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	012 2KI 020 007 (يەشايا بولسا: ــ «ئەنجۈر پوشكىلى تەييارلاڭلار، دېدى. ئۇلار ئۇنى ئېلىپ كېلىپ، يارىسىغا چاپلىۋىدى، ئۇ ساقايدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	012 2KI 020 011 شۇنىڭ بىلەن يەشايا پەيغەمبەر پەرۋەردىگارغا نىدا قىلدى ۋە ئۇ قۇياشنىڭ ئاھاز پادىشاھ قۇرغان پەلەمپەي باسقۇچىلىرى ئۈستىگە چۈشكەن سايىسىنى ياندۇرۇپ، ئون باسقۇچ كەينىگە ماڭدۇردى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 ئىسرائىلنىڭ تۇنجى ئوغلى رۇبەننىڭ ئوغۇللىرى مۇنۇلار: ــ (رۇبەن گەرچە تۇنجى ئوغۇل بولغىنى بىلەن، لېكىن [ئاتىسىنىڭ توقىلى بىلەن] زىنا قىلغانلىقى ئۈچۈن، ئۇنىڭ چوڭ ئوغۇللۇق ھوقۇقى ئىسرائىلنىڭ ئوغلى بولغان يۈسۈپنىڭ ئوغۇللىرىغا ئۆتكۈزۈۋېتىلگەن. شۇڭا نەسەبنامە بويىچە ئۇ چوڭ ئوغۇل ھېسابلانمايدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 يەھۇدا قېرىنداشلىرى ئىچىدە ئۈستۈنلۈككە ئىگە بولغان بولسىمۇ ۋە ئىدارە قىلغۇچى ئۇنىڭدىن چىققان بولسىمۇ، لېكىن چوڭ ئوغۇللۇق ھوقۇقى يۈسۈپكە تەۋە بولۇپ كەتكەن): ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	013 1CH 007 021 تاھاتنىڭ ئوغلى زاباد، زابادنىڭ ئوغلى شۇتىلاھ ئىدى (ئېزەر بىلەن ئېلىئاد گاتلىقلارنىڭ چارۋا ماللىرىنى بۇلاڭ-تالاڭ قىلغىلى چۈشكەندە، شۇ يەرلىك گاتلىقلار تەرىپىدىن ئۆلتۈرۈلگەن.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	013 1CH 007 024 ئۇنىڭ قىزى ئۈستۈن بەيت-ھورون بىلەن تۆۋەن بەيت-ھوروننى ۋە ئۇززەن-شەئەراھنى بىنا قىلغان).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	013 1CH 009 022 دەرۋازىۋەنلىككە تاللانغان بۇ كىشىلەر جەمئىي ئىككى يۈز ئون ئىككى كىشى ئىدى؛ ئۇلار ئۆز يېزا-كەنتلىرىدە، نەسەبلىرى بويىچە تىزىملانغان (ئەسلىدە داۋۇت ۋە ئالدىن كۆرگۈچى سامۇئىل ئۇلارنى ئامانەت قىلىنغان ۋەزىپىلىرىگە بېكىتكەنىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	013 1CH 009 023 ئۇلار ۋە ئۇلارنىڭ ئەۋلادلىرى پەرۋەردىگارنىڭ ئۆيى، يەنى مۇقەددەس چېدىرنىڭ ئىشىك-دەرۋازىلىرىنى بېقىشقا بېكىتىلگەنىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	013 1CH 012 001 داۋۇت كىشنىڭ ئوغلى سائۇلنىڭ بېسىمى سەۋەبىدىن زىكلاگدا يوشۇرۇنۇپ ياتقان چاغدا مۇنۇ كىشىلەر داۋۇتنىڭ يېنىغا كېلىشتى (ئۇلارنىڭ ھەممىسى داۋۇتقا جەڭ قىلىشتا ياردەم بەرگەن باتۇرلاردىن ئىدى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	013 1CH 012 002 ئوقيا بىلەن قوراللانغان بولۇپ، ئوڭ قولى بىلەنمۇ، سول قولى بىلەنمۇ ئوقيا ۋە سالغا ئاتالايتتى؛ ئۇلار سائۇلنىڭ بىنيامىن قەبىلىسىدىن بولغان تۇغقانلىرى ئىدى):	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 كاھىنلار مۇقەددەس جايدىن چىقىشتى (شۇ يەردە ھازىر بولغان بارلىق كاھىنلار، ئۆز نۆۋىتىگە قارىماي ئۆزلىرىنى خۇداغا ئاتاپ پاكىزلىغانىدى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 نەغمە-ناۋاچى بارلىق لاۋىيلار، جۈملىدىن ئاساف، ھېمان، يەدۇتۇن ۋە ئۇلارنىڭ ئوغۇللىرى ھەم قېرىنداشلىرى چەكمەن تونلىرىنى كىيىشىپ، قۇربانگاھنىڭ شەرقىدە تۇرۇپ جاڭ، تەمبۇر ۋە چىلتارلار چېلىشىۋاتقانىدى؛ ئۇلار بىلەن بىللە كاناي چېلىۋاتقان يەنە بىر يۈز يىگىرمە كاھىن بار ئىدى)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (ئوفىردىن ئالتۇنلارنى ئەپكېلىدىغان ھۇرامنىڭ خىزمەتكارلىرى ۋە سۇلايماننىڭ خىزمەتكارلىرى يەنە ئىنتايىن زور مىقداردىكى سەندەل ياغىچىنى ۋە ياقۇت-گۆھەرلەرنىمۇ ئېلىپ كەلدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 پادىشاھ سەندەل ياغىچىدىن پەرۋەردىگارنىڭ ئۆيى ئۈچۈن ۋە پادىشاھنىڭ ئوردىسى ئۈچۈن پەلەمپەيلەر ياساپ ھەم نەغمە-ناۋاچىلار ئۈچۈن چىلتارلار ۋە سازلارنى شۇنىڭدىن ياساتتى. شۇنداق ئېسىل سەندەل ياغىچى يەھۇدا زېمىنىدا بۇ ۋاقىتقىچە ھېچ كۆرۈلۈپ باقمىغانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	014 2CH 030 002 (پادىشاھ، ئەمەلدارلىرى ۋە يېرۇسالېمدىكى بارلىق جامائەت بىلەن بىللە مەسلىھەتلىشىپ، ئىككىنچى ئايدا ئۆتۈپ كېتىش ھېيتىنى ئۆتكۈزەيلى دەپ قارارغا كېلىشتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	014 2CH 030 003 لېكىن پاكلانغان كاھىنلار يېتىشمىگەچكە، خەلقمۇ يېرۇسالېمغا يىغىلىپ بولمىغاچقا، ھېيتنى ۋاقتىدا ئۆتكۈزەلمىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	018 JOB 032 015 (بۇ ئۈچەيلەن ھەيرانۇھەس بولۇپ، قايتا جاۋاب بېرىشمىدى؛ ھەممە سۆز ئۇلاردىن ئۇچۇپ كەتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	018 JOB 032 016 مەن كۈتۈپ تۇراتتىم، چۈنكى ئۇلار گەپ قىلمىدى، بەلكى جىمجىت ئۆرە تۇرۇپ قايتا جاۋاب بەرمىدى)؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	023 ISA 038 021 (يەشايا بولسا: ــ «ئەنجۈر پوشكىلى تەييارلاپ، يارىسىغا چاپلاڭلار، ئۇ ئەسلىگە كېلىدۇ»، دېگەنىدى	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	023 ISA 038 022 ۋە ھەزەكىيا: ــ «مېنىڭ پەرۋەردىگارنىڭ ئۆيىگە چىقىدىغانلىقىمنى ئىسپاتلايدىغان قانداق بېشارەتلىك ئالامەت بېرىلىدۇ؟» دەپ سورىغانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	023 ISA 044 025 (ئۇ بولسا يالغان [پەيغەمبەرلەرنىڭ] بېشارەتلىرىنى بىكار قىلغۇچى، پالچىلارنى قايمۇقتۇرغۇچى، دانالارنى يولىدىن ياندۇرغۇچى، ئۇلارنىڭ بىلىملىرىنى نادانلىققا ئايلاندۇرغۇچى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	023 ISA 044 028 ھەم قورەش توغرىسىدا: «ئۇ مېنىڭ قوي پادىچىم، ئۇ مېنىڭ كۆڭلۈمدىكىگە تولۇق ئەمەل قىلىپ، يېرۇسالېمغا: «قۇرۇلىسەن»، ھەم ئىبادەتخانىغا: «سېنىڭ ئۇلۇڭ سېلىنىدۇ» دەيدۇ» ــ دېگۈچىدۇر): ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	024 JER 021 003 يەرەمىيا ئۇلارغا: ــ زەدەكىياغا مۇنداق دەڭلار، ــ دېدى)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	024 JER 026 020 (پەرۋەردىگارنىڭ نامىدا يەرەمىيانىڭ بارلىق دېگەنلىرىدەك بۇ شەھەرنى ۋە بۇ زېمىننى ئەيىبلەپ بېشارەت بەرگەن، كىرىئات-يېئارىملىق شەمايانىڭ ئوغلى ئۇرىيا ئىسىملىك يەنە بىر ئادەم بار ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	024 JER 026 023 ئۇلار ئۇرىيانى مىسىردىن ئېلىپ چىقىپ پادىشاھ يەھوئاكىمنىڭ ئالدىغا ئاپارغان؛ ئۇ ئۇنى قىلىچلاپ، جەسىتىنى پۇقرالارنىڭ گۆرلۈكىگە تاشلىۋەتكەن).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	024 JER 029 002 (خەت پادىشاھ يەكونىياھ، خانىش، ۋەزىرلەر، يەھۇدا ۋە يېرۇسالېمدىكى شاھزادە-ئەمىرلەر ۋە ھۈنەرۋەنلەر يېرۇسالېمدىن كەتكەندىن كېيىن،	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	024 JER 029 003 شافاننىڭ ئوغلى ئەلاساھنىڭ ۋە ھىلقىيانىڭ ئوغلى گەمارىيانىڭ قولى بىلەن يوللانغان ــ يەھۇدا پادىشاھى زەدەكىيا بۇ كىشىلەرنى بابىل پادىشاھى نېبوقادنەسارنىڭ ئالدىغا يوللىغان). يوللىغان خەت مۇنداق: ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	024 JER 029 028 چۈنكى ئۇ ھەتتا بابىلدا تۇرۇۋاتقان بىزلەرگىمۇ: «شۇ يەردە بولغان ۋاقتىڭلار ئۇزۇن بولىدۇ؛ شۇڭا ئۆيلەرنى سېلىڭلار، ئۇلاردا تۇرۇڭلار، باغلارنى بەرپا قىلىڭلار، ئۇلارنىڭ مېۋىسىنى يەڭلار» دەپ خەت يوللىدى!»)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	024 JER 032 001 يەھۇدا پادىشاھى زەدەكىيانىڭ ئونىنچى يىلى، يەرەمىياغا پەرۋەردىگاردىن كەلگەن سۆز تۆۋەندە خاتىرىلەنگەن (شۇ يىل نېبوقادنەسارنىڭ ئون سەككىزىنچى يىلى ئىدى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	024 JER 032 003 چۈنكى يەھۇدا پادىشاھى زەدەكىيا ئۇنى ئەيىبلەپ: «نېمىشقا سەن: «مانا، مەن بۇ شەھەرنى بابىل پادىشاھىنىڭ قولىغا تاپشۇرىمەن؛ ئۇ ئۇنى ئىشغال قىلىدۇ؛ يەھۇدا پادىشاھى زەدەكىيا كالدىيلەرنىڭ قولىدىن قېچىپ قۇتۇلالمايدۇ؛ چۈنكى ئۇ بابىل پادىشاھىنىڭ قولىغا تاپشۇرۇلماي قالمايدۇ؛ ئۇ ئۇنىڭ بىلەن يۈز تۇرانە سۆزلىشىدۇ، ئۆز كۆزى بىلەن ئۇنىڭ كۆزىگە قارايدۇ. ئۇ زەدەكىيانى بابىلغا ئاپىرىدۇ، ئۇ مەن ئۇنىڭغا يېقىنلىشىپ تولۇق بىر تەرەپ قىلغۇچە شۇ يەردە تۇرىدۇ، دەيدۇ پەرۋەردىگار؛ سىلەر كالدىيلەر بىلەن قارشىلاشساڭلارمۇ غەلىبە قىلالمايسىلەر! ــ دەيدۇ پەرۋەردىگار» ــ دەپ بېشارەت بېرىسەن؟» ــ دەپ ئۇنى قاماپ قويغانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	024 JER 034 009 (ئەھدە بويىچە ھەربىرى ئۆز ئىبرانىي قۇللىرىنى، ئەر بولسۇن، قىز-ئايال بولسۇن، قويۇۋېتىشى كېرەك ئىدى؛ ھېچقايسىسى ئۆز قېرىندىشى بولغان يەھۇدىينى قۇللۇقتا قالدۇرماسلىقى كېرەك ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	024 JER 034 011 لېكىن ئۇنىڭدىن كېيىن ئۇلار بۇ يولدىن يېنىپ قويۇۋەتكەن قۇل-دېدەكلەرنى ئۆزىگە قايتۇرۇۋالدى. ئۇلار بۇلارنى قايتىدىن مەجبۇرىي قۇل-دېدەك قىلىۋالدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	024 JER 037 004 (شۇ چاغدا يەرەمىيا زىنداندا قاماقلىق ئەمەس ئىدى؛ ئۇ خەلق ئارىسىغا چىقىپ-كىرىشكە ئەركىن ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	024 JER 037 005 پىرەۋننىڭ قوشۇنى مىسىردىن چىققانىدى؛ يېرۇسالېمنى قورشىۋالغان كالدىيلەر بۇلارنىڭ خەۋىرىنى ئاڭلاپ يېرۇسالېمدىن چېكىنىپ كەتكەنىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	027 DAN 008 011 (ئۇ تولىمۇ مەغرۇرلىنىپ، ھەتتا ساماۋىي قوشۇننىڭ سەردارى بىلەن تەڭ بولماقچى بولۇپ، ئىبادەتخانىدا سەردارغا ئاتاپ كۈندىلىك قۇربانلىق سۇنۇشنى ئەمەلدىن قالدۇردى، ھەمدە سەردارنىڭ ئىبادەتخانىسىدىكى «مۇقەددەس جاي»نى ۋەيران قىلىۋەتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	027 DAN 008 012 ئاسىيلىق تۈپەيلىدىن خۇدانىڭ خەلقى ۋە كۈندىلىك قۇربانلىق چوڭ مۈڭگۈزگە تاپشۇرۇلىدۇ). ئۇ ھەقىقەتنى ئاياغ ئاستى قىلىدۇ؛ ئۇنىڭ بارلىق ئىشلىرى ناھايىتى ئوڭۇشلۇق بولدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	028 HOS 003 002 (شۇڭا مەن ئون بەش كۈمۈش تەڭگە، بىر خومىر بۇغداي ۋە يېرىم خومىر ئارپىغا ئۆزۈمگە قايتۇرۇۋالدىم؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	028 HOS 003 003 مەن ئۇنىڭغا: «سەن مەن ئۈچۈن ئۇزۇن كۈنلەر كۈتىسەن؛ سەن پاھىشىلىك قىلمايسەن، سەن باشقا ئەرنىڭكى بولمايسەن؛ مەنمۇ سەن ئۈچۈن ئوخشاشلا سېنى كۈتىمەن» ــ دېدىم).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	042 LUK 007 029 (ئەمدى [يەھيانى] ئاڭلىغان پۇقرالار، ھەتتا باجگىرلارمۇ خۇدانىڭ يولىنى توغرا دەپ يەھيانىڭ چۆمۈلدۈرۈشى بىلەن چۆمۈلدۈرۈلگەنىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	042 LUK 007 030 لېكىن پەرىسىيلەر ۋە تەۋراتشۇناسلار يەھيانىڭ چۆمۈلدۈرۈشىنى قوبۇل قىلماي، خۇدانىڭ ئۆزلىرىگە بولغان مەقسەت-ئىرادىسىنى چەتكە قاققانىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	043 JOH 013 028 (ئەمدى داستىخاندا ئولتۇرغانلارنىڭ ھېچقايسىسى ئۇنىڭ [يەھۇداغا] بۇ سۆزلەرنى نېمە ئۈچۈن دېگىنىنى بىلمىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	043 JOH 013 029 يەھۇدا ئۇلارنىڭ ئورتاق ھەميانىنى تۇتقىنى ئۈچۈن، بەزىلەر ئەيسا ئۇنىڭغا: «بىزگە كېرەكلىك ھېيتلىق نەرسىلەرنى ئېلىپ كەل» ياكى «كەمبەغەللەرگە بىرەر نەرسە بەر» دەۋاتسا كېرەك، دەپ ئويلاشتى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (ئۇ قىلغان قەبىھلىكنىڭ ئىنئامىدىن ئېرىشكەن پۇلغا بىر پارچە يەر سېتىۋالغانىدى، ئۇ شۇ يەردە بېشىچىلاپ يىقىلىپ، ئۈچەي-قېرىنى چۇۋۇلۇپ كەتتى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 بۇ ئىش پۈتكۈل يېرۇسالېمدىكىلەرگە مەلۇم بولۇپ، ئۇلار ئۇ يەرنى ئۆز تىلى بىلەن «ھاقەلدەما» دەپ ئاتاشتى. بۇنىڭ مەنىسى «قان تۆكۈلگەن يەر» دېگەنلىكتۇر)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	044 ACT 005 012 روسۇللارنىڭ قولى ئارقىلىق خەلق ئىچىدە نۇرغۇن مۆجىزىلىك ئالامەتلەر ۋە كارامەتلەر كۆرسىتىلدى (بارلىق [ئېتىقادچىلار] بىر نىيەتتە بولۇپ ئىبادەتخانىدىكى «سۇلايمان پېشايۋىنى»دا دائىم جەم بولاتتى.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	044 ACT 005 014 شۇنداقتىمۇ، ئېتىقاد قىلغۇچىلار بارغانسېرى كۆپىيىپ، ھەم ئەرلەر ھەم ئاياللار توپ-توپ بولۇپ رەبگە قوشۇلغىلى تۇردى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (چۈنكى خۇدانىڭ ئالدىدا قانۇننى ئاڭلىغانلار ئەمەس، بەلكى قانۇنغا ئەمەل قىلغۇچىلار ھەققانىي ھېسابلىنىدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 ئۇلارنىڭ بۇ قىلغانلىرى ئۆز قەلبلىرىگە قانۇن تەلەپلىرىنىڭ پۈتۈكلۈك ئىكەنلىكىنى كۆرسىتىدۇ؛ شۇنىڭدەك، ئۇلارنىڭ ۋىجدانلىرىمۇ ئۆزلىرىگە ھەقىقەتنىڭ گۇۋاھچىسى بولۇپ، ئوي-پىكىرلىرى ئۆزىنى ئەيىبلەيدۇ ياكى ئۆزىنى ئاقلايدۇ)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	045 ROM 005 013 (چۈنكى تەۋرات قانۇنىدىن ئىلگىرىمۇ گۇناھ دۇنيادا بار ئىدى، ئەلۋەتتە؛ ھالبۇكى، قانۇن بولمىسا گۇناھنىڭ ھېسابى ئېلىنمايدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	045 ROM 005 014 شۇنداقتىمۇ، ئۆلۈم ئادەمئاتا ۋاقتىدىن مۇسا پەيغەمبەر ۋاقتىغىچە ئىنسانلارغىمۇ ھۆكۈم سۈردى؛ ئۇلار گەرچە ئادەمئاتىنىڭ سادىر قىلغان ئىتائەتسىزلىكىدەك گۇناھ سادىر قىلمىغان بولسىمۇ، بۇ ئىنسانلارمۇ ئۆلۈم ھۆكۈمىدىن خالىي بولمىدى). ئادەمئاتىنىڭ ئۆزى ــ كېيىن كېلىدىغان مەسىھنىڭ بىر بېشارەتلىك ئۈلگىسىدۇر؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	049 EPH 003 002 (سىلەر بەلكىم ماڭا تاپشۇرۇلغان، سىلەرگە خۇدانىڭ شەپقىتىنى ئېلىپ بارىدىغان غوجىدارلىقىم توغرۇلۇق،	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 يەنى ئۇنىڭ ماڭا ۋەھىي بىلەن سىرنى ئايان قىلغانلىقى توغرۇلۇق خەۋەردار بولۇشۇڭلار مۇمكىن (مەن بۇ توغرىسىدا ئىلگىرى ئاز-پاز يازغانىدىم؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 سىلەر ئۇنى ئوقۇغىنىڭلاردا، مەسىھنىڭ سىرى توغرۇلۇق يورۇتۇلغانلىقىمنى بىلىپ يېتىسىلەر)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	049 EPH 003 013 شۇنىڭ ئۈچۈن سىلەردىن ئۆتۈنىمەنكى، مېنىڭ سىلەر ئۈچۈن تارتقان جاپا-جەبىرلىرىم تۈپەيلىدىن پەرىشان بولماڭلار؛ چۈنكى بۇ ئىش سىلەرنىڭ شان-شەرىپىڭلار بولىدۇ).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	052 1TH 002 005 چۈنكى سىلەر بىلگەندەك بىز ھېچقايسى ۋاقىتتا ئاراڭلارغا خۇشامەتچىلىك بىلەن ۋە ياكى تاماخورلۇققا نىقاب تاقاپ كەلمىدۇق ــ (بۇ ئىشتا خۇدا بىزگە گۇۋاھچىدۇر ــ	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(2/1)	056 TIT 001 002 (بۇ ئېتىقاد ۋە ھەقىقەت مەڭگۈلۈك ھاياتقا باغلانغان ئۈمىدنى ئېلىپ كېلىدۇ؛ بۇ مەڭگۈلۈك ھاياتنى مۇتلەق يالغان ئېيتمايدىغان خۇدا ھەممە دەۋر-زامانلاردىن ئىلگىرىلا ۋەدە قىلغانىدى؛ (aiōnios g166)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	056 TIT 001 003 لېكىن [ھازىر] ۋەدىسىنىڭ ۋاقتى كېلىپ قۇتقۇزغۇچىمىز خۇدا بۇنىڭ كالام-خەۋىرىنى ئۆز ئەمرى بىلەن ماڭا تاپشۇرغان جاكار ئارقىلىق ئاشكارىلىدى)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	058 HEB 003 016 (ئەمدى ئۇنىڭ ئاۋازىنى ئاڭلاپ تۇرۇپ، ئۇنى غەزەپلەندۈرگەنلەر كىملەر ئىدى؟ مۇسا پەيغەمبەرنىڭ يېتەكچىلىكىدە مىسىردىن [قۇتۇلۇپ] چىققان ئاشۇ [ئىسرائىللارنىڭ] ھەممىسى ئەمەسمۇ؟	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	058 HEB 003 019 شۇڭا بۇلاردىن كۆرۈۋالالايمىزكى، ئۇلارنىڭ [ئاراملىققا] كىرمەسلىكى ئېتىقادسىزلىقى تۈپەيلىدىن ئىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	058 HEB 012 019 (ئۇ جايدا كاناي ساداسى بىلەن سۆزلىگەن ئاۋاز يەتكۈزۈلگەندە، بۇلارنى ئاڭلىغانلار: «بىزگە يەنە سۆز قىلىنمىسۇن!» دەپ [خۇداغا] يالۋۇرۇشتى؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 ئۇ كۆرۈنۈش شۇنداق قورقۇنچلۇق ئىدىكى، مۇسامۇ: «بەك قاتتىق قورقۇپ غال-غال تىترەپ كەتتىم» دېگەنىدى).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(1/0)	060 1PE 004 001 ئەمدى مەسىھ تېنىدە ئازاب-ئوقۇبەت چەككەنىكەن، سىلەرمۇ شۇنداق ئىرادە بىلەن ئۆزۈڭلارنى قوراللاندۇرۇڭلار (چۈنكى [خۇدا يولىدا] ئۆز تېنىدە ئازاب-ئوقۇبەت چەككەن كىشى گۇناھتىن قول ئۈزگەن بولىدۇ؛	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	060 1PE 004 002 ئۇنداق كىشى تېنىدە قالغان ھاياتىنى يەنە ئىنسانىي نەپس-ھەۋەسلەرگە بېرىلىش بىلەن ئەمەس، بەلكى خۇدانىڭ ئىرادىسىگە مۇۋاپىق ئۆتكۈزىدۇ).	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Aionian	(0/1)	066 REV 018 014 [ئى بابىل]، جېنىڭ مەستانە بولغان ئېسىل مېۋىلەر سەندىن كەتتى، بارلىق ھەشەمەتلىك ۋە ھەيۋەتلىك مال-دۇنيالىرىڭ سەندىن يوقالدى. ئۇلار بۇلارنى ئەمدى ھەرگىز تاپالمايدۇ!)	WARN
+Uyghur---Uyghur-Bible-Arabic	ENCLOSURES	Summary	lines	96 / 96	NOTICE
+
+# UNEXPECTED
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(|)	354/0	WARN
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Uyghur---Uyghur-Bible-Arabic	UNEXPECTED	Source/Aionian	Summary	354/0	WARN
+
+# NUMERALS
+Uyghur---Uyghur-Bible-Arabic	NUMERALS	Source	3	PSA 96:12 13 دالالار ھەم ئۇلاردىكى ھەممە يايرىسۇن! ئۇ چاغدا ئورماندىكى پۈتكۈل دەرەخلەر پەرۋەردىگار ئالدىدا ياڭرىتىپ ناخشا ئېيتىدۇ؛ چۈنكى مانا، ئۇ كېلىدۇ! ئۇ جاھاننى سوراق قىلىشقا كېلىدۇ؛ ئۇ ئالەمنى ئادىللىق بىلەن، خەلقلەرنى ئۆز ھەقىقەت-ساداقىتىدە سوراق قىلىدۇ.	WARN
+Uyghur---Uyghur-Bible-Arabic	NUMERALS	Source	0	REV 12:6 ئايال چۆلگە قاچتى؛ ئۇ يەردە ئۇنىڭ 1260 كۈن بېقىلىشى ئۈچۈن ئۇنىڭغا خۇدا تەرىپىدىن ھازىرلاپ قويۇلغان بىر جاي بار ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	NUMERALS	Source	6	REV 13:18 مانا بۇ يەردە ھېكمەت بار. ئەقىل-پاراسىتى بارلىكى كىشىلەر دىۋىنىڭ رەقىمىنى ھېسابلاپ باقسۇن؛ چۈنكى بۇ رەقەم بىر ئادەمنىڭ رەقىمى بولىدۇ. ئۇنىڭ رەقىمى 666دۇر.	WARN
+Uyghur---Uyghur-Bible-Arabic	NUMERALS	Source	count	3	WARN
+Uyghur---Uyghur-Bible-Arabic	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) ئەيسا ھەپتىنىڭ بىرىنچى كۈنى تاڭ سەھەردە تىرىلگەندىن كېيىن، ئاۋۋال ماگداللىق مەريەمگە كۆرۈندى. ئۇ ئەسلىدە ئۇنىڭدىن يەتتە جىننى ھەيدىۋەتكەنىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	NUMERALS	Aionian	1260	066-REV-012-006 ئايال چۆلگە قاچتى؛ ئۇ يەردە ئۇنىڭ 1260 كۈن بېقىلىشى ئۈچۈن ئۇنىڭغا خۇدا تەرىپىدىن ھازىرلاپ قويۇلغان بىر جاي بار ئىدى.	WARN
+Uyghur---Uyghur-Bible-Arabic	NUMERALS	Aionian	666	066-REV-013-018 مانا بۇ يەردە ھېكمەت بار. ئەقىل-پاراسىتى بارلىكى كىشىلەر دىۋىنىڭ رەقىمىنى ھېسابلاپ باقسۇن؛ چۈنكى بۇ رەقەم بىر ئادەمنىڭ رەقىمى بولىدۇ. ئۇنىڭ رەقىمى 666دۇر.	ERROR
+Uyghur---Uyghur-Bible-Arabic	NUMERALS	Aionian	count	3	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

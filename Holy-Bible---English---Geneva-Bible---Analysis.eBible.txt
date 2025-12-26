@@ -1,0 +1,533 @@
+# File Name: Holy-Bible---Holy-Bible---English---Geneva-Bible---Analysis.txt
+# File Size: 64783       
+# File Date: 12/13/2025 05:20:46
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Geneva Bible
+# Bible Name English: Geneva Bible
+# Bible Language: English
+# Bible Language English: English
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Miles Coverdale, John Knox, English Scholars exiled to Geneva, Switzerland
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=enggnv
+# Bible Source Year: 1599
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+English---Geneva-Bible	ENCODING	Source	Holy-Bible---English---Geneva-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+English---Geneva-Bible	ENCODING	Aionian	Holy-Bible---English---Geneva-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+English---Geneva-Bible	BYTES	Source	bytes / chars	4476304 / 4476246 (multi-byte)	NOTICE
+English---Geneva-Bible	BYTES	Aionian	bytes / chars	4690692 / 4690446 (multi-byte)	NOTICE
+English---Geneva-Bible	BYTES	SourceClean	bytes / chars	4475513 / 4475455 (multi-byte)	NOTICE
+English---Geneva-Bible	BYTES	AionianClean	bytes / chars	4687196 / 4686950 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+English---Geneva-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+English---Geneva-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+English---Geneva-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+English---Geneva-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+English---Geneva-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+English---Geneva-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+English---Geneva-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+English---Geneva-Bible	UNPRINTABLE	Source	count	0	NOTICE
+English---Geneva-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+English---Geneva-Bible	UNICODE	Summary	(-)Orginal	56	NOTICE
+English---Geneva-Bible	UNICODE	Summary	(+)Aionian	60	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (G)	8641	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (E)	14031	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : ( )	815022	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (1)	30423	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (:)	44826	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (I)	22770	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (n)	222888	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (t)	303418	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (h)	277278	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (e)	483013	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (b)	43753	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (g)	46576	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (i)	180060	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (o)	238117	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (d)	153749	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (c)	50846	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (r)	167622	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (a)	254133	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (u)	92644	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (.)	26585	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31090	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (2)	21654	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (A)	25073	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (s)	181483	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (m)	76366	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (,)	79064	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (k)	19603	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (p)	38831	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (S)	12596	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (3)	12267	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (T)	12523	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (L)	12244	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (l)	118564	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (4)	9132	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (5)	7038	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (y)	56528	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (6)	6457	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (7)	5913	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (8)	5767	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (H)	7396	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (9)	5634	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (0)	5299	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (B)	6197	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (M)	7228	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (O)	8405	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (()	828	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (P)	7309	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (C)	6712	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : ())	828	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (V)	1674	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (K)	5800	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (-)	671	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (q)	810	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (R)	5017	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (U)	3522	NOTICE
+English---Geneva-Bible	UNICODE	Source(-)	Basic Latin : (J)	4995	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130588	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42442	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124404	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	8654	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	14032	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	22771	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	223090	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	753398	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	303425	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	277407	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	483112	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	43763	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	46789	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	180307	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	238266	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	153766	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	50848	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	167633	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	254332	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	92647	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	26514	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31100	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31087	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	25086	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	181597	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	76373	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	79069	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	19604	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	38832	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	12664	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17184	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	12526	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	12251	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	118633	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	13737	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20033	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10273	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	56542	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10731	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7449	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7859	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	7407	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	6198	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	7230	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	8410	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (()	1168	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	7317	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	6713	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : ())	1167	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1673	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	5801	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	672	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	811	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	5019	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3523	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4998	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+English---Geneva-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (G)	8641	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (E)	14031	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (N)	6190	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : ( )	815022	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (1)	30423	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (:)	44826	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (I)	22770	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (n)	222888	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (t)	303418	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (h)	277278	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (e)	483013	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (b)	43753	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (g)	46576	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (i)	180060	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (o)	238117	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (d)	153749	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (c)	50846	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (r)	167622	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (a)	254133	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (u)	92644	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (.)	26585	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (\n)	31090	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (2)	21654	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (A)	25073	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (w)	62821	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (s)	181483	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (f)	79271	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (m)	76366	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (v)	19714	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (,)	79064	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (k)	19603	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (p)	38831	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (S)	12596	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (3)	12267	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (T)	12523	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (L)	12244	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (l)	118564	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (4)	9132	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (5)	7038	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (D)	3883	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (y)	56528	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (6)	6457	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (7)	5913	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (8)	5767	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (H)	7396	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (9)	5634	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (0)	5299	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (B)	6197	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (M)	7228	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (F)	2378	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (x)	1435	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (O)	8405	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (()	828	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (P)	7309	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (C)	6712	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : ())	828	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (Y)	602	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (?)	3320	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (W)	2600	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (V)	1674	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (K)	5800	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (Z)	2725	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (-)	671	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (;)	35	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (q)	810	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (z)	2139	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (R)	5017	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (j)	25	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (!)	102	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (U)	3522	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (J)	4995	NOTICE
+English---Geneva-Bible	UNICODE	Source	Basic Latin : (Q)	59	NOTICE
+English---Geneva-Bible	UNICODE	Source	Latin-1 Supplement: (æ)	2	NOTICE
+English---Geneva-Bible	UNICODE	Source	General Punctuation : (‘)	14	NOTICE
+English---Geneva-Bible	UNICODE	Source	General Punctuation : (’)	14	NOTICE
+
+# VERSIFICATION
+English---Geneva-Bible	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+English---Geneva-Bible	VERSIFICATION	Summary	missing	1	WARN
+English---Geneva-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+English---Geneva-Bible	ENCLOSURES	Source	()	828 / 828	NOTICE
+English---Geneva-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+English---Geneva-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+English---Geneva-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+English---Geneva-Bible	ENCLOSURES	Aionian	()	1168 / 1167	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+English---Geneva-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+English---Geneva-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	GEN 2:9 (For out of the ground made the Lord God to grow euery tree pleasant to the sight, and good for meate: the tree of life also in the mids of the garden, and the tree of knowledge of good and of euill.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	GEN 2:14 The name also of the third riuer is Hiddekel: this goeth toward the Eastside of Asshur: and the fourth riuer is Perath)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	GEN 42:8 (Now Ioseph knewe his brethren, but they knew not him.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	GEN 42:9 And Ioseph remembred the dreames, which he dreamed of them) and he sayde vnto them, Ye are spies, and are come to see the weaknesse of the land.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EXO 9:31 (And the flaxe, and the barley were smitten: for the barley was eared, and the flaxe was bolled.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EXO 9:32 But the wheat and the rye were not smitten, for they were hid in the grounde)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EXO 11:3 And the Lord gaue the people fauour in the sight of the Egyptians: also Moses was very great in the land of Egypt, in the sight of Pharaohs seruantes, and in the sight of the people.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EXO 14:19 (And the Angel of God, which went before the hoste of Israel, remoued and went behinde them: also the pillar of the cloude went from before them, and stoode behinde them,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EXO 14:20 And came betweene the campe of the Egyptians and the campe of Israel: it was both a cloude and darkenes, yet gaue it light by night, so that all the night long the one came not at the other)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EXO 16:11 (For the Lord had spoken vnto Moses, saying,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EXO 16:12 I haue heard the murmurings of the children of Israel: tell them therefore, and say, At euen ye shall eate flesh, and in the morning ye shall be filled with bread, and ye shall knowe that I am the Lord your God)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EXO 18:3 And her two sonnes, (whereof the one was called Gershom: for he sayd, I haue bene an aliant in a strange land:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EXO 18:4 And the name of the other was Eliezer: for the God of my father, said he, was mine helpe, and deliuered me from the sword of Pharaoh)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EXO 34:29 So when Moses came downe from mount Sinai, the two Tables of the Testimonie were in Moses hande, as hee descended from the mount: (nowe Moses wist not that the skinne of his face shone bright, after that God had talked with him.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EXO 34:30 And Aaron and all the children of Israel looked vpon Moses, and beholde, the skin of his face shone bright, and they were afraid to come neere him)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	LEV 8:10 (Nowe Moses had taken the anointing oyle, and anoynted the Tabernacle, and al that was therein, and sanctified them,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	LEV 8:11 And sprinkled thereof vpon the altar seuen times, and anointed the altar and all his instruments, and the lauer, and his foote, to sanctifie them)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	LEV 18:27 (For all these abominations haue the men of the land done, which were before you, and the land is defiled:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	LEV 18:28 And shall not the lande spue you out if ye defile it, as it spued out the people that were before you?)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	NUM 11:7 (The Man also was as coriander seede, and his colour like the colour of bdelium.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	NUM 11:9 And when the dewe fell downe vpon the hoste in the night, the Man fell with it)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	NUM 31:43 (For the halfe that perteined vnto the Congregation, was three hundreth thirtie and seuen thousand sheepe and fiue hundreth,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	NUM 31:46 And sixteene thousande persons)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	NUM 33:38 (And Aaron the Priest went vp into mount Hor, at the commandement of the Lord, and died there, in the fourtieth yeere after the children of Israel were come out of the lande of Egypt, in the first day of the fifth moneth.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	NUM 33:40 And King Arad the Canaanite, which dwelt in the South of the land of Canaan, heard of the comming of the children of Israel)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	DEU 5:5 (At that time I stoode betweene the Lord and you, to declare vnto you ye word of the Lord: for ye were afraid at the sight of the fire, and went not vp into the mount, and he said,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	DEU 8:15 Who was thy guide in the great and terrible wildernes (wherein were fierie serpents, and scorpions, and drought, where was no water, who brought forth water for thee out of ye rock of flint:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	DEU 8:16 Who fed thee in the wildernesse with MAN, which thy fathers knewe not) to humble thee, and and to proue thee, that he might doe thee good at thy latter ende.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	DEU 13:1 If there arise amog you a prophet or a dreamer of dreames, (and giue thee a signe or wonder,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	DEU 13:2 And the signe and the wonder, which hee hath tolde thee, come to passe) saying, Let vs go after other gods, which thou hast not knowen, and let vs serue them,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	JOS 4:1 And when all the people were wholy gone ouer Iorden, (after the Lord had spoken vnto Ioshua, saying,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	JOS 4:3 And command you them, saying, Take you hence out of the middes of Iorden, out of the place where the Priestes stoode in a readinesse, twelue stones, which ye shall take away with you, and leaue them in the lodging where you shall lodge this night)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	JDG 3:1 These nowe are the nations which the Lord left, that he might proue Israel by them (euen as many of Israel as had not knowen all the warres of Canaan,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	JDG 3:2 Only to make the generations of the children of Israel to know, and to teach them warre, which doutles their predecessors knew not)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	JDG 9:17 (For my father fought for you, and aduentured his life, and deliuered you out of the handes of Midian.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	JDG 9:18 And yee are risen vp against my fathers house this day, and haue slayne his children, about seuentie persons vpon one stone, and haue made Abimelech the sonne of his mayde seruant, King ouer the men of Shechem, because hee is your brother)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 And the children of Israel asked the Lord (for there was the Arke of the couenat of God in those dayes,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 And Phinehas the sonne of Eleazar, the sonne of Aaron stoode before it at that time) saying, Shall I yet goe anie more to battel against the children of Beniamin my brethren, or shall I cease? And the Lord said, Go vp: for to morowe I will deliuer them into your hand.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	1SA 12:20 And Samuel said vnto the people, Feare not. (ye haue indeede done all this wickednesse, yet depart not from following the Lord, but serue the Lord with all your heart,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	1SA 12:21 Neither turne yee backe: for that shoulde be after vaine things which cannot profite you, nor deliuer you, for they are but vanitie)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	2SA 4:2 And Sauls sonne had two men that were captaines of bandes: the one called Baanah, and the other called Rechab, the sonnes of Rimmon a Beerothite of the children of Beniamin. (for Beeroth was reckened to Beniamin,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	2SA 4:3 Because the Beerothites fled to Gittaim, and soiourned there, vnto this day).	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	2SA 7:10 (Also I will appoynt a place for my people Israel, and will plant it, that they may dwell in a place of their owne, and moue no more, neither shall wicked people trouble them any more as before time,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	2SA 7:11 And since the time that I set Iudges ouer my people of Israel) and I will giue thee rest from al thine enemies: also the Lord telleth thee, that he will make thee an house.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	2SA 22:49 And rescueth me from mine enemies: (thou also hast lift me vp from them that rose against me, thou hast deliuered me from the cruell man.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	2SA 22:50 Therefore I will praise thee, O Lord amog the nations, and will sing vnto thy Name)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	1KI 9:17 (Therefore Salomon builte Gezer and Beth-horon the nether,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	1KI 9:19 And all the cities of store, that Salomon had, euen cities for charets, and cities for horsemen, and all that Salomon desired and woulde build in Ierusalem, and in Lebanon and in all the land of his dominion)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 And Ahab called Obadiah the gouernour of his house: (and Obadiah feared God greatly:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 For when Iezebel destroyed the Prophets of the Lord, Obadiah tooke an hundreth Prophets, and hid them, by fiftie in a caue, and he fed them with bread and water.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	1KI 21:25 (But there was none like Ahab, who did fell him selfe, to worke wickednesse in the sight of the Lord: whom Iezebel his wife prouoked.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	1KI 21:26 For he did exceeding abominably in following idoles, according to all that the Amorites did, whom the Lord cast out before the children of Israel.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	2KI 9:14 So Iehu ye sonne of Iehoshaphat the sonne of Nimshi conspired against Ioram: (Now Ioram kept Ramoth Gilead, he and all Israel, because of Hazael King of Aram.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	2KI 9:15 And King Ioram returned to bee healed in Izreel of the woundes, which the Aramites had giuen him, when hee fought with Hazael King of Aram) and Iehu sayde, If it be your mindes, let no man depart and escape out of the citie, to goe and tell in Izreel.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	2KI 13:5 (And the Lord gaue Israel a deliuerer, so that they came out from vnder the subiection of the Aramites. And the children of Israel dwelt in their tents as before time.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	2KI 13:6 Neuerthelesse they departed not from the sinnes of the house of Ieroboam which made Israel sinne, but walked in them. euen the groue also remayned still in Samaria)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	1CH 5:1 The sonnes also of Reuben the eldest sonne of Israel (for he was the eldest, but had defiled his fathers bed, therefore his birthright was giuen vnto the sonnes of Ioseph the sonne of Israel, so that the genealogie is not rekoned after his birthright.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	1CH 5:2 For Iudah preuailed aboue his brethren, and of him came the prince, but the birthright was Iosephs)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	1CH 17:9 (Also I will appoynt a place for my people Israel, and will plant it, that they may dwell in their place, and moue no more: neither shall the wicked people vexe them any more, as at the beginning,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	1CH 17:10 And since the time that I commanded iudges ouer my people Israel) And I wil subdue all thine enemies: therefore I say vnto thee, that the Lord wil buylde thee an house.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	1CH 21:29 (But the Tabernacle of the Lord which Moses had made in the wildernesse, and the altar of burnt offring were at that season in the hie place at Gibeon.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	1CH 21:30 And Dauid could not go before it to aske counsel at God: for he was afraide of the sworde of the Angel of the Lord.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	2CH 5:11 And when the Priestes were come out of the Sanctuarie (for all the Priests that were present, were sanctified and did not waite by course.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	2CH 5:13 And they were as one, blowing trumpets, and singing, and made one sounde to bee heard in praysing and thanking the Lord, and when they lift vp their voyce with trumpets and with cymbales, and with instruments of musicke, and when they praysed the Lord, singing, For he is good, because his mercie lasteth for euer) then the house, euen the house of the Lord was filled with a cloude,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	2CH 28:17 (For the Edomites came moreouer, and slew of Iudah, and caryed away captiues.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	2CH 28:19 For the Lord had humbled Iudah, because of Ahaz King of Israel: for he had brought vengeance vpon Iudah, and had grieuously transgressed against the Lord)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EST 1:13 Then the King said to the wise men, that knew the times (for so was the Kings maner towards all that knew the law and the iudgement:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EST 1:14 And the next vnto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan the seuen princes of Persia and Media, which sawe the Kings face, and sate the first in the kingdome)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EST 2:12 And when the course of euery mayd came, to go in to King Ahashuerosh, after that she had bene twelue moneths according to the maner of the women (for so were the dayes of their purifications accomplished, sixe moneths with oyle of myrrhe, and sixe moneths with sweete odours and in the purifying of the women:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EST 2:13 And thus went the maides vnto the King) whatsoeuer she required, was giuen her, to go with her out of the womens house vnto ye kings house.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	PRO 2:3 (For if thou callest after knowledge, and cryest for vnderstanding:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	PRO 2:8 That they may keepe the wayes of iudgement: and he preserueth the way of his Saintes)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	PRO 7:11 (She is babling and loud: whose feete can not abide in her house.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	PRO 7:12 Nowe she is without, nowe in the streetes, and lyeth in waite at euery corner)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	JER 19:4 Because they haue forsaken me, and prophaned this place, and haue burnt incense in it vnto other gods, whome neyther they, nor their fathers haue knowen, nor the Kings of Iudah (they haue filled this place also with the blood of innocents,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	JER 19:5 And they haue built the hie places of Baal, to burne their sonnes with fire for burnt offrings vnto Baal, which I commanded not, nor spake it, neither came it into my minde)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	JER 37:4 (Now Ieremiah went in and out among the people: for they had not put him into the prison.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	JER 37:5 Then Pharaohs hoste was come out of Egypt: and when the Caldeans that besieged Ierusalem, heard tidings of them, they departed from Ierusalem)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	MAT 9:20 (And beholde, a woman which was diseased with an issue of blood twelue yeres, came behinde him, and touched the hemme of his garment.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	MAT 9:22 Then Iesus turned him about, and seeing her, did say, Daughter, be of good comfort: thy faith hath made thee whole. And the woman was made whole at that same moment.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	MAT 27:9 (Then was fulfilled that which was spoken by Ieremias the Prophet, saying, And they tooke thirtie siluer pieces, ye price of him that was valued, whom they of ye children of Israel valued.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	MAT 27:10 And they gaue them for the potters fielde, as the Lord appointed me.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	MAT 27:18 (For he knewe well, that for enuie they had deliuered him.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	MAT 27:19 Also when he was set downe vpon the iudgement seate, his wife sent to him, saying, Haue thou nothing to do with that iust man: for I haue suffered many things this day in a dreame by reason of him.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	MAR 5:25 (And there was a certaine woman, which was diseased with an issue of blood twelue yeeres,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	MAR 5:34 And hee saide to her, Daughter, thy faith hath made thee whole: go in peace, and be whole of thy plague.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (For the Pharises, and all the Iewes, except they wash their hands oft, eate not, holding the tradition of the Elders.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 And when they come from the market, except they wash, they eate not: and many other things there be, which they haue taken vpon them to obserue, as the washing of cups, and pots, and of brasen vessels, and of beds.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	LUK 6:14 (Simon whome he named also Peter, and Andrew his brother, Iames and Iohn, Philippe and Bartlemewe:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	LUK 6:16 Iudas Iames brother, and Iudas Iscariot, which also was the traitour.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	LUK 8:42 For he had but a daughter onely, about twelue yeeres of age, and she lay a dying (and as he went, the people thronged him.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	LUK 8:48 And he said vnto her, Daughter, be of good comfort: thy faith hath saued thee: go in peace.)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	JOH 18:19 (The hie Priest then asked Iesus of his disciples, and of his doctrine.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	JOH 18:24 Nowe Annas had sent him bound vnto Caiaphas the hie Priest)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	ACT 5:12 Thus by the hands of the Apostles were many signes and wonders shewed among the people (and they were all with one accorde in Salomons porche.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	ACT 5:14 Also the number of them that beleeued in the Lord, both of men and women, grewe more and more)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	ROM 1:3 Concerning his Sonne Iesus Christ our Lord (which was made of the seede of Dauid according to the flesh,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	ROM 1:4 And declared mightily to be the Sonne of God, touching the Spirit of sanctification by the resurrection from the dead)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	ROM 2:13 (For the hearers of the Lawe are not righteous before God: but the doers of the Lawe shalbe iustified.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	ROM 2:15 Which shew the effect of the Lawe written in their hearts, their conscience also bearing witnes, and their thoughts accusing one another, or excusing,)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	2CO 9:9 (As it is written, He hath sparsed abroad and hath giuen to the poore: his beneuolence remayneth for euer.	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	2CO 9:10 Also hee that findeth seede to the sower, will minister likewise bread for foode, and multiplie your seede, and increase the fruites of your beneuolence,)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EPH 3:3 That is, that God by reuelation hath shewed this mysterie vnto me (as I wrote aboue in fewe wordes,	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EPH 3:4 Whereby when ye reade, ye may knowe mine vnderstanding in the mysterie of Christ)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	EPH 4:9 (Nowe, in that hee ascended, what is it but that he had also descended first into the lowest partes of the earth?	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	EPH 4:10 Hee that descended, is euen the same that ascended, farre aboue all heauens, that hee might fill all things)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	HEB 7:20 And for as much as it is not without an othe (for these are made Priestes without an othe:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	HEB 7:21 But this is made with an othe by him that said vnto him, The Lord hath sworne, and will not repent, Thou art a Priest for euer, after the order of Melchi-sedec)	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(1/0)	HEB 12:20 (For they were not able to abide that which was commanded, yea, though a beast touche the mountaine, it shalbe stoned, or thrust through with a dart:	WARN
+English---Geneva-Bible	ENCLOSURES	Source	(0/1)	HEB 12:21 And so terrible was the sight which appeared, that Moses said, I feare and quake.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	001 GEN 002 009 (For out of the ground made the Lord God to grow euery tree pleasant to the sight, and good for meate: the tree of life also in the mids of the garden, and the tree of knowledge of good and of euill.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 002 014 The name also of the third riuer is Hiddekel: this goeth toward the Eastside of Asshur: and the fourth riuer is Perath)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	001 GEN 042 008 (Now Ioseph knewe his brethren, but they knew not him.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 042 009 And Ioseph remembred the dreames, which he dreamed of them) and he sayde vnto them, Ye are spies, and are come to see the weaknesse of the land.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (And the flaxe, and the barley were smitten: for the barley was eared, and the flaxe was bolled.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 But the wheat and the rye were not smitten, for they were hid in the grounde)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 011 003 And the Lord gaue the people fauour in the sight of the Egyptians: also Moses was very great in the land of Egypt, in the sight of Pharaohs seruantes, and in the sight of the people.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 014 019 (And the Angel of God, which went before the hoste of Israel, remoued and went behinde them: also the pillar of the cloude went from before them, and stoode behinde them,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 014 020 And came betweene the campe of the Egyptians and the campe of Israel: it was both a cloude and darkenes, yet gaue it light by night, so that all the night long the one came not at the other)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 016 011 (For the Lord had spoken vnto Moses, saying,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 016 012 I haue heard the murmurings of the children of Israel: tell them therefore, and say, At euen ye shall eate flesh, and in the morning ye shall be filled with bread, and ye shall knowe that I am the Lord your God)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 018 003 And her two sonnes, (whereof the one was called Gershom: for he sayd, I haue bene an aliant in a strange land:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 018 004 And the name of the other was Eliezer: for the God of my father, said he, was mine helpe, and deliuered me from the sword of Pharaoh)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 034 029 So when Moses came downe from mount Sinai, the two Tables of the Testimonie were in Moses hande, as hee descended from the mount: (nowe Moses wist not that the skinne of his face shone bright, after that God had talked with him.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 034 030 And Aaron and all the children of Israel looked vpon Moses, and beholde, the skin of his face shone bright, and they were afraid to come neere him)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	003 LEV 008 010 (Nowe Moses had taken the anointing oyle, and anoynted the Tabernacle, and al that was therein, and sanctified them,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	003 LEV 008 011 And sprinkled thereof vpon the altar seuen times, and anointed the altar and all his instruments, and the lauer, and his foote, to sanctifie them)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	003 LEV 018 027 (For all these abominations haue the men of the land done, which were before you, and the land is defiled:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	003 LEV 018 028 And shall not the lande spue you out if ye defile it, as it spued out the people that were before you?)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 011 007 (The Man also was as coriander seede, and his colour like the colour of bdelium.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 011 009 And when the dewe fell downe vpon the hoste in the night, the Man fell with it)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (For the halfe that perteined vnto the Congregation, was three hundreth thirtie and seuen thousand sheepe and fiue hundreth,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 And sixteene thousande persons)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 033 038 (And Aaron the Priest went vp into mount Hor, at the commandement of the Lord, and died there, in the fourtieth yeere after the children of Israel were come out of the lande of Egypt, in the first day of the fifth moneth.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 033 040 And King Arad the Canaanite, which dwelt in the South of the land of Canaan, heard of the comming of the children of Israel)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 005 005 (At that time I stoode betweene the Lord and you, to declare vnto you ye word of the Lord: for ye were afraid at the sight of the fire, and went not vp into the mount, and he said,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 008 015 Who was thy guide in the great and terrible wildernes (wherein were fierie serpents, and scorpions, and drought, where was no water, who brought forth water for thee out of ye rock of flint:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 008 016 Who fed thee in the wildernesse with MAN, which thy fathers knewe not) to humble thee, and and to proue thee, that he might doe thee good at thy latter ende.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 013 001 If there arise amog you a prophet or a dreamer of dreames, (and giue thee a signe or wonder,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 013 002 And the signe and the wonder, which hee hath tolde thee, come to passe) saying, Let vs go after other gods, which thou hast not knowen, and let vs serue them,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	006 JOS 004 001 And when all the people were wholy gone ouer Iorden, (after the Lord had spoken vnto Ioshua, saying,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	006 JOS 004 003 And command you them, saying, Take you hence out of the middes of Iorden, out of the place where the Priestes stoode in a readinesse, twelue stones, which ye shall take away with you, and leaue them in the lodging where you shall lodge this night)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 003 001 These nowe are the nations which the Lord left, that he might proue Israel by them (euen as many of Israel as had not knowen all the warres of Canaan,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 003 002 Only to make the generations of the children of Israel to know, and to teach them warre, which doutles their predecessors knew not)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (For my father fought for you, and aduentured his life, and deliuered you out of the handes of Midian.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 And yee are risen vp against my fathers house this day, and haue slayne his children, about seuentie persons vpon one stone, and haue made Abimelech the sonne of his mayde seruant, King ouer the men of Shechem, because hee is your brother)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 And the children of Israel asked the Lord (for there was the Arke of the couenat of God in those dayes,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 And Phinehas the sonne of Eleazar, the sonne of Aaron stoode before it at that time) saying, Shall I yet goe anie more to battel against the children of Beniamin my brethren, or shall I cease? And the Lord said, Go vp: for to morowe I will deliuer them into your hand.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	009 1SA 012 020 And Samuel said vnto the people, Feare not. (ye haue indeede done all this wickednesse, yet depart not from following the Lord, but serue the Lord with all your heart,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	009 1SA 012 021 Neither turne yee backe: for that shoulde be after vaine things which cannot profite you, nor deliuer you, for they are but vanitie)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 And Sauls sonne had two men that were captaines of bandes: the one called Baanah, and the other called Rechab, the sonnes of Rimmon a Beerothite of the children of Beniamin. (for Beeroth was reckened to Beniamin,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 Because the Beerothites fled to Gittaim, and soiourned there, vnto this day).	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 007 010 (Also I will appoynt a place for my people Israel, and will plant it, that they may dwell in a place of their owne, and moue no more, neither shall wicked people trouble them any more as before time,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 007 011 And since the time that I set Iudges ouer my people of Israel) and I will giue thee rest from al thine enemies: also the Lord telleth thee, that he will make thee an house.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 022 049 And rescueth me from mine enemies: (thou also hast lift me vp from them that rose against me, thou hast deliuered me from the cruell man.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 022 050 Therefore I will praise thee, O Lord amog the nations, and will sing vnto thy Name)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 009 017 (Therefore Salomon builte Gezer and Beth-horon the nether,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 009 019 And all the cities of store, that Salomon had, euen cities for charets, and cities for horsemen, and all that Salomon desired and woulde build in Ierusalem, and in Lebanon and in all the land of his dominion)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 And Ahab called Obadiah the gouernour of his house: (and Obadiah feared God greatly:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 For when Iezebel destroyed the Prophets of the Lord, Obadiah tooke an hundreth Prophets, and hid them, by fiftie in a caue, and he fed them with bread and water.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (But there was none like Ahab, who did fell him selfe, to worke wickednesse in the sight of the Lord: whom Iezebel his wife prouoked.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 For he did exceeding abominably in following idoles, according to all that the Amorites did, whom the Lord cast out before the children of Israel.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 So Iehu ye sonne of Iehoshaphat the sonne of Nimshi conspired against Ioram: (Now Ioram kept Ramoth Gilead, he and all Israel, because of Hazael King of Aram.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 And King Ioram returned to bee healed in Izreel of the woundes, which the Aramites had giuen him, when hee fought with Hazael King of Aram) and Iehu sayde, If it be your mindes, let no man depart and escape out of the citie, to goe and tell in Izreel.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 013 005 (And the Lord gaue Israel a deliuerer, so that they came out from vnder the subiection of the Aramites. And the children of Israel dwelt in their tents as before time.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Neuerthelesse they departed not from the sinnes of the house of Ieroboam which made Israel sinne, but walked in them. euen the groue also remayned still in Samaria)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 The sonnes also of Reuben the eldest sonne of Israel (for he was the eldest, but had defiled his fathers bed, therefore his birthright was giuen vnto the sonnes of Ioseph the sonne of Israel, so that the genealogie is not rekoned after his birthright.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 For Iudah preuailed aboue his brethren, and of him came the prince, but the birthright was Iosephs)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 017 009 (Also I will appoynt a place for my people Israel, and will plant it, that they may dwell in their place, and moue no more: neither shall the wicked people vexe them any more, as at the beginning,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 017 010 And since the time that I commanded iudges ouer my people Israel) And I wil subdue all thine enemies: therefore I say vnto thee, that the Lord wil buylde thee an house.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 021 029 (But the Tabernacle of the Lord which Moses had made in the wildernesse, and the altar of burnt offring were at that season in the hie place at Gibeon.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 021 030 And Dauid could not go before it to aske counsel at God: for he was afraide of the sworde of the Angel of the Lord.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 And when the Priestes were come out of the Sanctuarie (for all the Priests that were present, were sanctified and did not waite by course.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 005 013 And they were as one, blowing trumpets, and singing, and made one sounde to bee heard in praysing and thanking the Lord, and when they lift vp their voyce with trumpets and with cymbales, and with instruments of musicke, and when they praysed the Lord, singing, For he is good, because his mercie lasteth for euer) then the house, euen the house of the Lord was filled with a cloude,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 028 017 (For the Edomites came moreouer, and slew of Iudah, and caryed away captiues.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 028 019 For the Lord had humbled Iudah, because of Ahaz King of Israel: for he had brought vengeance vpon Iudah, and had grieuously transgressed against the Lord)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Then the King said to the wise men, that knew the times (for so was the Kings maner towards all that knew the law and the iudgement:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 And the next vnto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan the seuen princes of Persia and Media, which sawe the Kings face, and sate the first in the kingdome)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 002 012 And when the course of euery mayd came, to go in to King Ahashuerosh, after that she had bene twelue moneths according to the maner of the women (for so were the dayes of their purifications accomplished, sixe moneths with oyle of myrrhe, and sixe moneths with sweete odours and in the purifying of the women:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 002 013 And thus went the maides vnto the King) whatsoeuer she required, was giuen her, to go with her out of the womens house vnto ye kings house.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(2/1)	019 PSA 032 004 (For thine hand is heauie vpon me, day and night: and my moysture is turned into ye drought of summer. (Selah)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 002 003 (For if thou callest after knowledge, and cryest for vnderstanding:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 002 008 That they may keepe the wayes of iudgement: and he preserueth the way of his Saintes)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	020 PRO 007 011 (She is babling and loud: whose feete can not abide in her house.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	020 PRO 007 012 Nowe she is without, nowe in the streetes, and lyeth in waite at euery corner)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 019 004 Because they haue forsaken me, and prophaned this place, and haue burnt incense in it vnto other gods, whome neyther they, nor their fathers haue knowen, nor the Kings of Iudah (they haue filled this place also with the blood of innocents,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 019 005 And they haue built the hie places of Baal, to burne their sonnes with fire for burnt offrings vnto Baal, which I commanded not, nor spake it, neither came it into my minde)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 037 004 (Now Ieremiah went in and out among the people: for they had not put him into the prison.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 037 005 Then Pharaohs hoste was come out of Egypt: and when the Caldeans that besieged Ierusalem, heard tidings of them, they departed from Ierusalem)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	040 MAT 009 020 (And beholde, a woman which was diseased with an issue of blood twelue yeres, came behinde him, and touched the hemme of his garment.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	040 MAT 009 022 Then Iesus turned him about, and seeing her, did say, Daughter, be of good comfort: thy faith hath made thee whole. And the woman was made whole at that same moment.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	040 MAT 027 009 (Then was fulfilled that which was spoken by Ieremias the Prophet, saying, And they tooke thirtie siluer pieces, ye price of him that was valued, whom they of ye children of Israel valued.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	040 MAT 027 010 And they gaue them for the potters fielde, as the Lord appointed me.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	040 MAT 027 018 (For he knewe well, that for enuie they had deliuered him.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	040 MAT 027 019 Also when he was set downe vpon the iudgement seate, his wife sent to him, saying, Haue thou nothing to do with that iust man: for I haue suffered many things this day in a dreame by reason of him.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 005 025 (And there was a certaine woman, which was diseased with an issue of blood twelue yeeres,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 005 034 And hee saide to her, Daughter, thy faith hath made thee whole: go in peace, and be whole of thy plague.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (For the Pharises, and all the Iewes, except they wash their hands oft, eate not, holding the tradition of the Elders.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 And when they come from the market, except they wash, they eate not: and many other things there be, which they haue taken vpon them to obserue, as the washing of cups, and pots, and of brasen vessels, and of beds.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	042 LUK 006 014 (Simon whome he named also Peter, and Andrew his brother, Iames and Iohn, Philippe and Bartlemewe:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	042 LUK 006 016 Iudas Iames brother, and Iudas Iscariot, which also was the traitour.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	042 LUK 008 042 For he had but a daughter onely, about twelue yeeres of age, and she lay a dying (and as he went, the people thronged him.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	042 LUK 008 048 And he said vnto her, Daughter, be of good comfort: thy faith hath saued thee: go in peace.)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 018 019 (The hie Priest then asked Iesus of his disciples, and of his doctrine.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 018 024 Nowe Annas had sent him bound vnto Caiaphas the hie Priest)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 005 012 Thus by the hands of the Apostles were many signes and wonders shewed among the people (and they were all with one accorde in Salomons porche.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 005 014 Also the number of them that beleeued in the Lord, both of men and women, grewe more and more)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 001 003 Concerning his Sonne Iesus Christ our Lord (which was made of the seede of Dauid according to the flesh,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 001 004 And declared mightily to be the Sonne of God, touching the Spirit of sanctification by the resurrection from the dead)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 013 (For the hearers of the Lawe are not righteous before God: but the doers of the Lawe shalbe iustified.	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 Which shew the effect of the Lawe written in their hearts, their conscience also bearing witnes, and their thoughts accusing one another, or excusing,)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(2/1)	047 2CO 009 009 (As it is written, He hath sparsed abroad and hath giuen to the poore: his beneuolence remayneth for euer. (aiōn g165)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	047 2CO 009 010 Also hee that findeth seede to the sower, will minister likewise bread for foode, and multiplie your seede, and increase the fruites of your beneuolence,)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 That is, that God by reuelation hath shewed this mysterie vnto me (as I wrote aboue in fewe wordes,	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 Whereby when ye reade, ye may knowe mine vnderstanding in the mysterie of Christ)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 004 009 (Nowe, in that hee ascended, what is it but that he had also descended first into the lowest partes of the earth?	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 004 010 Hee that descended, is euen the same that ascended, farre aboue all heauens, that hee might fill all things)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 007 020 And for as much as it is not without an othe (for these are made Priestes without an othe:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/2)	058 HEB 007 021 But this is made with an othe by him that said vnto him, The Lord hath sworne, and will not repent, Thou art a Priest for euer, after the order of Melchi-sedec) (aiōn g165)	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 012 020 (For they were not able to abide that which was commanded, yea, though a beast touche the mountaine, it shalbe stoned, or thrust through with a dart:	WARN
+English---Geneva-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 012 021 And so terrible was the sight which appeared, that Moses said, I feare and quake.)	WARN
+English---Geneva-Bible	ENCLOSURES	Summary	lines	110 / 111	WARN
+
+# UNEXPECTED
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+English---Geneva-Bible	UNEXPECTED	Source/Aionian	Summary	0/0	NOTICE
+
+# NUMERALS
+English---Geneva-Bible	NUMERALS	Source	count	0	NOTICE
+English---Geneva-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) And when Iesus was risen againe, early the first day of the weeke, he appeared first to Marie Magdalene, out of whom he had cast seuen deuils:	WARN
+English---Geneva-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

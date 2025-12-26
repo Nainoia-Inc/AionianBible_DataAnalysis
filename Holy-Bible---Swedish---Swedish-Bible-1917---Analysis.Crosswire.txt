@@ -1,0 +1,953 @@
+# File Name: Holy-Bible---Holy-Bible---Swedish---Swedish-Bible-1917---Analysis.txt
+# File Size: 156131      
+# File Date: 12/13/2025 06:02:11
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Svensk Bibel
+# Bible Name English: Swedish Bible Runeberg
+# Bible Language: Svensk
+# Bible Language English: Swedish
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Project Runeberg, www.lysator.liu.se/runeberg
+# Bible Source Version: 8/20/2022
+# Bible Source Link: https://crosswire.org/sword/modules/ModInfo.jsp?modName=Swe1917
+# Bible Source Year: 1917
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Swedish---Swedish-Bible-1917	ENCODING	Source	Holy-Bible---Swedish---Swedish-Bible-1917---Source-Edition.SWORD.txt	UTF-8	NOTICE
+Swedish---Swedish-Bible-1917	ENCODING	Aionian	Holy-Bible---Swedish---Swedish-Bible-1917---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Swedish---Swedish-Bible-1917	BYTES	Source	bytes / chars	6204370 / 5971876 (multi-byte)	NOTICE
+Swedish---Swedish-Bible-1917	BYTES	Aionian	bytes / chars	4780386 / 4578233 (multi-byte)	NOTICE
+Swedish---Swedish-Bible-1917	BYTES	SourceClean	bytes / chars	5431962 / 5199526 (multi-byte)	NOTICE
+Swedish---Swedish-Bible-1917	BYTES	AionianClean	bytes / chars	4776691 / 4574543 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Swedish---Swedish-Bible-1917	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Swedish---Swedish-Bible-1917	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Swedish---Swedish-Bible-1917	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Swedish---Swedish-Bible-1917	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Swedish---Swedish-Bible-1917	AIONIAN	Aionian	missing-verse	0	NOTICE
+Swedish---Swedish-Bible-1917	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Swedish---Swedish-Bible-1917	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Swedish---Swedish-Bible-1917	UNPRINTABLE	Source	count	0	NOTICE
+Swedish---Swedish-Bible-1917	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Swedish---Swedish-Bible-1917	UNICODE	Summary	(-)Orginal	88	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Summary	(+)Aionian	83	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : ([)	651	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : ( )	909304	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (T)	3653	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (e)	353969	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (s)	243889	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (t)	256675	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (a)	362538	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (m)	135315	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (n)	290179	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (1)	31933	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (H)	13442	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (d)	218805	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (i)	190784	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (g)	120505	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (])	652	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (\n)	36768	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (G)	7828	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (0)	7601	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (:)	45531	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (I)	20854	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (b)	48789	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (y)	18744	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (l)	204395	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (k)	98205	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (p)	39527	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (u)	84981	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (h)	137176	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (o)	189672	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (c)	76438	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (j)	33875	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (r)	276527	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (.)	35955	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (2)	21583	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (O)	9883	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (v)	87170	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: (ö)	60827	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (,)	65494	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (A)	6041	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: (ä)	84917	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (3)	14184	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: (»)	12156	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (V)	2560	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (;)	10723	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (4)	10781	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: (å)	72658	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (f)	76403	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (5)	8257	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (6)	7576	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (7)	6826	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (8)	6613	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (9)	6417	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (S)	13612	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (F)	1896	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (L)	3584	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (M)	10625	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (D)	11137	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (E)	20277	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (R)	15420	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (N)	10828	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (x)	2250	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (P)	5207	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (K)	3398	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (J)	14928	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (')	2102	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (?)	2881	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (!)	999	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: (Ä)	284	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (-)	2557	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (Y)	41	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: (é)	1047	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (B)	2501	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (U)	367	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: (Ö)	138	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: (Å)	135	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (()	175	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : ())	175	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (C)	2727	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (z)	1680	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (Z)	283	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	General Punctuation : (’)	90	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	General Punctuation : (—)	16	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Latin-1 Supplement: («)	2	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (W)	451	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (")	2	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (^)	1	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (})	1	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (X)	3	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source(-)	Basic Latin : (w)	1417	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (0)	130458	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (1)	42424	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (\t)	124264	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (G)	7813	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (E)	27377	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (N)	12367	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (I)	11066	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : ( )	704861	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (b)	37701	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (e)	282330	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (g)	102681	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (y)	14868	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (n)	240289	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (l)	170141	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (s)	189470	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (k)	82797	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (a)	298424	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (p)	33744	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (d)	187419	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (u)	65930	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (h)	106955	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (i)	149926	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (m)	108823	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (o)	152996	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (c)	58412	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (j)	30321	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (r)	230604	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (.)	31187	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (\n)	31065	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (2)	31066	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (O)	15527	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (v)	73425	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (ö)	52532	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (t)	214597	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (,)	58357	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (A)	13492	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (ä)	73058	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (3)	17181	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (:)	8323	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (»)	11436	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (V)	3564	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (;)	9730	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (4)	19999	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (å)	63382	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (f)	65139	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (5)	10271	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (6)	10723	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (7)	7440	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (8)	7857	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (9)	9292	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (S)	16168	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (F)	1717	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (L)	3747	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (M)	10456	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (D)	10789	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (H)	15891	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (R)	18514	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (x)	892	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (P)	5017	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (K)	4367	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (J)	13137	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (')	2025	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (?)	2709	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (!)	912	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (T)	5261	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (Ä)	266	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (-)	2498	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (Y)	37	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (é)	1009	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (B)	3511	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (U)	3838	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (Ö)	101	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (Å)	116	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (()	410	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : ())	410	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (C)	4359	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : ([)	2	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Basic Latin : (])	2	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : ([)	651	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : ( )	909304	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (T)	3653	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (e)	353969	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (s)	243889	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (t)	256675	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (a)	362538	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (m)	135315	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (n)	290179	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (1)	31933	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (H)	13442	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (d)	218805	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (i)	190784	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (g)	120505	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (])	652	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (\n)	36768	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (G)	7828	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (0)	7601	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (:)	45531	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (I)	20854	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (b)	48789	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (y)	18744	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (l)	204395	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (k)	98205	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (p)	39527	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (u)	84981	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (h)	137176	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (o)	189672	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (c)	76438	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (j)	33875	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (r)	276527	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (.)	35955	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (2)	21583	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (O)	9883	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (v)	87170	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (ö)	60827	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (,)	65494	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (A)	6041	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (ä)	84917	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (3)	14184	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (»)	12156	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (V)	2560	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (;)	10723	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (4)	10781	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (å)	72658	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (f)	76403	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (5)	8257	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (6)	7576	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (7)	6826	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (8)	6613	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (9)	6417	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (S)	13612	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (F)	1896	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (L)	3584	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (M)	10625	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (D)	11137	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (E)	20277	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (R)	15420	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (N)	10828	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (x)	2250	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (P)	5207	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (K)	3398	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (J)	14928	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (á)	33	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (')	2102	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (?)	2881	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (!)	999	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (Ä)	284	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (-)	2557	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (í)	10	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (Y)	41	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (é)	1047	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (B)	2501	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (U)	367	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (Ö)	138	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (Å)	135	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (()	175	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (ó)	13	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : ())	175	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: (ú)	4	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (C)	2727	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (z)	1680	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (Z)	283	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	General Punctuation : (’)	90	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	General Punctuation : (—)	16	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Latin-1 Supplement: («)	2	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (W)	451	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (")	2	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (^)	1	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (})	1	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (X)	3	NOTICE
+Swedish---Swedish-Bible-1917	UNICODE	Source	Basic Latin : (w)	1417	NOTICE
+
+# VERSIFICATION
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	004-NUM-012-016	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	004-NUM-029-040	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	006-JOS-021-036	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	006-JOS-021-037	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	009-1SA-023-029	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	012-2KI-021-026	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	021-ECC-005-020	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	021-ECC-006-012	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	022-SOL-006-013	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	025-LAM-001-022	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	027-DAN-004-002	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	027-DAN-004-035	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	027-DAN-004-036	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	027-DAN-004-037	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	028-HOS-013-016	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	037-HAG-001-015	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	040-MAT-021-044	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	042-LUK-017-037	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	042-LUK-020-022	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	043-JOH-005-004	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	045-ROM-016-024	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Aionian	missing	051-COL-004-003	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Summary	missing	36	WARN
+Swedish---Swedish-Bible-1917	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	()	175 / 175	NOTICE
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	[]	651 / 652	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	{}	0 / 1	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	()	410 / 410	NOTICE
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	[]	2 / 2	NOTICE
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	Deuteronomy 2:10 (Eméerna bodde där fordom, ett stort och talrikt och resligt folk, sådant som anakiterna.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	Deuteronomy 2:12 I Seir bodde däremot fordom horéerna, men Esaus barn fördrevo dem för sig och förgjorde dem och bosatte sig på det land som Herren hade givit dem till besittning.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	Deuteronomy 2:20 (Såsom ett rafaéernas land räknas också detta; rafaéer bodde fordom där; men ammoniterna kalla dem samsummiter.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	Deuteronomy 2:23 Likaså blevo avéerna, som bodde i byar ända fram till Gasa, förgjorda av kaftoréerna, som drogo ut från Kaftor och sedan bosatte sig i deras land.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	Joshua 12:7 Och följande voro de konungar i landet, som Josua och Israels barn slogo på andra sidan Jordan, på västra sidan, från Baal-Gad i Libanonsdalen ända till Halakberget, som höjer sig mot Seir. (Josua gav sedan landet till besittning åt Israels stammar, efter deras avdelningar,	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	Joshua 12:8 såväl Bergsbygden, Låglandet, Hedmarken och Bergssluttningarna som ock Öknen och Sydlandet, hetiternas, amoréernas, kananéernas, perisséernas, hivéernas och jebuséernas land.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	Judges 20:27 Och Israels barn frågade HERREN (ty Guds förbundsark stod på den tiden där,	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	Judges 20:28 och Pinehas, son till Eleasar, Arons son, gjorde tjänst inför den på den tiden); de sade: »Skall jag ännu en gång draga ut till strid mot min broder Benjamins barn, eller skall jag avstå därifrån?» HERREN svarade: »Dragen upp; ty i morgon skall jag giva honom i din hand.» 	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	I Kings 9:16 (Farao, konungen i Egypten, hade nämligen dragit upp och intagit Geser och bränt upp det i eld och dräpt de kananéer som bodde i staden, varefter han hade givit den till hemgift åt sin dotter, Salomos hustru.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	I Kings 9:19 vidare alla Salomos förrådsstäder, vagnsstäderna och häststäderna, och vad annat Salomo kände åstundan att bygga i Jerusalem, på Libanon och eljest i hela det land som lydde under hans välde.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	I Kings 21:25 (Också har ingen varit såsom Ahab, han som sålde sig till att göra vad ont var i HERRENS ögon, när hans hustru Isebel uppeggade honom därtill.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	I Kings 21:26 Mycken styggelse förövade han, i det han följde efter de eländiga avgudarna, alldeles såsom amoréerna hade gjort, vilka HERREN fördrev för Israels barn.) 	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	II Kings 9:14 Och Jehu, son till Josafat, son till Nimsi, anstiftade nu en sammansvärjning mot Joram. (Joram hade då med hela Israel legat vid Ramot i Gilead för att försvara det mot Hasael, konungen i Aram;	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	II Kings 9:15 men själv hade konung Joram vänt tillbaka, för att i Jisreel låta hela sig från de sår som araméerna hade tillfogat honom under hans strid mot Hasael, konungen i Aram.) Och Jehu sade: »Om I så viljen, så låten ingen slippa ut ur staden, som kan gå åstad och berätta detta i Jisreel.»	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	II Kings 13:4 (Men Joahas bönföll inför HERREN, och HERREN hörde honom, eftersom han såg Israels betryck, då nu konungen i Aram förtryckte dem.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	II Kings 13:6 Dock avstodo de icke från de Jerobeams hus' synder genom vilka denne hade kommit Israel att synda, utan vandrade i dem. Aseran fick också stå kvar i Samaria.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	II Chronicles 5:11 Men när prästerna gingo ut ur helgedomen (ty alla präster som funnos där hade helgat sig, utan avseende på vilken avdelning de tillhörde;	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	II Chronicles 5:13 och trumpetblåsarna och sångarna stämde på en gång och enhälligt upp HERRENS lov och pris), och när man nu lät trumpeter och cymbaler och andra instrumenter ljuda och begynte lova HERREN, därför att han är god, och därför att hans nåd varar evinnerligen, då blev huset, HERRENS hus, uppfyllt av en molnsky,	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	Ezra 4:6 (Sedermera, under Ahasveros' regering, redan i begynnelsen av hans regering, skrev man en anklagelseskrift mot dem som bodde i Juda och Jerusalem.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	Ezra 4:23 Så snart nu vad som stod i konung Artasastas skrivelse hade blivit läst för Rehum och sekreteraren Simsai och deras medbröder, gingo de med hast till judarna i Jerusalem och hindrade dem med våld och makt.) 	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	Esther 1:13 Och konungen frågade de vise som voro kunniga i tidstecknens tydning (ty konungens ärenden plägade så läggas fram för alla i lag och rätt kunniga;	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	Esther 1:14 och han hade vid sin sida Karsena, Setar, Admata, Tarsis, Meres, Marsena och Memukan, de sju furstar i Persien och Medien, som voro konungens närmaste män och innehade främsta platsen i riket); han frågade:	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(1/0)	Proverbs 9:7 (Den som varnar en bespottare, han får skam igen, och den som tillrättavisar en ogudaktig får smälek därav.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	(0/1)	Proverbs 9:10 HERRENS fruktan är vishetens begynnelse, och att känna den Helige är förstånd.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	[1/0]	Sirach 1:6 För vem har vishetens rot blivit blottad, och vem har lärt känna hennes kloka rådslag? [	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	[0/1]	Sirach 1:7 ]	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	[0/1]	I Maccabees 13:2 och när han såg att folket var uppfyllt av bävan och förskräckelse, drog han upp till Jerusalem och församlade ] folket.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	\{0/1\}	II Maccabees 10:9 Ett sådant slut fick Antiokus med tillnamnet Epifanes. 10} Nu skola vi berätta vad som tilldrog sig under Antiokus Eupator, den ogudaktige Antiokus' son, och vilja därvid giva en kort sammanfattning av de ihållande svåra krigshändelserna. 	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	[1/0]	Mark 16:9 [Men efter sin uppståndelse visade han sig på första veckodagens morgon först för Maria från Magdala, ur vilken han hade drivit ut sju onda andar.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	[2/3]	Mark 16:20 Men de gingo ut och predikade allestädes. Och Herren verkade med dem och stadfäste ordet genom de tecken som åtföljde det.][1] [1] V. 9--20 se Nya testamentets text i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	[3/2]	John 7:53 [Och de gingo hem, var och en till sitt. [1] Jämför noten till Joh 4,10. [2] om natten. 	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Source	[1/2]	John 8:11 Hon svarade: »Herre, ingen.» Då sade han till henne: »Icke heller jag dömer dig. Gå, och synda icke härefter.»][1] 	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Eméerna bodde där fordom, ett stort och talrikt och resligt folk, sådant som anakiterna.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 I Seir bodde däremot fordom horéerna, men Esaus barn fördrevo dem för sig och förgjorde dem och bosatte sig på det land som Herren hade givit dem till besittning.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Såsom ett rafaéernas land räknas också detta; rafaéer bodde fordom där; men ammoniterna kalla dem samsummiter.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Likaså blevo avéerna, som bodde i byar ända fram till Gasa, förgjorda av kaftoréerna, som drogo ut från Kaftor och sedan bosatte sig i deras land.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	006 JOS 012 007 Och följande voro de konungar i landet, som Josua och Israels barn slogo på andra sidan Jordan, på västra sidan, från Baal-Gad i Libanonsdalen ända till Halakberget, som höjer sig mot Seir. (Josua gav sedan landet till besittning åt Israels stammar, efter deras avdelningar,	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	006 JOS 012 008 såväl Bergsbygden, Låglandet, Hedmarken och Bergssluttningarna som ock Öknen och Sydlandet, hetiternas, amoréernas, kananéernas, perisséernas, hivéernas och jebuséernas land.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Och Israels barn frågade HERREN (ty Guds förbundsark stod på den tiden där,	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 och Pinehas, son till Eleasar, Arons son, gjorde tjänst inför den på den tiden); de sade: »Skall jag ännu en gång draga ut till strid mot min broder Benjamins barn, eller skall jag avstå därifrån?» HERREN svarade: »Dragen upp; ty i morgon skall jag giva honom i din hand.»	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	011 1KI 009 016 (Farao, konungen i Egypten, hade nämligen dragit upp och intagit Geser och bränt upp det i eld och dräpt de kananéer som bodde i staden, varefter han hade givit den till hemgift åt sin dotter, Salomos hustru.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	011 1KI 009 019 vidare alla Salomos förrådsstäder, vagnsstäderna och häststäderna, och vad annat Salomo kände åstundan att bygga i Jerusalem, på Libanon och eljest i hela det land som lydde under hans välde.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (Också har ingen varit såsom Ahab, han som sålde sig till att göra vad ont var i HERRENS ögon, när hans hustru Isebel uppeggade honom därtill.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 Mycken styggelse förövade han, i det han följde efter de eländiga avgudarna, alldeles såsom amoréerna hade gjort, vilka HERREN fördrev för Israels barn.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Och Jehu, son till Josafat, son till Nimsi, anstiftade nu en sammansvärjning mot Joram. (Joram hade då med hela Israel legat vid Ramot i Gilead för att försvara det mot Hasael, konungen i Aram;	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 men själv hade konung Joram vänt tillbaka, för att i Jisreel låta hela sig från de sår som araméerna hade tillfogat honom under hans strid mot Hasael, konungen i Aram.) Och Jehu sade: »Om I så viljen, så låten ingen slippa ut ur staden, som kan gå åstad och berätta detta i Jisreel.»	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	012 2KI 013 004 (Men Joahas bönföll inför HERREN, och HERREN hörde honom, eftersom han såg Israels betryck, då nu konungen i Aram förtryckte dem.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Dock avstodo de icke från de Jerobeams hus' synder genom vilka denne hade kommit Israel att synda, utan vandrade i dem. Aseran fick också stå kvar i Samaria.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 Men när prästerna gingo ut ur helgedomen (ty alla präster som funnos där hade helgat sig, utan avseende på vilken avdelning de tillhörde;	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	014 2CH 005 013 och trumpetblåsarna och sångarna stämde på en gång och enhälligt upp HERRENS lov och pris), och när man nu lät trumpeter och cymbaler och andra instrumenter ljuda och begynte lova HERREN, därför att han är god, och därför att hans nåd varar evinnerligen, då blev huset, HERRENS hus, uppfyllt av en molnsky,	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	015 EZR 004 006 (Sedermera, under Ahasveros' regering, redan i begynnelsen av hans regering, skrev man en anklagelseskrift mot dem som bodde i Juda och Jerusalem.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	015 EZR 004 023 Så snart nu vad som stod i konung Artasastas skrivelse hade blivit läst för Rehum och sekreteraren Simsai och deras medbröder, gingo de med hast till judarna i Jerusalem och hindrade dem med våld och makt.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Och konungen frågade de vise som voro kunniga i tidstecknens tydning (ty konungens ärenden plägade så läggas fram för alla i lag och rätt kunniga;	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 och han hade vid sin sida Karsena, Setar, Admata, Tarsis, Meres, Marsena och Memukan, de sju furstar i Persien och Medien, som voro konungens närmaste män och innehade främsta platsen i riket); han frågade:	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(1/0)	020 PRO 009 007 (Den som varnar en bespottare, han får skam igen, och den som tillrättavisar en ogudaktig får smälek därav.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	(0/1)	020 PRO 009 010 HERRENS fruktan är vishetens begynnelse, och att känna den Helige är förstånd.)	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	[1/0]	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Men efter sin uppståndelse visade han sig på första veckodagens morgon först för Maria från Magdala, ur vilken han hade drivit ut sju onda andar.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 Men de gingo ut och predikade allestädes. Och Herren verkade med dem och stadfäste ordet genom de tecken som åtföljde det.] V. 9--20 se Nya testamentets text i Ordförklaringarna.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	[1/0]	043 JOH 007 053 [Och de gingo hem, var och en till sitt. Jämför noten till Joh 4,10. om natten.	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 Hon svarade: »Herre, ingen.» Då sade han till henne: »Icke heller jag dömer dig. Gå, och synda icke härefter.»]	WARN
+Swedish---Swedish-Bible-1917	ENCLOSURES	Summary	lines	32 / 28	WARN
+
+# UNEXPECTED
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(^)	1/0	WARN
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Swedish---Swedish-Bible-1917	UNEXPECTED	Source/Aionian	Summary	1/0	WARN
+
+# NUMERALS
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 2:7 Och HERREN Gud danade människan[1] av stoft från jorden[2] och inblåste livsande i hennes näsa, och så blev människan en levande varelse. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 2:25 Och mannen och hans hustru voro båda nakna och blygdes icke för varandra. [1] Hebr adám [2] Hebr. adamá 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 3:20 Och mannen gav sin hustru namnet Eva[1], ty hon blev en moder åt allt levande.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 3:24 Och han drev ut mannen, och satte öster om Edens lustgård keruberna jämte det ljungande svärdets lågor, för att bevaka vägen till livets träd. [1] Namnet härledes från ett hebreiskt ord som betyder leva. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 4:1 Och mannen kände sin hustru Eva, och hon blev havande och födde Kain; då sade hon: »Jag har fött[1] en man genom HERRENS hjälp.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 4:25 Och Adam kände åter sin hustru, och hon födde en son och gav honom namnet Set, i det hon sade: »Gud har beskärt[2] mig en annan livsfrukt, till ersättning för Abel, eftersom Kain dräpte honom.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 4:26 Men åt Set föddes ock en son, och han gav honom namnet Enos. Vid denna tid begynte man åkalla HERRENS namn. [1] Egentligen »fått», hebr. kaníti. [2] Det hebreiska uttrycket liknar namnet Set. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 5:2 Till man och kvinna skapade han dem; och han välsignade dem och gav dem namnet människa[1], när de blevo skapade. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 5:29 Och han gav honom namnet Noa[2], i det han sade: »Denne skall trösta[2] oss vid vårt arbete och våra händers möda, när vi bruka jorden, som HERREN har förbannat.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 5:32 När Noa var fem hundra år gammal, födde han Sem, Ham och Jafet. [1] Hebr adám [2] De båda orden hava i hebreiskan likhet med varandra. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 6:2 sågo Guds söner[1] att människornas döttrar voro fagra, och de togo till hustrur dem som de funno mest behag i.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 6:22 Och Noa gjorde så; han gjorde i alla stycken såsom Gud hade bjudit honom. [1] Se Änglar i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 10:6 Hams söner voro Kus[1], Misraim[1], Put och Kanaan.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 10:25 Men åt Eber föddes två söner; den ene hette Peleg[2], ty i hans tid blev jorden fördelad; och hans broder hette Joktan.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 10:32 Dessa voro Noas söners släkter, efter deras ättföljd, i deras folk. Och från dem hava folken efter floden utbrett sig på jorden. [1] Se Kus och Misraim i Ordförkl. [2] D. ä. delning. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 11:9 Därav fick den namnet Babel, eftersom HERREN där förbistrade[1] hela jordens tungomål; därifrån spridde ock HERREN ut dem över hela jorden. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 11:32 Och Teras ålder blev två hundra fem år; därefter dog Tera i Haran. [1] Hebr balál. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 16:11 Ytterligare sade HERRENS ängel till henne: »Se, du är havande och skall föda en son; honom skall du giva namnet Ismael[1], därför att HERREN har hört ditt lidande.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 16:13 Och hon gav HERREN, som hade talat med henne, ett namn, i det hon sade: »Du är Seendets Gud.» Hon tänkte nämligen: »Har jag då verkligen här fått se en skymt av honom som ser mig[2]?»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 16:16 Och Abram var åttiosex år gammal, när Hagar födde Ismael åt Abram. [1] D. ä. Gud hör. [2] Hebr roí. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 17:5 Därför skall du icke mer heta Abram, utan Abraham[1] skall vara ditt namn, ty jag skall låta dig bliva en fader till många folk.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 17:15 Och Gud sade åter till Abraham: »Din hustru Sarai skall du icke mer kalla Sarai, utan Sara[2] skall vara hennes namn.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 17:27 och alla män i hans hus, de hemfödda tjänarna och de som voro köpta för penningar ifrån främmande folk, blevo omskurna tillika med honom. [1] D. ä. fader till många. [2] D. ä. furstinna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 19:22 Men skynda att fly undan dit; ty jag kan intet göra, förrän du har kommit dit.» Därav fick staden namnet Soar[1]. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 19:38 Den yngre födde ock en son, och hon gav honom namnet Ben-Ammi; från honom härstamma Ammons barn ända till denna dag. [1] D. ä. litenhet. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 21:31 Därav kallades det stället Beer-Seba[1], eftersom de båda där gingo eden.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 21:34 Och Abraham bodde i filistéernas land en lång tid. [1] D. ä. sjubrunnen; i hebreiskan hava orden för »sju» och »ed» likhet med varandra. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 22:18 Och i din säd skola alla folk på jorden välsigna sig[1], därför att du lyssnade till mina ord.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 22:24 Och hans bihustru, som hette Reuma, födde ock barn, nämligen Teba, Gaham, Tahas och Maaka. [1] Se Välsigna i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 25:26 Därefter kom hans broder fram, och denne höll med sin hand i Esaus häl; och han fick namnet Jakob[1]. Men Isak var sextio år gammal, när de föddes. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 25:30 Och Esau sade till Jakob: »Låt mig få till livs av det röda, det röda du har där; ty jag är uppgiven av hunger.» Därav fick han namnet Edom[2].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 25:34 Men Jakob gav Esau bröd och linssoppa; och han åt och drack och stod sedan upp och gick sin väg. Så ringa aktade Esau sin förstfödslorätt. [1] D. ä. den som håller i hälen; kan ock betyda: den som bedrager. [2] D. ä. röd. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 26:4 Jag skall göra din säd talrik såsom stjärnorna på himmelen, och jag skall giva åt din säd alla dessa länder; och i din säd skola alla folk på jorden välsigna sig[1],	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 26:20 Men herdarna i Gerar begynte tvista med Isaks herdar och sade: »Vattnet är vårt.» Då gav han den brunnen namnet Esek[2], eftersom de hade kivat med honom.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 26:21 Därefter grävde de en annan brunn, men om den kommo de ock i tvist; då gav han den namnet Sitna[3].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Genesis 26:22 Sedan begav han sig därifrån till en annan plats och grävde åter en brunn; om den tvistade de icke. Därför gav han denna namnet Rehobot[4], i det han sade: »Nu har ju HERREN givit oss utrymme, så att vi kunna föröka oss i landet.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Genesis 26:26 Och Abimelek begav sig till honom från Gerar med Ahussat, sin vän[5], och Pikol, sin härhövitsman.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Genesis 26:35 Men dessa blevo en hjärtesorg för Isak och Rebecka. [1] Se Välsigna sig i Ordförkl. [2] D. ä. kiv. [3] D. ä. fientlighet. [4] D. ä. utrymme. [5] Se Vän i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 27:36 Då sade han: »Han heter ju Jakob[1], och han har nu också två gånger bedragit mig. Min förstfödslorätt har han tagit, och se, nu har han ock tagit min välsignelse.» Och han frågade: »Har du då ingen välsignelse kvar för mig?»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	6	Genesis 27:46 Och Rebecka sade till Isak: »Jag är led vid livet för Hets döttrars skull. Om Jakob tager hustru bland Hets döttrar, en sådan som dessa, någon bland landets döttrar, varför skulle jag då leva?» [1] Se noten till 25,26. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 28:19 Och han gav den platsen namnet Betel[1]; förut hade staden hetat Lus.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 28:22 och denna sten som jag har rest till en stod skall bliva ett Guds hus, och av allt vad du giver mig skall jag giva dig tionde.» [1] D. ä. Guds hus. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 29:32 Och Lea blev havande och födde en son, och hon gav honom namnet Ruben, ty hon tänkte: »HERREN har sett till mitt lidande[1]; ja, nu skall min man hava mig kär.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 29:33 Och hon blev åter havande och födde en son. Då sade hon: »HERREN har hört[2] att jag har varit försmådd, därför har han givit mig också denne.» Och hon gav honom namnet Simeon.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 29:34 Och åter blev hon havande och födde en son. Då sade hon: »Nu skall väl ändå min man hålla sig till[3] mig; jag har ju fött honom tre söner.» Därav fick denne namnet Levi.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Genesis 29:35 Åter blev hon havande och födde en son. Då sade hon: »Nu vill jag tacka[4] HERREN.» Därför gav hon honom namnet Juda. Sedan upphörde hon att föda. [1] Hebr raá beonjí. [2] Hebr. schamá, varav namnet Simeon (egentligen Schimeón) härledes. [3] Hebr. jillavé av stammen lavá. [4] Hebr. hodá »tacka», varav namnet Juda (egentligen Jehudá) härledes. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 30:6 Då sade Rakel: »Gud har skaffat rätt[1] åt mig; han har hört min röst och givit mig en son.» Därför gav hon honom namnet Dan	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 30:8 Då sade Rakel: »Strider[2] om Gud har jag stritt med min syster och har vunnit seger.» Och hon gav honom namnet Naftali. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 30:11 Då sade Lea: »Till lycka[3]!» Och hon gav honom namnet Gad.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Genesis 30:13 Då sade Lea: »Till sällhet[4] för mig! Ja, jungfrur skola prisa mig säll.» Och hon gav honom namnet Aser. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Genesis 30:18 Då sade Lea: »Gud har givit mig min lön[5], för det att jag gav min tjänstekvinna åt min man.» Och hon gav honom namnet Isaskar.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	7	Genesis 30:20 Då sade Lea: »Gud har givit mig en god gåva[6]. Nu skall min man förbliva boende[7] hos mig, ty jag har fött honom sex söner.» Och hon gav honom namnet Sebulon.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	8	Genesis 30:23 Hon blev havande och födde en son. Då sade hon: »Gud har tagit bort[8] min smälek.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Genesis 30:24 Och hon gav honom namnet Josef, i det hon sade: »HERREN give mig ännu[9] en son.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Genesis 30:43 Så blev mannen övermåttan rik; han fick mycken småboskap, därtill ock tjänarinnor och tjänare, kameler och åsnor. [1] Hebr dan. [2] Hebr. naftulím. [3] Hebr. gad. [4] Hebr. óscher av samma stam som namnet Aser (egentligen Aschér) härledes av. [5] Hebr. sakár. [6] Hebr. sébed. [7] Hebr. sabál »bo», varav sebúl »boning». [8] Hebr. asáf. [9] Hebr. joséf. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 31:47 Och Laban kallade det Jegar-Sahaduta, men Jakob kallade det Galed[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 31:49 men det kallades ock Mispa[2], ty han sade: »HERREN vare väktare mellan mig och dig, när vi icke mer se varandra.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 31:55 Men om morgonen stod Laban bittida upp, och sedan han hade kysst sina barnbarn och sina döttrar och välsignat dem, for han sin väg hem igen. [1] Båda namnen betyda vittnesröse; det förra namnet är arameiska, det senare hebreiska. [2] D. ä. vaktställe. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 32:2 och då Jakob såg dem, sade han: »Detta är Guds skara.» Och han gav den platsen namnet Mahanaim[1]. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 32:28 Han sade: »Du skall icke mer heta Jakob, utan Israel, ty du har kämpat med Gud[2] och med människor och vunnit seger.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 32:30 Men Jakob gav platsen namnet Peniel[3], »ty», sade han, »jag har sett Gud ansikte mot ansikte, och dock har mitt liv blivit räddat».	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 32:32 Fördenskull äta Israels barn ännu i dag icke höftsenan som ligger på höftleden, därför nämligen, att han gav Jakob ett slag på höftleden, på höftsenan. [1] D. ä. två skaror. [2] Hebr sará »kämpa», el »Gud». [3] Peniel, även Penuel, betyder Guds ansikte. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 33:17 Men Jakob bröt upp och drog till Suckot och byggde sig där ett hus. Och åt sin boskap gjorde han lövhyddor[1]; därav fick platsen namnet Suckot. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 33:20 Och han reste där ett altare och kallade det El-Elohe-Israel[2]. [1] Hebr suckót. [2] D. ä. Gud, Israels Gud. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 35:7 Och han byggde där ett altare och kallade platsen El-Betel[1], därför att Gud där hade uppenbarat sig för honom, när han flydde för sin broder.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 35:18 Men när hon höll på att giva upp andan, ty hon skulle nu dö, gav hon honom namnet Ben-Oni[2]; men hans fader kallade honom Benjamin[3].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 35:29 därefter gav Isak upp andan och dog och blev samlad till sina fäder, gammal och mätt på att leva. Och hans söner Esau och Jakob begrovo honom. [1] D. ä. Betels Gud. [2] D. ä. min smärtas son. [3] D. ä. lyckoson. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 38:29 Men när han därefter åter drog sin hand tillbaka, se, då kom hans broder fram; och hon sade: »Varför har du trängt dig fram?» Och han fick namnet Peres[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 38:30 Därefter kom hans broder fram, han som hade den röda tråden om sin hand, och han fick namnet Sera. [1] D. ä. framträngande. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 41:43 Och han lät honom åka i vagnen närmast efter sin egen, och man utropade framför honom »abrek»[1]. Och han satte honom över hela Egyptens land.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 41:51 Och Josef gav åt den förstfödde namnet Manasse[2], »ty», sade han, »Gud har låtit mig förgäta all min olycka och hela min faders hus.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 41:52 Och åt den andre gav han namnet Efraim[3], »ty», sade han, »Gud har gjort mig fruktsam i mitt lidandes land». 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 41:57 och från alla länder kom man till Josef i Egypten för att köpa säd, ty hungersnöden blev allt större i alla länder. [1] Se Abrek i Ordförkl. [2] Efter ett hebreiskt ord som betyder förgäta. [3] Efter ett hebreiskt ord som betyder vara fruktsam. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 48:22 Och utöver vad jag giver dina bröder giver jag dig en särskild höjdsträcka[1] som jag med mitt svärd och min båge har tagit från amoréerna.» [1] Hebr schekém, vilket ord såsom ort- och personnamn återgives med »Sikem». 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Genesis 49:6 Min själ inlåte sig ej i deras råd, min ära[1] tage ingen del i deras samkväm; ty i sin vrede dräpte de män, och i sitt överdåd stympade de oxar.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 49:8 Dig, Juda, dig skola dina bröder prisa[2]; din hand skall vara på dina fienders nacke, för dig skola din faders söner buga sig.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Genesis 49:10 Spiran skall icke vika ifrån Juda, icke härskarstaven ifrån hans fötter, till dess han kommer till Silo[3] och folken bliva honom hörsamma.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Genesis 49:16 Dan skall skaffa rätt[4] åt sitt folk, han såväl som någon av Israels stammar.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Genesis 49:19 Gad skall trängas av skaror[5], men själv skall han tränga dem på hälarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Genesis 49:33 När Jakob hade givit sina söner denna befallning, drog han sina fötter upp i sängen; och han gav upp andan och blev samlad till sina fäder. [1] Se Ära i Ordförkl. [2] Hebr jodú, vilket ord sammanhänger med namnet Juda. [3] Eller: till dess Silo kommer. Se vidare Silo i Ordförkl. [4] Hebr. jadín, vilket ord sammanhänger med namnet Dan [5] Hebr. gedúd. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 50:11 Och när landets inbyggare, kananéerna, sågo sorgefesten i Goren-Haatad, sade de: »Det är en högtidlig sorgefest[1] som egyptierna[2] här hålla.» Därav fick stället namnet Abel-Misraim; det ligger på andra sidan Jordan. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Genesis 50:26 Och Josef dog, när han var ett hundra tio år gammal. Och man balsamerade honom, och han lades i en kista, i Egypten. [1] Hebr ébel. [2] Hebr. misrájim. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 2:10 När sedan gossen hade vuxit upp; förde hon honom till Faraos dotter, och denna upptog honom såsom sin son och gav honom namnet Mose[1], »ty», sade hon, »ur vattnet har jag dragit upp[2] honom». 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Exodus 2:22 Hon födde en son, och han gav honom namnet Gersom, »ty», sade han, »jag är en främling[3] i ett land som icke är mitt». 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Exodus 2:25 Och Gud såg till Israels barn, och Gud lät sig vårda om dem. [1] Hebr Mosché. [2] Hebr. maschá. [3] Hebr. ger. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 3:14 Gud sade till Mose: »Jag är den jag är.» Och han sade vidare: »Så skall du säga till Israels barn: 'Jag är'[1] har sänt mig till eder.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 3:22 utan var kvinna skall av sin grannkvinna och av den främmande kvinna som bor i hennes hus begära klenoder av silver och guld, så ock kläder. Dessa skolen I sätta på edra söner och döttrar. Så skolen I taga byte från egyptierna.» [1] D. ä. »Han som kallar sig 'Jag är' har sänt mig.» Det här åsyftade hebreiska uttrycket för HERREN, egentligen Jahvé, hos oss vanligen uttalat Jehová, kan översättas med 'Han är'. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 12:11 Och I skolen äta det så: I skolen vara omgjordade kring edra länder, hava edra skor på fötterna och edra stavar i händerna. Och I skolen äta det med hast. Detta är HERRENS Påsk[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 12:23 Ty HERREN skall gå fram för att hemsöka Egypten; men när ha ser blodet på det övre dörrträet och på de två dörrposterna, skall HERREN gå förbi dörren och icke tillstädja Fördärvaren[2] att komma i i edra hus och hemsöka eder.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 12:51 Så förde då HERREN på denna samma dag Israels barn ut ur Egyptens land, efter deras härskaror. [1] Hebr pésach, av pasách »gå förbi», »skona»; jfr v. 13. [2] Se Fördärvaren i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 15:23 Så kommo de till Mara; men de kunde icke dricka vattnet i Mara, ty det var bittert. Därav fick stället namnet Mara[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 15:27 Sedan kommo de till Elim; där funnos tolv vattenkällor och sjuttio palmträd. Och de lägrade sig där vid vattnet. [1] D. ä. bitterhet. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 16:15 När Israels barn sågo detta, frågade de varandra: »Vad[1] är det?» Ty de visste icke vad det var. Men Mose sade till dem: »Detta är brödet som HERREN har givit eder till föda.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 16:31 Och Israels barn kallade det manna[2]. Och det liknade korianderfrö, det var vitt, och det smakade såsom semla med honung.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Exodus 16:34 Då gjorde man såsom HERREN hade bjudit Mose, och Aron ställde det framför vittnesbördet[3] till att förvaras.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Exodus 16:36 En gomer är tiondedelen av en efa. [1] Hebr man; jfr v. 31. [2] Hebr. man; jfr v. 15. [3] Se Vittnesbördet i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 17:7 Och han gav stället namnet Massa[1] och Meriba[2], därför att Israels barn hade tvistat och frestat HERREN och sagt: »Är HERREN ibland oss eller icke?» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 17:16 Och han sade: »Ja, jag lyfter min hand upp mot HERRENS tron och betygar att HERREN skall strida mot Amalek från släkte till släkte.» [1] D. ä. frestelse. [2] D. ä. tvist. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 18:3 så ock hennes två söner -- av dessa hade den ene fått namnet Gersom[1], »ty», sade Mose, »jag är en främling i ett land som icke är mitt»,	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 18:4 och den andre namnet Elieser[2], »ty», sade han, »min faders Gud blev mig till hjälp och räddade mig ifrån Faraos svärd». --	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 18:27 Därefter lät Mose sin svärfader fara hem, och denne begav sig till sitt land igen. [1] Se 2,22. [2] Av hebr. el »Gud» och éser »hjälp». 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 25:16 Och i arken skall du lägga vittnesbördet[1], som jag skall giva dig.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Exodus 25:17 Och du skall göra en nådastol[2] av rent guld, två och en halv aln lång och en och en halv aln bred.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 25:40 Och se till, att du gör detta efter de mönsterbilder som hava blivit dig visade på berget. [1] Se Vittnesbördet i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 28:30 Och du skall lägga urim[1] och tummim[1] in i domsskölden, så att de ligga på Arons hjärta, när han ingår inför HERRENS ansikte; och Aron skall så bära Israels barns dom på sitt hjärta inför HERRENS ansikte beständigt. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Exodus 28:43 Och Aron och hans söner skola hava dem på sig, när de gå in i uppenbarelsetältet eller träda fram till altaret för att göra tjänst i helgedomen -- detta på det att de icke må komma att bära på missgärning och så träffas av döden. Detta skall vara en evärdlig stadga för honom och hans avkomlingar efter honom. [1] Se Urim och tummim I Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Leviticus 16:2 Och HERREN sade till Mose: Säg till din broder Aron att han icke på vilken tid som helst får gå in i helgedomen innanför förlåten, framför nådastolen som är ovanpå arken, på det att han icke må dö; ty i molnskyn vill jag uppenbara mig över nådastolen[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Leviticus 16:8 Och Aron skall draga lott om de två bockarna: en lott för HERREN och en lott för Asasel[2].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Leviticus 16:13 Och rökelsen skall han lägga på elden inför HERRENS ansikte, så att ett moln av rökelse skyler nådastolen, ovanpå vittnesbördet[3], på det att han icke må dö.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Leviticus 16:34 Detta skall vara för eder en evärdlig stadga, att försoning skall bringas för Israels barn, till rening från alla deras synder, en gång om året. Och han gjorde såsom HERREN hade bjudit Mose. [1] Se Nådastolen i Ordförkl. [2] Se Asasel i Ordförkl. [3] Se Vittnesbördet i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Leviticus 24:3 Utanför den förlåt som hänger framför vittnesbördet[1], i uppenbarelsetältet, skall Aron beständigt sköta den, från aftonen till morgonen, inför HERRENS ansikte. Detta skall vara en evärdlig stadga för eder från släkte till släkte.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Leviticus 24:11 Och den israelitiska kvinnans son smädade Namnet[2] och hädade. Då förde de honom fram till Mose. Och hans moder hette Selomit, dotter till Dibri, av Dans stam.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Leviticus 24:23 Och Mose talade detta till Israels barn; och de förde ut hädaren utanför lägret och stenade honom. Alltså gjorde Israels barn såsom HERREN hade bjudit Mose. [1] Se Vittnesbördet i Ordförkl. [2] Se Herren i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Numbers 18:19 Alla heliga gåvor som Israels barn giva åt HERREN såsom gärd, dem giver jag åt dig och åt dina söner och döttrar jämte dig, såsom en evärdlig rätt. Ett evärdligt saltförbund[1] inför HERRENS ansikte skall detta vara för dig och för dina avkomlingar jämte dig.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Numbers 18:32 När I så given det bästa av dem såsom gärd, skolen I icke för deras skull komma att bära på synd; och då skolen I icke ohelga Israels barns heliga gåvor och så träffas av döden. [1] Se Saltförbund i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Numbers 27:21 Och hos prästen Eleasar skall han sedan hava att inställa sig, för att denne genom urims[1] dom må hämta svar åt honom inför HERRENS ansikte. Efter hans ord skola de draga ut och vända åter, han själv och alla Israels barn med honom, hela menigheten.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Numbers 27:23 Och denne lade sina händer på honom och insatte honom i hans ämbete, såsom HERREN hade befallt genom Mose. [1] Se Urim och tummim i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Deuteronomy 32:15 Då blev Jesurun[1] fet och istadig; du blev fet och tjock och stinn. Han övergav Gud, sin skapare, och föraktade sin frälsnings klippa.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Deuteronomy 32:52 Mitt framför dig skall du se landet; men du skall icke komma dit, in i det land som jag vill giva åt Israels barn.» [1] Se Jesurun i Ordförkl 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Joshua 5:9 Och HERREN sade till Josua: »I dag har jag avvältrat[1] från eder Egyptens smälek.» Och detta ställe fick namnet Gilgal[1], såsom det heter ännu i dag.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Joshua 5:15 Hövitsmannen över HERRENS här sade då till Josua: »Drag dina skor av dina fötter, ty platsen där du står är helig.» Och Josua gjorde så. [1] De båda orden hava i hebreiskan likhet med varandra. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Joshua 7:11 Israel har syndat, de hava överträtt det förbund[1] som jag stadgade för dem; de hava tagit av det tillspillogivna, de hava stulit, de hava ljugit, de hava gömt det bland sitt eget gods.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Joshua 7:25 Och Josua sade: »Varför drog du olycka över oss? Nu skall ock HERREN i dag låta olycka komma över[1] dig.» Och Israels menighet stenade honom; de brände upp dem i eld och kastade stenar på dem.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Joshua 7:26 Och de uppkastade över honom ett stort stenröse, som finnes kvar ännu i dag; och så vände sig HERREN ifrån sin vredes glöd. Därav fick det stället namnet Akors dal, såsom det heter ännu i dag. [1] Se Förbund i Ordförkl. [2] Hebr akár. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Joshua 21:36 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Joshua 21:37 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	7	Joshua 21:45 Intet uteblev av allt det goda som HERREN hade lovat Israels hus; det gick allt i fullbordan. [1] V. 36--37 se Gamla testamentets text i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 1:17 Men Juda tågade åstad med sin broder Simeon, och de slogo de kananéer som bodde i Sefat; och de gåvo staden till spillo; så fick den namnet Horma[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Judges 1:36 Och amoréernas område sträckte sig från Skorpionhöjden, från Sela vidare uppåt. [1] Se noten till 4 Mos 21,3. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Judges 2:5 Och de gåvo den platsen namnet Bokim[2]; och de offrade där åt HERREN. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Judges 2:16 Då lät HERREN domare[2] uppstå, som frälste dem ur deras plundrares hand.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Judges 2:23 Alltså lät HERREN dessa folk bliva kvar och fördrev dem icke med hast; han gav dem icke i Josuas hand. [1] D. ä. de gråtande. [2] Se Domare i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 6:32 Härav kallade man honom då Jerubbaal, i det man sade: »Baal utföre sin sak[1] mot honom, eftersom han har brutit ned hans altare.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 6:40 Och Gud gjorde så den natten; allenast ullen var torr, men eljest hade dagg kommit överallt på marken. [1] Hebr jareb. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 12:3 Och när jag såg att I icke villen frälsa mig, tog jag min själ[1] i min hand och drog åstad mot Ammons barn, och HERREN gav dem i min hand. Varför haven I då nu dragit upp emot mig till att strida emot mig?» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Judges 12:6 så sade de till honom: »Säg 'schibbolet'[2].» Sade han då »sibbolet», därför att han icke nog lade sig vinn om att uttala ordet rätt, så grepo de honom och höggo ned honom där vid vadställena över Jordan. På detta sätt föllo vid det tillfället fyrtiotvå tusen efraimiter. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Judges 12:15 Sedan dog pirgatoniten Abdon, Hillels son, och blev begraven i Pirgaton i Efraims land, i amalekiternas bergsbygd. [1] Se Själ i Ordförkl. [2] Se Schibbolet i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 15:17 När han hade sagt detta, kastade han käken ifrån sig. Och man kallade den platsen Ramat-Lehi[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 15:20 Och han var domare i Israel under filistéernas tid, i tjugu år. [1] D. ä. käkkastet eller käkhöjden. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 17:10 Mika sade till honom: »Stanna kvar hos mig, och bliv fader[1] och präst åt mig, så skall jag årligen giva dig tio siklar silver och vad kläder du behöver, och därtill din föda.» Då följde leviten med honom.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 17:13 Och Mika sade: »Nu vet jag att HERREN skall göra mig gott, eftersom jag har fått leviten till präst.» [1] Se Fader i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 18:19 De svarade honom: »Tig, lägg handen på din mun, och gå med oss och bliv fader[1] och präst åt oss. Vilket är bäst för dig: att vara präst för en enskild mans hus eller att vara präst för en hel stam och släkt i Israel?»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judges 18:31 De ställde upp åt sig den skurna gudabild som Mika hade gjort, och de hade denna kvar under hela den tid Guds hus var i Silo. [1] Se Fader i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ezra 4:14 Alldenstund vi nu äta palatsets salt[1], och det icke är tillbörligt att vi åse huru skada tillskyndas konungen, därför sända vi nu och låta konungen veta detta,	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ezra 4:24 Så förhindrades nu arbetet på Guds hus i Jerusalem. Och det blev förhindrat ända till den persiske konungen Darejaves' andra regeringsår. [1] Se Salt i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Nehemiah 7:68 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	8	Nehemiah 7:73 Och prästerna, leviterna, dörrvaktarna, sångarna, en del av meniga folket samt tempelträlarna, korteligen hela Israel, bosatte sig i sina städer.» [1] V. 68 se Gamla testamentets text i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Job 1:6 Men nu hände sig en dag att Guds söner[1] kommo och trädde fram inför HERREN, och Åklagaren[2] kom också med bland dem.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Job 1:22 Vid allt detta syndade Job icke och talade intet lasteligt mot Gud. [1] Se Änglar i Ordförkl. [1] Se Djävul i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Job 40:1 Och HERREN talade till Job ur stormvinden och sade: 2; Omgjorda såsom en man dina länder; jag vill fråga dig, och du må giva mig besked.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 7:6 så förfölje fienden min själ och tage henne fatt och trampe mitt liv till jorden och lägge min ära[1] i stoftet. Sela. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 7:17 Den olycka han tänkte vålla vänder tillbaka på hans huvud, och över hans hjässa kommer hans ondska. Jag vill tacka HERREN efter hans rättfärdighet och lovsjunga HERRENS, den Högstes, namn. [1] Se Ära i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 9:20 Stå upp, HERRE; låt icke människor få överhanden, låt hedningarna bliva dömda inför ditt ansikte. Låt, o HERRE, förskräckelse komma över dem; må hedningarna förnimma att de äro människor. Sela. [1] Alfabetisk psalm; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 10:18 för att skaffa den faderlöse och förtryckte rätt, så att människor, komna av jord, ej längre vålla skräck. [1] Delvis alfabetisk psalm; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 16:9 Fördenskull gläder sig mitt hjärta, och min ära[1] fröjdar sig; jämväl min kropp får bo i trygghet. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 25:22 Förlossa Israel, o Gud, ur all dess nöd. [1] Alfabetisk psalm; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 30:12 Då förvandlade du min klagan i fröjdesprång; du klädde av mig sorgens dräkt och omgjordade mig med glädje.Därför skall min ära[1] lovsjunga dig, utan att tystna; HERRE, min Gud, jag vill tacka dig evinnerligen. [1] Se Ära i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 34:22 Den ogudaktige skall dödas av olyckan, och de som hata den rättfärdige skola stå med skuld. Men sina tjänares själar förlossar HERREN, och ingen skall stå med skuld, som tager sin tillflykt till honom. [1] Alfabetisk psalm; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 37:40 HERREN hjälper dem och befriar dem; han befriar dem från de ogudaktiga och frälsar dem, ty de taga sin tillflykt till honom. [1] Alfabetisk psalm; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 57:9 Vakna upp, min ära[1]; upp, psaltare och harpa! Jag vill väcka morgonrodnaden. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 57:11 Ty din nåd är stor allt upp till himmelen och din trofasthet allt upp till skyarna. Upphöjd vare du, Gud, över himmelen; över hela jorden sträcke sig din ära. [1] Se Ära i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 72:17 Hans namn förblive evinnerligen; så länge solen skiner, fortplante sig hans namn. Och i honom välsigne man sig[1]; alla hedningar prise honom säll. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 72:20 Slut på Davids, Isais sons, böner. [1] Se Välsigna sig i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 78:61 han gav sin makt[1] i fångenskap och sin ära i fiendehand. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 78:72 Och han var deras herde med redligt hjärta och ledde dem med förståndig hand. [1] Se Makt i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 82:8 Ja, stå upp, o Gud; håll dom över jorden, ty med arvsrätt råder du över alla folk. [1] Se Änglar i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 84:4 Ty sparven har funnit ett hus och svalan ett bo åt sig, där hon kan lägga sina ungar[1]: dina altaren, HERRE Sebaot, min konung och min Gud. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Psalms 84:7 När de vandra genom Tåredalen[2], göra de den rik på källor, och höstregnet höljer den med välsignelser.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Psalms 84:12 Ty HERREN Gud är sol och sköld[3]; HERREN giver nåd och ära; han vägrar icke dem något gott, som vandra i ostrafflighet.HERRE Sebaot, salig är den människa som förtröstar på dig. [1] Eller fastmer: Min själ längtade och trängtade efter HERRENS gårdar; nu jubla min själ och min kropp mot levande Gud. Ja, sparven har funnit ett hus och svalan ett bo åt sig, där hon har lagt sina ungar osv. [2] Se Tåredalen i Ordförkl. [3] Eller: Ty HERREN Gud är värn och sköld osv. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 108:2 Mitt hjärta är frimodigt, o Gud, jag vill sjunga och lova; ja, så vill min ära[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 108:13 Giv oss hjälp mot ovännen; ty människors hjälp är fåfänglighet.Med Gud kunna vi göra mäktiga ting; han skall förtrampa våra ovänner. [1] Se Ära i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 111:10 HERRENS fruktan är vishetens begynnelse, ett gott förstånd få alla de som göra därefter. Hans lov förbliver evinnerligen. [1] Alfabetisk psalm; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 112:10 Den ogudaktige skall se det och harmas; han skall bita sina tänder samman och täras bort. Vad de ogudaktiga önska bliver till intet. [1] Alfabetisk psalm; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 115:11 I som frukten HERREN[1], förtrösten på HERREN. Ja, han är deras hjälp och sköld. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 115:18 Men vi, vi skola lova HERREN från nu och till evig tid. Halleluja! [1] Se Frukta Gud i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 118:4 Så säge de som frukta HERREN[1], ty hans nåd varar evinnerligen. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 118:29 Tacka HERREN, ty han är god, ty hans nåd varar evinnerligen. [1] Se Frukta Gud i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Psalms 119:109 Jag bär min själ[2] alltid i min hand, men jag förgäter icke din lag.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Psalms 119:176 Om jag far vilse, så uppsök din tjänare såsom ett förlorat får, ty jag förgäter icke dina bud. [1] Alfabetisk psalm; se Poesi i Ordförkl. [2] Se Själ i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 132:17 Där skall jag låta ett horn[1] skjuta upp åt David; där har jag rett till en lampa åt min smorde.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 132:18 Hans fiender skall jag kläda i skam, men på honom skall hans krona glänsa.» [1] Se Horn i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 135:20 I av Levis hus, loven HERREN; I som frukten HERREN[1], loven HERREN.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 135:21 Lovad vare HERREN från Sion, han som bor i Jerusalem! Halleluja! [1] Se Frukta Gud i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Psalms 145:21 Min mun skall uttala HERREN lov, och allt kött skall prisa hans heliga namn alltid och evinnerligen. [1] Alfabetisk psalm; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Proverbs 22:22 Plundra icke den arme, därför att han är arm, och förtrampa icke den fattige porten[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Proverbs 22:29 Ser du en man som är väl förfaren i sin syssla, hans plats är att tjäna konungar; icke må han tjäna ringa män. [1] Se Port i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Proverbs 31:31 Må hon få njuta sina gärningars frukt; hennes verk skola prisa henne i portarna. [1] Kap. 31 v. 10--31 alfabetisk sång; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 1:29 Ja, de skola komma på skam med de terebinter som voro eder fröjd; och I skolen få blygas över de lustgårdar[1] som I haden så kära.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 1:31 Och de väldige skola varda såsom blår, och deras verk såsom en gnista, och de skola tillsammans brinna, och ingen skall kunna släcka. [1] Se Lustgård i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 7:14 Så skall då Herren själv giva eder ett tecken: Se, den unga kvinnan skall varda havande och föda en son, och hon skall giva honom namnet Immanuel[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 7:25 Och alla de berg där man nu arbetar med hackan, dem skall man ej mer beträda, av fruktan för tistel och törne; de skola bliva platser dit oxar drivas, och marker som trampas ned av får.» [1] D. ä. Gud med oss. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 8:1 Och HERREN sade till mig: »Tag dig en stor tavla och skriv på den med tydlig stil Maher-salal Has-bas[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 8:22 men se, där är nöd och mörker och natt av ångest. Ja, tjockt mörker är de fördrivnas liv. [1] D. ä. rovet hastar, bytet skyndar. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 10:21 En kvarleva skall omvända sig[1], en kvarleva av Jakob, till Gud, den väldige.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Isaiah 10:34 Den tjocka skogen nedhugges med järnet; Libanons skogar falla för den väldige. [1] En anspelning på namnet Sear-Jasub (Jes 7,3) som betyder en kvarleva skall omvända sig. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 17:10 Ty du har förgätit din frälsnings Gud, och du tänker icke på din fasta klippa. Därför planterar du ljuvliga planteringar[1] och sätter i dem främmande vinträd.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 17:14 När aftonen är inne, se, då kommer förskräckelsen, och förrän morgonen gryr, äro de sin kos. Detta bliver våra skövlares del, våra plundrares lott. [1] Se Plantering i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 29:2 så skall jag bringa Ariel i trångmål; jämmer skall följa på jämmer, och då bliver det för mig ett verkligt Ariel[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 30:7 Ty Egyptens bistånd är fåfänglighet och tomhet; därför kallar jag det landet »Rahab, som ingenting uträttar»[1]. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Isaiah 30:33 Ty en Tofetplats är längesedan tillredd, ja ock för konungen är den gjord redo, och djup och vid är den; dess rund är fylld av eld och av ved i myckenhet, och lik en svavelström skall HERRENS Ande sätta den i brand. [1] Rahab uttydes såsom stortalighet; jfr Ps 87,4; Jes 51,9. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 34:11 Pelikaner och rördrommar skola taga det i besittning, uvar och korpar skola bo däri; ty förödelsens mätsnöre[1] och förstörelsens murlod skall han låta komma däröver.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 34:17 Det är han, som kastar lott för dem, hans hand tillskiftar dem deras mark efter mätsnöre; till evig tid skola de hava den till besittning, från släkte till släkte bo därpå. [1] Se Mätsnöre i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 44:2 Så säger HERREN, han som har skapat dig, han som danade dig redan i moderlivet och som hjälper dig: Frukta icke, du min tjänare Jakob, du Jesurun[1], som jag har utvalt.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 44:28 Jag är den som säger om Kores: »Han är min herde, han skall fullborda all min vilja, och han skall säga om Jerusalem: 'Det skall bliva uppbyggt' och till templet: 'Din grund skall åter varda lagd.'» [1] Se Jesurun i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 65:25 Då skola vargar gå i bet tillsammans med lamm, och lejon skola äta halm likasom oxar, och stoft skall vara ormens föda. Ingenstädes på mitt heliga berg skall man då göra, vad ont och fördärvligt är, säger HERREN. [1] Se Lustgård i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 66:17 De som låta inviga sig och rena sig till gudstjänst i lustgårdar[1], anförda av en som står där i mitten, de som äta svinkött och annan styggelse, ja, också möss, de skola allasammans förgås, säger HERREN.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Isaiah 66:24 Och man skall gå ut och se med lust, huru de människor, som avföllo från mig, nu ligga där döda; ty deras mask skall icke dö, och deras eld skall icke utsläckas, och de skola vara till vämjelse för allt kött. [1] Se Lustgård i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 1:11 Och HERRENS ord kom till mig; han sade: »Vad ser du, Jeremia?» Tag svarade: »Jag ser en gren av ett mandelträd[1].»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Jeremiah 1:12 Och HERREN sade till mig: »Du har sett rätt, ty jag skall vaka[2] över mitt ord och låta det gå i fullbordan.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Jeremiah 1:19 så att de icke skola bliva dig övermäktiga, om de vilja strida mot dig; ty jag är med dig, säger HERREN, och jag vill hjälpa dig.» [1] Hebr scakéd. [2] Hebr. schokéd. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 20:3 Men när Pashur dagen därefter släppte Jeremia lös ur stocken, sade Jeremia till honom: »Pashur är icke det namn varmed HERREN benämner dig, utan Magor-Missabib[1];	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Jeremiah 20:18 Varför kom jag ut ur moderlivet och fick se olycka och bedrövelse, så att mina dagar måste försvinna i skam? [1] D. ä. skräck från alla sidor; jfr Jer 6,25. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 23:33 Om nu detta folk eller en profet eller en präst gör dig denna fråga: »Vad förkunnar HERRENS tunga?», så skall du säga till dem vad som är den verkliga »tungan»[1], och att jag därför skall kasta eder bort, säger HERREN.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 23:40 Och jag skall låta en evig smälek komma över eder, och en evig blygd, som icke skall varda förgäten.» [1] Hebr massá, vilket ord har den dubbla betydelsen »profetisk utsaga» och »tung börda». 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 25:26 slutligen alla konungar i nordlandet -- både dem som bo nära och dem som bo fjärran, den ene såväl som den andre -- och alla övriga riken i världen, utöver jordens yta. Och Sesaks[1] konung skall dricka efter dem. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 25:38 Han drager ut såsom ett lejon ur sitt snår. Ja, deras land bliver en ödemark under förhärjelsens glöd, under hans vredes glöd. [1] Se Sesak i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 50:21 Drag ut mot Merataims[1] land och mot inbyggarna i Pekod[1]. Förfölj dem och döda dem och giv dem till spillo, säger HERREN, och gör i alla stycken såsom jag har befallt dig.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 50:46 När man ropar: »Babel är intaget», då bävar jorden, och ett skriande höres bland folken. [1] Merataim, »tvefaldig gensträvighet», och Pekod, »hemsökelse», här namn på Kaldeen. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jeremiah 51:1 Så säger HERREN: Se, jag skall uppväcka mot Babel och mot Leb-Kamais[1] inbyggare en fördärvares ande.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Jeremiah 51:41 Huru har icke Sesak[2] blivit intaget och hon som var hela jordens berömmelse erövrad! Huru har icke Babel blivit ett föremål för häpnad bland folken!	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Jeremiah 51:64 och säg: 'På detta sätt skall Babel sjunka ned och icke mer komma upp, för den olyckas skull som jag skall låta komma över det, mitt under deras ävlan.'» Så långt Jeremias ord. [1] Se Leb-Kamai i Ordförkl. [2] Se Sesak i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Lamentations 1:1 Huru övergiven sitter hon icke ,[1] den folkrika staden! Hon har blivit lik en änka. Hon som var så mäktig bland folken, en furstinna bland länderna, hon måste nu göra trältjänst.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Lamentations 1:21 Väl hör man huru jag suckar, men ingen finnes, som tröstar mig; alla mina fiender höra om min olycka och fröjda sig över att du har gjort detta. Den dag du förkunnade har du låtit komma. Dock, dem skall det gå såsom mig. Låt all deras ondska komma inför ditt ansikte, och hemsök dem, likasom du har hemsökt mig för alla mina överträdelsers skull ty många äro mina suckar, och mitt hjärta är sjukt. [1] Alfabetisk sång; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Lamentations 3:66 Du skall förfölja dem i vrede och förgöra dem, så att de ej bestå under HERRENS himmel. [1] Alfabetisk sång; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Lamentations 4:22 Din missgärning är ej mer, du dotter Sion; han skall ej åter föra dig bort i fångenskap. Men din missgärning, du dotter Edom, skall han hemsöka; han skall uppenbara dina synder. [1] Alfabetisk sång; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Ezekiel 20:29 Då sade jag till dem: »Vad är detta för en offerhöjd[1], denna som I kommen[2] till?» Därav fick en sådan plats namnet »offerhöjd», såsom man säger ännu i dag. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Ezekiel 20:49 Och jag sade: »Ack, Herre, HERRE! Dessa säga om mig: 'Denne talar ju gåtor.'» [1] Hebr habbamá. [2] Hebr. habbaím. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ezekiel 37:9 Då sade han till mig: »Profetera och tala till anden, ja, profetera, du människobarn, och säg till anden: Så säger Herren, HERREN: Kom, du ande, från de fyra väderstrecken[1] och blås på dessa dräpta, så att de åter bliva levande.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ezekiel 37:28 Så skola folken förnimma att jag är HERREN, som helgar Israel, då nu min helgedom förbliver ibland dem evinnerligen. [1] Hebreiskans uttryck för ande betyder ock vind. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ezekiel 39:15 När så någon av dessa män, som genomvandra landet, på sin färd får se människoben, då skall han sätta upp en vård därbredvid, till dess att dödgrävarna hinna begrava dem i »Gogs larmande hops[1] dal».	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ezekiel 39:29 och jag skall därefter icke mer fördölja mitt ansikte för dem, ty jag skall utgjuta min Ande över Israels hus, säger Herren, HERREN'. [1] Hebr hamón. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Daniel 2:2 Då lät konungen tillkalla sina spåmän, besvärjare, trollkarlar och kaldéer[1], för att de skulle giva konungen till känna vad han hade drömt, och de kommo och trädde fram för konungen. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Daniel 2:49 Och på Daniels bön förordnade konungen Sadrak, Mesak och Abed-Nego att förvalta Babels hövdingdöme; men Daniel själv stannade vid konungens hov. [1] Se Kaldéer i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Daniel 4:1 Jag, Nebukadnessar, satt i god ro i mitt hus och levde lycklig i mitt palats. 2; Då hade jag en dröm som förskräckte mig; jag ängslades genom drömbilder på mitt läger och genom en syn som jag såg.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Daniel 5:26 Och detta är uttydningen därpå: Mene, det betyder: Gud har räknat[1] ditt rikes dagar och gjort ände på det	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Daniel 5:27 Tekel, det betyder: du är vägd[2] på en våg och befunnen för lätt.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Daniel 5:28 Peres, det betyder: ditt rike har blivit styckat[3] och givet åt meder och perser[4].» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Daniel 5:31 Och Darejaves av Medien mottog riket, när han var sextiotvå år gammal. [1] På arameiska mená. [2] På arameiska tekiltá. [3] På arameiska perisát. [4] På arameiska u-farás. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Daniel 11:31 Och härar, utsända av honom, skola komma och oskära helgedomens fäste och avskaffa det dagliga offret och ställa upp förödelsens styggelse[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Daniel 11:45 Och sina palatstält skall han slå upp mellan havet och helgedomens härliga berg. Men han går till sin undergång, och ingen skall finnas, som hjälper honom.» [1] Se Förödelsens styggelse i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Daniel 12:11 Och från den tid då det dagliga offret bliver avskaffat och förödelsens styggelse[1] uppställd skola ett tusen två hundra nittio dagar förgå.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Daniel 12:13 Men gå du åstad mot ändens tid; sedan du har vilat, skall du uppstå till din del, vid dagarnas ände.» [1] Se Förödelsens styggelse i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Hosea 1:6 Och hon blev åter havande och födde en dotter. Då sade han till honom: »Giv denna namnet Lo-Ruhama[1]; ty jag vill icke vidare förbarma mig över Israels hus, så att jag förlåter dem.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Hosea 1:9 Då sade han: »Giv denne namnet Lo-Ammi[2]; ty I ären icke mitt folk, ej heller vill jag höra eder till.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Hosea 1:11 Och Juda barn och Israels barn skola samla sig tillhopa, och skola sätta över sig ett gemensamt huvud, och skola draga upp ur landet; ty stor skall Jisreels dag vara. [1] D. ä. hon som icke finner förbarmande. [2] D. ä. icke mitt folk. [3] Hos 2,1 hör egentligen hit, men återfinns nedan. --Red för den elektroniska utgåvan. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Hosea 2:1 [3] Kallen då edra bröder Ammi[1] och edra systrar Ruhama[2]. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Hosea 2:23 Och jag skall plantera[3] henne åt mig i landet och förbarma mig över Lo-Ruhama och säga till Lo-Ammi: »Du är mitt folk.» Och det skall svara: »Du är min Gud.» [1] D. ä. mitt folk. [2] D. ä. hon som finner förbarmande. [3] Namnet Jisreel kan översättas med Guds plantering. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Joel 3:2 då skall jag samla tillhopa alla hednafolk och föra dem ned till Josafats[1] dal, och där skall jag hålla dom över dem, för mitt folks och min arvedels, Israels, skull, därför att de hava förskingrat dem bland hedningarna och utskiftat mitt land.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Joel 3:21 Och jag skall utplåna deras blodskulder, dem som jag icke allaredan har utplånat. Och HERREN skall förbliva boende på Sion. [1] Namnet kan översättas: Herren håller dom. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Nahum 1:15 Se, över bergen nalkas glädjebudbärarens fötter hans som förkunnar frid: »Fira dina högtider, Juda, infria dina löften. Ty ej mer skall fördärvaren draga fram mot dig; han varder förgjord i grund.» [1] Delvis alfabetisk sång; se Poesi i a Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Nahum 3:19 Det finnes ingen bot för din skada oläkligt är ditt sår. Alla som höra vad som har hänt dig klappa i händerna över dig. Ty över vem gick ej din ondska beständigt? [1] Delvis alfabetisk sång; se Poesi i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Zephaniah 2:4 Ty Gasa skall bliva övergivet och Askelon varda en ödemark; mitt på ljusa dagen skall Asdods folk drivas ut, och Ekron skall ryckas upp med roten.[1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Zephaniah 2:15 Så skall det gå den glada staden, som satt så trygg, och som sade i sitt hjärta: »Jag och ingen annan!» Huru har den icke blivit en ödemark, en lägerstad för vilda djur! Alla som gå där fram skola vissla åt den och slå ihop händerna. [1] Utsagorna om Gasa och Ekron innehålla i den hebreiska grundtexten anspelningar på dessa orters namn. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Zechariah 3:1 Sedan lät han mig se översteprästen Josua stående inför HERRENS ängel; och Åklagaren[1] stod vid hans högra sida för att anklaga honom.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Zechariah 3:10 På den tiden, säger HERREN Sebaot, skall var och en av eder kunna inbjuda den andre till gäst under sitt vinträd och fikonträd.» [1] Se Djävul i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Tobit 3:1 Då blev jag bedrövad och begynte att gråta; och jag bad med djup smärta och sade: 2 »Herre, du är rättfärdig, och alla dina gärningar och alla dina vägar äro barmhärtighet och sanning; med rättvis och rättfärdig dom dömer du alltid.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Tobit 4:21 Frukta icke, min son, därför att vi hava råkat i armod; ty du har en stor rikedom, om du fruktar Gud och avhåller dig från all synd och gör vad som är välbehagligt inför honom.» 16,2; 2 Kor 8,12. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	7	Tobit 7:16 Hon gjorde såsom han hade sagt och förde henne in i kammaren. Men Sara begynte då att gråta. Och hon tröstade sin dotter i hennes gråt och sade till henne: 17 »Var vid gott mod, mitt barn; himmelens och jordens Herre give dig hugnad i stället för den bedrövelse du nu lider. Var vid gott mod, min dotter.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Tobit 9:1 Och Tobias kallade till sig Rafael och sade till honom: 2 »Asarias, min broder, tag med dig en tjänare och två kameler och begiv dig till Rages i Medien, till Gabael, och hämta penningarna åt mig; för ock honom själv med dig hit till bröllopet.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Tobit 10:4 Men hans hustru sade till honom: »Gossen har omkommit, eftersom han dröjer så länge.» Och hon begynte att begråta honom och sade: 5 »Huru ont gör det mig icke, mitt barn, att jag lät dig fara, du mina ögons ljus!»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Judith 2:4 Då nu Nebukadnessar, konungen i Assyrien, hade slutat sin rådplägning, kallade han till sig sin härhövitsman Holofernes, sin närmaste man, och sade till honom: 5 »Så säger den store konungen, hela jordens herre: Du skall draga ut härifrån och taga med dig manskap som litar på sin styrka, vid pass ett hundra tjugu tusen man fotfolk och en mängd hästar, tolv tusen, och ryttare till dem.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Judith 6:1 När larmet från dem som stodo runt omkring de rådplägande männen hade tystnat, sade Holofernes, assyriernas härhövitsman, till Akior och till alla Ammons barn, inför hela skaran av främlingar: 2 »Vem är då du, Akior, du med dina efraimitiska legodrängar, eftersom du träder upp bland oss med sådana profetior som nu i dag och avråder oss från att strida mot Israels folk, därför att deras Gud skulle komma till deras beskydd? Vem är då den rätte guden, om icke Nebukadnessar? Han skall sända ut sin härsmakt och utrota dem från jorden, och deras Gud skall icke kunna frälsa dem.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Judith 6:18 Då föll folket ned och tillbad Gud; de ropade och sade: 19 »Herre, du himmelens Gud, skåda ned på deras övermod, och hav förbarmande med vårt folk i dess betryck, och se i dag till dem som äro helgade åt dig.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Judith 7:8 Då trädde alla hövdingarna över Esaus barn och alla anförarna för Moabs folk och furstarna ifrån kustlandet fram till honom och sade: 9 »Må vår herre lyssna till ett råd, för att din här icke må drabbas av någon olycka.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Judith 7:23 Då församlade sig allt folket, jämväl de unga männen och kvinnorna och barnen, hos Osias och de andra styresmännen i staden och ropade med hög röst och sade inför alla de äldste: 24 »Gud döme mellan eder och oss, ty I haven begått en stor orättfärdighet mot oss, därmed att I icke haven talat fredliga ord till Assurs barn.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	8	Judith 9:7 Men nu hava assyrierna församlat sig i talrik härskara; de förhäva sig över häst och ryttare, de yvas över sitt fotfolks kraft, de sätta sitt hopp till sköld och spjut, till båge och slunga, men de förstå ej att du är Herren, som gör slut på strider. 8 »Herren» är ditt namn. Slå då ned deras styrka genom din makt, och bryt sönder deras kraft genom din vrede. Ty de hava lagt råd om att oskära din helgedom och att besmitta det tabernakel där ditt härliga namn har sin vilostad och att med svärd slå av ditt altares horn.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	8	Judith 10:7 När dessa fingo se henne och blevo varse förändringen i hennes utseende och de nya kläder hon hade ifört sig, förundrade de sig övermåttan över hennes skönhet. Och de sade till henne: 8 »Må våra fäders Gud låta dig finna nåd, så att det som du har för händer bliver fullbordat, till triumf för Israels barn och till Jerusalems upphöjelse.» Och hon tillbad Gud.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Judith 10:14 När nu männen hörde vad hon sade, och när de därjämte lade märke till hennes utseende och funno det förundransvärt skönt, sade de till henne: 15 »Du har räddat ditt liv genom att skyndsamt begiva dig hitned till vår herre. Gå nu fram till hans tält; några av oss skola ledsaga dig, till dess de hava överlämnat dig i hans händer.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Judith 11:20 Hennes ord behagade Holofernes och alla hans tjänare, och de förundrade sig över hennes vishet och sade: 21 »En sådan kvinna finnes icke från den ena ändan av jorden till den andra, en kvinna med ett så skönt ansikte och så förståndig i tal.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	8	Judith 14:17 Därefter begav han sig in i det tält där Judit hade sin bostad, och då han icke fann henne där, kom han utspringande till folket och skriade: 18 »De trälarna hava handlat förrädiskt; en ensam hebreisk kvinna har dragit smälek över konung Nebukadnessars hus, ty Holofernes ligger därinne på marken, utan huvud.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	6	Wisdom 2:0 1,16 Men de ogudaktiga kalla döden till sig med ord och gärningar, de räkna honom för en vän och tråna efter honom. Ja, de hava slutit förbund med honom; de äro ju ock värda att höra honom till.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	7	Wisdom 3:2 Väl synas de i de dåraktigas ögon vara döda, och såsom ofärd räknas deras hädanfärd,Mack 7,33; Hebr 12,7. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	0	Wisdom 5:0 4,20 När deras synder räknas samman, skola de bävande träda fram, och deras överträdelser skola vittna mot dem och överbevisa dem.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	6	Wisdom 9:18 På sådant sätt hava jordens bebyggare förts på rätta stigar och människorna lärt det som är välbehagligt för dig; ja, genom visheten hava de blivit frälsta. 1 Kor 2,16. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Wisdom 11:26 Men du är skonsam mot allt, därför att det är ditt, o Herre, du det levandes vän. 12,1 Ty din oförgänglige ande bor i allt.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Sirach 5:0 4,31 Låt icke din hand vara uträckt till att taga emot, men tillsluten, när du skall giva igen.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	7	Sirach 23:0 22,27 Ack att jag hade en vakt för min mun och ett konstrikt insegel på mina läppar, så att jag icke komme på fall genom min tunga och icke genom henne råkade i fördärv!	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Sirach 27:0 26,29 En köpman kommer svårligen undan försyndelser, och en krämare går icke fri ifrån synd.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	0	Sirach 28:0 27,30 Agg och vrede, också de äro en styggelse, och en syndig man framhärdar i sådant.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Baruch 2:21 'Så säger Herren: Bojen edra skuldror och tjänen konungen i Babylonien, så skolen 1 få bo kvar i det land som jag har givit åt edra fäder.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Baruch 2:28 i enlighet med vad du har talat genom din tjänare Moses, på den tid då du bjöd honom att uppteckna din lag inför Israels barn, i det att du sade: 29 ’Om I icke hören min röst, så skall förvisso denna stora och talrika brusande folkskara varda till en ringa hop bland de folk bland vilka jag skall förströ dem.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Baruch 3:34 Och stjärnorna lysa på sina poster och glädja sig; 35	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Susanna 1:28 När folket dagen därefter kom tillsammans hos Joakim, hennes man, kommo ock de båda äldste dit, fyllda av sitt syndiga uppsåt mot Susanna, för att få henne dömd till döden. Och de sade inför folket: 29 »Sänden efter Susanna, Kelkias' dotter, Joakims hustru.» Och man sände efter henne.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 1:21 Och hon skall föda en son, och honom skall du giva namnet Jesus[1], ty han skall frälsa sitt folk ifrån deras synder.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 1:25 Och han kände henne icke, förrän hon hade fött en son; och honom gav han namnet Jesus. [1] Jämför hebr. jeschuá, som betyder frälsning. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 5:21 I haven hört att det är sagt till de gamle: 'Du skall icke dräpa; och den som dräper, han är hemfallen åt Domstolens[1] dom.'	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 5:48 Varen alltså I fullkomliga, såsom eder himmelske Fader är fullkomlig.» [1] Se Domstol i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 6:9 I skolen alltså bedja sålunda: 'Fader vår, som är i himmelen! Helgat varde ditt namn[1];	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 6:24 Ingen kan tjäna två herrar; ty antingen kommer han då att hata den ene och älska den andre, eller kommer han att hålla sig till den förre och förakta den senare. I kunnen icke tjäna både Gud och Mamon[2]. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 6:34 Gören eder alltså icke bekymmer för morgondagen, ty morgondagen skall själv bära sitt bekymmer. Var dag har nog av sin egen plåga.» [1] Se Fader vår i Ordförklaringarna. [2] Se Mamon i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 7:22 Många skola på 'den dagen'[1] säga till mig: 'Herre, Herre, hava vi icke profeterat i ditt namn och genom ditt namn drivit ut onda andar och genom ditt namn gjort många kraftgärningar?'	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 7:29 ty han förkunnade sin lära för dem med makt och myndighet, och icke såsom deras skriftlärde. [1] Se Dagen i Ordförklaringarna 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 10:29 Säljas icke två sparvar för en skärv[1]? Och icke en av dem faller till jorden utan eder Faders vilja.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 10:42 Och den som giver en av dessa små allenast en bägare friskt vatten att dricka, därför att det är en lärjunge -- sannerligen säger jag eder: Han skall ingalunda gå miste om sin lön.» [1] Se Skärv i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 13:33 En annan liknelse framställde han för dem: »Himmelriket är likt en surdeg som en kvinna tager och blandar in i tre skäppor[1] mjöl, till dess alltsammans bliver syrat.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 13:58 Och för deras otros skull gjorde han där icke många kraftgärningar. [1] Se Skäppa i Ordförklaringarna 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 14:24 Båten var då redan många stadier[1] från land och hårt ansatt av vågorna, ty vinden låg emot.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 14:36 Och de bådo honom att allenast få röra vid hörntofsen på hans mantel; och alla som rörde vid den blevo hulpna. [1] Se Stadie i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 16:18 Så säger ock jag dig att du är Petrus; och på denna klippa[1] skall jag bygga min församling, och dödsrikets portar skola icke bliva henne övermäktiga.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 16:28 Sannerligen säger jag eder: Bland dem som här stå finnas några som icke skola smaka döden, förrän de få se Människosonen komma i sitt rike.» [1] Klippa heter på grekiska petra. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 17:4 Då tog Petrus till orda och sade till Jesus: »Herre, här är oss gott att vara[1]; vill du, så skall jag här göra tre hyddor, åt dig en och åt Moses en och åt Elias en.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 17:21 [2] 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Matthew 17:27 Men för att vi icke skola bliva dem till en stötesten, så gå ned till sjön och kasta ut en krok. Tag så den första fisk som du drager upp, och när du öppnar munnen på den skall du där finna en silverpenning[3]. Tag den, och giv den åt dem for mig och dig.» [1] Eller: Då tog Petrus till orda och sade till Jesus: »Herre, det är gott att vi äro här tillstädes» osv. [2] Se Nya testamentets text i Ordförklaringarna. [3] Se Silverpenning i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 18:11 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 18:24 Och när han begynte hålla räkenskap, förde man fram till honom en som var skyldig honom tio tusen pund[2].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Matthew 18:28 Men när samme tjänare kom ut, träffade han på en av sina medtjänare, som var skyldig honom hundra silverpenningar[3]; och han tog fast denne och grep honom vid strupen och sade: 'Betala vad du är skyldig.'	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Matthew 18:35 Så skall ock min himmelske Fader göra med eder, om I icke av hjärtat förlåten var och en sin broder.» [1] Se Nya testamentets text i Ordförklaringarna. [2] Se Pund i Ordförklaringarna. [3] Se Silverpenningar i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 20:2 Och när han hade kommit överens med arbetarna om en viss dagspenning[1], sände han dem till sin vingård.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 20:34 Då förbarmade sig Jesus över dem och rörde vid deras ögon, och strax fingo de sin syn och följde honom. [1] Se Dagspenning i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 21:9 Och folket, både de som gingo före honom och de som följde efter, ropade och sade: »Hosianna Davids son! Välsignad vare han som kommer[1], i Herrens namn. Hosianna i höjden!» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 21:44 [2] 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 21:46 Och de hade gärna velat gripa honom, men de fruktade för folket, eftersom man höll honom för en profet. [1] Se Messias i Ordförklaringarna. [2] Se Nya testamentets text i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 22:19 Låten mig se skattepenningen.» Då lämnade de fram till honom en penning[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 22:46 Och ingen förmådde svara honom ett ord. Ej heller dristade sig någon från den dagen att vidare ställa någon fråga till honom. [1] Se Penning i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 23:9 Ej heller skolen I kalla någon på jorden eder 'fader'[1], ty en är eder Fader, han som är i himmelen.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 23:14 [2] 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Matthew 23:39 Ty jag säger eder: Härefter skolen I icke få se mig, intill den tid då I sägen: 'Välsignad vare han som kommer[3], i Herrens namn.'» [1] Se Fader i Ordförklaringarna. [2] Se Nya testamentets text i Ordförklaringarna. [3] Se Messias i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 24:8 men allt detta är allenast begynnelsen till 'födslovåndorna'[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 24:15 När I nu fån se 'förödelsens styggelse'[2], om vilken är talat genom profeten Daniel, stå på helig plats -- den som läser detta, han give akt därpå --	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Matthew 24:29 Men strax efter den tidens vedermöda skall solen förmörkas och månen upphöra att giva sitt sken, och stjärnorna skola falla ifrån himmelen, och himmelens makter[3] skola bäva.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Matthew 24:51 och han skall låta hugga honom i stycken och låta honom få sin del med skrymtare. Där skall vara gråt och tandagnisslan.» [1] Se Födslovåndor i Ordförklaringarna. [2] Se Förödelsens styggelse i Ordförklaringarna. [3] Se Makter i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 25:15 åt en gav han fem pund[1], åt en annan två och åt en tredje ett pund, åt var och en efter hans förmåga, och for utrikes.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 25:41 Därefter skall han ock säga till dem som stå på hans vänstra sida: 'Gån bort ifrån mig, I förbannade[2], till den eviga elden, som är tillredd åt djävulen och hans änglar.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 25:46 Och dessa skola då då bort till evigt straff, men de rättfärdiga till evigt liv.» [1] Se Pund i Ordförklaringarna. [2] Eller: Därefter skall han ock säga till dem som stå på hans vänstra sida: 'Gån bort ifrån mig i förbannelse' osv. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 26:15 och sade: »Vad viljen I giva mig för att jag skall överlämna honom åt eder?» Då vägde de upp åt honom trettio silverpenningar[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 26:75 Då kom Petrus ihåg Jesu ord, huru han hade sagt: »Förrän hanen gal, skall du tre gånger förneka mig.» Och han gick ut och grät bitterligen. [1] Se Silverpenning i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Matthew 27:3 När då Judas, som hade förrått honom, såg att han var dömd, ångrade han sig och bar de trettio silverpenningarna[1] tillbaka till översteprästerna och de äldste	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 27:46 Och vid nionde timmen ropade Jesus med hög röst och sade: »Eli, Eli, lema sabaktani[2]?»; det betyder: »Min Gud, min Gud, varför har du övergivit mig?»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Matthew 27:66 Och de gingo åstad och skyddade graven, i det att de icke allenast satte ut vakten, utan ock förseglade stenen. [1] Se Silverpenning i Ordförklaringarna. [2] Se Betoning i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 6:37 Men han svarade och sade till dem: »Given I dem att äta.» De svarade honom: »Skola vi då gå bort och köpa bröd för två hundra silverpenningar[1] och giva dem att äta?»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 6:56 Och varhelst han gick in i någon by eller någon stad eller någon gård, där lade man de sjuka på de öppna platserna. Och de bådo honom att åtminstone få röra vid hörntofsen på hans mantel; och alla som rörde vid den blevo hulpna. [1] Se Silverpenning i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 7:16 [1] 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 7:37 Och folket häpnade övermåttan och sade: »Allt har han väl beställt: de döva låter han höra och de stumma tala.» [1] Se Nya testamentets text i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 9:5 Då tog Petrus till orda och sade till Jesus: »Rabbi, här är oss gott att vara[1]; låt oss göra tre hyddor, åt dig en och åt Moses en och åt Elias en.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 9:44 [2]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 9:46 [2]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 9:50 Saltet är en god sak; men om saltet mister sin sälta, varmed skolen I då återställa dess kraft? -- Haven salt i eder och hållen frid inbördes.» [1] Eller: Då tog Petrus till orda och sade till Jesus: »Rabbi, det är gott att vi äro här tillstädes» osv. [2] Se Nya testamentets text i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 11:9 Och de som gingo före och de som följde efter ropade: »Hosianna! Välsignad vare han som kommer[1], i Herrens namn.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 11:26 [2] 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 11:33 De svarade alltså Jesus och sade: »Vi veta det icke.» Då sade Jesus till dem: »Så säger icke heller jag eder med vad myndighet jag gör detta.» [1] Se Messias i Ordförklaringarna. [2] Se Nya testamentets text i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 12:15 Men han förstod deras skrymteri och sade till dem: »Varför söken I att snärja mig? Tagen hit en penning[1], så att jag får se den.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 12:42 Men en fattig änka kom och lade ned två skärvar[2], det är ett öre.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 12:44 Ty dessa lade alla dit av sitt överflöd, men hon lade dit av sitt armod allt vad hon hade, så mycket som fanns i hennes ägo.» [1] Se Penning i Ordförklaringarna. [2] Se Skärv i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 13:8 Ja, folk skall resa sig upp mot folk och rike mot rike, och det skall bliva jordbävningar på den ena orten efter den andra, och hungersnöd skall uppstå; detta är begynnelsen till 'födslovåndorna'[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 13:14 Men när I fån se 'förödelsens styggelse'[2] stå där han icke borde stå -- den som läser detta, han give akt därpå -- då må de som äro i Judeen fly bort till bergen,	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Mark 13:25 och stjärnorna skola falla ifrån himmelen, och makterna[3] i himmelen skola bäva.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Mark 13:37 Men vad jag säger till eder, det säger jag till alla: Vaken!» [1] Se Födslovåndor i Ordförklaringarna. [2] Se Förödelsens styggelse i Ordförklaringarna. [3] Se Makter i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 14:5 Man hade ju kunnat sälja den för mer än tre hundra silverpenningar[1] och giva dessa åt de fattiga.» Och de talade hårda ord till henne.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 14:72 Och i detsamma gol hanen för andra gången. Då kom Petrus ihåg Jesu ord, huru han hade sagt till honom: »Förrän hanen har galit två gånger, skall du tre gånger förneka mig.» Och han brast ut i gråt. [1] Se Silverpenning i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Mark 15:28 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 15:34 Och vid nionde timmen ropade Jesus med hög röst: »Eloi, Eloi, lema sabaktani[2]?»; det betyder: »Min Gud, min Gud, varför har du övergivit mig?»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Mark 15:47 Men Maria från Magdala och den Maria som var Joses' moder sågo var han lades. [1] Se Nya testamentets text i Ordförklaringarna. [2] Se Betoning i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	0	Mark 16:20 Men de gingo ut och predikade allestädes. Och Herren verkade med dem och stadfäste ordet genom de tecken som åtföljde det.][1] [1] V. 9--20 se Nya testamentets text i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Luke 2:52 Och Jesus växte till i ålder och vishet och nåd inför Gud och människor[1]. [1] Eller: Och Jesus växte upp och växte till i vishet och nåd osv. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Luke 16:6 Han svarade: 'Hundra fat[1] olja.' Då sade han till honom: 'Tag här ditt skuldebrev, och sätt dig nu strax ned och skriv femtio.'	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Luke 16:7 Sedan frågade han en annan: 'och du, huru mycket är du skyldig?' Denne svarade: 'hundra tunnor[2] vete.' Då sade han till honom: 'Tag här ditt skuldebrev och skriv åttio.'	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Luke 16:31 Då sade han till honom: 'Lyssna de icke till Moses och profeterna, så skola de icke heller låta övertyga sig, om någon uppstår från de döda.'» [1] Se Fat i Ordförkl. [2] Se Tunna i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 1:18 Ingen har någonsin sett Gud; den enfödde Sonen, som är i Faderns sköte[1], han har kungjort vad Gud är. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 1:27 han som kommer efter mig[2], vilkens skorem jag icke är värdig att upplösa.» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	John 1:41 Denne träffade först sin broder Simon och sade till honom: »Vi hava funnit Messias» (det betyder detsamma som Kristus).[3]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	John 1:42 Och han förde honom till Jesus. Då såg Jesus på honom och sade: »Du är Simon, Johannes' son; du skall heta Cefas» (det betyder detsamma som Petrus).[4] 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	8	John 1:51 Därefter sade han till honom: »Sannerligen, sannerligen säger jag eder: I skolen få se himmelen öppen och Guds änglar fara upp och fara ned över Människosonen.» [1] Eller: Ingen har någonsin sett Gud; en enfödd Gud, han som är i Faderns sköte, osv. [2] vilken har varit före mig. [3] Båda orden betyda den smorde; det förra är arameiska, det senare grekiska. [4] Det arameiska ordet kefa betyder klippa -- Jfr Matt 16,18. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 3:3 Jesus svarade och sade till honom: »Sannerligen, sannerligen säger jag dig: Om en människa icke bliver född på nytt[1], så kan hon icke få se Guds rike.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 3:8 Vinden blåser vart den vill, och du hör dess sus, men du vet icke varifrån den kommer, eller vart den far; så är det med var och en som är född av Anden[2].»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 3:36 Den som tror på Sonen, han har evigt liv; men den som icke hörsammar Sonen, han skall icke få se livet, utan Guds vrede förbliver över honom.» [1] Grundtextens uttryck har den dubbla betydelsen på nytt och ovanifrån; jfr v. 31. [2] Grundtexten har här samma uttryck för vind som för ande. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 4:10 Jesus svarade och sade till henne: »Förstode du Guds gåva, och vem den är som säger till dig: 'Giv mig att dricka', så skulle i stället du hava bett honom, och han skulle då hava givit dig levande vatten[1].»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 4:38 Jag har sänt eder att skörda, där I icke haven arbetat. Andra hava arbetat, och I haven fått gå in i deras arbete[2].» 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 4:54 Detta var nu åter ett tecken, det andra i ordningen som Jesus gjorde, sedan han hade kommit från Judeen till Galileen. [1] Grundtextens uttryck, som bokstavligen betyder levande vatten, har vanligen betydelsen friskt, rinnande vatten; kvinnan fattar uttrycket i den senare betydelsen. [2] Eller: Jag har sänt eder att skörda, där I icke haven arbetat. Andra hava arbetat, och deras arbete har kommit eder till godo. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 5:4 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 5:16 Därför förföljde nu judarna Jesus[2], eftersom han gjorde sådant på sabbaten.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 5:47 Men tron I icke hans skrifter, huru skolen I då kunna tro mina ord?» [2] och sökte att döda honom. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 6:7 Filippus svarade honom: »Bröd för två hundra silverpenningar[1] vore icke nog för att var och en skulle få ett litet stycke.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 7:38 Den som tror på mig, av hans innersta skola strömmar av levande vatten[1] flyta fram, såsom skriften säger.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 7:50 Då sade Nikodemus till dem, han som förut hade besökt honom[2], och som själv var en av dem:	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 7:53 [Och de gingo hem, var och en till sitt. [1] Jämför noten till Joh 4,10. [2] om natten. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 8:2 Men i dagbräckningen kom han åter till helgedomen[2].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	John 8:9 När de hörde detta[3], gingo de ut, den ene efter den andre, först de äldsta, och Jesus blev lämnad allena med kvinnan, som stod där kvar.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 8:11 Hon svarade: »Herre, ingen.» Då sade han till henne: »Icke heller jag dömer dig. Gå, och synda icke härefter.»][1] 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	John 8:59 Då togo de upp stenar för att kasta på honom. Men Jesus gömde sig undan och gick sedan ut ur helgedomen. [1] 7,53--8,11; Se Nya testamentets text i Ordförkl. [2] och allt folket kom till honom, och han satte sig och lärde dem. [3] och kände sig överbevisade av samvetet. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 12:5 »Varför sålde man icke hellre denna smörjelse för tre hundra silverpenningar[1] och gav dessa åt de fattiga?»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 12:13 togo de palmkvistar och gingo ut för att möta honom och ropade: »Hosianna! Välsignad vare han som kommer[2], i Herrens namn, han som är Israels konung.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	John 12:50 Och jag vet att hans bud är evigt liv; därför, vad jag talar, det talar jag såsom Fadern har sagt mig.» [1] Se Silverpenning i Ordförkl. [2] Se Messias i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 16:16 En liten tid, och I sen mig icke mer; och åter en liten tid, och I fån se mig[1].»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	John 16:33 Detta har jag talat till eder, för att I skolen hava frid i mig. I världen liden i betryck; men varen vid gott mod, jag har övervunnit världen.» [1] ty jag går till Fadern. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 8:37 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	7	Acts 8:40 Men Filippus blev efteråt sedd i Asdod. Därefter vandrade han omkring och förkunnade evangelium i alla städer, till dess han kom till Cesarea. [1] V. 37 se Nya testamentets text i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 9:2 och utbad sig av honom brev till synagogorna i Damaskus, för att, om han funne några som voro på »den vägen»[1], vare sig män eller kvinnor, han skulle kunna föra dem bundna till Jerusalem. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 9:36 I Joppe bodde då en lärjunginna vid namn Tabita (det betyder detsamma som Dorkas).[2] Hon överflödade i goda gärningar och gav allmosor rikligen.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 9:43 Därefter stannade han en längre tid i Joppe hos en garvare vid namn Simon. [1] Se Väg i Ordförkl. [2] Båda namnen betyda hind; det förra är ett arameiskt ord, det senare ett grekiskt. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 10:2 Han var en from man, som »fruktade Gud»[1] tillika med hela sitt hus; han utdelade rikligen allmosor åt folket och bad alltid till Gud. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 10:48 Och så bjöd han att man skulle döpa dem i Jesu Kristi namn. Därefter bådo de honom att han skulle stanna hos dem några dagar. [1] Se Frukta Gud i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 13:1 I den församling som fanns i Antiokia verkade nu såsom profeter och lärare Barnabas och Simeon, som kallades Niger, och Lucius från Cyrene, så ock Manaen, landsfursten Herodes' fosterbroder[1], och Saulus.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 13:16 Då stod Paulus upp och gav tecken med handen och sade: »I män av Israels hus och I som 'frukten Gud'[2], hören mig.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 13:52 Och lärjungarna uppfylldes alltmer av glädje och helig ande. [1] Se Fosterbroder i Ordförkl. [2] Se Frukta Gud i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 15:34 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Acts 15:41 och färdades genom Syrien och Cilicien och styrkte församlingarna. [1] V. 34 se Nya testamentets text i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 16:14 Och en kvinna som »fruktade Gud»[1], en purpurkrämerska från staden Tyatira, vid namn Lydia, lyssnade till samtalet; och Herren öppnade hennes hjärta, så att hon aktade på det som Paulus talade.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 16:40 När de så hade kommit ut ur fängelset, begåvo de sig hem till Lydia. Och sedan de där hade träffat bröderna och talat förmaningens ord till dem, drogo de vidare. [1] Se Frukta Gud i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 17:4 Och några av dem läto övertyga sig och slöto sig till Paulus och Silas; så gjorde ock en stor hop greker som »fruktade Gud»[1], likaså ganska många av de förnämsta kvinnorna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 17:34 Dock slöto sig några män till honom och kommo till tro. Bland dessa var Dionysius, han som tillhörde Areopagens domstol, så ock en kvinna vid namn Damaris och några andra jämte dem. [1] Se Frukta Gud i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 18:7 Och han gick därifrån och tog in hos en man vid namn Titius Justus, som »fruktade Gud»[1]; denne hade sitt hus invid synagogan.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 18:25 Denne sade blivit undervisad om »Herrens väg»[2] och talade, brinnande i anden, och undervisade grundligt om Jesus, fastän han allenast hade kunskap om Johannes' döpelse.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 18:28 Ty med stor kraft vederlade han judarna offentligen och bevisade genom skrifterna att Jesus var Messias. [1] Se Frukta Gud i Ordförkl. [2] Se Väg i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 19:9 Men när några av dem förhärdade sig och voro ohörsamma och inför menigheten talade illa om »den vägen»[1], vände han sig ifrån dem och avskilde lärjungarna och samtalade sedan dagligen med dessa i Tyrannus' lärosal.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 19:19 Och ganska många av dem som hade övat vidskepliga konster samlade ihop sina böcker och brände upp dem i allas åsyn. Och när man räknade tillsammans vad böckerna voro värda, fann man att värdet uppgick till femtio tusen silverpenningar[2]. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 19:40 På grund av det som i dag har skett löpa vi ju till och med fara att bliva anklagade för upplopp, fastän vi icke hava gjort något ont; och någon giltig anledning till denna folkskockning kunna vi icke heller uppgiva.» Med dessa ord fick han menigheten att skiljas åt. [1] Se Väg i Ordförkl. [2] Se Silverpenning i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 21:38 Är du då icke den egyptier som för en tid sedan ställde till 'dolkmännens'[1] uppror, de fyra tusens, och förde dem ut i öknen?»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 21:40 Och han tillstadde honom det. Då gav Paulus från trappan, där han stod, med handen ett tecken åt folket. Och sedan där hade blivit helt tyst, talade han till dem på hebreiska[2] och sade: [1] Se Dolkmän i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 22:4 Jag förföljde 'den vägen'[1] ända till döds, och både män och kvinnor lät jag binda och sätta i fängelse;	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 22:30 Då han emellertid ville få säkert besked om varför Paulus anklagades av judarna, låt han dagen därefter taga av honom bojorna och bjöd översteprästerna och hela Stora rådet att komma tillsammans. Sedan lät han föra Paulus ditned och ställde honom inför dem. [1] Se Väg i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 24:7 [1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	2	Acts 24:14 Men det bekänner jag för dig att jag, i enlighet med 'den vägen'[2], vilken de kalla en partimening, så tjänar mina fäders Gud, att jag tror allt vad som är skrivet i lagen och i profeterna,	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Acts 24:22 Men Felix, som mycket väl kände till »den vägen»[3], uppsköt målet och sade: »När översten Lysias kommer hit ned, vill jag undersöka eder sak.»	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Acts 24:27 När två år voro förlidna, fick Felix till efterträdare Porcius Festus. Och eftersom Felix ville göra judarna sig bevågna, lämnade han Paulus kvar i fängelset. [1] V. 7 se Nya testamentets text i Ordförkl. [2] Se Väg i Ordförkl. [3] Se Väg i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 27:9 Härunder hade ganska lång tid hunnit förflyta, och sjöfarten begynte redan vara osäker; fastedagen[1] var nämligen redan förbi. Paulus varnade dem då	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 27:44 och att därefter de övriga skulle giva sig ut, somliga på plankor, andra på spillror av skeppet. Så lyckades det för alla att komma välbehållna i land. [1] Se Fastedagen i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Acts 28:28 Det mån I därför veta: till hedningarna bar denna Guds frälsning blivit sänd; de skola ock akta därpå.»[1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	9	Acts 28:31 och han predikade om Guds rike och undervisade om Herren Jesus Kristus med all frimodighet, utan att någon hindrade honom däri. [1] 29; Och då han hade sagt detta, gingo judarna bort. Och de tvistade häftigt sinsemellan. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Romans 5:1 Då vi nu hava blivit rättfärdiggjorda av tro, hava vi frid med Gud genom vår Herre Jesus Kristus[1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Romans 5:21 Ty såsom synden hade utövat sitt välde i och genom döden, så skulle nu ock nåden genom rättfärdighet utöva sitt välde till evigt liv, och det genom Jesus Kristus, vår Herre. [1] Eller: Då vi nu hava blivit rättfärdiggjorda av tro, må vi hava frid osv. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Romans 16:24 [1] 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	4	Romans 16:27 honom, den ende vise Guden, tillhör äran, genom Jesus Kristus, i evigheternas evigheter. Amen. [1] V. 24 se Nya testamentets text i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Galatians 4:3 Sammalunda höllos ock vi, när vi voro barn, i träldom under världens »makter»[1].	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Galatians 4:31 Alltså, mina bröder, vi äro icke barn av en tjänstekvinna, utan av den fria hustrun. [1] Se Makter i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ephesians 1:1 Paulus, genom Guds vilja Kristi Jesu apostel, hälsar de heliga som bo i Efesus[1], de i Kristus Jesus troende.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ephesians 1:23 åt församlingen, ty den är hans kropp och är uppfylld av honom som uppfyller allt i alla. [1] Se Nya testamentets text i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ephesians 2:10 Ty hans verk äro vi, skapade i Kristus Jesus till goda gärningar, vilka Gud förut har berett, för att vi skola vandra i dem[1]. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ephesians 2:22 I honom bliven också I med de andra uppbyggda till en Guds boning, i Anden. [1] Eller: Ty hans verk äro vi, skapade i Kristus Jesus till goda gärningar; till att vandra i sådana har ju Gud förut berett oss. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ephesians 4:4 en[1] kropp och en[1] Ande, likasom I ock bleven kallade till att leva i ett och samma hopp, det som tillhör eder kallelse --	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ephesians 4:5 en[1] Herre, en[1] tro, ett[1] dop, en[1] Gud, som är allas Fader,	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Ephesians 4:32 Varen i stället goda och barmhärtiga mot varandra, och förlåten varandra, såsom Gud i Kristus har förlåtit eder. [1] Ord markerade med denna fotnot är skrivna i kursiv stil i den tryckta upplagan. --Red för den elektroniska upplagan. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Philippians 2:5 Varen så till sinnes som Kristus Jesus var[1],	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Philippians 2:30 Ty för Kristi verks skull var han nära döden, i det han satte sitt liv på spel, för att giva mig ersättning för den tjänst som jag måste sakna från eder personligen. [1] Eller: Haven i edert förhållande till varandra samma sinne som I haven i Kristus Jesus, vilken var till osv. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Philippians 4:3 Ja, också till dig, min Synsygus -- du som med rätta bär det namnet[1] -- har jag en bön: Var dessa kvinnor till hjälp, ty jämte mig hava de kämpat i evangelii tjänst, de såväl som Klemens och mina andra medarbetare, vilkas namn äro skrivna i livets bok. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Philippians 4:23 Herrens, Jesu Kristi, nåd vare med eder ande. [1] Synsygus betyder medhjälpare. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Colossians 2:8 Sen till, att ingen får bortföra eder såsom ett segerbyte genom sin tomma och bedrägliga »vishetslära», i det att han åberopar fäderneärvda människomeningar och håller sig till världens »makter»[1] och icke till Kristus.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Colossians 2:23 Visserligen har allt detta fått namn om sig att vara »vishet», eftersom däri ligger ett självvalt gudstjänstväsende och ett slags »ödmjukhet» och en kroppens späkning; men ingalunda ligger däri »en viss heder», det tjänar allenast till att nära det köttsliga sinnet. [1] Se Makter i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	3	Colossians 4:2 Varen uthålliga i bönen och vaken i den under tacksägelse. 3; Och bedjen jämväl för oss, att Gud må åt oss öppna en dörr för ordet, så att vi få förkunna Kristi hemlighet, den hemlighet, för vars skull jag också är en fånge;	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Philemon 1:11 som förut var ingalunda var dig till »till gagn», men som nu är både dig och mig till stort gagn[1]. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	0	Philemon 1:25 Herrens, Jesu Kristi, nåd vare med eder ande. [1] Det grekiska namnet Onesimos betyder nyttig, gagnelig; på denna namnets betydelse hänsyftas också i v. 20. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Hebrews 9:16 Ty där ett testamente finnes, där måste det styrkas att den som har gjort testamentet är död.[1]	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	5	Hebrews 9:28 så skall Kristus, sedan han en gång har blivit offrad för att bära mångas synder, för andra gången, utan synd, låta sig ses av dem som bida efter honom, till frälsning. [1] Grundtexten har i v. 15 f. samma uttryck för testamente och förbund. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	James 3:15 Sådan »vishet» kommer icke ned ovanifrån, utan är av jorden och tillhör de »själiska»[1] människorna, ja, de onda andarna.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	James 3:18 Och rättfärdighetens frukt kommer av en sådd i frid, dem till del som hålla frid. [1] Se Själisk i Ordförkl. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jude 1:19 Det är dessa människor som vålla söndringar, dessa som äro »själiska»[1] och icke hava ande. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	1	Jude 1:25 honom som allena är Gud, och som är vår Frälsare genom Jesus Kristus, vår Herre, honom tillhör ära, majestät, välde och makt, såsom före all tid, så ock nu och i alla evigheter. Amen. [1] Se Själisk i Ordförkl 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Source	count	446	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	25	001-GEN-027-046 Och Rebecka sade till Isak: »Jag är led vid livet för Hets döttrars skull. Om Jakob tager hustru bland Hets döttrar, en sådan som dessa, någon bland landets döttrar, varför skulle jag då leva?» Se noten till 25,26.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	13	002-EXO-012-051 Så förde då HERREN på denna samma dag Israels barn ut ur Egyptens land, efter deras härskaror. Hebr pésach, av pasách »gå förbi», »skona»; jfr v. 13. Se Fördärvaren i Ordförkl.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	31	002-EXO-016-036 En gomer är tiondedelen av en efa. Hebr man; jfr v. 31. Hebr. man; jfr v. 15. Se Vittnesbördet i Ordförkl.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	2	002-EXO-018-027 Därefter lät Mose sin svärfader fara hem, och denne begav sig till sitt land igen. Se 2,22. Av hebr. el »Gud» och éser »hjälp».	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	36	006-JOS-021-045 Intet uteblev av allt det goda som HERREN hade lovat Israels hus; det gick allt i fullbordan. V. 36--37 se Gamla testamentets text i Ordförkl.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	4	007-JDG-001-036 Och amoréernas område sträckte sig från Skorpionhöjden, från Sela vidare uppåt. Se noten till 4 Mos 21,3.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	2	012-2KI-012-001 I Jehus sjunde regeringsår blev Joas konung, och han regerade fyrtio år i Jerusalem. Hans moder hette Sibja, från Beer-Seba. 2 Krön 24,1 f.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	68	016-NEH-007-073 Och prästerna, leviterna, dörrvaktarna, sångarna, en del av meniga folket samt tempelträlarna, korteligen hela Israel, bosatte sig i sina städer.» V. 68 se Gamla testamentets text i Ordförkl.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	31	020-PRO-031-031 Må hon få njuta sina gärningars frukt; hennes verk skola prisa henne i portarna. Kap. 31 v. 10--31 alfabetisk sång; se Poesi i Ordförkl.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	7	023-ISA-010-034 Den tjocka skogen nedhugges med järnet; Libanons skogar falla för den väldige. En anspelning på namnet Sear-Jasub (Jes 7,3) som betyder en kvarleva skall omvända sig.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	87	023-ISA-030-033 Ty en Tofetplats är längesedan tillredd, ja ock för konungen är den gjord redo, och djup och vid är den; dess rund är fylld av eld och av ved i myckenhet, och lik en svavelström skall HERRENS Ande sätta den i brand. Rahab uttydes såsom stortalighet; jfr Ps 87,4; Jes 51,9.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	6	024-JER-020-018 Varför kom jag ut ur moderlivet och fick se olycka och bedrövelse, så att mina dagar måste försvinna i skam? D. ä. skräck från alla sidor; jfr Jer 6,25.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	2	027-DAN-004-001 Jag, Nebukadnessar, satt i god ro i mitt hus och levde lycklig i mitt palats. 2; Då hade jag en dröm som förskräckte mig; jag ängslades genom drömbilder på mitt läger och genom en syn som jag såg.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	2	028-HOS-001-011 Och Juda barn och Israels barn skola samla sig tillhopa, och skola sätta över sig ett gemensamt huvud, och skola draga upp ur landet; ty stor skall Jisreels dag vara. D. ä. hon som icke finner förbarmande. D. ä. icke mitt folk. Hos 2,1 hör egentligen hit, men återfinns nedan. --Red för den elektroniska utgåvan.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Men efter sin uppståndelse visade han sig på första veckodagens morgon först för Maria från Magdala, ur vilken han hade drivit ut sju onda andar.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	9	041-MAR-016-020 Men de gingo ut och predikade allestädes. Och Herren verkade med dem och stadfäste ordet genom de tecken som åtföljde det.] V. 9--20 se Nya testamentets text i Ordförklaringarna.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	16	043-JOH-001-051 Därefter sade han till honom: »Sannerligen, sannerligen säger jag eder: I skolen få se himmelen öppen och Guds änglar fara upp och fara ned över Människosonen.» Eller: Ingen har någonsin sett Gud; en enfödd Gud, han som är i Faderns sköte, osv. vilken har varit före mig. Båda orden betyda den smorde; det förra är arameiska, det senare grekiska. Det arameiska ordet kefa betyder klippa -- Jfr Matt 16,18.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	31	043-JOH-003-036 Den som tror på Sonen, han har evigt liv; men den som icke hörsammar Sonen, han skall icke få se livet, utan Guds vrede förbliver över honom.» Grundtextens uttryck har den dubbla betydelsen på nytt och ovanifrån; jfr v. 31. Grundtexten har här samma uttryck för vind som för ande. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	4	043-JOH-007-053 [Och de gingo hem, var och en till sitt. Jämför noten till Joh 4,10. om natten.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	7	043-JOH-008-059 Då togo de upp stenar för att kasta på honom. Men Jesus gömde sig undan och gick sedan ut ur helgedomen. 7,53--8,11; Se Nya testamentets text i Ordförkl. och allt folket kom till honom, och han satte sig och lärde dem. och kände sig överbevisade av samvetet.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	37	044-ACT-008-040 Men Filippus blev efteråt sedd i Asdod. Därefter vandrade han omkring och förkunnade evangelium i alla städer, till dess han kom till Cesarea. V. 37 se Nya testamentets text i Ordförkl.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	34	044-ACT-015-041 och färdades genom Syrien och Cilicien och styrkte församlingarna. V. 34 se Nya testamentets text i Ordförkl.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	7	044-ACT-024-027 När två år voro förlidna, fick Felix till efterträdare Porcius Festus. Och eftersom Felix ville göra judarna sig bevågna, lämnade han Paulus kvar i fängelset. V. 7 se Nya testamentets text i Ordförkl. Se Väg i Ordförkl. Se Väg i Ordförkl.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	29	044-ACT-028-031 och han predikade om Guds rike och undervisade om Herren Jesus Kristus med all frimodighet, utan att någon hindrade honom däri. 29; Och då han hade sagt detta, gingo judarna bort. Och de tvistade häftigt sinsemellan.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	24	045-ROM-016-027 honom, den ende vise Guden, tillhör äran, genom Jesus Kristus, i evigheternas evigheter. Amen. V. 24 se Nya testamentets text i Ordförklaringarna. 	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	22	046-1CO-016-024 Min kärlek är med eder alla, i Kristus Jesus. Arameiska ord, som betyda: »Du vår Herre, kom!» -- Jämför Upp 22,20.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	3	051-COL-004-002 Varen uthålliga i bönen och vaken i den under tacksägelse. 3; Och bedjen jämväl för oss, att Gud må åt oss öppna en dörr för ordet, så att vi få förkunna Kristi hemlighet, den hemlighet, för vars skull jag också är en fånge;	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	20	057-PHM-001-025 Herrens, Jesu Kristi, nåd vare med eder ande. Det grekiska namnet Onesimos betyder nyttig, gagnelig; på denna namnets betydelse hänsyftas också i v. 20.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	15	058-HEB-009-028 så skall Kristus, sedan han en gång har blivit offrad för att bära mångas synder, för andra gången, utan synd, låta sig ses av dem som bida efter honom, till frälsning. Grundtexten har i v. 15 f. samma uttryck för testamente och förbund.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	65	066-REV-003-022 Den som har öra, han höre vad Anden säger till församlingarna. Detta uttryck är hämtat från Jes 65,16, där det ord, som i den svenska översättningen återgives med den sannfärdige, i den hebreiska grundtexten är amen.	WARN
+Swedish---Swedish-Bible-1917	NUMERALS	Aionian	count	30	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

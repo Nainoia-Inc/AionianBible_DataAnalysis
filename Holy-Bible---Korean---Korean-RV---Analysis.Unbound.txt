@@ -1,0 +1,1872 @@
+# File Name: Holy-Bible---Holy-Bible---Korean---Korean-RV---Analysis.txt
+# File Size: 139900      
+# File Date: 12/13/2025 05:43:17
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: 개역성경
+# Bible Name English: Korean Revised Version
+# Bible Language: 한국어
+# Bible Language English: Korean
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Korean Revised Version
+# Bible Source Version: 10/7/2018
+# Bible Source Link: https://unbound.biola.edu
+# Bible Source Year: 1952, 1961
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Korean---Korean-RV	ENCODING	Source	Holy-Bible---Korean---Korean-RV---Source-Edition.UNBOUND.txt	UTF-8	NOTICE
+Korean---Korean-RV	ENCODING	Aionian	Holy-Bible---Korean---Korean-RV---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Korean---Korean-RV	BYTES	Source	bytes / chars	4802693 / 2138803 (multi-byte)	NOTICE
+Korean---Korean-RV	BYTES	Aionian	bytes / chars	4980162 / 2315972 (multi-byte)	NOTICE
+Korean---Korean-RV	BYTES	SourceClean	bytes / chars	4801720 / 2137830 (multi-byte)	NOTICE
+Korean---Korean-RV	BYTES	AionianClean	bytes / chars	4976508 / 2312806 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Korean---Korean-RV	AIONIAN	Aionian	missing-verse	019-PSA-016-010	NOTICE
+Korean---Korean-RV	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Korean---Korean-RV	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Korean---Korean-RV	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Korean---Korean-RV	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Korean---Korean-RV	AIONIAN	Aionian	missing-verse	1	NOTICE
+Korean---Korean-RV	AIONIAN	Aionian	aionian-verses	263	NOTICE
+Korean---Korean-RV	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Korean---Korean-RV	UNPRINTABLE	Source	count	0	NOTICE
+Korean---Korean-RV	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Korean---Korean-RV	UNICODE	Summary	(-)Orginal	92	NOTICE
+Korean---Korean-RV	UNICODE	Summary	(+)Aionian	134	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (0)	16371	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (1)	38868	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (O)	23171	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (\t)	93381	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (에)	36340	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : ( )	436434	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (하)	58133	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (나)	22406	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (님)	4100	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (이)	60508	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (지)	19469	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (를)	18669	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (니)	22163	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (라)	30989	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (\r)	31127	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (\n)	31127	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (2)	28404	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (고)	18404	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (며)	7981	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (의)	25959	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (()	378	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : ())	378	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (은)	11073	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (수)	4996	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (3)	17182	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (가)	33861	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (사)	16308	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (대)	6761	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (4)	20027	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (그)	24907	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (기)	12428	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (았)	1145	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (어)	9610	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (누)	1129	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (5)	10056	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (저)	4633	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (되)	8686	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (아)	20923	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (는)	22172	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (6)	10478	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (게)	17594	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (리)	19732	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (7)	7387	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (8)	7790	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (9)	9307	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (한)	8223	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (다)	16053	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (와)	15792	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (무)	4116	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (광)	1027	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (야)	3122	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (여)	22502	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (루)	1498	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (성)	4935	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (서)	18042	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (,)	5527	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (우)	5908	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (스)	6540	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (르)	6103	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (너)	9449	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (희)	8692	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (히)	3414	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (거)	5419	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (없)	2178	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (적)	942	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (먹)	1084	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (손)	3729	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (앗)	483	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (유)	2144	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (말)	7166	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (처)	815	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (살)	2087	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (즉)	1026	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (같)	3204	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (속)	1939	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (견)	330	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (막)	810	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (림)	358	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (버)	1114	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (왕)	4286	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (송)	555	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (예)	3541	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (읍)	678	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (렘)	748	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (황)	318	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (넘)	214	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Hangul Syllables : (뢰)	155	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (.)	80	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : ([)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (])	11	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (:)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source(-)	Basic Latin : (N)	7956	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (0)	130251	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (1)	42280	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (\t)	124044	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (G)	2336	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (E)	10888	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (N)	3663	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (에)	36334	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : ( )	433797	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (하)	58120	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (나)	22403	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (님)	4098	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (이)	60496	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (지)	19462	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (를)	18666	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (니)	22161	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (라)	30984	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (\n)	31010	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (2)	31025	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (고)	18399	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (며)	7979	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (의)	25953	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (()	646	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : ())	645	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (은)	11071	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (수)	4994	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (3)	17127	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (가)	33854	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (사)	16307	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (대)	6760	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (4)	19998	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (그)	24906	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (기)	12422	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (았)	1144	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (어)	9606	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (누)	1128	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (5)	10239	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (저)	4632	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (되)	8685	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (아)	20920	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (는)	22164	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (6)	10713	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (게)	17592	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (리)	19729	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (7)	7428	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (8)	7830	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (9)	9251	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (한)	8222	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (다)	16051	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (와)	15791	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (무)	4114	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (광)	1026	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (야)	3119	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (여)	22500	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (루)	1496	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (성)	4934	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (서)	18041	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (,)	5535	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (우)	5907	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (스)	6538	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (르)	6099	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (너)	9443	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (희)	8690	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (히)	3412	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (거)	5416	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (없)	2177	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (적)	941	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (먹)	1082	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (손)	3727	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (앗)	481	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (유)	2142	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (말)	7162	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (처)	814	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (살)	2085	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (즉)	1025	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (같)	3201	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (속)	1937	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (견)	329	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (막)	809	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (림)	357	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (버)	1113	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (왕)	4282	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (송)	554	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (예)	3539	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (읍)	677	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (렘)	746	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (황)	317	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (넘)	212	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (S)	6415	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (h)	127	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (e)	96	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (o)	147	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (l)	68	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (X)	1212	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (O)	6674	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Hangul Syllables : (뢰)	153	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (L)	2576	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (V)	1263	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (.)	81	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (U)	3504	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (M)	4061	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : ([)	10	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (])	10	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (D)	1957	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (J)	4968	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (R)	4152	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (T)	2751	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (A)	9114	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (K)	2684	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (I)	3271	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (C)	4306	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (H)	4119	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (Z)	1817	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (B)	1450	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (P)	3844	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (n)	201	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (a)	199	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (g)	213	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (d)	16	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (s)	113	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (i)	246	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (t)	6	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (:)	2	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (u)	2	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (c)	2	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (k)	1	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (-)	1	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Korean---Korean-RV	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (0)	16371	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (1)	38868	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (O)	23171	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (\t)	93381	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (태)	272	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (초)	203	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (에)	36340	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : ( )	436434	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (하)	58133	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (나)	22406	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (님)	4100	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (이)	60508	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (천)	879	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (지)	19469	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (를)	18669	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (창)	348	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (조)	1046	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (시)	11841	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (니)	22163	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (라)	30989	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (!)	1803	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (\r)	31127	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (\n)	31127	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (2)	28404	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (땅)	2648	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (혼)	379	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돈)	193	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (고)	18404	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (공)	560	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (허)	416	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (며)	7981	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흑)	86	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (암)	937	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깊)	120	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (음)	3738	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (위)	3805	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (있)	4463	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (의)	25959	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (신)	4133	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (()	378	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (神)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : ())	378	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (은)	11073	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (수)	4996	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (면)	2430	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (운)	1759	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (행)	2757	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (3)	17182	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (가)	33861	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (사)	16308	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (대)	6761	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빛)	253	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (으)	12847	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (매)	2153	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (었)	2910	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (4)	20027	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (그)	24907	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (보)	5323	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (기)	12428	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (좋)	308	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (았)	1145	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (더)	5484	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (과)	9508	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (어)	9610	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (두)	2729	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (움)	560	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (을)	29224	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (누)	1129	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (5)	10056	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낮)	169	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (칭)	165	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밤)	291	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (저)	4633	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (녁)	113	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (되)	8686	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (아)	20923	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (침)	601	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (는)	22172	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (첫)	114	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (째)	340	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (날)	1764	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (6)	10478	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (물)	2947	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (데)	1960	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (궁)	378	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (로)	22017	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뉘)	112	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (게)	17594	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (리)	19732	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (7)	7387	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (만)	3302	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (드)	2260	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (래)	860	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (8)	7790	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (늘)	1475	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (둘)	545	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (9)	9307	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (한)	8223	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곳)	926	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (모)	5534	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뭍)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (러)	4029	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (인)	5247	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (바)	3816	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (다)	16053	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (풀)	390	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (씨)	94	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맺)	84	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (채)	289	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (소)	4130	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (와)	15792	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (각)	1359	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (종)	1603	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (류)	173	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (진)	1713	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (열)	1373	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (목)	1003	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (내)	13222	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (무)	4116	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (세)	3922	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (광)	1027	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (명)	2128	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (주)	6753	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (야)	3122	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (또)	2498	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (여)	22502	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (징)	138	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (일)	5753	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (자)	15297	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (연)	547	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (루)	1498	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (비)	2175	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (취)	914	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (큰)	676	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (관)	806	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (작)	361	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (별)	256	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (들)	16516	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (것)	9268	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (네)	5394	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (생)	1571	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (번)	653	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (성)	4935	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (케)	803	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (새)	1017	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (서)	18042	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (직)	861	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (든)	4223	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (,)	5527	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (개)	544	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (복)	1131	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (육)	558	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (충)	191	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (도)	10006	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (섯)	266	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (축)	551	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짐)	455	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (승)	396	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (우)	5908	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (형)	1065	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (상)	2524	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (따)	544	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (양)	1210	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (람)	6160	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (중)	2642	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (온)	1660	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (스)	6540	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곧)	1926	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (남)	1131	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (르)	6103	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (정)	1451	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (너)	9449	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (희)	8692	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (노)	2969	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (식)	1243	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (푸)	179	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (른)	794	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (심)	2294	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (히)	3414	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (던)	931	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곱)	673	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (때)	2420	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (마)	4236	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (치)	2792	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (므)	2171	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (안)	1839	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (거)	5419	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룩)	573	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (셨)	1819	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (호)	8480	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (된)	650	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (략)	161	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (경)	1076	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (할)	3526	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (없)	2178	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밭)	243	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (였)	4854	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (올)	919	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (적)	942	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흙)	97	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (코)	124	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (불)	1687	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넣)	120	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (령)	618	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (동)	1226	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (방)	1667	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덴)	26	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (산)	1456	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (설)	139	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (름)	1935	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (답)	850	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (먹)	1084	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (선)	1200	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (악)	1344	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (알)	1483	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (강)	766	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (발)	913	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (원)	2069	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (부)	3541	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (터)	837	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갈)	1038	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (져)	603	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (근)	360	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (손)	3729	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (금)	1125	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (윌)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렸)	307	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (요)	4604	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (베)	1114	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (델)	50	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엄)	143	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (구)	2941	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (힛)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겔)	167	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (앗)	483	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (편)	1028	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흐)	82	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (유)	2144	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (브)	1237	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끌)	388	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (키)	762	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (실)	1440	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (임)	1304	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (말)	7166	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (녕)	93	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (죽)	1820	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (독)	335	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (처)	815	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (못)	2599	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돕)	55	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (배)	1084	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (필)	109	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (담)	359	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (떻)	206	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짓)	342	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (려)	3571	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (컫)	41	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잠)	315	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빗)	198	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (살)	2087	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (오)	4166	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (`)	3199	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뼈)	106	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (즉)	1026	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (')	3977	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (떠)	761	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (합)	336	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (몸)	415	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룰)	25	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벌)	347	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벗)	230	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끄)	150	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (워)	1280	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뱀)	59	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (장)	3176	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (간)	757	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (교)	935	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (참)	337	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (냐)	2060	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (?)	1454	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (앙)	263	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (씀)	1592	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (까)	2253	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (느)	3834	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (결)	482	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (눈)	611	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밝)	69	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (같)	3204	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (줄)	856	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (본)	516	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (혜)	746	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (롭)	278	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (큼)	39	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (탐)	118	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (럽)	218	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (함)	4103	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (께)	7011	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (화)	736	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잎)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엮)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (듣)	740	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낯)	38	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (피)	995	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숨)	225	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (디)	733	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (셔)	58	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찌)	905	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렇)	232	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꾀)	87	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (욱)	133	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (받)	1762	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (토)	307	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (록)	574	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (후)	1497	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (머)	725	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꿈)	102	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잉)	72	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (통)	436	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (크)	400	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낳)	462	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (릴)	477	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덤)	91	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엉)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겅)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (퀴)	48	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낼)	78	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얼)	408	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굴)	444	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (땀)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흘)	219	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돌)	1865	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (속)	1939	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (입)	1251	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (미)	2029	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (됨)	130	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옷)	493	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (영)	1868	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쫓)	327	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룹)	135	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (염)	311	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (검)	64	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (길)	1155	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (득)	204	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벨)	540	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (농)	34	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (월)	271	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (난)	941	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (제)	4766	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (삼)	1419	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끼)	249	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (납)	143	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (분)	795	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (색)	261	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (변)	281	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찜)	58	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뇨)	361	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겠)	1119	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (죄)	1449	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (문)	1117	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엎)	316	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쳐)	531	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엇)	419	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (핏)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (효)	76	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (력)	267	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (견)	330	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딜)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뵈)	35	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옵)	429	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (될)	264	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (릇)	594	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (않)	674	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (칠)	610	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (표)	153	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (앞)	1728	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (놋)	146	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (녹)	84	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쌓)	157	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랏)	73	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엘)	4410	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멕)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (씰)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (막)	810	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (퉁)	53	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잡)	727	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (철)	173	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (카)	25	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (계)	1152	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (년)	747	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (십)	1424	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (셋)	399	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렀)	248	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (컬)	54	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (백)	2717	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팔)	486	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (녀)	553	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (향)	1310	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랄)	59	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렐)	60	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렛)	112	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (셀)	717	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (셈)	28	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벳)	89	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딸)	415	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (체)	435	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (당)	1603	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (림)	358	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (용)	400	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (획)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (항)	296	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뿐)	191	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (탄)	137	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쓸)	81	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (버)	1114	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (완)	100	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (전)	2460	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (패)	403	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (괴)	168	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (포)	789	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (혈)	59	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끝)	213	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멸)	786	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잣)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (역)	480	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (청)	510	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팎)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (규)	369	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옆)	32	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (층)	54	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (홍)	111	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (켜)	465	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (절)	571	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (언)	1103	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (약)	703	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쌍)	63	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (씩)	116	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (존)	237	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (준)	257	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (집)	1348	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갔)	292	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덮)	180	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (해)	760	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (달)	828	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (샘)	64	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쏟)	91	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (졌)	291	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닫)	178	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (많)	748	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랐)	79	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (녔)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (높)	404	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흡)	30	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (홀)	180	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (권)	502	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (념)	58	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (감)	616	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (점)	171	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (봉)	101	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (귀)	910	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (놓)	288	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (왕)	4286	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (접)	216	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (족)	1532	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찾)	338	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밀)	278	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (왔)	373	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (걷)	22	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (힌)	149	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뚜)	42	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (껑)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (혔)	131	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (단)	1421	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흠)	90	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (둠)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (추)	278	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겨)	395	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (울)	1181	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쉬)	106	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (붙)	431	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (웠)	189	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (반)	777	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (몰)	124	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (및)	144	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (증)	663	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (타)	616	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (억)	242	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (좇)	419	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (퍼)	127	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (업)	484	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밖)	182	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깨)	518	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (메)	386	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뒷)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (걸)	139	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (술)	367	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찬)	392	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (송)	555	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (예)	3541	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멜)	228	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곡)	321	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (섹)	74	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밧)	589	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깃)	128	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딤)	55	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닷)	132	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (붓)	52	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (삽)	114	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (롯)	175	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (특)	47	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (냥)	42	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (군)	899	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렉)	202	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갓)	215	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (레)	1712	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (웨)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (센)	34	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (건)	1002	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밈)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빔)	32	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (힘)	381	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (슬)	361	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갑)	89	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (블)	328	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헷)	67	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (왓)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맛)	135	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흩)	136	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돔)	177	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (출)	115	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (박)	428	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (삿)	25	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룻)	60	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (훌)	39	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (욕)	331	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렙)	75	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (웹)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (글)	166	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빌)	217	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밥)	29	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (국)	468	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옮)	144	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (평)	626	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벽)	213	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굽)	849	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꼭)	69	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닿)	35	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쳤)	229	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (란)	254	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (먼)	203	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (친)	582	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (척)	246	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (민)	807	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얻)	882	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겜)	79	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벧)	196	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (애)	924	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (볼)	180	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (컨)	177	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (재)	648	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (풍)	233	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (투)	119	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (골)	310	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (좌)	231	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넉)	30	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (택)	276	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (읍)	678	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (북)	176	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (티)	73	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (능)	688	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (횡)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헤)	360	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (론)	1070	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옥)	197	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (싸)	430	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (싯)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짜)	267	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (섬)	415	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맹)	421	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랴)	341	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엠)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엔)	21	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덩)	117	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빠)	122	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (망)	1070	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빼)	247	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넬)	108	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (습)	33	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (파)	1665	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겼)	122	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렘)	748	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덱)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (떡)	245	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (극)	177	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (품)	249	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (급)	114	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뭇)	47	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (믿)	608	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낸)	121	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쪼)	30	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갠)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (솔)	354	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (질)	420	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (캄)	60	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (객)	78	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (횃)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겐)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (몬)	585	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (락)	484	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (혹)	400	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (첩)	56	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옳)	95	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (판)	612	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (학)	166	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곁)	226	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찰)	77	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (린)	582	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (런)	438	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (례)	597	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (킬)	109	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끊)	241	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (웃)	263	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (삭)	266	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벤)	147	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (즈)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (앉)	398	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맞)	246	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (섰)	170	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (혀)	210	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (씻)	126	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쾌)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (활)	144	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (떼)	254	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뻐)	359	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뒤)	191	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (늙)	63	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쇠)	132	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낙)	110	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (왜)	17	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짖)	311	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (균)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (등)	192	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (탁)	64	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (병)	695	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (눕)	31	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (놈)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (법)	589	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (둡)	35	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곤)	219	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (외)	703	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (틀)	69	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (촉)	40	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렵)	90	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깝)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돋)	51	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (황)	318	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (둥)	235	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옹)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (튿)	74	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (압)	563	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (현)	91	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (몽)	38	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끗)	125	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (범)	444	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닭)	71	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (슨)	230	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뻔)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (료)	69	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (젖)	104	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (롱)	61	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (떨)	275	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (탕)	29	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쯤)	37	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쏘)	41	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (늑)	17	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (탈)	155	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (책)	269	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (험)	155	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랑)	780	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (환)	301	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멀)	142	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (칼)	434	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (펴)	163	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뿔)	102	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맏)	45	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랍)	70	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덟)	28	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (럇)	33	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (묘)	63	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뜻)	248	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (값)	96	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꾸)	176	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맡)	157	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밑)	67	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (났)	161	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꿇)	30	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (순)	201	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (땁)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (긷)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (묵)	80	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숙)	93	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짚)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (묻)	189	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꿰)	39	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꺼)	77	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (회)	831	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (욧)	25	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밉)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (촌)	128	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꼬)	105	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (붉)	43	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갖)	62	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (익)	183	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쑤)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팥)	20	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (김)	167	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흉)	99	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (율)	422	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (켰)	60	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (껴)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팠)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (툼)	42	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (봇)	97	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넓)	75	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (훗)	35	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잔)	254	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딧)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잘)	110	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (즐)	414	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (껏)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (털)	136	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끈)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닌)	47	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뜨)	182	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뜰)	151	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멍)	112	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (몇)	77	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잊)	125	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잃)	90	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (싫)	78	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쁘)	108	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닥)	88	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헬)	151	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뜯)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찼)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (총)	191	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멈)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (릎)	39	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쟁)	166	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (춤)	35	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쁜)	22	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맥)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (샀)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잇)	92	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (셉)	308	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (삯)	33	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (늬)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밸)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깎)	38	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (석)	448	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찢)	109	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (긴)	161	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (릅)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쓰)	224	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엣)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (차)	319	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (둔)	83	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넘)	214	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팡)	72	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넜)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옴)	55	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겁)	70	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (냄)	70	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (눠)	34	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (푼)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얍)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (널)	63	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (떤)	189	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (긋)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (릿)	22	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (련)	146	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (응)	203	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빙)	20	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (격)	116	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굿)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헴)	62	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얄)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (핫)	116	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맘)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딘)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (윗)	1132	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숫)	58	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뎃)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (논)	194	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꾼)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (묶)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빈)	105	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (싣)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굵)	51	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깍)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (휩)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (섭)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갇)	54	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (싹)	17	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꽃)	99	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (즙)	22	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (힐)	85	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흰)	31	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (킨)	36	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깬)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (듯)	100	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겹)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (놀)	213	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낫)	238	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (틈)	34	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엿)	41	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뭉)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (써)	140	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꿀)	65	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (착)	31	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갚)	177	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (핍)	146	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (궤)	319	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (욥)	81	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뵨)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (륙)	128	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뭅)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (훔)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (폐)	175	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팖)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뿌)	183	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (럼)	151	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얹)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끓)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렬)	69	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (웅)	26	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맬)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빨)	89	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쉴)	20	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (슴)	62	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뛰)	91	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (량)	169	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (컸)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닐)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (솜)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뻣)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벙)	26	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (퍅)	44	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (줍)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (립)	122	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벡)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덕)	53	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쌔)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뇌)	67	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (섞)	74	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꺽)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겸)	63	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (듬)	30	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맷)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (컷)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쓴)	48	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (삶)	60	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (띠)	130	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꺾)	76	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빕)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (믹)	29	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (콧)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (휴)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (줌)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깟)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닛)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빽)	26	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (댐)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쐬)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뢰)	155	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (슭)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (커)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (칙)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뚫)	26	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밴)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넷)	46	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낟)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (댄)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룬)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엽)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숭)	41	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (훼)	134	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낭)	50	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (테)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꿴)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (턱)	22	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꿸)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숟)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (똥)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (트)	66	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (폭)	67	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꼰)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흔)	110	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깥)	42	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쌀)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짠)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뚝)	38	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찧)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (휘)	30	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겉)	59	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짤)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (땋)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뼘)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쪽)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (젊)	61	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (씌)	32	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (콩)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뜬)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (귓)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (켤)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덜)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (액)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (듦)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헌)	33	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (프)	55	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (앎)	43	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (긍)	196	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (휼)	234	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헐)	81	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찍)	121	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (핀)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쌌)	28	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짰)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얇)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갱)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (.)	80	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멱)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (솥)	20	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (볶)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (썰)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닦)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꼐)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돼)	22	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쥐)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짱)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팟)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딱)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엷)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랜)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얕)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (확)	67	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빤)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (썹)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쇄)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (긁)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뱉)	17	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (탔)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (앓)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뽑)	137	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헛)	146	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밋)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쉼)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (줏)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멘)	74	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (껍)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랠)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짧)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (씹)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : ([)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (])	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (썩)	55	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (웝)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (홉)	39	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (클)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (放)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (縱)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잿)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (솟)	26	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헙)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (읊)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (좁)	17	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (흥)	17	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뼉)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뜸)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숩)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (눌)	20	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빻)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (률)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (측)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (봄)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (첨)	21	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곽)	21	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밟)	117	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (옛)	125	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룐)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (훈)	124	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (魚)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (族)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (혐)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (릍)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (캘)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굳)	124	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (늦)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (펼)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (댈)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (읽)	53	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (춰)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (先)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (人)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잴)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (톱)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (몫)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (붕)	30	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짝)	46	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딴)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넌)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멂)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (램)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뀌)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쁨)	101	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낡)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쑥)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (킴)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (윤)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쩍)	19	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (웬)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잤)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곰)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (롬)	112	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (졸)	26	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돗)	42	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넵)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랫)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (댜)	52	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얏)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (윳)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닙)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (윔)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헨)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넴)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (멧)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겝)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굼)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (훅)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깁)	10	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맨)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (퇴)	25	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덫)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (롤)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빅)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (왼)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깰)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (냇)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (핌)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (듭)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쿠)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (캐)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (핥)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엡)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찔)	29	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (몄)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (山)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (툰)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (툴)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (홰)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (칡)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (틴)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뺀)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (궐)	33	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쉰)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (픈)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뗀)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (훤)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (걱)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (괭)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벼)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (썼)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쏜)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (놉)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엑)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빚)	28	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벰)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꽂)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (볕)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쬘)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뽕)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (鹽)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (谷)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쏠)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (王)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (城)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (괘)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (掛)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (念)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숯)	26	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쭙)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쭈)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (前)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (倍)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (軍)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (長)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (報)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (픔)	31	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맵)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (本)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (每)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (둑)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (럴)	30	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (홋)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (땔)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (童)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (女)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (찐)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (띤)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (괄)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딥)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꼴)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맑)	13	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (켠)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얽)	15	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팀)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쩌)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깜)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (볍)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (슷)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (壇)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갛)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얌)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (욘)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뎀)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (印)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (믈)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뺨)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (中)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (男)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (色)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (붑)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (靈)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (感)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (콤)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (陣)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (촛)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돐)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (싼)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깔)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (젯)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (햇)	12	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (샤)	23	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룸)	28	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (떴)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헵)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잰)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (臺)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랸)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (姉)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (妹)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렌)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (먀)	18	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뱌)	31	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갸)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겟)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (릭)	16	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뺄)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (씸)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (띄)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (젓)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깐)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (隱)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (黴)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Compatibility Ideographs : (靈)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (맙)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (춘)	32	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (혁)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굄)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뼛)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (싱)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (잦)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (펄)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (벋)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (좀)	22	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닳)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (플)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뾰)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숴)	21	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뱃)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뭄)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (췸)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뻗)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쬐)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (웁)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뽐)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (푯)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (싶)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (푹)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렁)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낱)	14	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낚)	9	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (륭)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (륵)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (떪)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (힉)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (협)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (앨)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쭉)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (폈)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (팽)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (둣)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갯)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (딪)	20	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (풂)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (껄)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (윽)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (냉)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (놂)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쪄)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꾈)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (:)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쉽)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (돛)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넛)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (끔)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쁠)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (렷)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꼽)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (숱)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (깽)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (곬)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (섶)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뛸)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (폄)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (횟)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (낌)	7	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (튼)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (붊)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (땜)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (間)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겪)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뜩)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (췰)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쀼)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (랬)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뗄)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (최)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (헝)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (겊)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (샛)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (륜)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뢴)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (럭)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (덧)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (궈)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쌈)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굶)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뉠)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꼈)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (툇)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (엌)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (췌)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갤)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (밞)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빵)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (늣)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얗)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얘)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (넝)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쿨)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (띨)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (갊)	8	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (휙)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (굉)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룽)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Basic Latin : (N)	7956	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (켈)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (몹)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (짊)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (룟)	11	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뱅)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (럿)	6	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (궂)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (탉)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (융)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뻬)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (大)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (內)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (홑)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (쬠)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (黨)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Compatibility Ideographs : (禮)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (料)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (얀)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (냈)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (핑)	3	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (主)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (道)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (敎)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Compatibility Ideographs : (利)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뢸)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닉)	2	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (닻)	5	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (킷)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (權)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (肉)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (身)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (賞)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (節)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (制)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (多)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (數)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (末)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (世)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (鬼)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (歸)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (正)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (꽹)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (野)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (蠻)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (過)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (冬)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (功)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (效)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (門)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (薦)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (擧)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (書)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (儀)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (文)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (輕)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (重)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (害)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (有)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (餘)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (願)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (퍽)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (義)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (拙)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Compatibility Ideographs : (料)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (役)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (춥)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (自)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (高)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (標)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Compatibility Ideographs : (年)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (甲)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (者)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (擇)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (定)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (面)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (責)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (夢)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (學)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (經)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (綸)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (政)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (事)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (外)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (眷)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (屬)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (保)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	CJK Unified Ideographs : (養)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (킵)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (빎)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (좆)	1	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (귐)	4	NOTICE
+Korean---Korean-RV	UNICODE	Source	Hangul Syllables : (뿜)	1	NOTICE
+
+# VERSIFICATION
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-032	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-033	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-034	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-035	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-036	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-037	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-038	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-039	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-040	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-041	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-042	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-030-043	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	001-GEN-033-020	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	002-EXO-001-022	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	004-NUM-010-035	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	004-NUM-010-036	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	004-NUM-027-023	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	005-DEU-022-030	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	006-JOS-010-042	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	006-JOS-010-043	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	006-JOS-015-063	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	007-JDG-009-057	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	009-1SA-007-017	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	009-1SA-017-058	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	009-1SA-030-031	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	011-1KI-001-053	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	011-1KI-022-053	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	013-1CH-002-055	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	014-2CH-007-022	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	017-EST-004-015	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	017-EST-004-016	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	017-EST-004-017	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-008-009	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-016-010	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-016-011	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-036-012	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-038-021	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-038-022	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-072-020	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-075-010	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-080-019	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-092-014	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-092-015	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-104-035	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-010	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-011	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-012	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-013	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-014	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-015	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-016	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-017	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-018	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-019	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-020	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-021	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-022	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-023	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-024	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-025	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-026	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-027	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-028	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	019-PSA-118-029	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	020-PRO-010-031	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	020-PRO-010-032	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	020-PRO-011-031	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	020-PRO-013-025	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	021-ECC-005-020	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	023-ISA-013-022	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	023-ISA-032-020	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	023-ISA-037-037	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	023-ISA-037-038	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	024-JER-001-019	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	024-JER-051-064	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	024-JER-052-034	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	044-ACT-023-035	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-010	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-011	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-012	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-013	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-014	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-015	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-016	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-017	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	051-COL-004-018	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	055-2TI-004-012	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	060-1PE-002-024	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	060-1PE-002-025	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	060-1PE-003-021	WARN
+Korean---Korean-RV	VERSIFICATION	Aionian	missing	060-1PE-003-022	WARN
+Korean---Korean-RV	VERSIFICATION	Summary	missing	91	WARN
+Korean---Korean-RV	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Korean---Korean-RV	ENCLOSURES	Source	()	378 / 378	NOTICE
+Korean---Korean-RV	ENCLOSURES	Source	[]	11 / 11	NOTICE
+Korean---Korean-RV	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Korean---Korean-RV	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Korean---Korean-RV	ENCLOSURES	Aionian	()	646 / 645	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	[]	10 / 10	NOTICE
+Korean---Korean-RV	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Korean---Korean-RV	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	05O 2 21 (이곳도 르바임의 땅이라 하였었나니 전에 르바임이 거기 거하였었음이요 암몬 족속은 그들을 삼숨밈이라 일컬었었으며 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	05O 2 24 또 갑돌에서 나온 갑돌 사람이 가사까지 각 촌에 거하는 아위 사람을 멸하고 그들을 대신하여 거기 거하였었느니라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	05O 3 13 길르앗의 남은 땅과 옥의 나라이었던 아르곱 온 지방 곧 온 바산으로는 내가 므낫세 반 지파에게 주었노라 (바산을 옛적에는 [르바임]의 땅이라 칭하더니 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	05O 3 14 므낫세의 아들 야일이 그술 족속과, 마아갓 족속의 경계까지의 아르곱 온 지방을 취하고 자기의 이름으로 이 바산을 [하봇야일]이라 칭하여 오늘까지 이르느니라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	05O 29 16 (우리가 애굽 땅에 어떻게 거하였었는지 너희가 여러 나라를 어떻게 통과하여 왔었는지 너희가 알며 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	05O 29 17 너희가 또 그들 중에 있는 가증한 것과 목석과 은금의 우상을 보았느니라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	06O 12 8 곧 산지와, 평지와, 아라바와, 경사지와, 광야와, 남방 곧 헷 사람과, 아모리 사람과, 가나안 사람과, 브리스 사람과, 히위 사람과, 여부스사람의 땅이라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	07O 20 27 여호와께 물으니라 (그 때에는 하나님의 언약궤가 거기 있고 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	07O 20 28 아론의 손자 엘르아살의 아들 비느하스가 그 앞에 모셨더라) 이스라엘 자손이 묻자오되 `내가 다시 나가 나의 형제 베냐민 자손과 싸우리이까 말리이까' 여호와께서 가라사대 올라가라 내일은 내가 그를 네 손에 붙이리라 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	11O 10 11 (오빌에서부터 금을 실어 온 히람의 배들이 오빌에서 많은 백단목과 보석을 운반하여 오매 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	11O 10 12 왕이 백단목으로 여호와의 전과 왕궁의 난간을 만들고 또 노래하는 자를 위하여 수금과 비파를 만들었으니 이같은 백단목은 전에도 온일이 없었고 오늘까지도 보지 못하였더라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	13O 5 1 이스라엘의 장자 르우벤의 아들들은 이러하니라 (르우벤은 장자라도 그 아비의 침상을 더럽게 하였으므로 장자의 명분이 이스라엘의 아들 요셉의 자손에게로 돌아갔으나 족보에는 장자의 명분대로 기록할 것이 아니니라 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	13O 5 2 유다는 형제보다 뛰어나고 주권자가 유다로 말미암아 났을지라도 장자의 명분은 요셉에게 있으니라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	14O 9 10 (후람의 신복들과 솔로몬의 신복들도 도빌에서 금을 실어 올때에 백단목과 보석을 가져온지라 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	14O 9 11 왕이 백단목으로 여호와의 전과 왕궁의 층대를 만들고 또 노래하는 자를 위하여 수금과 비파를 만들었으니 이같은 것들은 유다 땅에서 전에는 보지 못하였더라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	17O 1 13 왕이 사례를 아는 박사들에게 묻되 (왕이 규례와 법률을 아는 자에게 묻는 전례가 있는데 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	17O 1 14 때에 왕에게 가까이 하여 왕의 기색을 살피며 나라 첫 자리에 앉은 자는 바사와 메대의 일곱 방백 곧 가르스나와, 세달과, 아드마다와, 다시스와, 메레스와, 마르스나와, 므무간이라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(2/1)	24O 33 11 하는 소리와 여호와의 집에 감사제를 드리는 자들의 소리가 다시 들리리니 이는 내가 이 땅의 포로로 돌아와서 처음과 같이 되게 할 것이니라 여호와의 말이니라 (33장 10절 내용의 계속임 (10절과 11절의 내용 같음) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	41N 7 3 (바리새인들과 모든 유대인들이 장로들의 유전을 지키어 손을 부지런히 씻지 않으면 먹지 아니하며 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	41N 16 9 (예수께서 안식 후 첫날 이른 아침에 살아나신 후 전에 일곱 귀신을 쫓아 내어 주신 막달라 마리아에게 먼저 보이시니 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	41N 16 20 제자들이 나가 두루 전파할새 주께서 함께 역사하사 그 따르는 표적으로 말씀을 확실히 증거하시니라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	43N 5 3 그 안에 많은 병자 소경 절뚝발이 혈기마른 자들이 누워 (물의 동함을 기다리니 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	43N 5 4 이는 천사가 가끔 못에 내려와 물을 동하게 하는데 동한 후에 먼저 들어가는 자는 어떤 병에 걸렸든지 낫게 됨이러라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	43N 7 53 (다 각각 집으로 돌아가고 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	43N 8 11 대답하되 `주여, 없나이다' 예수께서 가라사대 `나도 너를 정죄하지 아니하노니 가서 다시는 죄를 범치 말라 !' 하시니라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	44N 1 18 (이 사람이 불의의 삯으로 밭을 사고 후에 몸이 곤두박질하여 배가 터져 창자가 다 흘러 나온지라 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	44N 1 19 이 일이 예루살렘에 사는 모든 사람에게 알게 되어 본 방언에 그 밭을 이르되 아겔다마라 하니 이는 피밭이라는 뜻이라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(1/0)	45N 2 14 (율법 없는 이방인이 본성으로 율법의 일을 행할 때는 이 사람은 율법이 없어도 자기가 자기에게 율법이 되나니 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	45N 2 15 이런 이들은 그 양심이 증거가 되어 그 생각들이 서로 혹은 송사하며 혹은 변명하여 그 마음에 새긴 율법의 행위를 나타내느니라) 	WARN
+Korean---Korean-RV	ENCLOSURES	Source	(0/1)	66N 20 5 그 나머지 죽은 자들은 그 천 년이 차기까지 살지 못하더라) 이는 첫째 부활이라 	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (이곳도 르바임의 땅이라 하였었나니 전에 르바임이 거기 거하였었음이요 암몬 족속은 그들을 삼숨밈이라 일컬었었으며	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 또 갑돌에서 나온 갑돌 사람이 가사까지 각 촌에 거하는 아위 사람을 멸하고 그들을 대신하여 거기 거하였었느니라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 길르앗의 남은 땅과 옥의 나라이었던 아르곱 온 지방 곧 온 바산으로는 내가 므낫세 반 지파에게 주었노라 (바산을 옛적에는 [르바임]의 땅이라 칭하더니	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 므낫세의 아들 야일이 그술 족속과, 마아갓 족속의 경계까지의 아르곱 온 지방을 취하고 자기의 이름으로 이 바산을 [하봇야일]이라 칭하여 오늘까지 이르느니라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (우리가 애굽 땅에 어떻게 거하였었는지 너희가 여러 나라를 어떻게 통과하여 왔었는지 너희가 알며	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 너희가 또 그들 중에 있는 가증한 것과 목석과 은금의 우상을 보았느니라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	006 JOS 012 008 곧 산지와, 평지와, 아라바와, 경사지와, 광야와, 남방 곧 헷 사람과, 아모리 사람과, 가나안 사람과, 브리스 사람과, 히위 사람과, 여부스사람의 땅이라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 여호와께 물으니라 (그 때에는 하나님의 언약궤가 거기 있고	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 아론의 손자 엘르아살의 아들 비느하스가 그 앞에 모셨더라) 이스라엘 자손이 묻자오되 `내가 다시 나가 나의 형제 베냐민 자손과 싸우리이까 말리이까' 여호와께서 가라사대 올라가라 내일은 내가 그를 네 손에 붙이리라	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	011 1KI 010 011 (오빌에서부터 금을 실어 온 히람의 배들이 오빌에서 많은 백단목과 보석을 운반하여 오매	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	011 1KI 010 012 왕이 백단목으로 여호와의 전과 왕궁의 난간을 만들고 또 노래하는 자를 위하여 수금과 비파를 만들었으니 이같은 백단목은 전에도 온일이 없었고 오늘까지도 보지 못하였더라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 이스라엘의 장자 르우벤의 아들들은 이러하니라 (르우벤은 장자라도 그 아비의 침상을 더럽게 하였으므로 장자의 명분이 이스라엘의 아들 요셉의 자손에게로 돌아갔으나 족보에는 장자의 명분대로 기록할 것이 아니니라	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 유다는 형제보다 뛰어나고 주권자가 유다로 말미암아 났을지라도 장자의 명분은 요셉에게 있으니라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (후람의 신복들과 솔로몬의 신복들도 도빌에서 금을 실어 올때에 백단목과 보석을 가져온지라	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 왕이 백단목으로 여호와의 전과 왕궁의 층대를 만들고 또 노래하는 자를 위하여 수금과 비파를 만들었으니 이같은 것들은 유다 땅에서 전에는 보지 못하였더라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 왕이 사례를 아는 박사들에게 묻되 (왕이 규례와 법률을 아는 자에게 묻는 전례가 있는데	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 때에 왕에게 가까이 하여 왕의 기색을 살피며 나라 첫 자리에 앉은 자는 바사와 메대의 일곱 방백 곧 가르스나와, 세달과, 아드마다와, 다시스와, 메레스와, 마르스나와, 므무간이라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(2/1)	019 PSA 009 016 여호와께서 자기를 알게 하사 심판을 행하셨음이여 악인은 그 손으로 행한 일에 스스로 얽혔도다 (힉가욘. (셀라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(2/1)	024 JER 033 011 하는 소리와 여호와의 집에 감사제를 드리는 자들의 소리가 다시 들리리니 이는 내가 이 땅의 포로로 돌아와서 처음과 같이 되게 할 것이니라 여호와의 말이니라 (33장 10절 내용의 계속임 (10절과 11절의 내용 같음)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (바리새인들과 모든 유대인들이 장로들의 유전을 지키어 손을 부지런히 씻지 않으면 먹지 아니하며	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(2/1)	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) (예수께서 안식 후 첫날 이른 아침에 살아나신 후 전에 일곱 귀신을 쫓아 내어 주신 막달라 마리아에게 먼저 보이시니	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	041 MAR 016 020 제자들이 나가 두루 전파할새 주께서 함께 역사하사 그 따르는 표적으로 말씀을 확실히 증거하시니라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	043 JOH 005 003 그 안에 많은 병자 소경 절뚝발이 혈기마른 자들이 누워 (물의 동함을 기다리니	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	043 JOH 005 004 이는 천사가 가끔 못에 내려와 물을 동하게 하는데 동한 후에 먼저 들어가는 자는 어떤 병에 걸렸든지 낫게 됨이러라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	043 JOH 007 053 (다 각각 집으로 돌아가고	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	043 JOH 008 011 대답하되 `주여, 없나이다' 예수께서 가라사대 `나도 너를 정죄하지 아니하노니 가서 다시는 죄를 범치 말라!' 하시니라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (이 사람이 불의의 삯으로 밭을 사고 후에 몸이 곤두박질하여 배가 터져 창자가 다 흘러 나온지라	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 이 일이 예루살렘에 사는 모든 사람에게 알게 되어 본 방언에 그 밭을 이르되 아겔다마라 하니 이는 피밭이라는 뜻이라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(1/0)	045 ROM 002 014 (율법 없는 이방인이 본성으로 율법의 일을 행할 때는 이 사람은 율법이 없어도 자기가 자기에게 율법이 되나니	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 이런 이들은 그 양심이 증거가 되어 그 생각들이 서로 혹은 송사하며 혹은 변명하여 그 마음에 새긴 율법의 행위를 나타내느니라)	WARN
+Korean---Korean-RV	ENCLOSURES	Aionian	(0/1)	066 REV 020 005 그 나머지 죽은 자들은 그 천 년이 차기까지 살지 못하더라) 이는 첫째 부활이라	WARN
+Korean---Korean-RV	ENCLOSURES	Summary	lines	30 / 31	WARN
+
+# UNEXPECTED
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(`)	3199/3199	WARN
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Korean---Korean-RV	UNEXPECTED	Source/Aionian	Summary	3199/3199	WARN
+
+# NUMERALS
+Korean---Korean-RV	NUMERALS	Source	count	0	NOTICE
+Korean---Korean-RV	NUMERALS	Aionian	18	005-DEU-006-019 (18절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	4	005-DEU-015-005 (4절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	12	006-JOS-002-013 (12절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	12	013-1CH-016-013 (12절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	5	019-PSA-105-006 (5절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	8	023-ISA-007-009 (8절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	1	023-ISA-030-002 (1절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	1	023-ISA-048-002 (1절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	1	024-JER-021-002 (1절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	3	024-JER-032-004 너희가 갈대아인과 싸울지라도 승리치 못하리라 하셨다 하였더니 유다 왕 시드기야가 가로되 네가 어찌 이같이 예언하였느뇨 하고 그를 가두었음이었더라 (3절에서 이어짐)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	3	024-JER-032-005 (3절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	33	024-JER-033-011 하는 소리와 여호와의 집에 감사제를 드리는 자들의 소리가 다시 들리리니 이는 내가 이 땅의 포로로 돌아와서 처음과 같이 되게 할 것이니라 여호와의 말이니라 (33장 10절 내용의 계속임 (10절과 11절의 내용 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	4	026-EZE-024-005 (4절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	2	026-EZE-025-003 (2절과같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) (예수께서 안식 후 첫날 이른 아침에 살아나신 후 전에 일곱 귀신을 쫓아 내어 주신 막달라 마리아에게 먼저 보이시니	WARN
+Korean---Korean-RV	NUMERALS	Aionian	25	044-ACT-015-026 (25 절과 같음)	WARN
+Korean---Korean-RV	NUMERALS	Aionian	1	045-ROM-009-002 (1절과 같음)	ERROR
+Korean---Korean-RV	NUMERALS	Aionian	count	17	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

@@ -1,0 +1,876 @@
+# File Name: Holy-Bible---Holy-Bible---Baga-Sitemu---Baga-Sitemu-Bible---Analysis.txt
+# File Size: 137655      
+# File Date: 12/13/2025 05:11:14
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Kitabu ka Kanu
+# Bible Name English: Baga Sitemu Bible
+# Bible Language: Barka Sitemu
+# Bible Language English: Baga Sitemu
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Pioneer Bible Translators
+# Bible Source Version: 12/12/2025
+# Bible Source Link: https://ebible.org/details.php?id=bsp
+# Bible Source Year: 2015
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Baga-Sitemu---Baga-Sitemu-Bible	ENCODING	Source	Holy-Bible---Baga-Sitemu---Baga-Sitemu-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	ENCODING	Aionian	Holy-Bible---Baga-Sitemu---Baga-Sitemu-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Baga-Sitemu---Baga-Sitemu-Bible	BYTES	Source	bytes / chars	1664893 / 1404201 (multi-byte)	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	BYTES	Aionian	bytes / chars	1734307 / 1473555 (multi-byte)	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	BYTES	SourceClean	bytes / chars	1664060 / 1403368 (multi-byte)	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	BYTES	AionianClean	bytes / chars	1732568 / 1471827 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Baga-Sitemu---Baga-Sitemu-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	AIONIAN	Aionian	book-defined-not-exist	198	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	AIONIAN	Aionian	aionian-verses	66	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Baga-Sitemu---Baga-Sitemu-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Summary	(-)Orginal	52	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Summary	(+)Aionian	54	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (G)	1600	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (N)	5317	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : ( )	238707	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (1)	9138	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (:)	14395	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (k)	78787	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (c)	24212	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (o)	30072	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (p)	21983	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (,)	19539	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (a)	108148	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (n)	64219	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (u)	30151	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (r)	34734	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (m)	52026	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (t)	35710	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (.)	13138	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (\n)	10717	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (2)	7654	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (T)	3724	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (y)	25306	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (e)	32293	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (i)	32438	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (b)	17598	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (M)	9929	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (A)	8390	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (s)	33514	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (d)	27734	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (3)	4830	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (l)	24611	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (4)	3477	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (g)	2998	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (5)	2606	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (-)	4579	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (6)	2229	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (7)	2115	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (8)	1939	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (9)	1890	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (0)	2465	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (S)	2446	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (R)	3530	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (H)	615	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (h)	1574	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (C)	1368	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (()	504	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : ())	504	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (O)	2074	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (U)	3478	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (J)	899	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : ([)	8	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (])	8	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source(-)	Basic Latin : (*)	3	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	47878	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	11209	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	42836	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	1612	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	5316	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	78788	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	24214	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	30104	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	21984	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	19538	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	216927	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	108214	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	64291	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	30153	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	34738	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	52028	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	35715	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	13011	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	10708	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	10001	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	3723	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	25307	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	32331	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	32505	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	17600	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	9922	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	8385	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	33547	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	27743	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	5607	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	24622	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	3680	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	9559	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	3060	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	3584	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	4575	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	3061	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	2050	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	2023	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	1984	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	2453	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	3526	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	621	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	1589	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	1369	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (()	93	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : ())	93	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	2073	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3477	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	898	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : ([)	5	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Basic Latin : (])	3	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	6	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	43	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (G)	1600	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (E)	5110	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (N)	5317	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : ( )	238707	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (1)	9138	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (:)	14395	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (D)	1717	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	IPA Extensions : (ə)	71203	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (k)	78787	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (c)	24212	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (o)	30072	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (p)	21983	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (,)	19539	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	IPA Extensions : (ɔ)	76954	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (K)	13300	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (a)	108148	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (n)	64219	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (u)	30151	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (w)	17638	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (r)	34734	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	IPA Extensions : (ɛ)	65487	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (m)	52026	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (')	5526	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (t)	35710	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (f)	18190	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (.)	13138	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (\n)	10717	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (2)	7654	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (T)	3724	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Latin Extended-A : (ŋ)	38990	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (y)	25306	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (e)	32293	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (i)	32438	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (b)	17598	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (M)	9929	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (A)	8390	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (s)	33514	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (d)	27734	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (3)	4830	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (l)	24611	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Latin-1 Supplement: («)	2646	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (P)	1301	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (!)	1183	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Latin-1 Supplement: (»)	2612	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (4)	3477	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (g)	2998	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (5)	2606	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (-)	4579	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (6)	2229	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (7)	2115	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (8)	1939	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (9)	1890	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (0)	2465	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (Y)	4223	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (B)	952	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (I)	5979	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (S)	2446	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (R)	3530	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (H)	615	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (h)	1574	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Latin Extended-B : (Ɛ)	116	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (W)	910	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Latin Extended-A : (Ŋ)	369	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (?)	869	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	General Punctuation : (‹)	551	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	General Punctuation : (›)	545	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (C)	1368	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (L)	2463	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (()	504	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : ())	504	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (F)	459	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (O)	2074	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (U)	3478	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	General Punctuation : (’)	33	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Latin Extended-B : (Ɔ)	39	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (V)	858	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (J)	899	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : ([)	8	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (])	8	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	Basic Latin : (*)	3	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNICODE	Source	General Punctuation : (—)	9	NOTICE
+
+# VERSIFICATION
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	003-LEV-024-011	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-018	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-019	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-020	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-021	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-022	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-023	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-024	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-025	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-026	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-027	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-028	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-029	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-030	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-031	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-032	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-033	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-034	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	005-DEU-019-003	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	040-MAT-017-021	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-009	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Summary	missing	33	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	()	504 / 504	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	[]	8 / 8	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Aionian	()	93 / 93	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Aionian	[]	5 / 3	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	[1/0]	MAT 17:20 Kɔ Yesu oloku ŋa: «Bawo kəlaŋ konu kəmpicɛ. Kance, icloku nu, kɔ kəlaŋ konu kəyi pəmɔ tɛŋgbɛn tɛfɛt-ɛ, nəŋloku tɔrɔ tantɛ: ‹Məcepɛ nnɔ, məkɔ nde,› pencepɛ di. Tes o tes tɔfɔyi ntɛ nəntɔtam mɔ.» [	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	[0/1]	MAT 17:21 ]	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	[1/0]	MAT 23:13 «Pəlɛc peyi nu nəna atəksɛ sariyɛ s'aSuyif kɔ aFarisi, nəna abaŋɛnɛ kəlomp, nəŋgbətər afum kumba ka dɛbɛ da dəkɔm, nəna nəfɔbɛrɛ, nəwosɛ fɛ sɔ akɔ ŋafaŋ kəbɛrɛ mɔ ŋabɛrɛ. [	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	[0/1]	MAT 23:14 ]	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	[1/0]	MAR 16:9 [Ntɛ Yesu ɔfɔtɛ defi mɔ, bətbət ba tataka tɔcɔkɔ-cɔkɔ ta tataka toluksər, k'owurər kərɛsna Mari wəka Makdala, wəkɔ Yesu ɛnabɛləs yɔŋk yɛlɛc camət-mɛrəŋ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Source	[0/1]	MAR 16:19 Mariki Yesu, ntɛ elip kəlok-lokər ŋa mɔ, k'ampɛnɛ kɔ dəKɔm, k'ɔŋkɔ pəndɛ Kanu kəsək.]	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 017 020 Kɔ Yesu oloku ŋa: «Bawo kəlaŋ konu kəmpicɛ. Kance, icloku nu, kɔ kəlaŋ konu kəyi pəmɔ tɛŋgbɛn tɛfɛt-ɛ, nəŋloku tɔrɔ tantɛ: ‹Məcepɛ nnɔ, məkɔ nde,› pencepɛ di. Tes o tes tɔfɔyi ntɛ nəntɔtam mɔ.» [	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Aionian	[1/0]	040 MAT 023 013 «Pəlɛc peyi nu nəna atəksɛ sariyɛ s'aSuyif kɔ aFarisi, nəna abaŋɛnɛ kəlomp, nəŋgbətər afum kumba ka dɛbɛ da dəkɔm, nəna nəfɔbɛrɛ, nəwosɛ fɛ sɔ akɔ ŋafaŋ kəbɛrɛ mɔ ŋabɛrɛ. [	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Ntɛ Yesu ɔfɔtɛ defi mɔ, bətbət ba tataka tɔcɔkɔ-cɔkɔ ta tataka toluksər, k'owurər kərɛsna Mari wəka Makdala, wəkɔ Yesu ɛnabɛləs yɔŋk yɛlɛc camət-mɛrəŋ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 019 Mariki Yesu, ntɛ elip kəlok-lokər ŋa mɔ, k'ampɛnɛ kɔ dəKɔm, k'ɔŋkɔ pəndɛ Kanu kəsək.]	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	ENCLOSURES	Summary	lines	6 / 4	WARN
+
+# UNEXPECTED
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(*)	3/0	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Baga-Sitemu---Baga-Sitemu-Bible	UNEXPECTED	Source/Aionian	Summary	3/0	WARN
+
+# NUMERALS
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 4:24 Kɔ pəyɔnɛ padif afum camət-mɛrəŋ kəluksɛ ayɛk ŋa Kayin-ɛ, andedif afum 77, a pacluksɛ ayɛk ŋa Lɛmɛk.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:3 Adama endesɔtɔ meren 130, k'ɔsɔtɔ wan wəwurɛnɛ kɔ nkɔn, pəmɔ tɔkɔ eyi mɔ, k'ɔsɔŋ kɔ tewe ta Sɛt.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:4 Ntɛ Adama oŋkom Sɛt mɔ, k'eyi sɔ doru meren 800, mmɛ ɛnasɔtɔ sɔ awut arkun k'awut aran mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:5 Kəwon ka Adama doru kənasɔtɔ meren 930, a k'endefi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 5:6 Sɛt ɛnasɔtɔ meren 105, a k'endekom Enɔs.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 5:7 Ntɛ Sɛt oŋkom Enɔs mɔ, k'eyi sɔ doru meren 807, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	GEN 5:8 Kəwon ka Sɛt doru kənasɔtɔ meren 912, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:9 Enɔs ɛnasɔtɔ meren 90 a pədekom Kenaŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 5:10 Ntɛ Enɔs oŋkom Kenaŋ mɔ, k'eyi sɔ doru meren 815, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 5:11 Kəwon ka Enɔs doru fəp kənasɔtɔ meren 905, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:12 Kɔ Kenaŋ ɔsɔtɔ meren 70 a k'endekom Mahalalel.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:13 Ntɛ oŋkom Mahalalel mɔ, kɔ Kenaŋ eyi sɔ doru meren 840, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:14 Kəwon ka Kenaŋ doru fəp kənasɔtɔ meren 910, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 5:15 Mahalalel ɛnasɔtɔ meren 65 a k'endekom Yɛrɛdu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:16 Ntɛ Mahalalel oŋkom Yɛrɛdu mɔ, k'eyi sɔ doru meren 830, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 5:17 Kəwon ka Mahalalel doru fəp, kənasɔtɔ meren 895, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	GEN 5:18 Yɛrɛdu ɛnasɔtɔ meren 162 a k'endekom Henok.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:19 Ntɛ Yɛrɛdu oŋkom Henok mɔ, k'eyi sɔ doru meren 800, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	GEN 5:20 Kəwon ka Yɛrɛdu doru fəp kənasɔtɔ meren 962, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 5:21 Henok ɛnasɔtɔ meren 65 a k'endekom Metusela.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:22 Ntɛ Henok oŋkom Metusela mɔ, k'ɔsɔtɔ sɔ meren 300 ŋasol kɔ Kanu. K'oŋkom sɔ awut arkun k'aran alɔma.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 5:23 Kəwon ka Henok doru fəp kənasɔtɔ meren 365.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 5:25 Metusela ɛnasɔtɔ meren 187 a k'endekom Lɛmɛk.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	GEN 5:26 Ntɛ Metusela oŋkom Lɛmɛk mɔ, k'ɔsɔtɔ sɔ meren 782, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	GEN 5:27 Kəwon ka Metusela doru kənasɔtɔ meren 969, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	GEN 5:28 Lɛmɛk ɛnasɔtɔ meren 182 a k'endekom wan wərkun.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 5:30 Ntɛ Lɛmɛk oŋkom Nuha mɔ, k'eyi sɔ doru meren 595. K'oŋkom sɔ awut arkun k'awut aran alɔma.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 5:31 Kəwon ka Lɛmɛk doru fəp kənasɔtɔ meren 777, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 5:32 Nuha ɛnasɔtɔ meren 500 a k'endekom Sem, Ham, kɔ Yafɛt.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 6:3 Kɔ MARIKI oloku: «Ifaŋ fɛ kəsak afum ŋayinɛ kifir kəyinɛ doru nkɛ inasɔŋ ŋa mɔ, bawo fum sɛm dəm yɔ. Kəyi kɔn doru kəfɔde kəccepər sɔ meren 120.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	GEN 6:15 Ntɛ tɔ məndecaŋ ŋi: Ŋɔbɔl cururu 300 (mɛtər 137), ŋɔwɔkəl cururu 50 (mɛtər 23), ŋotukmɛ cururu 30 (mɛtər 14).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 7:4 Pəncəmɛ mata camət-mɛrəŋ, itorɛ wəcafən mata 40 kɔ pibi 40 camcam. Tɛm tatɔkɔ indefɛŋ nnɔ doru afum aŋɛ inasɛl mɔ fəp.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 7:6 Nuha ɛnasɔtɔ meren 600 a kɔ domun dendekal antɔf.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 7:11 Kəren nkɛ Nuha ɔsɔtɔ meren 600, tataka ta wəco kɔ camət-mɛrəŋ, ŋof ŋa mɛrəŋ disrɛ, kɔ domun dombuncɛ dəcəŋgbɔkɔ fəp, kɔ kɔm kəŋgbitɛ pəpɔŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 7:12 Kɔ wəcafən oncop kətuf mata 40 kɔ pibi 40.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 7:17 Kɔ domun dɛmbaŋ antɔf mata 40, ntɛ domun dɛmpɛ mɔ, k'abil ŋofoy.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 7:24 Domun dɛnabaŋ antɔf haŋ mataka 150.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 8:3 Kɔ domun dembelɛ antɔf kəroŋ tepic tepic. Mata 150 disrɛ, kɔ domun dɛncɛsɛ dəntɔf.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 8:4 Tataka ta wəco kɔ camət-mɛrəŋ (17), ŋof ŋa camət-mɛrəŋ, k'abil ŋɛndɛ tɔrɔ tin ta Ararat kəroŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 8:6 Tataka ta 40, kɔ Nuha eŋgbiti wundɛr nwɛ ɛnabɛr abil mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	1	GEN 8:13 Tataka tɔcɔkɔ-cɔkɔ ta ŋof ŋɔcɔkɔ-cɔkɔ nŋɛ Nuha ɔsɔtɔ meren 601, ti tɔ domun dɛnasak antɔf. Kɔ Nuha eŋgbipi abil, k'ɔmɔmən doru. K'ɛnəŋk a domun fəp dowosər.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 8:14 Tataka ta wəco mɛrəŋ kɔ camət mɛrəŋ (27), ŋof ŋɔcɔkɔ-cɔkɔ ŋayi, antɔf fəp ŋɛnawos fər.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 9:28 Kɔ Nuha eyi sɔ doru meren 350, ntɛ domun dɛlarəm dencepər mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 9:29 Kəwon ka Nuha doru fəp, kənasɔtɔ meren 950, a k'endefi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 11:10 Tecepərɛnɛ ta Sem tɛntɛ: Sem ɛnasɔtɔ meren 100, a pədekom Arpaksad, teren ta mɛrəŋ ntɛ domun dɛnasak antɔf mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 11:11 Kəkom ka Arpaksad, kɔ Sem eyi sɔ doru meren 500, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 11:12 Arpaksad ɛnasɔtɔ meren 35, a pədekom Sɛlah.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	GEN 11:13 Kəkom ka Sɛlah, Arpaksad ɛnasɔtɔ sɔ meren 403, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 11:14 Sɛlah ɛnasɔtɔ meren 30, a pədekom Hebɛr.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	GEN 11:15 Kəkom ka Hebɛr, Sɛlah ɛnasɔtɔ sɔ meren 403, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	GEN 11:16 Kɔ Hebɛr ɔsɔtɔ meren 34, a pədekom Pɛlɛk.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 11:17 Kəkom ka Pɛlɛk, Hebɛr ɛnasɔtɔ sɔ meren 430, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 11:18 Pɛlɛk ɛnasɔtɔ meren 30, a pədekom Rehu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	GEN 11:19 Kəkom ka Rehu, Pɛlɛk ɛnasɔtɔ sɔ meren 209, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	GEN 11:20 Rehu ɛnasɔtɔ meren 32, a pədekom Seruk.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 11:21 Kəkom ka Seruk, Rehu ɛnasɔtɔ sɔ meren 207, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 11:22 Seruk ɛnasɔtɔ meren 30, a pədekom Nahor.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 11:23 Kəkom ka Nahor, Seruk ɛnasɔtɔ sɔ meren 200, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	GEN 11:24 Nahor ɛnasɔtɔ meren 29 a pədekom Terah.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	GEN 11:25 Kəkom ka Terah, Nahor ɛnasɔtɔ sɔ meren 119, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 11:26 Terah ɛnasɔtɔ meren 70, a pədekom Abram, Nahor kɔ Haraŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 11:32 Terah ɛnawon doru meren 205, a k'endefi dəndo atɔf ŋa Haraŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 12:4 K'Abram owur Haraŋ pəmɔ tɔkɔ MARIKI ɛnaloku kɔ ti mɔ, kɔ Lɔt ɛncɛpsɛ kɔ darəŋ. Tɛnatəŋnɛ Abram pəsɔtɔ meren 75.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	8	GEN 14:14 Ntɛ Abram ene kəsumpər ka wan ka wəbek'ɔn mɔ, k'oloŋka asol ɔn afum 318 aŋɛ ŋanabaŋsɛ, akomɛnɛ ɔn dacɔ mɔ. K'ɛncɛpsɛ abɛ aŋɛ ŋanasumpər wan ka wəbek'ɔn darəŋ haŋ dare da Dan.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 15:13 Kɔ Kanu kəloku Abram: «Məcərɛ a yuruya yam yendeyɔnɛ acikəra atɔf ŋocuru nŋɛ ŋɔntɔyɔnɛ ŋaŋan mɔ. Ŋandekɔyɔnɛ di acar, andekɔtɔrəs ŋa di haŋ meren 400.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	GEN 16:16 Abram ɛnasɔtɔ meren 86 tɛm ntɛ Hakar onckomɛ kɔ Səmayila mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	GEN 17:1 Ntɛ Abram ɔsɔtɔ meren 99 mɔ, kɔ MARIKI owurər kɔ, pəcloku kɔ: «In'ɔyɔnɛ Kanu nkɛ kəntam mes ma doru fəp mɔ, məkɔt fɔr yem kiriŋ, məcəmɛ pəlompu darəŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 17:17 Kɔ Abraham ɛncəp kəro dəntɔf kəsel, k'olokunɛ dɛbəkəc: «Wərkun wəka meren 100 ɛntam kəkom ba? Kɔ Sara ɔsɔtɔ meren 90 endekom ba?»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	GEN 17:24 Abraham ɛnasɔtɔ meren 99 a k'andekənc kɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 18:24 Tɔlɔma afum atɔt wəco kəcamət (50) ŋayi afum aka dare dadɔkɔ dacɔ, məndekɔləsər sɔ dare dadɔkɔ ba? Məfɔtam kəŋaŋnɛnɛ ŋa teta afum alompu akaŋɛ wəco kəcamət (50) aŋɛ ŋayi ŋa dacɔ mɔ?»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 18:26 Kɔ MARIKI oloku: «K'imbəp nde dare da Sodom disrɛ afum alompu wəco kəcamət-ɛ (50), iŋaŋnɛnɛ alpəs akɔ tetaŋan.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 18:28 Tɔlɔma afum alompu akaŋɛ wəco kəcamət (50) ŋandekɔbut afum kəcamət paləsər oŋ dare fəp ba?» Kɔ Kanu kəloku: «Ifɔləsər di k'imbəp di afum alompu wəco maŋkəlɛ kɔ kəcamət-ɛ (45).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 18:29 Kɔ Abraham ɛncəmɛ kɔ darəŋ kəloku kɔ toloku ntɛ: «Tɔlɔma alompu wəco maŋkəlɛ (40) ŋ'andekɔbəp di?» Kɔ Kanu kəloku: «Ifɔləsər, k'imbəp di alompu wəco maŋkəlɛ-ɛ (40).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 18:30 Kɔ Abraham oloku: «Ilɔktərn'am, Mariki Kanu! Ta pətɛl'am k'ilok-loku sɔ-ɛ! Tɔlɔma alompu wəco maas (30) ŋ'andekɔbəp di?» Kɔ Kanu kəloku Abraham: «Ifɔləsər di k'imbəp dɔtɔf afum alompu wəco maas-ɛ (30).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 18:31 Kɔ Abraham oloku: «Mariki Kanu, məŋaŋnɛnɛ mɔcɔp mem. Tɔlɔma alompu wəco mɛrəŋ (20) ŋ'andekɔbəp di?» Kɔ Kanu kəloku Abraham: «Ifɔləsər di teta afum akakɔ wəco mɛrəŋ (20).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 21:5 Abraham ɛnasɔtɔ meren tasar tin (100), ntɛ anckom wan kɔn Siyaka mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 23:1 Kəwon ka Sara doru kənasɔtɔ meren tasar tin wəco mɛrəŋ kɔ camət-mɛrəŋ (127), meren mamɔkɔ mɔ Sara ɛnasɔtɔ doru.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 23:15 «Mariki mem, məcəŋkəl im! Antɔf ŋa gbeti mɛncəmbəl masar maŋkəlɛ (400), ake babɔkɔ bɔyɔnɛ ina kɔ məna dacɔ-ɛ? Məwup di wəran kam!»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 23:16 Ntɛ Abraham ene moloku ma Hɛfəroŋ mɔ, k'ɔsɔŋ kɔ gbeti mbɛ ɛnabonc mɔ, gbeti mɛncəmbəl masar maŋkəlɛ (400), fɔr ya aHewy kiriŋ. Gbeti mɛncəmbəl masar maŋkəlɛ (400) babɔkɔ, bɛnayɔnɛ hakɛ ŋa kəway ka antɔf ŋaŋɔkɔ tɛm tatɔkɔ nnɔ acaməs ŋayi mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	GEN 25:7 Kəwon ka Abraham doru kənasɔtɔ meren tasar tin wəco camət mɛrəŋ kɔ kəcamət (175).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 25:17 Kəyi ka Səmayila doru kənawon meren tasar tin wəco maas kɔ camət mɛrəŋ (137). K'ontorɛ kifir, k'ɔnɔŋkəl atem ɔn akɔ ŋanafi mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 25:20 Siyaka ɛnasɔtɔ meren wəco maŋkəlɛ (40) a k'endenɛncɛ Rebeka, wan wəran wəka Betuhɛl wəka Aram wəka Padaŋ-Aram, wəkirɛ ka Labaŋ wəka Aram.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 25:26 Kɔ tencepər, kɔ wəka mɛrəŋ ender pəsumpər atek ŋa wəcɔkɔ-cɔkɔ. K'awe wəkakɔ Yakuba. Siyaka pəsɔtɔ tɛm tatɔkɔ oŋ meren wəco camət tin (60) a k'andekomɛ kɔ awut akaŋɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 26:12 Kɔ Siyaka ɔmbɔf kəren kaŋkɔ dɔtɔf k'ɛntɛl tasar tin (100) ta tɔkɔ ɛnabɔf mɔ, bawo MARIKI ɛnapocɛ kɔ pətɔt.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 26:34 Esayu kəsɔtɔ kɔn meren wəco maŋkəlɛ (40), k'ɛlɛk aran aHewy, pacwe ŋa Sudit wan ka Beri kɔ Basmat wan ka Elɔn.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 32:7 K'asom ŋaluksərnɛ nnɔ Yakuba eyi mɔ, kɔ ŋaloku kɔ: «Səŋkɔ nda wɛnc əm Esayu, nkɔn sɔ kəlompəsnɛ k'ɛndɛ kədebəp əm, kɔ afum 400.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 32:15 Cir masar mɛrəŋ (200), mbiyofo wəco mɛrəŋ (20), ŋkesiya yɛran masar mɛrəŋ (200) kɔ yorkun wəco mɛrəŋ (20),	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 32:16 kɔ yɔkɔmɛ yɛran wəco maas (30) kɔ awut ayi akɔ yɛncmɛsər mɔ, cəna cəran wəco maŋkəlɛ (40), mura wəco (10), sɔfale səran wəco mɛrəŋ (20) kɔ sərkun wəco (10).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 33:1 Kɔ Yakuba eyekti kəro k'ɛnəŋk Esayu pəcder pəsɔlɛ afum tasar tin (100). Kɔ Yakuba eyer awut Leya, Rasɛl, kɔ acar aŋɛ mɛrəŋ dacɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 33:19 K'ɛway awut a Hamɔr arkun dəwaca, papa ka Səkɛm, tofokəl ta antɔf nde ɛnacəmbər abal mɔ. Ɛnaway di mɛncəmbəl tasar tin (100).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 35:28 Kəwon ka Siyaka doru kənasɔtɔ meren tasar tin kɔ wəco camət maas (180).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 41:46 Isifu ɛnasɔtɔ meren wəco maas (30) a Firawona pədecərɛ kɔ. Ntɛ ancəmbər kɔ dɛbɛ mɔ, fɔr ya Firawona kiriŋ yɔ Isifu ɛnawur kəkɔcərɛ atɔf ŋa Misira fəp.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 45:22 Kɔ Isifu ompocɛ awɛnc aŋa fəp yamos yɛsəkpərɛ k'ɔsɔŋ Beŋyamin gbeti mɛncəmbəl masar maas (300) kɔ yamos kəcamət yɛsəkpərɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	GEN 46:15 Awut akaŋɛ ŋɔ Leya ɛnakomɛ Yakuba nde Padaŋ-Aram, mba wan kɔn wəran Dina eyi fɛ ti. Kəlɛk awut ɔn aran haŋ arkun, ŋanakɔ afum wəco maas (33).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	GEN 46:18 Awut a Silpa wəmarəs nwɛ Labaŋ ɛnasɔŋ wan kɔn wəran Leya mɔ, ŋɔ akakɔ aŋɛ ɛnakomɛ Yakuba mɔ. Ŋanayi afum wəco kɔ camət-tin (16).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	GEN 46:22 Yuruya yayɛ yɔ Rasɛl ɛnasɔtɔnɛ nkɔn Yakuba, ŋanayi afum wəco kɔ maŋkəlɛ (14).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	GEN 46:26 Afum aŋɛ ŋanacɛpsɛ Yakuba kəkɔ ka Misira mɔ, ŋanayi afum wəco camət tin kɔ camət tin (66) aŋɛ ŋanayɔnɛ akom ɔn mɔ, alɔm fɛ aran a awut ɔn arkun de.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 46:27 Awut a Isifu aŋɛ ɛnakom Misira mɔ: Ŋanayi awut mɛrəŋ. Afum a Yakuba aŋɛ ŋanacəpsɛ kɔ darəŋ kəkɔ ka Misira mɔ, ŋanayi fəp faŋan afum wəco camət mɛrəŋ (70).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 47:9 Kɔ Yakuba oloku kɔ: «Meren mmɛ isɔtɔ kəcepɛ-cepɛ disrɛ mɔ, mɛmbəp meren tasar tin kɔ wəco maas (130), kiyi kem doru kəncepər katəna katəna. Incepərɛnɛ meren meyeŋki kiyi kem doru. Intasɔtɔ fɛ meren mmɛ akombəra em ŋanasɔtɔ mɔ, mba tecepərɛnɛ doru tin tayi tɔ səncepərɛnɛ doru.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	GEN 47:28 Kɔ Yakuba eyi doru meren wəco kɔ camət-mɛrəŋ (17) atɔf ŋa Misira. Kəwon ka Yakuba doru fəp kənasɔtɔ meren tasar tin wəco maŋkəlɛ kɔ camət mɛrəŋ (147).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 50:3 Kɔ tɔŋkɔ mata wəco maŋkəlɛ (40). Tɛm tatɔkɔ mataka mamɔkɔ m'ancsop afi acɔl ŋa kətɔte ŋaŋɔkɔ, kɔ aMisira ŋambok kɔ mata wəco camət mɛrəŋ (70).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 50:22 Kɔ Isifu ɛndɛ Misira nkɔn kɔ afum ɔn. K'eyi doru meren tasar tin kɔ wəco (110).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	GEN 50:26 Kɔ Isifu efi pəsɔtɔ meren tasar tin kɔ wəco (110). K'asop kɔ acɔl nŋɛ ŋɔŋsɔŋɛ wəfi kətɔte katəna mɔ. Kɔ ŋambɛr kɔ kaŋkəra ka tasar pɛpat dəndo atɔf ŋa Misira.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 1:5 Yuruya ya Yakuba fəp ŋanayi afum wəco camət-mɛrəŋ (70). Tɛnatəŋnɛ Isifu nkɔn pəyi tɛm tatɔkɔ Misira.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	EXO 6:16 Mewe ma awut a Lewy mɔ mmɛ tɔkɔ ŋaŋkomɛnɛ mɔ: Kerson, Kehat kɔ Merari. Kəwon ka Lewy doru kənabəp meren tasar tin wəco maas kɔ camət-mɛrəŋ (137).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	EXO 6:18 Awut a Kehat: Amram, Yicahar, Hebərɔŋ kɔ Usiyɛl. Kəwon ka Kehat doru kənasɔtɔ meren tasar tin wəco maas kɔ maas (133).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	EXO 6:20 Kɔ Amram ɛnɛncɛ wəran nwɛ ancwe Yokɛbɛd wəkirɛ ka kas mɔ, kɔ wəkakɔ oŋkomɛ kɔ Aruna kɔ Musa. Kəwon ka Amram doru kənasɔtɔ meren tasar tin wəco maas kɔ camət-mɛrəŋ (137).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	EXO 7:7 Tɛnatəŋnɛ Musa pəsɔtɔ meren wəco camət-maas (80), kɔ wɛnc Aruna meren wəco camət-maas kɔ maas (83), tɛm ntɛ ŋanclok-lokər firawona mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	1	EXO 12:18 Ŋof ŋɔcɔkɔ-cɔkɔ tataka ta wəco kɔ maŋkəlɛ (14) tayi dec dɔrɔfɔy, nəsɔm cəcom cətɔnɔŋkəl lebin haŋ tataka ta wəco mɛrəŋ kɔ tin (21) dec dɔrɔfɔy.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 12:37 K'aka Yisrayel ŋayɛfɛ Ramsɛs kəkɔ ka Sukɔt, kənay k'asɔdar kənatam kəyi arkun wul masar camət-tin (600.000) ta alɔm awut k'aran aŋan-ɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 12:40 Kəndɛ ka aka Yisrayel Misira kənawon meren masar maŋkəlɛ kɔ wəco maas (430).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 12:41 Dɔsɔk ndɛ meren mmɛ masar maŋkəlɛ kɔ wəco maas (430) melip mɔ, dɔsɔk dadɔkɔ yati dɔ afum a MARIKI fəp ŋawur Misira dəcor dəcor.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 14:7 Kɔ firawona ɛlɛk cibil ca dəkəwan cətɔt masar camət-tin (600), kɔ cibil ca dəkəwan ca Misira cəlpəs, abɛ asɔdar ŋanayi ci kəroŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 15:27 K'aka Yisrayel ŋaŋkɔ ŋabɛrɛ Elim nde cələmp wəco kɔ mɛrəŋ (12) cənayi kɔ komp wəco camət-mɛrəŋ (70) mɔ. Kɔ ŋacəmbər saŋka səŋan dəndo domun kəsək.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 16:35 K'aka Yisrayel ŋandi man meren wəco maŋkəlɛ (40) haŋ tɛm ntɛ ŋanader atɔf nŋɛ afum ŋanandɛ mɔ. Ŋanadi man haŋ kəren nkɛ ŋanader nde kələncər ka atɔf ŋa Kanaŋ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 18:21 Məyɛk-yɛk afum alompu aka Yisrayel fəp dacɔ, aŋɛ ŋaŋnesɛ Kanu mɔ, afum akɔ ŋayeŋkɛ kance, aŋɛ ŋantɔfaŋ daka ndɛ dɔntɔsɔk mɔ. Məcəmbər afum wul o wul (1.000), afum am akakɔ məyɛk-yɛk mɔ, wəkin pəyɔnɛ ŋa wəbɛ, wəlɔma wəbɛ wəka afum tasar tin (100), wəlɔma wəbɛ wəka afum wəco kəcamət (50), wəlɔma wəbɛ wəka afum wəco.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 18:25 Kɔ Musa ɛyɛk-yɛk afum alompu Yisrayel fəp disrɛ, k'ɛncəmbər ŋa dɛbɛ: Wəbɛ wəka afum wul win (1.000), wəbɛ wəka afum tasar tin (100), wəbɛ wəka afum wəco kəcamət (50), wəbɛ wəka afum wəco.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 20:6 Mba intɔmpər kəsektərnɛ danapa haŋ dɛtɛmp wul win (1.000) da afum aŋɛ ŋambɔtər im, ŋamɛŋkərnɛ mosom mem mɔ.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 21:32 Kɔ pəyɔnɛ a wana nwɛ wəcar wərkun kɔ pəyɔnɛ fɛ ti, wəcar wəran wendif-ɛ, pəmar pasɔŋ sikəl wəco maas (30) mariki ma wəcar wəkakɔ, ntɛ tɔyɔnɛ ta wana mɔ, paca-cas wi haŋ wefi.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 24:1 Kɔ Kanu kəloku Musa: Məpɛ nnɔ MARIKI iyi mɔ, məna, Aruna, Nadab kɔ Abihu, kɔ abeki wəco camət-mɛrəŋ (70) aka Yisrayel, nədekɔ nətontn'em pəbɔlɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 24:9 Kɔ Musa ŋampɛ k'Aruna, Nadab, Abihu kɔ abeki aŋɛ wəco camət-mɛrəŋ (70) aka Yisrayel.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 24:18 Kɔ Musa ɛmbɛrɛ kəp kaŋkɔ disrɛ, k'ɛmpɛ nde tɔrɔ kəroŋ. Kɔ Musa ɔŋkɔ pəwon nde tɔrɔ kəroŋ mata wəco maŋkəlɛ (40) daŋ kɔ pibi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 25:39 Pɛdɛtɛ səlamp, pɛcəmbərɛ pa pi kɔ yosumpər-sumpər yayɔkɔ, kɛma kəsoku pɛs kilo wəco maas (30) kɔ pəmar palompsɛ yi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	8	EXO 26:2 Dobolu da cəpol cacɔkɔ fəp dɔkɔ dɔyɔ nkɛ o nkɛ cururu wəco mɛrəŋ kɔ camət-maas (28), kɔ dowokulu da kəpol nkɛ o nkɛ dɔkɔ dɔyɔ cururu maŋkəlɛ, cəpol fəp cəde cətəŋnɛnɛ potubuc.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 26:5 Dobol da cəloto cacɔkɔ mɛrəŋ məwes-wesɛ di səbeŋa wəco kəcamət (50), mənut yi, məsɔŋɛ yewes-wesi ya cəloto cacɔkɔ mɛrəŋ fəp yosurɛnɛ dɛwɛnca.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 26:6 Məde məlompəs ŋkora wəco kəcamət (50) ya kɛma nyɛ məndekɔcɛpərɛnɛ cəloto cacɔkɔ mɛrəŋ mɔ, ntɛ tendesɔŋɛ cəloto ca dəkiyi dosoku kədeyɔnɛ kin mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	1	EXO 26:8 Dobolu da kəpol nkɛ o nkɛ dede dɔyɔ cururu wəco maas (30), kɔ dowokulu dede dɔyɔ cururu maŋkəlɛ. Cəpol ncɛ wəco kɔ pin (11) fəp cəde cəyɔ potubuc pin payi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 26:10 Məde məlompəs yewes-wesi wəco kəcamət (50) kəpol kəkəsək ka yɛgbɛtlɛnɛ yɔcɔkɔ-cɔkɔ, mənut yi. Kəpol kəkəsək ka yɛgbɛtlɛnɛ ya mɛrəŋ sɔ, məlompəs kəsək kayi yewes-wesi wəco kəcamət (50), mənut sɔ yayɔkɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 26:11 Məlompəs ŋkora wəco kəcamət (50) ya kɔpər nyɛ məndegbɛkər deyewes-wesi mɔ, ntɛ tɔŋsɔŋɛ aŋgbancan ŋɔyɔnɛ ŋin mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 26:18 Məlompsɛ ntende kəca kətɔt ka di nde dec dɛmpɛ mɔ fərɛm wəco mɛrəŋ (20).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 26:19 Məlompsɛ yɛcəmɛnɛ wəco maŋkəlɛ (40) ya gbeti nyɛ məndekɔcəmbər tantɔf ta fərɛm wəco mɛrəŋ (20) mɔ. Nfɛ o nfɛ fəyɔ yɛcəmɛnɛ mɛrəŋ, kəsurɛnɛ ka bi yɔkɔ pəmar pasɛt sek mɛrəŋ yɔkɔ fərɛm fəyɔ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 26:20 Kəca kəmeriya ka dəkiyi dosoku nde dec dɛmpɛ mɔ, məlompsɛ sɔ dəndo fərɛm wəco mɛrəŋ (20).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 26:21 Yɛcəmɛnɛ wəco maŋkəlɛ (40) ya gbeti, ti tɔ tatɔkɔ yɛcəmɛnɛ mɛrəŋ yede yeyi fərɛm fin tantɔf.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	EXO 26:25 Itɔ tatɔkɔ fərɛm camət-maas kɔ yɛcəmɛnɛ wəco kɔ camət-tin (16) ya gbeti, fərɛm o fərɛm fəyɔ yɛcəmɛnɛ mɛrəŋ tantɔf.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 27:9 «Məlompəs abaŋka ŋa dəkiyi dosoku. Ntende kəca kətɔt ka nde dec dɛmpɛ mɔ, pəmar dobolu da saŋka dɔyɔ cururu tasar tin (100), mədɛt di cəloto ca səbeŋa sa kentəler.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 27:10 Mogbu wəco mɛrəŋ ma kəpər (20) kɔ yɛcəmɛnɛ ya mi ya kɔpər wəco mɛrəŋ (20), ŋkora ya mogbu kɔ gbat-gbata ya mi pəmar yɔyɔnɛ ya gbeti.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 27:11 Kəca kəmeriya ka ntende dec dɛmpɛ mɔ, pəmar ki kəyɔ sɔ cəloto pəmɔ kəcɔkɔ-cɔkɔ dobolu da ki dɔyɔ cururu tasar tin (100), kəca kaŋkɔ kəyɔ mogbu wəco mɛrəŋ (20) kɔ yɛcəmɛnɛ ya mi wəco mɛrəŋ (20) ya kɔpər. Ŋkora ya mogbu kɔ gbat-gbata ya mi fəp, pəmar palompsɛ yi gbeti.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 27:12 Dowokulu d'abaŋka kəca nkɛ dec dɛŋkalɛ mɔ, cəloto ca saŋka sa ŋi cəbɔl cururu wəco kəcamət (50), mogbu ma ci wəco kɔ yɛcəmɛnɛ ya mi wəco.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 27:13 Dowokulu d'abaŋka kəca nkɛ dec dɛmpɛ mɔ, pəmar dɔbɔl cururu wəco kəcamət (50).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	EXO 27:14 Pəmar cəloto ca kəsək kin cəde cəyɔ dobolu da cururu wəco kɔ kəcamət (15), mogbu maas kɔ yɛcəmɛnɛ ya mi maas.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	EXO 27:15 Padɛt sɔ cəloto cururu wəco kɔ kəcamət (15) cəlɔma kəca ka mɛrəŋ, mogbu maas kɔ yɛcəmɛnɛ ya mi maas.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 27:16 Pəmar paŋɛrɛ kusuŋka ka saŋka cəloto ca səbeŋa sa kentəler ca cururu wəco mɛrəŋ (20), yɛbəc yayɔkɔ yede yɔyɔnɛ ya wəcərɛ kədu pəlompsɛ ci səbeŋa sa alom ŋa məntambɛnc, sa alom ŋa bulu, sa alom ŋeyim, pəcəmbərɛ cəloto cəŋɛrɛ caŋkɔ mogbu maŋkəlɛ kɔ yɛcəmɛnɛ ya mi maŋkəlɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 27:18 Saŋka sasɔkɔ səbɔl cururu tasar tin (100), kɔ dowokulu da si cururu wəco kəcamət (50), kɔ deŋeci da si cururu kəcamət. Pəmar cəloto cacɔkɔ fəp cəyɔnɛ ca səbeŋa sa kentəler, kɔ yɛcəmɛnɛ ya kɔpər.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	EXO 28:21 Pacic mewe ma awut a Yisrayel (Yakuba) masar mamɔkɔ wəco kɔ mɛrəŋ (12) kəroŋ pəmɔ tɔkɔ ancic tamp mɔ. Tasar o tasar tende kəcmentər tewe ta kusuŋka kin ncɛ wəco kɔ mɛrəŋ (12) dacɔ ca Yisrayel.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 30:13 Afum aŋɛ andekɔlɔm mɔ fəp, ntɛ tɔ ŋandekɔfɛk: Gbeti gbəleŋ kəram kəcamət pəmɔ potubuc pa nde aŋgbip ŋosoku mpɛ pɔyɔnɛ kəram wəco mɛrəŋ (20) mɔ. Ina MARIKI andefɛkɛ gbeti babɔkɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 30:14 Nwɛ o nwɛ andekɔlɔm nwɛ ɔsɔtɔ meren wəco mɛrəŋ (20) mɔ, haŋ kəpɛ takəroŋ fəp faŋan ŋafɛkɛ MARIKI.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 32:28 Dɔsɔk dadɔkɔ k'aLewy ŋaleləs dim da Musa, kɔ tɔsɔŋɛ aka Yisrayel afum wul maas (3.000) kəfi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	8	EXO 36:9 Dobolu da cəpol cacɔkɔ fəp dɔyɔ nkɛ o nkɛ cururu wəco mɛrəŋ kɔ camət-maas (28) kɔ dowokulu da kəpol nkɛ o nkɛ dɔyɔ cururu maŋkəlɛ, cəpol fəp cənatəŋnɛnɛ potubuc.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 36:12 Dobol da cəloto cacɔkɔ mɛrəŋ, k'ewes-wesɛ di səbeŋa wəco kəcamət (50), k'onut yi, k'ɔsɔŋɛ yewes-wesi ya cəloto cacɔkɔ mɛrəŋ fəp kəsurɛnɛ yin yin.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 36:13 K'olompəs ŋkora wəco kəcamət (50) ya kɛma nyɛ ɛnacɛpərɛnɛnɛ cəloto cacɔkɔ mɛrəŋ mɔ, kɔ tɔsɔŋɛ cəloto ca dəkiyi dosoku kəyɔnɛ kin.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	1	EXO 36:15 Kəpol nkɛ o nkɛ kənayɔ dobolu da cururu wəco maas (30), kɔ dowokulu dɔyɔ cururu maŋkəlɛ. Cəpol ncɛ wəco kɔ pin (11) cənatəŋnɛnɛ potubuc.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 36:17 K'olompəs yewes-wesi wəco kəcamət (50) kəpol kəkəsək ka yɛgbɛtlɛnɛ yɔcɔkɔ-cɔkɔ, k'onut yi. Kəpol kəkəsək ka yɛgbɛtlɛnɛ ya mɛrəŋ yɔkɔ k'olompəs yewes-wesi wəco kəcamət (50), k'onut sɔ yayɔkɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 36:18 K'olompəs ŋkora wəco kəcamət (50) ya kɔpər, k'ɛŋgbɛkərɛnɛ yi kɔ tɔsɔŋɛ aŋgbancan kəyɔnɛ ŋin.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 36:23 K'olompəs fərɛm wəco mɛrəŋ (20) fa kəca kətɔt ka nde dec dɛmpɛ da dəkiyi dosoku mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 36:24 K'olompəs yɛcəmɛnɛ wəco maŋkəlɛ (40) ya gbeti nyɛ ɛnacəmbər tantɔf ta fərɛm wəco mɛrəŋ (20). Fərɛm o fərɛm fənayɔ yɛcəmɛnɛ mɛrəŋ, kəsurɛnɛ ka bi nyɛ antam kəsɛt sek mɛrəŋ yɔkɔ fərɛm fəyɔ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 36:25 K'olompəs sɔ fərɛm wəco mɛrəŋ (20) fa kəca kəmeriya ka nde dec dɛmpɛ da dəkiyi dosoku mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 36:26 kɔ yɛcəmɛnɛ wəco maŋkəlɛ (40) ya gbeti, ti tɔ tatɔkɔ yɛcəmɛnɛ mɛrəŋ yɛnayi fərɛm fin tantɔf.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	EXO 36:30 Fərɛm camət-maas fənayi, kɔ yɛcəmɛnɛ wəco kɔ camət-tin (16) ya gbeti, ti tɔ tatɔkɔ fərɛm o fərɛm fənayɔ yɛcəmɛnɛ mɛrəŋ tantɔf.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 37:24 Kɛma kəsoku pɛs kilo wəco maas (30) k'ɛnalompsɛ pɛdɛtɛ səlamp kɔ yosumpər-sumpər ya pi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:9 K'olompəs abaŋka. K'ɛncəmbərɛ saŋka kəca kətɔt ka ntende dec dɛmpɛ mɔ cəloto ca səbeŋa sa kentəler. Dobolu da cəloto cacɔkɔ dɛnabəp cururu tasar tin (100).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:10 Mogbu ma yi wəco mɛrəŋ (20) kɔ yɛcəmɛnɛ wəco mɛrəŋ (20) kɔpər kənayi. Ŋkora ya mogbu kɔ gbat-gbata ya mi yɔyɔnɛ gbeti.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:11 Kəca kəmeriya ka ntende dec dɛmpɛ mɔ, cəloto cənabɔl cururu tasar tin (100), mogbu wəco mɛrəŋ (20) kɔ yɛcəmɛnɛ ya yi wəco mɛrəŋ (20) ya kɔpər, ŋkora ya mogbu kɔ gbat-gbata ya mi fəp gbeti bɛnayi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:12 Kəca nkɛ dec dɛŋkalɛ mɔ, cəloto cənabɔl cururu wəco kəcamət (50) mogbu ma ci wəco kɔ yɛcəmɛnɛ ya mi wəco, ŋkora ya mogbu kɔ gbat-gbata ya mi fəp gbeti bɛnayi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:13 Kəca nkɛ dec dɛmpɛ mɔ, dobolu d'abaŋka dɛnayɔ cururu wəco kəcamət (50).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	EXO 38:14 Kɔ kəsək kin kəyɔ cəloto ncɛ cənabɔl cururu wəco kɔ kəcamət (15) mɔ, mogbu maas kɔ yɛcəmɛnɛ ya mi maas.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	EXO 38:15 Kəca ka mɛrəŋ, dəkusuŋka da saŋka kəca kətɔt kɔ kəmeriya, dobolu da cəloto dɛnayɔ cururu wəco kɔ kəcamət (15), mogbu maas kɔ yɛcəmɛnɛ ya mi maas.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:18 K'ondunɛ cəloto ncɛ anaŋɛrɛ kusuŋka ka saŋka mɔ. K'olompsɛ ci səbeŋa sa alom ŋa məntambɛnc, səbeŋa alom ŋa bulu, sa alom ŋeyim, səbeŋa sa kentəler, yɛbəc ya wəcərɛ kədu yɛnayi. Cəloto cəŋɛrɛ cənabɔl cururu wəco mɛrəŋ (20) kɔ deŋeci da ci dɛnayɔ cururu kəcamət, pəmɔ dowokulu da cəloto ca saŋka.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	EXO 38:24 Kɛma nkɛ kənabɛrɛ kəlompəs ka aŋgbip ŋosoku mɔ fəp kənabəp kilo masar camət-maas wəco camət-mɛrəŋ kɔ camət-mɛrəŋ (877), potubucɛ pa aŋgbip ŋosoku p'anatubcɛ ki.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	8	EXO 38:25 Gbeti mbɛ aka kəloŋkanɛ ka Yisrayel ŋanafɛk mɔ fəp, bɛnakɔ kilo wul maas wəco kɔ camət-maas (3.018), potubucɛ pa aŋgbip ŋosoku p'anatubcɛ ki.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:26 K'ayer kəfɛk kaŋkɔ-ɛ, antam kəloku a arkun wul masar camət-tin kɔ maas, masar kəcamət wəco kəcamət (603.550) aŋɛ ŋanasɔtɔ meren wəco mɛrəŋ (20) haŋ kəpɛ kəroŋ mɔ, nwɛ o nwɛ ɛnafɛk pəsam gbeti kəcamət potubucɛ pa pəsam p'aŋgbip ŋosoku.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:27 Kɔ ŋalompsɛ gbeti wul maas (3.000) yɛcəmɛnɛ tasar tin (100) ya fərɛm ya aŋgbip ŋosoku kɔ ya kəloto kəkəŋkɛ tedisrɛ ti tɔŋsɔŋ pɛcəmɛnɛ o pɛcəmɛnɛ analompsɛ pi gbeti kilo wəco maas (30).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	EXO 38:28 K'alompsɛ gbeti bɛlpəs mbɛ kilo wəco kɔ camət-mɛrəŋ (17) kɔ kəram masar camət-mɛrəŋ kɔ wəco kəcamət (750) ŋkora ya mogbu, k'aŋsop sɔ ncaləran kɔ gbat-gbata nyɛ anakotərɛnɛ kɔ mogbu mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	EXO 38:29 Kɔpər nkɛ aka Yisrayel ŋanatubucnɛ kəsɔŋ MARIKI mɔ kənabəp kilo wul mɛrəŋ, tasar tin wəco mɛrəŋ kɔ maŋkəlɛ (2.124).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	EXO 39:14 Tasar o tasar anacic pi tewe ta wan wəkin wəka Yisrayel (Yakuba), pəmɔ tɔkɔ ancic tamp mɔ. Ti tencmentər mewe ma cusuŋka ncɛ wəco kɔ mɛrəŋ (12) ca Yisrayel.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	LEV 12:4 Wəran wəkakɔ pəyi sɔ mata wəco maas kɔ maas (33) kəsɔkəsnɛ mecir mɔn. Ta pəgbuŋɛnɛ paka mpɛ o mpɛ ampusɛ MARIKI mɔ, ta wəkayi sɔ pəkɔ nde aŋgbip ŋosoku, haŋ pəlip kəlas mataka mɔn ma kəsɔkəsnɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	LEV 12:5 Kɔ wəran oŋkom wan wəran-ɛ, ɔsɔk fɛ haŋ mataka moluksər mɛrəŋ, pəmɔ tɔkɔ endenəŋk wəka darenc ŋof o ŋof mɔ. Pəsɔkəsnɛ mecir mɔn mata wəco camət-tin kɔ camət-tin (66).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	LEV 23:6 Tataka ta wəco kɔ kəcamət (15) ta ŋof ŋaŋɔkɔ, nəde nəcbocɛ MARIKI kəsata ka Cəcom cətɔnɔŋkəl lebin. Nəde nəcsɔm cəcom cətɔnɔŋkəl lebin mata camət-mɛrəŋ camcam.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	LEV 25:8 «Nəde nəclɔm meren meŋesəm camət-mɛrəŋ, haŋ camət-mɛrəŋ, kəwon ka ti kəyɔnɛ meren wəco maŋkəlɛ kɔ camət-maŋkəlɛ (49).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 25:10 Nəpusɛ teren ta wəco kəcamət (50) tatɔkɔ MARIKI, tɛm tatɔkɔ nədəŋk kəyi yɛŋən dɔtɔf aka sədare sonu fəp. Teren tatɔkɔ tɔyɔnɛ nu teren ta Kəkul-kulɛnɛ Pəbotu. Nwɛ o nwɛ pəluksərnɛ kəbaŋ antɔf kɔ paka pɔn, pəkɔ sɔ afum ɔn kəsək nde kəlɔ kɔn disrɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 25:11 Teren ta wəco kəcamət (50) tatɔkɔ tendeyɔnɛ nu teren ta Kəkul-kulɛnɛ Pəbotu, ta nədebɔf, ta nədetɛl sɔ pas yɔkɔ yompoŋ dalɛ mɔ, ta nəpim sɔ ŋgbɔŋkəlɔ ya wɛn yonu nyɛ nəntɔcɛpəs dəntɔf mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 26:8 Afum anu kəcamət gboŋ ŋande ŋacbɛləs aterɛnɛ anu afum tasar tin, afum anu tasar tin (100) ŋande ŋacbɛləs aterɛnɛ anu afum wul wəco (10.000), aŋɛ nənde kəcdiftɛ sakma sonu mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 27:3 Kəway kaŋkɛ kɔ nəndetam kəcwurusɛ afum aŋɛ anasɔŋ MARIKI kədɛrəm disrɛ mɔ: Kɔ pəyɔnɛ wərkun nwɛ ɔsɔtɔ kəyɛfɛ meren wəco mɛrəŋ (20) haŋ kəbəp ka meren wəco camət-tin mɔ (60), pawurusɛ kɔ pəsam gbəleŋ wəco kəcamət (50) potubucɛ pa nde aŋgbip ŋosoku.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 27:4 Kɔ pəyɔnɛ wəran ɔfɔ-ɛ, pəsam gbəleŋ wəco maas (30) pɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 27:5 Kɔ pəyɔnɛ wan nwɛ ɔsɔtɔ meren kəyɛfɛ kəcamət haŋ wəco mɛrəŋ (20) mɔ, k'ɔyɔnɛ wan wərkun-ɛ, pəsam gbəleŋ wəco mɛrəŋ (20), k'ɔyɔnɛ wəran-ɛ, pəsam gbəleŋ wəco (10) pɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	LEV 27:6 Kɔ pəyɔnɛ wanfɛt wəka ŋof ŋin haŋ meren kəcamət ɔfɔ-ɛ, aŋsɔŋ teta wan wərkun pəsam gbəleŋ kəcamət (5), teta wan wəran pəsam gbəleŋ maas (3).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 27:7 Kɔ pəyɔnɛ wəbeki wəka meren wəco camət-tin (60) haŋ pəcepər ɔfɔ-ɛ, aŋsɔŋɛ tetɔn pəsam gbəleŋ wəco kɔ kəcamət (15) k'ɔyɔnɛ wərkun-ɛ. K'ɔyɔnɛ wəran-ɛ, pasɔŋ pəsam gbəleŋ wəco (10).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 27:16 Kɔ fum ɛlɛk abɔf ŋɔn pəpusɛ MARIKI-ɛ, defet dɔkɔ ɛŋgbalɛ abɔf ŋaŋɔkɔ mɔ d'aŋkɔlɛk kəway ka di: Pəsam gbəleŋ wəco kəcamət (50) kəway ka defet da mɛŋgbɛn kilo masar maas (300).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LEV 27:25 Kəway nkɛ o nkɛ ambonc mɔ, kəyɔnɛ kəway ka nde aŋgbip ŋosoku: Delel da pəsam gbəleŋ bin dɛtəŋnɛnɛ kɔ kəram wəco (10).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:18 kɔ ŋaloŋka aka Yisrayel fəp dɔsɔk dɔcɔkɔ-cɔkɔ da ŋof ŋa mɛrəŋ. Musa kɔ Aruna ŋacicəs mewe maŋan dəcor kɔ dəwɔlɔ, kɔ ŋalɔm ŋa tin tin, arkun aŋɛ ŋanasɔtɔ meren wəco mɛrəŋ (20) haŋ ŋacepər ti mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:21 arkun aŋɛ ŋanalɔm nde kusuŋka ka Ruben mɔ: Wul wəco maŋkəlɛ kɔ camət-tin, masar kəcamət (46.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:23 arkun aŋɛ analɔm nde kusuŋka ka Simeyɔŋ mɔ, ŋanayi afum wul wəco kəcamət kɔ camət-maŋkəlɛ, masar maas (59.300).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:25 aŋɛ analɔm nde kusuŋka ka Kad: Afum wul wəco maŋkəlɛ kɔ kəcamət, masar camət-tin wəco kəcamət (45.650).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:27 arkun aŋɛ analɔm nde kusuŋka ka Yuda mɔ, ŋanayi afum wul wəco camət-mɛrəŋ kɔ maŋkəlɛ, masar camət-tin (74.600).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:29 arkun aŋɛ analɔm nde kusuŋka ka Isakar, ŋanayi afum wul wəco kəcamət kɔ maŋkəlɛ, masar maŋkəlɛ (54.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:31 arkun aŋɛ analɔm nde kusuŋka ka Sabulon, ŋanayi afum wul wəco kəcamət kɔ camət-mɛrəŋ, masar maŋkəlɛ (57.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:33 arkun aŋɛ analɔm nde kusuŋka ka Efrayim ŋanayi afum wul wəco maŋkəlɛ, masar kəcamət (40.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:35 arkun aŋɛ analɔm nde kusuŋka ka Manase mɔ, ŋanayi afum wul wəco maas kɔ mɛrəŋ, masar mɛrəŋ (32.200).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:37 analɔm nde kusuŋka ka Beŋyamin arkun wul wəco maas kɔ kəcamət, masar maŋkəlɛ (35.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:39 Awa, nde kusuŋka ka Dan analɔm di arkun wul wəco camət-tin kɔ mɛrəŋ, masar camət-mɛrəŋ (62.700).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:41 arkun aŋɛ analɔm nde kusuŋka ka Asɛr ŋanayi afum wul wəco maŋkəlɛ kɔ pin, masar kəcamət (41.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:43 akaŋɛ ŋanalɔm nde kusuŋka ka Naftali ŋanayi afum wul wəco kəcamət kɔ maas, masar maŋkəlɛ (53.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 1:46 arkun aŋɛ analɔm mɔ fəp, ŋanayi afum wul masar camət-tin kɔ maas, masar kəcamət wəco kəcamət (603.550).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:4 asutɛnɛ ɔn aŋɛ analɔm mɔ, ŋanabəp wul wəco camət-mɛrəŋ kɔ maŋkəlɛ, masar camət-tin (74.600).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:6 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco kəcamət kɔ maŋkəlɛ, masar maŋkəlɛ (54.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:8 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco kəcamət kɔ camət-mɛrəŋ, masar maŋkəlɛ (57.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:9 Afum akaŋɛ ŋanalɔm kəyi saŋka sa Yuda: Asutɛnɛ wul tasar tin wəco camət-maas kɔ camət-tin, masar maŋkəlɛ (186.400), asutɛnɛ akakɔ ŋandeyi kiriŋ kəkɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:11 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco maŋkəlɛ kɔ camət-tin, masar kəcamət (46.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:13 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco kəcamət kɔ camət-maŋkəlɛ, masar maas (59.300).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:15 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco maŋkəlɛ kɔ kəcamət, masar camət-tin wəco kəcamət (45.650).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:16 Asutɛnɛ aŋɛ analɔm nde saŋka sa Ruben mɔ: Wul tasar tin wəco kəcamət kɔ pin, masar maŋkəlɛ wəco kəcamət (151.450), asutɛnɛ akakɔ ŋandekɔ tamɛrəŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:19 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco maŋkəlɛ, masar kəcamət (40.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:21 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco maas kɔ mɛrəŋ, masar mɛrəŋ (32.200).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:23 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco maas kɔ kəcamət, masar maŋkəlɛ (35.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:24 Asutɛnɛ aŋɛ analɔm saŋka sa Efrayim mɔ, ŋanayi afum wul tasar tin kɔ camət-maas, tasar tin (108.100). Kəgba ka asutɛnɛ kaŋkɔ kəŋkɔ tamaas, ŋayi aLewy tadarəŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:26 Asutɛnɛ ɔn aŋɛ analɔm mɔ: Afum wul wəco camət-tin kɔ mɛrəŋ, masar camət-mɛrəŋ (62.700).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:28 Asutɛnɛ aŋɛ analɔm mɔ: Afum wul wəco maŋkəlɛ kɔ pin, masar kəcamət (41.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:30 Asutɛnɛ aŋɛ analɔm mɔ: Afum wul wəco kəcamət kɔ maas, masar maŋkəlɛ (53.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:31 Asutɛnɛ aŋɛ analɔm saŋka sa Dan mɔ: Afum wul tasar tin wəco kəcamət kɔ camət-mɛrəŋ, masar camət-tin (157.600). Ŋandekɔ tɛlpəs kɔ kɔlər kəŋan.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 2:32 Afum akaŋɛ ŋanalɔm Yisrayel, dəwɔlɔ kɔ dəwɔlɔ. Akakɔ analɔm cəgba ca asutɛnɛ dəsaŋka disrɛ mɔ, ŋanabəp wul masar camət-tin kɔ maas, masar kəcamət wəco kəcamət (603.550).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 3:22 Afum aŋɛ analɔm ŋa dacɔ mɔ, arkun aŋɛ analɔm kəyɛfɛ aŋɛ ŋanasɔtɔ ŋof ŋin haŋ ŋacepər ti mɔ, ŋanabəp afum wul camət-mɛrəŋ, masar kəcamət (7.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 3:28 Ntɛ analɔm arkun fəp kəyɛfɛ ka akɔ ŋanasɔtɔ ŋof ŋin haŋ ŋacepər ti mɔ, ŋanabəp wul camət-maas, masar camət-tin (8.600). Ŋa ŋanatɔmpər teta ca yɔkɔ yɛnayi aŋgbip ŋosoku disrɛ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 3:34 Ntɛ analɔm arkun dacɔ aŋɛ ŋanasɔtɔ kəyɛfɛ ŋof ŋin haŋ ŋacepər ti mɔ, anasɔtɔ wul camət-tin, masar mɛrəŋ (6.200).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 3:39 ALewy aŋɛ Musa kɔ Aruna ŋanalɔm pəmɔ tɔkɔ MARIKI ɛnasom ŋa ti mɔ, arkun fəp dəcor aŋɛ ŋanasɔtɔ ŋof ŋin haŋ ŋacepər ti mɔ, ŋanabəp wul wəco mɛrəŋ kɔ mɛrəŋ (22.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	NUM 3:43 Arkun acɔkɔ-cɔkɔ aŋɛ analɔm ŋa dacɔ mɔ fəp, mewe ma aŋɛ ŋanasɔtɔ ŋof ŋin haŋ ŋacepər ti mɔ, ŋanabəp wul wəco mɛrəŋ kɔ mɛrəŋ, masar mɛrəŋ wəco camət-mɛrəŋ kɔ maas (22.273).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	NUM 3:46 Afum masar mɛrəŋ wəco camət-mɛrəŋ kɔ maas (273) ŋancepərər kəlɔm ka aLewy. Mɛnɛ pawurus ŋa,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	NUM 3:50 Kɔ Musa ɛlɛk gbeti ba awut acɔkɔ-cɔkɔ aYisrayel: Pəsam gbəleŋ wul win, masar maas wəco camət-tin kɔ kəcamət (1.365), pəmɔ potubuc pa nde aŋgbip ŋosoku.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 4:3 kəyɛfɛ aŋɛ ŋasɔtɔ meren wəco maas kəbəp ka meren wəco kəcamət mɔ (30-50), aŋɛ o aŋɛ ŋantam kəbəc tɛbəc tɔlɔma nde aŋgbancan ŋɛbəpɛnɛ kɔ Kanu mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 4:23 kəyɛfɛ aŋɛ ŋasɔtɔ meren wəco maas kəbəp ka meren wəco kəcamət mɔ (30-50), aŋɛ o aŋɛ ŋantam kəbəc yɛbəc yɔlɔma nde aŋgbancan ŋɛbəpɛnɛ kɔ Kanu mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 4:30 kəyɛfɛ aŋɛ ŋasɔtɔ meren wəco maas kəbəp ka meren wəco kəcamət mɔ (30-50), aŋɛ o aŋɛ ŋantam kəbəc yɛbəc ya nde aŋgbancan ŋɛbəpɛnɛ kɔ Kanu mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 4:35 aŋɛ ŋanasɔtɔ meren wəco maas kəbəp ka meren wəco kəcamət mɔ (30-50), aŋɛ o aŋɛ ŋantam kəbəc yɛbəc yɔlɔma nde aŋgbancan ŋɛbəpɛnɛ kɔ Kanu mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 4:36 Afum aŋɛ analɔm ŋa dacɔ dəcor mɔ, ŋanayi wul mɛrəŋ, masar camət-mɛrəŋ wəco kəcamət (2.750).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 4:40 arkun aŋɛ analɔm ŋa dacɔ dəcor kɔ dəwɔlɔ mɔ, ŋanayi wul mɛrəŋ, masar camət-tin wəco maas (2.630).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 4:44 aŋɛ analɔm ŋa dacɔ dəcor mɔ, ŋanabəp wul maas, masar mɛrəŋ (3.200).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 4:48 aŋɛ analɔm ŋa dacɔ mɔ fəp, ŋanabəp afum wul camət-maas, masar kəcamət kɔ wəco camət-maas (8.580).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:13 Yopocɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300), kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta kəloŋnɛ ka mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:14 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:19 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:20 Kɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) mɔ, palas ŋi suray,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:25 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:26 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100), pəlas ŋi suray,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:31 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:32 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:37 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:38 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:43 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:44 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:49 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:50 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:55 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:56 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:61 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:62 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:67 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:68 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:73 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:74 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:79 Yoloŋnɛ nyɛ y'ɛnakɛrɛ: Apəlet ŋin nŋɛ analompsɛ gbeti kilo kin kɔ kəram masar maas (1.300) mɔ, kɔ apɔt nŋɛ analompsɛ gbeti kəram masar camət-mɛrəŋ (700) mɔ. Pəsam gbeti mpɛ o mpɛ pɛnctəŋnɛnɛ kɔ potubuc pa pəsam gbeti pa nde aŋgbip ŋosoku. Ca yayɔkɔ mɛrəŋ fəp yɛlarɛ kəmbefe kətɔt nkɛ ananɔktərɛnɛ kɔ moro teta yoloŋnɛ ya mɛŋgbɛn mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:80 K'ɛŋkɛrɛ sɔ apɔt ŋɔlɔma nŋɛ analompsɛ kɛma kəram tasar tin (100) palas ŋi suray mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	NUM 7:85 Apəlet nŋɛ o nŋɛ kilo kin, kəram masar maas (1.300), apɔt nŋɛ o nŋɛ kəram masar camət-mɛrəŋ (700), gbeti ba ca yayɔkɔ bɛmbəp kilo wəco mɛrəŋ kɔ maŋkəlɛ (24), pəmɔ ntɛ antubuc nde deŋgbip mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:86 Səpɔt nsɛ wəco kɔ mɛrəŋ sa kɛma, apɔt o apɔt kəram tasar tin (100), palas ŋi suray. Delel da kɛma ka səpɔt saŋsɛ fəp dɛnabəp kilo kin kəram masar mɛrəŋ (200).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 7:88 Yɔcɔl ya kəloŋnɛ ka kəpaŋnɛ pəforu: Mura wəco mɛrəŋ kɔ maŋkəlɛ (24), ŋkesiya yorkun wəco camət-tin (60), mbiyofo wəco camət-tin (60), ŋkesiya yorkun ya teren tin tin wəco camət-tin (60). Yayɔkɔ yɛnayɔnɛ yoloŋnɛ ya kəpus ka tetek toloŋnɛ, ntɛ analip pi kəbɔy mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	NUM 8:24 «Ntɛ tɔyɔnɛ ta aLewy: WəLewy wərkun nwɛ o nwɛ ɔsɔtɔ meren kəyɛfɛ meren wəco mɛrəŋ kɔ kəcamət (25) haŋ pəcepər mɔ, ɛntam kəbəc nde aŋgbancan ŋɛbəpɛnɛ kɔ Kanu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 8:25 K'ɔsɔtɔ meren wəco kəcamət-ɛ (50), pəsak kəbəc nde aŋgbancan ŋɛbəpɛnɛ kɔ Kanu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 11:16 Kɔ MARIKI oloku Musa: «Məloŋkan'em abeki wəco camət-mɛrəŋ (70) aka Yisrayel, aŋɛ məncərɛ kəyɔnɛ abeki kɔ atubuc mes a afum mɔ. Məkɛrɛ ŋa nnɔ aŋgbancan ŋɛbəpɛnɛ kɔ Kanu, ŋade ŋacəmɛ nnɔ kɔ məna.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 11:21 Kɔ Musa oloku: «Afum akaŋɛ ŋaŋkɛl im mɔ ŋambəp arkun wul masar camət-tin (600.000), kɔ məloku: ‹Indesɔŋ ŋa sɛm yɔsɔm ŋof ŋin camcam!›	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 11:24 Kɔ Musa owur, k'oloku afum moloku ma MARIKI. K'oloŋka abeki a Yisrayel aŋɛ wəco camət-mɛrəŋ (70), k'ɛncəmbər ŋa ŋakɛl aŋgbancan.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 11:25 Kɔ MARIKI ontor dəkəp, k'olok-lokər Musa. Kɔ MARIKI ɛlɛk dəMusa Amera ŋɔkɔ ɛnabɛr kɔ mɔ, k'eyerəs ŋi abeki aŋɛ wəco camət-mɛrəŋ (70). Ntɛ Amera nŋɛ ŋendegbuŋɛnɛ ŋa mɔ, kɔ ŋayɛfɛ kəlok-loku cəsayibɛ, mba katin kaŋkɔ gbəcərəm kɔ tɛnasɔtɔ ŋa.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 13:25 Ntɛ mata wəco maŋkəlɛ (40) mencepər mɔ, k'asom ŋalukus kəyɛfɛ atɔf ŋɔkɔ ŋanakɔ kətɛnəs mes yɔkyɔk mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 14:29 Nnɔ tɛgbərɛ tantɛ tɔ nəndefi. Nəna fəp fonu aŋɛ analɔm nəsɔtɔ meren wəco mɛrəŋ (20) haŋ kəcepər ti mɔ, kɔ nəŋgbɛkəl im mɔ,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 14:33 Awut anu ŋandeyɔnɛ akɛk yɔcɔl nde dətɛgbərɛ meren wəco maŋkəlɛ (40) disrɛ, ŋa ŋandesarɛ kəway ka kiciya ka dɛyamayama donu, haŋ nəclip kəfis-fis nnɔ dətɛgbərɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 14:34 Kəlɔm ka mataka mɔkɔ nənawon kəkɔkcɛ mes ma atɔf ŋa Kanaŋ yɔkyɔk mɔ, it'ɔyɔnɛ mata wəco maŋkəlɛ (40), nəndesarɛ kəciya konu meren wəco maŋkəlɛ (40), dɔsɔk o dɔsɔk teren tin. Ti tendesɔŋɛ nu kəcərɛ ntɛ kəfatər kem kəyi mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 16:2 ŋancəmɛ Musa dɛbəkəc, kɔ afum masar mɛrəŋ kɔ wəco kəcamət (250) aka Yisrayel ŋasol kɔ ŋa. Arkun aka mewe mɔpɔŋ ŋɔ ŋanayɔnɛ kəloŋkanɛ kaŋkɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 16:17 Nwɛ o nwɛ pətɔmpərɛnɛ tap pəbɛr pi suray, pəkɔ pəmentər pi MARIKI. Ti tɔŋkɔsɔŋ map masar mɛrəŋ wəco kəcamət (250). Məna kɔ Aruna nəna sɔ nəkenɛnɛ map monu.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 16:35 Gbəncana babɔkɔ kɔ MARIKI owurɛ nɛnc, kɔ dɔncɔf arkun masar mɛrəŋ kɔ wəco kəcamət (250) aŋɛ pənatɔmar kəcɔf suray mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 17:14 Pəlɛc papɔkɔ pɛnadif afum wul wəco kɔ maŋkəlɛ, masar camət-mɛrəŋ (14.700), ta alɔm afum akɔ ŋanafi teta Kore disrɛ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 20:29 Ntɛ kəloŋkanɛ ka aka Yisrayel fəp ŋanacərɛ a Aruna efi mɔ, kɔ kəlɔ ka Yisrayel fəp kəmbok kɔ mata wəco maas (30).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 25:9 Pəcuy papɔkɔ pɛnadif afum wul wəco mɛrəŋ kɔ maŋkəlɛ (24.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:2 «Nəlɔm aka kəloŋkanɛ ka Yisrayel fəp, kəyɛfɛ arkun aŋɛ ŋasɔtɔ meren wəco mɛrəŋ (20) haŋ ŋacepər ti, dəwɔlɔ kɔ dəwɔlɔ afum fəp aŋɛ ŋantam kəsutɛnɛnɛ Yisrayel mɔ.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:4 «Nəlɔm arkun fəp kəyɛfɛ meren wəco mɛrəŋ (20) haŋ pəcepər ti,» pəmɔ tɔkɔ MARIKI osom ti Musa kɔ aka Yisrayel aŋɛ ŋancwur Misira mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:7 Ŋa ŋanayɔnɛ aka cor ca Ruben: Aŋɛ analɔm ŋa dacɔ mɔ, ŋanabəp wul wəco maŋkəlɛ kɔ maas, masar camət-mɛrəŋ kɔ wəco maas (43.730).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:9 papa ka Nemuyel, Dataŋ kɔ Abiram. Dataŋ kɔ Abiram abeki mɛrəŋ aka kəloŋkanɛ ka aYisrayel akaŋɛ ŋanayeŋkər Musa kɔ Aruna səbomp. Ŋa ŋanasolɛ afum masar mɛrəŋ wəco kəcamət (250) a Kore ntɛ ŋanacəmɛ MARIKI dɛbəkəc mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:10 Kɔ antɔf ŋɛwani kusu kɔ ŋemer Dataŋ, Abiram kɔ nkɔn Kore. Dɔsɔk dadɔkɔ dɔ kəloŋkanɛ kɔn kəfi fəp, ntɛ nɛnc dɛnacɔf afum masar mɛrəŋ kɔ wəco kəcamət mɔ (250). Kɔ tɔyɔnɛ alpəs akɔ tɛgbɛkərɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:14 Cor ca Simeyɔŋ cənabəp arkun wul wəco mɛrəŋ kɔ mɛrəŋ, masar mɛrəŋ (22.200).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:18 Afum aŋɛ analɔm kusuŋka ka Kad dacɔ mɔ, ŋanabəp arkun wul wəco maŋkəlɛ, kɔ masar kəcamət (40.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:22 Cor ca Yuda cɔ cancɛ, afum aŋɛ analɔm ŋa dacɔ mɔ ŋanabəp arkun wul wəco camət-mɛrəŋ kɔ camət-tin, masar kəcamət (76.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:25 Cor ca Isakar cənayi cacɔkɔ, afum aŋɛ analɔm ŋa dacɔ mɔ ŋanabəp arkun wul wəco camət-tin kɔ maŋkəlɛ, masar maas (64.300).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:27 Cor ca Sabulon cənayi cacɔkɔ, afum aŋɛ analɔm ŋa dacɔ mɔ ŋanabəp arkun wul wəco camət-tin, masar kəcamət (60.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:34 Cor ca Manase cənayi cacɔkɔ, afum aŋɛ analɔm ŋa dacɔ mɔ ŋanabəp arkun wul wəco kəcamət kɔ mɛrəŋ, masar camət-mɛrəŋ (52.700).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:37 Cor ca Efrayim cɔ cancɛ, afum aŋɛ analɔm ŋa dacɔ mɔ ŋanabəp arkun wul wəco maas kɔ mɛrəŋ, masar kəcamət (32.500). Yuruya ya Isifu yɔ yayɔkɔ dəcor kɔ dəcor.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:41 Yuruya ya Beŋyamin yɔ yayɔkɔ dəcor kɔ dəcor. Afum aŋɛ analɔm ŋa dacɔ mɔ ŋanabəp arkun wul wəco maŋkəlɛ kɔ kəcamət, masar camət-tin (45.600).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:43 Afum aŋɛ analɔm nde cor ca Suham mɔ ŋanabəp arkun wul wəco camət-tin kɔ maŋkəlɛ, masar maŋkəlɛ (64.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:47 Yuruya ya Asɛr yɛnayi yayɔkɔ dəcor kɔ dəcor: Afum aŋɛ analɔm ŋa dacɔ mɔ ŋanabəp arkun wul wəco kəcamət kɔ maas, masar maŋkəlɛ (53.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:50 Cor ca Naftali cənayi cacɔkɔ dəcor kɔ dəcor, afum aŋɛ analɔm ŋa dacɔ mɔ ŋanabəp arkun wul wəco maŋkəlɛ kɔ kəcamət, masar maŋkəlɛ (45.400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:51 Afum aŋɛ analɔm aka Yisrayel dacɔ ŋanabəp afum wul masar camət-tin kɔ pin, masar camət-mɛrəŋ kɔ wəco maas (601.730).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 26:62 ALewy arkun aŋɛ analɔm aYisrayel dacɔ, aŋɛ ŋanayɔ ŋof ŋin ŋacepər ti mɔ, ŋanabəp wul wəco mɛrəŋ kɔ maas (23.000). Kəlɔm kəŋan kənadeŋərnɛ fɛ kəlɔm ka aka Yisrayel dacɔ, bawo anasɔŋ fɛ aka Lewy kɛ aka Yisrayel dacɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	NUM 28:16 Ŋof ŋɔcɔkɔ-cɔkɔ ŋa teren, tataka ta wəco kɔ maŋkəlɛ (14), nəboc kəsata ka kəcɛm-cɛməs ka Kəcepər ka mɛlɛkɛ medif kəleləs ka MARIKI.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	NUM 28:17 Tataka ta wəco kɔ kəcamət (15) ta ŋof ŋaŋɔkɔ, nəde nəcbocɛ MARIKI kəsata ka Cəcom cətɔnɔŋkəl lebin. Nəde nəcsɔm cəcom cətɔnɔŋkəl lebin mata camət-mɛrəŋ camcam.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:4 Nəyɛk-yɛk afum wul win (1.000) kusuŋka o kusuŋka ka Yisrayel.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:5 K'ayɛk-yɛk cusuŋka ca Yisrayel fəp arkun asutɛnɛ wul wəco kɔ mɛrəŋ (12.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:6 Kɔ Musa eŋkekərɛ arkun akaŋɛ wul win (1.000) kusuŋka o kusuŋka dəkəsutɛnɛ kəlɛkɛnɛ Finehas wan ka wəloŋnɛ Elasar, nwɛ ɛnatɔmpər yosumpər-sumpər yopus ya aŋgbip ŋosoku kɔ luk nyɛ awenɛ teta kəloŋkanɛ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:14 Kɔ pəntɛlɛ Musa nnɔ akiriŋ a cəgba ca asutɛnɛ wul win (1.000), kɔ ca asutɛnɛ tasar tin (100) a dəkəwan aŋɛ ŋanalukus mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:28 Yɔsɔtɔ ya asutɛnɛ dacɔ, nyɛ yɔyɔnɛ ya MARIKI. Fum wəkin afum masar kəcamət (500) dacɔ, wana win cəna masar kəcamət (500) dacɔ, aŋkesiya ŋin ŋkesiya masar kəcamət (500) dacɔ, wir win cir masar kəcamət (500) dacɔ yɔyɔnɛ ya MARIKI.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:30 Daka dɔkɔ aŋsɔŋ aka Yisrayel mɔ, nəwurɛ fum wəkin afum wəco kəcamət (50) dacɔ, pɔcɔl pin wəco kəcamət (50) dacɔ, kəyɛfɛ cəna, ŋkesiya, sɔfale, cir kəbəp ka yɔcɔl yɛlpəs yɔkɔ nəsɔŋ yayɔkɔ aLewy aŋɛ ŋantɔmpər kəbum ka dəkiyi dosoku dem mɔ.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:32 Yɔcɔl nyɛ asutɛnɛ ŋanafoŋət dəkəwan mɔ: Dɛlay da ŋkesiya kɔ cir dɛnabəp wul masar camət-tin, wəco camət-mɛrəŋ kɔ kəcamət (675.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:33 Dɛlay da cəna dɛnabəp wul wəco camət-mɛrəŋ kɔ mɛrəŋ (72.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:34 Dɛlay da sɔfale dɛnabəp wul wəco camət-tin kɔ pin (61.000),	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:35 kɔ aran wul wəco maas kɔ mɛrəŋ (32.000) aŋɛ arkun ŋanatɔfəntərər mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:36 Yɔcɔl yɛfɛt nyɛ y'anasɔŋ asutɛnɛ: Ŋkesiya kɔ cir wul masar maas wəco maas kɔ camət-mɛrəŋ, masar kəcamət (337.500).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	NUM 31:37 Yɔcɔl nyɛ anabelər ya MARIKI mɔ yɛnabəp masar camət-tin, wəco camət-mɛrəŋ kɔ kəcamət (675).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	NUM 31:38 Cəna wul wəco maas kɔ camət-tin (36.000), k'ambelɛ MARIKI wəco camət-mɛrəŋ kɔ mɛrəŋ (72).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	1	NUM 31:39 Sɔfale wul wəco maas, masar kəcamət (30.500), k'ambelɛ MARIKI wəco camət-tin kɔ pin (61).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	NUM 31:40 Afum wul wəco kɔ camət-tin (16.000) k'ambelɛ MARIKI wəco maas kɔ mɛrəŋ (32).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:43 ŋkesiya kɔ cir yɛnabəp wul masar maas wəco maas kɔ camət-mɛrəŋ, masar kəcamət (337.500),	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:44 cəna cənabəp wul wəco maas kɔ camət-tin (36.000),	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:45 sɔfale sənabəp wul wəco maas, masar kəcamət (30.500),	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:46 kɔ afum ŋanabəp wul wəco kɔ camət-tin (16.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:47 Yɔsɔtɔ yɔkɔ pənamar pasɔŋ aYisrayel mɔ, kɔ Musa owurɛ pɔsɔtɔ mpɛ o mpɛ dacɔ, pin wəco kəcamət (50) disrɛ, k'ɔsɔŋ aLewy aŋɛ ŋantɔmpər kəbum ka dəkiyi dosoku da MARIKI mɔ, pəmɔ tɔkɔ MARIKI ɛnasom ti Musa mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:48 Akiriŋ a asutɛnɛ tasar tin (100), akiriŋ a asutɛnɛ wul win (1.000) ŋander ŋabəp Musa,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:52 Delel da kɛma fəp nkɛ akiriŋ a asutɛnɛ tasar tin (100), asutɛnɛ wul win (1.000) ŋanasɔŋ MARIKI mɔ, dɛnabəp kilo tasar tin kɔ wəco camət-mɛrəŋ (170).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 31:54 Musa kɔ wəloŋnɛ Elasar ŋambaŋ kɛma nkɛ akiriŋ a asutɛnɛ tasar tin (100) kɔ asutɛnɛ wul win (1.000) ŋaŋkɛrɛ ŋa mɔ, kɔ ŋambɛr yi nde aŋgbancan ŋɛbəpɛnɛ kɔ Kanu, ntɛ tɔŋsɔŋɛ tɔyɔnɛ tɛcɛmcɛməs ta MARIKI teta aka Yisrayel mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 32:11 ‹Arkun aŋɛ ŋanapɛ kəyɛfɛ ka Misira mɔ, kəlɛk ka meren wəco mɛrəŋ (20) haŋ kəcepər ka ti, ŋafɔdenəŋk atɔf nŋɛ inadɛrəm kəsɔŋ Abraham, Siyaka kɔ Yakuba mɔ, bawo ŋaleləs fɛ dim dem.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 32:13 Kɔ pəntɛlɛ MARIKI nnɔ aka Yisrayel ŋayi mɔ, k'ɔsɔŋɛ ŋa kənɔŋkər-nɔŋkər nnɔ dətɛgbərɛ meren wəco maŋkəlɛ (40) haŋ kɔ dɛtɛmp ndɛ dɛnayɔ tɔkɔ tɔntɔbɔt MARIKI mɔ ŋalip kəməlkɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 33:9 Kɔ ŋayɛfɛ Mara kɔ ŋaŋkɔ Elim. Cələmp wəco kɔ mɛrəŋ (12) cənayi Elim kɔ komp wəco camət-mɛrəŋ (70) dəndo ŋanacəmbərəs.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 33:38 Kɔ wəloŋnɛ Aruna ɛmpɛ nde tɔrɔ ta Hor kəroŋ kəsom ka MARIKI disrɛ, k'ɔŋkɔ pəfi di teren ta wəco maŋkəlɛ (40) kəwur ka aka Yisrayel Misira, tataka tɔcɔkɔ-cɔkɔ ta ŋof ŋa kəcamət.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	NUM 33:39 Aruna ɛnasɔtɔ meren tasar tin wəco mɛrəŋ kɔ maas (123) ntɛ encfi nde tɔrɔ ta Hor mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 35:4 Ntɔf yɔkɔ yɛŋkɛl sədare səŋan, nyɛ nəndesɔŋ ŋa mɔ, pəmar yɔyɔ dowokulu da mɛtər masar kəcamət (500) haŋ pənɔŋkər.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	NUM 35:5 Teta dəkəsɔmət da yɔcɔl yayɔkɔ nətubuc kəyɛfɛ ka damba ndɛ dɛŋkɛl dare mɔ, kəkɔ ntende dec dɛmpɛ mɛtər wul win (1.000) kɔ nde dɛŋkalɛ sɔ mɔ, mɛtər wul win (1.000), kəca kətɔt mɛtər wul win (1.000) kɔ kəmeriya mɛtər wul win (1.000), dare deyi dacɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	NUM 35:6 Nəsɔŋ aLewy sədare səyacnɛ camət-tin nsɛ wədif fum ta ɛyɛfɛnɛ ti, ɛntam kəyɛksɛ pəkɔ mɔ. Nəsɔŋ ŋa sɔ sədare wəco maŋkəlɛ kɔ mɛrəŋ (42).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	8	NUM 35:7 Sədare nsɛ pəmar pasɔŋ aLewy mɔ: Sədare wəco maŋkəlɛ kɔ camət-maas (48) kɔ cəsək ca si teta dəkəsɔmət da yɔcɔl yaŋan.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	1	DEU 1:2 Kəkɔt ka mata wəco kɔ tin (11) kɔ, kəyɛfɛ ka tɔrɔ ta Horɛb məsolnɛ ta dɔpɔ da mɔrɔ ma Sehir haŋ məkɔ məbɛrɛ Kadɛs Barneya.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	1	DEU 1:3 Teren ta wəco maŋkəlɛ (40) ntɛ aka Yisrayel ŋanayɛfɛ kɔ ŋawur Misira mɔ, tataka tacɔkɔ-cɔkɔ ta ŋof ŋa wəco kɔ pin (11), kɔ Musa oloku ŋa moloku fəp mɔkɔ MARIKI ɛnasom kɔ nnɔ ŋayi mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 1:11 Intola MARIKI Kanu ka atem anu kəsɔŋɛ nu sɔ kəla wul win (1.000) pəcepər tantɛ, pəpocɛ nu pətɔt pəmɔ tɔkɔ ɛnaloku nu ti mɔ!	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 1:15 K'ilɛk afum akɔ ŋanayɔnɛ akiriŋ a cusuŋka conu mɔ, afum aŋɛ ŋancərɛ kəkɔtɛnɛ mes, aŋɛ afum fəp ŋaleləs belbel mɔ, k'incəmbər ŋa, kɔ ŋayɔnɛ akiriŋ anu aka afum wəco wəco, akiriŋ aka afum wəco kəcamət kəcamət (50, 50), akiriŋ aka afum tasar tin tin (100, 100), akiriŋ aka afum wul win win (1.000, 1.000), k'atubuc mes cusuŋka conu disrɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	DEU 1:23 Kɔ moloku mamɔkɔ mɔmbɔt im, k'ilɛk arkun wəco kɔ mɛrəŋ (12) nu dacɔ, kusuŋka o kusuŋka fum wəkin.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 2:7 Bawo MARIKI Kanu kam kəmpoc'am pətɔt dəmosumpər ma waca wam fəp, Kanu kənacərɛ kəkɔt kam tɛgbərɛ pɔpɔŋ pampɛ. Meren wəco maŋkəlɛ (40) mɔ mamɛ MARIKI Kanu kam kəsol'am, ali paka pombut f'am.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	8	DEU 2:14 Kəwon kosu dɔpɔ ntɛ səlɛk kəkɔt kəyɛfɛ ka Kadɛs Barneya haŋ səcali kəŋgbɔkɔ ka Sered mɔ, kənasɔtɔ meren wəco maas kɔ camət-maas (38), haŋ kɔ danapa da afum asu aka dəkəwan fəp ŋalip kəfis-fis su dacɔ, pəmɔ tɔkɔ MARIKI ɛnadɛrmɛ ŋa ti mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 3:4 Tɛm tatɔkɔ tɔ sənasumpər sədare sasɔkɔ fəp, ali dare din dɛnayi fɛ si dacɔ ndɛ sənatɔsumpər mɔ. Ɔk ɛnatɔmpər dɛbɛ da sədare wəco camət-tin (60) nde Arkɔb ŋa Basan.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 5:10 Mba iŋsektərnɛ danapa da dɛtɛmp wul win (1.000), da afum aŋɛ ŋambɔtər im ŋamɛŋkərnɛ mosom mem mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 8:2 Mədekɔ məccɛm-cɛmnɛ teta dɔpɔ fəp ndɛ MARIKI Kanu kam ɔŋkɔtɛn'am meren mmɛ wəco maŋkəlɛ (40) disrɛ nde dətɛgbərɛ mɔ, ntɛ tɔŋsɔŋɛ pədusum əm kətɔrəs disrɛ, pəwakəs əm, pəcərɛ tɔkɔ tɛnay'əm dɛbəkəc mɔ, pəmɔmən kɔ tɔyɔnɛ məŋmɛŋkərnɛ mosom mɔn-ɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 8:4 Yamos yam yɛnaməcɛ-məcɛ f'am, wɛcək wam wɛnakəf fɛ meren wəco maŋkəlɛ (40) mmɛ disrɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 9:9 Ntɛ inapɛ nde dətɔrɔ kəkɔbaŋ walakɛ wa masar mɔ, walakɛ wa danapa ndɛ MARIKI ɛnasek kɔ nəna mɔ, k'iyi dəndo tɔrɔ kəroŋ mata wəco maŋkəlɛ (40), pibi kɔ daŋ, incdi fɛ yeri, incmun fɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 9:11 Dəkələpsər da mata wəco maŋkəlɛ (40) dadɔkɔ, kɔ MARIKI ɔsɔŋ im walakɛ wa masar mɛrəŋ wa danapa.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 9:18 K'iŋkɔ itɛmpɛnɛ MARIKI fɔr kiriŋ, pəmɔ tɔkɔ inayɔ ti tɔcɔkɔ-cɔkɔ mɔ. Mata wəco maŋkəlɛ (40), pibi kɔ daŋ, incdi fɛ yeri, incmun fɛ teta kiciya fəp kəŋkɔ nənaciya mɔ, bawo nənadəktər MARIKI kəyɔ ka tɔkɔ tɔŋsɔŋɛ kɔ mɛtɛlɛ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 9:25 Ti tɛnasɔŋɛ k'intɛmpɛnɛ MARIKI fɔr kiriŋ mata wəco maŋkəlɛ (40), pibi kɔ daŋ, bawo MARIKI ɛnaloku kəfaŋ kəmələk nu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 10:10 K'iwon sɔ dəndo tɔrɔ kəroŋ pəmɔ tɔcɔkɔ-cɔkɔ, mata wəco maŋkəlɛ (40), pibi kɔ daŋ. Kɔ MARIKI owosɛ tantɛ sɔ kəlɛtsɛnɛ kem, owosɛ fɛ sɔ kəmələk əm.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 10:22 Atem am ŋanator atɔf ŋa Misira, ŋayi afum wəco camət-mɛrəŋ (70). Ndɛkəl oŋ, MARIKI Kanu kam kəsɔŋ'am kəyɔnɛ kənay pəmɔ cɔs ca dəkɔm.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 29:4 Meren wəco maŋkəlɛ (40) ickɔtɛn'on dətɛgbərɛ. Yamos yonu yɛnaməcɛ-məcɛ fɛ nu, cɔfta conu cənacopər fɛ nu dəwɛcək,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 31:2 pəcloku ŋa: «Isɔtɔ mɔkɔ meren tasar tin kɔ wəco mɛrəŋ (120), ifɔsɔtam tes o tes, kɔ MARIKI olok'im: ‹Məfɔcali nnɔ Yurdɛn yayɛ.›	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 32:30 «Kɔ pəntɔyɔnɛ Kanu togbu paŋan pɛcaməs ŋa-ɛ, kɔ pəyɔnɛ fɛ a MARIKI ɔsɔŋ ŋa aterɛnɛ aŋan dəwaca-ɛ, cəke cɔ wəterɛnɛ wəkin gboŋ ɛntam kəbɛləs aka Yisrayel wul win-ɛ (1.000)? Cəke cɔ aterɛnɛ aŋan mɛrəŋ, ŋantam kəbɛləs afum aka Yisrayel wul wəco-ɛ (10.000)?	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 33:2 Kɔ Musa oloku: «Kɔ MARIKI ɛyɛfɛ tɔrɔ ta Sinayi, k'ɛyɛfɛ aka Yisrayel kəroŋ pəmɔ ntɛ dec dɛmpɛ atɔf ŋa Sehir mɔ. Kəyɛfɛ nde tɔrɔ ta Paran, k'omot aka Yisrayel nɔrɔ, k'ender nnɔ afum ɔn ŋayi mɔ, mɛlɛkɛ mosoku wul wəco (10.000) mɛkɛl kɔ. Pətɔmpər dəkəca sariyɛ səmotər-motər.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 34:7 Musa ɛnasɔtɔ meren tasar tin kɔ wəco mɛrəŋ (120) ntɛ encfi mɔ. Fɔr yɔn yɛncnəŋk belbel pəyeŋk sɔ dis.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	DEU 34:8 K'aka Yisrayel ŋambok Musa mata wəco maas (30), nde Araba ŋa Mohab, ti disrɛ kɔ mataka ma kəbok kɔ kəbal ka Musa melip.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	JOS 8:25 Dɔsɔk dadɔkɔ anadif afum mɛcəp wəco kɔ mɛrəŋ (12.000), kəyɛfɛ arkun haŋ aran, fəp fəŋan aka Hay.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	JOS 15:32 Lebayot, Silhim, Ayin kɔ Rimon. Kəbɛrɛnɛ ka sədare sasɔkɔ fəp səkɔ sədare wəco mɛrəŋ kɔ camət-maŋkəlɛ (29) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 15:36 Sarayim, Aditayim, kɔ Kedera nkɛ aŋwe sɔ Kederotayim mɔ. Sədare wəco kɔ maŋkəlɛ (14) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	JOS 15:41 Kederɔt, Bet Dakɔŋ, Nahama, kɔ Makeda. Si sənayɔnɛ sədare wəco kɔ camət-tin (16) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	JOS 15:44 Keyila, Akəsibu kɔ Maresa. Si sənayɔnɛ sədare camət-maŋkəlɛ (9) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	1	JOS 15:51 Kosɛŋ, Holon kɔ Kilo. Si səyɔnɛ sədare wəco kɔ pin (11) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	JOS 15:54 Humeta, Kiriyat-Arba nde pəyɔnɛ Hebərɔŋ mɔ, kɔ Cihɔr. Si səyɔnɛ sədare camət-maŋkəlɛ (9) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	JOS 15:57 Kayin, Kibeya, kɔ Timna. Si səyɔnɛ sədare wəco (10) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	JOS 15:59 Maharat, Bet Anot, kɔ Ɛltəkon. Si sənayɔnɛ sədare camət-tin (6) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JOS 15:60 Kiriyat Bal nde pəyɔnɛ Kiriyat-Yeyarim mɔ, kɔ Raba, si sənayɔnɛ sədare mɛrəŋ (2) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	JOS 15:62 Nibəsan, Hir-Mela, kɔ En-Kedi, si sənayɔnɛ sədare camət-tin (6) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JOS 18:24 Kefar-Amoni, Hofni kɔ Keba, sədare wəco kɔ mɛrəŋ (12) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 18:28 Cela, Helef, Yebus yi yɔyɔnɛ Yerusalɛm, Kibeya kɔ Kiriyat, sədare wəco kɔ maŋkəlɛ (14) kɔ sədare səfɛt sa si. Kɛ ka aka kusuŋka ka Beŋyamin kənayi kaŋkɔ dəcor dəcor.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	JOS 19:6 Bet Lebayot kɔ Saruhɛn, sədare wəco kɔ maas (13) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JOS 19:15 Kɛ kəŋan kəlɛkɛnɛ Katat, Nahalal, Simrɔŋ, Yidala, kɔ Bet Lɛhɛm. Ŋanasɔtɔ sədare wəco kɔ mɛrəŋ (12), kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	JOS 19:22 Kələncər kəŋan kəŋkɔ kəgbuŋɛnɛ Tabor, Sahacima, Bet Sɛmɛs, kəkɔ kəfutər Yurdɛn, sədare wəco kɔ camət-tin (16) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JOS 19:30 kəlɛkɛnɛ ka Huma, Afek kɔ Rehobo, sədare wəco mɛrəŋ kɔ mɛrəŋ (22) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	JOS 19:38 Yiron, Mikədal-El, Horem, Bet Hanat kɔ Bet Sɛmɛs, sədare wəco kɔ camət-maŋkəlɛ (19) kɔ sədare səfɛt sa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	JOS 21:4 K'aŋkotɛ yampuŋ-puŋ aka cor ca Kehat. K'awurɛ aLewy afum a wəloŋnɛ Aruna sədare wəco kɔ maas (13) nde cusuŋka ca Yuda, Simeyɔŋ kɔ Beŋyamin, k'asɔŋ ŋa si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	JOS 21:5 Kɔ cusuŋka cəlpəs ca Kehat ŋasɔtɔ sədare wəco (10) nde antɔf ŋa cusuŋka ca Efrayim, Dan, kɔ kusuŋka dacɔ ka Manase.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	JOS 21:6 K'aŋkot yampuŋ-puŋ, kɔ afum a Kerson ŋasɔtɔ sədare wəco kɔ maas (13) nde antɔf ŋa aka cusuŋka ca Yisakar, Asɛr, Naftali, kɔ aka kusuŋka dacɔ ka Manase nde Basan.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JOS 21:7 Kɔ afum a Merari dəcor dəcor, ŋasɔtər sədare wəco kɔ mɛrəŋ (12) aka cusuŋka ca Ruben, Kadu, kɔ Sabulon.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	JOS 21:16 Ayin, Yuta kɔ Bet Sɛmɛs, sədare camət-maŋkəlɛ (9) ca cusuŋka ca Simeyɔŋ kɔ Beŋyamin kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	JOS 21:19 Aloŋnɛ aŋɛ ŋanayɔnɛ aka kusuŋka ka Aruna mɔ ŋanasɔtɔ sədare wəco kɔ maas (13) kɔ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 21:22 Kibasayim, kɔ Bet Horon, sədare maŋkəlɛ (4) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 21:24 Ayalon, kɔ Kat-Rimon, sədare maŋkəlɛ (4) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JOS 21:25 K'asɔŋ kusuŋka dacɔ ka Manase: Tahanak kɔ Kat-Rimon, sədare mɛrəŋ (2) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	JOS 21:26 Cor ca afum a Kehat alɔma cənasɔtɔ sədare wəco (10) kɔ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JOS 21:27 K'asɔŋ afum a Kerson cor ca aLewy dacɔ: Ŋasɔtər aka kusuŋka dacɔ ka Manase nde Yurdɛn kəsək ntende dec dɛmpɛ mɔ sədare mɛrəŋ (2) kɔ culum ca si: Kolan nde Basan disrɛ, dare da kəgbɔpənɛ, kɔ Bɛstara.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 21:29 Yarmut, kɔ En-Kanim, sədare maŋkəlɛ (4) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 21:31 Hɛlkat, kɔ Rehobo, sədare maŋkəlɛ (4) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	JOS 21:32 K'asɔŋ kusuŋka ka Naftali: Kɛdɛs nde Kalile, dare da kəgbɔpənɛ, Hamot-Dɔr, kɔ Kartan, sədare maas (3) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	3	JOS 21:33 Sədare sa aka Kerson dəcor dəcor sənakɔ sədare wəco kɔ maas (13) kɔ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 21:35 Dimna, kɔ Nahalal, sədare maŋkəlɛ (4) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 21:37 Kedemot, kɔ Mefahat, sədare maŋkəlɛ (4) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	JOS 21:39 Hesbon, kɔ Yaser, sədare maŋkəlɛ (4) kəlɛkɛnɛ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JOS 21:40 Ntɛ aŋkot yampuŋ-puŋ mɔ kɔ afum a Merari ŋawurɛ dəcor dəcor akɔ ŋanayɔnɛ aka kusuŋka ka Lewy alpəs mɔ, ŋasɔtɔ sədare wəco kɔ mɛrəŋ (12).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	8	JOS 21:41 Sədare sa kusuŋka ka aLewy ntɔf ya aka Yisrayel dacɔ sənakɔ sədare wəco maŋkəlɛ kɔ camət-maas (48) kɔ culum ca si.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	JOS 24:29 Ntɛ mes mamɔkɔ mencepər mɔ, Yosuwe wan ka Nun wəcar wəka MARIKI efi. Meren mɔn mɛnakɔ tasar tin kɔ wəco (110).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	JOS 24:32 Bɛnt ya Isifu nyɛ aka Yisrayel ŋanakɛrɛ kəyɛfɛ Misira mɔ, anawup yi nde Sɛkɛm nde dalɛ ndɛ Yakuba ɛnawayər awut a Hamɔr papa wəka Sɛkɛm mɛncəmbəl ma gbeti tasar tin (100). Itɔ dalɛ dandɛ dɛnayɔnɛ kɛ ka kusuŋka ka Isifu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 4:2 Ntɛ Yesu elip kəsuŋ mata wəco maŋkəlɛ (40) pibi kɔ daŋ mɔ, kɔ dor dɔyɔ kɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 13:8 Kɔ mɛŋgbɛn mɔlɔma mɛntɛmpɛnɛ antɔf ŋɔtɔt, kɔ mompoŋ kɔ mɛləpsər kəkom yokom nyɛ tasar tin (100), yɔkɔ wəco camət-tin (60), kɔ yɔlɔma wəco maas (30).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 13:23 Mɛŋgbɛn mmɛ mɛnatɛmpɛnɛ antɔf ŋɔtɔt mɔ meyi pəmɔ fum nwɛ eŋne Toloku pəcərɛ ti, tokom ntɛ tasar tin (100), tɔkɔ wəco camət-tin (60), kɔ tɔlɔma wəco maas (30).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 13:33 Kɔ Yesu ɛntəksɛ sɔ afum totubcɛnɛ tɔlɔma, pəcloku: «Ntɛ tɔ dɛbɛ da dəKɔm dowurɛnɛ pəmɔ lebin ndɛ wəran ɛŋlɛk pənɔktərɛnɛ di kəmbefe kilo wəco mɛrəŋ (20) mɔ. Kɔ kəmbefe fəp kəmpɛ!»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 14:21 Kənay ka afum aŋɛ ŋanasɔm cəcom cacɔkɔ mɔ ŋanabəp arkun wul kəcamət (5.000), ta alɔm aran kɔ awut-ɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 15:38 Arkun aŋɛ ŋanadi yeri yayɔkɔ mɔ ŋanabəp afum wul maŋkəlɛ (4.000), ta alɔm aran kɔ awut-ɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 16:9 Haŋ ndɛkəl nəntacərɛ fɛ? Nəncɛm-cɛmnɛ fɛ teta cəcom kəcamət ncɛ arkun wul kəcamət (5.000) ŋanasɔm kɔ cəfala cəke c'anakɛr'em cəcom cəlpəs-ɛ?	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 16:10 Nəncɛm-cɛmnɛ fɛ sɔ cəcom camət-mɛrəŋ ncɛ arkun wul maŋkəlɛ (4.000) ŋanasɔm, kɔ cəfala cəke cɔ nənalukəs'em cəcom cəlpəs-ɛ?	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	MAT 18:12 Cəke cɔ nəncɛm-cɛmnɛ-ɛ? Kɔ fum ɔyɔ ŋkesiya tasar tin (100), ŋin ŋɔsɔlɛ-ɛ, fum nwɛ ɔfɔsak ŋkesiya yɔkɔ wəco camət-maŋkəlɛ kɔ camət-maŋkəlɛ (99) nde dəmɔrɔ kəkɔtɛn ŋin ŋɔkɔ ŋɔsɔlɛ mɔ ba?	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	MAT 18:13 Kance icloku nu: Kɔ fum ɛnəŋk aŋkesiya ŋɔsɔlɛ ŋɔn ŋin-ɛ, teta ŋin ŋaŋɔkɔ ɛnəŋk mɔ tɔmbɔt kɔ tetas ta yɔkɔ wəco camət-maŋkəlɛ kɔ camət-maŋkəlɛ (99) nyɛ yɛnatɔsɔlɛ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	7	MAT 18:22 Kɔ Yesu oloku: «Iloku f'am haŋ camət-mɛrəŋ gbəcərəm, mba haŋ wəco camət-mɛrəŋ yoboc camət-mɛrəŋ (70 yoboc 7).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAT 26:15 kəkɔyif ŋa: «Kɔ tɔyɔnɛ ilɛk Yesu ibɛr nu dəwaca-ɛ, pəsam cəke pɔ nəndesɔŋ im-ɛ?» Kɔ abɛ aŋɛ ŋalɔm gbeti gbəleŋ wəco maas (30), kɔ ŋasɔŋ kɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 1:13 K'encepərɛnɛ di mata wəco maŋkəlɛ (40), Sentani səcwakəs kəsɔŋɛ kɔ kəciya. Sɛm ya dəkulum yɔ ŋanayi, mɛlɛkɛ mɛckɛkəs kɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 4:8 Kɔ mɛŋgbɛn mɔlɔma mɛntɛmpɛnɛ antɔf ŋɔtɔt kəroŋ, kɔ mompoŋ kɔ mɛsəŋk, kɔ mɛləpsər kəsɔŋ yokom. Kɔ mɔlɔma moŋkom wəco maas (30), mɔlɔma wəco camət-tin (60) kɔ mɔlɔma tasar tin (100).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 4:20 Tɛlpəs, anabɔf mɔlɔma antɔf ŋɔtɔt. Antɔf ŋɔtɔt ŋɔyɔnɛ afum aŋɛ ŋaŋne toloku ta Kanu, ŋabaŋ ti, ŋasɔŋɛ ti kəkom, ntɛ wəco maas (30), tɔkɔ wəco camət-tin (60), kɔ tɔlɔma tasar tin (100).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 5:13 Kɔ Yesu owosɛnɛ yi. Kɔ yɔŋk yɛlɛc yowur dəfum kɔ yɛmbɛrɛ dəsɔp, kɔ sɔp yɛyɛksɛ kətor dəkəba yɛyɛfɛ dətɔrɔ. Dɛlay da sɔp yayɔkɔ dɛncbəp wul mɛrəŋ (2.000). Kɔ yɛŋgbətsɛ, kɔ yefis-fis dəndo dəkəba.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 6:40 Kɔ ŋandəs afum cəgba ca tasar tin (100) kɔ cəgba ca wəco kəcamət (50).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 6:44 Arkun aŋɛ ŋanasɔm cəcom cacɔkɔ mɔ, ŋanabəp arkun wul kəcamət (5.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 8:9 Kənay ka afum kaŋkɔ kənabəp afum wul maŋkəlɛ (4.000), ntɛ telip mɔ, kɔ Yesu elembərnɛ ŋa.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 8:19 ntɛ inatep-tepɛ arkun wul kəcamət (5.000) cəcom kəcamət mɔ, cəcom cəlpəs cəfala cəke cɔ nənasɔtɔ-ɛ?» Kɔ acɛpsɛ ŋaloku Yesu: «Wəco kɔ mɛrəŋ.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	MAR 8:20 «Ntɛ inatep-tepɛ afum wul maŋkəlɛ (4.000) cəcom camət-mɛrəŋ mɔ, cəfala cəke cɔ nənasɔtɔ cəcom cəlpəs-ɛ?» Kɔ ŋaloku Yesu: «Cəfala camət-mɛrəŋ.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	4	LUK 2:37 Kɔ wos ende pəfi, k'eyi oŋ ta ɔyɔ wərkun-ɛ. Hana pəsɔtɔ meren 84 k'eyi, ta ɔmbɔlɛ kəlɔ kəpɔŋ ka Kanu-ɛ pəcbəc mɛfaŋ ma Kanu daŋ kɔ pibi kəlok-lokər Kanu kɔ kəsuŋ disrɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 3:23 Yesu ɛnasɔtɔ meren 30, a pədecop yɛbəc yɔn. Wan ka Isifu ɛnayi pəmɔ tatɔkɔ anacɛm-cɛmnɛ ti mɔ, wəka Heli,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 4:2 nde Ŋɔŋk Ŋɛlɛc ŋɛnawakəs kəsɔŋɛ kɔ kəciya mata wəco maŋkəlɛ (40) disrɛ mɔ. Ali paka ɛnadi fɛ mataka mamɔkɔ disrɛ, ntɛ mataka mamɔkɔ melip mɔ, kɔ dor dɔyɔ kɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 7:41 «Wəbɔs-bɔsər wəlɔma afum mɛrəŋ ŋanatɔmpərɛ debe: Wəkin nwɛ pətɔmpərɛ kɔ gbeti mɛncəmbəl masar kəcamət (500), kɔ wəka mɛrəŋ pətɔmpərɛ kɔ mɛncəmbəl 50.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 8:8 Kɔ mɛŋgbɛn mɔlɔma mɛntɛmpɛnɛ antɔf ŋɔtɔt kəroŋ. Ntɛ mamɔkɔ mompoŋ mɔ, kɔ yoŋkoməs, kɔ popoŋ mpɛ o mpɛ poŋkom mɛŋgbɛn tasar tin (100).» Yesu oncloku toloku tatɔkɔ, pəcgbəŋɛ: «Məna nwɛ məŋyɔ ləŋəs yenenɛ mɔ, məne ti!»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 9:14 Mba afum aŋɛ ŋancbəp arkun wul kəcamət (5000). Kɔ Yesu oloku Asom ɔn: «Nəyɔ ŋa ŋaloŋkanɛ arkun wəco kəcamət wəco kəcamət (50-50).»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	LUK 10:1 Ntɛ tatɔkɔ tencepər mɔ, kɔ Wəbɛ ɛyɛk-yɛk sɔ afum 72 alɔma, k'osom ŋa mɛrəŋ mɛrəŋ ŋayi kɔ tekiriŋ kəkɔt ka sədare kɔ mofo fəp mmɛ pənamar kɔ kəkɔ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	LUK 10:17 Kɔ afum 72 aŋɛ anasom mɔ ŋalukus pəbotu disrɛ kɔ ŋaloku: «Wəbɛ! Ali yɔŋk yɛlɛc fəp yɛnayi su dəntɔf tewe tam.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 13:21 Dɛbɛ da Kanu dowurɛnɛ pəmɔ lebin ndɛ wəran ɛŋlɛk pənɔktərɛnɛ di kəmbefe kilo wəco mɛrəŋ (20) mɔ. Kɔ kəmbefe fəp kəmpɛ!.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 14:31 Itɔ pəyi wəbɛ nwɛ ɛŋfaŋ kəkɔsutɛnɛ kɔ wəbɛ wəlɔma mɔ, mɛnɛ pəndɛ pəmɔmən kɔ pəyɔnɛ, afum wul wəco (10.000) ŋantam kəsutɛnɛ kɔ afum wul wəco mɛrəŋ (20.000) aka wəbɛ wəkɔ ŋaŋkɔsutɛnɛ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 14:32 Kɔ pəyɔnɛ fɛ ti-ɛ, ŋaŋsɔrɛbɔlɛnɛ, wəbɛ wəka afum wul wəco (10.000) pəsom nda wəbɛ wəka afum wul wəco mɛrəŋ (20.000) wəkɔ ŋaŋkɔsutɛnɛ mɔ, ntɛ pəmar pəkɔt ta ŋasutɛnɛ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	LUK 15:4 «Nəna afum akaŋɛ dacɔ, an'ɔŋyɔ ŋkesiya tasar tin (100), a ŋin ŋɔsɔlər kɔ, ta ɛsak yɔkɔ wəco camət-maŋkəlɛ kɔ camət-maŋkəlɛ (99) dətɛgbərɛ kəkɔtɛn ŋin ŋɔkɔ ŋɔsɔlər kɔ mɔ, haŋ pənəŋk ŋi-ɛ?	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	9	LUK 15:7 Icloku nu: Pəbotu pɔŋkɔyi darɛnc teta fum wəkin nwɛ ɔŋkɔsəkpər amera pəcəmɛ dɔpɔ dolompu darəŋ mɔ, pətas teta afum wəco camət-maŋkəlɛ kɔ camət-maŋkəlɛ (99) aŋɛ pəntɔmar kəsəkpər mera, bawo ŋalomp mɔ.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 16:6 Kɔ wəkakɔ oloku kɔ: ‹Moro ma olif kokos tasar tin (100).› —‹Awa, məlɛk areka, məndɛ məcic: 50.›	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	LUK 16:7 K'eyif sɔ wəlɔma: ‹A məna-a, cəke cɔ məntɔmpər-ɛ?› Kɔ wəkakɔ oloku: ‹Malɔ busul tasar tin (100).› —‹Awa, məndɛ məlɛk areka, məcic 80.›	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 1:3 Asom akakɔ ŋɔ Yesu ɛnamentər kance ka mes mɛlarəm ntɛ ɛnayɛfɛ pucuy pa defi mɔ. K'owurər ŋa mata 40 pəyi wəyɛŋ, pəcloku ŋa mes ma dɛbɛ da Kanu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 1:15 Dɔsɔk dɔlɔma mata mamɔkɔ disrɛ, afum aŋɛ ŋanayi di mɔ, ŋanckɔ haŋ afum tasar tin kɔ wəco mɛrəŋ (120). Kɔ Piyɛr ɛyɛfɛ awɛnc ɔn dacɔ, k'oloku:	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 2:41 Afum alarəm ŋawosɛ kəgbət dəromun teta Kanu. Dɔsɔk dadɔkɔ afum wul maas (3.000) ŋambɛrɛnɛ akɔ ŋananuŋkɛnɛ kəlaŋ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 4:4 Afum alarəm alɔma aŋɛ ŋanane moloku maŋan mɔ, ŋanalaŋ, dɛlay daŋan dɛnabəp arkun wul kəcamət (5.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 5:36 Towon fɛ, Tudas ɛnadot banca, afum masar maŋkəlɛ (400) ŋanacɛk kɔ darəŋ. Mba anamələk kɔ, afum akɔ ɛnasolɛ mɔ fəp k'ambɛləs ŋa. Ali wəkin anasak fɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 7:6 Kɔ Kanu kəloku Abraham ntɛ: «Kəbənda ka dokom dam kəndeyi decikəra atɔf ŋɔlɔma. Andekɔcəmbər ŋa di dacar, patɔrəs ŋa meren masar maŋkəlɛ (400).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	5	ACT 7:14 Kɔ Isifu osom awɛnc ɔn a pakɛrɛ kɔ kas Yakuba, kəlɛkɛnɛ ka afum ɔn fəp, aŋɛ ŋancbəp afum wəco camət-mɛrəŋ kɔ kəcamət (75) mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 7:23 Ntɛ Musa ɔsɔtɔ meren wəco maŋkəlɛ (40) mɔ, k'ende pəcɛm-cɛmnɛ kəkɔnəŋk awɛnc aŋa, afum a Yisrayel.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 7:30 Ntɛ meren wəco maŋkəlɛ mencepər (40) mɔ, kɔ mɛlɛkɛ mowurər Musa nde tɛgbərɛ ta tɔrɔ ta Turisnina dəmemer ma nɛnc ndɛ dɛncmar dɛrəntəm mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 7:36 Nkɔn Musa ɛnawurɛnɛ aYisrayel Misira pəcyɔ mes mɛwɛy-wɛy kɔ mɛgbɛkərɛ ma Kanu, nde kəba Kəyim kɔ nde dətɛgbərɛ, meren mmɛ wəco maŋkəlɛ (40) disrɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 7:42 Mba kɔ Kanu kəmbɛr ŋa kumunt, kɔ kəsakɛ ŋa kəkor-koru ca ya darenc. It'ancic ti buk ba sayibɛ disrɛ: ‹Nəna aka Yisrayel, meren wəco maŋkəlɛ (40) mmɛ nəncepərɛnɛ dətɛgbərɛ mɔ, in'ɔ nəncdifɛ sɛm kəloŋnɛ disrɛ ba?	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 10:1 Wərkun wəlɔma ɛnayi Sesari pacwe kɔ Kɔrneli, pəyɔnɛ wəbɛ ka kəgba ka asɔdar tasar tin (100). Kəgba kaŋkɔ k'ancwe «Kəgba Itali.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 10:22 Kɔ ŋaloku kɔ: «Kɔrneli, wəbɛ wəka asɔdar tasar tin (100), fum wəlompu pəcnesɛ Kanu, nwɛ aSuyif fəp ŋancərɛ dɔtɔt dɔn akɔ ŋaŋloku mes mɔn mɔtɔt mɔ, ndɔrɔn Kanu kəsom mɛlɛkɛ mosoku, a pəsak su sədew'am pəkɔcəŋkəl əm ntɛ pəmar məloku kɔ mɔ.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 13:18 Kɔ kəlɛkɛ ŋa mes mɛlɛc maŋan nde dətɛgbərɛ meren wəco maŋkəlɛ (40).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 13:20 Mes mamɔkɔ fəp mɛnawon meren masar maŋkəlɛ kɔ wəco kəcamət (450). Ntɛ tatɔkɔ tencepər mɔ, kɔ Kanu kəsɔŋ ŋa aboc kiti, aŋɛ ŋanatɔmpər dɛbɛ da aka Yisrayel mɔ haŋ kəbəp ka tɛm ta aŋnabi Samiyɛl.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 13:21 Kɔ tɛyɛfɛ dənda kɔ aka Yisrayel ŋawer Kanu wəbɛ. Kɔ kəsɔŋ ŋa Sawul wan ka Kis pəyɔnɛ ŋa wəbɛ meren wəco maŋkəlɛ (40). Fum wəka kusuŋka ka Beŋyamin ɛnayi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 19:19 Kɔ afum akɔ ŋanayɔnɛ dure mɔ, ŋanckɛrɛ səbuk səŋan sa dure kɔ ŋancɔf si fɔr ya afum fəp kiriŋ. Kəway ka səbuk sasɔkɔ kənabəp mɛncəmbəl ma gbeti wul wəco kəcamət (50.000).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 21:38 Bafɔ wəMisira məyɔnɛ, wəkɔ ɛntɛp kəcsɔŋɛ pəyamayama kəyi mɔ, məkɛrɛ adifət afum wul maŋkəlɛ (4000) nde dətɛgbərɛ ba?»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	0	ACT 23:23 Kɔ wəbɛ wəsɔdar wəRom ewe asɔdar ɔn apɔŋ mɛrəŋ, k'oloku ŋa: «Nəlɛk asɔdar masar mɛrəŋ (200), ayɛksɛnɛ fəlɛs wəco camət-mɛrəŋ, kɔ atɔmpər mbəncəran masar mɛrəŋ (200), ŋalompəsnɛ kəkɔ ka Sesari pibi-ana.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	6	ACT 27:37 Sənayi afum masar mɛrəŋ wəco camət-mɛrəŋ kɔ camət-tin (276) akɔ ŋanayi abil ŋaŋɔkɔ disrɛ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	2	JAM 1:1 Ina Sak, wəcar ka Kanu kɔ Mariki Yesu Krist, incicɛ nu areka ŋaŋɛ nəna afum a Kanu cusuŋka wəco kɔ mɛrəŋ (12) aŋɛ ŋasamsər doru mɔ, iŋyif nu!	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Source	count	449	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	77	001-GEN-004-024 Kɔ pəyɔnɛ padif afum camət-mɛrəŋ kəluksɛ ayɛk ŋa Kayin-ɛ, andedif afum 77, a pacluksɛ ayɛk ŋa Lɛmɛk.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Adama endesɔtɔ meren 130, k'ɔsɔtɔ wan wəwurɛnɛ kɔ nkɔn, pəmɔ tɔkɔ eyi mɔ, k'ɔsɔŋ kɔ tewe ta Sɛt.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	800	001-GEN-005-004 Ntɛ Adama oŋkom Sɛt mɔ, k'eyi sɔ doru meren 800, mmɛ ɛnasɔtɔ sɔ awut arkun k'awut aran mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	930	001-GEN-005-005 Kəwon ka Adama doru kənasɔtɔ meren 930, a k'endefi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	105	001-GEN-005-006 Sɛt ɛnasɔtɔ meren 105, a k'endekom Enɔs.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	807	001-GEN-005-007 Ntɛ Sɛt oŋkom Enɔs mɔ, k'eyi sɔ doru meren 807, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	912	001-GEN-005-008 Kəwon ka Sɛt doru kənasɔtɔ meren 912, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Enɔs ɛnasɔtɔ meren 90 a pədekom Kenaŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	815	001-GEN-005-010 Ntɛ Enɔs oŋkom Kenaŋ mɔ, k'eyi sɔ doru meren 815, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Kəwon ka Enɔs doru fəp kənasɔtɔ meren 905, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Kɔ Kenaŋ ɔsɔtɔ meren 70 a k'endekom Mahalalel.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Ntɛ oŋkom Mahalalel mɔ, kɔ Kenaŋ eyi sɔ doru meren 840, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Kəwon ka Kenaŋ doru fəp kənasɔtɔ meren 910, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Mahalalel ɛnasɔtɔ meren 65 a k'endekom Yɛrɛdu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	830	001-GEN-005-016 Ntɛ Mahalalel oŋkom Yɛrɛdu mɔ, k'eyi sɔ doru meren 830, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Kəwon ka Mahalalel doru fəp, kənasɔtɔ meren 895, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Yɛrɛdu ɛnasɔtɔ meren 162 a k'endekom Henok.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	800	001-GEN-005-019 Ntɛ Yɛrɛdu oŋkom Henok mɔ, k'eyi sɔ doru meren 800, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Kəwon ka Yɛrɛdu doru fəp kənasɔtɔ meren 962, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Henok ɛnasɔtɔ meren 65 a k'endekom Metusela.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	300	001-GEN-005-022 Ntɛ Henok oŋkom Metusela mɔ, k'ɔsɔtɔ sɔ meren 300 ŋasol kɔ Kanu. K'oŋkom sɔ awut arkun k'aran alɔma.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Kəwon ka Henok doru fəp kənasɔtɔ meren 365.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Metusela ɛnasɔtɔ meren 187 a k'endekom Lɛmɛk.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	782	001-GEN-005-026 Ntɛ Metusela oŋkom Lɛmɛk mɔ, k'ɔsɔtɔ sɔ meren 782, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Kəwon ka Metusela doru kənasɔtɔ meren 969, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Lɛmɛk ɛnasɔtɔ meren 182 a k'endekom wan wərkun.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Ntɛ Lɛmɛk oŋkom Nuha mɔ, k'eyi sɔ doru meren 595. K'oŋkom sɔ awut arkun k'awut aran alɔma.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Kəwon ka Lɛmɛk doru fəp kənasɔtɔ meren 777, k'efi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	500	001-GEN-005-032 Nuha ɛnasɔtɔ meren 500 a k'endekom Sem, Ham, kɔ Yafɛt.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	120	001-GEN-006-003 Kɔ MARIKI oloku: «Ifaŋ fɛ kəsak afum ŋayinɛ kifir kəyinɛ doru nkɛ inasɔŋ ŋa mɔ, bawo fum sɛm dəm yɔ. Kəyi kɔn doru kəfɔde kəccepər sɔ meren 120.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	300	001-GEN-006-015 Ntɛ tɔ məndecaŋ ŋi: Ŋɔbɔl cururu 300 (mɛtər 137), ŋɔwɔkəl cururu 50 (mɛtər 23), ŋotukmɛ cururu 30 (mɛtər 14).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	40	001-GEN-007-004 Pəncəmɛ mata camət-mɛrəŋ, itorɛ wəcafən mata 40 kɔ pibi 40 camcam. Tɛm tatɔkɔ indefɛŋ nnɔ doru afum aŋɛ inasɛl mɔ fəp.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	600	001-GEN-007-006 Nuha ɛnasɔtɔ meren 600 a kɔ domun dendekal antɔf.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	600	001-GEN-007-011 Kəren nkɛ Nuha ɔsɔtɔ meren 600, tataka ta wəco kɔ camət-mɛrəŋ, ŋof ŋa mɛrəŋ disrɛ, kɔ domun dombuncɛ dəcəŋgbɔkɔ fəp, kɔ kɔm kəŋgbitɛ pəpɔŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	40	001-GEN-007-012 Kɔ wəcafən oncop kətuf mata 40 kɔ pibi 40.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	40	001-GEN-007-017 Kɔ domun dɛmbaŋ antɔf mata 40, ntɛ domun dɛmpɛ mɔ, k'abil ŋofoy.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	150	001-GEN-007-024 Domun dɛnabaŋ antɔf haŋ mataka 150.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	150	001-GEN-008-003 Kɔ domun dembelɛ antɔf kəroŋ tepic tepic. Mata 150 disrɛ, kɔ domun dɛncɛsɛ dəntɔf.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	40	001-GEN-008-006 Tataka ta 40, kɔ Nuha eŋgbiti wundɛr nwɛ ɛnabɛr abil mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	601	001-GEN-008-013 Tataka tɔcɔkɔ-cɔkɔ ta ŋof ŋɔcɔkɔ-cɔkɔ nŋɛ Nuha ɔsɔtɔ meren 601, ti tɔ domun dɛnasak antɔf. Kɔ Nuha eŋgbipi abil, k'ɔmɔmən doru. K'ɛnəŋk a domun fəp dowosər.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	350	001-GEN-009-028 Kɔ Nuha eyi sɔ doru meren 350, ntɛ domun dɛlarəm dencepər mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	950	001-GEN-009-029 Kəwon ka Nuha doru fəp, kənasɔtɔ meren 950, a k'endefi.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	100	001-GEN-011-010 Tecepərɛnɛ ta Sem tɛntɛ: Sem ɛnasɔtɔ meren 100, a pədekom Arpaksad, teren ta mɛrəŋ ntɛ domun dɛnasak antɔf mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	500	001-GEN-011-011 Kəkom ka Arpaksad, kɔ Sem eyi sɔ doru meren 500, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	35	001-GEN-011-012 Arpaksad ɛnasɔtɔ meren 35, a pədekom Sɛlah.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	403	001-GEN-011-013 Kəkom ka Sɛlah, Arpaksad ɛnasɔtɔ sɔ meren 403, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	30	001-GEN-011-014 Sɛlah ɛnasɔtɔ meren 30, a pədekom Hebɛr.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	403	001-GEN-011-015 Kəkom ka Hebɛr, Sɛlah ɛnasɔtɔ sɔ meren 403, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Kɔ Hebɛr ɔsɔtɔ meren 34, a pədekom Pɛlɛk.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	430	001-GEN-011-017 Kəkom ka Pɛlɛk, Hebɛr ɛnasɔtɔ sɔ meren 430, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Pɛlɛk ɛnasɔtɔ meren 30, a pədekom Rehu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	209	001-GEN-011-019 Kəkom ka Rehu, Pɛlɛk ɛnasɔtɔ sɔ meren 209, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Rehu ɛnasɔtɔ meren 32, a pədekom Seruk.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	207	001-GEN-011-021 Kəkom ka Seruk, Rehu ɛnasɔtɔ sɔ meren 207, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	30	001-GEN-011-022 Seruk ɛnasɔtɔ meren 30, a pədekom Nahor.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	200	001-GEN-011-023 Kəkom ka Nahor, Seruk ɛnasɔtɔ sɔ meren 200, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Nahor ɛnasɔtɔ meren 29 a pədekom Terah.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	119	001-GEN-011-025 Kəkom ka Terah, Nahor ɛnasɔtɔ sɔ meren 119, mmɛ ɛnakom sɔ awut arkun k'awut aran alɔma mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	70	001-GEN-011-026 Terah ɛnasɔtɔ meren 70, a pədekom Abram, Nahor kɔ Haraŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Terah ɛnawon doru meren 205, a k'endefi dəndo atɔf ŋa Haraŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	75	001-GEN-012-004 K'Abram owur Haraŋ pəmɔ tɔkɔ MARIKI ɛnaloku kɔ ti mɔ, kɔ Lɔt ɛncɛpsɛ kɔ darəŋ. Tɛnatəŋnɛ Abram pəsɔtɔ meren 75.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Ntɛ Abram ene kəsumpər ka wan ka wəbek'ɔn mɔ, k'oloŋka asol ɔn afum 318 aŋɛ ŋanabaŋsɛ, akomɛnɛ ɔn dacɔ mɔ. K'ɛncɛpsɛ abɛ aŋɛ ŋanasumpər wan ka wəbek'ɔn darəŋ haŋ dare da Dan.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	400	001-GEN-015-013 Kɔ Kanu kəloku Abram: «Məcərɛ a yuruya yam yendeyɔnɛ acikəra atɔf ŋocuru nŋɛ ŋɔntɔyɔnɛ ŋaŋan mɔ. Ŋandekɔyɔnɛ di acar, andekɔtɔrəs ŋa di haŋ meren 400.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	86	001-GEN-016-016 Abram ɛnasɔtɔ meren 86 tɛm ntɛ Hakar onckomɛ kɔ Səmayila mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	99	001-GEN-017-001 Ntɛ Abram ɔsɔtɔ meren 99 mɔ, kɔ MARIKI owurər kɔ, pəcloku kɔ: «In'ɔyɔnɛ Kanu nkɛ kəntam mes ma doru fəp mɔ, məkɔt fɔr yem kiriŋ, məcəmɛ pəlompu darəŋ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	100	001-GEN-017-017 Kɔ Abraham ɛncəp kəro dəntɔf kəsel, k'olokunɛ dɛbəkəc: «Wərkun wəka meren 100 ɛntam kəkom ba? Kɔ Sara ɔsɔtɔ meren 90 endekom ba?»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	99	001-GEN-017-024 Abraham ɛnasɔtɔ meren 99 a k'andekənc kɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	400	001-GEN-032-006 K'asom ŋaluksərnɛ nnɔ Yakuba eyi mɔ, kɔ ŋaloku kɔ: «Səŋkɔ nda wɛnc əm Esayu, nkɔn sɔ kəlompəsnɛ k'ɛndɛ kədebəp əm, kɔ afum 400.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	70	040-MAT-018-022 Kɔ Yesu oloku: «Iloku f'am haŋ camət-mɛrəŋ gbəcərəm, mba haŋ wəco camət-mɛrəŋ yoboc camət-mɛrəŋ (70 yoboc 7).	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [Ntɛ Yesu ɔfɔtɛ defi mɔ, bətbət ba tataka tɔcɔkɔ-cɔkɔ ta tataka toluksər, k'owurər kərɛsna Mari wəka Makdala, wəkɔ Yesu ɛnabɛləs yɔŋk yɛlɛc camət-mɛrəŋ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	84	042-LUK-002-037 Kɔ wos ende pəfi, k'eyi oŋ ta ɔyɔ wərkun-ɛ. Hana pəsɔtɔ meren 84 k'eyi, ta ɔmbɔlɛ kəlɔ kəpɔŋ ka Kanu-ɛ pəcbəc mɛfaŋ ma Kanu daŋ kɔ pibi kəlok-lokər Kanu kɔ kəsuŋ disrɛ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	30	042-LUK-003-023 Yesu ɛnasɔtɔ meren 30, a pədecop yɛbəc yɔn. Wan ka Isifu ɛnayi pəmɔ tatɔkɔ anacɛm-cɛmnɛ ti mɔ, wəka Heli,	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	50	042-LUK-007-041 «Wəbɔs-bɔsər wəlɔma afum mɛrəŋ ŋanatɔmpərɛ debe: Wəkin nwɛ pətɔmpərɛ kɔ gbeti mɛncəmbəl masar kəcamət, kɔ wəka mɛrəŋ pətɔmpərɛ kɔ mɛncəmbəl 50.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	72	042-LUK-010-001 Ntɛ tatɔkɔ tencepər mɔ, kɔ Wəbɛ ɛyɛk-yɛk sɔ afum 72 alɔma, k'osom ŋa mɛrəŋ mɛrəŋ ŋayi kɔ tekiriŋ kəkɔt ka sədare kɔ mofo fəp mmɛ pənamar kɔ kəkɔ mɔ.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	72	042-LUK-010-017 Kɔ afum 72 aŋɛ anasom mɔ ŋalukus pəbotu disrɛ kɔ ŋaloku: «Wəbɛ! Ali yɔŋk yɛlɛc fəp yɛnayi su dəntɔf tewe tam.»	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	50	042-LUK-016-006 Kɔ wəkakɔ oloku kɔ: ‹Moro ma olif kokos tasar tin.› —‹Awa, məlɛk areka, məndɛ məcic: 50.›	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	80	042-LUK-016-007 K'eyif sɔ wəlɔma: ‹A məna-a, cəke cɔ məntɔmpər-ɛ?› Kɔ wəkakɔ oloku: ‹Malɔ busul tasar tin.› —‹Awa, məndɛ məlɛk areka, məcic 80.›	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	40	044-ACT-001-003 Asom akakɔ ŋɔ Yesu ɛnamentər kance ka mes mɛlarəm ntɛ ɛnayɛfɛ pucuy pa defi mɔ. K'owurər ŋa mata 40 pəyi wəyɛŋ, pəcloku ŋa mes ma dɛbɛ da Kanu.	WARN
+Baga-Sitemu---Baga-Sitemu-Bible	NUMERALS	Aionian	count	78	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

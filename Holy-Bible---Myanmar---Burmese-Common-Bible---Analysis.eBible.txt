@@ -1,0 +1,1888 @@
+# File Name: Holy-Bible---Holy-Bible---Myanmar---Burmese-Common-Bible---Analysis.txt
+# File Size: 269804      
+# File Date: 12/13/2025 05:48:54
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: ခေတ်သုံးမြန်မာသမ္မာကျမ်း
+# Bible Name English: Burmese Common Language Bible
+# Bible Language: မြန်မာဘာသာ
+# Bible Language English: Myanmar Burmese
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2025
+# Bible Copyright Text: Public Domain
+# Bible Source: Bible Society of Myanmar
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=mya
+# Bible Source Year: 2005
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Myanmar---Burmese-Common-Bible	ENCODING	Source	Holy-Bible---Myanmar---Burmese-Common-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Myanmar---Burmese-Common-Bible	ENCODING	Aionian	Holy-Bible---Myanmar---Burmese-Common-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Myanmar---Burmese-Common-Bible	BYTES	Source	bytes / chars	17142311 / 6066031 (multi-byte)	NOTICE
+Myanmar---Burmese-Common-Bible	BYTES	Aionian	bytes / chars	17348016 / 6270674 (multi-byte)	NOTICE
+Myanmar---Burmese-Common-Bible	BYTES	SourceClean	bytes / chars	17141510 / 6065230 (multi-byte)	NOTICE
+Myanmar---Burmese-Common-Bible	BYTES	AionianClean	bytes / chars	17343474 / 6267176 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Myanmar---Burmese-Common-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Myanmar---Burmese-Common-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Myanmar---Burmese-Common-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Myanmar---Burmese-Common-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Myanmar---Burmese-Common-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Myanmar---Burmese-Common-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Myanmar---Burmese-Common-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Myanmar---Burmese-Common-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Myanmar---Burmese-Common-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Myanmar---Burmese-Common-Bible	UNICODE	Summary	(-)Orginal	67	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Summary	(+)Aionian	84	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (G)	2276	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (E)	10407	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (N)	3268	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : ( )	235897	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (1)	29189	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (:)	29796	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ု)	245193	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ရ)	114959	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ာ)	270880	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (း)	215232	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (သ)	191358	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ခ)	58895	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (င)	167307	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (်)	517703	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ည)	101247	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (စ)	77049	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (က)	195938	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ြ)	116547	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ိ)	230178	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (န)	103148	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (တ)	162615	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ေ)	199718	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (မ)	172458	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (အ)	97264	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (-)	15563	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (\n)	29794	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (2)	20738	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (္)	12100	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ီ)	22661	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (၍)	15941	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ှ)	83784	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (။)	53050	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (လ)	88393	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (၏)	46621	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ပ)	96447	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (3)	11682	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (့)	140919	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Myanmar : (ထ)	39884	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (4)	8724	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (5)	6717	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (6)	6211	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (8)	5555	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (9)	5444	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (0)	5117	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (7)	5558	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (()	333	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : ())	332	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (O)	6564	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (L)	2480	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (V)	1183	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (M)	3754	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (J)	4841	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (S)	6224	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (R)	4012	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (T)	2704	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (g)	2	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (e)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (n)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (A)	8989	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (H)	3749	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (a)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (c)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (k)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (B)	1439	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (P)	3796	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (%)	100	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source(-)	Basic Latin : (*)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	124923	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	40556	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	119068	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	2289	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	10409	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	3269	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ု)	245190	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ရ)	114955	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ာ)	270873	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (း)	215224	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (သ)	191354	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ခ)	58893	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (င)	167301	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (်)	517693	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ည)	101246	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (စ)	77046	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (က)	195936	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ြ)	116543	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ိ)	230177	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (န)	103147	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	176859	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (တ)	162611	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ေ)	199713	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (မ)	172455	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (အ)	97263	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	15564	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	29766	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	29978	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (္)	12099	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ီ)	22657	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (၍)	15940	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ှ)	83782	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (။)	53049	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (လ)	88392	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (၏)	46619	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ပ)	96446	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	16265	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (့)	140918	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Myanmar : (ထ)	39882	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	19167	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	9781	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10247	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7620	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9020	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7058	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (()	598	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : ())	597	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	6280	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	129	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	98	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	148	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	69	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	6555	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2477	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1182	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	3753	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	4840	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	4009	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	2706	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	215	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	202	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	8978	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	3744	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	200	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	3	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	2	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	1422	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	3802	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	4	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	16	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	113	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	246	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	8	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	6	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	7	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	11	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	10	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	2	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	14	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (G)	2276	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (E)	10407	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (N)	3268	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : ( )	235897	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (1)	29189	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (:)	29796	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဘ)	25933	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ု)	245193	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	General Punctuation : (​)	1182298	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ရ)	114959	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ာ)	270880	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (း)	215232	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (သ)	191358	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ခ)	58895	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (င)	167307	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (်)	517703	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ည)	101247	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (စ)	77049	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (က)	195938	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ြ)	116547	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဝ)	18958	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဠ)	16	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ိ)	230178	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဖ)	30755	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (န)	103148	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဆ)	24600	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (တ)	162615	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ေ)	199718	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (မ)	172458	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ူ)	60919	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (အ)	97264	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ါ)	46256	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၊)	16693	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (-)	15563	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (\n)	29794	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (2)	20738	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (္)	12100	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ီ)	22661	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ွ)	55843	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဏ)	3069	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဌ)	1128	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဟ)	16727	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၍)	15941	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ှ)	83784	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (။)	53050	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (လ)	88393	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၏)	46621	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဒ)	10095	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ပ)	96447	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ံ)	29234	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၌)	5302	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ျ)	74493	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (3)	11682	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (`)	14216	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (')	12490	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (့)	140919	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ထ)	39884	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (4)	8724	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (5)	6717	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဥ)	1356	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဦ)	2043	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (6)	6211	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဲ)	17467	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (8)	5555	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ယ)	42876	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (9)	5444	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (0)	5117	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဗ)	6541	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (7)	5558	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဉ)	3971	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဋ)	1134	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဤ)	3907	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဇ)	7814	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဧ)	1908	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (()	333	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : ())	332	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဂ)	4463	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၎)	339	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဓ)	241	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဣ)	3185	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဿ)	179	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဍ)	124	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (X)	1187	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (O)	6564	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (L)	2480	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (V)	1183	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (U)	3184	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (M)	3754	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၄)	59	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၆)	46	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၅)	68	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၀)	118	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၉)	17	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၃)	63	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၇)	50	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၂)	104	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၁)	84	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (၈)	29	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဃ)	132	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (D)	1906	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (J)	4841	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (S)	6224	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (R)	4012	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (T)	2704	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (g)	2	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (e)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (n)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (A)	8989	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (K)	2633	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (I)	3218	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (C)	4069	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (H)	3749	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (Z)	1691	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (a)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (c)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (k)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (B)	1439	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (v)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Myanmar : (ဩ)	14	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (P)	3796	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (")	48	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (%)	100	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (*)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : ([)	1	NOTICE
+Myanmar---Burmese-Common-Bible	UNICODE	Source	Basic Latin : (])	2	NOTICE
+
+# VERSIFICATION
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-001-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-002-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-006-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-006-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-007-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-007-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-014-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-014-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-017-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-017-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-020-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-023-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-023-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-025-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-031-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-032-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-032-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-041-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-046-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-048-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-049-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	001-GEN-050-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-001-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-001-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-002-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-006-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-010-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-013-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-014-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-018-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-020-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-022-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-022-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-024-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-025-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-027-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-028-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-031-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-031-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-031-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-031-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-035-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-035-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-037-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-038-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-039-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	002-EXO-040-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-001-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-003-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-003-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-003-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-004-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-006-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-006-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-006-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-006-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-006-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-007-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-007-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-007-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-007-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-008-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-009-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-011-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-012-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-013-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-014-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-014-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-014-056	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-015-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-015-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-015-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-015-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-017-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-017-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-017-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-018-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-018-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-018-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-019-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-019-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-021-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-022-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-022-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-022-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-022-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-023-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-023-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-023-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-023-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-023-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-023-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-024-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-024-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-025-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-025-052	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-025-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-026-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-001-049	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-002-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-003-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-047	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-004-048	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-005-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-005-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-005-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-005-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-005-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-006-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-006-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-006-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-047	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-048	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-049	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-050	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-051	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-052	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-054	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-055	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-056	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-057	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-058	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-059	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-060	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-061	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-062	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-063	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-064	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-065	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-066	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-067	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-068	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-069	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-070	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-071	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-072	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-073	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-074	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-075	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-076	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-077	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-078	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-079	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-080	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-081	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-082	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-083	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-085	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-086	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-087	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-007-088	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-009-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-009-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-009-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-011-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-013-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-014-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-014-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-014-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-015-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-015-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-016-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-016-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-018-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-018-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-020-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-024-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-025-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-026-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-026-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-026-054	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-026-055	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-026-056	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-028-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-028-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-029-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-031-049	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-032-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-047	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-048	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-033-049	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-034-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-035-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-035-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-035-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	004-NUM-036-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-001-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-001-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-001-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-002-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-004-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-004-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-004-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-004-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-004-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-004-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-011-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-013-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-014-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-015-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-016-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-016-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-017-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-017-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-019-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-022-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-025-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-027-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-028-055	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-028-057	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-029-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-030-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	005-DEU-030-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-002-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-002-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-003-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-003-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-004-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-005-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-005-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-006-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-008-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-008-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-011-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-012-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-014-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-015-056	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-018-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-018-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-018-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-019-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-019-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-019-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-019-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-019-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-019-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-019-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-021-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-022-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-022-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	006-JOS-022-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-001-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-001-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-005-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-009-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-009-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-011-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-013-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-013-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-016-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-016-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-018-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-019-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-019-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-020-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-020-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-020-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	007-JDG-021-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	008-RUT-001-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	008-RUT-004-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-001-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-003-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-008-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-009-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-009-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-009-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-013-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-014-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-014-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-015-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-017-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-025-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	009-1SA-025-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-002-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-003-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-007-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-008-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-013-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-017-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-023-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	010-2SA-024-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-001-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-002-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-003-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-005-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-006-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-006-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-007-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-007-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-007-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-007-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-007-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-007-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-008-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-008-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-009-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-010-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-010-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-011-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-011-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-012-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-013-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-015-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-016-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	011-1KI-020-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-008-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-009-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-009-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-012-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-014-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-015-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-015-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-016-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-018-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-018-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-019-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-020-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-022-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-024-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	012-2KI-025-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-047	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-048	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-049	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-050	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-001-054	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-002-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-002-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-002-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-002-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-002-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-002-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-002-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-003-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-004-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-004-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-004-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-004-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-004-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-004-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-005-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-005-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-047	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-052	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-055	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-058	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-059	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-068	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-006-069	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-007-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-007-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-009-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-011-047	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-012-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-015-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-016-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-016-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-017-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-023-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-023-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-024-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-025-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-026-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-026-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-026-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-027-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-028-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-028-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	013-1CH-029-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-002-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-003-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-003-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-003-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-004-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-005-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-005-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-005-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-008-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-009-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-011-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-011-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-011-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-011-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-028-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-028-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-029-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-029-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-030-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-030-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-031-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-032-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	014-2CH-035-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-001-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-047	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-048	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-049	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-050	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-051	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-052	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-054	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-056	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-057	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-062	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-065	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-066	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-002-067	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-006-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-007-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-008-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-009-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-009-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	015-EZR-010-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-003-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-047	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-048	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-049	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-050	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-051	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-052	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-054	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-055	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-056	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-058	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-059	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-062	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-064	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-068	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-069	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-071	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-007-072	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-009-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-010-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-011-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-011-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-011-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	016-NEH-012-045	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	017-EST-001-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	017-EST-004-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	017-EST-005-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	017-EST-006-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	017-EST-009-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	017-EST-009-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	017-EST-009-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	018-JOB-015-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	018-JOB-015-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	018-JOB-019-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	018-JOB-023-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	018-JOB-030-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	018-JOB-035-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-007-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-008-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-011-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-011-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-017-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-017-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-039-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-042-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-044-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-046-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-048-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-048-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-049-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-049-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-058-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-059-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-062-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-065-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-065-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-068-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-068-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-068-029	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-068-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-072-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-073-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-076-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-078-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-078-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-078-071	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-083-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-089-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-090-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-092-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-092-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-098-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-102-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-102-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-102-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-103-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-105-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-105-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-105-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-106-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-107-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-116-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-118-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-122-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-132-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-132-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-132-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-132-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-135-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-137-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-148-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-148-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-148-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-149-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-149-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	019-PSA-149-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	020-PRO-005-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	020-PRO-022-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	020-PRO-022-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	022-SOL-001-001	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	022-SOL-002-001	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	022-SOL-003-001	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	022-SOL-004-001	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	022-SOL-005-001	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	022-SOL-006-001	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	022-SOL-007-001	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	022-SOL-008-001	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-003-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-003-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-003-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-014-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-023-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-032-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-033-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-035-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-036-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-037-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	023-ISA-041-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-001-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-001-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-006-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-009-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-011-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-017-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-018-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-020-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-021-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-022-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-024-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-025-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-025-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-025-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-025-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-025-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-025-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-025-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-025-037	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-027-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-029-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-029-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-029-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-030-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-030-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-032-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-033-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-033-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-034-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-034-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-034-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-035-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-044-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-048-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-048-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-048-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	024-JER-052-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	025-LAM-003-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	025-LAM-003-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	025-LAM-003-050	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-001-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-010-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-011-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-013-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-016-057	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-017-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-017-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-018-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-022-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-023-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-023-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-027-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-034-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-035-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-036-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-038-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-040-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-040-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-040-030	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-041-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-041-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-041-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-042-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-042-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-042-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-042-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-042-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-045-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-045-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-046-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-046-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-024	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	026-EZE-048-034	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	027-DAN-001-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	027-DAN-002-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	027-DAN-010-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	028-HOS-002-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	029-JOE-003-021	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	032-JON-003-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	035-HAB-003-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	036-ZEP-001-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	037-HAG-002-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	037-HAG-002-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	038-ZEC-007-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	039-MAL-002-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-002-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-002-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-003-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-021-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-022-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-022-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-022-038	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-022-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-027-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	040-MAT-027-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-001-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-003-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-004-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-005-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-036	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-014-058	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	041-MAR-016-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-074	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-001-075	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-031	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-002-032	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-011-051	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-013-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-019-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-019-046	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-020-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-020-043	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-021-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-051	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-003-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-004-044	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-005-042	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-007-053	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-010-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-011-052	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-012-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-012-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-012-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-012-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	043-JOH-012-040	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-022	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-001-025	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-002-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-004-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-033	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-035	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-039	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-013-041	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-017	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-017-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	044-ACT-026-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	045-ROM-001-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	045-ROM-002-020	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	045-ROM-003-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	045-ROM-009-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	045-ROM-015-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	045-ROM-015-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	045-ROM-015-026	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	046-1CO-005-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	046-1CO-010-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	046-1CO-015-052	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	046-1CO-016-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	047-2CO-001-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	047-2CO-008-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	047-2CO-008-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	047-2CO-012-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	048-GAL-001-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	048-GAL-002-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	048-GAL-004-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	049-EPH-001-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	049-EPH-001-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	049-EPH-001-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	049-EPH-002-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	049-EPH-003-015	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	049-EPH-003-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	049-EPH-006-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	050-PHI-001-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	050-PHI-002-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	050-PHI-002-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	050-PHI-003-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	051-COL-001-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	051-COL-004-011	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	052-1TH-001-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	052-1TH-001-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	052-1TH-002-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	052-1TH-003-003	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	053-2TH-001-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	053-2TH-001-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	054-1TI-001-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	054-1TI-001-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	056-TIT-001-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	056-TIT-001-014	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	056-TIT-002-013	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-005	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	057-PHM-001-009	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	058-HEB-010-004	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	058-HEB-010-016	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	058-HEB-011-018	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	058-HEB-012-019	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	059-JAM-001-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	060-1PE-001-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	061-2PE-002-010	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	061-2PE-003-002	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	061-2PE-003-012	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	062-1JO-002-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	065-JUD-001-023	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	066-REV-002-027	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	066-REV-002-028	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	066-REV-007-006	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	066-REV-007-007	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Aionian	missing	066-REV-007-008	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Summary	missing	1335	WARN
+Myanmar---Burmese-Common-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	()	333 / 332	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	[]	1 / 2	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	()	598 / 597	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	[]	1 / 2	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	GEN 5:1 အာ​ဒံ​၏​သား​စဉ်​မြေး​ဆက်​စာ​ရင်း​ကို​ဖော် ပြ​ပေ​အံ့။ (ဘု​ရား​သ​ခင်​သည်​လူ​ကို​ဖန်​ဆင်း ရာ​၌ မိ​မိ​၏​ပုံ​သဏ္ဌာန်​နှင့်​တူ​စွာ​ဖန်​ဆင်း​တော် မူ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	GEN 5:2 ကိုယ်​တော်​သည်​လူ​ယောကျာ်း​နှင့်​လူ​မိန်းမ​တို့ ကို​ဖန်​ဆင်း​၍ သူ​တို့​အား​ကောင်း​ချီး​ပေး လျက်​လူ​ဟု​သ​မုတ်​တော်​မူ​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	EXO 18:2 သို့​ဖြစ်​၍​သူ​သည်​ယောက္ခ​မ​အိမ်​သို့​ဇ​နီး​ဇိ​ပေါ​ရ ကို​စေ​လွှတ်​ခဲ့​ရာ ယေ​သ​ရော​သည်​ဇိ​ပေါ​ရ​နှင့် သား​နှစ်​ယောက်​ဖြစ်​သော ဂေ​ရ​ရှုံ​နှင့်​ဧ​လျေ​ဇာ တို့​ကို​လက်​ခံ​၏။ (မော​ရှေ​က``ငါ​သည်​နိုင်​ငံ​ခြား ၌​ဧည့်​သည်​ဖြစ်​သည်'' ဟု​ဆို​၍​သား​တစ်​ယောက် ကို​ဂေ​ရ​ရှုံ​ဟု​နာ​မည်​ပေး​ခဲ့​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	EXO 18:4 တစ်​ဖန်``ငါ့​အ​ဖ​၏​ထာ​ဝ​ရ​ဘု​ရား​သည်​ငါ့ ကို​အီ​ဂျစ်​ဘု​ရင်​၏​ဋ္ဌား​ဘေး​မှ​ကယ်​တင်​တော် မူ​၏'' ဟု​ဆို​၍​အ​ခြား​သော​သား​တစ်​ယောက် ကို​ဧ​လျေ​ဇာ​ဟု​နာ​မည်​ပေး​ခဲ့​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	LEV 23:37 (ဤ​ဘာ​သာ​ရေး​ပွဲ​တော်​များ​တွင် ထာ​ဝ​ရ ဘု​ရား​၏​ဂုဏ်​ကျေး​ဇူး​တော်​ကို​ချီး​မွမ်း​ရန် သင်​တို့​သည်​စု​ဝေး​ဝတ်​ပြု​ကိုး​ကွယ်​ခြင်း နှင့်​မီး​ရှို့​ရာ​ပူ​ဇော်​သ​ကာ၊ ဘော​ဇဉ်​ပူ​ဇော် သ​ကာ၊ ယဇ်​ပူ​ဇော်​ခြင်း​စ​ပျစ်​ရည်​ပူ​ဇော် သ​ကာ​များ​ကို​သတ်​မှတ်​သော​နေ့​ရက်​အ​လိုက် ပူ​ဇော်​ခြင်း​ကို​ပြု​လုပ်​ရ​ကြ​မည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	LEV 23:38 ဤ​ပွဲ​တော်​များ​သည်​ပုံ​မှန်​ဥ​ပုသ်​နေ့​များ အ​ပြင်​ကျင်း​ပ​ရ​သော​ပွဲ​တော်​များ​ဖြစ်​၏။ ဤ​ပူ​ဇော်​သ​ကာ​များ​သည် ထာ​ဝ​ရဘု​ရား အား​ပုံ​မှန်​ပူ​ဇော်​ခြင်း၊ သစ္စာ​ဝတ်​ဖြေ​ရာ ပူ​ဇော်​ခြင်း၊ စေ​တ​နာ​အ​လျောက်​ပူ​ဇော် ခြင်း​များ​အ​ပြင်​ပူ​ဇော်​ရ​သော​ပူ​ဇော် သ​ကာ​များ​ဖြစ်​သည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	NUM 11:7 (မန္န​မုန့်​သည်​ဝါ​ဖျော့​ဖျော့​အ​ရောင်​ရှိ​သော သစ်​စေ့​က​လေး​များ​နှင့်​တူ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	NUM 11:8 ည​အ​ခါ​နှင်း​နှင့်​အ​တူ​စခန်း​ထဲ​သို့​ကျ​၏။ နံ​နက်​အ​ချိန်​တွင်​လူ​တို့​သည်​မန္န​မုန့်​ကို​လှည့် လည်​စု​သိမ်း​ပြီး​လျှင်​ကြိတ်​၍​ဖြစ်​စေ၊ ထောင်း ၍​ဖြစ်​စေ​မုန့်​ညက်​ပြု​လုပ်​ကြ​၏။ ထို​နောက် မုန့်​ညက်​ကို​ပေါင်း​၍​မုန့်​ပြား​ပြု​လုပ်​ကြ​၏။ အ​ရ​သာ​သည်​သံ​လွင်​ဆီ​နှင့်​ဖုတ်​သော​မုန့် အ​ရ​သာ​နှင့်​တူ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	NUM 26:9 သူ​၏​သား​များ​ဖြစ်​သော​နေ​မွေ​လ၊ ဒါ​သန်၊ အ​ဘိ​ရံ​တို့​ဖြစ်​ကြ​သည်။ (ဒါ​သန်​နှင့်​အ​ဘိ​ရံ တို့​သည်​ဣ​သ​ရေ​လ​အ​မျိုး​သား​အ​ပေါင်း တို့​က​ခေါင်း​ဆောင်​အ​ဖြစ်​ရွေး​ချယ်​ခြင်း​ခံ​ရ​၍ မော​ရှေ​နှင့်​အာ​ရုန်​တို့​၏​အာ​ဏာ​ကို​ဖီ​ဆန် လျက် ကော​ရ​၏​နောက်​လိုက်​များ​နှင့်​အ​တူ ထာ​ဝ​ရ​ဘု​ရား​ကို​ပုန်​ကန်​ခဲ့​သူ​များ ဖြစ်​ကြ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	NUM 26:11 သို့​ရာ​တွင်​ကော​ရ​၏​သား​များ​သည်​သေ ဘေး​မှ​လွတ်​ကြ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (အာ​ရ​မြို့​တွင်​ယ​ခင်​အ​ခါ​က အ​လွန်​ထွား ကြိုင်း​၍​ခွန်​အား​ကြီး​သော​ဧ​မိမ်​လူ​မျိုး​နေ ထိုင်​ခဲ့​ကြ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 ရှေး​အ​ခါ​က​ဧ​ဒုံ​ပြည်​တွင်​ဟော​ရိ​အ​မျိုး သား​တို့​နေ​ထိုင်​ခဲ့​ကြ​သော်​လည်း နောင်​အ​ခါ ၌​ဣ​သ​ရေ​လ​အ​မျိုး​သား​တို့​သည် ထာ​ဝ​ရ ဘု​ရား​ပေး​တော်​မူ​သော​ပြည်​မှ ရန်​သူ​များ ကို​မောင်း​ထုတ်​သ​ကဲ့​သို့ ဧ​သော​၏​အ​ဆက် အ​နွယ်​တို့​သည်​ထို​သူ​တို့​ကို​မောင်း​ထုတ် ပြီး​လျှင် ထို​အ​ရပ်​၌​အ​ခြေ​ချ​နေ​ထိုင် ကြ​သည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (ယ​ခင်​အ​ခါ​က​ရီ​ဖိမ်​လူ​မျိုး​နေ​ထိုင်​ခဲ့​သ​ဖြင့် ထို​ပြည်​ကို​ရီ​ဖိမ်​ပြည်​ဟူ​၍​ခေါ်​တွင်​သည်။ အမ္မုန် အ​မျိုး​သား​တို့​က​သူ​တို့​ကို​ဇံ​ဇုမ္မိမ်​ဟူ​၍​ခေါ် ကြ​သည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 က​ရေ​တေ​ကျွန်း​သား​တို့​သည်​မြေ​ထဲ ပင်​လယ်​ကမ်း​ခြေ​တွင် အ​ခြေ​ချ​နေ​ထိုင် ကြ​၏။ သူ​တို့​သည်​မူ​လ​နေ​ထိုင်​သူ​အာ​ဝိမ် လူ​မျိုး​ကို​သုတ်​သင်​ဖယ်​ရှား​ပြီး​လျှင် သူ တို့​၏​ပြည်​ကို​တောင်​ဘက်​ဂါ​ဇာ​မြို့​အ​ထိ သိမ်း​ပိုက်​လိုက်​ကြ​သည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	DEU 3:13 ဂိ​လဒ်​ပြည်​ကျန်​တစ်​ဝက်​နှင့်​သြဃ​ဘု​ရင်​အုပ် စိုး​သော​ဗာ​ရှန်​ပြည်​အား​လုံး၊ တစ်​နည်း​အား ဖြင့်​အာ​ဂေါ​ဘ​ဒေ​သ​တစ်​ခု​လုံး​ကို မ​နာ​ရှေ အ​နွယ်​တစ်​ဝက်​တို့​အား​ငါ​ခွဲ​ဝေ​ပေး​၏။'' (ဗာ​ရှန်​ပြည်​တစ်​ပြည်​လုံး​ကို ရီ​ဖိမ်​လူ​မျိုး တို့​၏​ပြည်​ဟူ​၍​ခေါ်​တွင်​ခဲ့​သည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	DEU 3:14 မ​နာ​ရှေ​အ​နွယ်​ဝင်​ယာ​ဣ​ရ​သည် ဂေ​ရှု​ရ​နှင့် မာ​ခါ​နယ်​စပ်​အ​ထိ​ကျယ်​ဝန်း​သော​ဗာ​ရှန် ပြည်၊ တစ်​နည်း​အား​ဖြင့်​အာ​ဂေါ​ဘ​ဒေ​သ တစ်​ခု​လုံး​ကို​သိမ်း​ယူ​သည်။ သူ​သည်​ကျေး​ရွာ များ​ကို သူ​၏​နာ​မည်​ဖြင့်​မှည့်​ခေါ်​ရာ​၌ ယ​နေ့ တိုင်​အောင်​ယာ​ဣ​ရ​၏​ကျေး​ရွာ​များ​ဟု​ခေါ် တွင်​သ​တည်း။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (ဣ​သ​ရေ​လ​အ​မျိုး​သား​တို့​သည် ဗင်္ယာ​ကန်​ရေ တွင်း​မှ​မော​သ​ရုတ်​စ​ခန်း​သို့​ခ​ရီး​သွား​ကြ​၏။ အာ​ရုန်​သည်​ထို​စ​ခန်း​တွင်​အနိစ္စ​ရောက်​သ​ဖြင့် သူ့ အား​သင်္ဂြိုဟ်​ကြ​လေ​သည်။ သူ​၏​သား​ဧ​လာ​ဇာ သည်​ဖ​ခင်​၏​ယဇ်​ပု​ရော​ဟိတ်​အ​ရိုက်​အ​ရာ ကို​ဆက်​ခံ​လေ​သည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 ထို​အ​ကြောင်း​ကြောင့်​လေ​ဝိ​အ​မျိုး​သား​တို့ သည်​အ​ခြား​အ​မျိုး​သား​ချင်း​တို့​နည်း​တူ နယ်​မြေ​သီး​ခြား​မ​ရ​ခဲ့​ကြ​ချေ။ သင်​တို့​၏ ဘု​ရား​သ​ခင်​ထာ​ဝ​ရ​ဘု​ရား​၏​က​တိ​တော် အ​တိုင်း သူ​တို့​သည်​ထာ​ဝ​ရ​ဘု​ရား​၏​ယဇ် ပု​ရော​ဟိတ်​များ​ဖြစ်​ရ​သည့်​အ​ခွင့်​ထူး​ကို ရ​ရှိ​ကြ​လေ​သည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	2SA 4:2 ဣ​ရှ​ဗော​ရှက်​တွင်​လု​ယက်​တိုက်​ခိုက်​သည့်​အ​ဖွဲ့ များ​၏​ခေါင်း​ဆောင်​နှစ်​ယောက်​ရှိ​၏။ သူ​တို့​၏ နာ​မည်​မှာ​ဗာ​နာ​နှင့်​ရေ​ခပ်​ဖြစ်​၍​ဗေ​ရုတ်​မြို့ မှ​ဗင်္ယာ​မိန်​အ​နွယ်​ဝင်​ရိမ္မုန်​၏​သား​များ​ဖြစ် ကြ​၏။ (ဗေ​ရုတ်​မြို့​သည်​ဗင်္ယာ​မိန်​နယ်​တွင် အ​ပါ​အ​ဝင်​ဖြစ်​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	2SA 4:3 ထို​မြို့​တွင်​လက်​ဦး​နေ​ထိုင်​ခဲ့​ကြ​သော​လူ တို့​သည်​ဂိတ္တိမ်​မြို့​သို့​ထွက်​ပြေး​ကာ ယ​နေ့​တိုင် အောင်​နေ​ထိုင်​လျက်​ရှိ​သ​တည်း။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	1KI 9:16 (အီ​ဂျစ်​ဘု​ရင်​သည်​ဂေ​ဇာ​မြို့​ကို​တိုက်​ခိုက်​သိမ်း ယူ​ပြီး​လျှင် မြို့​သူ​မြို့​သား​တို့​ကို​သတ်​၍​မြို့​ကို မီး​ရှို့​ပစ်​လေ​သည်။ ထို့​နောက်​သ​မီး​တော်​အား ရှော​လ​မုန်​နှင့်​ထိမ်း​မြား​မင်္ဂ​လာ​ပြု​ချိန်​၌​ထို မြို့​ကို​လက်​ဖွဲ့​တော်​မူ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	1KI 9:17 သို့​ဖြစ်​၍​ရှော​လ​မုန်​သည်​ဂေ​ဇာ​မြို့​ကို​ပြန် လည်​တည်​ဆောက်​တော်​မူ​ခြင်း​ဖြစ်​၏။) ရှော လ​မုန်​သည်​အောက်​ဗေ​သော​ရုန်​မြို့၊-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 ထို့​ကြောင့်​အာ​ဟပ်​သည်​နန်း​တော်​အုပ်​သြ​ဗ​ဒိ ကို​ခေါ်​တော်​မူ​၏။ (သြ​ဗ​ဒိ​သည်​ထာ​ဝ​ရ ဘု​ရား​အား​အ​လွန်​ကြည်​ညို​လေး​မြတ်​သူ ဖြစ်​သ​ဖြင့်၊-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 ထာ​ဝ​ရ​ဘုရား​၏​ပ​ရော​ဖက်​များ​ကို​ယေ​ဇ​ဗေ​လ သတ်​ဖြတ်​နေ​ချိန်​၌ ပ​ရော​ဖက်​တစ်​ရာ​ကို​ငါး ဆယ်​စီ​နှစ်​စု​ခွဲ​၍​ဂူ​များ​တွင်​ဝှက်​ထား​ပြီး​လျှင် အ​စာ​ရေ​စာ​ကျွေး​မွေး​ခဲ့​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	1KI 21:25 (ထာ​ဝ​ရ​ဘု​ရား​၏​ရှေ့​တော်​မှောက်​တွင် အာ​ဟပ်​ကဲ့ သို့​ဒု​စ​ရိုက်​ကို​လွန်​ကဲ​စွာ​ပြု​သူ​တစ်​ယောက်​မျှ မ​ရှိ။ သူ​ပြု​သော​အ​မှု​အ​ရာ​မှန်​သ​မျှ​မှာ​မိ ဖု​ရား​ယေ​ဇ​ဗေ​လ​၏​တိုက်​တွန်း​ချက်​အ​ရ ဖြစ်​သည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	1KI 21:26 သူ​သည်​အာ​မော​ရိ​ပြည်​သား​တို့​ပြု​သည့်​အ​တိုင်း ရုပ်​တု​များ​ကို​ဝတ်​ပြု​ကိုး​ကွယ်​ခြင်း​အား​ဖြင့် အ​လွန်​ရှက်​ကြောက်​ဖွယ်​ကောင်း​သည့်​အ​ပြစ်​များ ကို​ပြု​လေ​သည်။ အာ​မော​ရိ​ပြည်​သူ​တို့​ကား ခါ​နာန်​ပြည်​သို့​ဣသ​ရေ​လ​အ​မျိုး​သား​တို့ ဝင်​ရောက်​လာ​ချိန်​၌ ထာ​ဝရ​ဘု​ရား​နှင်​ထုတ် တော်​မူ​သော​သူ​များ​ဖြစ်​သ​တည်း။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	1CH 5:1 ရု​ဗင်​၏​သား​မြေး​များ​ကား​အောက်​ပါ အ​တိုင်း​ဖြစ်​၏။ (ရု​ဗင်​သည်​ဣ​သ​ရေ​လ ၏​သား​ဦး​ဖြစ်​သော်​လည်း အ​ဖ​၏​မောင်း​မ တစ်​ယောက်​နှင့်​ပြစ်​မှား​သ​ဖြင့် သား​ဦး​၏ အ​ခွင့်​အ​ရေး​များ​ကို​ဆုံး​ရှုံး​ရ​လေ​သည်။ ထို​အ​ခွင့်​အ​ရေး​များ​သည်​ဣ​သ​ရေ​လ ၏​သား​ယော​သပ်​၏​လက်​သို့​ရောက်​ရှိ သွား​၏။ သို့​ဖြစ်​၍​သား​စဉ်​မြေး​ဆက် အ​လိုက်​ရေ​တွက်​သော​အ​ခါ သား​ဦး အ​ရာ​ကို​ရု​ဗင်​မ​ရ​ရှိ​ပေ။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	1CH 5:2 ယု​ဒ​အ​နွယ်​သည်​ခွန်​အား​အ​ကြီး​မား​ဆုံး ဖြစ်​လာ​၍ အ​နွယ်​စု​အ​ပေါင်း​တို့​အ​တွက် မင်း​ပေါ်​ထွန်း​ခဲ့​၏။)-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	1CH 23:13 သူ​၏​သား​ကြီး​အာ​မ​ရံ​သည်​အာ​ရုန်​နှင့် မော​ရှေ​တို့​၏​အ​ဖ​ဖြစ်​၏။ (အာ​ရုန်​နှင့်​သူ ၏​သား​မြေး​တို့​သည်​အ​မွန်​အ​မြတ်​ထား သည့်​ပစ္စည်း​အ​သုံး​အ​ဆောင်​တို့​ကို​အ​စဉ် အ​မြဲ​ထိန်း​သိမ်း​ရန် ထာ​ဝ​ရ​ဘု​ရား​အား ဝတ်​ပြု​ကိုး​ကွယ်​ရာ​၌​နံ့​သာ​ပေါင်း​ကို မီး​ရှို့​ရန်၊ ကိုယ်​တော်​၏​အ​မှု​တော်​ကို​ဆောင် ရွက်​ရန်​နှင့်​နာ​မ​တော်​ကို​အ​မှီ​ပြု​၍ လူ တို့​အား​ကောင်း​ချီး​ပေး​ရန်​သီး​သန့်​တာ​ဝန် ပေး​အပ်​ခြင်း​ကို​ခံ​ရ​ကြ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	1CH 23:14 သို့​ရာ​တွင်​ဘု​ရား​သ​ခင်​၏​လူ​မော​ရှေ​၏ သား​များ​သည် လေ​ဝိ​အ​နွယ်​ဝင်​များ​အ​ဖြစ် ဖြင့်​စာ​ရင်း​သွင်း​ခြင်း​ကို​ခံ​ရ​ကြ​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	2CH 9:10 (သြ​ဖိ​ရ​မြို့​မှ​ရွှေ​ကို​ယူ​ဆောင်​လာ​သော ဟိ​ရံ​မင်း​နှင့်​ရှော​လ​မုန်​မင်း​၏​လူ​တို့​သည် ထင်း​ရှူး​သား​နှင့်​ကျောက်​မျက်​ရ​တ​နာ​များ ကို​လည်း​ယူ​ဆောင်​လာ​ကြ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	2CH 9:11 ရှော​လ​မုန်​သည်​ထင်း​ရှူး​သား​ကို​ဗိ​မာန်​တော်​နှင့် မိ​မိ​၏​နန်း​တော်​လှေ​ကား​များ​ပြု​လုပ်​ရာ​တွင် လည်း​ကောင်း၊ ဂီ​တ​ဆ​ရာ​များ​အ​တွက်​စောင်း ကြီး​စောင်း​ငယ်​များ​ပြု​လုပ်​ရာ​တွင်​လည်း ကောင်း​အ​သုံး​ပြု​တော်​မူ​၏။ ထို​မျှ​ကောင်း သော​ထင်း​ရှူး​သား​မျိုး​ကို ယ​ခင်​အ​ဘယ်​အ​ခါ က​မျှ​ယု​ဒ​ပြည်​တွင်​မ​တွေ့​မ​မြင်​ဘူး​ကြ။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	ISA 16:4 သင်​တို့​၏​ပြည်​တွင်​နေ​ခွင့်​ပြု​ကြ​ပါ။ ငါ​တို့ ကို​သုတ်​သင်​ဖျက်​ဆီး​လို​သူ​တို့​၏​ဘေး​မှ ကာ​ကွယ်​စောင့်​ရှောက်​ကြ​ပါ'' ဟု​မော​ဘ ပြည်​သူ​တို့​ပြော​ကြား​ကြ​၏။ (ဖိ​နှိပ်​ချုပ်​ချယ်​မှု​နှင့်​သုတ်​သင်​ဖျက်​ဆီး​မှု တို့​သည်​ပ​ပျောက်​၍​သွား​လိမ့်​မည်။ တိုင်း​ပြည် ကို​ပျက်​ပြုန်း​စေ​သော​သူ​တို့​သည်​လည်း​ရှိ ကြ​တော့​မည်​မ​ဟုတ်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	ISA 16:5 ထို​အ​ခါ​ဒါ​ဝိဒ်​၏​သား​မြေး​တစ်​ဦး​တည်း နန်း​တက်​၍​ပြည်​သူ​တို့​အား​သစ္စာ၊ မေတ္တာ​နှင့် အုပ်​စိုး​လိမ့်​မည်။ သူ​သည်​မှန်​ရာ​ကို​ပြု​ရန် လက်​နှေး​လိမ့်​မည်​မ​ဟုတ်။ တ​ရား​သ​ဖြင့် စီ​ရင်​ဆုံး​ဖြတ်​ပေး​လိမ့်​မည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	JER 26:20 (ထာ​ဝ​ရ​ဘု​ရား​၏​နာ​မ​တော်​ကို​အ​မှီ ပြု​၍ ဟော​ပြော​ကြ​သူ​အ​ခြား​လူ​တစ် ယောက်​ရှိ​သေး​၏။ ထို​သူ​သည်​ရှေ​မာ​ယ ၏​သား၊ ကိ​ရ​ယတ်​ယာ​ရိမ်​မြို့​သား​ဥ​ရိ​ယ ဖြစ်​၏။ သူ​သည်​ဤ​မြို့​နှင့်​ဤ​လူ​မျိုး​အား ဆန့်​ကျင်​၍​ယေ​ရ​မိ​ဟော​ပြော​သ​ကဲ့​သို့ ဟော​ပြော​ခဲ့​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	JER 26:23 သူ​တို့​သည်​ဥ​ရိ​ယ​အား​အီ​ဂျစ်​ပြည်​မှ ယော​ယ​ကိမ်​မင်း​ထံ​သို့​ပြန်​လည်​ခေါ်​ဆောင် လာ​လေ​လျှင် မင်း​ကြီး​သည်​သူ့​ကို​သတ်​၍ ပြည်​သူ​တို့​၏​သင်္ချိုင်း​တွင်​ပစ်​ထား​စေ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	JER 27:19 (ဗာ​ဗု​လုန်​ဘု​ရင်​နေ​ဗု​ခဒ်​နေ​ဇာ​မင်း​သည် ယော​ယ​ကိမ်​၏​သား​ယု​ဒ​ဘု​ရင်​ယေ​ခေါ​နိ အား​လည်း​ကောင်း၊ ယု​ဒ​ပြည်​နှင့်​ယေ​ရု​ရှ​လင် မြို့​မှ​ဦး​စီး​ခေါင်း​ဆောင်​များ​အား​လည်း​ကောင်း၊ ယေ​ရု​ရှ​လင်​မြို့​မှ​ဗာ​ဗု​လုန်​မြို့​သို့​ခေါ်​ဆောင် သွား​စဉ်​အ​ခါ​က​ချန်​ထား​ခဲ့​သည့်​ကြေး​ဝါ တိုင်​ကြီး​များ၊ ကြေး​ဝါ​ရေ​ကန်​များ​နှင့်​အောက် ခံ​ခုံ​များ၊ အ​ခြား​ဗိ​မာန်​တော်​ဘဏ္ဍာ​အ​ချို့ တို့​ကို​ချန်​ထား​ခဲ့​လေ​သည်။	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (ဖာ​ရိ​ရှဲ​များ​နှင့်​ယု​ဒ​အ​မျိုး​သား​အ​ပေါင်း တို့​သည် ရှေး​လူ​ကြီး​တို့​၏​ထုံး​တမ်း​စဉ်​လာ​များ ကို​လိုက်​နာ​ကျင့်​သုံး​ကြ​၏။ လက်​ကို​လက်​ကောက် ဝတ်​အ​ထိ ဦး​စွာ​မ​ဆေး​ကြော​ဘဲ​အ​စား​အ​စာ စား​လေ့​မ​ရှိ​ကြ။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 စျေး​မှ​ဝယ်​ယူ​သည့်​အ​ရာ​အား​လုံး​ကို​မ​ဆေး မ​ကြော​ရ​လျှင်​မ​စား​ကြ။ အိုး၊ ခွက်၊ ကြေး​ဖ​လား နှင့်​ခု​တင်​များ​ကို​ဆေး​ကြော​နည်း​မှ​စ​သော​ထုံး တမ်း​စဉ်​လာ​များ​ကို သူ​တို့​သည်​လိုက်​နာ​ကျင့်​သုံး ကြ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	[1/0]	MAR 16:9 [တနင်္ဂနွေနေ့နံနက်စောစောအချိန်၌ကိုယ်တော် သည်သြေခင်းမှထမြောက်တော်မူပြီးနောက် ဦးစွာ မာဂဒလရွာသူမာရိအားကိုယ်ထင်ပြတော်မူ၏။ မာဂဒလရွာသူမာရိထံမှနတ်မိစ္ဆာခုနစ်ဦးကို ကိုယ်တော်နှင်ထုတ်ပေးခဲ့၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	[0/1]	MAR 16:20 တပည့်တော်တို့သည်အရပ်တကာသို့သွားရောက် ၍ တရားဟောပြောကြ၏။ သခင်ဘုရားသည် သူတို့နှင့်အတူလုပ်ဆောင်၍ သူတို့ဟောပြောသော တရားတော်မှန်ကန်ကြောင်းကိုသက်သေပြရန် သူတို့အားနိမိတ်လက္ခဏာများပြနိုင်သော တန်ခိုးကိုပေးတော်မူ၏။] ရှင်မာကုခရစ်ဝင်ပြီး၏။	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	[0/1]	JOH 8:11 ထို​အ​ခါ​အ​မျိုး​သ​မီး​က ``အ​ရှင်၊ တစ်​ယောက် မျှ​မ​ရှိ​တော့​ပါ'' ဟု​ပြန်​လည်​၍​လျှောက်​ထား ၏။ သ​ခင်​ယေ​ရှု​က ``ငါ​သည်​လည်း​သင့်​အား​အ​ပြစ် ဒဏ်​မ​စီ​ရင်​ပြီ။ သွား​လော့။ နောက်​တစ်​ဖန်​အ​ပြစ် မ​ပြု​နှင့်'' ဟု​မိန့်​တော်​မူ​၏။]	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	ACT 1:18 (သူ​သည်​မိ​မိ​ဆိုး​ညစ်​ယုတ်​မာ​မှု​ကြောင့်​ရ​ရှိ သည့်​ငွေ​ဖြင့်​လယ်​တစ်​ကွက်​ကို​ဝယ်​ပြီး​နောက် ထို​လယ်​မြေ​ပေါ်​တွင်​လဲ​ကျ​သေ​ဆုံး​လေ​သည်။ သူ​၏​ဝမ်း​ဗိုက်​သည်​ပေါက်​၍​အူ​များ​ထွက်​လာ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	ACT 1:19 ယေ​ရု​ရှ​လင်​မြို့​နေ​လူ​အ​ပေါင်း​တို့​သည် ဤ အ​ဖြစ်​အ​ပျက်​အ​ကြောင်း​ကို​ကြား​သိ​ကြ​၏။ သို့​ဖြစ်​၍​ထို​လယ်​ကို​မိ​မိ​တို့​ဘာ​သာ​စ​ကား ဖြင့် ``အ​ကေ​လ​ဒ​မ'' ဟု​ခေါ်​ဆို​ကြ​၏။ အ​ကေ​လ ဒ​မ​၏​အ​နက်​ကား``သွေး​လယ်'' ဟူ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	ACT 24:6 ဗိ​မာန်​တော်​ကို​လည်း​ညစ်​ညမ်း​စေ​ရန်​ကြိုး​စား အား​ထုတ်​သ​ဖြင့် သူ့​အား​အ​ကျွန်ုပ်​တို့​ဖမ်း​ဆီး ခဲ့​ကြ​ပါ​၏။ (သူ့​အား​အ​ကျွန်ုပ်​တို့​သည်​ပ​ညတ် တ​ရား​အ​ရ​စစ်​ဆေး​စီ​ရင်​ရန်​အ​လို​ရှိ​သော် လည်း၊-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	ACT 24:8 သူ့​အား​ပြစ်​တင်​ပြော​ဆို​သူ​တို့​ကို​လည်း​အ​ရှင် ၏​ထံ​သို့​လာ​ကြ​ရန်​အ​မိန့်​ပေး​ခဲ့​ပါ​၏။) အ​ရှင်​ကိုယ်​တိုင်​သူ့​အား​စစ်​ဆေး​မေး​မြန်း​ကြည့် ပါ​လျှင်​သူ့​အား​အ​ကျွန်ုပ်​တို့​စွပ်​စွဲ​သည့်​အ​ချက် အား​လုံး​ကို​ကြား​သိ​ရ​ပါ​လိမ့်​မည်'' ဟု​လျှောက်​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	EPH 3:3 ဘု​ရား​သ​ခင်​သည်​မိ​မိ​၏​နက်​နဲ​သော​အ​ကြံ အ​စည်​တော်​ကို​ငါ့​အား​ဖွင့်​ပြ​တော်​မူ​၏။ (ဤ အ​ကြောင်း​အ​ရာ​နှင့်​ပတ်​သက်​၍​သင်​တို့​အား အ​ကျဉ်း​အား​ဖြင့်​ငါ​ဖော်​ပြ​ခဲ့​ပြီး​ပေ​ပြီ။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	EPH 3:4 သင်​တို့​သည်​ထို​ဖော်​ပြ​ချက်​ကို​ဖတ်​ရှု​ခြင်း အား​ဖြင့်​ခ​ရစ်​တော်​၏​နက်​နဲ​သည့်​အ​ရာ​ကို ငါ​သိ​ရှိ​နား​လည်​ကြောင်း​သိ​မြင်​နိုင်​ကြ​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(1/0)	EPH 5:29 (အ​ဘယ်​သူ​မျှ​မိ​မိ​ကိုယ်​ခန္ဓာ​ကို​မုန်း​သည်​ဟူ​၍ မ​ရှိ။ မုန်း​မည့်​အ​စား​သူ​သည်​မိ​မိ​ကိုယ်​ကို​ကျွေး မွေး​ပြု​စု​၏။ အ​သင်း​တော်​အား​ခ​ရစ်​တော် ကျွေး​မွေး​ပြု​စု​တော်​မူ​သ​ကဲ့​သို့​တည်း။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Source	(0/1)	EPH 5:30 ငါ​တို့​သည်​ကိုယ်​ခန္ဓာ​တော်​၏​အင်္ဂါ​များ​ဖြစ်​ကြ​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	001 GEN 005 001 အာ​ဒံ​၏​သား​စဉ်​မြေး​ဆက်​စာ​ရင်း​ကို​ဖော် ပြ​ပေ​အံ့။ (ဘု​ရား​သ​ခင်​သည်​လူ​ကို​ဖန်​ဆင်း ရာ​၌ မိ​မိ​၏​ပုံ​သဏ္ဌာန်​နှင့်​တူ​စွာ​ဖန်​ဆင်း​တော် မူ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	001 GEN 005 002 ကိုယ်​တော်​သည်​လူ​ယောကျာ်း​နှင့်​လူ​မိန်းမ​တို့ ကို​ဖန်​ဆင်း​၍ သူ​တို့​အား​ကောင်း​ချီး​ပေး လျက်​လူ​ဟု​သ​မုတ်​တော်​မူ​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 018 002 သို့​ဖြစ်​၍​သူ​သည်​ယောက္ခ​မ​အိမ်​သို့​ဇ​နီး​ဇိ​ပေါ​ရ ကို​စေ​လွှတ်​ခဲ့​ရာ ယေ​သ​ရော​သည်​ဇိ​ပေါ​ရ​နှင့် သား​နှစ်​ယောက်​ဖြစ်​သော ဂေ​ရ​ရှုံ​နှင့်​ဧ​လျေ​ဇာ တို့​ကို​လက်​ခံ​၏။ (မော​ရှေ​က``ငါ​သည်​နိုင်​ငံ​ခြား ၌​ဧည့်​သည်​ဖြစ်​သည်'' ဟု​ဆို​၍​သား​တစ်​ယောက် ကို​ဂေ​ရ​ရှုံ​ဟု​နာ​မည်​ပေး​ခဲ့​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 018 004 တစ်​ဖန်``ငါ့​အ​ဖ​၏​ထာ​ဝ​ရ​ဘု​ရား​သည်​ငါ့ ကို​အီ​ဂျစ်​ဘု​ရင်​၏​ဋ္ဌား​ဘေး​မှ​ကယ်​တင်​တော် မူ​၏'' ဟု​ဆို​၍​အ​ခြား​သော​သား​တစ်​ယောက် ကို​ဧ​လျေ​ဇာ​ဟု​နာ​မည်​ပေး​ခဲ့​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	003 LEV 023 037 (ဤ​ဘာ​သာ​ရေး​ပွဲ​တော်​များ​တွင် ထာ​ဝ​ရ ဘု​ရား​၏​ဂုဏ်​ကျေး​ဇူး​တော်​ကို​ချီး​မွမ်း​ရန် သင်​တို့​သည်​စု​ဝေး​ဝတ်​ပြု​ကိုး​ကွယ်​ခြင်း နှင့်​မီး​ရှို့​ရာ​ပူ​ဇော်​သ​ကာ၊ ဘော​ဇဉ်​ပူ​ဇော် သ​ကာ၊ ယဇ်​ပူ​ဇော်​ခြင်း​စ​ပျစ်​ရည်​ပူ​ဇော် သ​ကာ​များ​ကို​သတ်​မှတ်​သော​နေ့​ရက်​အ​လိုက် ပူ​ဇော်​ခြင်း​ကို​ပြု​လုပ်​ရ​ကြ​မည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	003 LEV 023 038 ဤ​ပွဲ​တော်​များ​သည်​ပုံ​မှန်​ဥ​ပုသ်​နေ့​များ အ​ပြင်​ကျင်း​ပ​ရ​သော​ပွဲ​တော်​များ​ဖြစ်​၏။ ဤ​ပူ​ဇော်​သ​ကာ​များ​သည် ထာ​ဝ​ရဘု​ရား အား​ပုံ​မှန်​ပူ​ဇော်​ခြင်း၊ သစ္စာ​ဝတ်​ဖြေ​ရာ ပူ​ဇော်​ခြင်း၊ စေ​တ​နာ​အ​လျောက်​ပူ​ဇော် ခြင်း​များ​အ​ပြင်​ပူ​ဇော်​ရ​သော​ပူ​ဇော် သ​ကာ​များ​ဖြစ်​သည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 011 007 (မန္န​မုန့်​သည်​ဝါ​ဖျော့​ဖျော့​အ​ရောင်​ရှိ​သော သစ်​စေ့​က​လေး​များ​နှင့်​တူ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 011 008 ည​အ​ခါ​နှင်း​နှင့်​အ​တူ​စခန်း​ထဲ​သို့​ကျ​၏။ နံ​နက်​အ​ချိန်​တွင်​လူ​တို့​သည်​မန္န​မုန့်​ကို​လှည့် လည်​စု​သိမ်း​ပြီး​လျှင်​ကြိတ်​၍​ဖြစ်​စေ၊ ထောင်း ၍​ဖြစ်​စေ​မုန့်​ညက်​ပြု​လုပ်​ကြ​၏။ ထို​နောက် မုန့်​ညက်​ကို​ပေါင်း​၍​မုန့်​ပြား​ပြု​လုပ်​ကြ​၏။ အ​ရ​သာ​သည်​သံ​လွင်​ဆီ​နှင့်​ဖုတ်​သော​မုန့် အ​ရ​သာ​နှင့်​တူ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 026 009 သူ​၏​သား​များ​ဖြစ်​သော​နေ​မွေ​လ၊ ဒါ​သန်၊ အ​ဘိ​ရံ​တို့​ဖြစ်​ကြ​သည်။ (ဒါ​သန်​နှင့်​အ​ဘိ​ရံ တို့​သည်​ဣ​သ​ရေ​လ​အ​မျိုး​သား​အ​ပေါင်း တို့​က​ခေါင်း​ဆောင်​အ​ဖြစ်​ရွေး​ချယ်​ခြင်း​ခံ​ရ​၍ မော​ရှေ​နှင့်​အာ​ရုန်​တို့​၏​အာ​ဏာ​ကို​ဖီ​ဆန် လျက် ကော​ရ​၏​နောက်​လိုက်​များ​နှင့်​အ​တူ ထာ​ဝ​ရ​ဘု​ရား​ကို​ပုန်​ကန်​ခဲ့​သူ​များ ဖြစ်​ကြ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 026 011 သို့​ရာ​တွင်​ကော​ရ​၏​သား​များ​သည်​သေ ဘေး​မှ​လွတ်​ကြ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (အာ​ရ​မြို့​တွင်​ယ​ခင်​အ​ခါ​က အ​လွန်​ထွား ကြိုင်း​၍​ခွန်​အား​ကြီး​သော​ဧ​မိမ်​လူ​မျိုး​နေ ထိုင်​ခဲ့​ကြ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 ရှေး​အ​ခါ​က​ဧ​ဒုံ​ပြည်​တွင်​ဟော​ရိ​အ​မျိုး သား​တို့​နေ​ထိုင်​ခဲ့​ကြ​သော်​လည်း နောင်​အ​ခါ ၌​ဣ​သ​ရေ​လ​အ​မျိုး​သား​တို့​သည် ထာ​ဝ​ရ ဘု​ရား​ပေး​တော်​မူ​သော​ပြည်​မှ ရန်​သူ​များ ကို​မောင်း​ထုတ်​သ​ကဲ့​သို့ ဧ​သော​၏​အ​ဆက် အ​နွယ်​တို့​သည်​ထို​သူ​တို့​ကို​မောင်း​ထုတ် ပြီး​လျှင် ထို​အ​ရပ်​၌​အ​ခြေ​ချ​နေ​ထိုင် ကြ​သည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (ယ​ခင်​အ​ခါ​က​ရီ​ဖိမ်​လူ​မျိုး​နေ​ထိုင်​ခဲ့​သ​ဖြင့် ထို​ပြည်​ကို​ရီ​ဖိမ်​ပြည်​ဟူ​၍​ခေါ်​တွင်​သည်။ အမ္မုန် အ​မျိုး​သား​တို့​က​သူ​တို့​ကို​ဇံ​ဇုမ္မိမ်​ဟူ​၍​ခေါ် ကြ​သည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 က​ရေ​တေ​ကျွန်း​သား​တို့​သည်​မြေ​ထဲ ပင်​လယ်​ကမ်း​ခြေ​တွင် အ​ခြေ​ချ​နေ​ထိုင် ကြ​၏။ သူ​တို့​သည်​မူ​လ​နေ​ထိုင်​သူ​အာ​ဝိမ် လူ​မျိုး​ကို​သုတ်​သင်​ဖယ်​ရှား​ပြီး​လျှင် သူ တို့​၏​ပြည်​ကို​တောင်​ဘက်​ဂါ​ဇာ​မြို့​အ​ထိ သိမ်း​ပိုက်​လိုက်​ကြ​သည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 ဂိ​လဒ်​ပြည်​ကျန်​တစ်​ဝက်​နှင့်​သြဃ​ဘု​ရင်​အုပ် စိုး​သော​ဗာ​ရှန်​ပြည်​အား​လုံး၊ တစ်​နည်း​အား ဖြင့်​အာ​ဂေါ​ဘ​ဒေ​သ​တစ်​ခု​လုံး​ကို မ​နာ​ရှေ အ​နွယ်​တစ်​ဝက်​တို့​အား​ငါ​ခွဲ​ဝေ​ပေး​၏။'' (ဗာ​ရှန်​ပြည်​တစ်​ပြည်​လုံး​ကို ရီ​ဖိမ်​လူ​မျိုး တို့​၏​ပြည်​ဟူ​၍​ခေါ်​တွင်​ခဲ့​သည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 မ​နာ​ရှေ​အ​နွယ်​ဝင်​ယာ​ဣ​ရ​သည် ဂေ​ရှု​ရ​နှင့် မာ​ခါ​နယ်​စပ်​အ​ထိ​ကျယ်​ဝန်း​သော​ဗာ​ရှန် ပြည်၊ တစ်​နည်း​အား​ဖြင့်​အာ​ဂေါ​ဘ​ဒေ​သ တစ်​ခု​လုံး​ကို​သိမ်း​ယူ​သည်။ သူ​သည်​ကျေး​ရွာ များ​ကို သူ​၏​နာ​မည်​ဖြင့်​မှည့်​ခေါ်​ရာ​၌ ယ​နေ့ တိုင်​အောင်​ယာ​ဣ​ရ​၏​ကျေး​ရွာ​များ​ဟု​ခေါ် တွင်​သ​တည်း။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (ဣ​သ​ရေ​လ​အ​မျိုး​သား​တို့​သည် ဗင်္ယာ​ကန်​ရေ တွင်း​မှ​မော​သ​ရုတ်​စ​ခန်း​သို့​ခ​ရီး​သွား​ကြ​၏။ အာ​ရုန်​သည်​ထို​စ​ခန်း​တွင်​အနိစ္စ​ရောက်​သ​ဖြင့် သူ့ အား​သင်္ဂြိုဟ်​ကြ​လေ​သည်။ သူ​၏​သား​ဧ​လာ​ဇာ သည်​ဖ​ခင်​၏​ယဇ်​ပု​ရော​ဟိတ်​အ​ရိုက်​အ​ရာ ကို​ဆက်​ခံ​လေ​သည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 ထို​အ​ကြောင်း​ကြောင့်​လေ​ဝိ​အ​မျိုး​သား​တို့ သည်​အ​ခြား​အ​မျိုး​သား​ချင်း​တို့​နည်း​တူ နယ်​မြေ​သီး​ခြား​မ​ရ​ခဲ့​ကြ​ချေ။ သင်​တို့​၏ ဘု​ရား​သ​ခင်​ထာ​ဝ​ရ​ဘု​ရား​၏​က​တိ​တော် အ​တိုင်း သူ​တို့​သည်​ထာ​ဝ​ရ​ဘု​ရား​၏​ယဇ် ပု​ရော​ဟိတ်​များ​ဖြစ်​ရ​သည့်​အ​ခွင့်​ထူး​ကို ရ​ရှိ​ကြ​လေ​သည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 ဣ​ရှ​ဗော​ရှက်​တွင်​လု​ယက်​တိုက်​ခိုက်​သည့်​အ​ဖွဲ့ များ​၏​ခေါင်း​ဆောင်​နှစ်​ယောက်​ရှိ​၏။ သူ​တို့​၏ နာ​မည်​မှာ​ဗာ​နာ​နှင့်​ရေ​ခပ်​ဖြစ်​၍​ဗေ​ရုတ်​မြို့ မှ​ဗင်္ယာ​မိန်​အ​နွယ်​ဝင်​ရိမ္မုန်​၏​သား​များ​ဖြစ် ကြ​၏။ (ဗေ​ရုတ်​မြို့​သည်​ဗင်္ယာ​မိန်​နယ်​တွင် အ​ပါ​အ​ဝင်​ဖြစ်​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 ထို​မြို့​တွင်​လက်​ဦး​နေ​ထိုင်​ခဲ့​ကြ​သော​လူ တို့​သည်​ဂိတ္တိမ်​မြို့​သို့​ထွက်​ပြေး​ကာ ယ​နေ့​တိုင် အောင်​နေ​ထိုင်​လျက်​ရှိ​သ​တည်း။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 009 016 (အီ​ဂျစ်​ဘု​ရင်​သည်​ဂေ​ဇာ​မြို့​ကို​တိုက်​ခိုက်​သိမ်း ယူ​ပြီး​လျှင် မြို့​သူ​မြို့​သား​တို့​ကို​သတ်​၍​မြို့​ကို မီး​ရှို့​ပစ်​လေ​သည်။ ထို့​နောက်​သ​မီး​တော်​အား ရှော​လ​မုန်​နှင့်​ထိမ်း​မြား​မင်္ဂ​လာ​ပြု​ချိန်​၌​ထို မြို့​ကို​လက်​ဖွဲ့​တော်​မူ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 009 017 သို့​ဖြစ်​၍​ရှော​လ​မုန်​သည်​ဂေ​ဇာ​မြို့​ကို​ပြန် လည်​တည်​ဆောက်​တော်​မူ​ခြင်း​ဖြစ်​၏။) ရှော လ​မုန်​သည်​အောက်​ဗေ​သော​ရုန်​မြို့၊-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 ထို့​ကြောင့်​အာ​ဟပ်​သည်​နန်း​တော်​အုပ်​သြ​ဗ​ဒိ ကို​ခေါ်​တော်​မူ​၏။ (သြ​ဗ​ဒိ​သည်​ထာ​ဝ​ရ ဘု​ရား​အား​အ​လွန်​ကြည်​ညို​လေး​မြတ်​သူ ဖြစ်​သ​ဖြင့်၊-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 ထာ​ဝ​ရ​ဘုရား​၏​ပ​ရော​ဖက်​များ​ကို​ယေ​ဇ​ဗေ​လ သတ်​ဖြတ်​နေ​ချိန်​၌ ပ​ရော​ဖက်​တစ်​ရာ​ကို​ငါး ဆယ်​စီ​နှစ်​စု​ခွဲ​၍​ဂူ​များ​တွင်​ဝှက်​ထား​ပြီး​လျှင် အ​စာ​ရေ​စာ​ကျွေး​မွေး​ခဲ့​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 021 025 (ထာ​ဝ​ရ​ဘု​ရား​၏​ရှေ့​တော်​မှောက်​တွင် အာ​ဟပ်​ကဲ့ သို့​ဒု​စ​ရိုက်​ကို​လွန်​ကဲ​စွာ​ပြု​သူ​တစ်​ယောက်​မျှ မ​ရှိ။ သူ​ပြု​သော​အ​မှု​အ​ရာ​မှန်​သ​မျှ​မှာ​မိ ဖု​ရား​ယေ​ဇ​ဗေ​လ​၏​တိုက်​တွန်း​ချက်​အ​ရ ဖြစ်​သည်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 021 026 သူ​သည်​အာ​မော​ရိ​ပြည်​သား​တို့​ပြု​သည့်​အ​တိုင်း ရုပ်​တု​များ​ကို​ဝတ်​ပြု​ကိုး​ကွယ်​ခြင်း​အား​ဖြင့် အ​လွန်​ရှက်​ကြောက်​ဖွယ်​ကောင်း​သည့်​အ​ပြစ်​များ ကို​ပြု​လေ​သည်။ အာ​မော​ရိ​ပြည်​သူ​တို့​ကား ခါ​နာန်​ပြည်​သို့​ဣသ​ရေ​လ​အ​မျိုး​သား​တို့ ဝင်​ရောက်​လာ​ချိန်​၌ ထာ​ဝရ​ဘု​ရား​နှင်​ထုတ် တော်​မူ​သော​သူ​များ​ဖြစ်​သ​တည်း။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 ရု​ဗင်​၏​သား​မြေး​များ​ကား​အောက်​ပါ အ​တိုင်း​ဖြစ်​၏။ (ရု​ဗင်​သည်​ဣ​သ​ရေ​လ ၏​သား​ဦး​ဖြစ်​သော်​လည်း အ​ဖ​၏​မောင်း​မ တစ်​ယောက်​နှင့်​ပြစ်​မှား​သ​ဖြင့် သား​ဦး​၏ အ​ခွင့်​အ​ရေး​များ​ကို​ဆုံး​ရှုံး​ရ​လေ​သည်။ ထို​အ​ခွင့်​အ​ရေး​များ​သည်​ဣ​သ​ရေ​လ ၏​သား​ယော​သပ်​၏​လက်​သို့​ရောက်​ရှိ သွား​၏။ သို့​ဖြစ်​၍​သား​စဉ်​မြေး​ဆက် အ​လိုက်​ရေ​တွက်​သော​အ​ခါ သား​ဦး အ​ရာ​ကို​ရု​ဗင်​မ​ရ​ရှိ​ပေ။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 ယု​ဒ​အ​နွယ်​သည်​ခွန်​အား​အ​ကြီး​မား​ဆုံး ဖြစ်​လာ​၍ အ​နွယ်​စု​အ​ပေါင်း​တို့​အ​တွက် မင်း​ပေါ်​ထွန်း​ခဲ့​၏။)-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 023 013 သူ​၏​သား​ကြီး​အာ​မ​ရံ​သည်​အာ​ရုန်​နှင့် မော​ရှေ​တို့​၏​အ​ဖ​ဖြစ်​၏။ (အာ​ရုန်​နှင့်​သူ ၏​သား​မြေး​တို့​သည်​အ​မွန်​အ​မြတ်​ထား သည့်​ပစ္စည်း​အ​သုံး​အ​ဆောင်​တို့​ကို​အ​စဉ် အ​မြဲ​ထိန်း​သိမ်း​ရန် ထာ​ဝ​ရ​ဘု​ရား​အား ဝတ်​ပြု​ကိုး​ကွယ်​ရာ​၌​နံ့​သာ​ပေါင်း​ကို မီး​ရှို့​ရန်၊ ကိုယ်​တော်​၏​အ​မှု​တော်​ကို​ဆောင် ရွက်​ရန်​နှင့်​နာ​မ​တော်​ကို​အ​မှီ​ပြု​၍ လူ တို့​အား​ကောင်း​ချီး​ပေး​ရန်​သီး​သန့်​တာ​ဝန် ပေး​အပ်​ခြင်း​ကို​ခံ​ရ​ကြ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 023 014 သို့​ရာ​တွင်​ဘု​ရား​သ​ခင်​၏​လူ​မော​ရှေ​၏ သား​များ​သည် လေ​ဝိ​အ​နွယ်​ဝင်​များ​အ​ဖြစ် ဖြင့်​စာ​ရင်း​သွင်း​ခြင်း​ကို​ခံ​ရ​ကြ​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 009 010 (သြ​ဖိ​ရ​မြို့​မှ​ရွှေ​ကို​ယူ​ဆောင်​လာ​သော ဟိ​ရံ​မင်း​နှင့်​ရှော​လ​မုန်​မင်း​၏​လူ​တို့​သည် ထင်း​ရှူး​သား​နှင့်​ကျောက်​မျက်​ရ​တ​နာ​များ ကို​လည်း​ယူ​ဆောင်​လာ​ကြ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 009 011 ရှော​လ​မုန်​သည်​ထင်း​ရှူး​သား​ကို​ဗိ​မာန်​တော်​နှင့် မိ​မိ​၏​နန်း​တော်​လှေ​ကား​များ​ပြု​လုပ်​ရာ​တွင် လည်း​ကောင်း၊ ဂီ​တ​ဆ​ရာ​များ​အ​တွက်​စောင်း ကြီး​စောင်း​ငယ်​များ​ပြု​လုပ်​ရာ​တွင်​လည်း ကောင်း​အ​သုံး​ပြု​တော်​မူ​၏။ ထို​မျှ​ကောင်း သော​ထင်း​ရှူး​သား​မျိုး​ကို ယ​ခင်​အ​ဘယ်​အ​ခါ က​မျှ​ယု​ဒ​ပြည်​တွင်​မ​တွေ့​မ​မြင်​ဘူး​ကြ။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	023 ISA 016 004 သင်​တို့​၏​ပြည်​တွင်​နေ​ခွင့်​ပြု​ကြ​ပါ။ ငါ​တို့ ကို​သုတ်​သင်​ဖျက်​ဆီး​လို​သူ​တို့​၏​ဘေး​မှ ကာ​ကွယ်​စောင့်​ရှောက်​ကြ​ပါ'' ဟု​မော​ဘ ပြည်​သူ​တို့​ပြော​ကြား​ကြ​၏။ (ဖိ​နှိပ်​ချုပ်​ချယ်​မှု​နှင့်​သုတ်​သင်​ဖျက်​ဆီး​မှု တို့​သည်​ပ​ပျောက်​၍​သွား​လိမ့်​မည်။ တိုင်း​ပြည် ကို​ပျက်​ပြုန်း​စေ​သော​သူ​တို့​သည်​လည်း​ရှိ ကြ​တော့​မည်​မ​ဟုတ်။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	023 ISA 016 005 ထို​အ​ခါ​ဒါ​ဝိဒ်​၏​သား​မြေး​တစ်​ဦး​တည်း နန်း​တက်​၍​ပြည်​သူ​တို့​အား​သစ္စာ၊ မေတ္တာ​နှင့် အုပ်​စိုး​လိမ့်​မည်။ သူ​သည်​မှန်​ရာ​ကို​ပြု​ရန် လက်​နှေး​လိမ့်​မည်​မ​ဟုတ်။ တ​ရား​သ​ဖြင့် စီ​ရင်​ဆုံး​ဖြတ်​ပေး​လိမ့်​မည်။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 026 020 (ထာ​ဝ​ရ​ဘု​ရား​၏​နာ​မ​တော်​ကို​အ​မှီ ပြု​၍ ဟော​ပြော​ကြ​သူ​အ​ခြား​လူ​တစ် ယောက်​ရှိ​သေး​၏။ ထို​သူ​သည်​ရှေ​မာ​ယ ၏​သား၊ ကိ​ရ​ယတ်​ယာ​ရိမ်​မြို့​သား​ဥ​ရိ​ယ ဖြစ်​၏။ သူ​သည်​ဤ​မြို့​နှင့်​ဤ​လူ​မျိုး​အား ဆန့်​ကျင်​၍​ယေ​ရ​မိ​ဟော​ပြော​သ​ကဲ့​သို့ ဟော​ပြော​ခဲ့​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	024 JER 026 023 သူ​တို့​သည်​ဥ​ရိ​ယ​အား​အီ​ဂျစ်​ပြည်​မှ ယော​ယ​ကိမ်​မင်း​ထံ​သို့​ပြန်​လည်​ခေါ်​ဆောင် လာ​လေ​လျှင် မင်း​ကြီး​သည်​သူ့​ကို​သတ်​၍ ပြည်​သူ​တို့​၏​သင်္ချိုင်း​တွင်​ပစ်​ထား​စေ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	024 JER 027 019 (ဗာ​ဗု​လုန်​ဘု​ရင်​နေ​ဗု​ခဒ်​နေ​ဇာ​မင်း​သည် ယော​ယ​ကိမ်​၏​သား​ယု​ဒ​ဘု​ရင်​ယေ​ခေါ​နိ အား​လည်း​ကောင်း၊ ယု​ဒ​ပြည်​နှင့်​ယေ​ရု​ရှ​လင် မြို့​မှ​ဦး​စီး​ခေါင်း​ဆောင်​များ​အား​လည်း​ကောင်း၊ ယေ​ရု​ရှ​လင်​မြို့​မှ​ဗာ​ဗု​လုန်​မြို့​သို့​ခေါ်​ဆောင် သွား​စဉ်​အ​ခါ​က​ချန်​ထား​ခဲ့​သည့်​ကြေး​ဝါ တိုင်​ကြီး​များ၊ ကြေး​ဝါ​ရေ​ကန်​များ​နှင့်​အောက် ခံ​ခုံ​များ၊ အ​ခြား​ဗိ​မာန်​တော်​ဘဏ္ဍာ​အ​ချို့ တို့​ကို​ချန်​ထား​ခဲ့​လေ​သည်။	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (ဖာ​ရိ​ရှဲ​များ​နှင့်​ယု​ဒ​အ​မျိုး​သား​အ​ပေါင်း တို့​သည် ရှေး​လူ​ကြီး​တို့​၏​ထုံး​တမ်း​စဉ်​လာ​များ ကို​လိုက်​နာ​ကျင့်​သုံး​ကြ​၏။ လက်​ကို​လက်​ကောက် ဝတ်​အ​ထိ ဦး​စွာ​မ​ဆေး​ကြော​ဘဲ​အ​စား​အ​စာ စား​လေ့​မ​ရှိ​ကြ။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 စျေး​မှ​ဝယ်​ယူ​သည့်​အ​ရာ​အား​လုံး​ကို​မ​ဆေး မ​ကြော​ရ​လျှင်​မ​စား​ကြ။ အိုး၊ ခွက်၊ ကြေး​ဖ​လား နှင့်​ခု​တင်​များ​ကို​ဆေး​ကြော​နည်း​မှ​စ​သော​ထုံး တမ်း​စဉ်​လာ​များ​ကို သူ​တို့​သည်​လိုက်​နာ​ကျင့်​သုံး ကြ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	[1/0]	041 MAR 016 009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [တနင်္ဂနွေနေ့နံနက်စောစောအချိန်၌ကိုယ်တော် သည်သြေခင်းမှထမြောက်တော်မူပြီးနောက် ဦးစွာ မာဂဒလရွာသူမာရိအားကိုယ်ထင်ပြတော်မူ၏။ မာဂဒလရွာသူမာရိထံမှနတ်မိစ္ဆာခုနစ်ဦးကို ကိုယ်တော်နှင်ထုတ်ပေးခဲ့၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	[0/1]	041 MAR 016 020 တပည့်တော်တို့သည်အရပ်တကာသို့သွားရောက် ၍ တရားဟောပြောကြ၏။ သခင်ဘုရားသည် သူတို့နှင့်အတူလုပ်ဆောင်၍ သူတို့ဟောပြောသော တရားတော်မှန်ကန်ကြောင်းကိုသက်သေပြရန် သူတို့အားနိမိတ်လက္ခဏာများပြနိုင်သော တန်ခိုးကိုပေးတော်မူ၏။] ရှင်မာကုခရစ်ဝင်ပြီး၏။	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	[0/1]	043 JOH 008 011 ထို​အ​ခါ​အ​မျိုး​သ​မီး​က ``အ​ရှင်၊ တစ်​ယောက် မျှ​မ​ရှိ​တော့​ပါ'' ဟု​ပြန်​လည်​၍​လျှောက်​ထား ၏။ သ​ခင်​ယေ​ရှု​က ``ငါ​သည်​လည်း​သင့်​အား​အ​ပြစ် ဒဏ်​မ​စီ​ရင်​ပြီ။ သွား​လော့။ နောက်​တစ်​ဖန်​အ​ပြစ် မ​ပြု​နှင့်'' ဟု​မိန့်​တော်​မူ​၏။]	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 001 018 (သူ​သည်​မိ​မိ​ဆိုး​ညစ်​ယုတ်​မာ​မှု​ကြောင့်​ရ​ရှိ သည့်​ငွေ​ဖြင့်​လယ်​တစ်​ကွက်​ကို​ဝယ်​ပြီး​နောက် ထို​လယ်​မြေ​ပေါ်​တွင်​လဲ​ကျ​သေ​ဆုံး​လေ​သည်။ သူ​၏​ဝမ်း​ဗိုက်​သည်​ပေါက်​၍​အူ​များ​ထွက်​လာ​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 001 019 ယေ​ရု​ရှ​လင်​မြို့​နေ​လူ​အ​ပေါင်း​တို့​သည် ဤ အ​ဖြစ်​အ​ပျက်​အ​ကြောင်း​ကို​ကြား​သိ​ကြ​၏။ သို့​ဖြစ်​၍​ထို​လယ်​ကို​မိ​မိ​တို့​ဘာ​သာ​စ​ကား ဖြင့် ``အ​ကေ​လ​ဒ​မ'' ဟု​ခေါ်​ဆို​ကြ​၏။ အ​ကေ​လ ဒ​မ​၏​အ​နက်​ကား``သွေး​လယ်'' ဟူ​၏။)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	044 ACT 024 006 ဗိ​မာန်​တော်​ကို​လည်း​ညစ်​ညမ်း​စေ​ရန်​ကြိုး​စား အား​ထုတ်​သ​ဖြင့် သူ့​အား​အ​ကျွန်ုပ်​တို့​ဖမ်း​ဆီး ခဲ့​ကြ​ပါ​၏။ (သူ့​အား​အ​ကျွန်ုပ်​တို့​သည်​ပ​ညတ် တ​ရား​အ​ရ​စစ်​ဆေး​စီ​ရင်​ရန်​အ​လို​ရှိ​သော် လည်း၊-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	044 ACT 024 008 သူ့​အား​ပြစ်​တင်​ပြော​ဆို​သူ​တို့​ကို​လည်း​အ​ရှင် ၏​ထံ​သို့​လာ​ကြ​ရန်​အ​မိန့်​ပေး​ခဲ့​ပါ​၏။) အ​ရှင်​ကိုယ်​တိုင်​သူ့​အား​စစ်​ဆေး​မေး​မြန်း​ကြည့် ပါ​လျှင်​သူ့​အား​အ​ကျွန်ုပ်​တို့​စွပ်​စွဲ​သည့်​အ​ချက် အား​လုံး​ကို​ကြား​သိ​ရ​ပါ​လိမ့်​မည်'' ဟု​လျှောက်​၏။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 ဘု​ရား​သ​ခင်​သည်​မိ​မိ​၏​နက်​နဲ​သော​အ​ကြံ အ​စည်​တော်​ကို​ငါ့​အား​ဖွင့်​ပြ​တော်​မူ​၏။ (ဤ အ​ကြောင်း​အ​ရာ​နှင့်​ပတ်​သက်​၍​သင်​တို့​အား အ​ကျဉ်း​အား​ဖြင့်​ငါ​ဖော်​ပြ​ခဲ့​ပြီး​ပေ​ပြီ။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 သင်​တို့​သည်​ထို​ဖော်​ပြ​ချက်​ကို​ဖတ်​ရှု​ခြင်း အား​ဖြင့်​ခ​ရစ်​တော်​၏​နက်​နဲ​သည့်​အ​ရာ​ကို ငါ​သိ​ရှိ​နား​လည်​ကြောင်း​သိ​မြင်​နိုင်​ကြ​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 005 029 (အ​ဘယ်​သူ​မျှ​မိ​မိ​ကိုယ်​ခန္ဓာ​ကို​မုန်း​သည်​ဟူ​၍ မ​ရှိ။ မုန်း​မည့်​အ​စား​သူ​သည်​မိ​မိ​ကိုယ်​ကို​ကျွေး မွေး​ပြု​စု​၏။ အ​သင်း​တော်​အား​ခ​ရစ်​တော် ကျွေး​မွေး​ပြု​စု​တော်​မူ​သ​ကဲ့​သို့​တည်း။-	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 005 030 ငါ​တို့​သည်​ကိုယ်​ခန္ဓာ​တော်​၏​အင်္ဂါ​များ​ဖြစ်​ကြ​၏။-)	WARN
+Myanmar---Burmese-Common-Bible	ENCLOSURES	Summary	lines	50 / 50	NOTICE
+
+# UNEXPECTED
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(`)	14216/14216	WARN
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(%)	100/0	WARN
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(*)	1/0	WARN
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Myanmar---Burmese-Common-Bible	UNEXPECTED	Source/Aionian	Summary	14317/14216	WARN
+
+# NUMERALS
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NUM 1:20 ယာ​ကုပ်​၏​သား​ဦး​ဖြစ်​သူ​ရု​ဗင်​၏​အ​နွယ်​မှ​အ​စ​ပြု​၍ စစ်​မှု​ထမ်း​နိုင်​သူ​အ​သက်​နှစ်​ဆယ်​နှင့်​အ​ထက်​အ​ရွယ်​ရှိ​အ​မျိုး​သား​အား​လုံး​တို့​ကို သား​ချင်း​စု​နှင့်​မိ​သား​စု​အ​လိုက်​စာ​ရင်း​ကောက်​ယူ​လေ​၏။ စု​စု​ပေါင်း​လူ​ဦး​ရေ​စာ​ရင်း​မှာ​အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ အနွယ် ဦးရေ ရု​ဗင် ၄၆၅၀၀ ရှိ​မောင် ၅၉၃၀၀ ဂဒ် ၄၅၆၅၀ ယု​ဒ ၇၄၆၀၀ ဣသ​ခါ ၅၄၄၀၀ ဇာ​ဗု​လုန် ၅၇၄၀၀ ဧ​ဖ​ရိမ် ၄၀၅၀၀ မ​နာ​ရှေ ၃၂၂၀၀ ဗင်္ယာ​မိန် ၃၅၄၀၀ ဒန် ၆၂၇၀၀ အာ​ရှာ ၄၁၅၀၀ န​ဿ​လိ ၅၃၄၀၀ စု​စု​ပေါင်း ၆၀၃၅၅၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NUM 2:3 အ​ရှေ့​ဘက်​မျက်​နှာ​တွင် ယု​ဒ​တပ်​နှင့်​ဆိုင်​သော​အ​လံ​အ​နီး​တွင် အောက်​ဖော်​ပြ​ပါ​အ​တိုင်း​အ​စု​လိုက်​မိ​မိ​တို့​၏​ခေါင်း​ဆောင်​များ​နှင့်​စ​ခန်း​ချ​ရ​မည်။ အ​နွယ် ခေါင်း​ဆောင် ဦး​ရေ ယု​ဒ အ​မိ​န​ဒပ်​၏​သား​နာ​ရှုန် ၇၄၆၀၀ ဣ​သ​ခါ ဇု​အာ​၏​သား​နာ​သ​နေ​လ ၅၄၄၀၀ ဇာ​ဗု​လုန် ဟေ​လုန်​၏​သား​ဧ​လျာ​ဘ ၅၇၄၀၀ စု​စု​ပေါင်း ၁၈၆၄၀၀ ယု​ဒ​တပ်​သည်​ရှေ့​ဆုံး​မှ​ချီ​တက်​ရ​မည်။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NUM 2:10 တောင်​ဘက်​မျက်​နှာ​တွင်​ရု​ဗင်​တပ်​နှင့်​ဆိုင်​သော​အ​လံ​အ​နီး​တွင် အောက်​ဖော်​ပြ​ပါ​အ​တိုင်း​အ​စု​လိုက်​မိ​မိ​တို့​၏​ခေါင်း​ဆောင်​များ​နှင့်​စ​ခန်း​ချ​ရ​မည်။ အ​နွယ် ခေါင်း​ဆောင် ဦး​ရေ ရု​ဗင် ရှေ​ဒု​ရ​၏​သား​ဧ​လိ​ဇု​ရ ၄၆၅၀၀ ရှိ​မောင် ဇု​ရိ​ရှဒ္ဒဲ​၏​သား​ရှေ​လု​မျေလ ၅၉၃၀၀ ဂဒ် ဒွေ​လ​၏​သား​ဧ​လျာ​သပ် ၄၅၆၅၀ စု​စု​ပေါင်း ၁၅၁၄၅၀ ရု​ဗင်​တပ်​သည်​ဒု​တိ​ယ​နေ​ရာ​မှ​လိုက်​၍​ချီ​တက်​ရ​မည်။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NUM 2:18 အ​နောက်​ဘက်​မျက်​နှာ​တွင်​ဧ​ဖ​ရိမ်​တပ်​နှင့်​ဆိုင်​သော​အ​လံ​အ​နီး​တွင် အောက်​ဖော်​ပြ​ပါ​အ​တိုင်း​အစု​လိုက်​မိ​မိ​တို့​၏​ခေါင်း​ဆောင်​များ​နှင့်​စ​ခန်း​ချ​ရ​မည်။ အ​နွယ် ခေါင်း​ဆောင် ဦး​ရေ ဧ​ဖ​ရိမ် အ​မိ​ဟုဒ်​၏​သား​ဧ​လိ​ရှ​မာ ၄၀၅၀၀ မ​နာ​ရှေ ပေ​ဒါ​ဇု​ရ​၏​သား​ဂါ​မ​လျေ​လ ၃၂၂၀၀ ဗင်္ယာ​မိန် ဂိ​ဒေါ​နိ​၏​သား​အ​ဘိ​ဒန် ၃၅၄၀၀ စု​စု​ပေါင်း ၁၀၈၁၀၀ ဧ​ဖ​ရိမ်​တပ်​သည်​တ​တိ​ယ​နေ​ရာ​မှ​လိုက်​၍​ချီ​တက်​ရ​မည်။-	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NUM 2:25 မြောက်​ဘက်​မျက်​နှာ​တွင်​ဒန်​၏​တပ်​နှင့်​ဆိုင်​သော​အ​လံ​အ​နီး​တွင် အောက်​ဖော်​ပြ​ပါ​အ​တိုင်း​အ​စု​လိုက်​မိ​မိ​တို့​၏​ခေါင်း​ဆောင်​များ​နှင့်​စ​ခန်း​ချ​ရ​မည်။ အ​နွယ် ခေါင်း​ဆောင် ဦး​ရေ ဒန် အ​မိ​ရှဒ္ဒဲ​၏​သား​အ​ဟေ​ဇာ ၆၂၇၀၀ အာ​ရှာ သြ​က​ရန်​၏​သား​ပါ​ဂျေ​လ ၄၁၅၀၀ န​ဿ​လိ ဧ​နန်​၏​သား​အ​ဟိ​ရ ၅၃၄၀၀ စု​စု​ပေါင်း ၁၅၇၆၀၀ ဒန်​၏​တပ်​သည်​နောက်​ဆုံး​နေ​ရာ​မှ​လိုက်​၍​ချီ​တက်​ရ​မည်။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NUM 4:34 ထာ​ဝ​ရ​ဘု​ရား​မိန့်​တော်​မူ​သည့်​အ​တိုင်း မော​ရှေ၊ အာ​ရုန်​နှင့်​ဣ​သ​ရေ​လ​အ​မျိုး​သား ခေါင်း​ဆောင်​တို့​သည်​လေ​ဝိ​သား​ချင်း​စု​သုံး စု​ဖြစ်​သော​ကော​ဟတ်​သား​ချင်း​စု၊ ဂေ​ရ​ရှုန် သား​ချင်း​စု​နှင့်​မေ​ရာ​ရိ​သား​ချင်း​စု​တို့ တွင်​အ​သက်​သုံး​ဆယ်​နှင့်​ငါး​ဆယ်​အ​တွင်း ရှိ ထာ​ဝ​ရ​ဘု​ရား​စံ​တော်​မူ​ရာ​တဲ​တော် တွင်​အ​မှု​ထမ်း​ဆောင်​နိုင်​မည့်​ယောကျာ်း​တို့ ကို​ဘိုး​ဘေး​ဆွေ​မျိုး​များ​ဘက်​မှ မိ​သား​စု အ​လိုက်​ကောက်​ယူ​ရ​ရှိ​သော​လူ​ဦး​ရေ စာ​ရင်း​မှာ​အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ သား​ချင်း​စု လူ​ဦး​ရေ ကော​ဟတ် ၂၇၅၀ ဂေ​ရ​ရှုန် ၂၆၃၀ မေ​ရာ​ရိ ၃၂၀၀ စု​စု​ပေါင်း ၈၅၈၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	1	RUT 4:10 ထို့​အ​ပြင်​မ​ဟာ​လုန်​၏​မု​ဆိုး​မ၊ မော​ဘ အ​မျိုး​သ​မီး​ရု​သ​သည် ငါ​၏​gen 1gဇနီး​ဖြစ် လာ​လေ​ပြီ။ ဤ​နည်း​အား​ဖြင့်​ထို​ပစ္စည်း​ဥစ္စာ များ​သည် သေ​လွန်​သူ​၏​အိမ်​ထောင်​စု​လက် ဝယ်​တည်​ရှိ​နေ​ပါ​လိမ့်​မည်။ သေ​သူ​၏​ဆွေ စဉ်​မျိုး​ဆက်​သည်​လည်း သူ​၏​အ​မျိုး​သား များ​နှင့်​သူ​၏​နေ​ရင်း​မြို့​တွင်​မ​ပြတ်​ဘဲ ဆက်​လက်​ပွား​လျက်​နေ​ပါ​လိမ့်​မည်။ သင် တို့​သည်​ဤ​အ​မှု​တွင်​အ​သိ​သက်​သေ ဖြစ်​ကြ​၏'' ဟု​ဆို​၏။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၄	1CH 24:7 မိ​မိ​တို့​၏​တာ​ဝန်​ဝတ္တ​ရား​များ​ကို​ခွဲ​ခန့် သတ်​မှတ်​ပေး​ခြင်း​ခံ​ကြ​ရ​သော အိမ်​ထောင် အုပ်​စု​နှစ်​ဆယ့်​လေး​စု​တို့​မှာ၊ ၁။ ယော​ယာ​ရိပ်၊ ၂။ ယေ​ဒါ​ယ၊ ၃။ ဟာ​ရိမ်၊ ၄။ စော​ရိမ်၊ ၅။ မာ​လ​ခိ​ယ၊ ၆။ မိ​ယ​မိန်၊ ၇။ ဟက္ကုတ်၊ ၈။ အ​ဘိ​ယ၊ ၉။ ယေ​ရွှာ၊ ၁၀။ ရှေ​က​နိ၊ ၁၁။ ဧ​လျာ​ရှိပ်၊ ၁၂။ ယာ​ကိမ်၊ ၁၃။ ဟုပ္ပ၊ ၁၄။ ယေ​ရှေ​ဗပ်၊ ၁၅။ ဗိ​လ​ဂ၊ ၁၆။ ဣ​မ္မေရ၊ ၁၇။ ဟေ​ဇိ​ရ၊ ၁၈။ အပ်​ဇဇ်၊ ၁၉။ ပေ​သ​ဟိ၊ ၂၀။ ယေ​ဇ​ကျေ​လ၊ ၂၁။ ယာ​ခိန်၊ ၂၂။ ဂါ​မု​လ၊ ၂၃။ ဒေ​လာ​ယ​နှင့် ၂၄။ မာ​ဇိ တို့​ဖြစ်​သ​တည်း။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၄	1CH 25:9 ဤ​သူ​နှစ်​ရာ​ရှစ်​ဆယ့်​ရှစ်​ယောက်​တို့​ကို​တစ်​အုပ်​စု လျှင် တစ်​ဆယ့်​နှစ်​ယောက်​ပါ​ဝင်​သော​အုပ်​စု​နှစ်​ဆယ့် လေး​စု​ခွဲ​ထား​၏။ တစ်​အုပ်​စု​လျှင်​ခေါင်း​ဆောင်​တစ် ယောက်​စီ​ရှိ​၏။ တာ​ဝန်​အ​ရ​အောက်​ပါ​အ​တိုင်း​ခွဲ ထား​၏။ အာ​သပ်​၏​အိမ်​ထောင်​စု​မှ၊ ၁။ ယော​သပ်၊ ၂။ ဂေ​ဒ​လိ၊ ၃။ ဇက္ကု​ရ၊ ၄။ ဣ​ဇ​ရိ၊ ၅။ နေ​သ​နိ၊ ၆။ ဗုက္ကိ၊ ၇။ ယေ​ရှ​ရေ​လ၊ ၈။ ယေ​ရှာ​ယ၊ ၉။ မတ္တ​နိ၊ ၁၀။ ရှိ​မိ၊ ၁၁။ အာ​ရေ​လ၊ ၁၂။ ဟာ​ရှ​ဘိ၊ ၁၃။ ရှေ​ဗွေ​လ၊ ၁၄။ မတ္တိ​သိ၊ ၁၅။ ယေ​ရ​မုတ်၊ ၁၆။ ဟာ​န​နိ၊ ၁၇။ ယော​ရှ​ဗေ​က​ရှ၊ ၁၈။ ဟာ​နန်၊ ၁၉။ မ​လ္လော​သိ၊ ၂၀။ ဧ​လျာ​သာ၊ ၂၁။ ဟော​သိ​ရ၊ ၂၂။ ဂိဒ္ဒါ​လ​တိ၊ ၂၃။ မ​ဟာ​ဇ​ယုတ်​နှင့် ၂၄။ ရော​မန္တေ​ဇာ၊ ဟူ​၍​ဖြစ်​သ​တည်း။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	EZR 1:9 အောက်​ပါ​အ​တိုင်း​စာ​ရင်း​ပြု​လုပ်​ပေး​အပ်​လေ​သည်။ ပူ​ဇော်​သ​ကာ​များ​ထည့်​ရန်​ရွှေ​ဖ​လား ၃၀ ပူ​ဇော်​သ​ကာ​များ​ထည့်​ရန်​ငွေ​ဖ​လား ၁၀၀၀ အ​ခြား​ဖ​လား ၂၉ ရွှေ​ဖ​လား​အ​ငယ် ၃၀ ငွေ​ဖ​လား​အ​ငယ် ၄၁၀ အ​ခြား​အ​သုံး​အ​ဆောင်​များ ၁၀၀၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၅	EZR 2:3 ပါ​ရုတ်​သား​ချင်း​မှ ၂၁၇၂ ရှေ​ဖ​တိ​သား​ချင်း​စု​မှ ၃၇၂ အာ​ရာ​သား​ချင်း​စု​မှ ၇၇၅ ပါ​ဟတ်​မော​ဘ​သား​ချင်း​စု (ယော​ရှု​နှင့်​ယွာ​ဘတို့​၏​မြေး​များ) ၂၈၁၂ ဧ​လံ​သား​ချင်း​စု​မှ ၁၂၅၄ ဇတ္တု​သား​ချင်း​စု​မှ ၉၄၅ ဇက္ခဲ​သား​ချင်း​စု​မှ ၇၆၀ ဗာ​နိ​သား​ချင်း​စု​မှ ၆၄၂ ဗေ​ဗဲ​သား​ချင်း​စု​မှ ၆၂၃ အာ​ဇ​ဂဒ်​သား​ချင်း​စု​မှ ၁၂၂၂ အ​ဒေါ​နိ​ကံ​သား​ချင်း​စု​မှ ၆၆၆ ဗိ​ဂ​ဝဲ​သား​ချင်း​စု​မှ ၂၀၅၆ အာ​ဒိန်​သား​ချင်း​စု​မှ ၄၅၄ အာ​တာ​ဟု​လည်း​ကောင်း​နာ​မည်​တွင်​သည့် ဟ​ဇ​ကိ​သား​ချင်း​စု​မှ ၉၈ ဗေ​ဇဲ​သား​ချင်း​စု​မှ ၃၂၃ ယော​ရ​သား​ချင်း​စု​မှ ၁၁၂ ဟာ​ရှုံ​သား​ချင်း​စု​မှ ၂၂၃ ဂိဗ္ဗာ​သား​ချင်း​စု​မှ ၉၅	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	EZR 2:21 အောက်​ပါ​ဖော်​ပြ​ပါ​မြို့​တွင်​နေ​ထိုင်​ခဲ့​သူ​ဘိုး​ဘေး​တို့​မှ ဆင်း​သက်​ပေါက်​ပွား​လာ​သူ​များ​သည်​လည်း ယေ​ရု​ရှ​လင်​မြို့​သို့​ပြန်​လာ​ကြ​လေ​သည်။ ဗက်​လင်​မြို့​မှ ၁၂၃ နေ​တော​ဖ​မြို့​မှ ၅၆ အာ​န​သုတ်​မြို့​မှ ၁၂၈ အာ​ဇ​မာ​ဝက်​မြို့​မှ ၄၂ ကိ​ရ​ယ​သာ​ရိမ်​မြို့​ခေ​ဖိ​ရ​မြို့​နှင့် ဗေ​ရုတ်​မြို့​တို့​မှ ၇၄၃ ရာ​မ​မြို့​နှင့်​ဂါ​ဘ​မြို့​မှ ၆၂၁ မိတ်​မတ်​မြို့​မှ ၁၂၂ ဗေ​သ​လ​မြို့​နှင့်​အာဣ​မြို့​မှ ၂၂၃ နေ​ဗော​မြို့​မှ ၅၂ မာ​ဂ​ဗိတ်​မြို့​မှ ၁၅၆ အ​ခြား​ဧ​လံ​မြို့​မှ ၁၂၅၄ ဟာ​ရိမ်​မြို့​မှ ၃၂၀ လော​ဒ​မြို့​ဟာ​ဒိဒ်​မြို့​နှင့် သြ​နော​မြို့​တို့​မှ ၇၂၅ ယေ​ရိ​ခေါ​မြို့​မှ ၃၄၅ သေ​နာ​မြို့​မှ ၃၆၃၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၇	EZR 2:36 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​ကြ​သော ယဇ်​ပု​ရော​ဟိတ်​သား​ချင်း​စု​စာ​ရင်း​မှာ​အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ယေ​ဒါ​ယ​သား​ချင်း​စု (ယော​ရှု​၏ သား​မြေး​များ) ၉၇၃ ဣ​မေ​ရ​သား​ချင်း​စု​မှ ၁၀၅၂ ပါ​ရှု​ရ​သား​ချင်း​စု​မှ ၁၂၄၇ ဟာ​ရိမ်​သား​ချင်း​စု​မှ ၁၀၁၇	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၄	EZR 2:40 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​ကြ​သော​လေ​ဝိ​အ​နွယ်​ဝင်​သား​ချင်း​စု​များ​မှာ အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ယော​ရှု​နှင့်​ကာ​ဒ​မေ​လ​သား​ချင်း​စု​မှ (ဟော​ဒ​ဝိ​၏​သား​မြေး​များ) ၇၄	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၈	EZR 2:41 ဗိ​မာန်​တော်​ဂီ​တ​ပ​ညာ​သည် (အာ​သပ်​၏​သား​မြေး​များ) ၁၂၈	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၉	EZR 2:42 ဗိ​မာန်​တော်​အ​စောင့်​တပ်​သား (ရှလ္လုံ၊ အာ​တာ၊ တာ​လ​မုန်၊ အက္ကုပ်၊ ဟ​တိ​တ​နှင့်​ရှော​ဗဲ​တို့​၏​သား​မြေး​များ) ၁၃၉	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	EZR 2:64 ပြန်​လာ​ကြ​သော​ပြည်​နှင်​ဒဏ်​သင့်​သူ​စု​စု​ပေါင်း​ဦး​ရေ​မှာ ၄၂၃၆၀ သူ​တို့​၏​အ​စေ​ခံ​ယောကျာ်း မိန်း​မ ၇၃၃၇ အ​မျိုး​သား​အ​မျိုး​သ​မီး ဂီ​တ​ပ​ညာ​သည်​များ ၂၀၀ မြင်း ၇၃၆ ကောင် မြည်း ၂၄၅ ကောင် ကု​လား​အုတ် ၄၃၅ ကောင် လား ၆၇၂၀ ကောင်	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	EZR 8:2 ဖိ​န​ဟတ်​သား​ချင်း​စု​မှ​ဂေ​ရ​ရှုံ​ဣ​သ​မာ သား​ချင်း​စု​မှ​ဒံ​ယေ​လ ဒါ​ဝိဒ်​သား​ချင်း​စု​မှ​ရှေ​ခ​နိတ်​သား​ဟတ္တုတ် ဖာ​ရုတ်​၏​သား​ချင်း​စု​မှ​ဇာ​ခ​ရိ​နှင့်​သူ​၏ အ​နွယ်​ဝင်​ယောကျာ်း ၁၅၀ (သူ​တို့​အိမ်​ထောင်​စု မှတ်​တမ်း​များ​ရှိ​သည်။) ပါ​ဟတ်​မော​ဘ​သား​ချင်း​စု​မှ​ဇေ​ရာ​ယ ၏​သား ဧ​လျော​နဲ​နှင့်​ယောကျာ်း ၂၀၀ ဇတ္တု​သား​ချင်း​စု​မှ​ယ​ဟာ​ဇေ​လ​၏​သား ရှေ​ခ​နိ​နှင့်​ယောကျာ်း ၃၀၀ အာ​ဒိန်​သား​ချင်း​စု​မှ​ယော​န​သန်​၏​သား ဧ​ဗက်​နှင့်​ယောကျာ်း ၅၀ ဧ​လံ​သား​ချင်း​စု​မှ​အာ​သ​လိ​၏​သား ယေ​ရှာ​ယ​နှင့်​ယောကျာ်း ၇၀ ရှေ​ဖ​တိ​သား​ချင်း​စု​မှ​မိက္ခေ​လ​၏​သား ဇေ​ဗ​ဒိ​နှင့်​ယောကျာ်း ၈၀ ယွာ​ဘ​သား​ချင်း​စု​မှ​ယေ​ဟေ​လ​၏​သား သြ​ဗ​ဒိ​နှင့်​ယောကျာ်း ၂၁၈ ဗာ​နိ​သား​ချင်း​စု​မှ​ယော​သိ​ဖိ​၏​သား ရှေ​လော​မိတ်​နှင့်​ယောကျာ်း ၁၆၀ ဗေ​ဗဲ​သား​ချင်း​စု​မှ​ဗေ​ဗဲ​၏​သား ဇာ​ခ​ရိ​နှင့်​ယောကျာ်း ၂၈ အာ​ဇ​ဂဒ်​သား​ချင်း​စု​မှ​ဟက္က​တန်​၏​သား ယော​ဟ​နန်​နှင့်​ယောကျာ်း ၁၁၀ အ​ဒေါ​နိ​ကံ​သား​ချင်း​စု​မှ​ဧ​လိ​ဖ​လက်၊ ယေ​ယေ​လ၊ ရှေ​မာ​ယ​နှင့်​ယောကျာ်း ၆၀ (သူ​တို့​သည်​နောက်​မှ​လိုက်​လာ​ကြ​သူ​များ ဖြစ်​၏။) ဗိ​ဂ​ဝဲ​သား​ချင်း​စု​မှ​ဥ​သဲ၊ဇဗ္ဗုဒ်​နှင့်​ယောကျာ်း ၇၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၂	EZR 8:26 ငါ​ပေး​အပ်​သည့်​ပစ္စည်း​များ​မှာ​အောက်​ပါ အ​တိုင်း​ဖြစ်​သည်။ ငွေ ၂၅ တန်၊ ငွေ​အ​သုံး​အ​ဆောင် ၁၀၀ ငွေ​သား​ပေါင် ၁၅၀ ရွှေ​ပေါင် ၇၅၀၀ ရွှေ​ဖ​လား၂၀ ခွက် ရွှေ​ချိန် ၂၇၀ အောင်​စ။ ရွှေ​ဖ​လား​နှင့်​တန်​ဖိုး​ညီ​မျှ​သည့်​ကြေး​ဝါ​စစ် ဖ​လား ၂ လုံး	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၅	NEH 7:8 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​ကြ​သူ​လူ​ဦး​ရေ​စာ​ရင်း​မှာ​သား​ချင်း​စု​အ​လိုက်​အောက်​ပါ​အ​တိုင်း​ဖြစ်​၏။ သား​ချင်း​စု ဦး​ရေ ပါ​ရုတ် ၂၁၇၂ ရှေ​ဖ​တိ ၃၇၂ အာ​ရာ ၆၅၂ ပါ​ဟတ်​မော​ဘ (ယော​ရှု​နှင့်​ယွာ​ဘ​တို့​၏ သား​မြေး​များ) ၂၈၁၈ ဧ​လံ ၁၂၅၄ ဇတ္တု ၈၄၅ ဇက္ခဲ ၇၆၀ ဗိနွိ ၆၄၈ ဗေ​ဗဲ ၆၂၈ အာ​ဇ​ဂဒ် ၂၃၂၂ အ​ဒေါ​နိ​ကံ ၆၆၇ ဗိ​ဂဝဲ ၂၀၆၇ အာ​ဒိန် ၆၅၅ (ဟေ​ဇ​ကိ​ဟု​လည်း​နာ​မည်​တွင်​သော) အာ​တာ​ဦး​ရေ ၉၈ ဟာ​ရှုံ ၃၂၈ ဗေ​ဇဲ ၃၂၄ ဟာ​ရိပ် ၁၁၂ ဂိ​ဗောင် ၉၅	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NEH 7:26 အောက်​ဖော်​ပြ​ပါ​မြို့​တို့​တွင်​နေ​ထိုင်​ခဲ့​သူ​ဘိုး​ဘေး​များ​မှ ဆင်း​သက်​ပေါက်​ဖွား​လာ​သော​သူ​များ​သည်​လည်း​ပြန်​လာ​ကြ​လေ​သည်။ ဗက်​လင်​မြို့​နှင့်​နေ​တော​ဖ​မြို့ ၁၈၈ အာ​န​သုတ်​မြို့ ၁၂၈ ဗေ​သာ​ဇ​မာ​ဝက်​မြို့ ၄၂ ကိ​ရ​ယက်​ယာ​ရိမ်​မြို့၊ခေ​ဖိ​ရ​မြို့​နှင့် ဗေ​ရုတ်​မြို့ ၇၄၃ ရာ​မ​မြို့​နှင့်​ဂါ​ဗ​မြို့ ၆၂၁ မိတ်​မတ်​မြို့ ၁၂၂ ဗေ​သ​လ​နှင့်​အာ​ဣ​မြို့ ၁၂၃ အ​ခြား​နေ​ဗော​မြို့ ၅၂ အ​ခြား​ဧ​လံ​မြို့ ၁၂၅၄ ဟာ​ရိမ်​မြို့ ၃၂၀ ယေ​ရိ​ခေါ​မြို့ ၃၄၅ လော​ဒ​မြို့၊ ဟာ​ဒိဒ်​မြို့​နှင့်​သြ​နော​မြို့ ၇၂၁ သေ​နာ​မြို့ ၃၉၃၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၇	NEH 7:39 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​သူ​ယဇ်​ပု​ရော​ဟိတ်​သား​ချင်း​စု​များ​မှာ အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ယေ​ဒါ​ယ (ယော​ရှု​၏​သား​မြေး​များ) ၉၇၃ ဣ​မေ​ရ ၁၀၅၂ ပါ​ရှု​ရ ၁၂၄၇ ဟာ​ရိမ် ၁၀၁၇	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၈	NEH 7:43 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​သူ​လေ​ဝိ​သား​ချင်း​စု​များ​မှာ အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ယော​ရှု​နှင့်​ကာ​ဒ​မေ​လ(ဟော​ဒေ​ဝ​၏ သား​မြေး​များ) ၇၄ ဗိ​မာန်​တော်​ဂီ​တ​ပ​ညာ​သည်​များ (အာ​သပ်​၏​သား​မြေး​များ) ၁၄၈ ဗိ​မာန်​တော်​အ​စောင့်​တပ်​သား​များ (ရှလ္လုံ၊အာ​တာ၊တာ​လ​မုန်၊အက္ကုပ်၊ ဟ​တိ​တ​နှင့်​ရှော​ဗဲ​တို့​၏​သား​မြေး​များ) ၁၃၈	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NEH 7:66 ပြန်​လာ​ကြ​သော​ပြည်​နှင်​ဒဏ်​သင့်​သူ စု​စု​ပေါင်း​ဦး​ရေ ၄၂၃၆၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	NEH 7:67 ack သူ​တို့​၏​အ​စေ​ခံ​ယောကျာ်း မိန်း​မ ၇၃၃၇ အ​မျိုး​သား​အ​မျိုး​သ​မီး ဂီ​တ​ပ​ညာ​သည်​များ ၂၄၅ မြင်း ၇၃၆ ကောင် လား ၂၄၅ ကောင် ကု​လား​အုတ် ၄၃၅ ကောင် မြည်း ၆၇၂၀ ကောင်	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၇	NEH 7:70 ဗိ​မာန်​တော်​ပြန်​လည်​တည်​ဆောက်​မှု​ကုန်​ကျ​စ​ရိတ်​အ​တွက် ပေး​လှူ​ကြ​သူ​များ​မှာ​အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ဘု​ရင်​ခံ​ရွှေ​အောင်​စ ၂၇၀ ဗိ​မာန်​တော်​ဝတ်​ပြု​ကိုး​ကွယ်​ရာ​တွင် အ​သုံး​ပြု​သည့်​အင်​တုံ ၅၀ ယဇ်​ပု​ရော​ဟိတ်​ဝတ်​စုံ ၅၃၀ သား​ချင်း​စု​ခေါင်း​ဆောင်​များ ရွှေ ၃၃၇​ပေါင် ငွေ ၃၂၁၅​ပေါင် ကျန်​ပြည်​သူ​များ​ရွှေ ၃၃၇ ပေါင် ငွေ ၂၉၂၃ ပေါင် ယဇ်​ပု​ရော​ဟိတ်​ဝတ်​စုံ ၆၇	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၈	MAT 5:27 ``သူ့​အိမ်​ရာ​ကို​မ​ပြစ်​မှား​နှင့်​ဟူ​သော​ပ​ညတ် ကို​သင်​တို့​ကြား​သိ​ရ​လေ​ပြီ။-ထွ၊ ၂၀:၁၄။ တရား၊ ၅:၁၈။*	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၈	MAR 1:11 ကောင်း​ကင်​မှ​လည်း ``သင်​ကား​ငါ​နှစ်​သက်​မြတ်​နိုး ရာ ငါ​၏​ချစ်​သာ၈​ပေ​တည်း'' ဟု​အ​သံ​တော်​ထွက် ပေါ်​လာ​၏။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	၀	REV 12:6 အ​မျိုး​သ​မီး​သည်​တော​ကန္တာ​ရ​တွင်​ဘု​ရား သ​ခင်​ပြင်​ဆင်​ထား​တော်​မူ​သော​အ​ရပ်​သို့ ထွက်​ပြေး​လေ​၏။ ထို​အ​ရပ်​တွင်​သူ​သည်​ရက် ပေါင်း ၁၂၆၀ အ​ထိ​ပြု​စု​စောင့်​ရှောက်​ခြင်း​ကို ခံ​ရ​၏။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Source	count	29	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၄၆၅၀၀	004-NUM-001-020 ယာ​ကုပ်​၏​သား​ဦး​ဖြစ်​သူ​ရု​ဗင်​၏​အ​နွယ်​မှ​အ​စ​ပြု​၍ စစ်​မှု​ထမ်း​နိုင်​သူ​အ​သက်​နှစ်​ဆယ်​နှင့်​အ​ထက်​အ​ရွယ်​ရှိ​အ​မျိုး​သား​အား​လုံး​တို့​ကို သား​ချင်း​စု​နှင့်​မိ​သား​စု​အ​လိုက်​စာ​ရင်း​ကောက်​ယူ​လေ​၏။ စု​စု​ပေါင်း​လူ​ဦး​ရေ​စာ​ရင်း​မှာ​အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ အနွယ် ဦးရေ ရု​ဗင် ၄၆၅၀၀ ရှိ​မောင် ၅၉၃၀၀ ဂဒ် ၄၅၆၅၀ ယု​ဒ ၇၄၆၀၀ ဣသ​ခါ ၅၄၄၀၀ ဇာ​ဗု​လုန် ၅၇၄၀၀ ဧ​ဖ​ရိမ် ၄၀၅၀၀ မ​နာ​ရှေ ၃၂၂၀၀ ဗင်္ယာ​မိန် ၃၅၄၀၀ ဒန် ၆၂၇၀၀ အာ​ရှာ ၄၁၅၀၀ န​ဿ​လိ ၅၃၄၀၀ စု​စု​ပေါင်း ၆၀၃၅၅၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၇၄၆၀၀	004-NUM-002-003 အ​ရှေ့​ဘက်​မျက်​နှာ​တွင် ယု​ဒ​တပ်​နှင့်​ဆိုင်​သော​အ​လံ​အ​နီး​တွင် အောက်​ဖော်​ပြ​ပါ​အ​တိုင်း​အ​စု​လိုက်​မိ​မိ​တို့​၏​ခေါင်း​ဆောင်​များ​နှင့်​စ​ခန်း​ချ​ရ​မည်။ အ​နွယ် ခေါင်း​ဆောင် ဦး​ရေ ယု​ဒ အ​မိ​န​ဒပ်​၏​သား​နာ​ရှုန် ၇၄၆၀၀ ဣ​သ​ခါ ဇု​အာ​၏​သား​နာ​သ​နေ​လ ၅၄၄၀၀ ဇာ​ဗု​လုန် ဟေ​လုန်​၏​သား​ဧ​လျာ​ဘ ၅၇၄၀၀ စု​စု​ပေါင်း ၁၈၆၄၀၀ ယု​ဒ​တပ်​သည်​ရှေ့​ဆုံး​မှ​ချီ​တက်​ရ​မည်။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၄၆၅၀၀	004-NUM-002-010 တောင်​ဘက်​မျက်​နှာ​တွင်​ရု​ဗင်​တပ်​နှင့်​ဆိုင်​သော​အ​လံ​အ​နီး​တွင် အောက်​ဖော်​ပြ​ပါ​အ​တိုင်း​အ​စု​လိုက်​မိ​မိ​တို့​၏​ခေါင်း​ဆောင်​များ​နှင့်​စ​ခန်း​ချ​ရ​မည်။ အ​နွယ် ခေါင်း​ဆောင် ဦး​ရေ ရု​ဗင် ရှေ​ဒု​ရ​၏​သား​ဧ​လိ​ဇု​ရ ၄၆၅၀၀ ရှိ​မောင် ဇု​ရိ​ရှဒ္ဒဲ​၏​သား​ရှေ​လု​မျေလ ၅၉၃၀၀ ဂဒ် ဒွေ​လ​၏​သား​ဧ​လျာ​သပ် ၄၅၆၅၀ စု​စု​ပေါင်း ၁၅၁၄၅၀ ရု​ဗင်​တပ်​သည်​ဒု​တိ​ယ​နေ​ရာ​မှ​လိုက်​၍​ချီ​တက်​ရ​မည်။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၄၀၅၀၀	004-NUM-002-018 အ​နောက်​ဘက်​မျက်​နှာ​တွင်​ဧ​ဖ​ရိမ်​တပ်​နှင့်​ဆိုင်​သော​အ​လံ​အ​နီး​တွင် အောက်​ဖော်​ပြ​ပါ​အ​တိုင်း​အစု​လိုက်​မိ​မိ​တို့​၏​ခေါင်း​ဆောင်​များ​နှင့်​စ​ခန်း​ချ​ရ​မည်။ အ​နွယ် ခေါင်း​ဆောင် ဦး​ရေ ဧ​ဖ​ရိမ် အ​မိ​ဟုဒ်​၏​သား​ဧ​လိ​ရှ​မာ ၄၀၅၀၀ မ​နာ​ရှေ ပေ​ဒါ​ဇု​ရ​၏​သား​ဂါ​မ​လျေ​လ ၃၂၂၀၀ ဗင်္ယာ​မိန် ဂိ​ဒေါ​နိ​၏​သား​အ​ဘိ​ဒန် ၃၅၄၀၀ စု​စု​ပေါင်း ၁၀၈၁၀၀ ဧ​ဖ​ရိမ်​တပ်​သည်​တ​တိ​ယ​နေ​ရာ​မှ​လိုက်​၍​ချီ​တက်​ရ​မည်။-	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၆၂၇၀၀	004-NUM-002-025 မြောက်​ဘက်​မျက်​နှာ​တွင်​ဒန်​၏​တပ်​နှင့်​ဆိုင်​သော​အ​လံ​အ​နီး​တွင် အောက်​ဖော်​ပြ​ပါ​အ​တိုင်း​အ​စု​လိုက်​မိ​မိ​တို့​၏​ခေါင်း​ဆောင်​များ​နှင့်​စ​ခန်း​ချ​ရ​မည်။ အ​နွယ် ခေါင်း​ဆောင် ဦး​ရေ ဒန် အ​မိ​ရှဒ္ဒဲ​၏​သား​အ​ဟေ​ဇာ ၆၂၇၀၀ အာ​ရှာ သြ​က​ရန်​၏​သား​ပါ​ဂျေ​လ ၄၁၅၀၀ န​ဿ​လိ ဧ​နန်​၏​သား​အ​ဟိ​ရ ၅၃၄၀၀ စု​စု​ပေါင်း ၁၅၇၆၀၀ ဒန်​၏​တပ်​သည်​နောက်​ဆုံး​နေ​ရာ​မှ​လိုက်​၍​ချီ​တက်​ရ​မည်။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၂၇၅၀	004-NUM-004-034 ထာ​ဝ​ရ​ဘု​ရား​မိန့်​တော်​မူ​သည့်​အ​တိုင်း မော​ရှေ၊ အာ​ရုန်​နှင့်​ဣ​သ​ရေ​လ​အ​မျိုး​သား ခေါင်း​ဆောင်​တို့​သည်​လေ​ဝိ​သား​ချင်း​စု​သုံး စု​ဖြစ်​သော​ကော​ဟတ်​သား​ချင်း​စု၊ ဂေ​ရ​ရှုန် သား​ချင်း​စု​နှင့်​မေ​ရာ​ရိ​သား​ချင်း​စု​တို့ တွင်​အ​သက်​သုံး​ဆယ်​နှင့်​ငါး​ဆယ်​အ​တွင်း ရှိ ထာ​ဝ​ရ​ဘု​ရား​စံ​တော်​မူ​ရာ​တဲ​တော် တွင်​အ​မှု​ထမ်း​ဆောင်​နိုင်​မည့်​ယောကျာ်း​တို့ ကို​ဘိုး​ဘေး​ဆွေ​မျိုး​များ​ဘက်​မှ မိ​သား​စု အ​လိုက်​ကောက်​ယူ​ရ​ရှိ​သော​လူ​ဦး​ရေ စာ​ရင်း​မှာ​အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ သား​ချင်း​စု လူ​ဦး​ရေ ကော​ဟတ် ၂၇၅၀ ဂေ​ရ​ရှုန် ၂၆၃၀ မေ​ရာ​ရိ ၃၂၀၀ စု​စု​ပေါင်း ၈၅၈၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	1	008-RUT-004-010 ထို့​အ​ပြင်​မ​ဟာ​လုန်​၏​မု​ဆိုး​မ၊ မော​ဘ အ​မျိုး​သ​မီး​ရု​သ​သည် ငါ​၏​gen 1gဇနီး​ဖြစ် လာ​လေ​ပြီ။ ဤ​နည်း​အား​ဖြင့်​ထို​ပစ္စည်း​ဥစ္စာ များ​သည် သေ​လွန်​သူ​၏​အိမ်​ထောင်​စု​လက် ဝယ်​တည်​ရှိ​နေ​ပါ​လိမ့်​မည်။ သေ​သူ​၏​ဆွေ စဉ်​မျိုး​ဆက်​သည်​လည်း သူ​၏​အ​မျိုး​သား များ​နှင့်​သူ​၏​နေ​ရင်း​မြို့​တွင်​မ​ပြတ်​ဘဲ ဆက်​လက်​ပွား​လျက်​နေ​ပါ​လိမ့်​မည်။ သင် တို့​သည်​ဤ​အ​မှု​တွင်​အ​သိ​သက်​သေ ဖြစ်​ကြ​၏'' ဟု​ဆို​၏။	ERROR
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၁	013-1CH-024-007 မိ​မိ​တို့​၏​တာ​ဝန်​ဝတ္တ​ရား​များ​ကို​ခွဲ​ခန့် သတ်​မှတ်​ပေး​ခြင်း​ခံ​ကြ​ရ​သော အိမ်​ထောင် အုပ်​စု​နှစ်​ဆယ့်​လေး​စု​တို့​မှာ၊ ၁။ ယော​ယာ​ရိပ်၊ ၂။ ယေ​ဒါ​ယ၊ ၃။ ဟာ​ရိမ်၊ ၄။ စော​ရိမ်၊ ၅။ မာ​လ​ခိ​ယ၊ ၆။ မိ​ယ​မိန်၊ ၇။ ဟက္ကုတ်၊ ၈။ အ​ဘိ​ယ၊ ၉။ ယေ​ရွှာ၊ ၁၀။ ရှေ​က​နိ၊ ၁၁။ ဧ​လျာ​ရှိပ်၊ ၁၂။ ယာ​ကိမ်၊ ၁၃။ ဟုပ္ပ၊ ၁၄။ ယေ​ရှေ​ဗပ်၊ ၁၅။ ဗိ​လ​ဂ၊ ၁၆။ ဣ​မ္မေရ၊ ၁၇။ ဟေ​ဇိ​ရ၊ ၁၈။ အပ်​ဇဇ်၊ ၁၉။ ပေ​သ​ဟိ၊ ၂၀။ ယေ​ဇ​ကျေ​လ၊ ၂၁။ ယာ​ခိန်၊ ၂၂။ ဂါ​မု​လ၊ ၂၃။ ဒေ​လာ​ယ​နှင့် ၂၄။ မာ​ဇိ တို့​ဖြစ်​သ​တည်း။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၁	013-1CH-025-009 ဤ​သူ​နှစ်​ရာ​ရှစ်​ဆယ့်​ရှစ်​ယောက်​တို့​ကို​တစ်​အုပ်​စု လျှင် တစ်​ဆယ့်​နှစ်​ယောက်​ပါ​ဝင်​သော​အုပ်​စု​နှစ်​ဆယ့် လေး​စု​ခွဲ​ထား​၏။ တစ်​အုပ်​စု​လျှင်​ခေါင်း​ဆောင်​တစ် ယောက်​စီ​ရှိ​၏။ တာ​ဝန်​အ​ရ​အောက်​ပါ​အ​တိုင်း​ခွဲ ထား​၏။ အာ​သပ်​၏​အိမ်​ထောင်​စု​မှ၊ ၁။ ယော​သပ်၊ ၂။ ဂေ​ဒ​လိ၊ ၃။ ဇက္ကု​ရ၊ ၄။ ဣ​ဇ​ရိ၊ ၅။ နေ​သ​နိ၊ ၆။ ဗုက္ကိ၊ ၇။ ယေ​ရှ​ရေ​လ၊ ၈။ ယေ​ရှာ​ယ၊ ၉။ မတ္တ​နိ၊ ၁၀။ ရှိ​မိ၊ ၁၁။ အာ​ရေ​လ၊ ၁၂။ ဟာ​ရှ​ဘိ၊ ၁၃။ ရှေ​ဗွေ​လ၊ ၁၄။ မတ္တိ​သိ၊ ၁၅။ ယေ​ရ​မုတ်၊ ၁၆။ ဟာ​န​နိ၊ ၁၇။ ယော​ရှ​ဗေ​က​ရှ၊ ၁၈။ ဟာ​နန်၊ ၁၉။ မ​လ္လော​သိ၊ ၂၀။ ဧ​လျာ​သာ၊ ၂၁။ ဟော​သိ​ရ၊ ၂၂။ ဂိဒ္ဒါ​လ​တိ၊ ၂၃။ မ​ဟာ​ဇ​ယုတ်​နှင့် ၂၄။ ရော​မန္တေ​ဇာ၊ ဟူ​၍​ဖြစ်​သ​တည်း။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၃၀	015-EZR-001-009 အောက်​ပါ​အ​တိုင်း​စာ​ရင်း​ပြု​လုပ်​ပေး​အပ်​လေ​သည်။ ပူ​ဇော်​သ​ကာ​များ​ထည့်​ရန်​ရွှေ​ဖ​လား ၃၀ ပူ​ဇော်​သ​ကာ​များ​ထည့်​ရန်​ငွေ​ဖ​လား ၁၀၀၀ အ​ခြား​ဖ​လား ၂၉ ရွှေ​ဖ​လား​အ​ငယ် ၃၀ ငွေ​ဖ​လား​အ​ငယ် ၄၁၀ အ​ခြား​အ​သုံး​အ​ဆောင်​များ ၁၀၀၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၂၁၇၂	015-EZR-002-003 ပါ​ရုတ်​သား​ချင်း​မှ ၂၁၇၂ ရှေ​ဖ​တိ​သား​ချင်း​စု​မှ ၃၇၂ အာ​ရာ​သား​ချင်း​စု​မှ ၇၇၅ ပါ​ဟတ်​မော​ဘ​သား​ချင်း​စု (ယော​ရှု​နှင့်​ယွာ​ဘတို့​၏​မြေး​များ) ၂၈၁၂ ဧ​လံ​သား​ချင်း​စု​မှ ၁၂၅၄ ဇတ္တု​သား​ချင်း​စု​မှ ၉၄၅ ဇက္ခဲ​သား​ချင်း​စု​မှ ၇၆၀ ဗာ​နိ​သား​ချင်း​စု​မှ ၆၄၂ ဗေ​ဗဲ​သား​ချင်း​စု​မှ ၆၂၃ အာ​ဇ​ဂဒ်​သား​ချင်း​စု​မှ ၁၂၂၂ အ​ဒေါ​နိ​ကံ​သား​ချင်း​စု​မှ ၆၆၆ ဗိ​ဂ​ဝဲ​သား​ချင်း​စု​မှ ၂၀၅၆ အာ​ဒိန်​သား​ချင်း​စု​မှ ၄၅၄ အာ​တာ​ဟု​လည်း​ကောင်း​နာ​မည်​တွင်​သည့် ဟ​ဇ​ကိ​သား​ချင်း​စု​မှ ၉၈ ဗေ​ဇဲ​သား​ချင်း​စု​မှ ၃၂၃ ယော​ရ​သား​ချင်း​စု​မှ ၁၁၂ ဟာ​ရှုံ​သား​ချင်း​စု​မှ ၂၂၃ ဂိဗ္ဗာ​သား​ချင်း​စု​မှ ၉၅	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၁၂၃	015-EZR-002-021 အောက်​ပါ​ဖော်​ပြ​ပါ​မြို့​တွင်​နေ​ထိုင်​ခဲ့​သူ​ဘိုး​ဘေး​တို့​မှ ဆင်း​သက်​ပေါက်​ပွား​လာ​သူ​များ​သည်​လည်း ယေ​ရု​ရှ​လင်​မြို့​သို့​ပြန်​လာ​ကြ​လေ​သည်။ ဗက်​လင်​မြို့​မှ ၁၂၃ နေ​တော​ဖ​မြို့​မှ ၅၆ အာ​န​သုတ်​မြို့​မှ ၁၂၈ အာ​ဇ​မာ​ဝက်​မြို့​မှ ၄၂ ကိ​ရ​ယ​သာ​ရိမ်​မြို့​ခေ​ဖိ​ရ​မြို့​နှင့် ဗေ​ရုတ်​မြို့​တို့​မှ ၇၄၃ ရာ​မ​မြို့​နှင့်​ဂါ​ဘ​မြို့​မှ ၆၂၁ မိတ်​မတ်​မြို့​မှ ၁၂၂ ဗေ​သ​လ​မြို့​နှင့်​အာဣ​မြို့​မှ ၂၂၃ နေ​ဗော​မြို့​မှ ၅၂ မာ​ဂ​ဗိတ်​မြို့​မှ ၁၅၆ အ​ခြား​ဧ​လံ​မြို့​မှ ၁၂၅၄ ဟာ​ရိမ်​မြို့​မှ ၃၂၀ လော​ဒ​မြို့​ဟာ​ဒိဒ်​မြို့​နှင့် သြ​နော​မြို့​တို့​မှ ၇၂၅ ယေ​ရိ​ခေါ​မြို့​မှ ၃၄၅ သေ​နာ​မြို့​မှ ၃၆၃၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၉၇၃	015-EZR-002-036 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​ကြ​သော ယဇ်​ပု​ရော​ဟိတ်​သား​ချင်း​စု​စာ​ရင်း​မှာ​အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ယေ​ဒါ​ယ​သား​ချင်း​စု (ယော​ရှု​၏ သား​မြေး​များ) ၉၇၃ ဣ​မေ​ရ​သား​ချင်း​စု​မှ ၁၀၅၂ ပါ​ရှု​ရ​သား​ချင်း​စု​မှ ၁၂၄၇ ဟာ​ရိမ်​သား​ချင်း​စု​မှ ၁၀၁၇	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၇၄	015-EZR-002-040 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​ကြ​သော​လေ​ဝိ​အ​နွယ်​ဝင်​သား​ချင်း​စု​များ​မှာ အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ယော​ရှု​နှင့်​ကာ​ဒ​မေ​လ​သား​ချင်း​စု​မှ (ဟော​ဒ​ဝိ​၏​သား​မြေး​များ) ၇၄	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၁၂၈	015-EZR-002-041 ဗိ​မာန်​တော်​ဂီ​တ​ပ​ညာ​သည် (အာ​သပ်​၏​သား​မြေး​များ) ၁၂၈	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၁၃၉	015-EZR-002-042 ဗိ​မာန်​တော်​အ​စောင့်​တပ်​သား (ရှလ္လုံ၊ အာ​တာ၊ တာ​လ​မုန်၊ အက္ကုပ်၊ ဟ​တိ​တ​နှင့်​ရှော​ဗဲ​တို့​၏​သား​မြေး​များ) ၁၃၉	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၄၂၃၆၀	015-EZR-002-064 ပြန်​လာ​ကြ​သော​ပြည်​နှင်​ဒဏ်​သင့်​သူ​စု​စု​ပေါင်း​ဦး​ရေ​မှာ ၄၂၃၆၀ သူ​တို့​၏​အ​စေ​ခံ​ယောကျာ်း မိန်း​မ ၇၃၃၇ အ​မျိုး​သား​အ​မျိုး​သ​မီး ဂီ​တ​ပ​ညာ​သည်​များ ၂၀၀ မြင်း ၇၃၆ ကောင် မြည်း ၂၄၅ ကောင် ကု​လား​အုတ် ၄၃၅ ကောင် လား ၆၇၂၀ ကောင်	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၁၅၀	015-EZR-008-002 ဖိ​န​ဟတ်​သား​ချင်း​စု​မှ​ဂေ​ရ​ရှုံ​ဣ​သ​မာ သား​ချင်း​စု​မှ​ဒံ​ယေ​လ ဒါ​ဝိဒ်​သား​ချင်း​စု​မှ​ရှေ​ခ​နိတ်​သား​ဟတ္တုတ် ဖာ​ရုတ်​၏​သား​ချင်း​စု​မှ​ဇာ​ခ​ရိ​နှင့်​သူ​၏ အ​နွယ်​ဝင်​ယောကျာ်း ၁၅၀ (သူ​တို့​အိမ်​ထောင်​စု မှတ်​တမ်း​များ​ရှိ​သည်။) ပါ​ဟတ်​မော​ဘ​သား​ချင်း​စု​မှ​ဇေ​ရာ​ယ ၏​သား ဧ​လျော​နဲ​နှင့်​ယောကျာ်း ၂၀၀ ဇတ္တု​သား​ချင်း​စု​မှ​ယ​ဟာ​ဇေ​လ​၏​သား ရှေ​ခ​နိ​နှင့်​ယောကျာ်း ၃၀၀ အာ​ဒိန်​သား​ချင်း​စု​မှ​ယော​န​သန်​၏​သား ဧ​ဗက်​နှင့်​ယောကျာ်း ၅၀ ဧ​လံ​သား​ချင်း​စု​မှ​အာ​သ​လိ​၏​သား ယေ​ရှာ​ယ​နှင့်​ယောကျာ်း ၇၀ ရှေ​ဖ​တိ​သား​ချင်း​စု​မှ​မိက္ခေ​လ​၏​သား ဇေ​ဗ​ဒိ​နှင့်​ယောကျာ်း ၈၀ ယွာ​ဘ​သား​ချင်း​စု​မှ​ယေ​ဟေ​လ​၏​သား သြ​ဗ​ဒိ​နှင့်​ယောကျာ်း ၂၁၈ ဗာ​နိ​သား​ချင်း​စု​မှ​ယော​သိ​ဖိ​၏​သား ရှေ​လော​မိတ်​နှင့်​ယောကျာ်း ၁၆၀ ဗေ​ဗဲ​သား​ချင်း​စု​မှ​ဗေ​ဗဲ​၏​သား ဇာ​ခ​ရိ​နှင့်​ယောကျာ်း ၂၈ အာ​ဇ​ဂဒ်​သား​ချင်း​စု​မှ​ဟက္က​တန်​၏​သား ယော​ဟ​နန်​နှင့်​ယောကျာ်း ၁၁၀ အ​ဒေါ​နိ​ကံ​သား​ချင်း​စု​မှ​ဧ​လိ​ဖ​လက်၊ ယေ​ယေ​လ၊ ရှေ​မာ​ယ​နှင့်​ယောကျာ်း ၆၀ (သူ​တို့​သည်​နောက်​မှ​လိုက်​လာ​ကြ​သူ​များ ဖြစ်​၏။) ဗိ​ဂ​ဝဲ​သား​ချင်း​စု​မှ​ဥ​သဲ၊ဇဗ္ဗုဒ်​နှင့်​ယောကျာ်း ၇၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၂၅	015-EZR-008-026 ငါ​ပေး​အပ်​သည့်​ပစ္စည်း​များ​မှာ​အောက်​ပါ အ​တိုင်း​ဖြစ်​သည်။ ငွေ ၂၅ တန်၊ ငွေ​အ​သုံး​အ​ဆောင် ၁၀၀ ငွေ​သား​ပေါင် ၁၅၀ ရွှေ​ပေါင် ၇၅၀၀ ရွှေ​ဖ​လား၂၀ ခွက် ရွှေ​ချိန် ၂၇၀ အောင်​စ။ ရွှေ​ဖ​လား​နှင့်​တန်​ဖိုး​ညီ​မျှ​သည့်​ကြေး​ဝါ​စစ် ဖ​လား ၂ လုံး	ERROR
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၂၁၇၂	016-NEH-007-008 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​ကြ​သူ​လူ​ဦး​ရေ​စာ​ရင်း​မှာ​သား​ချင်း​စု​အ​လိုက်​အောက်​ပါ​အ​တိုင်း​ဖြစ်​၏။ သား​ချင်း​စု ဦး​ရေ ပါ​ရုတ် ၂၁၇၂ ရှေ​ဖ​တိ ၃၇၂ အာ​ရာ ၆၅၂ ပါ​ဟတ်​မော​ဘ (ယော​ရှု​နှင့်​ယွာ​ဘ​တို့​၏ သား​မြေး​များ) ၂၈၁၈ ဧ​လံ ၁၂၅၄ ဇတ္တု ၈၄၅ ဇက္ခဲ ၇၆၀ ဗိနွိ ၆၄၈ ဗေ​ဗဲ ၆၂၈ အာ​ဇ​ဂဒ် ၂၃၂၂ အ​ဒေါ​နိ​ကံ ၆၆၇ ဗိ​ဂဝဲ ၂၀၆၇ အာ​ဒိန် ၆၅၅ (ဟေ​ဇ​ကိ​ဟု​လည်း​နာ​မည်​တွင်​သော) အာ​တာ​ဦး​ရေ ၉၈ ဟာ​ရှုံ ၃၂၈ ဗေ​ဇဲ ၃၂၄ ဟာ​ရိပ် ၁၁၂ ဂိ​ဗောင် ၉၅	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၁၈၈	016-NEH-007-026 အောက်​ဖော်​ပြ​ပါ​မြို့​တို့​တွင်​နေ​ထိုင်​ခဲ့​သူ​ဘိုး​ဘေး​များ​မှ ဆင်း​သက်​ပေါက်​ဖွား​လာ​သော​သူ​များ​သည်​လည်း​ပြန်​လာ​ကြ​လေ​သည်။ ဗက်​လင်​မြို့​နှင့်​နေ​တော​ဖ​မြို့ ၁၈၈ အာ​န​သုတ်​မြို့ ၁၂၈ ဗေ​သာ​ဇ​မာ​ဝက်​မြို့ ၄၂ ကိ​ရ​ယက်​ယာ​ရိမ်​မြို့၊ခေ​ဖိ​ရ​မြို့​နှင့် ဗေ​ရုတ်​မြို့ ၇၄၃ ရာ​မ​မြို့​နှင့်​ဂါ​ဗ​မြို့ ၆၂၁ မိတ်​မတ်​မြို့ ၁၂၂ ဗေ​သ​လ​နှင့်​အာ​ဣ​မြို့ ၁၂၃ အ​ခြား​နေ​ဗော​မြို့ ၅၂ အ​ခြား​ဧ​လံ​မြို့ ၁၂၅၄ ဟာ​ရိမ်​မြို့ ၃၂၀ ယေ​ရိ​ခေါ​မြို့ ၃၄၅ လော​ဒ​မြို့၊ ဟာ​ဒိဒ်​မြို့​နှင့်​သြ​နော​မြို့ ၇၂၁ သေ​နာ​မြို့ ၃၉၃၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၉၇၃	016-NEH-007-039 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​သူ​ယဇ်​ပု​ရော​ဟိတ်​သား​ချင်း​စု​များ​မှာ အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ယေ​ဒါ​ယ (ယော​ရှု​၏​သား​မြေး​များ) ၉၇၃ ဣ​မေ​ရ ၁၀၅၂ ပါ​ရှု​ရ ၁၂၄၇ ဟာ​ရိမ် ၁၀၁၇	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၇၄	016-NEH-007-043 ပြည်​နှင်​ဒဏ်​သင့်​ရာ​မှ​ပြန်​လာ​သူ​လေ​ဝိ​သား​ချင်း​စု​များ​မှာ အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ယော​ရှု​နှင့်​ကာ​ဒ​မေ​လ(ဟော​ဒေ​ဝ​၏ သား​မြေး​များ) ၇၄ ဗိ​မာန်​တော်​ဂီ​တ​ပ​ညာ​သည်​များ (အာ​သပ်​၏​သား​မြေး​များ) ၁၄၈ ဗိ​မာန်​တော်​အ​စောင့်​တပ်​သား​များ (ရှလ္လုံ၊အာ​တာ၊တာ​လ​မုန်၊အက္ကုပ်၊ ဟ​တိ​တ​နှင့်​ရှော​ဗဲ​တို့​၏​သား​မြေး​များ) ၁၃၈	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၄၂၃၆၀	016-NEH-007-066 ပြန်​လာ​ကြ​သော​ပြည်​နှင်​ဒဏ်​သင့်​သူ စု​စု​ပေါင်း​ဦး​ရေ ၄၂၃၆၀	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၇၃၃၇	016-NEH-007-067 ack သူ​တို့​၏​အ​စေ​ခံ​ယောကျာ်း မိန်း​မ ၇၃၃၇ အ​မျိုး​သား​အ​မျိုး​သ​မီး ဂီ​တ​ပ​ညာ​သည်​များ ၂၄၅ မြင်း ၇၃၆ ကောင် လား ၂၄၅ ကောင် ကု​လား​အုတ် ၄၃၅ ကောင် မြည်း ၆၇၂၀ ကောင်	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၂၇၀	016-NEH-007-070 ဗိ​မာန်​တော်​ပြန်​လည်​တည်​ဆောက်​မှု​ကုန်​ကျ​စ​ရိတ်​အ​တွက် ပေး​လှူ​ကြ​သူ​များ​မှာ​အောက်​ပါ​အ​တိုင်း​ဖြစ်​သည်။ ဘု​ရင်​ခံ​ရွှေ​အောင်​စ ၂၇၀ ဗိ​မာန်​တော်​ဝတ်​ပြု​ကိုး​ကွယ်​ရာ​တွင် အ​သုံး​ပြု​သည့်​အင်​တုံ ၅၀ ယဇ်​ပု​ရော​ဟိတ်​ဝတ်​စုံ ၅၃၀ သား​ချင်း​စု​ခေါင်း​ဆောင်​များ ရွှေ ၃၃၇​ပေါင် ငွေ ၃၂၁၅​ပေါင် ကျန်​ပြည်​သူ​များ​ရွှေ ၃၃၇ ပေါင် ငွေ ၂၉၂၃ ပေါင် ယဇ်​ပု​ရော​ဟိတ်​ဝတ်​စုံ ၆၇	ERROR
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၂၀	040-MAT-005-027 ``သူ့​အိမ်​ရာ​ကို​မ​ပြစ်​မှား​နှင့်​ဟူ​သော​ပ​ညတ် ကို​သင်​တို့​ကြား​သိ​ရ​လေ​ပြီ။-ထွ၊ ၂၀:၁၄။ တရား၊ ၅:၁၈။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၈	041-MAR-001-011 ကောင်း​ကင်​မှ​လည်း ``သင်​ကား​ငါ​နှစ်​သက်​မြတ်​နိုး ရာ ငါ​၏​ချစ်​သာ၈​ပေ​တည်း'' ဟု​အ​သံ​တော်​ထွက် ပေါ်​လာ​၏။	ERROR
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) [တနင်္ဂနွေနေ့နံနက်စောစောအချိန်၌ကိုယ်တော် သည်သြေခင်းမှထမြောက်တော်မူပြီးနောက် ဦးစွာ မာဂဒလရွာသူမာရိအားကိုယ်ထင်ပြတော်မူ၏။ မာဂဒလရွာသူမာရိထံမှနတ်မိစ္ဆာခုနစ်ဦးကို ကိုယ်တော်နှင်ထုတ်ပေးခဲ့၏။-	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	၁၂၆၀	066-REV-012-006 အ​မျိုး​သ​မီး​သည်​တော​ကန္တာ​ရ​တွင်​ဘု​ရား သ​ခင်​ပြင်​ဆင်​ထား​တော်​မူ​သော​အ​ရပ်​သို့ ထွက်​ပြေး​လေ​၏။ ထို​အ​ရပ်​တွင်​သူ​သည်​ရက် ပေါင်း ၁၂၆၀ အ​ထိ​ပြု​စု​စောင့်​ရှောက်​ခြင်း​ကို ခံ​ရ​၏။	WARN
+Myanmar---Burmese-Common-Bible	NUMERALS	Aionian	count	30	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME

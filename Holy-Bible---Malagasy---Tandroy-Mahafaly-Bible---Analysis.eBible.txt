@@ -1,0 +1,563 @@
+# File Name: Holy-Bible---Holy-Bible---Malagasy---Tandroy-Mahafaly-Bible---Analysis.txt
+# File Size: 59712       
+# File Date: 12/13/2025 05:45:58
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2025
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Saontsin’ Añahare, Madagascar
+# Bible Name English: Malagasy Tandroy-Mahafaly Bible
+# Bible Language: Tandroy
+# Bible Language English: Malagasy, Tandroy-Mahafaly
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2025
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Steve Lellelid
+# Bible Source Version: 12/11/2025
+# Bible Source Link: https://ebible.org/details.php?id=tdx
+# Bible Source Year: 2023
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Malagasy---Tandroy-Mahafaly-Bible	ENCODING	Source	Holy-Bible---Malagasy---Tandroy-Mahafaly-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	ENCODING	Aionian	Holy-Bible---Malagasy---Tandroy-Mahafaly-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Malagasy---Tandroy-Mahafaly-Bible	BYTES	Source	bytes / chars	4406923 / 4066873 (multi-byte)	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	BYTES	Aionian	bytes / chars	4619819 / 4280134 (multi-byte)	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	BYTES	SourceClean	bytes / chars	4406086 / 4066036 (multi-byte)	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	BYTES	AionianClean	bytes / chars	4616261 / 4276579 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Malagasy---Tandroy-Mahafaly-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Malagasy---Tandroy-Mahafaly-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Summary	(-)Orginal	77	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Summary	(+)Aionian	56	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (G)	3316	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (N)	9406	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : ( )	607799	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (1)	30444	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (:)	37820	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (a)	516433	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (m)	121958	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (-)	39655	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (p)	34719	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (i)	226758	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (o)	345438	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (t)	165484	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (r)	121415	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (e)	331278	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (,)	45063	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (n)	191184	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (b)	43812	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (A)	24707	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (h)	138596	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (l)	76164	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (k)	80242	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (y)	107757	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (\n)	31081	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (2)	21699	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (s)	69872	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Latin-1 Supplement: ( )	376	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (.)	26199	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (3)	12273	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (H)	8827	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (d)	43075	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (4)	9133	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (5)	7080	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (I)	25340	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (6)	6425	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (L)	7128	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (7)	5925	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (8)	5767	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (9)	5636	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (0)	5367	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (R)	5950	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (g)	11692	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (V)	1640	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (P)	5423	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (D)	3499	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (S)	9786	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (O)	8161	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (()	213	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : ())	215	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (U)	3505	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (C)	4319	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (א)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ב)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ג)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ד)	7	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ה)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ו)	9	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ז)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ח)	7	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ט)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (י)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (כ)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ל)	9	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (מ)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (נ)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ס)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ע)	7	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (צ)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ק)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ר)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ש)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ת)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (פ)	9	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ּ)	2	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ץ)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Hebrew : (ך)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (c)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source(-)	Basic Latin : (u)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130562	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42434	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124308	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3328	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	9405	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	516632	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	121965	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	39656	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	34720	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	227005	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	345587	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	165491	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	121426	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	546184	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	331377	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	45070	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	191386	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	43822	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	24714	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	138725	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	76233	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	80243	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	107771	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31076	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31100	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	69986	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	26194	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17189	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	8838	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	43092	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	6741	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20013	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10282	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	25341	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10724	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	7133	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7448	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7862	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9300	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	5947	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	11905	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1637	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	5428	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	3502	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	9850	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	8160	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (()	483	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : ())	485	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	3507	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	4316	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	3	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	4	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (G)	3316	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (E)	13204	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (N)	9406	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : ( )	607799	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (1)	30444	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (:)	37820	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (T)	8758	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (a)	516433	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (m)	121958	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (-)	39655	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (p)	34719	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (i)	226758	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (f)	44042	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (o)	345438	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (t)	165484	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (r)	121415	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (ñ)	68247	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	General Punctuation : (’)	117732	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (e)	331278	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (,)	45063	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (n)	191184	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (b)	43812	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (A)	24707	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (h)	138596	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (l)	76164	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (k)	80242	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (y)	107757	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (\n)	31081	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (2)	21699	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (z)	21213	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (s)	69872	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	General Punctuation : (‑)	6	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (ò)	3576	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: ( )	376	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (­)	5312	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (v)	48411	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (.)	26199	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (3)	12273	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (H)	8827	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (d)	43075	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (à)	18597	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (;)	11304	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (4)	9133	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (5)	7080	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (I)	25340	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	General Punctuation : (—)	439	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (6)	6425	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (L)	7128	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (7)	5925	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (ì)	1284	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (8)	5767	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (9)	5636	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (0)	5367	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (R)	5950	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (g)	11692	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (j)	16470	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (M)	10436	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (V)	1640	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (è)	4723	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (P)	5423	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (K)	5712	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (?)	3175	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (F)	3108	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (J)	5546	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (D)	3499	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (!)	1316	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (Z)	2525	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (S)	9786	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (O)	8161	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (B)	3294	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (()	213	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : ())	215	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (ý)	722	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	General Punctuation : (‘)	277	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (È)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (X)	1213	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	2	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (é)	24	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin Extended-A : (ń)	7	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (´)	2	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (U)	3505	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (À)	22	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (á)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (C)	4319	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (ô)	43	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : ([)	10	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (])	10	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (א)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ב)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ג)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ד)	7	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ה)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ו)	9	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ז)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ח)	7	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ט)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (י)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (כ)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ל)	9	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (מ)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (נ)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ס)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ע)	7	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (צ)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ק)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ר)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ש)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ת)	8	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (פ)	9	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (w)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (')	17	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ּ)	2	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	General Punctuation : (–)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	General Punctuation : (“)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	General Punctuation : (”)	4	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ץ)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Hebrew : (ך)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (c)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (õ)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (`)	1	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Latin-1 Supplement: (í)	3	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNICODE	Source	Basic Latin : (u)	1	NOTICE
+
+# VERSIFICATION
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	010-2SA-013-003	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	013-1CH-008-038	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	019-PSA-029-002	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	019-PSA-040-017	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	019-PSA-077-001	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	019-PSA-148-014	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	040-MAT-001-001	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	040-MAT-010-033	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	040-MAT-016-006	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	040-MAT-016-007	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	040-MAT-018-004	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-021	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	040-MAT-027-036	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	040-MAT-027-061	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	041-MAR-007-016	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	041-MAR-011-026	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	041-MAR-015-028	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	044-ACT-028-029	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	066-REV-010-007	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Aionian	missing	066-REV-016-015	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Summary	missing	25	WARN
+Malagasy---Tandroy-Mahafaly-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	()	213 / 215	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	[]	10 / 10	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	()	483 / 485	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	[]	10 / 10	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	EXO 9:31 (Ie amy zao, fa nianto iaby ty vare-leny naho ty vare-hordea, fa niregorego i hordeay vaho namòñe i vare-leniy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	EXO 9:32 Fe tsy nijoieñe ty vare-bolè naho ty bolè-lahi’e fa malaom-pitovoañe.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (Nimoneña’ o nte-Emeo izay te taolo: ondaty mijoalajoala naho mitozantozañe, mira haabo amo nte-Anàkeo;	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 Le nimoneñe e Seire ao o nte-Koreo taolo, fa niroahe’ o ana’ i Esaveo, rinotsa’e miaolo iareo vaho nitoboke an-tane’ iareo ao, manahake ty anoe’ Israele amy tane natolotse aze ho fanaña’ey; i natolo’ Iehovà iareoy).	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Toe natao t’ie tane’ o nte-Refaeo ka; fa nimoneñe ao o nte-Refaeo taolo, ie nitokave’ o nte-Amoneo ty hoe Zam’zome,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 naho o nte-Aveo, ie nimoneñe e Katsere pak’ Aza añe, le rinotsa’ o nte-Kaftore boake Kaftoreo, vaho nandimbe fiambesatse.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (Nañavelo hirik’e Birote-bene-iaakane pak’e Moserà o ana’Israeleo, le eo ty nihomaha’ i Aharone, vaho ao ty nandentehañe aze; nandimbe aze ho mpisoroñe t’i Elazare ana’e.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	DEU 10:7 Boak’ ao nañavelo mb’e Godgodà mb’eo iereo, le hirik’e Godgoda mb’e Iotbatà, tane fikararahan-torahañe.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	DEU 13:7 Aa naho mitangogo hanigìke azo ty rahalahi’o, ke ty anan-drene’o, he ty ana-dahi’o, ke ty anak’ ampela’o, he i valy fetrehe’oy, ke i atehena’o longo-sarotsey, manao ama’o ty hoe, Antao hitoron-drahare ila’e (ze mbe lia’e tsy niisa’o ndra o roae’oo,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	DEU 13:8 te mone ndrahare’ ondaty mañohok’ azoo, marine azo, ke lavitse azo, añ’olo’ ty tane toy pak’añ’ila’e añe,)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	DEU 29:15 (Amy te fohi’ areo i nitaveañantika e Mitsraimey; naho ty firangan-tika o rofoko nitsaha’ areoo,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	DEU 29:16 naho niisa’ areo ty hativa’e, naho o saren-drahare an-katae naho am-bato naho am-bolafoty vaho am-bolamenao.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 Le nañontanea’ o ana’ Israleo t’Iehovà (amy te tao i vatam-pañinan’Añaharey tañ’ andro izay;	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 vaho nijohañe aña­tre­fa’e t’i Pinekase ana’i Elazare ana’ i Aharone fahe-zay) ami’ty hoe: Mbe hionjo hifandraparapak’ amo ana’ i Beniamine rahalahikoo hao iraho? Le hoe t’Iehovà: Mionjona amy t’ie hatoloko am-pità’o te hamaray.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 Le kinanji’ i Akabe t’i Obadià mpamandroñe i anjombay (toe mpañeveñe am’Iehovà t’i Obadià;	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 fa teo te nañitoa’ Iizebele o mpitoki’ Iehovào, le rinambe’ i Obadià ty mpitoky zato naho naeta’e ki-limampolo an-dakato ao vaho finaha’e mofo naho rano.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	1CH 7:14 O ana’ i Menasèo: i Asriele nasama’ey, (fe nasama’ i Aramitese sakeza’e t’i Makire rae’ i Gilade.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	1CH 7:15 Nengae’ i Makire ty boak’ amy Kopime naho i Sopime; i Maakà ty tahina’ i rahavave’ey;) ty tahina’ i faharoey le Tselofekade; nanañ’ anak’ ampela t’i Tselofekade.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	1CH 8:6 O ana’ i Ehodeo: o talèn’ anjomban-droae’ o nte-Gebaoo, (o nasese an-drohy mb’e Manakateo:	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	1CH 8:7 i Naamane naho i Akià naho i Gerà ty nasese an-drohy;) vaho nisamake i Ozà naho i Ahikode.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	2CH 1:4 Fe nampionjone’ i Davide boake Kiriate-jearime i vatan’ Añaharey mb’amy toetse hinajari’ i Davide ho azey, ie fa nampitroare’e kivoho e Ierosalaime ao.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	EST 1:13 Le hoe i mpanjakay amo mahihitse mahafohiñe o sào; (toe Izay ty nisata’ i mpanjakay añatrefa’ o mpahay lily naho zakao;	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	EST 1:14 naho o narine azeo: t’i Karsenà, i Setare, i Admatà, i Tarsise, i Merese, i Marsenà vaho i Memokane, i mpifehe fito’ i Parase naho i Maday mpahaisake ty lahara’ i mpanjakay rey, ie mpiambesatse an-dohà’ i fifeheañey;)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (Toe tsy mikama hey o Fariseoo naho o Jiosy iabio naho tsy manasa an-dili’e am-pañambenañe o satan-droaeo,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 le tsy mikama iereo te boak’an-tsena naho tsy mañalio vatañe, vaho tsiefa o raha rinambe’ iereo hambenañe, manahake ty sasa-fitovy naho valàñe vaho gorogoro torisìke)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	JOH 1:42 Nindese’e mb’amy Iesoà mb’eo, le ie nivazoho Iesoà le nanoe’e ty hoe: Ihe ro Simona ana’ i Jaona. Hatao Kefasy irehe, toe: vato).	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(1/0)	EPH 3:3 ie nentoeñe le nampahafohineñe i raha mietakey (i sinokiko bòry teoy,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Source	(0/1)	EPH 3:4 ie vakie’ areo, ro mete maharendreke ty nioniko amy mietake amy Norizañeiy),	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (Ie amy zao, fa nianto iaby ty vare-leny naho ty vare-hordea, fa niregorego i hordeay vaho namòñe i vare-leniy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 Fe tsy nijoieñe ty vare-bolè naho ty bolè-lahi’e fa malaom-pitovoañe.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Nimoneña’ o nte-Emeo izay te taolo: ondaty mijoalajoala naho mitozantozañe, mira haabo amo nte-Anàkeo;	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Le nimoneñe e Seire ao o nte-Koreo taolo, fa niroahe’ o ana’ i Esaveo, rinotsa’e miaolo iareo vaho nitoboke an-tane’ iareo ao, manahake ty anoe’ Israele amy tane natolotse aze ho fanaña’ey; i natolo’ Iehovà iareoy).	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Toe natao t’ie tane’ o nte-Refaeo ka; fa nimoneñe ao o nte-Refaeo taolo, ie nitokave’ o nte-Amoneo ty hoe Zam’zome,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 naho o nte-Aveo, ie nimoneñe e Katsere pak’ Aza añe, le rinotsa’ o nte-Kaftore boake Kaftoreo, vaho nandimbe fiambesatse.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Nañavelo hirik’e Birote-bene-iaakane pak’e Moserà o ana’Israeleo, le eo ty nihomaha’ i Aharone, vaho ao ty nandentehañe aze; nandimbe aze ho mpisoroñe t’i Elazare ana’e.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 007 Boak’ ao nañavelo mb’e Godgodà mb’eo iereo, le hirik’e Godgoda mb’e Iotbatà, tane fikararahan-torahañe.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 013 006 Aa naho mitangogo hanigìke azo ty rahalahi’o, ke ty anan-drene’o, he ty ana-dahi’o, ke ty anak’ ampela’o, he i valy fetrehe’oy, ke i atehena’o longo-sarotsey, manao ama’o ty hoe, Antao hitoron-drahare ila’e (ze mbe lia’e tsy niisa’o ndra o roae’oo,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 013 007 te mone ndrahare’ ondaty mañohok’ azoo, marine azo, ke lavitse azo, añ’olo’ ty tane toy pak’añ’ila’e añe,)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (Amy te fohi’ areo i nitaveañantika e Mitsraimey; naho ty firangan-tika o rofoko nitsaha’ areoo,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 naho niisa’ areo ty hativa’e, naho o saren-drahare an-katae naho am-bato naho am-bolafoty vaho am-bolamenao.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Le nañontanea’ o ana’ Israleo t’Iehovà (amy te tao i vatam-pañinan’Añaharey tañ’ andro izay;	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 vaho nijohañe aña­tre­fa’e t’i Pinekase ana’i Elazare ana’ i Aharone fahe-zay) ami’ty hoe: Mbe hionjo hifandraparapak’ amo ana’ i Beniamine rahalahikoo hao iraho? Le hoe t’Iehovà: Mionjona amy t’ie hatoloko am-pità’o te hamaray.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Le kinanji’ i Akabe t’i Obadià mpamandroñe i anjombay (toe mpañeveñe am’Iehovà t’i Obadià;	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 fa teo te nañitoa’ Iizebele o mpitoki’ Iehovào, le rinambe’ i Obadià ty mpitoky zato naho naeta’e ki-limampolo an-dakato ao vaho finaha’e mofo naho rano.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 007 014 O ana’ i Menasèo: i Asriele nasama’ey, (fe nasama’ i Aramitese sakeza’e t’i Makire rae’ i Gilade.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 007 015 Nengae’ i Makire ty boak’ amy Kopime naho i Sopime; i Maakà ty tahina’ i rahavave’ey;) ty tahina’ i faharoey le Tselofekade; nanañ’ anak’ ampela t’i Tselofekade.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 008 006 O ana’ i Ehodeo: o talèn’ anjomban-droae’ o nte-Gebaoo, (o nasese an-drohy mb’e Manakateo:	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 008 007 i Naamane naho i Akià naho i Gerà ty nasese an-drohy;) vaho nisamake i Ozà naho i Ahikode.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 001 004 Fe nampionjone’ i Davide boake Kiriate-jearime i vatan’ Añaharey mb’amy toetse hinajari’ i Davide ho azey, ie fa nampitroare’e kivoho e Ierosalaime ao.)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Le hoe i mpanjakay amo mahihitse mahafohiñe o sào; (toe Izay ty nisata’ i mpanjakay añatrefa’ o mpahay lily naho zakao;	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 naho o narine azeo: t’i Karsenà, i Setare, i Admatà, i Tarsise, i Merese, i Marsenà vaho i Memokane, i mpifehe fito’ i Parase naho i Maday mpahaisake ty lahara’ i mpanjakay rey, ie mpiambesatse an-dohà’ i fifeheañey;)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Toe tsy mikama hey o Fariseoo naho o Jiosy iabio naho tsy manasa an-dili’e am-pañambenañe o satan-droaeo,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 le tsy mikama iereo te boak’an-tsena naho tsy mañalio vatañe, vaho tsiefa o raha rinambe’ iereo hambenañe, manahake ty sasa-fitovy naho valàñe vaho gorogoro torisìke)	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 001 042 Nindese’e mb’amy Iesoà mb’eo, le ie nivazoho Iesoà le nanoe’e ty hoe: Ihe ro Simona ana’ i Jaona. Hatao Kefasy irehe, toe: vato).	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(1/0)	049 EPH 003 003 ie nentoeñe le nampahafohineñe i raha mietakey (i sinokiko bòry teoy,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Aionian	(0/1)	049 EPH 003 004 ie vakie’ areo, ro mete maharendreke ty nioniko amy mietake amy Norizañeiy),	WARN
+Malagasy---Tandroy-Mahafaly-Bible	ENCLOSURES	Summary	lines	28 / 28	NOTICE
+
+# UNEXPECTED
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(`)	1/1	WARN
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Malagasy---Tandroy-Mahafaly-Bible	UNEXPECTED	Source/Aionian	Summary	1/1	WARN
+
+# NUMERALS
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 5:9 Ie niveloñe 90 taoñe t’i Enose le nisamake i Kanàne.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 5:10 Mifototse amy nisamahe’e i Kanàney le mbe niveloñe 815 taoñe t’i Enose vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 5:11 Aa le 905 taoñe o hene andro’ i Enose te nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 5:12 Ie niveloñe 70 taoñe t’i Kanàne le nisamake i Mahalalila.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 5:13 Mifototse amy nisamahe’e i Mahalalilay le mbe niveloñe 840 taoñe t’i Kanàne vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 5:14 Aa le 910 taoñe o hene andro’ i Kanàne te nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 5:15 Ie niveloñe 65 taoñe t’i Mahalalila le nisamake Ierede.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 5:16 Mifototse amy nisamahe’e Ieredey le mbe niveloñe 830 taoñe t’i Mahalalila le nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 5:17 Aa le 895 taoñe o hene andro’ i Mahalalila, vaho nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	2	GEN 5:18 Ie niveloñe 162 taoñe t’Ierede le nisamake i Kanoke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 5:19 Mifototse amy nisamahe’e i Kanokey le mbe niveloñe 800 taoñe t’Ierede vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	2	GEN 5:20 Aa le 962 taoñe o hene andro’ i Ierede te nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 5:21 Ie niveloñe 65 taoñe t’i Kanoke le nisamake i Metoselake.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 5:22 Mifototse amy nisamahe’e i Metoselakey le mbe nindre fañavelo aman’ Añahare 300 taoñe t’i Kanoke vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 5:23 Aa le 365 taoñe o hene andro’ i Kanoke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	7	GEN 5:25 Ie niveloñe 187 taoñe t’i Metoselake le nisamake i Lemeke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	2	GEN 5:26 Mifototse amy nisamahe’e i Lemekey le mbe niveloñe 782 taoñe t’i Metoselake vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	9	GEN 5:27 Aa le 969 taoñe o hene andro’ i Metoselake vaho nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	2	GEN 5:28 Ie niveloñe 182 taoñe t’i Lemeke le nisamake lahilahy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 5:30 Mifototse amy nisamaha’ i Nòakey le mbe niveloñe 595 taoñe t’i Lemeke vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	7	GEN 5:31 Aa le 777 taoñe o hene andro’ i Lemeke te nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 11:11 Ie nahatoly i Arpaksade t’i Seme le mbe niveloñe 500 taoñe nisamak’ ana-dahy naho anak’ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 11:12 Ie niveloñe 35 taoñe t’i Arpaksade le nisamake i Selake,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	3	GEN 11:13 ie nahatoly i Selake le mbe niveloñe 403 taoñe nisamak’ ana-dahy naho anak’ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 11:14 Ie niveloñe 30 taoñe t’i Selake le nisamake i Evre,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	3	GEN 11:15 ie nahatoly i Evre t’i Selake, le mbe niveloñe 403 taoñe nisamak’ ana-dahy naho anak’ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	4	GEN 11:16 Niveloñe 34 taoñe t’i Evre vaho nisamake i Pelege,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 11:17 ie ­nahatoly i Pelege t’i Evre le mbe nive­loñe 430 taoñe nisa­mak’ ana-dahy naho anak’ ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 11:18 Niveloñe 30 taoñe t’i Pelege vaho nisamake i Rehò,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	9	GEN 11:19 ie nahatoly i Rehò t’i Pelege le mbe niveloñe 209 taoñe nisamak’ ana-dahy naho anak’ ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	2	GEN 11:20 Niveloñe 32 taoñe t’i Rehò vaho nisamake i Seroge,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	7	GEN 11:21 ie nahatoly i Seroge t’i Rehò le niveloñe 207 taoñe nisamak’ ana-dahy naho anak’ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 11:22 Niveloñe 30 taoñe t’i Seroge vaho nisamake i Nakhore,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 11:23 aa naho nahatoly i Nakhore t’i Seroge le niveloñe 200 taoñe nisamak’ ana-dahy naho anak’ ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	9	GEN 11:24 Niveloñe 29 taoñe t’i Nakore te nisamake i Tèrake,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	9	GEN 11:25 aa naho nahatoly i Terake t’i Nakore le niveloñe 119 taoñe nisamak’ ana-dahy naho anak’ ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 11:26 Ie niveloñe 70 taoñe t’i Teràhke le nisamake i Avrame, naho i Nakhore, vaho i Kharane.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	5	GEN 11:32 Ty andro niveloma’ i Terahke le 205 taoñe. Nihomake e Kharane ao t’i Terahke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	8	GEN 14:14 Aa naho jinanji’ i Avrame te tsinepake i rahalahi’ey le kinoi’e o ajalahi’e 318 voa-oke, sinamake añ’akiba’eo vaho hinorìda’e pake Dane añe.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 23:15 O talèko, Inao ; mañeva 400 sekelem-bolafoty i taney, fa inon-jay añivon-tika? Aleveño i vilasi’oy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	GEN 23:16 Niantofa’ i Avrahame t’i Efrone le linanja’e amy Efrone i volafoty tsinara’e am-pijanjiña’ o nte-Kheteoy, i sekele volafoty 400 an-danjam-pandetake rey.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	EXO 12:41 Ie nimodo i 430 taoñe rezay amy andro zay, le hene nienga an-tane Mitsraime o lahiale’ Iehovà o.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	EXO 21:32 Naho mitomboke ondevo lahilahy ndra ampela ka i añombey le ampañavaheñe volafoty sekele 30 i tompo’ey vaho retsahem-bato i añombey.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	8	1CH 8:37 le nasama’ i Motsà t’i Bineà, ana’e t’i Rafà, ana’e t’i Ele­asà, ana’e t’i Atsele; 38Nanañ’ anadahy eneñe t’i Atsele: ty tahina’ iareo: i Azrikame, i Bokerò naho Ismaele naho i Searià naho i Obadià vaho i Kanàne, songa ana’ i Atsele.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	7	PSA 40:16 Hirebeke naho hifale ze mipay Azo, vaho hitolon-kanao ty hoe o mpitea i fandrombaha’oio: Onjoneñe t’Iehovà. 17 Aa kanao rarake naho misotry iraho, ee t’ie ho vetsevetse’ i Talè; Ihe ro mpañimba naho mpañaha ahy, ry Andrianañahareko; ko mihenekeneke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	1	PRO 16:27 Mikabo-draha t’i Beliale1, afo misolebotse ty am-pivimbi’e ao.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	9	ZEC 12:7 Ho rombahe’ Iehovà heike o kiboho’ Iehodao, soa tsy hitoabotse ambone’ Iehodà ty enge’ i anjomba’ i Davidey9 naho ty enge’ o mpimone’ Ierosalaimeo.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	9	MAT 13:33 Nitaroñe’e añ’ohatse ka ty hoe: I fifehean-dikerañey, le manahake ty lalivay19 najo’ ty rakemba ami’ty bom-bare telo fañaranañe ao vaho hene niazom-pamoà’e.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	6	REV 4:3 Hoe vato jaspy naho karneola5 i niambe­sa­tsey naho niarikatoke i fiam­besatsey ty àvañe hoe emarode6 te isaheñe.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	REV 7:5 O vinoli-tombok’ am-poko’ i Jodao, 12 000 vinilo am-poko’ i ­Robene: 12 000 vinilo am-poko’ i Gade: 12 000	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	REV 7:6 vinilo am-poko’ i Asere: 12 000 vinilo am-poko’ i Naftaly: 12 000 vinilo am-poko’ i Manasè: 12 000	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	REV 7:7 vinilo am-poko’ i Simeone: 12 000 vinilo am-poko’ i Levy: 12 000 vinilo am-poko’ ­Itsakare: 12 000	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	REV 7:8 vinilo am-poko’ i ­Zebolone: 12 000 vinilo’ am-poko’ ­Iosefe: 12 000 vinilo am-poko’i ­Beniamine: 12 000	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	0	REV 21:16 Nalahatse ho efa-mira i rovay vaho mira ty andava’e naho ty am-pohe’e. Zinehe’e amy kobaiy i rovay le 12 000 stadione, mira ty andava’e naho ty am-pohe’e vaho ty haabo’e.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Source	count	54	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Ie niveloñe 90 taoñe t’i Enose le nisamake i Kanàne.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	815	001-GEN-005-010 Mifototse amy nisamahe’e i Kanàney le mbe niveloñe 815 taoñe t’i Enose vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Aa le 905 taoñe o hene andro’ i Enose te nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Ie niveloñe 70 taoñe t’i Kanàne le nisamake i Mahalalila.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Mifototse amy nisamahe’e i Mahalalilay le mbe niveloñe 840 taoñe t’i Kanàne vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Aa le 910 taoñe o hene andro’ i Kanàne te nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Ie niveloñe 65 taoñe t’i Mahalalila le nisamake Ierede.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	830	001-GEN-005-016 Mifototse amy nisamahe’e Ieredey le mbe niveloñe 830 taoñe t’i Mahalalila le nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Aa le 895 taoñe o hene andro’ i Mahalalila, vaho nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Ie niveloñe 162 taoñe t’Ierede le nisamake i Kanoke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	800	001-GEN-005-019 Mifototse amy nisamahe’e i Kanokey le mbe niveloñe 800 taoñe t’Ierede vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Aa le 962 taoñe o hene andro’ i Ierede te nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Ie niveloñe 65 taoñe t’i Kanoke le nisamake i Metoselake.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	300	001-GEN-005-022 Mifototse amy nisamahe’e i Metoselakey le mbe nindre fañavelo aman’ Añahare 300 taoñe t’i Kanoke vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Aa le 365 taoñe o hene andro’ i Kanoke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Ie niveloñe 187 taoñe t’i Metoselake le nisamake i Lemeke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	782	001-GEN-005-026 Mifototse amy nisamahe’e i Lemekey le mbe niveloñe 782 taoñe t’i Metoselake vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Aa le 969 taoñe o hene andro’ i Metoselake vaho nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Ie niveloñe 182 taoñe t’i Lemeke le nisamake lahilahy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Mifototse amy nisamaha’ i Nòakey le mbe niveloñe 595 taoñe t’i Lemeke vaho nisamake lahilahy naho ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Aa le 777 taoñe o hene andro’ i Lemeke te nivilasy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	500	001-GEN-011-011 Ie nahatoly i Arpaksade t’i Seme le mbe niveloñe 500 taoñe nisamak’ ana-dahy naho anak’ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	35	001-GEN-011-012 Ie niveloñe 35 taoñe t’i Arpaksade le nisamake i Selake,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	403	001-GEN-011-013 ie nahatoly i Selake le mbe niveloñe 403 taoñe nisamak’ ana-dahy naho anak’ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	30	001-GEN-011-014 Ie niveloñe 30 taoñe t’i Selake le nisamake i Evre,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	403	001-GEN-011-015 ie nahatoly i Evre t’i Selake, le mbe niveloñe 403 taoñe nisamak’ ana-dahy naho anak’ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Niveloñe 34 taoñe t’i Evre vaho nisamake i Pelege,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	430	001-GEN-011-017 ie ­nahatoly i Pelege t’i Evre le mbe nive­loñe 430 taoñe nisa­mak’ ana-dahy naho anak’ ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Niveloñe 30 taoñe t’i Pelege vaho nisamake i Rehò,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	209	001-GEN-011-019 ie nahatoly i Rehò t’i Pelege le mbe niveloñe 209 taoñe nisamak’ ana-dahy naho anak’ ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Niveloñe 32 taoñe t’i Rehò vaho nisamake i Seroge,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	207	001-GEN-011-021 ie nahatoly i Seroge t’i Rehò le niveloñe 207 taoñe nisamak’ ana-dahy naho anak’ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	30	001-GEN-011-022 Niveloñe 30 taoñe t’i Seroge vaho nisamake i Nakhore,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	200	001-GEN-011-023 aa naho nahatoly i Nakhore t’i Seroge le niveloñe 200 taoñe nisamak’ ana-dahy naho anak’ ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Niveloñe 29 taoñe t’i Nakore te nisamake i Tèrake,	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	119	001-GEN-011-025 aa naho nahatoly i Terake t’i Nakore le niveloñe 119 taoñe nisamak’ ana-dahy naho anak’ ampela.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	70	001-GEN-011-026 Ie niveloñe 70 taoñe t’i Teràhke le nisamake i Avrame, naho i Nakhore, vaho i Kharane.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Ty andro niveloma’ i Terahke le 205 taoñe. Nihomake e Kharane ao t’i Terahke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Aa naho jinanji’ i Avrame te tsinepake i rahalahi’ey le kinoi’e o ajalahi’e 318 voa-oke, sinamake añ’akiba’eo vaho hinorìda’e pake Dane añe.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	400	001-GEN-023-015 O talèko, Inao; mañeva 400 sekelem-bolafoty i taney, fa inon-jay añivon-tika? Aleveño i vilasi’oy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	400	001-GEN-023-016 Niantofa’ i Avrahame t’i Efrone le linanja’e amy Efrone i volafoty tsinara’e am-pijanjiña’ o nte-Kheteoy, i sekele volafoty 400 an-danjam-pandetake rey.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	430	002-EXO-012-041 Ie nimodo i 430 taoñe rezay amy andro zay, le hene nienga an-tane Mitsraime o lahiale’ Iehovà o.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	30	002-EXO-021-032 Naho mitomboke ondevo lahilahy ndra ampela ka i añombey le ampañavaheñe volafoty sekele 30 i tompo’ey vaho retsahem-bato i añombey.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	38	013-1CH-008-037 le nasama’ i Motsà t’i Bineà, ana’e t’i Rafà, ana’e t’i Ele­asà, ana’e t’i Atsele; 38Nanañ’ anadahy eneñe t’i Atsele: ty tahina’ iareo: i Azrikame, i Bokerò naho Ismaele naho i Searià naho i Obadià vaho i Kanàne, songa ana’ i Atsele.	ERROR
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	17	019-PSA-040-016 Hirebeke naho hifale ze mipay Azo, vaho hitolon-kanao ty hoe o mpitea i fandrombaha’oio: Onjoneñe t’Iehovà. 17 Aa kanao rarake naho misotry iraho, ee t’ie ho vetsevetse’ i Talè; Ihe ro mpañimba naho mpañaha ahy, ry Andrianañahareko; ko mihenekeneke.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	1	020-PRO-016-027 Mikabo-draha t’i Beliale1, afo misolebotse ty am-pivimbi’e ao.	ERROR
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	9	038-ZEC-012-007 Ho rombahe’ Iehovà heike o kiboho’ Iehodao, soa tsy hitoabotse ambone’ Iehodà ty enge’ i anjomba’ i Davidey9 naho ty enge’ o mpimone’ Ierosalaimeo.	ERROR
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	19	040-MAT-013-033 Nitaroñe’e añ’ohatse ka ty hoe: I fifehean-dikerañey, le manahake ty lalivay19 najo’ ty rakemba ami’ty bom-bare telo fañaranañe ao vaho hene niazom-pamoà’e.	ERROR
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Ie fa nitroatse, le amy marain­dray loak’ andro’ i Sabotsey ro nisodehañe hey amy Miriame nte-Magdalà nandroaha’e koko­lam­pa fitoy.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	5	066-REV-004-003 Hoe vato jaspy naho karneola5 i niambe­sa­tsey naho niarikatoke i fiam­besatsey ty àvañe hoe emarode6 te isaheñe.	ERROR
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	12	066-REV-007-005 O vinoli-tombok’ am-poko’ i Jodao, 12 000 vinilo am-poko’ i ­Robene: 12 000 vinilo am-poko’ i Gade: 12 000	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	12	066-REV-007-006 vinilo am-poko’ i Asere: 12 000 vinilo am-poko’ i Naftaly: 12 000 vinilo am-poko’ i Manasè: 12 000	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	12	066-REV-007-007 vinilo am-poko’ i Simeone: 12 000 vinilo am-poko’ i Levy: 12 000 vinilo am-poko’ ­Itsakare: 12 000	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	12	066-REV-007-008 vinilo am-poko’ i ­Zebolone: 12 000 vinilo’ am-poko’ ­Iosefe: 12 000 vinilo am-poko’i ­Beniamine: 12 000	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	12	066-REV-021-016 Nalahatse ho efa-mira i rovay vaho mira ty andava’e naho ty am-pohe’e. Zinehe’e amy kobaiy i rovay le 12 000 stadione, mira ty andava’e naho ty am-pohe’e vaho ty haabo’e.	WARN
+Malagasy---Tandroy-Mahafaly-Bible	NUMERALS	Aionian	count	55	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME
