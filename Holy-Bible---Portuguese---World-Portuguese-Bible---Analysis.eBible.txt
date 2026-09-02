@@ -1,0 +1,508 @@
+# File Name: Holy-Bible---Holy-Bible---Portuguese---World-Portuguese-Bible---Analysis.txt
+# File Size: 52490       
+# File Date: 09/02/2026 04:48:50
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2026
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Bíblia Portuguesa Mundial
+# Bible Name English: World Portuguese Bible
+# Bible Language: Língua Portuguesa
+# Bible Language English: Portuguese
+# Bible Copyright Format: Creative Commons Attribution 4.0 International, 2018-2026
+# Bible Copyright Text: Public Domain
+# Bible Source: Revision of Free Holy Bible for the World
+# Bible Source Version: 8/19/2026
+# Bible Source Link: https://ebible.org/details.php?id=porbrbsl
+# Bible Source Year: 2024
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Portuguese---World-Portuguese-Bible	ENCODING	Source	Holy-Bible---Portuguese---World-Portuguese-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Portuguese---World-Portuguese-Bible	ENCODING	Aionian	Holy-Bible---Portuguese---World-Portuguese-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Portuguese---World-Portuguese-Bible	BYTES	Source	bytes / chars	5371951 / 5204648 (multi-byte)	NOTICE
+Portuguese---World-Portuguese-Bible	BYTES	Aionian	bytes / chars	4599674 / 4458595 (multi-byte)	NOTICE
+Portuguese---World-Portuguese-Bible	BYTES	SourceClean	bytes / chars	5371130 / 5203827 (multi-byte)	NOTICE
+Portuguese---World-Portuguese-Bible	BYTES	AionianClean	bytes / chars	4596122 / 4455074 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Portuguese---World-Portuguese-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Portuguese---World-Portuguese-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Portuguese---World-Portuguese-Bible	AIONIAN	Aionian	book-defined-not-exist	0	NOTICE
+Portuguese---World-Portuguese-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Portuguese---World-Portuguese-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Portuguese---World-Portuguese-Bible	AIONIAN	Aionian	aionian-verses	264	NOTICE
+Portuguese---World-Portuguese-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Portuguese---World-Portuguese-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Portuguese---World-Portuguese-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Portuguese---World-Portuguese-Bible	UNICODE	Summary	(-)Orginal	95	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Summary	(+)Aionian	96	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (G)	4269	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (E)	35989	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (N)	14990	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : ( )	913477	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (1)	37708	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (:)	47615	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (o)	412147	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (p)	83437	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (r)	243994	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (i)	193787	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (n)	156021	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (c)	107656	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (í)	8506	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (,)	77769	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (D)	11835	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (e)	487446	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (u)	176166	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (s)	337695	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (é)	17778	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (a)	436219	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (t)	145977	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (.)	45213	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (\n)	38058	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (2)	25433	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (A)	21511	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (m)	173995	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (f)	39096	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (v)	60313	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (z)	15395	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (b)	32995	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (d)	181429	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (á)	20901	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (g)	33838	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (3)	15067	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	General Punctuation : (“)	8835	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (H)	12543	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (j)	10610	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (l)	106191	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	General Punctuation : (”)	7306	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (h)	47233	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (4)	12821	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (q)	42223	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (5)	8815	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (à)	3114	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ã)	37287	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (6)	8038	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (7)	7252	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (x)	6149	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (;)	6897	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (8)	7017	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (9)	6758	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (Q)	3373	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ó)	6368	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ç)	15192	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (0)	6355	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (õ)	2213	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (S)	25095	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (-)	6664	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (F)	1577	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (À)	57	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ê)	13485	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (T)	6413	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (I)	8877	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (O)	20387	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (R)	13521	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ô)	1420	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (É)	326	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (U)	4566	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (P)	10392	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (C)	7598	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (V)	4277	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	General Punctuation : (‘)	1206	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	General Punctuation : (’)	1018	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (?)	3721	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (M)	11547	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	General Punctuation : (—)	469	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (L)	4002	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (Z)	2582	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (J)	12438	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (ú)	2018	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (B)	4133	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (()	220	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : ())	221	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (!)	2049	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (â)	686	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (X)	1223	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (Ó)	171	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (Á)	85	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (K)	2688	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Latin-1 Supplement: (Í)	11	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (`)	18	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (y)	110	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (W)	443	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : ([)	7	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source(-)	Basic Latin : (])	7	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	130579	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	42442	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	124392	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	3415	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	32493	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (N)	13592	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	334799	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	690961	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	65959	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	194940	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	155697	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	122990	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	86688	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (í)	6604	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	65387	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (D)	9616	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	394764	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	143805	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	274529	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (é)	14712	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	353694	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	116604	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	37359	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	31097	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	31087	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	17457	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	140118	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (f)	32084	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (v)	49349	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (z)	12800	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	26993	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	145996	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (á)	17776	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	26878	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	17181	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	8569	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	General Punctuation : (“)	8010	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	12244	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (j)	8408	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	87619	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	General Punctuation : (”)	6570	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	38936	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	20024	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (q)	34600	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	10272	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (à)	2545	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ã)	30903	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	10730	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	7446	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (x)	4723	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (;)	6286	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	7858	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	9295	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (Q)	2692	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ó)	4953	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ç)	11959	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (õ)	1676	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	20094	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	5216	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (F)	1268	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (À)	50	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ê)	11946	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	5224	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (I)	6707	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (O)	19238	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	11726	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ô)	1118	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (É)	291	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (U)	4452	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	9311	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (C)	7076	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	4008	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	General Punctuation : (‘)	1134	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	General Punctuation : (’)	948	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (?)	3283	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (M)	8661	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	General Punctuation : (—)	359	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	3611	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (Z)	2529	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	11155	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ú)	1605	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (B)	3363	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (()	561	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : ())	562	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	1757	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (â)	519	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (X)	1213	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (Ó)	86	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (Á)	54	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (K)	2687	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (Í)	4	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	124	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Basic Latin : (W)	7	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (G)	4269	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (E)	35989	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (N)	14990	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : ( )	913477	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (1)	37708	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (:)	47615	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (o)	412147	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (p)	83437	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (r)	243994	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (i)	193787	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (n)	156021	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (c)	107656	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (í)	8506	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (,)	77769	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (D)	11835	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (e)	487446	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (u)	176166	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (s)	337695	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (é)	17778	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (a)	436219	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (t)	145977	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (.)	45213	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (\n)	38058	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (2)	25433	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (A)	21511	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (m)	173995	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (f)	39096	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (v)	60313	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (z)	15395	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (b)	32995	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (d)	181429	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (á)	20901	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (g)	33838	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (3)	15067	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	General Punctuation : (“)	8835	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (H)	12543	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (j)	10610	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (l)	106191	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	General Punctuation : (”)	7306	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (h)	47233	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (4)	12821	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (q)	42223	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (5)	8815	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (à)	3114	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (ã)	37287	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (6)	8038	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (7)	7252	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (x)	6149	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (;)	6897	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (8)	7017	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (9)	6758	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (Q)	3373	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	6368	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (ç)	15192	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (0)	6355	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (õ)	2213	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (S)	25095	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (-)	6664	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (F)	1577	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (À)	57	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (ê)	13485	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (T)	6413	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (I)	8877	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (O)	20387	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (R)	13521	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (ô)	1420	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (É)	326	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (U)	4566	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (P)	10392	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (C)	7598	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (V)	4277	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	General Punctuation : (‘)	1206	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	General Punctuation : (’)	1018	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (?)	3721	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (M)	11547	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	General Punctuation : (—)	469	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (L)	4002	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (Z)	2582	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (J)	12438	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	2018	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (B)	4133	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (()	220	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : ())	221	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (')	1518	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (!)	2049	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (â)	686	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (X)	1223	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Ó)	171	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Á)	85	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (Y)	36	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (w)	161	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (k)	52	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (K)	2688	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Í)	11	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (`)	18	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Ê)	4	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Â)	2	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (y)	110	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (W)	443	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (ü)	3	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : ([)	7	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Basic Latin : (])	7	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Ô)	4	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Ã)	1	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Ç)	1	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Õ)	1	NOTICE
+Portuguese---World-Portuguese-Bible	UNICODE	Source	Latin-1 Supplement: (Ú)	1	NOTICE
+
+# VERSIFICATION
+Portuguese---World-Portuguese-Bible	VERSIFICATION	Aionian	missing	042-LUK-017-036	WARN
+Portuguese---World-Portuguese-Bible	VERSIFICATION	Aionian	missing	044-ACT-008-037	WARN
+Portuguese---World-Portuguese-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Portuguese---World-Portuguese-Bible	VERSIFICATION	Aionian	missing	044-ACT-024-007	WARN
+Portuguese---World-Portuguese-Bible	VERSIFICATION	Summary	missing	4	WARN
+Portuguese---World-Portuguese-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	()	220 / 221	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	[]	7 / 7	NOTICE
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	()	561 / 562	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	NUM 31:43 (ora, a metade da congregação foi de trezentas e trinta e sete mil e quinhentas ovelhas,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	NUM 31:46 e dezesseis mil pessoas),	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	DEU 2:10 (Os emins habitavam lá antes, um povo grande e numeroso, e alto como os anaquins.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	DEU 2:12 Os horeus também habitavam em Seir no passado, mas os filhos de Esaú os desapossaram. Eles os destruíram de diante de si e habitaram em seu lugar, assim como Israel fez com a terra da sua possessão, que o SENHOR lhes deu.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	DEU 2:20 (Essa também é considerada uma terra de refains. Os refains habitavam lá no passado, mas os amonitas os chamam de zanzumins,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	DEU 2:23 Quanto aos aveus, que habitavam em vilarejos até Gaza: os caftoreus, que saíram de Caftor, os destruíram e habitaram em seu lugar.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	DEU 3:13 e o restante de Gileade, e todo o Basã, o reino de Ogue, eu dei à meia tribo de Manassés — toda a região de Argobe, sim, todo o Basã. (Esta mesma é chamada a terra dos refains.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	DEU 3:14 Jair, filho de Manassés, tomou toda a região de Argobe, até a fronteira dos gesuritas e dos maacatitas, e as chamou, isto é, a Basã, pelo seu próprio nome, Havote-Jair, até o dia de hoje.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	DEU 10:6 (Os filhos de Israel viajaram de Beerote-Bene-Jaacã para Moserá. Lá Arão morreu, e lá foi sepultado; e Eleazar, seu filho, ministrou no ofício sacerdotal em seu lugar.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	DEU 10:9 Por isso, Levi não tem porção nem herança com seus irmãos; o SENHOR é a sua herança, conforme o SENHOR, o seu Deus, lhe falou.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	DEU 29:16 (pois vocês sabem como vivemos na terra do Egito, e como passamos pelo meio das nações pelas quais vocês transitaram;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	DEU 29:17 e vocês viram as suas abominações e os seus ídolos de madeira, pedra, prata e ouro, que havia entre eles);	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	JDG 9:17 (pois o meu pai lutou por vocês, arriscou a própria vida e os livrou das mãos de Midiã;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	JDG 9:18 mas vocês se levantaram contra a casa do meu pai no dia de hoje e mataram os seus filhos, setenta homens, sobre uma mesma pedra, e fizeram de Abimeleque, o filho da sua serva, rei sobre os líderes de Siquém, porque ele é seu irmão);	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	JDG 20:27 Os filhos de Israel consultaram o SENHOR (pois a arca da aliança de Deus estava ali naqueles dias,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	JDG 20:28 e Fineias, filho de Eleazar, filho de Arão, ministrava perante ela naqueles dias), dizendo: “Devo ainda sair novamente para lutar contra os filhos de Benjamim, meu irmão, ou devo parar?” O SENHOR disse: “Subam, pois amanhã eu os entregarei em suas mãos.”	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	2SA 4:2 O filho de Saul tinha dois homens que eram capitães de bandos de ataque. O nome de um era Baaná e o nome do outro era Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim (pois Beerote também é considerada parte de Benjamim;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	2SA 4:3 e os beerotitas fugiram para Gitaim, e têm vivido como estrangeiros ali até hoje).	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	1KI 12:2 Quando Jeroboão, filho de Nebate, ouviu isso (pois ele ainda estava no Egito, para onde tinha fugido da presença do rei Salomão, e Jeroboão morava no Egito;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	1KI 12:3 e eles mandaram chamá-lo), Jeroboão e toda a assembleia de Israel vieram e falaram a Roboão, dizendo:	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	1KI 18:3 Acabe chamou Obadias, que era o administrador do palácio. (Ora, Obadias temia muito ao SENHOR;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	1KI 18:4 pois quando Jezabel exterminou os profetas do SENHOR, Obadias pegou cem profetas e os escondeu, cinquenta em cada caverna, e os sustentou com pão e água.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	2KI 9:14 Assim Jeú, filho de Josafá, filho de Ninsi, conspirou contra Jorão. (Ora, Jorão estava defendendo Ramote-Gileade, ele e todo o Israel, por causa de Hazael, rei da Síria;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	2KI 9:15 mas o rei Jorão havia voltado para ser curado em Jezreel dos ferimentos que os sírios lhe haviam causado quando lutou contra Hazael, rei da Síria.) Jeú disse: “Se é isso que vocês pensam, então não deixem ninguém escapar e sair da cidade para ir contar isso em Jezreel.”	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	2KI 13:5 (O SENHOR deu a Israel um salvador, de modo que eles saíram de sob as mãos dos sírios; e os filhos de Israel habitaram em suas tendas como antes.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	2KI 13:6 Contudo, eles não se desviaram dos pecados da casa de Jeroboão, com os quais ele fez Israel pecar, mas andaram neles; e o poste de Aserá também permaneceu em Samaria.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	1CH 5:1 Os filhos de Rúben, o primogênito de Israel (pois ele era o primogênito, mas porque profanou o leito de seu pai, seu direito de primogenitura foi dado aos filhos de José, filho de Israel; de modo que a genealogia não é listada de acordo com a primogenitura.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	1CH 5:2 Pois Judá prevaleceu sobre seus irmãos, e dele veio o príncipe; mas a primogenitura foi de José) —	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	2CH 5:11 Quando os sacerdotes saíram do lugar santo (pois todos os sacerdotes que estavam presentes haviam se santificado, e não guardaram os seus turnos;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	2CH 5:12 também os levitas que eram cantores, todos eles, a saber, Asafe, Hemã, Jedutum, e seus filhos e seus irmãos, vestidos de linho fino, com címbalos, instrumentos de cordas e harpas, estavam em pé no lado leste do altar, e com eles cento e vinte sacerdotes tocando trombetas);	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	EST 1:13 Então o rei falou aos sábios que conheciam os tempos (pois era costume do rei consultar aqueles que conheciam a lei e o direito;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	EST 1:14 e os mais próximos a ele eram Carsena, Setar, Admata, Társis, Meres, Marsena e Memucã, os sete príncipes da Pérsia e da Média, que viam a face do rei e ocupavam os primeiros lugares no reino),	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	JOB 15:18 (o que os sábios anunciaram, recebido de seus pais, e não o esconderam;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	JOB 15:19 aos quais somente a terra foi dada, e nenhum estrangeiro passou entre eles):	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	[1/0]	ESG 4:18 [Ele orou ao Senhor, lembrando todas as obras do Senhor.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	[0/1]	ESG 4:47 Ó Deus, que tens poder sobre tudo, ouve a voz dos desesperados e livra-nos das mãos dos que tramam o mal. Livra-me do meu medo.]	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	[1/0]	ESG 10:4 [Mardoqueu disse: “Estas coisas vieram de Deus.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	[0/1]	ESG 10:14 No quarto ano do reinado de Ptolomeu e Cleópatra, Dositeu, que dizia ser sacerdote e levita, e Ptolomeu, seu filho, trouxeram esta carta de Purim, a qual afirmavam ser autêntica, e que Lisímaco, filho de Ptolomeu, que estava em Jerusalém, havia traduzido.]	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	MAR 7:3 (Pois os fariseus e todos os judeus não comem sem lavar as mãos e os antebraços, apegando-se à tradição dos anciãos.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	MAR 7:4 Eles não comem quando vêm do mercado, a menos que se lavem, e há muitas outras coisas que receberam para guardar: lavagens de copos, jarros, vasilhas de bronze e camas.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	LUK 2:37 e era viúva de cerca de oitenta e quatro anos), a qual não se afastava do templo, adorando com jejuns e súplicas, de noite e de dia.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	ROM 2:14 (pois, quando os gentios, que não têm a lei, fazem por natureza o que a lei exige, eles, embora não tenham a lei, são lei para si mesmos,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	ROM 2:15 mostrando que a obra da lei está escrita em seus corações, enquanto a consciência deles também dá testemunho, e seus pensamentos ora os acusam, ora os defendem)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(1/0)	HEB 7:2 a quem também Abraão deu a décima parte de tudo (sendo primeiro, por interpretação, “rei de justiça”, e depois também “rei de Salém”, que significa “rei de paz”,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Source	(0/1)	HEB 7:3 sem pai, sem mãe, sem genealogia, não tendo princípio de dias nem fim de vida, mas feito semelhante ao Filho de Deus), permanece sacerdote continuamente.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	004 NUM 031 043 (ora, a metade da congregação foi de trezentas e trinta e sete mil e quinhentas ovelhas,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	004 NUM 031 046 e dezesseis mil pessoas),	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 010 (Os emins habitavam lá antes, um povo grande e numeroso, e alto como os anaquins.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 012 Os horeus também habitavam em Seir no passado, mas os filhos de Esaú os desapossaram. Eles os destruíram de diante de si e habitaram em seu lugar, assim como Israel fez com a terra da sua possessão, que o SENHOR lhes deu.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 002 020 (Essa também é considerada uma terra de refains. Os refains habitavam lá no passado, mas os amonitas os chamam de zanzumins,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 002 023 Quanto aos aveus, que habitavam em vilarejos até Gaza: os caftoreus, que saíram de Caftor, os destruíram e habitaram em seu lugar.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 003 013 e o restante de Gileade, e todo o Basã, o reino de Ogue, eu dei à meia tribo de Manassés — toda a região de Argobe, sim, todo o Basã. (Esta mesma é chamada a terra dos refains.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 003 014 Jair, filho de Manassés, tomou toda a região de Argobe, até a fronteira dos gesuritas e dos maacatitas, e as chamou, isto é, a Basã, pelo seu próprio nome, Havote-Jair, até o dia de hoje.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 010 006 (Os filhos de Israel viajaram de Beerote-Bene-Jaacã para Moserá. Lá Arão morreu, e lá foi sepultado; e Eleazar, seu filho, ministrou no ofício sacerdotal em seu lugar.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 010 009 Por isso, Levi não tem porção nem herança com seus irmãos; o SENHOR é a sua herança, conforme o SENHOR, o seu Deus, lhe falou.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	005 DEU 029 016 (pois vocês sabem como vivemos na terra do Egito, e como passamos pelo meio das nações pelas quais vocês transitaram;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	005 DEU 029 017 e vocês viram as suas abominações e os seus ídolos de madeira, pedra, prata e ouro, que havia entre eles);	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 009 017 (pois o meu pai lutou por vocês, arriscou a própria vida e os livrou das mãos de Midiã;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 009 018 mas vocês se levantaram contra a casa do meu pai no dia de hoje e mataram os seus filhos, setenta homens, sobre uma mesma pedra, e fizeram de Abimeleque, o filho da sua serva, rei sobre os líderes de Siquém, porque ele é seu irmão);	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	007 JDG 020 027 Os filhos de Israel consultaram o SENHOR (pois a arca da aliança de Deus estava ali naqueles dias,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	007 JDG 020 028 e Fineias, filho de Eleazar, filho de Arão, ministrava perante ela naqueles dias), dizendo: “Devo ainda sair novamente para lutar contra os filhos de Benjamim, meu irmão, ou devo parar?” O SENHOR disse: “Subam, pois amanhã eu os entregarei em suas mãos.”	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	010 2SA 004 002 O filho de Saul tinha dois homens que eram capitães de bandos de ataque. O nome de um era Baaná e o nome do outro era Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim (pois Beerote também é considerada parte de Benjamim;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	010 2SA 004 003 e os beerotitas fugiram para Gitaim, e têm vivido como estrangeiros ali até hoje).	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 012 002 Quando Jeroboão, filho de Nebate, ouviu isso (pois ele ainda estava no Egito, para onde tinha fugido da presença do rei Salomão, e Jeroboão morava no Egito;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 012 003 e eles mandaram chamá-lo), Jeroboão e toda a assembleia de Israel vieram e falaram a Roboão, dizendo:	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	011 1KI 018 003 Acabe chamou Obadias, que era o administrador do palácio. (Ora, Obadias temia muito ao SENHOR;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	011 1KI 018 004 pois quando Jezabel exterminou os profetas do SENHOR, Obadias pegou cem profetas e os escondeu, cinquenta em cada caverna, e os sustentou com pão e água.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 009 014 Assim Jeú, filho de Josafá, filho de Ninsi, conspirou contra Jorão. (Ora, Jorão estava defendendo Ramote-Gileade, ele e todo o Israel, por causa de Hazael, rei da Síria;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 009 015 mas o rei Jorão havia voltado para ser curado em Jezreel dos ferimentos que os sírios lhe haviam causado quando lutou contra Hazael, rei da Síria.) Jeú disse: “Se é isso que vocês pensam, então não deixem ninguém escapar e sair da cidade para ir contar isso em Jezreel.”	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	012 2KI 013 005 (O SENHOR deu a Israel um salvador, de modo que eles saíram de sob as mãos dos sírios; e os filhos de Israel habitaram em suas tendas como antes.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	012 2KI 013 006 Contudo, eles não se desviaram dos pecados da casa de Jeroboão, com os quais ele fez Israel pecar, mas andaram neles; e o poste de Aserá também permaneceu em Samaria.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	013 1CH 005 001 Os filhos de Rúben, o primogênito de Israel (pois ele era o primogênito, mas porque profanou o leito de seu pai, seu direito de primogenitura foi dado aos filhos de José, filho de Israel; de modo que a genealogia não é listada de acordo com a primogenitura.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	013 1CH 005 002 Pois Judá prevaleceu sobre seus irmãos, e dele veio o príncipe; mas a primogenitura foi de José) —	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	014 2CH 005 011 Quando os sacerdotes saíram do lugar santo (pois todos os sacerdotes que estavam presentes haviam se santificado, e não guardaram os seus turnos;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	014 2CH 005 012 também os levitas que eram cantores, todos eles, a saber, Asafe, Hemã, Jedutum, e seus filhos e seus irmãos, vestidos de linho fino, com címbalos, instrumentos de cordas e harpas, estavam em pé no lado leste do altar, e com eles cento e vinte sacerdotes tocando trombetas);	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	017 EST 001 013 Então o rei falou aos sábios que conheciam os tempos (pois era costume do rei consultar aqueles que conheciam a lei e o direito;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	017 EST 001 014 e os mais próximos a ele eram Carsena, Setar, Admata, Társis, Meres, Marsena e Memucã, os sete príncipes da Pérsia e da Média, que viam a face do rei e ocupavam os primeiros lugares no reino),	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	018 JOB 015 018 (o que os sábios anunciaram, recebido de seus pais, e não o esconderam;	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	018 JOB 015 019 aos quais somente a terra foi dada, e nenhum estrangeiro passou entre eles):	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	041 MAR 007 003 (Pois os fariseus e todos os judeus não comem sem lavar as mãos e os antebraços, apegando-se à tradição dos anciãos.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	041 MAR 007 004 Eles não comem quando vêm do mercado, a menos que se lavem, e há muitas outras coisas que receberam para guardar: lavagens de copos, jarros, vasilhas de bronze e camas.)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	042 LUK 002 037 e era viúva de cerca de oitenta e quatro anos), a qual não se afastava do templo, adorando com jejuns e súplicas, de noite e de dia.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	045 ROM 002 014 (pois, quando os gentios, que não têm a lei, fazem por natureza o que a lei exige, eles, embora não tenham a lei, são lei para si mesmos,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	045 ROM 002 015 mostrando que a obra da lei está escrita em seus corações, enquanto a consciência deles também dá testemunho, e seus pensamentos ora os acusam, ora os defendem)	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(1/0)	058 HEB 007 002 a quem também Abraão deu a décima parte de tudo (sendo primeiro, por interpretação, “rei de justiça”, e depois também “rei de Salém”, que significa “rei de paz”,	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Aionian	(0/1)	058 HEB 007 003 sem pai, sem mãe, sem genealogia, não tendo princípio de dias nem fim de vida, mas feito semelhante ao Filho de Deus), permanece sacerdote continuamente.	WARN
+Portuguese---World-Portuguese-Bible	ENCLOSURES	Summary	lines	45 / 41	WARN
+
+# UNEXPECTED
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(`)	18/0	WARN
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(*)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Portuguese---World-Portuguese-Bible	UNEXPECTED	Source/Aionian	Summary	18/0	WARN
+
+# NUMERALS
+Portuguese---World-Portuguese-Bible	NUMERALS	Source	2	JER 1:19 Eles lutarão contra você, mas não prevalecerão contra você; pois eu estou com você”, diz o SENHOR, “para livrá-lo.” Aqui está a tradução do capítulo 2 de Jeremias para o português brasileiro, seguindo rigorosamente as diretrizes e a formatação USFM exigidas:	WARN
+Portuguese---World-Portuguese-Bible	NUMERALS	Source	count	1	WARN
+Portuguese---World-Portuguese-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Ora, depois de ressuscitar de manhã cedo no primeiro dia da semana, ele apareceu primeiro a Maria Madalena, da qual havia expulsado sete demônios.	WARN
+Portuguese---World-Portuguese-Bible	NUMERALS	Aionian	count	1	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME
