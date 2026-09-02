@@ -1,0 +1,531 @@
+# File Name: Holy-Bible---Holy-Bible---Hre---Hre-Bible---Analysis.txt
+# File Size: 44553       
+# File Date: 09/02/2026 04:39:42
+# File Purpose: Supporting resource for the Aionian Bible project
+# File Location: https://resources.AionianBible.org
+# File Copyright: Creative Commons Attribution No Derivative Works 4.0, 2018-2026
+# File Generator: ABCMS (alpha)
+# File Accuracy: Contact publisher with corrections to file format or content
+# Publisher Name: Nainoia Inc
+# Publisher Contact: https://www.AionianBible.org/Publisher
+# Publisher Mission: https://www.AionianBible.org/Preface
+# Publisher Website: https://NAINOIA-INC.signedon.net
+# Publisher Facebook: https://www.Facebook.com/AionianBible
+# Bible Name: Hset Hadròeh
+# Bible Name English: Hre Bible
+# Bible Language: Hset
+# Bible Language English: Hre
+# Bible Copyright Format: Creative Commons Attribution ShareAlike 4.0 International, 2018-2026
+# Bible Copyright Text: Creative Commons Attribution ShareAlike 4.0
+# Bible Source: Baq Thi
+# Bible Source Version: 8/8/2026
+# Bible Source Link: https://ebible.org/details.php?id=hrebt
+# Bible Source Year: 2024
+#
+# Following are analyses of the source Bible text and the resulting Aionian Edition text.
+# Problems are noted and comparing past and updated analyses shows regressions and improvements.
+# Some analyses are relevant only to the Aionian Bible project and others are relevant to everyone.
+# Also note the Aionian Bible project reversifies to the KJV standard and reports variances.
+# Search for these words below: NOTICE, WARNING, and ERROR
+#
+
+BIBLE	ANALYSIS	CATEGORY	INPUT	RESULT	STATUS
+
+# ENCODING
+Hre---Hre-Bible	ENCODING	Source	Holy-Bible---Hre---Hre-Bible---Source-Edition.VPL.txt	UTF-8	NOTICE
+Hre---Hre-Bible	ENCODING	Aionian	Holy-Bible---Hre---Hre-Bible---Aionian-Edition.noia	UTF-8	NOTICE
+
+# FILE BYTES
+Hre---Hre-Bible	BYTES	Source	bytes / chars	1666997 / 1544544 (multi-byte)	NOTICE
+Hre---Hre-Bible	BYTES	Aionian	bytes / chars	1748954 / 1626285 (multi-byte)	NOTICE
+Hre---Hre-Bible	BYTES	SourceClean	bytes / chars	1666192 / 1543739 (multi-byte)	NOTICE
+Hre---Hre-Bible	BYTES	AionianClean	bytes / chars	1746706 / 1624065 (multi-byte)	NOTICE
+
+# AIONIAN VERSE COUNTS - LOOKING FOR 264
+Hre---Hre-Bible	AIONIAN	Aionian	book-not-exist	0	NOTICE
+Hre---Hre-Bible	AIONIAN	Aionian	book-exist-not-defined	0	NOTICE
+Hre---Hre-Bible	AIONIAN	Aionian	book-defined-not-exist	60	NOTICE
+Hre---Hre-Bible	AIONIAN	Aionian	missing-chapter	0	NOTICE
+Hre---Hre-Bible	AIONIAN	Aionian	missing-verse	0	NOTICE
+Hre---Hre-Bible	AIONIAN	Aionian	aionian-verses	204	NOTICE
+Hre---Hre-Bible	AIONIAN	Aionian	tested-verses	264	NOTICE
+
+# UNPRINTABLE
+Hre---Hre-Bible	UNPRINTABLE	Source	count	0	NOTICE
+Hre---Hre-Bible	UNPRINTABLE	Aionian	count	0	NOTICE
+
+# UNICODE
+Hre---Hre-Bible	UNICODE	Summary	(-)Orginal	50	NOTICE
+Hre---Hre-Bible	UNICODE	Summary	(+)Aionian	53	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (G)	1959	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (E)	4815	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : ( )	318421	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (1)	10868	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (:)	15023	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (a)	179490	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (m)	42980	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (o)	46520	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (c)	30204	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (p)	17909	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (l)	25125	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (n)	76452	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (h)	112562	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (b)	16488	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (r)	29949	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (g)	36420	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (t)	35496	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (e)	42194	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (.)	10573	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (\n)	11533	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (2)	7723	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (J)	6016	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (i)	60849	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (d)	25087	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (u)	22782	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (,)	22446	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (k)	28492	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (P)	3623	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (3)	4528	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (4)	3487	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (5)	2647	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (y)	6318	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (s)	6397	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (6)	2328	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (7)	2081	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (H)	3870	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (8)	1949	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (9)	1937	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (0)	1901	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (T)	4015	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (-)	1479	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (A)	5694	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (!)	818	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (L)	2609	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (S)	737	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (R)	1911	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (()	99	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : ())	99	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (V)	1258	NOTICE
+Hre---Hre-Bible	UNICODE	Source(-)	Basic Latin : (*)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (0)	49646	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (1)	13408	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (\t)	46116	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (G)	1971	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (E)	4813	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (a)	179689	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (m)	42987	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : ( )	295803	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (o)	46608	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (c)	30206	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (p)	17910	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (l)	25134	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (n)	76653	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (h)	112571	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (b)	16498	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (r)	29960	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (g)	36633	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (t)	35502	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (e)	42231	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (.)	10536	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (\n)	11528	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (2)	10282	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (J)	6015	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (i)	61095	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (d)	25103	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (u)	22784	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (,)	22453	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (k)	28493	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (P)	3628	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (3)	6335	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (:)	3492	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (4)	10850	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (5)	4307	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (y)	6332	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (s)	6510	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (6)	4204	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (7)	2379	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (H)	3881	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (8)	2415	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (9)	2200	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (T)	4016	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (-)	1478	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (A)	5701	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (!)	817	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (L)	2613	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (S)	741	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (R)	1909	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (()	304	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : ())	304	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Basic Latin : (V)	1256	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ē)	18	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Latin Extended-A : (ō)	168	NOTICE
+Hre---Hre-Bible	UNICODE	Aionian(+)	Latin-1 Supplement: (ï)	2	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (G)	1959	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (E)	4815	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (N)	1933	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : ( )	318421	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (1)	10868	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (:)	15023	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (B)	3315	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (a)	179490	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (x)	6172	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (è)	12483	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (m)	42980	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (o)	46520	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (c)	30204	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (p)	17909	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (l)	25125	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ì)	25453	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (n)	76452	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (h)	112562	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (b)	16488	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (r)	29949	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (q)	65347	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-A : (ŏ)	4774	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (g)	36420	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (t)	35496	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (e)	42194	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (.)	10573	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (\n)	11533	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (2)	7723	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (J)	6016	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ò)	14333	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (i)	60849	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ù)	15077	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (d)	25087	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (u)	22782	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (,)	22446	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (k)	28492	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (j)	11737	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (;)	1228	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (Y)	704	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (P)	3623	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (à)	18053	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (3)	4528	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (4)	3487	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (5)	2647	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (y)	6318	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (Q)	628	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (s)	6397	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (6)	2328	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-A : (đ)	6069	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (7)	2081	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (H)	3870	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (8)	1949	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (9)	1937	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (D)	634	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (w)	10379	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ê)	5900	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (0)	1901	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (T)	4015	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-B : (ƀ)	4389	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (È)	116	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ô)	9496	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (C)	5705	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (-)	1479	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (K)	2404	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (A)	5694	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (M)	5760	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (Ê)	623	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (W)	865	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (Ô)	58	NOTICE
+Hre---Hre-Bible	UNICODE	Source	General Punctuation : (“)	1098	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (Ì)	502	NOTICE
+Hre---Hre-Bible	UNICODE	Source	General Punctuation : (”)	901	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (!)	818	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (?)	1159	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-A : (Ŏ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (Ù)	175	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (L)	2609	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (S)	737	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (O)	3612	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (Ò)	13	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (R)	1911	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-B : (Ƀ)	515	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (()	99	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : ())	99	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-A : (Đ)	174	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (v)	27	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (X)	1386	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (U)	1195	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (I)	1034	NOTICE
+Hre---Hre-Bible	UNICODE	Source	General Punctuation : (…)	7	NOTICE
+Hre---Hre-Bible	UNICODE	Source	General Punctuation : (–)	9	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ạ)	3	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ộ)	11	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ế)	8	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-B : (ơ)	5	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (á)	8	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ừ)	4	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ề)	3	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-B : (ư)	15	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ỡ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ẹ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (V)	1258	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ã)	4	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ễ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ứ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ậ)	3	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ú)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ả)	3	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ố)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ự)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ỏ)	2	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ồ)	3	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ờ)	9	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ớ)	2	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ầ)	5	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ủ)	4	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ổ)	5	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ằ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ẫ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ở)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (Ấ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (í)	2	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-A : (ă)	2	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (â)	4	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ỉ)	2	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ẽ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ữ)	2	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ệ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ẻ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Basic Latin : (*)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (Ạ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ó)	3	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (À)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (é)	2	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended-A : (ũ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ử)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin Extended Additional : (ợ)	1	NOTICE
+Hre---Hre-Bible	UNICODE	Source	Latin-1 Supplement: (ý)	1	NOTICE
+
+# VERSIFICATION
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-005-019	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-008-019	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-011-011	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-011-012	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-011-013	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-011-014	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-012-005	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-015-011	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-018-008	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-023-004	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-023-006	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-023-014	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-024-065	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-036-016	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-041-054	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	001-GEN-045-006	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	002-EXO-007-010	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	002-EXO-008-032	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	002-EXO-011-010	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	002-EXO-012-051	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	003-LEV-014-050	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	003-LEV-024-011	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	003-LEV-026-003	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	003-LEV-026-004	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-005	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-020	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	003-LEV-027-030	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	040-MAT-018-011	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	040-MAT-023-014	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-044	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	041-MAR-009-046	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	042-LUK-023-017	WARN
+Hre---Hre-Bible	VERSIFICATION	Aionian	missing	044-ACT-015-034	WARN
+Hre---Hre-Bible	VERSIFICATION	Summary	missing	33	WARN
+Hre---Hre-Bible	VERSIFICATION	Summary	extra	0	NOTICE
+
+# ENCLOSURES
+Hre---Hre-Bible	ENCLOSURES	Source	()	99 / 99	NOTICE
+Hre---Hre-Bible	ENCLOSURES	Source	[]	0 / 0	NOTICE
+Hre---Hre-Bible	ENCLOSURES	Source	{}	0 / 0	NOTICE
+Hre---Hre-Bible	ENCLOSURES	Source	<>	0 / 0	NOTICE
+Hre---Hre-Bible	ENCLOSURES	Aionian	()	304 / 304	NOTICE
+Hre---Hre-Bible	ENCLOSURES	Aionian	[]	0 / 0	NOTICE
+Hre---Hre-Bible	ENCLOSURES	Aionian	\{\}	0 / 0	NOTICE
+Hre---Hre-Bible	ENCLOSURES	Aionian	<>	0 / 0	NOTICE
+Hre---Hre-Bible	ENCLOSURES	Source	(1/0)	EXO 9:31 (Jò aih qmau mat qnhòq sròc, briang qnang riang, dài qmau xam briang pòh hech dŏng;	WARN
+Hre---Hre-Bible	ENCLOSURES	Source	(0/1)	EXO 9:32 qmau mì xam qmau tìuh mat yeo clòe qnhòq sròc dài majah ùh hìaq pòh)	WARN
+Hre---Hre-Bible	ENCLOSURES	Source	(0/1)	JOH 5:4 majah qmang aih i moeq ƀình plình dùnh dùnh loh lai laq diac ta hlŏng aih, jò diac khoe lai laq, mangai leq loh ta hlŏng adroe, yac ka haq yinìq qmang leq dua brêh).	WARN
+Hre---Hre-Bible	ENCLOSURES	Source	(1/0)	JOH 6:1 Atìq ka aih toq biaq, Chuaq Jesus tŏc apah tau diac raxìq Galili, (nòe kô aih haqmai gùng Têbiriat,	WARN
+Hre---Hre-Bible	ENCLOSURES	Aionian	(1/0)	002 EXO 009 031 (Jò aih qmau mat qnhòq sròc, briang qnang riang, dài qmau xam briang pòh hech dŏng;	WARN
+Hre---Hre-Bible	ENCLOSURES	Aionian	(0/1)	002 EXO 009 032 qmau mì xam qmau tìuh mat yeo clòe qnhòq sròc dài majah ùh hìaq pòh)	WARN
+Hre---Hre-Bible	ENCLOSURES	Aionian	(0/1)	043 JOH 005 004 majah qmang aih i moeq ƀình plình dùnh dùnh loh lai laq diac ta hlŏng aih, jò diac khoe lai laq, mangai leq loh ta hlŏng adroe, yac ka haq yinìq qmang leq dua brêh).	WARN
+Hre---Hre-Bible	ENCLOSURES	Aionian	(1/0)	043 JOH 006 001 Atìq ka aih toq biaq, Chuaq Jesus tŏc apah tau diac raxìq Galili, (nòe kô aih haqmai gùng Têbiriat,	WARN
+Hre---Hre-Bible	ENCLOSURES	Summary	lines	4 / 4	NOTICE
+
+# UNEXPECTED
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(~)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(`)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(@)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(#)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	($)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(%)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(^)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(&)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(*)	1/0	WARN
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(_)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(+)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(=)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(|)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(\)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	(/)	0/0	NOTICE
+Hre---Hre-Bible	UNEXPECTED	Source/Aionian	Summary	1/0	WARN
+
+# NUMERALS
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:3 Jò Ađam khoe jah 130 hanam, haq i moeq toq kon calô tìah qmòe ka cla, haq yiniq am deh ka kon aih Sêt:	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:4 Atìq ka Ađam ha-uang ka Sêt, oe rìh tam jah 800 hrinh hanam, ha-uang tam kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:5 Qmang aih Ađam halình jah 930 hanam. Khoe aih hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 5:6 Sêt jah 105 hanam, ha-uang loh ka Ênoc.	WARN
+Hre---Hre-Bible	NUMERALS	Source	7	GEN 5:7 Atìq ka i Ênoc, haq oe rìh tam 807 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	2	GEN 5:8 Qmang aih Sêt halình jah 912 hanam, khoe aih haq cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:9 Ênoc jah 90 hanam, ha-uang ka Kênan.	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 5:10 Atìq ka Ênoc ha-uang Kênan, oe rìh tam 815 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 5:11 Qmang aih Ênoc halình jah 905 hanam, khoe aih hi cachìt	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:12 Kênan jah 70 hanam, ha-uang Mahalale.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:13 Atìq ka ha-uang ka Mahalale, haq halình tam 840 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:14 Qmang aih, Kênan halình jah 910 hanam. Khoe aih hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 5:15 Mahalale jah 65 hanam ha-uang ka Jêret.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:16 Atìq ka ha-uang Jêret haq oe rìh tam 830 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 5:17 Qmang aih Mahalale rìh jah 895 hanam, khoe hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:18 Jêret jah 162 hanam ha-uang ka Hênoc, khoe aih rìh tam 800 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	2	GEN 5:20 Qmang aih Jêret rìh jah 962 hanam, khoe hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 5:21 Hênoc jah 65 hanam, ha-uang Mêtusêla.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:22 Atìq ha-uang ka Mêtusêla, Hênoc lam pajùm ti Boc plình 300 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 5:23 Qmang aih Hênoc rìh jah 365 hanam.	WARN
+Hre---Hre-Bible	NUMERALS	Source	7	GEN 5:25 Mêtusêla jah 187 hanam, ha-uang ka Lêmec.	WARN
+Hre---Hre-Bible	NUMERALS	Source	2	GEN 5:26 Jò Mêtu-sêla khoe ha-uang ka Lêmec, haq oe rìh tam 782 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	9	GEN 5:27 Qmang aih Mêtusêla rìh jah 969 hanam, khoe hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Source	2	GEN 5:28 Lêmec jah 182 hanam, ha-uang mòeq ngai kon calô,	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 5:30 Atìq ka Lêmec ha-uang ka Nô-ê, haq rìh tam 595 hanam ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	7	GEN 5:31 Qmang aih Lêmec rìh jah 777 hanam, khoe aih hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 5:32 Jò Nô-ê khoe jah 500 hanam, ha-uang Sem, Cham xam Japhet.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 6:3 Jêhowa doe: “Yiang da au ùh oe hloe ti kon mangai, majah qmang aih wì haq aih xech akia, qnhòng da wì haq jah 120 hanam raq.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 11:10 Sêlat jah 30 hanam, ha-uang ka Hêƀe.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 11:15 Atìq ka i Hêƀe. Sêlat oe rìh tam 430 hanam ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	4	GEN 11:16 Hêƀe jah 34 hanam, ha-uang ka Ƀêlec.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 11:17 Atìq ka i Ƀêlec, Hêƀe oe rìh tam 430 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 11:18 Ƀêlec jah 30, ha-uang ka Rêhu.	WARN
+Hre---Hre-Bible	NUMERALS	Source	9	GEN 11:19 Atìq ka i Rêhu, Ƀêlec rìh tam jah 209 hanam ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	2	GEN 11:20 Rêhu jah 32, ha-uang ka Sêruc.	WARN
+Hre---Hre-Bible	NUMERALS	Source	7	GEN 11:21 Atìq ka i Sêruc, Rêhu oe rìh tam jah 207 hanam ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	2	GEN 11:22 Sêruc jah 32 hanam, ha-uang ka Nacô.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	GEN 11:23 Atìq ka i Nacô, Sêruc oe rìh jah 200 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	9	GEN 11:24 Nacô 29 hanam, ha-uang ka Tharê,	WARN
+Hre---Hre-Bible	NUMERALS	Source	9	GEN 11:25 Atìq ka i Tharê, Nacô rìh jah 119 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	7	GEN 11:26 Tharê jah 27 hanam ha-uang ka Apram, Nacô, Haran.	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	GEN 11:32 Tharê halình jah 205 hanam, khoe aih hi cachìth ta Charan.	WARN
+Hre---Hre-Bible	NUMERALS	Source	8	GEN 14:14 Jò Apram hìa doe mon rađeh wì khoe rùp, haq ràih yŏc dèh 318 ngai ma ha-uang hnim ta hnim haq ƀài mangai ma khoe tàp yôt, đòeq hu hnan tiaq ƀài bùa aih trùh hloe ta taneh Đan.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	LEV 8:8 Hãy xem XuXh 28:30 Haq hadai bac am capiac bac rada rai pacap qmùt ta-aih urim xam thumim.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	LEV 19:36 Pì ep i kìq ma troq joq qnàng, plì kìq ma troq maneh, mòeq êpha qnàng, mòeq hin joq qnàng Ê-pha là một lường chừng 20 litres; hin là một phần sáu của ê-pha Au kô raq Jêhowa Boc Plình pì, Mangai ma khoe qnoh pì loh khoe ka Êdip.	WARN
+Hre---Hre-Bible	NUMERALS	Source	6	LEV 22:13 rai dèch tam ka Chuaq Jêhowa moeq ramènh xep broq xi baiq phàn mòeq jàt dàc habuàt i ùc dàu, broq ramènh bùh, i kan xua thùm ka Chuaq Jêhowa, xam mòeq phàn pôn hin alac, broq ramènh diac lŏc. Hãy xem LeLv 14:10 và LeLv 19:36.	WARN
+Hre---Hre-Bible	NUMERALS	Source	3	LEV 27:3 Tàng pì tình maneh jaq mangai calô pang baiq jàt trùh baiq jàt tadràu hanam, aih tình padam jàt siac lo ƀac, tiaq jaq siac lo nòe hadròeh Hãy xem XuXh 30:13	WARN
+Hre---Hre-Bible	NUMERALS	Source	5	ROM 5:6 Joq qmang aih, jò bèn oe raq ùh nac canèn, tiaq troq dèh jò ma SaSt 17:5 SaSt 15:5 pajaq adroe, Christ khoe cachìt am ka mangai i yiniq lui.	WARN
+Hre---Hre-Bible	NUMERALS	Source	2	ROM 8:37 Mahaq ùh xài, ta rìm yiniq aih bèn canòm ka Mangai ma loq waq ka bènThi Tv 44:22, đòeq jah blêq yeo hnau ka aih hòm.	WARN
+Hre---Hre-Bible	NUMERALS	Source	1	ROM 13:14 mahaq caxùnh yŏc Chuaq Jesus Christ rai apaq hèm đòeq chaq trong hu patìh ƀài bìac xech akia ma rahènh. XuXh 20:13-17 PhuDnl 5:17-21	WARN
+Hre---Hre-Bible	NUMERALS	Source	3	ROM 15:7 Qmang aih, oh daq drah đìh dabau, qmang ka Christ khoe đìh EsIs 45:23 oh daq, dôq Boc Plình jah kan ranhòm.	WARN
+Hre---Hre-Bible	NUMERALS	Source	1	2CO 7:10 LeLv 26:12; XuXh 29:45; Exe Ed 37:27; Gie Gr 31:1Majah qmang aih kan mangò tiaq manoh Boc Plình broq ka bèn loq raxach, kan raxach aràng bèn trùh kan dèch claih mahua yiang, trong aih ùh broq ka bèn ep rawòe, yàng kan mangò tiaq da crŏng taneh kô qnung bèn trùh ajang kan cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Source	1	2CO 7:14 Au khoe catèh ka Tit loq trùh pì oh daq, ùh i cleq au ma ep xep, EsIs 52:11majah qmang aih bàu nhèn ma anoe aih dìq joq qnàng, dài haq bàu nhèn ma capoch manè oh daq ka Tit aih dìq bàu joq qnàng.	WARN
+Hre---Hre-Bible	NUMERALS	Source	2	JAM 2:1 Theo nguyên-bổn tiếng Gờ-réc, trong câu nầy cũng nói “thử thách” được như trong câu 2, vì chữ nầy trong tiếng Gờ-réc có hai ý Oh daq da au, oh daq khoe lùi Chuaq Jesus Christ, aih Chuaq ranhòm qngah qngai da bèn, aih apaq loq waq ka tang ngai.	WARN
+Hre---Hre-Bible	NUMERALS	Source	1	2PE 2:22 Wì haq joq khoe wop qmang ka bàu alìah: Koq liah hlài dèh hac, chùa khoe dahùm èh catàm hlài ta tràp. ChCn 26:11	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 7:4 Au tàng, ƀài mangai majah pateo hadro aih jah: 144.000 ngai loh enh ƀài xinoe Isorali;	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 7:5 Enh xinoe Juđa jah: 12.000 ngai; Enh xinoe Rubên jah: 12.000 ngai; Enh xinoe Gat jah 12.000 ngai;	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 7:6 Enh xinoe Ase jah 12.000 ngai; Enh xinoe Neptali jah 12.000 ngai; Enh xinoe Manase jah 12.000 ngai;	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 7:7 Enh xinoe Sime-ôn jah 12.000 ngai; Enh xinoe Lêwi jah 12.000 ngai; Enh xinoe Ysaca jah 12.000 ngai.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 7:8 Enh xnoe Sabulôn jah 12.000 ngai; Enh xinoe Jôsep jah 12.000 ngai; Enh xinoe Bênjamin jah 12.000 ngai jah pateo hadro.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 11:3 Khoe èh au hi am cwìang itai deh ka wa baiq ngai ma lam anoe panhìn da au, wa aih caxùnh eo bai briang lam capoch bàu pajàu ta 1.260 hì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 12:6 Mangai gucadrì ti amot tanòe hawit, ta aih haq khoe i nòe Boc Plình palauq qmòeq, đòeq haq ban rađeh ta 1.260 hì.	WARN
+Hre---Hre-Bible	NUMERALS	Source	6	REV 13:18 Kan rabiaq oe ajang kô: Mangai leq ma loq, drah tình sôq da ngè rìh aih beq, majah qmang aih, sôq aih la sôq da mòeq ngai raq; sôq da haq aih la 666.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 14:1 Au ngan hnoq, Kon Trìu yòng ta wang Siôn, i 144000 mangai yòng ti haq, dìq i yiniq Kon Trìu xam yiniq Baq achìh ta ngòng wì haq.	WARN
+Hre---Hre-Bible	NUMERALS	Source	0	REV 14:3 wì calêu ƀoe calêu maneo enh ngèa ka Gèq bùa, enh ngèa ka pôn toq ngè rìh xam ƀài wì gucraq. Ùh i cabô loq ka ƀoe calêu aih enh gùng ka 144000 mangai ma khoe jah baxon yŏc hlài enh crŏng taneh.	WARN
+Hre---Hre-Bible	NUMERALS	Source	count	65	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	130	001-GEN-005-003 Jò Ađam khoe jah 130 hanam, haq i moeq toq kon calô tìah qmòe ka cla, haq yiniq am deh ka kon aih Sêt:	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	800	001-GEN-005-004 Atìq ka Ađam ha-uang ka Sêt, oe rìh tam jah 800 hrinh hanam, ha-uang tam kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	930	001-GEN-005-005 Qmang aih Ađam halình jah 930 hanam. Khoe aih hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	105	001-GEN-005-006 Sêt jah 105 hanam, ha-uang loh ka Ênoc.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	807	001-GEN-005-007 Atìq ka i Ênoc, haq oe rìh tam 807 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	912	001-GEN-005-008 Qmang aih Sêt halình jah 912 hanam, khoe aih haq cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	90	001-GEN-005-009 Ênoc jah 90 hanam, ha-uang ka Kênan.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	815	001-GEN-005-010 Atìq ka Ênoc ha-uang Kênan, oe rìh tam 815 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	905	001-GEN-005-011 Qmang aih Ênoc halình jah 905 hanam, khoe aih hi cachìt	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	70	001-GEN-005-012 Kênan jah 70 hanam, ha-uang Mahalale.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	840	001-GEN-005-013 Atìq ka ha-uang ka Mahalale, haq halình tam 840 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	910	001-GEN-005-014 Qmang aih, Kênan halình jah 910 hanam. Khoe aih hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	65	001-GEN-005-015 Mahalale jah 65 hanam ha-uang ka Jêret.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	830	001-GEN-005-016 Atìq ka ha-uang Jêret haq oe rìh tam 830 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	895	001-GEN-005-017 Qmang aih Mahalale rìh jah 895 hanam, khoe hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	162	001-GEN-005-018 Jêret jah 162 hanam ha-uang ka Hênoc, khoe aih rìh tam 800 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	962	001-GEN-005-020 Qmang aih Jêret rìh jah 962 hanam, khoe hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	65	001-GEN-005-021 Hênoc jah 65 hanam, ha-uang Mêtusêla.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	300	001-GEN-005-022 Atìq ha-uang ka Mêtusêla, Hênoc lam pajùm ti Boc plình 300 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	365	001-GEN-005-023 Qmang aih Hênoc rìh jah 365 hanam.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	187	001-GEN-005-025 Mêtusêla jah 187 hanam, ha-uang ka Lêmec.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	782	001-GEN-005-026 Jò Mêtu-sêla khoe ha-uang ka Lêmec, haq oe rìh tam 782 hanam, ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	969	001-GEN-005-027 Qmang aih Mêtusêla rìh jah 969 hanam, khoe hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	182	001-GEN-005-028 Lêmec jah 182 hanam, ha-uang mòeq ngai kon calô,	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	595	001-GEN-005-030 Atìq ka Lêmec ha-uang ka Nô-ê, haq rìh tam 595 hanam ha-uang kon calô kon cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	777	001-GEN-005-031 Qmang aih Lêmec rìh jah 777 hanam, khoe aih hi cachìt.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	500	001-GEN-005-032 Jò Nô-ê khoe jah 500 hanam, ha-uang Sem, Cham xam Japhet.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	120	001-GEN-006-003 Jêhowa doe: “Yiang da au ùh oe hloe ti kon mangai, majah qmang aih wì haq aih xech akia, qnhòng da wì haq jah 120 hanam raq.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	30	001-GEN-011-010 Sêlat jah 30 hanam, ha-uang ka Hêƀe.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	430	001-GEN-011-015 Atìq ka i Hêƀe. Sêlat oe rìh tam 430 hanam ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	34	001-GEN-011-016 Hêƀe jah 34 hanam, ha-uang ka Ƀêlec.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	430	001-GEN-011-017 Atìq ka i Ƀêlec, Hêƀe oe rìh tam 430 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	30	001-GEN-011-018 Ƀêlec jah 30, ha-uang ka Rêhu.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	209	001-GEN-011-019 Atìq ka i Rêhu, Ƀêlec rìh tam jah 209 hanam ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	32	001-GEN-011-020 Rêhu jah 32, ha-uang ka Sêruc.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	207	001-GEN-011-021 Atìq ka i Sêruc, Rêhu oe rìh tam jah 207 hanam ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	32	001-GEN-011-022 Sêruc jah 32 hanam, ha-uang ka Nacô.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	200	001-GEN-011-023 Atìq ka i Nacô, Sêruc oe rìh jah 200 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	29	001-GEN-011-024 Nacô 29 hanam, ha-uang ka Tharê,	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	119	001-GEN-011-025 Atìq ka i Tharê, Nacô rìh jah 119 hanam, ha-uang kon calô cadrì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	27	001-GEN-011-026 Tharê jah 27 hanam ha-uang ka Apram, Nacô, Haran.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	205	001-GEN-011-032 Tharê halình jah 205 hanam, khoe aih hi cachìth ta Charan.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	318	001-GEN-014-014 Jò Apram hìa doe mon rađeh wì khoe rùp, haq ràih yŏc dèh 318 ngai ma ha-uang hnim ta hnim haq ƀài mangai ma khoe tàp yôt, đòeq hu hnan tiaq ƀài bùa aih trùh hloe ta taneh Đan.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	28	003-LEV-008-008 Hãy xem XuXh 28:30 Haq hadai bac am capiac bac rada rai pacap qmùt ta-aih urim xam thumim.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	20	003-LEV-019-036 Pì ep i kìq ma troq joq qnàng, plì kìq ma troq maneh, mòeq êpha qnàng, mòeq hin joq qnàng Ê-pha là một lường chừng 20 litres; hin là một phần sáu của ê-pha Au kô raq Jêhowa Boc Plình pì, Mangai ma khoe qnoh pì loh khoe ka Êdip.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	14	003-LEV-022-013 rai dèch tam ka Chuaq Jêhowa moeq ramènh xep broq xi baiq phàn mòeq jàt dàc habuàt i ùc dàu, broq ramènh bùh, i kan xua thùm ka Chuaq Jêhowa, xam mòeq phàn pôn hin alac, broq ramènh diac lŏc. Hãy xem LeLv 14:10 và LeLv 19:36.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	30	003-LEV-027-003 Tàng pì tình maneh jaq mangai calô pang baiq jàt trùh baiq jàt tadràu hanam, aih tình padam jàt siac lo ƀac, tiaq jaq siac lo nòe hadròeh Hãy xem XuXh 30:13	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	16	041-MAR-016-009 (note: The most reliable and earliest manuscripts do not include Mark 16:9-20.) Chuaq Jesus khoe rìh hlài sroeh sroq oe ta hì baxèm gàu tuàng, angoe aih haq mahno rađeh ka Mari Mađolen, aih mangai haq ma khoe drùh qnoh tapèh toq kiac dù.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	17	045-ROM-005-006 Joq qmang aih, jò bèn oe raq ùh nac canèn, tiaq troq dèh jò ma SaSt 17:5 SaSt 15:5 pajaq adroe, Christ khoe cachìt am ka mangai i yiniq lui.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	44	045-ROM-008-037 Mahaq ùh xài, ta rìm yiniq aih bèn canòm ka Mangai ma loq waq ka bènThi Tv 44:22, đòeq jah blêq yeo hnau ka aih hòm.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	20	045-ROM-013-014 mahaq caxùnh yŏc Chuaq Jesus Christ rai apaq hèm đòeq chaq trong hu patìh ƀài bìac xech akia ma rahènh. XuXh 20:13-17 PhuDnl 5:17-21	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	45	045-ROM-015-007 Qmang aih, oh daq drah đìh dabau, qmang ka Christ khoe đìh EsIs 45:23 oh daq, dôq Boc Plình jah kan ranhòm.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	26	047-2CO-007-010 LeLv 26:12; XuXh 29:45; Exe Ed 37:27; Gie Gr 31:1Majah qmang aih kan mangò tiaq manoh Boc Plình broq ka bèn loq raxach, kan raxach aràng bèn trùh kan dèch claih mahua yiang, trong aih ùh broq ka bèn ep rawòe, yàng kan mangò tiaq da crŏng taneh kô qnung bèn trùh ajang kan cachìt.	ERROR
+Hre---Hre-Bible	NUMERALS	Aionian	52	047-2CO-007-014 Au khoe catèh ka Tit loq trùh pì oh daq, ùh i cleq au ma ep xep, EsIs 52:11majah qmang aih bàu nhèn ma anoe aih dìq joq qnàng, dài haq bàu nhèn ma capoch manè oh daq ka Tit aih dìq bàu joq qnàng.	ERROR
+Hre---Hre-Bible	NUMERALS	Aionian	2	059-JAM-002-001 Theo nguyên-bổn tiếng Gờ-réc, trong câu nầy cũng nói “thử thách” được như trong câu 2, vì chữ nầy trong tiếng Gờ-réc có hai ý Oh daq da au, oh daq khoe lùi Chuaq Jesus Christ, aih Chuaq ranhòm qngah qngai da bèn, aih apaq loq waq ka tang ngai.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	26	061-2PE-002-022 Wì haq joq khoe wop qmang ka bàu alìah: Koq liah hlài dèh hac, chùa khoe dahùm èh catàm hlài ta tràp. ChCn 26:11	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	144	066-REV-007-004 Au tàng, ƀài mangai majah pateo hadro aih jah: 144.000 ngai loh enh ƀài xinoe Isorali;	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	12	066-REV-007-005 Enh xinoe Juđa jah: 12.000 ngai; Enh xinoe Rubên jah: 12.000 ngai; Enh xinoe Gat jah 12.000 ngai;	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	12	066-REV-007-006 Enh xinoe Ase jah 12.000 ngai; Enh xinoe Neptali jah 12.000 ngai; Enh xinoe Manase jah 12.000 ngai;	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	12	066-REV-007-007 Enh xinoe Sime-ôn jah 12.000 ngai; Enh xinoe Lêwi jah 12.000 ngai; Enh xinoe Ysaca jah 12.000 ngai.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	12	066-REV-007-008 Enh xnoe Sabulôn jah 12.000 ngai; Enh xinoe Jôsep jah 12.000 ngai; Enh xinoe Bênjamin jah 12.000 ngai jah pateo hadro.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	1	066-REV-011-003 Khoe èh au hi am cwìang itai deh ka wa baiq ngai ma lam anoe panhìn da au, wa aih caxùnh eo bai briang lam capoch bàu pajàu ta 1.260 hì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	1	066-REV-012-006 Mangai gucadrì ti amot tanòe hawit, ta aih haq khoe i nòe Boc Plình palauq qmòeq, đòeq haq ban rađeh ta 1.260 hì.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	666	066-REV-013-018 Kan rabiaq oe ajang kô: Mangai leq ma loq, drah tình sôq da ngè rìh aih beq, majah qmang aih, sôq aih la sôq da mòeq ngai raq; sôq da haq aih la 666.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	144000	066-REV-014-001 Au ngan hnoq, Kon Trìu yòng ta wang Siôn, i 144000 mangai yòng ti haq, dìq i yiniq Kon Trìu xam yiniq Baq achìh ta ngòng wì haq.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	144000	066-REV-014-003 wì calêu ƀoe calêu maneo enh ngèa ka Gèq bùa, enh ngèa ka pôn toq ngè rìh xam ƀài wì gucraq. Ùh i cabô loq ka ƀoe calêu aih enh gùng ka 144000 mangai ma khoe jah baxon yŏc hlài enh crŏng taneh.	WARN
+Hre---Hre-Bible	NUMERALS	Aionian	count	66	WARN
+
+# CHECK DATA
+
+# COMPARE TEXT WITH VERSE CAPTIONS
+
+# RAWFIX CHANGES
+
+# SKIPPED
+
+# TALLIES
+
+# TEST WORDS
+
+# TEXT REPAIR
+
+# UNTRANSLATE COMPARE
+
+# UNTRANSLATE COUNT
+
+# UNTRANSLATE REVERSE
+
+# DONE THANK YOU AND YOU ARE WELCOME
